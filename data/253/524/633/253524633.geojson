@@ -1,0 +1,68 @@
+{
+  "id": 253524633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427041,39.092206,-84.427041,39.092206",
+    "geom:latitude":39.092206,
+    "geom:longitude":-84.427041,
+    "iso:country":"US",
+    "sg:address":"4670 Kellogg Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 321 1111",
+    "sg:postcode":"45226",
+    "sg:province":"OH",
+    "sg:tags":[
+        "marina",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946855,
+        102085439,
+        85868473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43FmqnVNrLTbeqAOSuG7bo_39.092206_-84.427041@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ce9904fcd0ebc1e6cde01b9cbc12cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946855,
+            "neighbourhood_id":85868473,
+            "region_id":85688641,
+            "venue_id":253524633
+        }
+    ],
+    "wof:id":253524633,
+    "wof:lastmodified":1449062799,
+    "wof:name":"Captains Cove Marine West",
+    "wof:parent_id":85868473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marina",
+        "operation"
+    ]
+},
+  "bbox": [-84.427041,39.092206,-84.427041,39.092206],
+  "geometry": {"coordinates":[-84.427041,39.092206],"type":"Point"}
+}

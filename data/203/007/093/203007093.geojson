@@ -1,0 +1,72 @@
+{
+  "id": 203007093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.678021,38.525888,-82.678021,38.525888",
+    "geom:latitude":38.525888,
+    "geom:longitude":-82.678021,
+    "iso:country":"US",
+    "sg:address":"1220 S 3rd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 533 1552",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "contract",
+        "under"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2if7LdgpkKuQFJwDTsJOZT_38.525888_-82.678021@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c34c07ba53700fcedd05d27702eb12c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":203007093
+        }
+    ],
+    "wof:id":203007093,
+    "wof:lastmodified":1449026516,
+    "wof:name":"Scott Chemical Co",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contract",
+        "under"
+    ]
+},
+  "bbox": [-82.678021,38.525888,-82.678021,38.525888],
+  "geometry": {"coordinates":[-82.678021,38.525888],"type":"Point"}
+}

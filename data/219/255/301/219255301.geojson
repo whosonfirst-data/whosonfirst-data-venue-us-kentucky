@@ -1,0 +1,68 @@
+{
+  "id": 219255301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.479931,39.132068,-84.479931,39.132068",
+    "geom:latitude":39.132068,
+    "geom:longitude":-84.479931,
+    "iso:country":"US",
+    "sg:address":"1346 Lincoln Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 861 2044",
+    "sg:postcode":"45206",
+    "sg:province":"OH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SnywavlNKA0YJYbEjPFbp_39.132068_-84.479931@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f55f819b62fadf696e170e9a137500a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873111,
+            "region_id":85688641,
+            "venue_id":219255301
+        }
+    ],
+    "wof:id":219255301,
+    "wof:lastmodified":1449072002,
+    "wof:name":"Lincoln Crawford Nursing Home",
+    "wof:parent_id":85873111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [-84.479931,39.132068,-84.479931,39.132068],
+  "geometry": {"coordinates":[-84.479931,39.132068],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 286561237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.688988,38.538479,-82.688988,38.538479",
+    "geom:latitude":38.538479,
+    "geom:longitude":-82.688988,
+    "iso:country":"US",
+    "sg:address":"304 N 2nd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 2282",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qckxqSu9zLTmasmu6Ipcp_38.538479_-82.688988@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd463a103495ece2689bed7bbcafd700",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":286561237
+        }
+    ],
+    "wof:id":286561237,
+    "wof:lastmodified":1449017267,
+    "wof:name":"Ironton Family Medical Centers",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [-82.688988,38.538479,-82.688988,38.538479],
+  "geometry": {"coordinates":[-82.688988,38.538479],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 269752935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427097,39.100758,-84.427097,39.100758",
+    "geom:latitude":39.100758,
+    "geom:longitude":-84.427097,
+    "iso:country":"US",
+    "sg:address":"4700 Airport Rd",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 871 2020",
+    "sg:postcode":"45226",
+    "sg:province":"OH",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946855,
+        102085439,
+        85868473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E4aFkrBGHnBr2MwIJbomn_39.100758_-84.427097@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"966f3149150f257b7abcfae3befd54c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946855,
+            "neighbourhood_id":85868473,
+            "region_id":85688641,
+            "venue_id":269752935
+        }
+    ],
+    "wof:id":269752935,
+    "wof:lastmodified":1449036532,
+    "wof:name":"Aviation Services Group Inc",
+    "wof:parent_id":85868473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [-84.427097,39.100758,-84.427097,39.100758],
+  "geometry": {"coordinates":[-84.427097,39.100758],"type":"Point"}
+}

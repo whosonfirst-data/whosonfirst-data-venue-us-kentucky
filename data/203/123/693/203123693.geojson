@@ -1,0 +1,68 @@
+{
+  "id": 203123693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.472419,39.131189,-84.472419,39.131189",
+    "geom:latitude":39.131189,
+    "geom:longitude":-84.472419,
+    "iso:country":"US",
+    "sg:address":"2923 Fairfield Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 421 8122",
+    "sg:postcode":"45206",
+    "sg:province":"OH",
+    "sg:tags":[
+        "automobile",
+        "customization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rw9ceICWmLkYBcXjN8ifo_39.131189_-84.472419@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"165d9846089b34647def9accb841e59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873111,
+            "region_id":85688641,
+            "venue_id":203123693
+        }
+    ],
+    "wof:id":203123693,
+    "wof:lastmodified":1449025472,
+    "wof:name":"Inchworm Industries Inc",
+    "wof:parent_id":85873111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customization"
+    ]
+},
+  "bbox": [-84.472419,39.131189,-84.472419,39.131189],
+  "geometry": {"coordinates":[-84.472419,39.131189],"type":"Point"}
+}

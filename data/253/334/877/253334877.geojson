@@ -1,0 +1,66 @@
+{
+  "id": 253334877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.476639,39.131485,-84.476639,39.131485",
+    "geom:latitude":39.131485,
+    "geom:longitude":-84.476639,
+    "iso:country":"US",
+    "sg:address":"2911 Woodburn Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 861 1153",
+    "sg:postcode":"45206",
+    "sg:province":"OH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f9tIPlKGeFChkQ6g8xt1d_39.131485_-84.476639@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac3802a301687a88cf5881fa527ea3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873111,
+            "region_id":85688641,
+            "venue_id":253334877
+        }
+    ],
+    "wof:id":253334877,
+    "wof:lastmodified":1449063678,
+    "wof:name":"Ameristop Food Mart",
+    "wof:parent_id":85873111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-84.476639,39.131485,-84.476639,39.131485],
+  "geometry": {"coordinates":[-84.476639,39.131485],"type":"Point"}
+}

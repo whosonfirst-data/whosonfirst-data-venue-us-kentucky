@@ -1,0 +1,75 @@
+{
+  "id": 169680989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.750224,37.57209,-85.750224,37.57209",
+    "geom:latitude":37.57209,
+    "geom:longitude":-85.750224,
+    "iso:country":"US",
+    "sg:address":"196 Lee Oak Dr",
+    "sg:city":"Hodgenville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 358 3531",
+    "sg:postcode":"42748",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946621,
+        102084581
+    ],
+    "wof:brand_id":420573755,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vAbwr5UyS4ay8q9cEzibo_37.572090_-85.750224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7de8fe6edd8712f38467b2a1f7137fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084581,
+            "locality_id":85946621,
+            "neighbourhood_id":-1,
+            "region_id":85688641,
+            "venue_id":169680989
+        }
+    ],
+    "wof:id":169680989,
+    "wof:lastmodified":1457207084,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.750224,
+    37.57209,
+    -85.750224,
+    37.57209
+],
+  "geometry": {"coordinates":[-85.750224,37.57209],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 269984819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495565,39.114845,-84.495565,39.114845",
+    "geom:latitude":39.114845,
+    "geom:longitude":-84.495565,
+    "iso:country":"US",
+    "sg:address":"953 Eden Park Dr",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 721 2787",
+    "sg:postcode":"45202",
+    "sg:province":"OH",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.cincinnatiartmuseum.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102085439,
+        85835433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KctiHJl8rnvJfSC5vVirA_39.114845_-84.495565@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0e9d3872266f40d9552ce5012253242",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":-1,
+            "neighbourhood_id":85835433,
+            "region_id":85688641,
+            "venue_id":269984819
+        }
+    ],
+    "wof:id":269984819,
+    "wof:lastmodified":1449037490,
+    "wof:name":"Cincinnati Art Museum Libr",
+    "wof:parent_id":85835433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [-84.495565,39.114845,-84.495565,39.114845],
+  "geometry": {"coordinates":[-84.495565,39.114845],"type":"Point"}
+}

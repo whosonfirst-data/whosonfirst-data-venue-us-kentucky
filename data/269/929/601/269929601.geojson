@@ -1,0 +1,66 @@
+{
+  "id": 269929601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.632334,38.730286,-82.632334,38.730286",
+    "geom:latitude":38.730286,
+    "geom:longitude":-82.632334,
+    "iso:country":"US",
+    "sg:address":"17004 State Rte 93",
+    "sg:city":"Pedro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 643 2509",
+    "sg:postcode":"45659",
+    "sg:province":"OH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cNgu5mmcNYJAO99UqNFQ2_38.730286_-82.632334@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fec1e42284295df0adaa27f8977ee211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":269929601
+        }
+    ],
+    "wof:id":269929601,
+    "wof:lastmodified":1449037065,
+    "wof:name":"Phillips' Grocery",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-82.632334,38.730286,-82.632334,38.730286],
+  "geometry": {"coordinates":[-82.632334,38.730286],"type":"Point"}
+}

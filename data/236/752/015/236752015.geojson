@@ -1,0 +1,69 @@
+{
+  "id": 236752015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.620108,39.080562,-84.620108,39.080562",
+    "geom:latitude":39.080562,
+    "geom:longitude":-84.620108,
+    "iso:country":"US",
+    "sg:address":"100 Anderson Ferry Rd",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 921 3766",
+    "sg:postcode":"45238",
+    "sg:province":"OH",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084481,
+        85803107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vZdoZN2crbo0CIwh6q0De_39.080562_-84.620108@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d7d65b55063f753c28f5d5c94eae42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084481,
+            "locality_id":-1,
+            "neighbourhood_id":85803107,
+            "region_id":85688641,
+            "venue_id":236752015
+        }
+    ],
+    "wof:id":236752015,
+    "wof:lastmodified":1449002089,
+    "wof:name":"Ted The Tileman",
+    "wof:parent_id":85803107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [-84.620108,39.080562,-84.620108,39.080562],
+  "geometry": {"coordinates":[-84.620108,39.080562],"type":"Point"}
+}

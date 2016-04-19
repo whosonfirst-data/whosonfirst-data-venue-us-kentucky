@@ -1,0 +1,67 @@
+{
+  "id": 186635253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.681284,38.529874,-82.681284,38.529874",
+    "geom:latitude":38.529874,
+    "geom:longitude":-82.681284,
+    "iso:country":"US",
+    "sg:address":"712 S 3rd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 1434",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:brand_id":420573815,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ae38pkv43zZpuWvwux9sg_38.529874_-82.681284@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ac5be96ba021bf04f06d5f0ee971e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":186635253
+        }
+    ],
+    "wof:id":186635253,
+    "wof:lastmodified":1457207515,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.681284,
+    38.529874,
+    -82.681284,
+    38.529874
+],
+  "geometry": {"coordinates":[-82.68128400000001,38.529874],"type":"Point"}
+}

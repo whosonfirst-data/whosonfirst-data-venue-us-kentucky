@@ -1,0 +1,67 @@
+{
+  "id": 202439629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.657372,38.516767,-82.657372,38.516767",
+    "geom:latitude":38.516767,
+    "geom:longitude":-82.657372,
+    "iso:country":"US",
+    "sg:address":"2602 S 12th St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 6126",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TKRrBiv9yYTS0l1cNguD3_38.516767_-82.657372@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"573051b3746b22b7e4c931b83d45790e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":202439629
+        }
+    ],
+    "wof:id":202439629,
+    "wof:lastmodified":1449060822,
+    "wof:name":"John C Paholsky",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-82.657372,38.516767,-82.657372,38.516767],
+  "geometry": {"coordinates":[-82.657372,38.516767],"type":"Point"}
+}

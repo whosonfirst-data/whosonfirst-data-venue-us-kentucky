@@ -1,0 +1,68 @@
+{
+  "id": 286579631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.717155,38.560534,-82.717155,38.560534",
+    "geom:latitude":38.560534,
+    "geom:longitude":-82.717155,
+    "iso:country":"US",
+    "sg:address":"164 State Rte 650",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 1144",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YsDhqCztMocAYZHvT7RNT_38.560534_-82.717155@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5218bc79acb1f8b1df702f7f78ed48e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":286579631
+        }
+    ],
+    "wof:id":286579631,
+    "wof:lastmodified":1449016117,
+    "wof:name":"BWC Trucking Co",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-82.717155,38.560534,-82.717155,38.560534],
+  "geometry": {"coordinates":[-82.717155,38.560534],"type":"Point"}
+}

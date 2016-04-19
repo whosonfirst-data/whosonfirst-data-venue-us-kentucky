@@ -1,0 +1,88 @@
+{
+  "id": 403925425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.056159,36.4203,-89.056159,36.4203",
+    "geom:latitude":36.4203,
+    "geom:longitude":-89.056159,
+    "iso:country":"US",
+    "sg:address":"313 E Florida Ave",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 3701",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "industrial",
+        "electric",
+        "contracting",
+        "commercial",
+        "sale",
+        "contractor",
+        "equipment",
+        "electrical"
+    ],
+    "sg:website":"www.vaughnelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o4vHPidO8qKPmDbSfQh67_36.420300_-89.056159@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84984384d0854a49145ade467aa66778",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":403925425
+        }
+    ],
+    "wof:id":403925425,
+    "wof:lastmodified":1449054640,
+    "wof:name":"Vaughn Electric Company Inc",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "industrial",
+        "electric",
+        "contracting",
+        "commercial",
+        "sale",
+        "contractor",
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [-89.056159,36.4203,-89.056159,36.4203],
+  "geometry": {"coordinates":[-89.056159,36.4203],"type":"Point"}
+}

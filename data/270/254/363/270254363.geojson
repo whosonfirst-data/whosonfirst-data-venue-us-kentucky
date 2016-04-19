@@ -1,0 +1,66 @@
+{
+  "id": 270254363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.481555,39.127151,-84.481555,39.127151",
+    "geom:latitude":39.127151,
+    "geom:longitude":-84.481555,
+    "iso:country":"US",
+    "sg:address":"1305 William Howard Taft Rd",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 751 3384",
+    "sg:postcode":"45206",
+    "sg:province":"OH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kfYVNrPqq3dT8xCH91xiB_39.127151_-84.481555@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"929cb871ba86cd4ff671cdbf9c743ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873111,
+            "region_id":85688641,
+            "venue_id":270254363
+        }
+    ],
+    "wof:id":270254363,
+    "wof:lastmodified":1449010349,
+    "wof:name":"Hewitt J Cooper DDS",
+    "wof:parent_id":85873111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-84.481555,39.127151,-84.481555,39.127151],
+  "geometry": {"coordinates":[-84.481555,39.127151],"type":"Point"}
+}

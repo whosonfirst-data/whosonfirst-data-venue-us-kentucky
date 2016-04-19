@@ -1,0 +1,68 @@
+{
+  "id": 337315985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.42606,39.090923,-84.42606,39.090923",
+    "geom:latitude":39.090923,
+    "geom:longitude":-84.42606,
+    "iso:country":"US",
+    "sg:address":"4601 Kellogg Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 533 3000",
+    "sg:postcode":"45226",
+    "sg:province":"OH",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946855,
+        102085439,
+        85868473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z7nrkGxgAAxZPupYKTMWA_39.090923_-84.426060@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aacd061731abe2fcecc4517de4c06b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946855,
+            "neighbourhood_id":85868473,
+            "region_id":85688641,
+            "venue_id":337315985
+        }
+    ],
+    "wof:id":337315985,
+    "wof:lastmodified":1449027697,
+    "wof:name":"Rivertowne Marina",
+    "wof:parent_id":85868473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [-84.42606,39.090923,-84.42606,39.090923],
+  "geometry": {"coordinates":[-84.42606,39.090923],"type":"Point"}
+}

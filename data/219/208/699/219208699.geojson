@@ -1,0 +1,68 @@
+{
+  "id": 219208699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.477663,39.125325,-84.477663,39.125325",
+    "geom:latitude":39.125325,
+    "geom:longitude":-84.477663,
+    "iso:country":"US",
+    "sg:address":"2530 Ingleside Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 281 7777",
+    "sg:postcode":"45206",
+    "sg:province":"OH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eyJU4XIQahO213orMeW3n_39.125325_-84.477663@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e6948a4b1551f4e61983bdd5faf3043",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873111,
+            "region_id":85688641,
+            "venue_id":219208699
+        }
+    ],
+    "wof:id":219208699,
+    "wof:lastmodified":1449070799,
+    "wof:name":"CSK Electric LLC",
+    "wof:parent_id":85873111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-84.477663,39.125325,-84.477663,39.125325],
+  "geometry": {"coordinates":[-84.477663,39.125325],"type":"Point"}
+}

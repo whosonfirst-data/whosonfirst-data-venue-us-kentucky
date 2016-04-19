@@ -1,0 +1,80 @@
+{
+  "id": 169684185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674602,38.188908,-85.674602,38.188908",
+    "geom:latitude":38.188908,
+    "geom:longitude":-85.674602,
+    "iso:country":"US",
+    "sg:address":"4300 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 2008",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RHxfz9kJBnMCPOUheorUs_38.188908_-85.674602@1294127441"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e30bd97b25c3af6f82c4e3a18ea09046",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":169684185
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":169684185
+        }
+    ],
+    "wof:id":169684185,
+    "wof:lastmodified":1449033510,
+    "wof:name":"Delta Electric Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-85.674602,38.188908,-85.674602,38.188908],
+  "geometry": {"coordinates":[-85.674602,38.188908],"type":"Point"}
+}

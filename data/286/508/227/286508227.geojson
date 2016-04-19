@@ -1,0 +1,69 @@
+{
+  "id": 286508227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.675903,38.522166,-82.675903,38.522166",
+    "geom:latitude":38.522166,
+    "geom:longitude":-82.675903,
+    "iso:country":"US",
+    "sg:address":"1612 S 2nd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 534 9210",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KpPWP2Nmh6vXKhB1pFg2w_38.522166_-82.675903@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4203be6fec42ee40079e8a5d3931430",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":286508227
+        }
+    ],
+    "wof:id":286508227,
+    "wof:lastmodified":1449016829,
+    "wof:name":"Tri State Restorations",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [-82.675903,38.522166,-82.675903,38.522166],
+  "geometry": {"coordinates":[-82.675903,38.522166],"type":"Point"}
+}

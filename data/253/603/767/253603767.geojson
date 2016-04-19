@@ -1,0 +1,65 @@
+{
+  "id": 253603767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.642426,38.502698,-82.642426,38.502698",
+    "geom:latitude":38.502698,
+    "geom:longitude":-82.642426,
+    "iso:country":"US",
+    "sg:address":"221 Lane St",
+    "sg:city":"Coal Grove",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 1533",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ioRqjz4VodjBhBeRAem2o_38.502698_-82.642426@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6bc08ff8181fc35932c386e6f637659",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":253603767
+        }
+    ],
+    "wof:id":253603767,
+    "wof:lastmodified":1449065311,
+    "wof:name":"Coal Grove Village Police Dept",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-82.642426,38.502698,-82.642426,38.502698],
+  "geometry": {"coordinates":[-82.642426,38.502698],"type":"Point"}
+}

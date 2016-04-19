@@ -1,0 +1,66 @@
+{
+  "id": 404173001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.057584,36.442013,-89.057584,36.442013",
+    "geom:latitude":36.442013,
+    "geom:longitude":-89.057584,
+    "iso:country":"US",
+    "sg:address":"1420 N 5th St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 3383",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XAEGbR2YduxgS5odj1wyc_36.442013_-89.057584@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a904a40d73767d5583d9f62f581413c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":404173001
+        }
+    ],
+    "wof:id":404173001,
+    "wof:lastmodified":1449039283,
+    "wof:name":"Volunteer Crane Svc",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [-89.057584,36.442013,-89.057584,36.442013],
+  "geometry": {"coordinates":[-89.057584,36.442013],"type":"Point"}
+}

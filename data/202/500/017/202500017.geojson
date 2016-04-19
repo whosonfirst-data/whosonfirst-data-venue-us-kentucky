@@ -1,0 +1,66 @@
+{
+  "id": 202500017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.732918,38.632124,-82.732918,38.632124",
+    "geom:latitude":38.632124,
+    "geom:longitude":-82.732918,
+    "iso:country":"US",
+    "sg:address":"7304 State Rte 650",
+    "sg:city":"Pedro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 533 1968",
+    "sg:postcode":"45659",
+    "sg:province":"OH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wM9lGi5aYdRqwGaFOkTES_38.632124_-82.732918@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"760d0dd8577dbf5feef256bc4c9c93e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":202500017
+        }
+    ],
+    "wof:id":202500017,
+    "wof:lastmodified":1449060753,
+    "wof:name":"K Heaberlin Painting",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-82.732918,38.632124,-82.732918,38.632124],
+  "geometry": {"coordinates":[-82.732918,38.632124],"type":"Point"}
+}

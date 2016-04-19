@@ -1,0 +1,71 @@
+{
+  "id": 186194183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.643344,39.097518,-84.643344,39.097518",
+    "geom:latitude":39.097518,
+    "geom:longitude":-84.643344,
+    "iso:country":"US",
+    "sg:address":"5999 Bender Rd",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 922 1440",
+    "sg:postcode":"45233",
+    "sg:province":"OH",
+    "sg:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084481,
+        85803107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FUeG10mnUB5sHlZlQGGjO_39.097518_-84.643344@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f00a3e3e69c8ae2f0ed70004fa71ac1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084481,
+            "locality_id":-1,
+            "neighbourhood_id":85803107,
+            "region_id":85688641,
+            "venue_id":186194183
+        }
+    ],
+    "wof:id":186194183,
+    "wof:lastmodified":1449052626,
+    "wof:name":"Riverview Nursing Community",
+    "wof:parent_id":85803107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ]
+},
+  "bbox": [-84.643344,39.097518,-84.643344,39.097518],
+  "geometry": {"coordinates":[-84.643344,39.097518],"type":"Point"}
+}

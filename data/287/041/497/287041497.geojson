@@ -1,0 +1,65 @@
+{
+  "id": 287041497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.666335,38.52077,-82.666335,38.52077",
+    "geom:latitude":38.52077,
+    "geom:longitude":-82.666335,
+    "iso:country":"US",
+    "sg:address":"2120 S 8th St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 2172",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ppbq7trWcFOGlP4Kpi2pt_38.520770_-82.666335@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16305646546c2a5468858ed0b467d671",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":287041497
+        }
+    ],
+    "wof:id":287041497,
+    "wof:lastmodified":1449000983,
+    "wof:name":"Well Child Clinic",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-82.666335,38.52077,-82.666335,38.52077],
+  "geometry": {"coordinates":[-82.666335,38.52077],"type":"Point"}
+}

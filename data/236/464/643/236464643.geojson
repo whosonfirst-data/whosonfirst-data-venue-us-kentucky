@@ -1,0 +1,74 @@
+{
+  "id": 236464643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.648763,38.501433,-82.648763,38.501433",
+    "geom:latitude":38.501433,
+    "geom:longitude":-82.648763,
+    "iso:country":"US",
+    "sg:address":"213 Marion Pike",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 532 5400",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cm1VSFqV4N81CHdxZoKuI_38.501433_-82.648763@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1fd4a7f50542edbf180abf51645a8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":236464643
+        }
+    ],
+    "wof:id":236464643,
+    "wof:lastmodified":1449002352,
+    "wof:name":"Coal Growth Pediatrics",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ]
+},
+  "bbox": [-82.648763,38.501433,-82.648763,38.501433],
+  "geometry": {"coordinates":[-82.648763,38.501433],"type":"Point"}
+}

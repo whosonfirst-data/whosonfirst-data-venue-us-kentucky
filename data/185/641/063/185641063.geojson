@@ -1,0 +1,68 @@
+{
+  "id": 185641063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428735,39.105457,-84.428735,39.105457",
+    "geom:latitude":39.105457,
+    "geom:longitude":-84.428735,
+    "iso:country":"US",
+    "sg:address":"500 Wilmer Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 871 0848",
+    "sg:postcode":"45226",
+    "sg:province":"OH",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946855,
+        102085439,
+        85868473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MWlIHdGp1dX5aWEAnOvsY_39.105457_-84.428735@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acf870841e3af76116a15677d2c6aa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946855,
+            "neighbourhood_id":85868473,
+            "region_id":85688641,
+            "venue_id":185641063
+        }
+    ],
+    "wof:id":185641063,
+    "wof:lastmodified":1449007838,
+    "wof:name":"Great American",
+    "wof:parent_id":85868473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [-84.428735,39.105457,-84.428735,39.105457],
+  "geometry": {"coordinates":[-84.428735,39.105457],"type":"Point"}
+}

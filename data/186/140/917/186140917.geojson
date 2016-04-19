@@ -1,0 +1,65 @@
+{
+  "id": 186140917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.675609,38.523147,-82.675609,38.523147",
+    "geom:latitude":38.523147,
+    "geom:longitude":-82.675609,
+    "iso:country":"US",
+    "sg:address":"1419 S 3rd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 533 3794",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084571,
+        85845133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RLltw8rDbMUjyRfJkVEIB_38.523147_-82.675609@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fed7d5bfe27a0667851eb0fed2e5f5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":-1,
+            "neighbourhood_id":85845133,
+            "region_id":85688641,
+            "venue_id":186140917
+        }
+    ],
+    "wof:id":186140917,
+    "wof:lastmodified":1449050756,
+    "wof:name":"Portsmith Ambulance Service",
+    "wof:parent_id":85845133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [-82.675609,38.523147,-82.675609,38.523147],
+  "geometry": {"coordinates":[-82.675609,38.523147],"type":"Point"}
+}

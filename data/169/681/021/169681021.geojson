@@ -1,0 +1,66 @@
+{
+  "id": 169681021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501762,38.057674,-84.501762,38.057674",
+    "geom:latitude":38.057674,
+    "geom:longitude":-84.501762,
+    "iso:country":"US",
+    "sg:address":"610 W 3rd St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 455 9934",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vhI46hkV4LACBYY48njTl_38.057674_-84.501762@1294127441"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75df640989a75a1f3e227e2eb3c50dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873079,
+            "region_id":85688641,
+            "venue_id":169681021
+        }
+    ],
+    "wof:id":169681021,
+    "wof:lastmodified":1449034703,
+    "wof:name":"Iron Horse Forge",
+    "wof:parent_id":85873079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [-84.501762,38.057674,-84.501762,38.057674],
+  "geometry": {"coordinates":[-84.501762,38.057674],"type":"Point"}
+}

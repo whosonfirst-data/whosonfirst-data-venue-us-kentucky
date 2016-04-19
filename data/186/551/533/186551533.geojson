@@ -1,0 +1,65 @@
+{
+  "id": 186551533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.624211,39.096344,-84.624211,39.096344",
+    "geom:latitude":39.096344,
+    "geom:longitude":-84.624211,
+    "iso:country":"US",
+    "sg:address":"430 Morrvue Dr",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 922 9138",
+    "sg:postcode":"45238",
+    "sg:province":"OH",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102084481,
+        85803107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RJoOcHINFsJMycvegq3nG_39.096344_-84.624211@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fa9602a7bcd42c6961eb56b7dce5afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084481,
+            "locality_id":-1,
+            "neighbourhood_id":85803107,
+            "region_id":85688641,
+            "venue_id":186551533
+        }
+    ],
+    "wof:id":186551533,
+    "wof:lastmodified":1449050944,
+    "wof:name":"5712 Glenway Inc",
+    "wof:parent_id":85803107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [-84.624211,39.096344,-84.624211,39.096344],
+  "geometry": {"coordinates":[-84.624211,39.096344],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 202687643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.496062,39.115357,-84.496062,39.115357",
+    "geom:latitude":39.115357,
+    "geom:longitude":-84.496062,
+    "iso:country":"US",
+    "sg:address":"655 Eden Park Dr",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 564 1600",
+    "sg:postcode":"45202",
+    "sg:province":"OH",
+    "sg:tags":[
+        "application",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        102085439,
+        85835433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DUPAsK6qATyr1Lee1keqq_39.115357_-84.496062@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bbcd09e94cfe13bb5193cfed2b65c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":-1,
+            "neighbourhood_id":85835433,
+            "region_id":85688641,
+            "venue_id":202687643
+        }
+    ],
+    "wof:id":202687643,
+    "wof:lastmodified":1449060832,
+    "wof:name":"Siebel Systems Inc",
+    "wof:parent_id":85835433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "software"
+    ]
+},
+  "bbox": [-84.496062,39.115357,-84.496062,39.115357],
+  "geometry": {"coordinates":[-84.496062,39.115357],"type":"Point"}
+}

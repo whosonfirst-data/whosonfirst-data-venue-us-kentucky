@@ -1,0 +1,68 @@
+{
+  "id": 202667095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.441148,39.116979,-84.441148,39.116979",
+    "geom:latitude":39.116979,
+    "geom:longitude":-84.441148,
+    "iso:country":"US",
+    "sg:address":"3405 Eastern Ave",
+    "sg:city":"Cincinnati",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 513 321 6984",
+    "sg:postcode":"45226",
+    "sg:province":"OH",
+    "sg:tags":[
+        "transporting",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946853,
+        102085439,
+        85873123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H8PSd5HUc5T3I21nPy5Gk_39.116979_-84.441148@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0525fafc21cc44aaed6a8913e95beb74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085439,
+            "locality_id":85946853,
+            "neighbourhood_id":85873123,
+            "region_id":85688641,
+            "venue_id":202667095
+        }
+    ],
+    "wof:id":202667095,
+    "wof:lastmodified":1449061741,
+    "wof:name":"Rich's Stern Drive & Marine",
+    "wof:parent_id":85873123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporting",
+        "boat"
+    ]
+},
+  "bbox": [-84.441148,39.116979,-84.441148,39.116979],
+  "geometry": {"coordinates":[-84.441148,39.116979],"type":"Point"}
+}

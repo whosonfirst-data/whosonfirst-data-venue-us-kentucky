@@ -1,0 +1,66 @@
+{
+  "id": 202807033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.683866,38.53327,-82.683866,38.53327",
+    "geom:latitude":38.53327,
+    "geom:longitude":-82.683866,
+    "iso:country":"US",
+    "sg:address":"319 S 3rd St",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 534 5606",
+    "sg:postcode":"45638",
+    "sg:province":"OH",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947303,
+        102084571,
+        85846445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mJQ8uH6jmGmX5eSSjlmCR_38.533270_-82.683866@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"381721012f8232445533ad26a5c53b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084571,
+            "locality_id":85947303,
+            "neighbourhood_id":85846445,
+            "region_id":85688641,
+            "venue_id":202807033
+        }
+    ],
+    "wof:id":202807033,
+    "wof:lastmodified":1449060763,
+    "wof:name":"Rent-2-Own",
+    "wof:parent_id":85846445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [-82.683866,38.53327,-82.683866,38.53327],
+  "geometry": {"coordinates":[-82.683866,38.53327],"type":"Point"}
+}
