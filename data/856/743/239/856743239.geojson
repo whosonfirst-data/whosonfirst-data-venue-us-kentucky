@@ -1,0 +1,83 @@
+{
+  "id": 856743239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631699,38.234539,-85.631699,38.234539",
+    "geom:latitude":38.234539,
+    "geom:longitude":-85.631699,
+    "iso:country":"US",
+    "sg:address":"4098 Dutchmans Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 625 1870",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ],
+    "sg:website":"http://www.syb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BWThaEOITmCLw6x9hOgTB_38.234539_-85.631699@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053503,
+    "wof:geomhash":"60ed2bffab3b83432b96c2de2c884607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856743239
+        }
+    ],
+    "wof:id":856743239,
+    "wof:lastmodified":1464053503,
+    "wof:name":"Stock Yards Bank & Trust Co",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ]
+},
+  "bbox": [
+    -85.631699,
+    38.234539,
+    -85.631699,
+    38.234539
+],
+  "geometry": {"coordinates":[-85.631699,38.234539],"type":"Point"}
+}

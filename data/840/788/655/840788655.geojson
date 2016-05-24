@@ -1,0 +1,75 @@
+{
+  "id": 840788655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.797287,38.149506,-85.797287,38.149506",
+    "geom:latitude":38.149506,
+    "geom:longitude":-85.797287,
+    "iso:country":"US",
+    "sg:address":"2019 Hillcircle Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 937 0495",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63obI5hYymg34ClOe3zGk0_38.149506_-85.797287@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047949,
+    "wof:geomhash":"278ce8eeee2d36c924853bd50d48f909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840788655
+        }
+    ],
+    "wof:id":840788655,
+    "wof:lastmodified":1464047949,
+    "wof:name":"Designer Built Homes",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.797287,
+    38.149506,
+    -85.797287,
+    38.149506
+],
+  "geometry": {"coordinates":[-85.797287,38.149506],"type":"Point"}
+}

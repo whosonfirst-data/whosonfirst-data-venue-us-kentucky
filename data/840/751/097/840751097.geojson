@@ -1,0 +1,73 @@
+{
+  "id": 840751097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.584282,37.060128,-88.584282,37.060128",
+    "geom:latitude":37.060128,
+    "geom:longitude":-88.584282,
+    "iso:country":"US",
+    "sg:address":"2146 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 9105",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gz6aC8xDBuvJWA5Qcxqme_37.060128_-88.584282@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047131,
+    "wof:geomhash":"1be259b876d8a34909c00c783f250e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840751097
+        }
+    ],
+    "wof:id":840751097,
+    "wof:lastmodified":1464047131,
+    "wof:name":"Sexton Brake Align & Front End",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.584282,
+    37.060128,
+    -88.584282,
+    37.060128
+],
+  "geometry": {"coordinates":[-88.584282,37.060128],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856740165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74725,38.245252,-85.74725,38.245252",
+    "geom:latitude":38.245252,
+    "geom:longitude":-85.74725,
+    "iso:country":"US",
+    "sg:address":"417 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 561 0722",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NLB5SvCYZeDLrzVrKBjLT_38.245252_-85.747250@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053382,
+    "wof:geomhash":"a3686cfee5fec9e94ab53e4e71e6e70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873403,
+            "region_id":85688641,
+            "venue_id":856740165
+        }
+    ],
+    "wof:id":856740165,
+    "wof:lastmodified":1464053382,
+    "wof:name":"East Louisville Community Ministry",
+    "wof:parent_id":85873403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -85.74725,
+    38.245252,
+    -85.74725,
+    38.245252
+],
+  "geometry": {"coordinates":[-85.74724999999999,38.245252],"type":"Point"}
+}

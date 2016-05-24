@@ -1,0 +1,69 @@
+{
+  "id": 840940553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.626685,37.022914,-84.626685,37.022914",
+    "geom:latitude":37.022914,
+    "geom:longitude":-84.626685,
+    "iso:country":"US",
+    "sg:address":"299 Heritage Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7598",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MsHXDwylt8QE4EmlQl3gZ_37.022914_-84.626685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051459,
+    "wof:geomhash":"46867260577fc6c1622a524ee60c0c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840940553
+        }
+    ],
+    "wof:id":840940553,
+    "wof:lastmodified":1464051459,
+    "wof:name":"Parkers Mill Fire Dept",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.626685,
+    37.022914,
+    -84.626685,
+    37.022914
+],
+  "geometry": {"coordinates":[-84.62668499999999,37.022914],"type":"Point"}
+}

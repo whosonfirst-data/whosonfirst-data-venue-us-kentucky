@@ -1,0 +1,73 @@
+{
+  "id": 840686213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.738016,36.605404,-83.738016,36.605404",
+    "geom:latitude":36.605404,
+    "geom:longitude":-83.738016,
+    "iso:country":"US",
+    "sg:address":"3513 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 5187",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08QjQbPfwNyH95xvj3agKu_36.605404_-83.738016@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045720,
+    "wof:geomhash":"55043710a7148bffaf3e3d71aceb3a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840686213
+        }
+    ],
+    "wof:id":840686213,
+    "wof:lastmodified":1464045720,
+    "wof:name":"Maria Hortillosa MD",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.738016,
+    36.605404,
+    -83.738016,
+    36.605404
+],
+  "geometry": {"coordinates":[-83.738016,36.605404],"type":"Point"}
+}

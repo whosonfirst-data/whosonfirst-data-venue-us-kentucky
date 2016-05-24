@@ -1,0 +1,74 @@
+{
+  "id": 856736381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422993,36.94516,-86.422993,36.94516",
+    "geom:latitude":36.94516,
+    "geom:longitude":-86.422993,
+    "iso:country":"US",
+    "sg:address":"2945 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/65396-cicis-pizza-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9299",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13q8ilt7erQnjeubbLed2U_36.945160_-86.422993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053237,
+    "wof:geomhash":"03d512473d09ab4dfe70b01e02d5cc8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736381
+        }
+    ],
+    "wof:id":856736381,
+    "wof:lastmodified":1464053237,
+    "wof:name":"CiCi's Pizza Buffet",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.422993,
+    36.94516,
+    -86.422993,
+    36.94516
+],
+  "geometry": {"coordinates":[-86.42299300000001,36.94516],"type":"Point"}
+}

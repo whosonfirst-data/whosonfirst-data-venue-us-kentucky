@@ -1,0 +1,71 @@
+{
+  "id": 840703349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.617805,37.075231,-84.617805,37.075231",
+    "geom:latitude":37.075231,
+    "geom:longitude":-84.617805,
+    "iso:country":"US",
+    "sg:address":"3370 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 4000",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jHeNicd8hiE21OIYgFUV0_37.075231_-84.617805@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046171,
+    "wof:geomhash":"917686040a3137e8303b63272f5691b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840703349
+        }
+    ],
+    "wof:id":840703349,
+    "wof:lastmodified":1464046171,
+    "wof:name":"Lake Cumberland Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.617805,
+    37.075231,
+    -84.617805,
+    37.075231
+],
+  "geometry": {"coordinates":[-84.617805,37.075231],"type":"Point"}
+}

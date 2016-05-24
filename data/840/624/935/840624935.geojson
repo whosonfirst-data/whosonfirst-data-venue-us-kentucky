@@ -1,0 +1,71 @@
+{
+  "id": 840624935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.973969,36.972797,-82.973969,36.972797",
+    "geom:latitude":36.972797,
+    "geom:longitude":-82.973969,
+    "iso:country":"US",
+    "sg:address":"2319 E Main St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 4862",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_518xQS5SUr151kFSFIDb3C_36.972797_-82.973969@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044293,
+    "wof:geomhash":"4288bd8f6b0b9998dfcddca54f54da73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840624935
+        }
+    ],
+    "wof:id":840624935,
+    "wof:lastmodified":1464044293,
+    "wof:name":"Bradford Square Apartments",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.973969,
+    36.972797,
+    -82.973969,
+    36.972797
+],
+  "geometry": {"coordinates":[-82.973969,36.972797],"type":"Point"}
+}

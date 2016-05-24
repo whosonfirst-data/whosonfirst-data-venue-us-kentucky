@@ -1,0 +1,73 @@
+{
+  "id": 856702767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.61261,37.093412,-88.61261,37.093412",
+    "geom:latitude":37.093412,
+    "geom:longitude":-88.61261,
+    "iso:country":"US",
+    "sg:address":"829 Burnett St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3720",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wqB3NE3RjCjwyoWgp25Me_37.093412_-88.612610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052123,
+    "wof:geomhash":"b15b840adf0f1c4ffb44d7d190343808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856702767
+        }
+    ],
+    "wof:id":856702767,
+    "wof:lastmodified":1464052123,
+    "wof:name":"CWI Of Kentucky",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -88.61261,
+    37.093412,
+    -88.61261,
+    37.093412
+],
+  "geometry": {"coordinates":[-88.61261,37.093412],"type":"Point"}
+}

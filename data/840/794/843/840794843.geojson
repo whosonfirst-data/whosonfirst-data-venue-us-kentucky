@@ -1,0 +1,73 @@
+{
+  "id": 840794843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.276897,37.736001,-84.276897,37.736001",
+    "geom:latitude":37.736001,
+    "geom:longitude":-84.276897,
+    "iso:country":"US",
+    "sg:address":"717 Big Hill Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 0750",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57HvRFWHDPOGC8mdeWbglo_37.736001_-84.276897@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048076,
+    "wof:geomhash":"76356c1c566732299d49f5bef7f25df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840794843
+        }
+    ],
+    "wof:id":840794843,
+    "wof:lastmodified":1464048076,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -84.276897,
+    37.736001,
+    -84.276897,
+    37.736001
+],
+  "geometry": {"coordinates":[-84.27689700000001,37.736001],"type":"Point"}
+}

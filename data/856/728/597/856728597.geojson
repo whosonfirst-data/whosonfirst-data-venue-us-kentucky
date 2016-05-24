@@ -1,0 +1,80 @@
+{
+  "id": 856728597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706423,38.252511,-85.706423,38.252511",
+    "geom:latitude":38.252511,
+    "geom:longitude":-85.706423,
+    "iso:country":"US",
+    "sg:address":"2120 Payne St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 9425",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "aged",
+        "convalescent",
+        "homes-institutional"
+    ],
+    "sg:website":"www.shvonline.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ndtECug1rKXUqqiGzV91U_38.252404_-85.706285@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052953,
+    "wof:geomhash":"c5e1c13bad31c02cd70a72c8df7d0c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":856728597
+        }
+    ],
+    "wof:id":856728597,
+    "wof:lastmodified":1464052953,
+    "wof:name":"Sacred Heart Village",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "aged",
+        "convalescent",
+        "homes-institutional"
+    ]
+},
+  "bbox": [
+    -85.706423,
+    38.252511,
+    -85.706423,
+    38.252511
+],
+  "geometry": {"coordinates":[-85.706423,38.252511],"type":"Point"}
+}

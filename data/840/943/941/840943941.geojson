@@ -1,0 +1,71 @@
+{
+  "id": 840943941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583913,37.837714,-87.583913,37.837714",
+    "geom:latitude":37.837714,
+    "geom:longitude":-87.583913,
+    "iso:country":"US",
+    "sg:address":"715 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0100",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76cQJ3dPIiJCKfaFf8MAMY_37.837714_-87.583913@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051532,
+    "wof:geomhash":"b42f939b9004c834e3c8dc81cf7ef782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840943941
+        }
+    ],
+    "wof:id":840943941,
+    "wof:lastmodified":1464051532,
+    "wof:name":"Ameri Spec Home Inspection Svc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -87.583913,
+    37.837714,
+    -87.583913,
+    37.837714
+],
+  "geometry": {"coordinates":[-87.583913,37.837714],"type":"Point"}
+}

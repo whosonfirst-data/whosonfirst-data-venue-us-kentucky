@@ -1,0 +1,89 @@
+{
+  "id": 856738117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.469574,38.325199,-85.469574,38.325199",
+    "geom:latitude":38.325199,
+    "geom:longitude":-85.469574,
+    "iso:country":"US",
+    "sg:address":"6540 W Highway 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 7166",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "accessory",
+        "part",
+        "transmissions-other",
+        "automobile",
+        "tune"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cHECFSMpfLk4lXRZQIk6b_38.325199_-85.469574@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053308,
+    "wof:geomhash":"25ed4f5dce1c2d70096009cd9c363bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856738117
+        }
+    ],
+    "wof:id":856738117,
+    "wof:lastmodified":1464053308,
+    "wof:name":"Certified Auto Transmissions",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "accessory",
+        "part",
+        "transmissions-other",
+        "automobile",
+        "tune"
+    ]
+},
+  "bbox": [
+    -85.469574,
+    38.325199,
+    -85.469574,
+    38.325199
+],
+  "geometry": {"coordinates":[-85.46957399999999,38.325199],"type":"Point"}
+}

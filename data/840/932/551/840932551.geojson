@@ -1,0 +1,71 @@
+{
+  "id": 840932551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.780687,37.737823,-85.780687,37.737823",
+    "geom:latitude":37.737823,
+    "geom:longitude":-85.780687,
+    "iso:country":"US",
+    "sg:address":"4420 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 9767",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d60NGW0lrYcs78ct0f4WP_37.737823_-85.780687@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051299,
+    "wof:geomhash":"dc7fde228ffae778ff4f7586e0c9c965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840932551
+        }
+    ],
+    "wof:id":840932551,
+    "wof:lastmodified":1464051299,
+    "wof:name":"Mark Allen Transportation Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.780687,
+    37.737823,
+    -85.780687,
+    37.737823
+],
+  "geometry": {"coordinates":[-85.780687,37.737823],"type":"Point"}
+}

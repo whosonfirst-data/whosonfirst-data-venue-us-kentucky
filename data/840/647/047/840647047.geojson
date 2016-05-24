@@ -1,0 +1,71 @@
+{
+  "id": 840647047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.707381,37.878843,-85.707381,37.878843",
+    "geom:latitude":37.878843,
+    "geom:longitude":-85.707381,
+    "iso:country":"US",
+    "sg:address":"282 Country Ln",
+    "sg:city":"Lebanon Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 833 4444",
+    "sg:postcode":"40150",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2frV72mzUx4LCvThIwnYB5_37.878843_-85.707381@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044821,
+    "wof:geomhash":"6ae45335c5305711827df17454fdd52e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840647047
+        }
+    ],
+    "wof:id":840647047,
+    "wof:lastmodified":1464044821,
+    "wof:name":"Donnies Roofing",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.707381,
+    37.878843,
+    -85.707381,
+    37.878843
+],
+  "geometry": {"coordinates":[-85.707381,37.878843],"type":"Point"}
+}

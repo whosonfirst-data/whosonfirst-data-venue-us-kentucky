@@ -1,0 +1,75 @@
+{
+  "id": 856717403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912414,36.995039,-85.912414,36.995039",
+    "geom:latitude":36.995039,
+    "geom:longitude":-85.912414,
+    "iso:country":"US",
+    "sg:address":"200 S Green St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 659 9928",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41MuMkZwgzIt2zCmnxrEnK_36.995039_-85.912414@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052483,
+    "wof:geomhash":"d44fb9e67bd4b691e5de3659b1478adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856717403
+        }
+    ],
+    "wof:id":856717403,
+    "wof:lastmodified":1464052483,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -85.912414,
+    36.995039,
+    -85.912414,
+    36.995039
+],
+  "geometry": {"coordinates":[-85.912414,36.995039],"type":"Point"}
+}

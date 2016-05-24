@@ -1,0 +1,68 @@
+{
+  "id": 840956527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.793557,38.249311,-85.793557,38.249311",
+    "geom:latitude":38.249311,
+    "geom:longitude":-85.793557,
+    "iso:country":"US",
+    "sg:address":"2500 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 5977",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19AtratuYAT68GJa4lHEeF_38.249311_-85.793557@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051770,
+    "wof:geomhash":"5375ffe1b860738083316448b595565b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840956527
+        }
+    ],
+    "wof:id":840956527,
+    "wof:lastmodified":1464051770,
+    "wof:name":"Whatever Shoes",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.793557,
+    38.249311,
+    -85.793557,
+    38.249311
+],
+  "geometry": {"coordinates":[-85.79355700000001,38.249311],"type":"Point"}
+}

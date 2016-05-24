@@ -1,0 +1,86 @@
+{
+  "id": 856742929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.655976,38.25365,-85.655976,38.25365",
+    "geom:latitude":38.25365,
+    "geom:longitude":-85.655976,
+    "iso:country":"US",
+    "sg:address":"3907 Chenoweth Sq",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 8930",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stone",
+        "designer",
+        "jeweler",
+        "precious",
+        "semi-precious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RNWxooioCXP2vLwUsordL_38.253650_-85.655976@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053491,
+    "wof:geomhash":"f0b8d42cb5ec5034dac66d9fd73c17a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856742929
+        }
+    ],
+    "wof:id":856742929,
+    "wof:lastmodified":1464053491,
+    "wof:name":"Bailen Jewelers",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "designer",
+        "jeweler",
+        "precious",
+        "semi-precious"
+    ]
+},
+  "bbox": [
+    -85.655976,
+    38.25365,
+    -85.655976,
+    38.25365
+],
+  "geometry": {"coordinates":[-85.655976,38.25365],"type":"Point"}
+}

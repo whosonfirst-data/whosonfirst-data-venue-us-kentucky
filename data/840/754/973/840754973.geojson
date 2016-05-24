@@ -1,0 +1,71 @@
+{
+  "id": 840754973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.335102,37.038246,-86.335102,37.038246",
+    "geom:latitude":37.038246,
+    "geom:longitude":-86.335102,
+    "iso:country":"US",
+    "sg:address":"7030 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8123",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j29bScUJzAeDkuE8CrT8p_37.038246_-86.335102@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047218,
+    "wof:geomhash":"df4923deb89aa31d504d6af0093538e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840754973
+        }
+    ],
+    "wof:id":840754973,
+    "wof:lastmodified":1464047218,
+    "wof:name":"Scotty's Warehousing & Distr",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -86.335102,
+    37.038246,
+    -86.335102,
+    37.038246
+],
+  "geometry": {"coordinates":[-86.33510200000001,37.038246],"type":"Point"}
+}

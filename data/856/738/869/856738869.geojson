@@ -1,0 +1,91 @@
+{
+  "id": 856738869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755082,38.253598,-85.755082,38.253598",
+    "geom:latitude":38.253598,
+    "geom:longitude":-85.755082,
+    "iso:country":"US",
+    "sg:address":"280 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 671 4246",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "style",
+        "family",
+        "cocktail",
+        "american",
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DPaVoJ8EKrtxiOx9Q6n9s_38.253598_-85.755082@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053337,
+    "wof:geomhash":"913cf2fc22fbba34dca2160bf81f455a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856738869
+        }
+    ],
+    "wof:id":856738869,
+    "wof:lastmodified":1464053337,
+    "wof:name":"Champions Sports Bar & Restaurant",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "cocktail",
+        "american",
+        "brew"
+    ]
+},
+  "bbox": [
+    -85.755082,
+    38.253598,
+    -85.755082,
+    38.253598
+],
+  "geometry": {"coordinates":[-85.755082,38.253598],"type":"Point"}
+}

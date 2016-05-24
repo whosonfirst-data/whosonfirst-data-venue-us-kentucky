@@ -1,0 +1,66 @@
+{
+  "id": 840535343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.153155,37.51421,-82.153155,37.51421",
+    "geom:latitude":37.51421,
+    "geom:longitude":-82.153155,
+    "iso:country":"US",
+    "sg:address":"13886 Phelps 632 Rd",
+    "sg:city":"Freeburn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 4808",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gc6TFrA0QNr69fXr3q5w1_37.514210_-82.153155@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042100,
+    "wof:geomhash":"7bb797745a5018330248c08b56cf5fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840535343
+        }
+    ],
+    "wof:id":840535343,
+    "wof:lastmodified":1464042100,
+    "wof:name":"Justine's Flowers & Gifts",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.153155,
+    37.51421,
+    -82.153155,
+    37.51421
+],
+  "geometry": {"coordinates":[-82.153155,37.51421],"type":"Point"}
+}

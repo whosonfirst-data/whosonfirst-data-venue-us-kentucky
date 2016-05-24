@@ -1,0 +1,73 @@
+{
+  "id": 840549485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.406082,36.914575,-86.406082,36.914575",
+    "geom:latitude":36.914575,
+    "geom:longitude":-86.406082,
+    "iso:country":"US",
+    "sg:address":"5966 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0988",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l33FWVGWD7UMp4ncBmCiY_36.914575_-86.406082@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042497,
+    "wof:geomhash":"6d47c6f2808049a67139eeb7c51ff8b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840549485
+        }
+    ],
+    "wof:id":840549485,
+    "wof:lastmodified":1464042497,
+    "wof:name":"Guitar Academy-Bowling Green",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -86.406082,
+    36.914575,
+    -86.406082,
+    36.914575
+],
+  "geometry": {"coordinates":[-86.406082,36.914575],"type":"Point"}
+}

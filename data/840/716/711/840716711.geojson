@@ -1,0 +1,71 @@
+{
+  "id": 840716711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.675016,37.027399,-88.675016,37.027399",
+    "geom:latitude":37.027399,
+    "geom:longitude":-88.675016,
+    "iso:country":"US",
+    "sg:address":"3770 Jenn Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 534 8841",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40WjMcmYbkqjufAqGNCtPq_37.027399_-88.675016@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046434,
+    "wof:geomhash":"fb1bc0202ea68b7ed9b162f42814cd76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840716711
+        }
+    ],
+    "wof:id":840716711,
+    "wof:lastmodified":1464046434,
+    "wof:name":"David Wood Appliance Svc",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -88.675016,
+    37.027399,
+    -88.675016,
+    37.027399
+],
+  "geometry": {"coordinates":[-88.675016,37.027399],"type":"Point"}
+}

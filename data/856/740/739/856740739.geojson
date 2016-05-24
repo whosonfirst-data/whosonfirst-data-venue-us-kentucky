@@ -1,0 +1,80 @@
+{
+  "id": 856740739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.778542,38.256199,-85.778542,38.256199",
+    "geom:latitude":38.256199,
+    "geom:longitude":-85.778542,
+    "iso:country":"US",
+    "sg:address":"1701 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 0160",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-pentecostal-independent",
+        "churches-pentecostal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hflgtLhzZ3TqntJghXjTS_38.256199_-85.778542@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053415,
+    "wof:geomhash":"ce694c62e6ef143f7d2e330b5dd756b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856740739
+        }
+    ],
+    "wof:id":856740739,
+    "wof:lastmodified":1464053415,
+    "wof:name":"Grace Temple Church",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-pentecostal-independent",
+        "churches-pentecostal"
+    ]
+},
+  "bbox": [
+    -85.778542,
+    38.256199,
+    -85.778542,
+    38.256199
+],
+  "geometry": {"coordinates":[-85.778542,38.256199],"type":"Point"}
+}

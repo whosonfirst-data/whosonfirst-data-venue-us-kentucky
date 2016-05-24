@@ -1,0 +1,73 @@
+{
+  "id": 840877431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.619916,37.127263,-84.619916,37.127263",
+    "geom:latitude":37.127263,
+    "geom:longitude":-84.619916,
+    "iso:country":"US",
+    "sg:address":"2966 State Hwy 1247",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 9988",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiokrekRNqdLb7eWrf8Lu_37.127263_-84.619916@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050013,
+    "wof:geomhash":"f85d55410285f629b300f508018e8196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840877431
+        }
+    ],
+    "wof:id":840877431,
+    "wof:lastmodified":1464050013,
+    "wof:name":"B J D's Auto Repair Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.619916,
+    37.127263,
+    -84.619916,
+    37.127263
+],
+  "geometry": {"coordinates":[-84.619916,37.127263],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840896247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.343111,37.027177,-86.343111,37.027177",
+    "geom:latitude":37.027177,
+    "geom:longitude":-86.343111,
+    "iso:country":"US",
+    "sg:address":"491 Kelly Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0663",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31C0r01QH0Ie3cd7Yu0Mqv_37.027177_-86.343111@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050412,
+    "wof:geomhash":"bdc419f404efd3a99cfb5192331691b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840896247
+        }
+    ],
+    "wof:id":840896247,
+    "wof:lastmodified":1464050412,
+    "wof:name":"Kingston Heights Apartments",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.343111,
+    37.027177,
+    -86.343111,
+    37.027177
+],
+  "geometry": {"coordinates":[-86.34311099999999,37.027177],"type":"Point"}
+}

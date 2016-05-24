@@ -1,0 +1,72 @@
+{
+  "id": 840569549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.359386,38.375499,-85.359386,38.375499",
+    "geom:latitude":38.375499,
+    "geom:longitude":-85.359386,
+    "iso:country":"US",
+    "sg:address":"2416 S Hwy 53",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 5827",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.htlc-lagrange.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qByZruvFUfIsbWKwtbUJy_38.375499_-85.359386@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042970,
+    "wof:geomhash":"c90930b67b32dd4f3ab9b4108904c7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840569549
+        }
+    ],
+    "wof:id":840569549,
+    "wof:lastmodified":1464042970,
+    "wof:name":"Holy Trinity Lutheran Church",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.359386,
+    38.375499,
+    -85.359386,
+    38.375499
+],
+  "geometry": {"coordinates":[-85.359386,38.375499],"type":"Point"}
+}

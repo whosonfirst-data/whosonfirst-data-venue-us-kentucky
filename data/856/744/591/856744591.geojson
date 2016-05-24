@@ -1,0 +1,74 @@
+{
+  "id": 856744591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7087,38.170812,-85.7087,38.170812",
+    "geom:latitude":38.170812,
+    "geom:longitude":-85.7087,
+    "iso:country":"US",
+    "sg:address":"1203 Kremer Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 9001",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"http://hudson-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63u7aSEaj5ugOZii8Sllq4_38.170812_-85.708700@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053550,
+    "wof:geomhash":"84ad8d1210749089b82b870434eefeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744591
+        }
+    ],
+    "wof:id":856744591,
+    "wof:lastmodified":1464053550,
+    "wof:name":"Hudson Electric",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.7087,
+    38.170812,
+    -85.7087,
+    38.170812
+],
+  "geometry": {"coordinates":[-85.70869999999999,38.170812],"type":"Point"}
+}

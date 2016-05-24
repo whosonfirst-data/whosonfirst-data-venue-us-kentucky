@@ -1,0 +1,75 @@
+{
+  "id": 840801193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709714,38.23216,-85.709714,38.23216",
+    "geom:latitude":38.23216,
+    "geom:longitude":-85.709714,
+    "iso:country":"US",
+    "sg:address":"1450 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 3315",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R2QnmdVubDEsmIu0NxqJI_38.232160_-85.709714@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048227,
+    "wof:geomhash":"c5298459d2639e4a08d6314973f06b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":840801193
+        }
+    ],
+    "wof:id":840801193,
+    "wof:lastmodified":1464048227,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.709714,
+    38.23216,
+    -85.709714,
+    38.23216
+],
+  "geometry": {"coordinates":[-85.70971400000001,38.23216],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840575983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.837444,37.668812,-85.837444,37.668812",
+    "geom:latitude":37.668812,
+    "geom:longitude":-85.837444,
+    "iso:country":"US",
+    "sg:address":"1057 Greenway Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4864",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A27qHNjpqfyzqqIbItzMY_37.668812_-85.837444@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043123,
+    "wof:geomhash":"c917a64e85a3f8cabfde215cb12bf1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840575983
+        }
+    ],
+    "wof:id":840575983,
+    "wof:lastmodified":1464043123,
+    "wof:name":"Grimes Painting",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.837444,
+    37.668812,
+    -85.837444,
+    37.668812
+],
+  "geometry": {"coordinates":[-85.837444,37.668812],"type":"Point"}
+}

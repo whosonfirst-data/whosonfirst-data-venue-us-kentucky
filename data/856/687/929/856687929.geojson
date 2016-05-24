@@ -1,0 +1,69 @@
+{
+  "id": 856687929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.626064,37.047538,-84.626064,37.047538",
+    "geom:latitude":37.047538,
+    "geom:longitude":-84.626064,
+    "iso:country":"US",
+    "sg:address":"3475 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3913",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XRUmqfv2n8kOw8SVG6A2Y_37.047538_-84.626064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051822,
+    "wof:geomhash":"6e3dd6f38175f0d521f64f5ceaaee085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856687929
+        }
+    ],
+    "wof:id":856687929,
+    "wof:lastmodified":1464051822,
+    "wof:name":"Kentucky Hardwood Lumber Co",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -84.626064,
+    37.047538,
+    -84.626064,
+    37.047538
+],
+  "geometry": {"coordinates":[-84.626064,37.047538],"type":"Point"}
+}

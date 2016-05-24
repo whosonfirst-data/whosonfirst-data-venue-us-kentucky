@@ -1,0 +1,67 @@
+{
+  "id": 856761733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.634855,37.058742,-88.634855,37.058742",
+    "geom:latitude":37.058742,
+    "geom:longitude":-88.634855,
+    "iso:country":"US",
+    "sg:address":"435 Berger Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 538 4000",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:website":"http://www.mccracken.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_424PkG0vbLXnnnGsmb2VVf_37.058742_-88.634855@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054186,
+    "wof:geomhash":"52a5b68fa19b96f17a606805fecc462a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761733
+        }
+    ],
+    "wof:id":856761733,
+    "wof:lastmodified":1464054186,
+    "wof:name":"McCracken County Public Schools",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.634855,
+    37.058742,
+    -88.634855,
+    37.058742
+],
+  "geometry": {"coordinates":[-88.634855,37.058742],"type":"Point"}
+}

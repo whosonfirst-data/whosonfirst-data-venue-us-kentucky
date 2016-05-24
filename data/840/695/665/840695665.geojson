@@ -1,0 +1,73 @@
+{
+  "id": 840695665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.363584,37.023018,-86.363584,37.023018",
+    "geom:latitude":37.023018,
+    "geom:longitude":-86.363584,
+    "iso:country":"US",
+    "sg:address":"5297 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 4998",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZC6fnk3dOPXqu1tm8TFLo_37.023018_-86.363584@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045965,
+    "wof:geomhash":"3015590a67243dd26685153c73a25812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840695665
+        }
+    ],
+    "wof:id":840695665,
+    "wof:lastmodified":1464045965,
+    "wof:name":"Northfield Acres",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.363584,
+    37.023018,
+    -86.363584,
+    37.023018
+],
+  "geometry": {"coordinates":[-86.363584,37.023018],"type":"Point"}
+}

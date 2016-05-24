@@ -1,0 +1,71 @@
+{
+  "id": 840765775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.548756,37.007593,-86.548756,37.007593",
+    "geom:latitude":37.007593,
+    "geom:longitude":-86.548756,
+    "iso:country":"US",
+    "sg:address":"6650 Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9385",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GOgLqmxDv11GBeZWXE4KR_37.007593_-86.548756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047469,
+    "wof:geomhash":"01bfbb8968fbd38995c47857d99ef3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840765775
+        }
+    ],
+    "wof:id":840765775,
+    "wof:lastmodified":1464047469,
+    "wof:name":"Woodman of World Lf Insur Soc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -86.548756,
+    37.007593,
+    -86.548756,
+    37.007593
+],
+  "geometry": {"coordinates":[-86.548756,37.007593],"type":"Point"}
+}

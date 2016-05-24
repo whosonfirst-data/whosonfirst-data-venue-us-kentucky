@@ -1,0 +1,73 @@
+{
+  "id": 840592201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.572414,37.036457,-88.572414,37.036457",
+    "geom:latitude":37.036457,
+    "geom:longitude":-88.572414,
+    "iso:country":"US",
+    "sg:address":"3233 Estes Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 1555",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WMDd3xuOIFnq8jEuVyWsC_37.036457_-88.572414@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043471,
+    "wof:geomhash":"0c556dc59ec1bf3a329c9e0cc7aad933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840592201
+        }
+    ],
+    "wof:id":840592201,
+    "wof:lastmodified":1464043471,
+    "wof:name":"Select Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.572414,
+    37.036457,
+    -88.572414,
+    37.036457
+],
+  "geometry": {"coordinates":[-88.57241399999999,37.036457],"type":"Point"}
+}

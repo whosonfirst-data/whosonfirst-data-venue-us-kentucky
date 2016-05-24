@@ -1,0 +1,73 @@
+{
+  "id": 840579755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.662792,37.03761,-88.662792,37.03761",
+    "geom:latitude":37.03761,
+    "geom:longitude":-88.662792,
+    "iso:country":"US",
+    "sg:address":"2929 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 7304",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FawVicN0B2zwxlRghyr18_37.037610_-88.662792@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043200,
+    "wof:geomhash":"1a887405e326053c8593d79dc3c61e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840579755
+        }
+    ],
+    "wof:id":840579755,
+    "wof:lastmodified":1464043200,
+    "wof:name":"Vocational Rehabilitation Dept",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -88.662792,
+    37.03761,
+    -88.662792,
+    37.03761
+],
+  "geometry": {"coordinates":[-88.662792,37.03761],"type":"Point"}
+}

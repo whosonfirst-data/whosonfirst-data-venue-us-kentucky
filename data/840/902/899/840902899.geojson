@@ -1,0 +1,78 @@
+{
+  "id": 840902899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.885362,37.730515,-85.885362,37.730515",
+    "geom:latitude":37.730515,
+    "geom:longitude":-85.885362,
+    "iso:country":"US",
+    "sg:address":"1614 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8020",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nMD62EHMg9NZt7m7ZoP3s_37.730515_-85.885362@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050556,
+    "wof:geomhash":"946e43687acc95e2742c12a7099f9321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840902899
+        }
+    ],
+    "wof:id":840902899,
+    "wof:lastmodified":1464050556,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.885362,
+    37.730515,
+    -85.885362,
+    37.730515
+],
+  "geometry": {"coordinates":[-85.885362,37.730515],"type":"Point"}
+}

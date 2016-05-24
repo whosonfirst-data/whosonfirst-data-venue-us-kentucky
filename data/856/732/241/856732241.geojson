@@ -1,0 +1,74 @@
+{
+  "id": 856732241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.376237,38.401364,-85.376237,38.401364",
+    "geom:latitude":38.401364,
+    "geom:longitude":-85.376237,
+    "iso:country":"US",
+    "sg:address":"101 W Crystal Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/la-grange/176068-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1486",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pKwJoOY37CcpRUXKfbZXy_38.401364_-85.376237@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053082,
+    "wof:geomhash":"e92ab1d451e1d250e559e5bde256275e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856732241
+        }
+    ],
+    "wof:id":856732241,
+    "wof:lastmodified":1464053082,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.376237,
+    38.401364,
+    -85.376237,
+    38.401364
+],
+  "geometry": {"coordinates":[-85.376237,38.401364],"type":"Point"}
+}

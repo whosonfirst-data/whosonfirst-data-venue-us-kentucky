@@ -1,0 +1,68 @@
+{
+  "id": 840686523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.784139,38.126563,-85.784139,38.126563",
+    "geom:latitude":38.126563,
+    "geom:longitude":-85.784139,
+    "iso:country":"US",
+    "sg:address":"191 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 2601",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0urAY51ysk8fz1i8g7Z4zz_38.126563_-85.784139@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045736,
+    "wof:geomhash":"42b55f8d051970b9c31096982618bd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840686523
+        }
+    ],
+    "wof:id":840686523,
+    "wof:lastmodified":1464045736,
+    "wof:name":"Kmart",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.784139,
+    38.126563,
+    -85.784139,
+    38.126563
+],
+  "geometry": {"coordinates":[-85.784139,38.126563],"type":"Point"}
+}

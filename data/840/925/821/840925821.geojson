@@ -1,0 +1,73 @@
+{
+  "id": 840925821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.825538,37.676724,-85.825538,37.676724",
+    "geom:latitude":37.676724,
+    "geom:longitude":-85.825538,
+    "iso:country":"US",
+    "sg:address":"813 Valley Creek Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5888",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AkwMSFLfKeaToGlraeX5i_37.676724_-85.825538@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051160,
+    "wof:geomhash":"1ab7ca2e260cf0ff4e4861e2bb8bf5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840925821
+        }
+    ],
+    "wof:id":840925821,
+    "wof:lastmodified":1464051160,
+    "wof:name":"Rays Cabinets",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.825538,
+    37.676724,
+    -85.825538,
+    37.676724
+],
+  "geometry": {"coordinates":[-85.82553799999999,37.676724],"type":"Point"}
+}

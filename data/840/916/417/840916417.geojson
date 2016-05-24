@@ -1,0 +1,73 @@
+{
+  "id": 840916417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627984,38.212867,-85.627984,38.212867",
+    "geom:latitude":38.212867,
+    "geom:longitude":-85.627984,
+    "iso:country":"US",
+    "sg:address":"3070 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 2973",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YBCrPE8JQQG60vqHh7ZkT_38.212867_-85.627984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050922,
+    "wof:geomhash":"fa5e3cf52fafa6e6993bc8de91ecd741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840916417
+        }
+    ],
+    "wof:id":840916417,
+    "wof:lastmodified":1464050922,
+    "wof:name":"Kentucky Humane Society",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -85.627984,
+    38.212867,
+    -85.627984,
+    38.212867
+],
+  "geometry": {"coordinates":[-85.627984,38.212867],"type":"Point"}
+}

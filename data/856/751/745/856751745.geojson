@@ -1,0 +1,104 @@
+{
+  "id": 856751745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.54765,38.19611,-85.54765,38.19611",
+    "geom:latitude":38.19611,
+    "geom:longitude":-85.54765,
+    "iso:country":"US",
+    "sg:address":"12120 Franconia Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 263 5544",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "saws-sharpen",
+        "scooters-repairing",
+        "outboard",
+        "mowers-sharpening",
+        "all-terrain",
+        "motorcycle",
+        "motors-repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NZ89om0FQMW46yo7vt2Mv_38.196110_-85.547650@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053818,
+    "wof:geomhash":"04b34525572c06dd2e8e8171bb616b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856751745
+        }
+    ],
+    "wof:id":856751745,
+    "wof:lastmodified":1464053818,
+    "wof:name":"Evans Small Engine Repair",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "saws-sharpen",
+        "scooters-repairing",
+        "outboard",
+        "mowers-sharpening",
+        "all-terrain",
+        "motorcycle",
+        "motors-repairing"
+    ]
+},
+  "bbox": [
+    -85.54765,
+    38.19611,
+    -85.54765,
+    38.19611
+],
+  "geometry": {"coordinates":[-85.54765,38.19611],"type":"Point"}
+}

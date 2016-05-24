@@ -1,0 +1,72 @@
+{
+  "id": 856736963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.617093,37.084605,-84.617093,37.084605",
+    "geom:latitude":37.084605,
+    "geom:longitude":-84.617093,
+    "iso:country":"US",
+    "sg:address":"799 S Highway 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/233108-lees-famous-recipe-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 3521",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FlaAZEKJ2ffkEIzzYHkE0_37.084605_-84.617093@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053256,
+    "wof:geomhash":"472ed5f676bb7f77af726840cc90771d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736963
+        }
+    ],
+    "wof:id":856736963,
+    "wof:lastmodified":1464053256,
+    "wof:name":"Lee's Famous Recipe Chicken",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.617093,
+    37.084605,
+    -84.617093,
+    37.084605
+],
+  "geometry": {"coordinates":[-84.617093,37.084605],"type":"Point"}
+}

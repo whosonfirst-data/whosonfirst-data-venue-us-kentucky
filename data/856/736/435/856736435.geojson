@@ -1,0 +1,74 @@
+{
+  "id": 856736435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42509,36.950094,-86.42509,36.950094",
+    "geom:latitude":36.950094,
+    "geom:longitude":-86.42509,
+    "iso:country":"US",
+    "sg:address":"2625 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/219932-auntie-annes-pretzels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 9273",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zw8GNnD9fwXO1xyTpQBks_36.950094_-86.425090@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053239,
+    "wof:geomhash":"968cabe34f8338f325be110899e12291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736435
+        }
+    ],
+    "wof:id":856736435,
+    "wof:lastmodified":1464053239,
+    "wof:name":"Auntie Anne's Pretzels",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -86.42509,
+    36.950094,
+    -86.42509,
+    36.950094
+],
+  "geometry": {"coordinates":[-86.42509,36.950094],"type":"Point"}
+}

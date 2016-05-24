@@ -1,0 +1,71 @@
+{
+  "id": 840622931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.54837,37.825991,-87.54837,37.825991",
+    "geom:latitude":37.825991,
+    "geom:longitude":-87.54837,
+    "iso:country":"US",
+    "sg:address":"3135 Zion Rd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 7424",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YZUEX79XCVwTgPeftInd3_37.825991_-87.548370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044239,
+    "wof:geomhash":"ea87f6e5f0a4ac92443565635d80a308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840622931
+        }
+    ],
+    "wof:id":840622931,
+    "wof:lastmodified":1464044239,
+    "wof:name":"Therapy Associates",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy"
+    ]
+},
+  "bbox": [
+    -87.54837,
+    37.825991,
+    -87.54837,
+    37.825991
+],
+  "geometry": {"coordinates":[-87.54837000000001,37.825991],"type":"Point"}
+}

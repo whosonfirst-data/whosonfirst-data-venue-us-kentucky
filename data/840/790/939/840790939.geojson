@@ -1,0 +1,68 @@
+{
+  "id": 840790939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641885,38.270217,-85.641885,38.270217",
+    "geom:latitude":38.270217,
+    "geom:longitude":-85.641885,
+    "iso:country":"US",
+    "sg:address":"616 Indian Ridge Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 9458",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NP0I8VvYSBazQh2o1n9DC_38.270217_-85.641885@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048003,
+    "wof:geomhash":"2352549f4559a9f041f422cef137aa47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840790939
+        }
+    ],
+    "wof:id":840790939,
+    "wof:lastmodified":1464048003,
+    "wof:name":"Utopia Pet Care Services",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.641885,
+    38.270217,
+    -85.641885,
+    38.270217
+],
+  "geometry": {"coordinates":[-85.641885,38.270217],"type":"Point"}
+}

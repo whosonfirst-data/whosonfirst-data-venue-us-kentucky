@@ -1,0 +1,73 @@
+{
+  "id": 856761231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.69789,37.073362,-88.69789,37.073362",
+    "geom:latitude":37.073362,
+    "geom:longitude":-88.69789,
+    "iso:country":"US",
+    "sg:address":"5166 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 3008",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6alhgdnQzJonSqGypnxw0F_37.073362_-88.697890@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054169,
+    "wof:geomhash":"683fae72b5f74280f19a7dde481d61a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761231
+        }
+    ],
+    "wof:id":856761231,
+    "wof:lastmodified":1464054169,
+    "wof:name":"Frankies Beauty Salon",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -88.69789,
+    37.073362,
+    -88.69789,
+    37.073362
+],
+  "geometry": {"coordinates":[-88.69789,37.073362],"type":"Point"}
+}

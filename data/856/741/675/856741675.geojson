@@ -1,0 +1,79 @@
+{
+  "id": 856741675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.70932,38.23201,-85.70932,38.23201",
+    "geom:latitude":38.23201,
+    "geom:longitude":-85.70932,
+    "iso:country":"US",
+    "sg:address":"1500 Bardstown Rd Ste A",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 8786",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"http://www.fleetfeetlouisville.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34WekjdKhBksTuylHQoXzh_38.232010_-85.709320@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053446,
+    "wof:geomhash":"d36df3e6057dc6698d54cd4bd7dd6197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856741675
+        }
+    ],
+    "wof:id":856741675,
+    "wof:lastmodified":1464053446,
+    "wof:name":"Fleet Feet Sports",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -85.70932,
+    38.23201,
+    -85.70932,
+    38.23201
+],
+  "geometry": {"coordinates":[-85.70932000000001,38.23201],"type":"Point"}
+}

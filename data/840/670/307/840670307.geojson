@@ -1,0 +1,66 @@
+{
+  "id": 840670307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.527812,37.484558,-82.527812,37.484558",
+    "geom:latitude":37.484558,
+    "geom:longitude":-82.527812,
+    "iso:country":"US",
+    "sg:address":"453 Hambley Blvd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 437 9219",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lkZpWDKU7QkuRJxJ9TyhO_37.484558_-82.527812@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045316,
+    "wof:geomhash":"39d198697889e71e8fe6e21b98634ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840670307
+        }
+    ],
+    "wof:id":840670307,
+    "wof:lastmodified":1464045316,
+    "wof:name":"Down Town Liquors",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.527812,
+    37.484558,
+    -82.527812,
+    37.484558
+],
+  "geometry": {"coordinates":[-82.527812,37.484558],"type":"Point"}
+}

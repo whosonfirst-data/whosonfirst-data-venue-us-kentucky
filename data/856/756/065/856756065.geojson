@@ -1,0 +1,71 @@
+{
+  "id": 856756065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.759399,39.018501,-84.759399,39.018501",
+    "geom:latitude":39.018501,
+    "geom:longitude":-84.759399,
+    "iso:country":"US",
+    "sg:address":"4032 Burlington Pike",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 7015",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eilRnQlzLkyfAsbjip1qR_39.018501_-84.759399@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053980,
+    "wof:geomhash":"9495d7bd13903ec02236b9bab022f1e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856756065
+        }
+    ],
+    "wof:id":856756065,
+    "wof:lastmodified":1464053980,
+    "wof:name":"J L Const",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.759399,
+    39.018501,
+    -84.759399,
+    39.018501
+],
+  "geometry": {"coordinates":[-84.759399,39.018501],"type":"Point"}
+}

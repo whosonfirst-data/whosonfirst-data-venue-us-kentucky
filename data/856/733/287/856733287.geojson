@@ -1,0 +1,76 @@
+{
+  "id": 856733287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626518,38.221191,-85.626518,38.221191",
+    "geom:latitude":38.221191,
+    "geom:longitude":-85.626518,
+    "iso:country":"US",
+    "sg:address":"2931 Richland Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/54241-pizza-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 9700",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6djMQRfcKX21S1pvZZsBwr_38.221191_-85.626518@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053119,
+    "wof:geomhash":"fee5e5184e7e7b1a5b193c48544cf8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856733287
+        }
+    ],
+    "wof:id":856733287,
+    "wof:lastmodified":1464053119,
+    "wof:name":"Pizza Place",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.626518,
+    38.221191,
+    -85.626518,
+    38.221191
+],
+  "geometry": {"coordinates":[-85.626518,38.221191],"type":"Point"}
+}

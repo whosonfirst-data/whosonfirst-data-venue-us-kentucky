@@ -1,0 +1,83 @@
+{
+  "id": 840825951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.782624,37.642778,-84.782624,37.642778",
+    "geom:latitude":37.642778,
+    "geom:longitude":-84.782624,
+    "iso:country":"US",
+    "sg:address":"245 Beatty Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7983",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e1e5uriE5mLI0UgWDvYEu_37.642778_-84.782624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048909,
+    "wof:geomhash":"1c0bf5d141f2e11f2f2ea09ab32d4ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840825951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840825951
+        }
+    ],
+    "wof:id":840825951,
+    "wof:lastmodified":1464048909,
+    "wof:name":"Mike Ron Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.782624,
+    37.642778,
+    -84.782624,
+    37.642778
+],
+  "geometry": {"coordinates":[-84.782624,37.642778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840604601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.248843,37.493261,-82.248843,37.493261",
+    "geom:latitude":37.493261,
+    "geom:longitude":-82.248843,
+    "iso:country":"US",
+    "sg:address":"6934 Upper Johns Creek",
+    "sg:city":"Fedscreek",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 835 2300",
+    "sg:postcode":"41539",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xWbTKcrYRml1Tq2vizsl7_37.493261_-82.248843@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043770,
+    "wof:geomhash":"4fa73320fcc490180b883f3c203b387e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840604601
+        }
+    ],
+    "wof:id":840604601,
+    "wof:lastmodified":1464043770,
+    "wof:name":"Fletcher Services",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.248843,
+    37.493261,
+    -82.248843,
+    37.493261
+],
+  "geometry": {"coordinates":[-82.24884299999999,37.493261],"type":"Point"}
+}

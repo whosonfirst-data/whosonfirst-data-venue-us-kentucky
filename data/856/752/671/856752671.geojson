@@ -1,0 +1,67 @@
+{
+  "id": 856752671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.531812,38.226205,-84.531812,38.226205",
+    "geom:latitude":38.226205,
+    "geom:longitude":-84.531812,
+    "iso:country":"US",
+    "sg:address":"112 Magnolia Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 3081",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:website":"http://www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dtO1MuT4iEc7c8nh3IdCY_38.226205_-84.531812@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053857,
+    "wof:geomhash":"b1a9522ad6b5aa18e43646a11b4e7f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856752671
+        }
+    ],
+    "wof:id":856752671,
+    "wof:lastmodified":1464053857,
+    "wof:name":"Kohl's",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.531812,
+    38.226205,
+    -84.531812,
+    38.226205
+],
+  "geometry": {"coordinates":[-84.531812,38.226205],"type":"Point"}
+}

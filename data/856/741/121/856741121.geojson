@@ -1,0 +1,103 @@
+{
+  "id": 856741121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.728182,38.249889,-85.728182,38.249889",
+    "geom:latitude":38.249889,
+    "geom:longitude":-85.728182,
+    "iso:country":"US",
+    "sg:address":"1231 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 2511",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "facility",
+        "convention",
+        "hall",
+        "location",
+        "reception",
+        "caterer",
+        "wedding",
+        "banquet"
+    ],
+    "sg:website":"http://www.mastersons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gT6bGkIs2Eaocshhdaw5f_38.249889_-85.728182@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053427,
+    "wof:geomhash":"798c8c0af00c2fcbbf2c8a6cbc33c3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":856741121
+        }
+    ],
+    "wof:id":856741121,
+    "wof:lastmodified":1464053427,
+    "wof:name":"Masterson's Catering",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "convention",
+        "hall",
+        "location",
+        "reception",
+        "caterer",
+        "wedding",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -85.728182,
+    38.249889,
+    -85.728182,
+    38.249889
+],
+  "geometry": {"coordinates":[-85.728182,38.249889],"type":"Point"}
+}

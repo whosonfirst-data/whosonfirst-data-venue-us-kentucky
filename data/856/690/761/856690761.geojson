@@ -1,0 +1,73 @@
+{
+  "id": 856690761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.998981,36.926306,-85.998981,36.926306",
+    "geom:latitude":36.926306,
+    "geom:longitude":-85.998981,
+    "iso:country":"US",
+    "sg:address":"112 Certain Ln",
+    "sg:city":"Edmonton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 432 0234",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YCaZQenzp0WEluT4mP5oq_36.926306_-85.998981@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051884,
+    "wof:geomhash":"af0dec1913072f99ec669f9eb42664b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856690761
+        }
+    ],
+    "wof:id":856690761,
+    "wof:lastmodified":1464051884,
+    "wof:name":"Edmonton Day Treatment",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -85.998981,
+    36.926306,
+    -85.998981,
+    36.926306
+],
+  "geometry": {"coordinates":[-85.998981,36.926306],"type":"Point"}
+}

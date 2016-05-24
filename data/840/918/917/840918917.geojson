@@ -1,0 +1,75 @@
+{
+  "id": 840918917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.682038,38.167635,-85.682038,38.167635",
+    "geom:latitude":38.167635,
+    "geom:longitude":-85.682038,
+    "iso:country":"US",
+    "sg:address":"4910 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 5583",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SmIovfGN2YikZBxLI6el9_38.167635_-85.682038@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050969,
+    "wof:geomhash":"1a92f2ba08f6599bf12710a1ba17a6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840918917
+        }
+    ],
+    "wof:id":840918917,
+    "wof:lastmodified":1464050969,
+    "wof:name":"Poplar Village Car Wash",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.682038,
+    38.167635,
+    -85.682038,
+    38.167635
+],
+  "geometry": {"coordinates":[-85.68203800000001,38.167635],"type":"Point"}
+}

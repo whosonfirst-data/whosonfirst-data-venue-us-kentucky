@@ -1,0 +1,84 @@
+{
+  "id": 856703359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.488874,36.959811,-86.488874,36.959811",
+    "geom:latitude":36.959811,
+    "geom:longitude":-86.488874,
+    "iso:country":"US",
+    "sg:address":"150 Dishman Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 6886",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cMgpUiD71ov5UuDGKsXmx_36.959811_-86.488874@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052137,
+    "wof:geomhash":"b7d201391f65f59ba347e9ce6a88a769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":856703359
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":856703359
+        }
+    ],
+    "wof:id":856703359,
+    "wof:lastmodified":1464052137,
+    "wof:name":"Rodes Fabricators",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.488874,
+    36.959811,
+    -86.488874,
+    36.959811
+],
+  "geometry": {"coordinates":[-86.488874,36.959811],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840873809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.629089,37.182203,-84.629089,37.182203",
+    "geom:latitude":37.182203,
+    "geom:longitude":-84.629089,
+    "iso:country":"US",
+    "sg:address":"210 W Langdon Rd",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3123",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O7ldS3GPWxFBdW6JcUXaL_37.182203_-84.629089@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049930,
+    "wof:geomhash":"fe185d5d59581fc0c3bd1b0eb12a03e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840873809
+        }
+    ],
+    "wof:id":840873809,
+    "wof:lastmodified":1464049930,
+    "wof:name":"Science Hill City Fire Dept",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.629089,
+    37.182203,
+    -84.629089,
+    37.182203
+],
+  "geometry": {"coordinates":[-84.62908899999999,37.182203],"type":"Point"}
+}

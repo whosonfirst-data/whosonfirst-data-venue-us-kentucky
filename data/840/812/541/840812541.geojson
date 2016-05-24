@@ -1,0 +1,84 @@
+{
+  "id": 840812541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.462606,36.946409,-86.462606,36.946409",
+    "geom:latitude":36.946409,
+    "geom:longitude":-86.462606,
+    "iso:country":"US",
+    "sg:address":"10 Elijah Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4722",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E5JMk5DVhSLe84HuI7Kci_36.946409_-86.462606@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048524,
+    "wof:geomhash":"06ec292550b6b4620ab7dc7d739066d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840812541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840812541
+        }
+    ],
+    "wof:id":840812541,
+    "wof:lastmodified":1464048524,
+    "wof:name":"Caskey Mobile Home Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -86.462606,
+    36.946409,
+    -86.462606,
+    36.946409
+],
+  "geometry": {"coordinates":[-86.46260599999999,36.946409],"type":"Point"}
+}

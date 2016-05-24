@@ -1,0 +1,71 @@
+{
+  "id": 840629351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.508094,36.990725,-88.508094,36.990725",
+    "geom:latitude":36.990725,
+    "geom:longitude":-88.508094,
+    "iso:country":"US",
+    "sg:address":"7054 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 3616",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z2zXfRI6PSmBvq3UolwuX_36.990725_-88.508094@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044421,
+    "wof:geomhash":"448d68e1d4fc5de6df4ed2e9c737aca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840629351
+        }
+    ],
+    "wof:id":840629351,
+    "wof:lastmodified":1464044421,
+    "wof:name":"Oasis Tanning",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -88.508094,
+    36.990725,
+    -88.508094,
+    36.990725
+],
+  "geometry": {"coordinates":[-88.508094,36.990725],"type":"Point"}
+}

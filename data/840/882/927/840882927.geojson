@@ -1,0 +1,75 @@
+{
+  "id": 840882927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428032,37.557722,-82.428032,37.557722",
+    "geom:latitude":37.557722,
+    "geom:longitude":-82.428032,
+    "iso:country":"US",
+    "sg:address":"44 Hillcrest Dr",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 631 4143",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aQc9H30YwmhxpbJ5K0NcB_37.557722_-82.428032@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050131,
+    "wof:geomhash":"723622fb5c7487199a2ee5aadb1b31f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840882927
+        }
+    ],
+    "wof:id":840882927,
+    "wof:lastmodified":1464050131,
+    "wof:name":"Stewart Trucking Inc",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.428032,
+    37.557722,
+    -82.428032,
+    37.557722
+],
+  "geometry": {"coordinates":[-82.428032,37.557722],"type":"Point"}
+}

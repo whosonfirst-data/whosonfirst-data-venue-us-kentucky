@@ -1,0 +1,73 @@
+{
+  "id": 840599907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636645,37.977604,-85.636645,37.977604",
+    "geom:latitude":37.977604,
+    "geom:longitude":-85.636645,
+    "iso:country":"US",
+    "sg:address":"350 Foley Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 9008",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "picture",
+        "framing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w5zXleIUfCzWDWyjbtKmD_37.977604_-85.636645@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043660,
+    "wof:geomhash":"e8694fea45f3804a3ad6d8abdd447d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840599907
+        }
+    ],
+    "wof:id":840599907,
+    "wof:lastmodified":1464043660,
+    "wof:name":"Adam's Gallery",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "framing"
+    ]
+},
+  "bbox": [
+    -85.636645,
+    37.977604,
+    -85.636645,
+    37.977604
+],
+  "geometry": {"coordinates":[-85.636645,37.977604],"type":"Point"}
+}

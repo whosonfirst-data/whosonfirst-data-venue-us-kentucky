@@ -1,0 +1,72 @@
+{
+  "id": 856761379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.624176,37.076158,-88.624176,37.076158",
+    "geom:latitude":37.076158,
+    "geom:longitude":-88.624176,
+    "iso:country":"US",
+    "sg:address":"2320 Broadway St Ste 200",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6685",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.rentalhousing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WTmZrIba4nWRw56Jb3Q3F_37.076158_-88.624176@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054174,
+    "wof:geomhash":"7ba0702d6a459aae003eb6c8b752ad50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761379
+        }
+    ],
+    "wof:id":856761379,
+    "wof:lastmodified":1464054174,
+    "wof:name":"Rental Housing Inc",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.624176,
+    37.076158,
+    -88.624176,
+    37.076158
+],
+  "geometry": {"coordinates":[-88.62417600000001,37.076158],"type":"Point"}
+}

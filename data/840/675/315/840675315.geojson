@@ -1,0 +1,74 @@
+{
+  "id": 840675315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.420422,36.952351,-86.420422,36.952351",
+    "geom:latitude":36.952351,
+    "geom:longitude":-86.420422,
+    "iso:country":"US",
+    "sg:address":"989 Pedigo Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9992",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.4teamkd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tdFBUS6h9fuvhYo8nTRwL_36.952351_-86.420422@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045452,
+    "wof:geomhash":"cb64362f2fa27b2c659123cca46eebaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840675315
+        }
+    ],
+    "wof:id":840675315,
+    "wof:lastmodified":1464045452,
+    "wof:name":"K D Electric Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.420422,
+    36.952351,
+    -86.420422,
+    36.952351
+],
+  "geometry": {"coordinates":[-86.420422,36.952351],"type":"Point"}
+}

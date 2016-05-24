@@ -1,0 +1,77 @@
+{
+  "id": 856731511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658617,38.252503,-85.658617,38.252503",
+    "geom:latitude":38.252503,
+    "geom:longitude":-85.658617,
+    "iso:country":"US",
+    "sg:address":"3782 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 2177",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sw0M1ScRlzNx6OKgMawsk_38.252432_-85.658386@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053056,
+    "wof:geomhash":"208dc98f00652108f831f016f9512b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856731511
+        }
+    ],
+    "wof:id":856731511,
+    "wof:lastmodified":1464053056,
+    "wof:name":"Bowser's Bowtique",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.658617,
+    38.252503,
+    -85.658617,
+    38.252503
+],
+  "geometry": {"coordinates":[-85.65861700000001,38.252503],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840559551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441258,36.995845,-86.441258,36.995845",
+    "geom:latitude":36.995845,
+    "geom:longitude":-86.441258,
+    "iso:country":"US",
+    "sg:address":"791 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 6107",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A217KDm2MxVbCxkOM5Yod_36.995845_-86.441258@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042721,
+    "wof:geomhash":"bbca20bd851c156c0d97e21948346008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840559551
+        }
+    ],
+    "wof:id":840559551,
+    "wof:lastmodified":1464042721,
+    "wof:name":"Bowling Green Glass",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -86.441258,
+    36.995845,
+    -86.441258,
+    36.995845
+],
+  "geometry": {"coordinates":[-86.441258,36.995845],"type":"Point"}
+}

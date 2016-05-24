@@ -1,0 +1,73 @@
+{
+  "id": 856692953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.79676,38.160486,-85.79676,38.160486",
+    "geom:latitude":38.160486,
+    "geom:longitude":-85.79676,
+    "iso:country":"US",
+    "sg:address":"1505 Melody Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 2865",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AMoNf9ghGXAIf6gQ888Id_38.160486_-85.796760@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051924,
+    "wof:geomhash":"760200306208733007dd76b3521ff43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856692953
+        }
+    ],
+    "wof:id":856692953,
+    "wof:lastmodified":1464051924,
+    "wof:name":"Jesse Potters Plumbing Inc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.79676,
+    38.160486,
+    -85.79676,
+    38.160486
+],
+  "geometry": {"coordinates":[-85.79676000000001,38.160486],"type":"Point"}
+}

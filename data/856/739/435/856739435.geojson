@@ -1,0 +1,104 @@
+{
+  "id": 856739435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757391,38.253089,-85.757391,38.253089",
+    "geom:latitude":38.253089,
+    "geom:longitude":-85.757391,
+    "iso:country":"US",
+    "sg:address":"416 W Liberty St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 540 1891",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "register",
+        "autographic",
+        "duplicating",
+        "copying",
+        "furniture",
+        "typewriter"
+    ],
+    "sg:website":"http://www.officedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H1qXPOCawzBYaN4p6tWKf_38.253089_-85.757391@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053357,
+    "wof:geomhash":"3808f574eadffef8bfa45daa2e1df41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856739435
+        }
+    ],
+    "wof:id":856739435,
+    "wof:lastmodified":1464053357,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "autographic",
+        "duplicating",
+        "copying",
+        "furniture",
+        "typewriter"
+    ]
+},
+  "bbox": [
+    -85.757391,
+    38.253089,
+    -85.757391,
+    38.253089
+],
+  "geometry": {"coordinates":[-85.757391,38.253089],"type":"Point"}
+}

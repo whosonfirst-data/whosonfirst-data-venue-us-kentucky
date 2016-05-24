@@ -1,0 +1,73 @@
+{
+  "id": 856721491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437082,36.916774,-86.437082,36.916774",
+    "geom:latitude":36.916774,
+    "geom:longitude":-86.437082,
+    "iso:country":"US",
+    "sg:address":"2096 Three Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 5679",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72CvF3MeLZI6ceOFL3OZj4_36.916774_-86.437082@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052657,
+    "wof:geomhash":"da5afceba628ad506a9f13113d414409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856721491
+        }
+    ],
+    "wof:id":856721491,
+    "wof:lastmodified":1464052657,
+    "wof:name":"Transportation Dept Garage",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -86.437082,
+    36.916774,
+    -86.437082,
+    36.916774
+],
+  "geometry": {"coordinates":[-86.437082,36.916774],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840897213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.437559,37.571152,-82.437559,37.571152",
+    "geom:latitude":37.571152,
+    "geom:longitude":-82.437559,
+    "iso:country":"US",
+    "sg:address":"9783 Meta Hwy",
+    "sg:city":"Meta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 631 0057",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nVrT3ih20tK7HaxBf6DNo_37.571152_-82.437559@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050434,
+    "wof:geomhash":"a0c2f451ac0b75a7073542c621d3a477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840897213
+        }
+    ],
+    "wof:id":840897213,
+    "wof:lastmodified":1464050434,
+    "wof:name":"Trivette Family Care",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.437559,
+    37.571152,
+    -82.437559,
+    37.571152
+],
+  "geometry": {"coordinates":[-82.43755899999999,37.571152],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856761559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.576711,37.033086,-88.576711,37.033086",
+    "geom:latitude":37.033086,
+    "geom:longitude":-88.576711,
+    "iso:country":"US",
+    "sg:address":"275 Chadwick Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6655",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sqv2a8tPXO2p9bq1TSE0z_37.033086_-88.576711@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054180,
+    "wof:geomhash":"25a21ef04c4e38c222b7eb27cd252114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761559
+        }
+    ],
+    "wof:id":856761559,
+    "wof:lastmodified":1464054180,
+    "wof:name":"Grace Apostolic Church",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.576711,
+    37.033086,
+    -88.576711,
+    37.033086
+],
+  "geometry": {"coordinates":[-88.576711,37.033086],"type":"Point"}
+}

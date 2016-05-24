@@ -1,0 +1,83 @@
+{
+  "id": 856692291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66675,38.195679,-85.66675,38.195679",
+    "geom:latitude":38.195679,
+    "geom:longitude":-85.66675,
+    "iso:country":"US",
+    "sg:address":"3506 Fountain Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 2276",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JkcF4ZqD6S5BuUEuh7RTa_38.195679_-85.666750@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051913,
+    "wof:geomhash":"f72db91c432bcc106338e305cd9464a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856692291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856692291
+        }
+    ],
+    "wof:id":856692291,
+    "wof:lastmodified":1464051913,
+    "wof:name":"Liaison International USA Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.66675,
+    38.195679,
+    -85.66675,
+    38.195679
+],
+  "geometry": {"coordinates":[-85.66674999999999,38.195679],"type":"Point"}
+}

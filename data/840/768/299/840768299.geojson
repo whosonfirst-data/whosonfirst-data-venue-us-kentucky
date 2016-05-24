@@ -1,0 +1,69 @@
+{
+  "id": 840768299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.534919,36.946287,-84.534919,36.946287",
+    "geom:latitude":36.946287,
+    "geom:longitude":-84.534919,
+    "iso:country":"US",
+    "sg:address":"290 McKee Ln",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 0100",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tEOCxmxPb1SKhUPBL829B_36.946287_-84.534919@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047532,
+    "wof:geomhash":"6622a79ed93b9317d5db7441362d0b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840768299
+        }
+    ],
+    "wof:id":840768299,
+    "wof:lastmodified":1464047532,
+    "wof:name":"J & D Woodworking",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -84.534919,
+    36.946287,
+    -84.534919,
+    36.946287
+],
+  "geometry": {"coordinates":[-84.534919,36.946287],"type":"Point"}
+}

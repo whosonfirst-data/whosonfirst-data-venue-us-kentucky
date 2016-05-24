@@ -1,0 +1,73 @@
+{
+  "id": 840923155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.890916,37.702616,-85.890916,37.702616",
+    "geom:latitude":37.702616,
+    "geom:longitude":-85.890916,
+    "iso:country":"US",
+    "sg:address":"626 Yale Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4599",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PTSD6C7dxAlwr0q2QVC9f_37.702616_-85.890916@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051085,
+    "wof:geomhash":"935dc87c138d75824c952e91b74cfd6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840923155
+        }
+    ],
+    "wof:id":840923155,
+    "wof:lastmodified":1464051085,
+    "wof:name":"At Home Blinds",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [
+    -85.890916,
+    37.702616,
+    -85.890916,
+    37.702616
+],
+  "geometry": {"coordinates":[-85.890916,37.702616],"type":"Point"}
+}

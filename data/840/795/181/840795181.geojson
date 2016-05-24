@@ -1,0 +1,73 @@
+{
+  "id": 840795181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.416839,36.82135,-86.416839,36.82135",
+    "geom:latitude":36.82135,
+    "geom:longitude":-86.416839,
+    "iso:country":"US",
+    "sg:address":"7487 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9376",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30UXhkqGSNftLBYlsQaxwX_36.821350_-86.416839@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048082,
+    "wof:geomhash":"9612f0b279248d53ca33402c0ad86a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840795181
+        }
+    ],
+    "wof:id":840795181,
+    "wof:lastmodified":1464048082,
+    "wof:name":"Drake Vintage Music & Curios",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.416839,
+    36.82135,
+    -86.416839,
+    36.82135
+],
+  "geometry": {"coordinates":[-86.416839,36.82135],"type":"Point"}
+}

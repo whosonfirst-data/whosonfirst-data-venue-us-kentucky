@@ -1,0 +1,71 @@
+{
+  "id": 840570081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.739567,38.051221,-85.739567,38.051221",
+    "geom:latitude":38.051221,
+    "geom:longitude":-85.739567,
+    "iso:country":"US",
+    "sg:address":"635 New Ed Quick Rd",
+    "sg:city":"Brooks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 7941",
+    "sg:postcode":"40109",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X4C3cWFVKDQLSKtz7w0A6_38.051221_-85.739567@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042988,
+    "wof:geomhash":"a231ef09083dabb197f0dda974dca534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840570081
+        }
+    ],
+    "wof:id":840570081,
+    "wof:lastmodified":1464042988,
+    "wof:name":"Vine Vending",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -85.739567,
+    38.051221,
+    -85.739567,
+    38.051221
+],
+  "geometry": {"coordinates":[-85.73956699999999,38.051221],"type":"Point"}
+}

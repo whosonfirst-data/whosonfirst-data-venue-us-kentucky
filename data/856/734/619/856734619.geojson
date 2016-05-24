@@ -1,0 +1,76 @@
+{
+  "id": 856734619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4668,38.042343,-84.4668,38.042343",
+    "geom:latitude":38.042343,
+    "geom:longitude":-84.4668,
+    "iso:country":"US",
+    "sg:address":"1015 Winchester Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/176060-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 233 3336",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JXXLI7tQ65U1wZ9cVJlK3_38.042343_-84.466800@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053168,
+    "wof:geomhash":"21087390bc603e2974fa650f7c2ab562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":856734619
+        }
+    ],
+    "wof:id":856734619,
+    "wof:lastmodified":1464053168,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.4668,
+    38.042343,
+    -84.4668,
+    38.042343
+],
+  "geometry": {"coordinates":[-84.46680000000001,38.042343],"type":"Point"}
+}

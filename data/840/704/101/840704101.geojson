@@ -1,0 +1,73 @@
+{
+  "id": 840704101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638593,38.232062,-85.638593,38.232062",
+    "geom:latitude":38.232062,
+    "geom:longitude":-85.638593,
+    "iso:country":"US",
+    "sg:address":"968 Breckenridge Ln",
+    "sg:city":"St Matthews",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 0836",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mV7nUVhueZ8EOcSnCNkKy_38.232062_-85.638593@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046184,
+    "wof:geomhash":"67a50f177aacb008e5dca3c74044393f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873371,
+            "region_id":85688641,
+            "venue_id":840704101
+        }
+    ],
+    "wof:id":840704101,
+    "wof:lastmodified":1464046184,
+    "wof:name":"Buehlers Fresh Market",
+    "wof:parent_id":85873371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.638593,
+    38.232062,
+    -85.638593,
+    38.232062
+],
+  "geometry": {"coordinates":[-85.638593,38.232062],"type":"Point"}
+}

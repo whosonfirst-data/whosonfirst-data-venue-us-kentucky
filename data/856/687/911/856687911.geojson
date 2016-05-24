@@ -1,0 +1,77 @@
+{
+  "id": 856687911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569549,37.053682,-88.569549,37.053682",
+    "geom:latitude":37.053682,
+    "geom:longitude":-88.569549,
+    "iso:country":"US",
+    "sg:address":"3201 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 4203",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xvzlUDRv3KF5DzyCZS9lD_37.053682_-88.569549@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051822,
+    "wof:geomhash":"5949d065df5d4ab1c32bc53bf853be5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856687911
+        }
+    ],
+    "wof:id":856687911,
+    "wof:lastmodified":1464051822,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -88.569549,
+    37.053682,
+    -88.569549,
+    37.053682
+],
+  "geometry": {"coordinates":[-88.56954899999999,37.053682],"type":"Point"}
+}

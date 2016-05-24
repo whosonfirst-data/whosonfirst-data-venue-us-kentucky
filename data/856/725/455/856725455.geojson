@@ -1,0 +1,71 @@
+{
+  "id": 856725455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.43926,36.577156,-87.43926,36.577156",
+    "geom:latitude":36.577156,
+    "geom:longitude":-87.43926,
+    "iso:country":"US",
+    "sg:address":"1564 Mary Beth Ln",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 906 2821",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XiJfWqPJcWMy67OVi4oCz_36.577156_-87.439260@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052810,
+    "wof:geomhash":"5337b1c5ecb6a4fb5a81ff851b783745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":856725455
+        }
+    ],
+    "wof:id":856725455,
+    "wof:lastmodified":1464052810,
+    "wof:name":"Mike Hardin Dental Lab",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -87.43926,
+    36.577156,
+    -87.43926,
+    36.577156
+],
+  "geometry": {"coordinates":[-87.43926,36.577156],"type":"Point"}
+}

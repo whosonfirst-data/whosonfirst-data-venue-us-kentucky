@@ -1,0 +1,69 @@
+{
+  "id": 840766853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800021,38.258721,-85.800021,38.258721",
+    "geom:latitude":38.258721,
+    "geom:longitude":-85.800021,
+    "iso:country":"US",
+    "sg:address":"227 S 30th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 1641",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:website":"www.williamsfood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kAREhyWecIUMdydMUykj9_38.258721_-85.800021@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047499,
+    "wof:geomhash":"a17c66e9a247740f49067d309ee75d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840766853
+        }
+    ],
+    "wof:id":840766853,
+    "wof:lastmodified":1464047499,
+    "wof:name":"Williams Food Svc",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.800021,
+    38.258721,
+    -85.800021,
+    38.258721
+],
+  "geometry": {"coordinates":[-85.800021,38.258721],"type":"Point"}
+}

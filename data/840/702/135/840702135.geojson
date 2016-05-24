@@ -1,0 +1,73 @@
+{
+  "id": 840702135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.28907,37.019995,-86.28907,37.019995",
+    "geom:latitude":37.019995,
+    "geom:longitude":-86.28907,
+    "iso:country":"US",
+    "sg:address":"1429 Loving Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3804",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "canned",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OOfpORR0F8BPUgfArxQeB_37.019995_-86.289070@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046148,
+    "wof:geomhash":"d6350c2dca2d441aa5b895ab8e087420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840702135
+        }
+    ],
+    "wof:id":840702135,
+    "wof:lastmodified":1464046148,
+    "wof:name":"Tim Russell Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -86.28907,
+    37.019995,
+    -86.28907,
+    37.019995
+],
+  "geometry": {"coordinates":[-86.28907,37.019995],"type":"Point"}
+}

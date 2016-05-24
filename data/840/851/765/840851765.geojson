@@ -1,0 +1,69 @@
+{
+  "id": 840851765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.948189,38.000152,-85.948189,38.000152",
+    "geom:latitude":38.000152,
+    "geom:longitude":-85.948189,
+    "iso:country":"US",
+    "sg:address":"509 Elm St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 4260",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85826355,
+        102084595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kYrA2vjZvcB4NZizUXwbX_38.000152_-85.948189@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049480,
+    "wof:geomhash":"aa4cc05366e05c864082e309c752f893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "neighbourhood_id":85826355,
+            "region_id":85688641,
+            "venue_id":840851765
+        }
+    ],
+    "wof:id":840851765,
+    "wof:lastmodified":1464049480,
+    "wof:name":"West Point Voluntary Fire Dept",
+    "wof:parent_id":85826355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.948189,
+    38.000152,
+    -85.948189,
+    38.000152
+],
+  "geometry": {"coordinates":[-85.948189,38.000152],"type":"Point"}
+}

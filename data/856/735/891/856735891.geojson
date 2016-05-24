@@ -1,0 +1,78 @@
+{
+  "id": 856735891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.540359,37.506829,-82.540359,37.506829",
+    "geom:latitude":37.506829,
+    "geom:longitude":-82.540359,
+    "iso:country":"US",
+    "sg:address":"172 Cassidy Blvd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pikeville/88655-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 1815",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wm1OK5Nk31MkdSTjUo6Vu_37.506829_-82.540359@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053214,
+    "wof:geomhash":"d5f455a4cfba51d3ed83103e9f196e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856735891
+        }
+    ],
+    "wof:id":856735891,
+    "wof:lastmodified":1464053214,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -82.540359,
+    37.506829,
+    -82.540359,
+    37.506829
+],
+  "geometry": {"coordinates":[-82.540359,37.506829],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856726201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844668,37.732308,-85.844668,37.732308",
+    "geom:latitude":37.732308,
+    "geom:longitude":-85.844668,
+    "iso:country":"US",
+    "sg:address":"2408 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 8569",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.dobsoncellular.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xo20c4nx299ylijtK91Nn_37.732308_-85.844668@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052838,
+    "wof:geomhash":"a6d2dec6c63a80dabea8e7c2f9f4ba95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856726201
+        }
+    ],
+    "wof:id":856726201,
+    "wof:lastmodified":1464052838,
+    "wof:name":"Cellular One",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.844668,
+    37.732308,
+    -85.844668,
+    37.732308
+],
+  "geometry": {"coordinates":[-85.844668,37.732308],"type":"Point"}
+}

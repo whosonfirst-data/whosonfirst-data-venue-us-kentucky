@@ -1,0 +1,102 @@
+{
+  "id": 856743295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.653374,38.252731,-85.653374,38.252731",
+    "geom:latitude":38.252731,
+    "geom:longitude":-85.653374,
+    "iso:country":"US",
+    "sg:address":"3940 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 4438",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "delicatessen",
+        "wedding",
+        "caterer"
+    ],
+    "sg:website":"http://www.plehnsbakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ftALXeWrXrFzOkGoZlDWy_38.252731_-85.653374@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053505,
+    "wof:geomhash":"bbf053262729f50b508c6682c706a93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856743295
+        }
+    ],
+    "wof:id":856743295,
+    "wof:lastmodified":1464053505,
+    "wof:name":"Plehn's Bakery",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "delicatessen",
+        "wedding",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.653374,
+    38.252731,
+    -85.653374,
+    38.252731
+],
+  "geometry": {"coordinates":[-85.653374,38.252731],"type":"Point"}
+}

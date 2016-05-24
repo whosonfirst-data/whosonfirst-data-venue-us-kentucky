@@ -1,0 +1,87 @@
+{
+  "id": 856750233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.515649,38.243226,-85.515649,38.243226",
+    "geom:latitude":38.243226,
+    "geom:longitude":-85.515649,
+    "iso:country":"US",
+    "sg:address":"12900 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 3305",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director",
+        "information",
+        "casket",
+        "plans-pre-arranged",
+        "advisory"
+    ],
+    "sg:website":"http://www.ratterman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cNPvkZw1oqcTFu4CnrP1O_38.243226_-85.515649@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053760,
+    "wof:geomhash":"212db5b4b65199f6210e917db225b769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750233
+        }
+    ],
+    "wof:id":856750233,
+    "wof:lastmodified":1464053760,
+    "wof:name":"Pearson/Ratterman Brothers Funeral Home",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "information",
+        "casket",
+        "plans-pre-arranged",
+        "advisory"
+    ]
+},
+  "bbox": [
+    -85.515649,
+    38.243226,
+    -85.515649,
+    38.243226
+],
+  "geometry": {"coordinates":[-85.515649,38.243226],"type":"Point"}
+}

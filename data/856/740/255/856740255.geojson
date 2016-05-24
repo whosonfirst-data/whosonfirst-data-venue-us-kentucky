@@ -1,0 +1,84 @@
+{
+  "id": 856740255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75716,38.253872,-85.75716,38.253872",
+    "geom:latitude":38.253872,
+    "geom:longitude":-85.75716,
+    "iso:country":"US",
+    "sg:address":"410 W Jefferson St # 106",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 5116",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government",
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KCGCRQqTFnDS6LQVVC63w_38.253872_-85.757160@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053391,
+    "wof:geomhash":"4ade818033cf3ad7ecd3d61ccaba6fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856740255
+        }
+    ],
+    "wof:id":856740255,
+    "wof:lastmodified":1464053391,
+    "wof:name":"Louisville Metro",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government",
+        "rescue"
+    ]
+},
+  "bbox": [
+    -85.75716,
+    38.253872,
+    -85.75716,
+    38.253872
+],
+  "geometry": {"coordinates":[-85.75716,38.253872],"type":"Point"}
+}

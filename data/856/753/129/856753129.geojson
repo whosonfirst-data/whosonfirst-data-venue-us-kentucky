@@ -1,0 +1,96 @@
+{
+  "id": 856753129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.365257,37.887531,-84.365257,37.887531",
+    "geom:latitude":37.887531,
+    "geom:longitude":-84.365257,
+    "iso:country":"US",
+    "sg:address":"175 Gleneagles Blvd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 4653",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "facility",
+        "hall",
+        "course",
+        "courses-private",
+        "reception",
+        "banquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36rssVbkvx3jYo7hiTvJnF_37.887531_-84.365257@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053873,
+    "wof:geomhash":"4b84cab07e68bac6cdbcc0a2ae480204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":856753129
+        }
+    ],
+    "wof:id":856753129,
+    "wof:lastmodified":1464053873,
+    "wof:name":"Bull Golf Club",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "hall",
+        "course",
+        "courses-private",
+        "reception",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -84.365257,
+    37.887531,
+    -84.365257,
+    37.887531
+],
+  "geometry": {"coordinates":[-84.365257,37.887531],"type":"Point"}
+}

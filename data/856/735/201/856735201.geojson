@@ -1,0 +1,74 @@
+{
+  "id": 856735201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511281,39.088096,-84.511281,39.088096",
+    "geom:latitude":39.088096,
+    "geom:longitude":-84.511281,
+    "iso:country":"US",
+    "sg:address":"300 Madison Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/16950-izzys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 292 0065",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00b3xPOX52EdYymo6UOUl3_39.088096_-84.511281@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053190,
+    "wof:geomhash":"c3c8bc2aa30f1f3ebfa97d055548f467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856735201
+        }
+    ],
+    "wof:id":856735201,
+    "wof:lastmodified":1464053190,
+    "wof:name":"Izzy's",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.511281,
+    39.088096,
+    -84.511281,
+    39.088096
+],
+  "geometry": {"coordinates":[-84.511281,39.088096],"type":"Point"}
+}

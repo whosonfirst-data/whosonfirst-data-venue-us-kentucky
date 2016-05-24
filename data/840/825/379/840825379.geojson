@@ -1,0 +1,71 @@
+{
+  "id": 840825379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618424,37.005573,-84.618424,37.005573",
+    "geom:latitude":37.005573,
+    "geom:longitude":-84.618424,
+    "iso:country":"US",
+    "sg:address":"6590 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5904",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28dlCNDvevqow2P112KuWj_37.005573_-84.618424@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048898,
+    "wof:geomhash":"7384d8781c7a756d72cd08c3f29906e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840825379
+        }
+    ],
+    "wof:id":840825379,
+    "wof:lastmodified":1464048898,
+    "wof:name":"Lookout Marine Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -84.618424,
+    37.005573,
+    -84.618424,
+    37.005573
+],
+  "geometry": {"coordinates":[-84.618424,37.005573],"type":"Point"}
+}

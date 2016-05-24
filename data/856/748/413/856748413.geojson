@@ -1,0 +1,75 @@
+{
+  "id": 856748413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.64344,38.296391,-85.64344,38.296391",
+    "geom:latitude":38.296391,
+    "geom:longitude":-85.64344,
+    "iso:country":"US",
+    "sg:address":"5801 Brittany Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 8512",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "reduction",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45qDv0Hlf90Rj9LUU5LEZM_38.296391_-85.643440@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053690,
+    "wof:geomhash":"14759038f03e522836d9ff36cd1933c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856748413
+        }
+    ],
+    "wof:id":856748413,
+    "wof:lastmodified":1464053690,
+    "wof:name":"Metro Sewer District",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reduction",
+        "waste"
+    ]
+},
+  "bbox": [
+    -85.64344,
+    38.296391,
+    -85.64344,
+    38.296391
+],
+  "geometry": {"coordinates":[-85.64344,38.296391],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 840765085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.947948,37.998973,-85.947948,37.998973",
+    "geom:latitude":37.998973,
+    "geom:longitude":-85.947948,
+    "iso:country":"US",
+    "sg:address":"602 Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 4046",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85826355,
+        102084595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K58V1trUVzmtJUh7hYBS0_37.998973_-85.947948@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047454,
+    "wof:geomhash":"a6214ab03089f75e2f7d2d07edeaa662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "neighbourhood_id":85826355,
+            "region_id":85688641,
+            "venue_id":840765085
+        }
+    ],
+    "wof:id":840765085,
+    "wof:lastmodified":1464047454,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85826355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.947948,
+    37.998973,
+    -85.947948,
+    37.998973
+],
+  "geometry": {"coordinates":[-85.947948,37.998973],"type":"Point"}
+}

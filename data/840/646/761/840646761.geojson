@@ -1,0 +1,73 @@
+{
+  "id": 840646761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.739543,38.256267,-85.739543,38.256267",
+    "geom:latitude":38.256267,
+    "geom:longitude":-85.739543,
+    "iso:country":"US",
+    "sg:address":"120 N Clay St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 0123",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AQ2HASjFgTJ3xxYzmmzGH_38.256267_-85.739543@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044816,
+    "wof:geomhash":"330c89bffa63d567e2118b0e5db3e1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":840646761
+        }
+    ],
+    "wof:id":840646761,
+    "wof:lastmodified":1464044816,
+    "wof:name":"John P Plymire",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.739543,
+    38.256267,
+    -85.739543,
+    38.256267
+],
+  "geometry": {"coordinates":[-85.739543,38.256267],"type":"Point"}
+}

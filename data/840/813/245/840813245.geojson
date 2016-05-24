@@ -1,0 +1,68 @@
+{
+  "id": 840813245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646334,38.254126,-85.646334,38.254126",
+    "geom:latitude":38.254126,
+    "geom:longitude":-85.646334,
+    "iso:country":"US",
+    "sg:address":"106 Sears Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 0553",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MjNEaTOrUnrjw4PGpsKg7_38.254126_-85.646334@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048550,
+    "wof:geomhash":"5e77dfeab82f96901819fd8ec9a541bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840813245
+        }
+    ],
+    "wof:id":840813245,
+    "wof:lastmodified":1464048550,
+    "wof:name":"St Mathews Schwinn Cyclery",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.646334,
+    38.254126,
+    -85.646334,
+    38.254126
+],
+  "geometry": {"coordinates":[-85.646334,38.254126],"type":"Point"}
+}

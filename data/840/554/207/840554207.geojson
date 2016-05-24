@@ -1,0 +1,73 @@
+{
+  "id": 840554207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.526664,37.714425,-87.526664,37.714425",
+    "geom:latitude":37.714425,
+    "geom:longitude":-87.526664,
+    "iso:country":"US",
+    "sg:address":"5578 State Hwy 283",
+    "sg:city":"Robards",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 521 0926",
+    "sg:postcode":"42452",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pK212434Gu0sGIaUkfjrV_37.714425_-87.526664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042609,
+    "wof:geomhash":"78ab29a85920f172b2565d1c484fb565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840554207
+        }
+    ],
+    "wof:id":840554207,
+    "wof:lastmodified":1464042609,
+    "wof:name":"Verizon Wireless",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -87.526664,
+    37.714425,
+    -87.526664,
+    37.714425
+],
+  "geometry": {"coordinates":[-87.526664,37.714425],"type":"Point"}
+}

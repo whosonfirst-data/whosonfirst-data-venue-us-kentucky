@@ -1,0 +1,68 @@
+{
+  "id": 856724253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610585,38.221965,-85.610585,38.221965",
+    "geom:latitude":38.221965,
+    "geom:longitude":-85.610585,
+    "iso:country":"US",
+    "sg:address":"4315 Green Pine Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 0125",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53iZpbsCfFMyyHBU2tGrsg_38.221965_-85.610585@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052763,
+    "wof:geomhash":"2f3a26b01522ef817b614a19370f243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856724253
+        }
+    ],
+    "wof:id":856724253,
+    "wof:lastmodified":1464052763,
+    "wof:name":"Larry Hoagland",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.610585,
+    38.221965,
+    -85.610585,
+    38.221965
+],
+  "geometry": {"coordinates":[-85.610585,38.221965],"type":"Point"}
+}

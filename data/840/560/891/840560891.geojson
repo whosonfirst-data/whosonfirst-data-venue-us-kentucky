@@ -1,0 +1,71 @@
+{
+  "id": 840560891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.424179,36.948368,-86.424179,36.948368",
+    "geom:latitude":36.948368,
+    "geom:longitude":-86.424179,
+    "iso:country":"US",
+    "sg:address":"2730 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0404",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YvSbfIgvK3B6rGRYxPKxp_36.948368_-86.424179@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042751,
+    "wof:geomhash":"8bf74135de06105af6457c55b514fc09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840560891
+        }
+    ],
+    "wof:id":840560891,
+    "wof:lastmodified":1464042751,
+    "wof:name":"Anka's Secrets",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.424179,
+    36.948368,
+    -86.424179,
+    36.948368
+],
+  "geometry": {"coordinates":[-86.424179,36.948368],"type":"Point"}
+}

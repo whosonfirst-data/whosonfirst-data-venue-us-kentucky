@@ -1,0 +1,76 @@
+{
+  "id": 856736327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.374301,37.00745,-86.374301,37.00745",
+    "geom:latitude":37.00745,
+    "geom:longitude":-86.374301,
+    "iso:country":"US",
+    "sg:address":"543 Duntov Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/173578-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1511",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46irmM8QtJTvh20QWrnb0t_37.007450_-86.374301@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053235,
+    "wof:geomhash":"ffded107b2c58c3d1e1a7de2ad99e8c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856736327
+        }
+    ],
+    "wof:id":856736327,
+    "wof:lastmodified":1464053235,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.374301,
+    37.00745,
+    -86.374301,
+    37.00745
+],
+  "geometry": {"coordinates":[-86.374301,37.00745],"type":"Point"}
+}

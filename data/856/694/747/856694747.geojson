@@ -1,0 +1,73 @@
+{
+  "id": 856694747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756228,38.248688,-85.756228,38.248688",
+    "geom:latitude":38.248688,
+    "geom:longitude":-85.756228,
+    "iso:country":"US",
+    "sg:address":"657 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 2828",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lrFKv2JOIyfwkzcnGNVf7_38.248688_-85.756228@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051955,
+    "wof:geomhash":"9abc44cf9159699d22a4671887d724e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":856694747
+        }
+    ],
+    "wof:id":856694747,
+    "wof:lastmodified":1464051955,
+    "wof:name":"Crescent Centre",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.756228,
+    38.248688,
+    -85.756228,
+    38.248688
+],
+  "geometry": {"coordinates":[-85.75622799999999,38.248688],"type":"Point"}
+}

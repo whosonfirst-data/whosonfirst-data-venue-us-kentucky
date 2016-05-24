@@ -1,0 +1,73 @@
+{
+  "id": 856759291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51236,38.952758,-84.51236,38.952758",
+    "geom:latitude":38.952758,
+    "geom:longitude":-84.51236,
+    "iso:country":"US",
+    "sg:address":"782 Windmill Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 0205",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V4tCI1wIC04IegFbCX6ap_38.952758_-84.512360@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054100,
+    "wof:geomhash":"ae40df452abfafc38b54afc6606e3c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":856759291
+        }
+    ],
+    "wof:id":856759291,
+    "wof:lastmodified":1464054100,
+    "wof:name":"Its Only Downtown Pizza",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.51236,
+    38.952758,
+    -84.51236,
+    38.952758
+],
+  "geometry": {"coordinates":[-84.51236,38.952758],"type":"Point"}
+}

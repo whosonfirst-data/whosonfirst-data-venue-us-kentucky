@@ -1,0 +1,74 @@
+{
+  "id": 840587887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.577064,38.239995,-85.577064,38.239995",
+    "geom:latitude":38.239995,
+    "geom:longitude":-85.577064,
+    "iso:country":"US",
+    "sg:address":"420 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 8021",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "sg:website":"www.kaptest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oHAzsUwc9Oh0SH13j55X8_38.239995_-85.577064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043378,
+    "wof:geomhash":"8c39c14a40f21f137d6926abc55a3f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840587887
+        }
+    ],
+    "wof:id":840587887,
+    "wof:lastmodified":1464043378,
+    "wof:name":"Kaplan Test Preparation",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -85.577064,
+    38.239995,
+    -85.577064,
+    38.239995
+],
+  "geometry": {"coordinates":[-85.57706399999999,38.239995],"type":"Point"}
+}

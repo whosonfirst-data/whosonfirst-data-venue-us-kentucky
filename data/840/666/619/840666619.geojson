@@ -1,0 +1,83 @@
+{
+  "id": 840666619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636282,38.204594,-85.636282,38.204594",
+    "geom:latitude":38.204594,
+    "geom:longitude":-85.636282,
+    "iso:country":"US",
+    "sg:address":"3806 Jupiter Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 7556",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VTJaISQRT92zjbe9ep1tp_38.204594_-85.636282@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045247,
+    "wof:geomhash":"53b8303ef809d36d7650d2e8c3db907c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840666619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840666619
+        }
+    ],
+    "wof:id":840666619,
+    "wof:lastmodified":1464045247,
+    "wof:name":"Tree-Mend-Us Trees & Bushes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -85.636282,
+    38.204594,
+    -85.636282,
+    38.204594
+],
+  "geometry": {"coordinates":[-85.63628199999999,38.204594],"type":"Point"}
+}

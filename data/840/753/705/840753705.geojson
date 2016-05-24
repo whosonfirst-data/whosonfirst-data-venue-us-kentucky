@@ -1,0 +1,71 @@
+{
+  "id": 840753705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58225,37.857706,-84.58225,37.857706",
+    "geom:latitude":37.857706,
+    "geom:longitude":-84.58225,
+    "iso:country":"US",
+    "sg:address":"1501 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2599",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31GtoS807IHmNqOcbYBBc4_37.857706_-84.582250@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047188,
+    "wof:geomhash":"f009bf1d221e9661f3819dcab5ab1ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840753705
+        }
+    ],
+    "wof:id":840753705,
+    "wof:lastmodified":1464047188,
+    "wof:name":"D's Auto Ctr-Import & Domestic",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.58225,
+    37.857706,
+    -84.58225,
+    37.857706
+],
+  "geometry": {"coordinates":[-84.58225,37.857706],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856737103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.83272,37.709201,-85.83272,37.709201",
+    "geom:latitude":37.709201,
+    "geom:longitude":-85.83272,
+    "iso:country":"US",
+    "sg:address":"201 Commerce Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/103623-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1513",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ii46nPEHgvYSamitQHcQv_37.709201_-85.832720@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053266,
+    "wof:geomhash":"154ea9fe15578071ec04a3d9cb9375ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737103
+        }
+    ],
+    "wof:id":856737103,
+    "wof:lastmodified":1464053266,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.83272,
+    37.709201,
+    -85.83272,
+    37.709201
+],
+  "geometry": {"coordinates":[-85.83271999999999,37.709201],"type":"Point"}
+}

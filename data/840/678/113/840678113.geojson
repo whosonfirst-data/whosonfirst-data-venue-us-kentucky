@@ -1,0 +1,69 @@
+{
+  "id": 840678113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.762004,37.067699,-84.762004,37.067699",
+    "geom:latitude":37.067699,
+    "geom:longitude":-84.762004,
+    "iso:country":"US",
+    "sg:address":"18 Ash Dr",
+    "sg:city":"Nancy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 636 4110",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ykSooQOPJ0WPgB8PB1GVk_37.067699_-84.762004@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045524,
+    "wof:geomhash":"53e7360308478d8b4e19f38684e4a6b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840678113
+        }
+    ],
+    "wof:id":840678113,
+    "wof:lastmodified":1464045524,
+    "wof:name":"R&D Roofing",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.762004,
+    37.067699,
+    -84.762004,
+    37.067699
+],
+  "geometry": {"coordinates":[-84.762004,37.067699],"type":"Point"}
+}

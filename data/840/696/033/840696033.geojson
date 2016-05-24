@@ -1,0 +1,73 @@
+{
+  "id": 840696033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883259,37.72072,-85.883259,37.72072",
+    "geom:latitude":37.72072,
+    "geom:longitude":-85.883259,
+    "iso:country":"US",
+    "sg:address":"1237 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6875",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JKfa4vRs48gewhNYK7s2K_37.720720_-85.883259@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045972,
+    "wof:geomhash":"dfab98da32cb2f7b0d9f07173de59437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840696033
+        }
+    ],
+    "wof:id":840696033,
+    "wof:lastmodified":1464045972,
+    "wof:name":"Neurological Specialists",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.883259,
+    37.72072,
+    -85.883259,
+    37.72072
+],
+  "geometry": {"coordinates":[-85.883259,37.72072],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840578637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.431742,36.62078,-87.431742,36.62078",
+    "geom:latitude":36.62078,
+    "geom:longitude":-87.431742,
+    "iso:country":"US",
+    "sg:address":"2645 Fort Campbell Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 431 0722",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85851205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S56BYNxfzR8IS99YTMQgR_36.620780_-87.431742@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043177,
+    "wof:geomhash":"3c26b53aa1d5de4c525c0f700e851a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85851205,
+            "region_id":85688701,
+            "venue_id":840578637
+        }
+    ],
+    "wof:id":840578637,
+    "wof:lastmodified":1464043177,
+    "wof:name":"C & M Wheels",
+    "wof:parent_id":85851205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.431742,
+    36.62078,
+    -87.431742,
+    36.62078
+],
+  "geometry": {"coordinates":[-87.431742,36.62078],"type":"Point"}
+}

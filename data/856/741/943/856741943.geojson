@@ -1,0 +1,73 @@
+{
+  "id": 856741943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706737,38.273788,-85.706737,38.273788",
+    "geom:latitude":38.273788,
+    "geom:longitude":-85.706737,
+    "iso:country":"US",
+    "sg:address":"2726 River Green Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 3889",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "robotics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85803401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76kDEe17Jj2Z2HA8QJAr8X_38.273788_-85.706737@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053455,
+    "wof:geomhash":"7fd2c3efe6c70bf54b6cac0fc510dacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85803401,
+            "region_id":85688641,
+            "venue_id":856741943
+        }
+    ],
+    "wof:id":856741943,
+    "wof:lastmodified":1464053455,
+    "wof:name":"Kawasaki Robotics USA Inc",
+    "wof:parent_id":85803401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "robotics"
+    ]
+},
+  "bbox": [
+    -85.706737,
+    38.273788,
+    -85.706737,
+    38.273788
+],
+  "geometry": {"coordinates":[-85.706737,38.273788],"type":"Point"}
+}

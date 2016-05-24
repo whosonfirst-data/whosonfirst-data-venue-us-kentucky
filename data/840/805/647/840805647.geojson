@@ -1,0 +1,73 @@
+{
+  "id": 840805647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.47129,36.977007,-86.47129,36.977007",
+    "geom:latitude":36.977007,
+    "geom:longitude":-86.47129,
+    "iso:country":"US",
+    "sg:address":"160 Saint Charles St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4424",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tool",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JS9Gvw7z5Hyd9ndisX2l3_36.977007_-86.471290@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048310,
+    "wof:geomhash":"b2f21cee08e5f723b53b528f4bdfa087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840805647
+        }
+    ],
+    "wof:id":840805647,
+    "wof:lastmodified":1464048310,
+    "wof:name":"Superior Industrial Sharpening",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -86.47129,
+    36.977007,
+    -86.47129,
+    36.977007
+],
+  "geometry": {"coordinates":[-86.47129,36.977007],"type":"Point"}
+}

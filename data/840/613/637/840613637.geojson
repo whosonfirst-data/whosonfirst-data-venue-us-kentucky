@@ -1,0 +1,73 @@
+{
+  "id": 840613637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591895,37.097999,-84.591895,37.097999",
+    "geom:latitude":37.097999,
+    "geom:longitude":-84.591895,
+    "iso:country":"US",
+    "sg:address":"500 Kate Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 8979",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X2cC3uXEWA4UCWuxHKRDc_37.097999_-84.591895@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044009,
+    "wof:geomhash":"bdb8c68a5fad48023dd2bf99fe92816e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840613637
+        }
+    ],
+    "wof:id":840613637,
+    "wof:lastmodified":1464044009,
+    "wof:name":"Westbrook Apartments",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.591895,
+    37.097999,
+    -84.591895,
+    37.097999
+],
+  "geometry": {"coordinates":[-84.59189499999999,37.097999],"type":"Point"}
+}

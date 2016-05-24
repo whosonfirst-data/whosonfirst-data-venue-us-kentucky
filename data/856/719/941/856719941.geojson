@@ -1,0 +1,71 @@
+{
+  "id": 856719941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.331742,38.427146,-85.331742,38.427146",
+    "geom:latitude":38.427146,
+    "geom:longitude":-85.331742,
+    "iso:country":"US",
+    "sg:address":"2315 Spann Ln",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1193",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYzgCRV0KEQkYsE5pjQqk_38.427146_-85.331742@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052589,
+    "wof:geomhash":"7be330730ba4e3bee1151ef45877ff0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856719941
+        }
+    ],
+    "wof:id":856719941,
+    "wof:lastmodified":1464052589,
+    "wof:name":"Lane Shady Farm",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -85.331742,
+    38.427146,
+    -85.331742,
+    38.427146
+],
+  "geometry": {"coordinates":[-85.33174200000001,38.427146],"type":"Point"}
+}

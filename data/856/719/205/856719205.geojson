@@ -1,0 +1,71 @@
+{
+  "id": 856719205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.658047,37.857876,-84.658047,37.857876",
+    "geom:latitude":37.857876,
+    "geom:longitude":-84.658047,
+    "iso:country":"US",
+    "sg:address":"401 E Main St",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 4917",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ObgoJpCLLJ7yqrq1kM0i6_37.857876_-84.658047@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052554,
+    "wof:geomhash":"392729d40f416aa83fac9c8372bb6050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856719205
+        }
+    ],
+    "wof:id":856719205,
+    "wof:lastmodified":1464052554,
+    "wof:name":"Fox Automotive & Equipment",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.658047,
+    37.857876,
+    -84.658047,
+    37.857876
+],
+  "geometry": {"coordinates":[-84.658047,37.857876],"type":"Point"}
+}

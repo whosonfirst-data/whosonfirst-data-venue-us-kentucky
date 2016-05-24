@@ -1,0 +1,74 @@
+{
+  "id": 856734409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.327964,37.735208,-84.327964,37.735208",
+    "geom:latitude":37.735208,
+    "geom:longitude":-84.327964,
+    "iso:country":"US",
+    "sg:address":"2019 Colby Taylor Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/richmond/105228-ryans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 1996",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c5SGpfevajvbQ1WNyxQOG_37.735208_-84.327964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053160,
+    "wof:geomhash":"9d6f591b3230c3f8659267a8f764ced0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856734409
+        }
+    ],
+    "wof:id":856734409,
+    "wof:lastmodified":1464053160,
+    "wof:name":"Ryan's",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.327964,
+    37.735208,
+    -84.327964,
+    37.735208
+],
+  "geometry": {"coordinates":[-84.32796399999999,37.735208],"type":"Point"}
+}

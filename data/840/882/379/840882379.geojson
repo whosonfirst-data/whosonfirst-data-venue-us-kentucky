@@ -1,0 +1,73 @@
+{
+  "id": 840882379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647047,38.193656,-85.647047,38.193656",
+    "geom:latitude":38.193656,
+    "geom:longitude":-85.647047,
+    "iso:country":"US",
+    "sg:address":"6026 Action Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 0808",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kfgFM6sjbMOWKmpsAswQA_38.193656_-85.647047@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050119,
+    "wof:geomhash":"80fd75e6311861a348e5f8bc687a0b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840882379
+        }
+    ],
+    "wof:id":840882379,
+    "wof:lastmodified":1464050119,
+    "wof:name":"Wood Shack",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -85.647047,
+    38.193656,
+    -85.647047,
+    38.193656
+],
+  "geometry": {"coordinates":[-85.647047,38.193656],"type":"Point"}
+}

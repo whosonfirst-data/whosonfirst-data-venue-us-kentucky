@@ -1,0 +1,82 @@
+{
+  "id": 840736029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774819,37.638228,-84.774819,37.638228",
+    "geom:latitude":37.638228,
+    "geom:longitude":-84.774819,
+    "iso:country":"US",
+    "sg:address":"541 S 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7935",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4unuX4b0iZtfj86pngeUIf_37.638228_-84.774819@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046818,
+    "wof:geomhash":"705568104bcd5fe78ea2366ea6c65265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840736029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840736029
+        }
+    ],
+    "wof:id":840736029,
+    "wof:lastmodified":1464046818,
+    "wof:name":"Boyle Electronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -84.774819,
+    37.638228,
+    -84.774819,
+    37.638228
+],
+  "geometry": {"coordinates":[-84.77481899999999,37.638228],"type":"Point"}
+}

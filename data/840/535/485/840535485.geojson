@@ -1,0 +1,73 @@
+{
+  "id": 840535485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564272,38.979211,-84.564272,38.979211",
+    "geom:latitude":38.979211,
+    "geom:longitude":-84.564272,
+    "iso:country":"US",
+    "sg:address":"4088 Sherbourne Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 371 2015",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kBDq0KiKOfFl3j8KDBeFj_38.979211_-84.564272@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042103,
+    "wof:geomhash":"a2632fe9baed7d77022ce604d625e3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":840535485
+        }
+    ],
+    "wof:id":840535485,
+    "wof:lastmodified":1464042103,
+    "wof:name":"Drees Co",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -84.564272,
+    38.979211,
+    -84.564272,
+    38.979211
+],
+  "geometry": {"coordinates":[-84.564272,38.979211],"type":"Point"}
+}

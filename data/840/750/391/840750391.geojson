@@ -1,0 +1,71 @@
+{
+  "id": 840750391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.834195,37.718346,-85.834195,37.718346",
+    "geom:latitude":37.718346,
+    "geom:longitude":-85.834195,
+    "iso:country":"US",
+    "sg:address":"100 Crimson Creek Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2254",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33opX0XorgrqbIRgXA4tAK_37.718346_-85.834195@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047110,
+    "wof:geomhash":"4d285bb0577a1a6b6ac9ecf1480907db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840750391
+        }
+    ],
+    "wof:id":840750391,
+    "wof:lastmodified":1464047110,
+    "wof:name":"Vaughan Village",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.834195,
+    37.718346,
+    -85.834195,
+    37.718346
+],
+  "geometry": {"coordinates":[-85.83419499999999,37.718346],"type":"Point"}
+}

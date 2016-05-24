@@ -1,0 +1,75 @@
+{
+  "id": 840700671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.89265,37.014622,-85.89265,37.014622",
+    "geom:latitude":37.014622,
+    "geom:longitude":-85.89265,
+    "iso:country":"US",
+    "sg:address":"169 Scottie Dr",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9661",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V0eck2ZO10qpbQ4usdyOP_37.014622_-85.892650@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046098,
+    "wof:geomhash":"bc9c0066f18a69a126b3a948172c92bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840700671
+        }
+    ],
+    "wof:id":840700671,
+    "wof:lastmodified":1464046098,
+    "wof:name":"Jim H Whiteside MD",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.89265,
+    37.014622,
+    -85.89265,
+    37.014622
+],
+  "geometry": {"coordinates":[-85.89265,37.014622],"type":"Point"}
+}

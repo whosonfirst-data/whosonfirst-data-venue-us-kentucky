@@ -1,0 +1,73 @@
+{
+  "id": 840752603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.948046,37.998953,-85.948046,37.998953",
+    "geom:latitude":37.998953,
+    "geom:longitude":-85.948046,
+    "iso:country":"US",
+    "sg:address":"616 Main St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 9555",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85826355,
+        102084595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m4bOM7DnaUoIUD5KadcnX_37.998953_-85.948046@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047161,
+    "wof:geomhash":"4528c278bf574b547432f09291917d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "neighbourhood_id":85826355,
+            "region_id":85688641,
+            "venue_id":840752603
+        }
+    ],
+    "wof:id":840752603,
+    "wof:lastmodified":1464047161,
+    "wof:name":"Applegate Landing",
+    "wof:parent_id":85826355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -85.948046,
+    37.998953,
+    -85.948046,
+    37.998953
+],
+  "geometry": {"coordinates":[-85.94804600000001,37.998953],"type":"Point"}
+}

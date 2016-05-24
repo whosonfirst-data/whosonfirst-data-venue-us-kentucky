@@ -1,0 +1,76 @@
+{
+  "id": 856735521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508601,38.943927,-84.508601,38.943927",
+    "geom:latitude":38.943927,
+    "geom:longitude":-84.508601,
+    "iso:country":"US",
+    "sg:address":"6426 Taylor Mill Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/independence/120566-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 363 3790",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJaW2E0TcNjX6spZsdeqR_38.943927_-84.508601@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053201,
+    "wof:geomhash":"1416cabc6b1cf000dfdb722fc1b6e7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":856735521
+        }
+    ],
+    "wof:id":856735521,
+    "wof:lastmodified":1464053201,
+    "wof:name":"Subway",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.508601,
+    38.943927,
+    -84.508601,
+    38.943927
+],
+  "geometry": {"coordinates":[-84.508601,38.943927],"type":"Point"}
+}

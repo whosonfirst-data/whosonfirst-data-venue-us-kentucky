@@ -1,0 +1,71 @@
+{
+  "id": 840921393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578435,37.884846,-84.578435,37.884846",
+    "geom:latitude":37.884846,
+    "geom:longitude":-84.578435,
+    "iso:country":"US",
+    "sg:address":"150 Mill St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 6100",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ttO1YLdyaZ4aWb4ffQ96q_37.884846_-84.578435@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051040,
+    "wof:geomhash":"0da3d9a8870f76a43427d21b5d72f712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840921393
+        }
+    ],
+    "wof:id":840921393,
+    "wof:lastmodified":1464051040,
+    "wof:name":"Glynn Young's Landscaping Ctr",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.578435,
+    37.884846,
+    -84.578435,
+    37.884846
+],
+  "geometry": {"coordinates":[-84.578435,37.884846],"type":"Point"}
+}

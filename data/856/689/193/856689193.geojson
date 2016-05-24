@@ -1,0 +1,71 @@
+{
+  "id": 856689193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.571839,37.890107,-84.571839,37.890107",
+    "geom:latitude":37.890107,
+    "geom:longitude":-84.571839,
+    "iso:country":"US",
+    "sg:address":"103 Gayle St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9395",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NV9RZt806C6a7xME9GFJT_37.890107_-84.571839@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051851,
+    "wof:geomhash":"e5c84fff822b090b10abb5bbb4ced722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856689193
+        }
+    ],
+    "wof:id":856689193,
+    "wof:lastmodified":1464051851,
+    "wof:name":"Cliff Cole Mechanical Contr",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.571839,
+    37.890107,
+    -84.571839,
+    37.890107
+],
+  "geometry": {"coordinates":[-84.571839,37.890107],"type":"Point"}
+}

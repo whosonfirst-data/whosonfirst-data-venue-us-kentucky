@@ -1,0 +1,71 @@
+{
+  "id": 840676899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694034,36.756672,-83.694034,36.756672",
+    "geom:latitude":36.756672,
+    "geom:longitude":-83.694034,
+    "iso:country":"US",
+    "sg:address":"786 US Hwy 25E",
+    "sg:city":"Barbourville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 546 8843",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E2JCjIj58H2M4pl7idlqd_36.756672_-83.694034@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045489,
+    "wof:geomhash":"16182ae3a86269347f3334e5b508577c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840676899
+        }
+    ],
+    "wof:id":840676899,
+    "wof:lastmodified":1464045489,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.694034,
+    36.756672,
+    -83.694034,
+    36.756672
+],
+  "geometry": {"coordinates":[-83.694034,36.756672],"type":"Point"}
+}

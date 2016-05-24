@@ -1,0 +1,74 @@
+{
+  "id": 840574571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472357,38.177426,-85.472357,38.177426",
+    "geom:latitude":38.177426,
+    "geom:longitude":-85.472357,
+    "iso:country":"US",
+    "sg:address":"4010 Routt Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 5848",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.cedarridgecamp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M74PR3f9mEVCOsefw2lN6_38.177426_-85.472357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043093,
+    "wof:geomhash":"774d54adf22827ff2c4dcfc0e8cc56cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840574571
+        }
+    ],
+    "wof:id":840574571,
+    "wof:lastmodified":1464043093,
+    "wof:name":"Cedar Ridge Camp",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -85.472357,
+    38.177426,
+    -85.472357,
+    38.177426
+],
+  "geometry": {"coordinates":[-85.472357,38.177426],"type":"Point"}
+}

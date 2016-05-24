@@ -1,0 +1,81 @@
+{
+  "id": 856752985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.706207,38.050003,-84.706207,38.050003",
+    "geom:latitude":38.050003,
+    "geom:longitude":-84.706207,
+    "iso:country":"US",
+    "sg:address":"1325 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 559 0168",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ],
+    "sg:website":"http://ad.doubleclick.net/clk;226007916;49913701;g?http://www.vcahospitals.com/main/offer?utm_source=iyp&utm_medium=iyp&utm_campaign=yellowpages",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UiZ7JrLd0wU03zVzk0Mhg_38.050003_-84.706207@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053868,
+    "wof:geomhash":"dd773442de28958667895c82f7c256fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752985
+        }
+    ],
+    "wof:id":856752985,
+    "wof:lastmodified":1464053868,
+    "wof:name":"VCA Woodford Animal Hospital",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.706207,
+    38.050003,
+    -84.706207,
+    38.050003
+],
+  "geometry": {"coordinates":[-84.70620700000001,38.050003],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 856754985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55076,37.981351,-84.55076,37.981351",
+    "geom:latitude":37.981351,
+    "geom:longitude":-84.55076,
+    "iso:country":"US",
+    "sg:address":"3644 Boston Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 268 6238",
+    "sg:postcode":"40514",
+    "sg:province":"KY",
+    "sg:tags":[
+        "facility",
+        "favors",
+        "hall",
+        "planning",
+        "reception",
+        "banquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y6SfnPb95qvMwFuaq20BF_37.981351_-84.550760@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053944,
+    "wof:geomhash":"a8f5ced64d3e7b15f9c34bb4dcce11a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873053,
+            "region_id":85688641,
+            "venue_id":856754985
+        }
+    ],
+    "wof:id":856754985,
+    "wof:lastmodified":1464053944,
+    "wof:name":"Bounceu",
+    "wof:parent_id":85873053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "favors",
+        "hall",
+        "planning",
+        "reception",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -84.55076,
+    37.981351,
+    -84.55076,
+    37.981351
+],
+  "geometry": {"coordinates":[-84.55076,37.981351],"type":"Point"}
+}

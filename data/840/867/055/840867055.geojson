@@ -1,0 +1,74 @@
+{
+  "id": 840867055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.810076,38.211462,-84.810076,38.211462",
+    "geom:latitude":38.211462,
+    "geom:longitude":-84.810076,
+    "iso:country":"US",
+    "sg:address":"3200 Georgetown Rd",
+    "sg:city":"Frankfort",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 695 3010",
+    "sg:postcode":"40601",
+    "sg:province":"KY",
+    "sg:tags":[
+        "distiller"
+    ],
+    "sg:website":"www.jimbeam.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946789,
+        102084499,
+        85826827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18oYh8TbH9JeHYssjm18w8_38.211462_-84.810076@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049798,
+    "wof:geomhash":"7cb588561d898e78d2941c2a3178075d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084499,
+            "locality_id":85946789,
+            "neighbourhood_id":85826827,
+            "region_id":85688641,
+            "venue_id":840867055
+        }
+    ],
+    "wof:id":840867055,
+    "wof:lastmodified":1464049798,
+    "wof:name":"Jim Beam Brands Co",
+    "wof:parent_id":85826827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distiller"
+    ]
+},
+  "bbox": [
+    -84.810076,
+    38.211462,
+    -84.810076,
+    38.211462
+],
+  "geometry": {"coordinates":[-84.810076,38.211462],"type":"Point"}
+}

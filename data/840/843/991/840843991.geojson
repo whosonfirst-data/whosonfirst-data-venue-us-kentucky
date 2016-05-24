@@ -1,0 +1,71 @@
+{
+  "id": 840843991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.791084,36.991923,-88.791084,36.991923",
+    "geom:latitude":36.991923,
+    "geom:longitude":-88.791084,
+    "iso:country":"US",
+    "sg:address":"150 Meyers Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 488 2086",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Kz3fAeScPUIWIfFFtDWC_36.991923_-88.791084@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049311,
+    "wof:geomhash":"4e7f62e1173b713946d2eaa0eabca1c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840843991
+        }
+    ],
+    "wof:id":840843991,
+    "wof:lastmodified":1464049311,
+    "wof:name":"Circle C Stables",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -88.791084,
+    36.991923,
+    -88.791084,
+    36.991923
+],
+  "geometry": {"coordinates":[-88.791084,36.991923],"type":"Point"}
+}

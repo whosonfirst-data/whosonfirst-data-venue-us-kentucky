@@ -1,0 +1,83 @@
+{
+  "id": 856744241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.813127,38.261468,-85.813127,38.261468",
+    "geom:latitude":38.261468,
+    "geom:longitude":-85.813127,
+    "iso:country":"US",
+    "sg:address":"214 Amy Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 212 6025",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.pncbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n0LQHlbfWkNBkhsZSCbVo_38.261468_-85.813127@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053537,
+    "wof:geomhash":"3515b57d419be725b4d8544795ae2228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":856744241
+        }
+    ],
+    "wof:id":856744241,
+    "wof:lastmodified":1464053537,
+    "wof:name":"PNC Bank",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.813127,
+    38.261468,
+    -85.813127,
+    38.261468
+],
+  "geometry": {"coordinates":[-85.81312699999999,38.261468],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856730653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.776749,38.205898,-85.776749,38.205898",
+    "geom:latitude":38.205898,
+    "geom:longitude":-85.776749,
+    "iso:country":"US",
+    "sg:address":"3120 Taylor Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 375 4384",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nail",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mBhTY8SUcu9pRQosTJhFo_38.205877_-85.776939@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053025,
+    "wof:geomhash":"1c51b7aadfd9b8ab77c546dd9e8c20ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":856730653
+        }
+    ],
+    "wof:id":856730653,
+    "wof:lastmodified":1464053025,
+    "wof:name":"Rose Nail Salon",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nail",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -85.776749,
+    38.205898,
+    -85.776749,
+    38.205898
+],
+  "geometry": {"coordinates":[-85.776749,38.205898],"type":"Point"}
+}

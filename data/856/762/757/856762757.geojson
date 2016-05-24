@@ -1,0 +1,71 @@
+{
+  "id": 856762757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.845121,37.705426,-85.845121,37.705426",
+    "geom:latitude":37.705426,
+    "geom:longitude":-85.845121,
+    "iso:country":"US",
+    "sg:address":"911 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4112",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oH6870Z3zo81iuIzToQTI_37.705426_-85.845121@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054226,
+    "wof:geomhash":"0940562b62d370d76172dc7a3704c1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762757
+        }
+    ],
+    "wof:id":856762757,
+    "wof:lastmodified":1464054226,
+    "wof:name":"Quick & Coleman Attys",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.845121,
+    37.705426,
+    -85.845121,
+    37.705426
+],
+  "geometry": {"coordinates":[-85.84512100000001,37.705426],"type":"Point"}
+}

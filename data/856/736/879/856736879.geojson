@@ -1,0 +1,74 @@
+{
+  "id": 856736879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.59036,37.836762,-87.59036,37.836762",
+    "geom:latitude":37.836762,
+    "geom:longitude":-87.59036,
+    "iso:country":"US",
+    "sg:address":"26 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/henderson/83737-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 4444",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zj7r9ZxbGn4RT4NOS3AHX_37.836762_-87.590360@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053253,
+    "wof:geomhash":"a00f6eab71565f1f1f1991749c8d8add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856736879
+        }
+    ],
+    "wof:id":856736879,
+    "wof:lastmodified":1464053253,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.59036,
+    37.836762,
+    -87.59036,
+    37.836762
+],
+  "geometry": {"coordinates":[-87.59036,37.836762],"type":"Point"}
+}

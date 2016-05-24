@@ -1,0 +1,73 @@
+{
+  "id": 856740437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758789,38.23413,-85.758789,38.23413",
+    "geom:latitude":38.23413,
+    "geom:longitude":-85.758789,
+    "iso:country":"US",
+    "sg:address":"1234 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 212 7500",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O6myTUWTCZ19K8uHhiQQx_38.234130_-85.758789@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053405,
+    "wof:geomhash":"457ec574f04deb98094b4238a225cb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":856740437
+        }
+    ],
+    "wof:id":856740437,
+    "wof:lastmodified":1464053405,
+    "wof:name":"Campion House",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -85.758789,
+    38.23413,
+    -85.758789,
+    38.23413
+],
+  "geometry": {"coordinates":[-85.75878899999999,38.23413],"type":"Point"}
+}

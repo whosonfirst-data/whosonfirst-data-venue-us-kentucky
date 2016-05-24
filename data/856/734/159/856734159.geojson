@@ -1,0 +1,72 @@
+{
+  "id": 856734159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566313,37.893833,-84.566313,37.893833",
+    "geom:latitude":37.893833,
+    "geom:longitude":-84.566313,
+    "iso:country":"US",
+    "sg:address":"110 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/77271-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2254",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sK2fVRgmL0DYX4u2KrDc0_37.893833_-84.566313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053151,
+    "wof:geomhash":"32eeed01a49377a06ad9012c43fcbe0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734159
+        }
+    ],
+    "wof:id":856734159,
+    "wof:lastmodified":1464053151,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.566313,
+    37.893833,
+    -84.566313,
+    37.893833
+],
+  "geometry": {"coordinates":[-84.56631299999999,37.893833],"type":"Point"}
+}

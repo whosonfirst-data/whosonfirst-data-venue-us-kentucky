@@ -1,0 +1,74 @@
+{
+  "id": 856732813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632243,38.231903,-85.632243,38.231903",
+    "geom:latitude":38.231903,
+    "geom:longitude":-85.632243,
+    "iso:country":"US",
+    "sg:address":"3938 S Dupont Sq",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/4455-napa-river-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 0141",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UjGQ0lfYghJcvKqacTgNy_38.231903_-85.632243@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053103,
+    "wof:geomhash":"38fac8df39238fe84a067cc9fd806d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732813
+        }
+    ],
+    "wof:id":856732813,
+    "wof:lastmodified":1464053103,
+    "wof:name":"Napa River Grill",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.632243,
+    38.231903,
+    -85.632243,
+    38.231903
+],
+  "geometry": {"coordinates":[-85.632243,38.231903],"type":"Point"}
+}

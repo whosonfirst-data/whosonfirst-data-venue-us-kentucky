@@ -1,0 +1,71 @@
+{
+  "id": 840792887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.870664,37.703552,-85.870664,37.703552",
+    "geom:latitude":37.703552,
+    "geom:longitude":-85.870664,
+    "iso:country":"US",
+    "sg:address":"574 Dixie Hwy W",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2343",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e8A3t90ePHMh9h09Dcsq9_37.703552_-85.870664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048040,
+    "wof:geomhash":"7b278e1000d1fff74e2267a0ac046223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840792887
+        }
+    ],
+    "wof:id":840792887,
+    "wof:lastmodified":1464048040,
+    "wof:name":"Excell Printing",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -85.870664,
+    37.703552,
+    -85.870664,
+    37.703552
+],
+  "geometry": {"coordinates":[-85.870664,37.703552],"type":"Point"}
+}

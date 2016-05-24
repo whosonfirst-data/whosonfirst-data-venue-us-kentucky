@@ -1,0 +1,71 @@
+{
+  "id": 840901313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573723,37.889923,-84.573723,37.889923",
+    "geom:latitude":37.889923,
+    "geom:longitude":-84.573723,
+    "iso:country":"US",
+    "sg:address":"121 Brookview Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3336",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PshzsS27gwKMRWsApn7i0_37.889923_-84.573723@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050526,
+    "wof:geomhash":"eaadceadf3dcad898ee0ddd54fc83d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840901313
+        }
+    ],
+    "wof:id":840901313,
+    "wof:lastmodified":1464050526,
+    "wof:name":"Bob Madison Drywall",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.573723,
+    37.889923,
+    -84.573723,
+    37.889923
+],
+  "geometry": {"coordinates":[-84.573723,37.889923],"type":"Point"}
+}

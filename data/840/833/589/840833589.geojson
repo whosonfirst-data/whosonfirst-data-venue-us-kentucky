@@ -1,0 +1,86 @@
+{
+  "id": 840833589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774539,37.621887,-84.774539,37.621887",
+    "geom:latitude":37.621887,
+    "geom:longitude":-84.774539,
+    "iso:country":"US",
+    "sg:address":"1560 Hustonville Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2842",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hyioiu6gzUvAAvYQsc9U8_37.621887_-84.774539@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049075,
+    "wof:geomhash":"24c42b251a164535b6512b9a346b1386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840833589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840833589
+        }
+    ],
+    "wof:id":840833589,
+    "wof:lastmodified":1464049075,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.774539,
+    37.621887,
+    -84.774539,
+    37.621887
+],
+  "geometry": {"coordinates":[-84.774539,37.621887],"type":"Point"}
+}

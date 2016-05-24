@@ -1,0 +1,71 @@
+{
+  "id": 840598791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.85357,36.468562,-88.85357,36.468562",
+    "geom:latitude":36.468562,
+    "geom:longitude":-88.85357,
+    "iso:country":"US",
+    "sg:address":"4397 Country Club Rd",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 3121",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nY31WhkyCq4AUGDHN48ac_36.468562_-88.853570@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043629,
+    "wof:geomhash":"253c4536c9c0c04736384440dba8bce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840598791
+        }
+    ],
+    "wof:id":840598791,
+    "wof:lastmodified":1464043629,
+    "wof:name":"Bryant Repair",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.85357,
+    36.468562,
+    -88.85357,
+    36.468562
+],
+  "geometry": {"coordinates":[-88.85357,36.468562],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 856754263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499924,38.048889,-84.499924,38.048889",
+    "geom:latitude":38.048889,
+    "geom:longitude":-84.499924,
+    "iso:country":"US",
+    "sg:address":"401 W Main St # 115",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 381 0503",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "delicatessen",
+        "hotspot",
+        "american",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.getcosi.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bEJ0zcwGktbFzWejoRY6X_38.048889_-84.499924@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053919,
+    "wof:geomhash":"64941318213d1335213b00e24cc62b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873065,
+            "region_id":85688641,
+            "venue_id":856754263
+        }
+    ],
+    "wof:id":856754263,
+    "wof:lastmodified":1464053919,
+    "wof:name":"Cosi",
+    "wof:parent_id":85873065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "delicatessen",
+        "hotspot",
+        "american",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -84.499924,
+    38.048889,
+    -84.499924,
+    38.048889
+],
+  "geometry": {"coordinates":[-84.49992399999999,38.048889],"type":"Point"}
+}

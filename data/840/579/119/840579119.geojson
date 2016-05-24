@@ -1,0 +1,71 @@
+{
+  "id": 840579119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.606842,37.08741,-84.606842,37.08741",
+    "geom:latitude":37.08741,
+    "geom:longitude":-84.606842,
+    "iso:country":"US",
+    "sg:address":"404 S Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 8811",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZZP3PRtc6ar2Ywx5ED9Ga_37.087410_-84.606842@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043185,
+    "wof:geomhash":"5bb95b43c5b5b6a89266bf2b02f1d600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840579119
+        }
+    ],
+    "wof:id":840579119,
+    "wof:lastmodified":1464043185,
+    "wof:name":"Kenwick Apartments",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.606842,
+    37.08741,
+    -84.606842,
+    37.08741
+],
+  "geometry": {"coordinates":[-84.606842,37.08741],"type":"Point"}
+}

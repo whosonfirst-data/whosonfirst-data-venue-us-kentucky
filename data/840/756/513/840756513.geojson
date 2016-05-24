@@ -1,0 +1,86 @@
+{
+  "id": 840756513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.772435,37.645816,-84.772435,37.645816",
+    "geom:latitude":37.645816,
+    "geom:longitude":-84.772435,
+    "iso:country":"US",
+    "sg:address":"227 W Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7154",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lyjgWDxqCWdJ0K5oubLKc_37.645816_-84.772435@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047253,
+    "wof:geomhash":"683b9ac6a042b35e974161658691b492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840756513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840756513
+        }
+    ],
+    "wof:id":840756513,
+    "wof:lastmodified":1464047253,
+    "wof:name":"Nu Life Toner Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -84.772435,
+    37.645816,
+    -84.772435,
+    37.645816
+],
+  "geometry": {"coordinates":[-84.772435,37.645816],"type":"Point"}
+}

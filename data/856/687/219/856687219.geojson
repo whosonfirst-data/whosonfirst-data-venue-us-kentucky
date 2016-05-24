@@ -1,0 +1,71 @@
+{
+  "id": 856687219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.261032,38.214049,-85.261032,38.214049",
+    "geom:latitude":38.214049,
+    "geom:longitude":-85.261032,
+    "iso:country":"US",
+    "sg:address":"2460 Shelbyville Rd",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 3682",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yB5m7YdHbeL7imnHMgxQb_38.214049_-85.261032@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051807,
+    "wof:geomhash":"93f9bb365cc7d58f32dba91658492c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":856687219
+        }
+    ],
+    "wof:id":856687219,
+    "wof:lastmodified":1464051807,
+    "wof:name":"Health Systems-Kentucky",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.261032,
+    38.214049,
+    -85.261032,
+    38.214049
+],
+  "geometry": {"coordinates":[-85.261032,38.214049],"type":"Point"}
+}

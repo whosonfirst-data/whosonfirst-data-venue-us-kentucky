@@ -1,0 +1,73 @@
+{
+  "id": 840633701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.909295,37.758774,-85.909295,37.758774",
+    "geom:latitude":37.758774,
+    "geom:longitude":-85.909295,
+    "iso:country":"US",
+    "sg:address":"5870 S Wilson Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2979",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DZb1CVWydJnJR11GsP27f_37.758774_-85.909295@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044531,
+    "wof:geomhash":"5586a4ef75848b77d9bf36cfad4ade57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840633701
+        }
+    ],
+    "wof:id":840633701,
+    "wof:lastmodified":1464044531,
+    "wof:name":"Maximum Transportation",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.909295,
+    37.758774,
+    -85.909295,
+    37.758774
+],
+  "geometry": {"coordinates":[-85.909295,37.758774],"type":"Point"}
+}

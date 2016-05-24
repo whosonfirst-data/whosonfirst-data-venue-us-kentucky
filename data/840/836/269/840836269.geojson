@@ -1,0 +1,71 @@
+{
+  "id": 840836269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627018,37.119106,-84.627018,37.119106",
+    "geom:latitude":37.119106,
+    "geom:longitude":-84.627018,
+    "iso:country":"US",
+    "sg:address":"3040 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 9098",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2feMy0QN38Wd9gBNtFFrKG_37.119106_-84.627018@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049135,
+    "wof:geomhash":"3d026c624b5f5aa6702ca370838bf31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840836269
+        }
+    ],
+    "wof:id":840836269,
+    "wof:lastmodified":1464049135,
+    "wof:name":"Leslie's Tire",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.627018,
+    37.119106,
+    -84.627018,
+    37.119106
+],
+  "geometry": {"coordinates":[-84.62701800000001,37.119106],"type":"Point"}
+}

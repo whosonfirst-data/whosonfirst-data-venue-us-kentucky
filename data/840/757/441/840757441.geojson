@@ -1,0 +1,73 @@
+{
+  "id": 840757441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.53752,36.84648,-86.53752,36.84648",
+    "geom:latitude":36.84648,
+    "geom:longitude":-86.53752,
+    "iso:country":"US",
+    "sg:address":"11850 Nashville Rd",
+    "sg:city":"Woodburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 529 0028",
+    "sg:postcode":"42170",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSx5cze5S9zj6ZoDsJtbw_36.846480_-86.537520@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047271,
+    "wof:geomhash":"da299e87155b6d815fdc5378841ad6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840757441
+        }
+    ],
+    "wof:id":840757441,
+    "wof:lastmodified":1464047271,
+    "wof:name":"Brown Builders Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.53752,
+    36.84648,
+    -86.53752,
+    36.84648
+],
+  "geometry": {"coordinates":[-86.53752,36.84648],"type":"Point"}
+}

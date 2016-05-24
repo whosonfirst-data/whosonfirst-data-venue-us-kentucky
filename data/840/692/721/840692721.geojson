@@ -1,0 +1,71 @@
+{
+  "id": 840692721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431106,36.95313,-86.431106,36.95313",
+    "geom:latitude":36.95313,
+    "geom:longitude":-86.431106,
+    "iso:country":"US",
+    "sg:address":"1777 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5606",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eK7EdvgyoVHAjuhgJnUAJ_36.953130_-86.431106@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045889,
+    "wof:geomhash":"c4a722ed17707fb532ced63fb3507795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840692721
+        }
+    ],
+    "wof:id":840692721,
+    "wof:lastmodified":1464045889,
+    "wof:name":"Animal Hospital",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.431106,
+    36.95313,
+    -86.431106,
+    36.95313
+],
+  "geometry": {"coordinates":[-86.431106,36.95313],"type":"Point"}
+}

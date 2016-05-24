@@ -1,0 +1,77 @@
+{
+  "id": 840803259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590632,38.206191,-85.590632,38.206191",
+    "geom:latitude":38.206191,
+    "geom:longitude":-85.590632,
+    "iso:country":"US",
+    "sg:address":"9001 Lantern Lite Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 4758",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3whJVoJb005ZX09COwDcGk_38.206191_-85.590632@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048268,
+    "wof:geomhash":"1e68d3156860f5fd946de6ced371c06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840803259
+        }
+    ],
+    "wof:id":840803259,
+    "wof:lastmodified":1464048268,
+    "wof:name":"Surface Medic",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -85.590632,
+    38.206191,
+    -85.590632,
+    38.206191
+],
+  "geometry": {"coordinates":[-85.590632,38.206191],"type":"Point"}
+}

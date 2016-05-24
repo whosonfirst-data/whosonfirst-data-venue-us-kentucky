@@ -1,0 +1,89 @@
+{
+  "id": 856745151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.770666,38.17142,-85.770666,38.17142",
+    "geom:latitude":38.17142,
+    "geom:longitude":-85.770666,
+    "iso:country":"US",
+    "sg:address":"5309 Mitscher Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 3121",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "educational",
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47tjh9JDymuoX2ocTwDF9w_38.171420_-85.770666@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053569,
+    "wof:geomhash":"73c9e2feb933f1724b05769f0e6601c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745151
+        }
+    ],
+    "wof:id":856745151,
+    "wof:lastmodified":1464053569,
+    "wof:name":"Little Rays Of Sunshine Daycare & Preschool",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "educational",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -85.770666,
+    38.17142,
+    -85.770666,
+    38.17142
+],
+  "geometry": {"coordinates":[-85.77066600000001,38.17142],"type":"Point"}
+}

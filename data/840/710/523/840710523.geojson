@@ -1,0 +1,75 @@
+{
+  "id": 840710523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.91809,37.162927,-85.91809,37.162927",
+    "geom:latitude":37.162927,
+    "geom:longitude":-85.91809,
+    "iso:country":"US",
+    "sg:address":"93 S Butler Rd",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 2302",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oJECvFHf1w2AC7lam4b5W_37.162927_-85.918090@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046313,
+    "wof:geomhash":"4cf7621e81655e0d27d20b5d6ba9993d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840710523
+        }
+    ],
+    "wof:id":840710523,
+    "wof:lastmodified":1464046313,
+    "wof:name":"Douglas King Trucking Co",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.91809,
+    37.162927,
+    -85.91809,
+    37.162927
+],
+  "geometry": {"coordinates":[-85.91809000000001,37.162927],"type":"Point"}
+}

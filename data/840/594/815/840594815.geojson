@@ -1,0 +1,75 @@
+{
+  "id": 840594815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499022,37.164798,-84.499022,37.164798",
+    "geom:latitude":37.164798,
+    "geom:longitude":-84.499022,
+    "iso:country":"US",
+    "sg:address":"4001 Barnesburg Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 274 9063",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7deTk2N6EITGaDBXfebefq_37.164798_-84.499022@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043535,
+    "wof:geomhash":"f158f21a7b512fca342794c3a1739f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840594815
+        }
+    ],
+    "wof:id":840594815,
+    "wof:lastmodified":1464043535,
+    "wof:name":"Kit Ideal Leasing",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.499022,
+    37.164798,
+    -84.499022,
+    37.164798
+],
+  "geometry": {"coordinates":[-84.499022,37.164798],"type":"Point"}
+}

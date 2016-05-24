@@ -1,0 +1,73 @@
+{
+  "id": 840565913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75044,38.241692,-85.75044,38.241692",
+    "geom:latitude":38.241692,
+    "geom:longitude":-85.75044,
+    "iso:country":"US",
+    "sg:address":"840 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 2997",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rnsO9j2QWYE344KMMLMo8_38.241692_-85.750440@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042873,
+    "wof:geomhash":"e340fedcd9f0cd96710f95438be347e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873403,
+            "region_id":85688641,
+            "venue_id":840565913
+        }
+    ],
+    "wof:id":840565913,
+    "wof:lastmodified":1464042873,
+    "wof:name":"Evan Overstreet MD",
+    "wof:parent_id":85873403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.75044,
+    38.241692,
+    -85.75044,
+    38.241692
+],
+  "geometry": {"coordinates":[-85.75044,38.241692],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856691905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.708481,37.065343,-88.708481,37.065343",
+    "geom:latitude":37.065343,
+    "geom:longitude":-88.708481,
+    "iso:country":"US",
+    "sg:address":"5407 Stevin Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 4332",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10DPClNyDzz6cNdKxLBrXk_37.065343_-88.708481@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051905,
+    "wof:geomhash":"feef12d721ad0a50370662b84d1e0173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856691905
+        }
+    ],
+    "wof:id":856691905,
+    "wof:lastmodified":1464051905,
+    "wof:name":"Humphrey Court Reporting",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -88.708481,
+    37.065343,
+    -88.708481,
+    37.065343
+],
+  "geometry": {"coordinates":[-88.70848100000001,37.065343],"type":"Point"}
+}

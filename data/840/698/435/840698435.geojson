@@ -1,0 +1,71 @@
+{
+  "id": 840698435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.62147,37.076072,-88.62147,37.076072",
+    "geom:latitude":37.076072,
+    "geom:longitude":-88.62147,
+    "iso:country":"US",
+    "sg:address":"2107 Kentucky Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 3933",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIkBPT8sDKT2PfiYM3a6b_37.076072_-88.621470@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046048,
+    "wof:geomhash":"b896f8dce77255ae83659e3f421f7460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840698435
+        }
+    ],
+    "wof:id":840698435,
+    "wof:lastmodified":1464046048,
+    "wof:name":"Brent Wortham DDS",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.62147,
+    37.076072,
+    -88.62147,
+    37.076072
+],
+  "geometry": {"coordinates":[-88.62147,37.076072],"type":"Point"}
+}

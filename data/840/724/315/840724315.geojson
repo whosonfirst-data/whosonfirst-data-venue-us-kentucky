@@ -1,0 +1,71 @@
+{
+  "id": 840724315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578152,37.867231,-84.578152,37.867231",
+    "geom:latitude":37.867231,
+    "geom:longitude":-84.578152,
+    "iso:country":"US",
+    "sg:address":"910 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9761",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0omem5vDSKkLe0rSCfbTYi_37.867231_-84.578152@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046600,
+    "wof:geomhash":"1e1c712a7998fdff7dbc80b216353abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840724315
+        }
+    ],
+    "wof:id":840724315,
+    "wof:lastmodified":1464046600,
+    "wof:name":"Doc's Electronics Svc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -84.578152,
+    37.867231,
+    -84.578152,
+    37.867231
+],
+  "geometry": {"coordinates":[-84.578152,37.867231],"type":"Point"}
+}

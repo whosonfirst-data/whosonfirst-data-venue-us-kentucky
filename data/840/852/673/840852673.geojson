@@ -1,0 +1,75 @@
+{
+  "id": 840852673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.537195,37.74699,-87.537195,37.74699",
+    "geom:latitude":37.74699,
+    "geom:longitude":-87.537195,
+    "iso:country":"US",
+    "sg:address":"3273 Winding Trail Dr",
+    "sg:city":"Robards",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 6116",
+    "sg:postcode":"42452",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JhXkRAML5RxtD4nrIU6iI_37.746990_-87.537195@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049503,
+    "wof:geomhash":"5dedbff8283b7ec03ce14ebe69ff7bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840852673
+        }
+    ],
+    "wof:id":840852673,
+    "wof:lastmodified":1464049503,
+    "wof:name":"Misty Zimmerman Acre Kennel",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -87.537195,
+    37.74699,
+    -87.537195,
+    37.74699
+],
+  "geometry": {"coordinates":[-87.537195,37.74699],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840669937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.576975,37.065319,-88.576975,37.065319",
+    "geom:latitude":37.065319,
+    "geom:longitude":-88.576975,
+    "iso:country":"US",
+    "sg:address":"2425 S 4th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 4337",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vaLfOxc2l6m9hRjcThyYe_37.065319_-88.576975@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045307,
+    "wof:geomhash":"8aa03453cbbb53b8e2da05d88b832c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840669937
+        }
+    ],
+    "wof:id":840669937,
+    "wof:lastmodified":1464045307,
+    "wof:name":"Jms Metals",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -88.576975,
+    37.065319,
+    -88.576975,
+    37.065319
+],
+  "geometry": {"coordinates":[-88.576975,37.065319],"type":"Point"}
+}

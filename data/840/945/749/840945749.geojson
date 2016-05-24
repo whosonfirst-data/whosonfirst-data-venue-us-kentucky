@@ -1,0 +1,71 @@
+{
+  "id": 840945749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.599194,37.832446,-87.599194,37.832446",
+    "geom:latitude":37.832446,
+    "geom:longitude":-87.599194,
+    "iso:country":"US",
+    "sg:address":"600 S Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9133",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Ufkc9tZcHFFsPJWAbCSm_37.832446_-87.599194@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051566,
+    "wof:geomhash":"5f38b50cc2b87c071682763b8d005126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840945749
+        }
+    ],
+    "wof:id":840945749,
+    "wof:lastmodified":1464051566,
+    "wof:name":"Michelle's Antique Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -87.599194,
+    37.832446,
+    -87.599194,
+    37.832446
+],
+  "geometry": {"coordinates":[-87.599194,37.832446],"type":"Point"}
+}

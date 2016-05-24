@@ -1,0 +1,69 @@
+{
+  "id": 840596677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.249105,38.212401,-85.249105,38.212401",
+    "geom:latitude":38.212401,
+    "geom:longitude":-85.249105,
+    "iso:country":"US",
+    "sg:address":"1825 Midland Trl",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 9500",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HHoXosWgUbg9AXBvNLV04_38.212401_-85.249105@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043575,
+    "wof:geomhash":"830bd7bf0e567caa485191958665970b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840596677
+        }
+    ],
+    "wof:id":840596677,
+    "wof:lastmodified":1464043575,
+    "wof:name":"Midland Tire Co",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.249105,
+    38.212401,
+    -85.249105,
+    38.212401
+],
+  "geometry": {"coordinates":[-85.249105,38.212401],"type":"Point"}
+}

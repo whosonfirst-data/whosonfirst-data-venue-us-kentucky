@@ -1,0 +1,71 @@
+{
+  "id": 840614687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.662442,37.803253,-87.662442,37.803253",
+    "geom:latitude":37.803253,
+    "geom:longitude":-87.662442,
+    "iso:country":"US",
+    "sg:address":"5301 Industrial Park Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2533",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "milling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ODZjiakjUtbiHFsasujin_37.803253_-87.662442@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044029,
+    "wof:geomhash":"2decfc4c2567e767ab75d8cf4721c3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840614687
+        }
+    ],
+    "wof:id":840614687,
+    "wof:lastmodified":1464044029,
+    "wof:name":"Azteca Milling",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "milling"
+    ]
+},
+  "bbox": [
+    -87.662442,
+    37.803253,
+    -87.662442,
+    37.803253
+],
+  "geometry": {"coordinates":[-87.662442,37.803253],"type":"Point"}
+}

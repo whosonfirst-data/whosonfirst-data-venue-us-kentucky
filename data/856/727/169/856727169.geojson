@@ -1,0 +1,73 @@
+{
+  "id": 856727169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624256,38.199275,-85.624256,38.199275",
+    "geom:latitude":38.199275,
+    "geom:longitude":-85.624256,
+    "iso:country":"US",
+    "sg:address":"3423 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 1199",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k1thkG7fXDb9h5g7ojb3b_38.199038_-85.624325@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052877,
+    "wof:geomhash":"af7c39c01cc502d1cd00d7c161c876f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856727169
+        }
+    ],
+    "wof:id":856727169,
+    "wof:lastmodified":1464052877,
+    "wof:name":"Jocks Sports Bar & Grill",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -85.624256,
+    38.199275,
+    -85.624256,
+    38.199275
+],
+  "geometry": {"coordinates":[-85.624256,38.199275],"type":"Point"}
+}

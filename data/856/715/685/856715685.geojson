@@ -1,0 +1,73 @@
+{
+  "id": 856715685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.726832,38.256356,-85.726832,38.256356",
+    "geom:latitude":38.256356,
+    "geom:longitude":-85.726832,
+    "iso:country":"US",
+    "sg:address":"1334 Story Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 4379",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B8KZ59BAMjDpYO9FybwnR_38.256356_-85.726832@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052419,
+    "wof:geomhash":"a0af9088e74a1eb576ab736d5363d4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":856715685
+        }
+    ],
+    "wof:id":856715685,
+    "wof:lastmodified":1464052419,
+    "wof:name":"Silver Spoon",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.726832,
+    38.256356,
+    -85.726832,
+    38.256356
+],
+  "geometry": {"coordinates":[-85.726832,38.256356],"type":"Point"}
+}

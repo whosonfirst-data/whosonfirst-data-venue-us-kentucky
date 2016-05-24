@@ -1,0 +1,68 @@
+{
+  "id": 840900031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513556,38.923901,-84.513556,38.923901",
+    "geom:latitude":38.923901,
+    "geom:longitude":-84.513556,
+    "iso:country":"US",
+    "sg:address":"11247 Taylor Mill Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 359 4567",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BYgli3iSBHNypz9q0WXD1_38.923901_-84.513556@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050493,
+    "wof:geomhash":"ebcdcd1968e58fd5e95a629b490d404f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":840900031
+        }
+    ],
+    "wof:id":840900031,
+    "wof:lastmodified":1464050493,
+    "wof:name":"Lisa's Shear Magic",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.513556,
+    38.923901,
+    -84.513556,
+    38.923901
+],
+  "geometry": {"coordinates":[-84.51355599999999,38.923901],"type":"Point"}
+}

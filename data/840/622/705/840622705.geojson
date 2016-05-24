@@ -1,0 +1,73 @@
+{
+  "id": 840622705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.635193,37.070345,-88.635193,37.070345",
+    "geom:latitude":37.070345,
+    "geom:longitude":-88.635193,
+    "iso:country":"US",
+    "sg:address":"217 Nahm St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3221",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_222FJdSZmypwTpfdudsd85_37.070345_-88.635193@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044235,
+    "wof:geomhash":"115614d6a54dd1f7a904d5bcbee90f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840622705
+        }
+    ],
+    "wof:id":840622705,
+    "wof:lastmodified":1464044235,
+    "wof:name":"Cellular Works",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.635193,
+    37.070345,
+    -88.635193,
+    37.070345
+],
+  "geometry": {"coordinates":[-88.635193,37.070345],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856696387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704626,38.258606,-85.704626,38.258606",
+    "geom:latitude":38.258606,
+    "geom:longitude":-85.704626,
+    "iso:country":"US",
+    "sg:address":"225 N Clifton Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 2854",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WTYmlWzuPehNcQN9928XC_38.258606_-85.704626@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051988,
+    "wof:geomhash":"1d4f850fddf90d39ae464bd645a29eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866965,
+            "region_id":85688641,
+            "venue_id":856696387
+        }
+    ],
+    "wof:id":856696387,
+    "wof:lastmodified":1464051988,
+    "wof:name":"Odd Sock Laundry",
+    "wof:parent_id":85866965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.704626,
+    38.258606,
+    -85.704626,
+    38.258606
+],
+  "geometry": {"coordinates":[-85.704626,38.258606],"type":"Point"}
+}

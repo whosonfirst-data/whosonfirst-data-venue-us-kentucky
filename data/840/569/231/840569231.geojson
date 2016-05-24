@@ -1,0 +1,73 @@
+{
+  "id": 840569231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68957,38.245493,-85.68957,38.245493",
+    "geom:latitude":38.245493,
+    "geom:longitude":-85.68957,
+    "iso:country":"US",
+    "sg:address":"619 Upland Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 5653",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "aquarium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F7AKvf9PvWpCTO71u9lsr_38.245493_-85.689570@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042960,
+    "wof:geomhash":"9d8be1a0938d5a1aaef81a2e3d81121b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":840569231
+        }
+    ],
+    "wof:id":840569231,
+    "wof:lastmodified":1464042960,
+    "wof:name":"Kentuckiana Aquarium Svc",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium"
+    ]
+},
+  "bbox": [
+    -85.68957,
+    38.245493,
+    -85.68957,
+    38.245493
+],
+  "geometry": {"coordinates":[-85.68957,38.245493],"type":"Point"}
+}

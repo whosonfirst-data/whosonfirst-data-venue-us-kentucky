@@ -1,0 +1,75 @@
+{
+  "id": 840802191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.586931,36.905511,-86.586931,36.905511",
+    "geom:latitude":36.905511,
+    "geom:longitude":-86.586931,
+    "iso:country":"US",
+    "sg:address":"10436 Russellville Rd",
+    "sg:city":"Rockfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 535 7363",
+    "sg:postcode":"42274",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gPrp6P7FbssiB3lpA4gnO_36.905511_-86.586931@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048248,
+    "wof:geomhash":"5f723032354b6f7e7d2c467f5080c97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840802191
+        }
+    ],
+    "wof:id":840802191,
+    "wof:lastmodified":1464048248,
+    "wof:name":"ABC Cleaning Svc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -86.586931,
+    36.905511,
+    -86.586931,
+    36.905511
+],
+  "geometry": {"coordinates":[-86.58693100000001,36.905511],"type":"Point"}
+}

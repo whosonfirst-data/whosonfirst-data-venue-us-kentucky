@@ -1,0 +1,78 @@
+{
+  "id": 856737291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757277,38.246007,-85.757277,38.246007",
+    "geom:latitude":38.246007,
+    "geom:longitude":-85.757277,
+    "iso:country":"US",
+    "sg:address":"332 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/131471-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 4500",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AiafT5Y9LVBCVwdK7rcJd_38.245965_-85.757960@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053274,
+    "wof:geomhash":"5ee88abd26dc218118af63733d9521cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":856737291
+        }
+    ],
+    "wof:id":856737291,
+    "wof:lastmodified":1464053274,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.757277,
+    38.246007,
+    -85.757277,
+    38.246007
+],
+  "geometry": {"coordinates":[-85.757277,38.246007],"type":"Point"}
+}

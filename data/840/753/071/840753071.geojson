@@ -1,0 +1,73 @@
+{
+  "id": 840753071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639214,37.076496,-88.639214,37.076496",
+    "geom:latitude":37.076496,
+    "geom:longitude":-88.639214,
+    "iso:country":"US",
+    "sg:address":"3025 Clay St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8183",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nHNrTLUjXJNvRsWyKzRM_37.076496_-88.639214@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047173,
+    "wof:geomhash":"0f483c2c086fd874afebdbf9300bb44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840753071
+        }
+    ],
+    "wof:id":840753071,
+    "wof:lastmodified":1464047173,
+    "wof:name":"Heartland Cares Inc",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.639214,
+    37.076496,
+    -88.639214,
+    37.076496
+],
+  "geometry": {"coordinates":[-88.639214,37.076496],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840757189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436643,36.997009,-86.436643,36.997009",
+    "geom:latitude":36.997009,
+    "geom:longitude":-86.436643,
+    "iso:country":"US",
+    "sg:address":"512 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3012",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46P77CHZECOXiNIVTVg0of_36.997009_-86.436643@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047266,
+    "wof:geomhash":"3c62eb267132e4c4c6f72344a574770f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840757189
+        }
+    ],
+    "wof:id":840757189,
+    "wof:lastmodified":1464047266,
+    "wof:name":"Premier Payphone Svc Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -86.436643,
+    36.997009,
+    -86.436643,
+    36.997009
+],
+  "geometry": {"coordinates":[-86.436643,36.997009],"type":"Point"}
+}

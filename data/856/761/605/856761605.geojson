@@ -1,0 +1,79 @@
+{
+  "id": 856761605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.660851,37.039799,-88.660851,37.039799",
+    "geom:latitude":37.039799,
+    "geom:longitude":-88.660851,
+    "iso:country":"US",
+    "sg:address":"2850 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 3904",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dXsegNAx6dL8AAgtYTCLz_37.039799_-88.660851@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054182,
+    "wof:geomhash":"4e774c0db0d49b7e771f81dea1d76613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761605
+        }
+    ],
+    "wof:id":856761605,
+    "wof:lastmodified":1464054182,
+    "wof:name":"Tolar Rheanel MD",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -88.660851,
+    37.039799,
+    -88.660851,
+    37.039799
+],
+  "geometry": {"coordinates":[-88.66085099999999,37.039799],"type":"Point"}
+}

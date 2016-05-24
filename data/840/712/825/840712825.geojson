@@ -1,0 +1,75 @@
+{
+  "id": 840712825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652327,37.08579,-88.652327,37.08579",
+    "geom:latitude":37.08579,
+    "geom:longitude":-88.652327,
+    "iso:country":"US",
+    "sg:address":"105 Metcalf Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3386",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jr7ZY6KVsciqnXkhvahg5_37.085790_-88.652327@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046358,
+    "wof:geomhash":"59dea7960c96a9ca74e78628f974eebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840712825
+        }
+    ],
+    "wof:id":840712825,
+    "wof:lastmodified":1464046358,
+    "wof:name":"Extreme Auto Body & Frame",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.652327,
+    37.08579,
+    -88.652327,
+    37.08579
+],
+  "geometry": {"coordinates":[-88.652327,37.08579],"type":"Point"}
+}

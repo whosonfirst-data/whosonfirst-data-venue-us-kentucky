@@ -1,0 +1,68 @@
+{
+  "id": 840818393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.784183,38.249157,-85.784183,38.249157",
+    "geom:latitude":38.249157,
+    "geom:longitude":-85.784183,
+    "iso:country":"US",
+    "sg:address":"1921 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 8794",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26fTi69WGbI04PUPi16DKB_38.249157_-85.784183@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048707,
+    "wof:geomhash":"56d0cc784df497ca6d21bbabf2d6fd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840818393
+        }
+    ],
+    "wof:id":840818393,
+    "wof:lastmodified":1464048707,
+    "wof:name":"Ron Smith Realty",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.784183,
+    38.249157,
+    -85.784183,
+    38.249157
+],
+  "geometry": {"coordinates":[-85.784183,38.249157],"type":"Point"}
+}

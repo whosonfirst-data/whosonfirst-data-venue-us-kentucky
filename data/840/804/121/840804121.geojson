@@ -1,0 +1,71 @@
+{
+  "id": 840804121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59304,36.976755,-84.59304,36.976755",
+    "geom:latitude":36.976755,
+    "geom:longitude":-84.59304,
+    "iso:country":"US",
+    "sg:address":"125 Beechview Dr",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 9177",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22JPWMP95LaqDyHtuJwKRx_36.976755_-84.593040@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048284,
+    "wof:geomhash":"13480f76b2c93c9ef91cb1ff87eb333b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840804121
+        }
+    ],
+    "wof:id":840804121,
+    "wof:lastmodified":1464048284,
+    "wof:name":"Beach Bluff Boat Storage",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.59304,
+    36.976755,
+    -84.59304,
+    36.976755
+],
+  "geometry": {"coordinates":[-84.59304,36.976755],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856720915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.607385,37.085553,-84.607385,37.085553",
+    "geom:latitude":37.085553,
+    "geom:longitude":-84.607385,
+    "iso:country":"US",
+    "sg:address":"518 S Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 2572",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "sg:website":"www.playmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SN03SU7Q5zUJg5ChahIKA_37.085553_-84.607385@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052629,
+    "wof:geomhash":"c71c04dbd76173af950db7adf3760564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856720915
+        }
+    ],
+    "wof:id":856720915,
+    "wof:lastmodified":1464052629,
+    "wof:name":"Playmart Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [
+    -84.607385,
+    37.085553,
+    -84.607385,
+    37.085553
+],
+  "geometry": {"coordinates":[-84.60738499999999,37.085553],"type":"Point"}
+}

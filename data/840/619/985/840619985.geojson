@@ -1,0 +1,73 @@
+{
+  "id": 840619985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531371,37.016658,-88.531371,37.016658",
+    "geom:latitude":37.016658,
+    "geom:longitude":-88.531371,
+    "iso:country":"US",
+    "sg:address":"5524 Reidland Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 0804",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bXj9Q3G5KNXUsJrUmZMZi_37.016658_-88.531371@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044166,
+    "wof:geomhash":"799feb6aebca229b14925b601d5814e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840619985
+        }
+    ],
+    "wof:id":840619985,
+    "wof:lastmodified":1464044166,
+    "wof:name":"Brown Physical Therapy Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -88.531371,
+    37.016658,
+    -88.531371,
+    37.016658
+],
+  "geometry": {"coordinates":[-88.53137099999999,37.016658],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840727195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.61841,37.028556,-84.61841,37.028556",
+    "geom:latitude":37.028556,
+    "geom:longitude":-84.61841,
+    "iso:country":"US",
+    "sg:address":"466 Enterprise Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4677",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g9Bjtvag2MV99FcHWYDm8_37.028556_-84.618410@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046657,
+    "wof:geomhash":"0cf64cb1ca0bf0a97fa6e283c7c379a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840727195
+        }
+    ],
+    "wof:id":840727195,
+    "wof:lastmodified":1464046657,
+    "wof:name":"Critter Cuts Inc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.61841,
+    37.028556,
+    -84.61841,
+    37.028556
+],
+  "geometry": {"coordinates":[-84.61841,37.028556],"type":"Point"}
+}

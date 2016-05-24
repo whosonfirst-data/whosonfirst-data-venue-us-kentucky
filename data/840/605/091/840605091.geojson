@@ -1,0 +1,73 @@
+{
+  "id": 840605091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.539853,38.245362,-85.539853,38.245362",
+    "geom:latitude":38.245362,
+    "geom:longitude":-85.539853,
+    "iso:country":"US",
+    "sg:address":"11611 Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 4409",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gUTrUwp2Z5wKTgoQD70h9_38.245362_-85.539853@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043781,
+    "wof:geomhash":"caf20c97ff9c49d3f5e3134ad32b0192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840605091
+        }
+    ],
+    "wof:id":840605091,
+    "wof:lastmodified":1464043781,
+    "wof:name":"Goodall's Pearcy House Antq",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -85.539853,
+    38.245362,
+    -85.539853,
+    38.245362
+],
+  "geometry": {"coordinates":[-85.53985299999999,38.245362],"type":"Point"}
+}

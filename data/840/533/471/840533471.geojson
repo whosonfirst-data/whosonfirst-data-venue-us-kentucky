@@ -1,0 +1,73 @@
+{
+  "id": 840533471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.566746,37.880422,-87.566746,37.880422",
+    "geom:latitude":37.880422,
+    "geom:longitude":-87.566746,
+    "iso:country":"US",
+    "sg:address":"343 Walnut Ln",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0339",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XYArUhwoQ5stVNIQru4K0_37.880422_-87.566746@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042060,
+    "wof:geomhash":"47dfe0b91f5f79cb2311ca357e94f50e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840533471
+        }
+    ],
+    "wof:id":840533471,
+    "wof:lastmodified":1464042060,
+    "wof:name":"Arc Machine Co",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.566746,
+    37.880422,
+    -87.566746,
+    37.880422
+],
+  "geometry": {"coordinates":[-87.56674599999999,37.880422],"type":"Point"}
+}

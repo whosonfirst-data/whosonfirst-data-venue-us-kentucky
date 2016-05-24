@@ -1,0 +1,71 @@
+{
+  "id": 840584629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860323,37.692674,-85.860323,37.692674",
+    "geom:latitude":37.692674,
+    "geom:longitude":-85.860323,
+    "iso:country":"US",
+    "sg:address":"110 Helm St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2149",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y3T4NDwpqCFCrQ5po83Kg_37.692674_-85.860323@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043303,
+    "wof:geomhash":"3c1ac1dd92b1a42feed938478e1f0a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840584629
+        }
+    ],
+    "wof:id":840584629,
+    "wof:lastmodified":1464043303,
+    "wof:name":"Baillie Lumber Co Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -85.860323,
+    37.692674,
+    -85.860323,
+    37.692674
+],
+  "geometry": {"coordinates":[-85.86032299999999,37.692674],"type":"Point"}
+}

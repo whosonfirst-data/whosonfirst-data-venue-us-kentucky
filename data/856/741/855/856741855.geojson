@@ -1,0 +1,83 @@
+{
+  "id": 856741855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706139,38.253601,-85.706139,38.253601",
+    "geom:latitude":38.253601,
+    "geom:longitude":-85.706139,
+    "iso:country":"US",
+    "sg:address":"2217 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 1774",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "greek",
+        "vegetarian",
+        "eastern",
+        "mediterranean",
+        "middle",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v5qwZ14MaHm80L5hsGWiq_38.253601_-85.706139@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053452,
+    "wof:geomhash":"7fa99f355289c497b274c6a4cef0ecad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":856741855
+        }
+    ],
+    "wof:id":856741855,
+    "wof:lastmodified":1464053452,
+    "wof:name":"Grape Leaf Restaurant",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greek",
+        "vegetarian",
+        "eastern",
+        "mediterranean",
+        "middle",
+        "health"
+    ]
+},
+  "bbox": [
+    -85.706139,
+    38.253601,
+    -85.706139,
+    38.253601
+],
+  "geometry": {"coordinates":[-85.70613899999999,38.253601],"type":"Point"}
+}

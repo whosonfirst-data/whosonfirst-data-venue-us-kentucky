@@ -1,0 +1,73 @@
+{
+  "id": 840627271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709412,38.254463,-85.709412,38.254463",
+    "geom:latitude":38.254463,
+    "geom:longitude":-85.709412,
+    "iso:country":"US",
+    "sg:address":"2054 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 7069",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02M7tYHTyBeWDh0hfUT2cd_38.254463_-85.709412@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044363,
+    "wof:geomhash":"7481172687cbff47a61d95d4bb9b07fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":840627271
+        }
+    ],
+    "wof:id":840627271,
+    "wof:lastmodified":1464044363,
+    "wof:name":"Divinity Fine Catering",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.709412,
+    38.254463,
+    -85.709412,
+    38.254463
+],
+  "geometry": {"coordinates":[-85.709412,38.254463],"type":"Point"}
+}

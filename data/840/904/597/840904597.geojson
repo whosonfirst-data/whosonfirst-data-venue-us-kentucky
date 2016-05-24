@@ -1,0 +1,73 @@
+{
+  "id": 840904597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443721,36.953538,-86.443721,36.953538",
+    "geom:latitude":36.953538,
+    "geom:longitude":-86.443721,
+    "iso:country":"US",
+    "sg:address":"1435 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 9918",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eO2IjW1B2Vbo1FgZlJWbK_36.953538_-86.443721@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050586,
+    "wof:geomhash":"48ea69a7d593fc3c0bea31c010657810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840904597
+        }
+    ],
+    "wof:id":840904597,
+    "wof:lastmodified":1464050586,
+    "wof:name":"Lincare",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.443721,
+    36.953538,
+    -86.443721,
+    36.953538
+],
+  "geometry": {"coordinates":[-86.443721,36.953538],"type":"Point"}
+}

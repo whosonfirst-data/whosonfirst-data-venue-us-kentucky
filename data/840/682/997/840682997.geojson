@@ -1,0 +1,75 @@
+{
+  "id": 840682997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.669254,38.252412,-85.669254,38.252412",
+    "geom:latitude":38.252412,
+    "geom:longitude":-85.669254,
+    "iso:country":"US",
+    "sg:address":"102 Cannons Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 2006",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H7IHU3t31nUxFLYcMRuyc_38.252412_-85.669254@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045651,
+    "wof:geomhash":"28093a78d10fa3861e0dff5042c56b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":840682997
+        }
+    ],
+    "wof:id":840682997,
+    "wof:lastmodified":1464045651,
+    "wof:name":"Morning Star Coffee Co",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.669254,
+    38.252412,
+    -85.669254,
+    38.252412
+],
+  "geometry": {"coordinates":[-85.669254,38.252412],"type":"Point"}
+}

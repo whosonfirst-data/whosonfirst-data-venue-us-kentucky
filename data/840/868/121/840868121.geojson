@@ -1,0 +1,85 @@
+{
+  "id": 840868121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.475971,36.961492,-86.475971,36.961492",
+    "geom:latitude":36.961492,
+    "geom:longitude":-86.475971,
+    "iso:country":"US",
+    "sg:address":"2901 Industrial Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 1555",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "heating"
+    ],
+    "sg:website":"www.desaint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5djmLj7VfLIOTEHNcDzm4y_36.961492_-86.475971@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049818,
+    "wof:geomhash":"bbcccd3038118778e911fa6af1ce9ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840868121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840868121
+        }
+    ],
+    "wof:id":840868121,
+    "wof:lastmodified":1464049818,
+    "wof:name":"DESA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "heating"
+    ]
+},
+  "bbox": [
+    -86.475971,
+    36.961492,
+    -86.475971,
+    36.961492
+],
+  "geometry": {"coordinates":[-86.475971,36.961492],"type":"Point"}
+}

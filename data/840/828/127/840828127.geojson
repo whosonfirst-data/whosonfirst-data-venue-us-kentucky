@@ -1,0 +1,81 @@
+{
+  "id": 840828127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.445895,39.061596,-84.445895,39.061596",
+    "geom:latitude":39.061596,
+    "geom:longitude":-84.445895,
+    "iso:country":"US",
+    "sg:address":"120 River Rd",
+    "sg:city":"Silver Grove",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 781 6330",
+    "sg:postcode":"41075",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808861,
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oz5kq5RYPzXPME1mXpu3T_39.061596_-84.445895@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048965,
+    "wof:geomhash":"8453a4190cbbcc5ab0f465dfc5b631ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85808861,
+            "region_id":85688485,
+            "venue_id":840828127
+        }
+    ],
+    "wof:id":840828127,
+    "wof:lastmodified":1464048965,
+    "wof:name":"Video Palace",
+    "wof:parent_id":85808861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.445895,
+    39.061596,
+    -84.445895,
+    39.061596
+],
+  "geometry": {"coordinates":[-84.44589499999999,39.061596],"type":"Point"}
+}

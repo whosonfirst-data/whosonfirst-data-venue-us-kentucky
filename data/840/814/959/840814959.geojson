@@ -1,0 +1,75 @@
+{
+  "id": 840814959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570008,37.879518,-84.570008,37.879518",
+    "geom:latitude":37.879518,
+    "geom:longitude":-84.570008,
+    "iso:country":"US",
+    "sg:address":"306 E Maple St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5464",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "legislative",
+        "body",
+        "construction",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MYuIwyXAiOjzcTMHLlqr2_37.879518_-84.570008@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048615,
+    "wof:geomhash":"9c42f78786b33545cbc98c7ef444d63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840814959
+        }
+    ],
+    "wof:id":840814959,
+    "wof:lastmodified":1464048615,
+    "wof:name":"Hayden Construction",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body",
+        "construction",
+        "house"
+    ]
+},
+  "bbox": [
+    -84.570008,
+    37.879518,
+    -84.570008,
+    37.879518
+],
+  "geometry": {"coordinates":[-84.570008,37.879518],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856741939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.735207,38.258293,-85.735207,38.258293",
+    "geom:latitude":38.258293,
+    "geom:longitude":-85.735207,
+    "iso:country":"US",
+    "sg:address":"232 N Campbell St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 1915",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cutting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PT8kRIvodhf8aHfu0ulCA_38.258293_-85.735207@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053455,
+    "wof:geomhash":"223c05d0a18264688b4fba9ba45db960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":856741939
+        }
+    ],
+    "wof:id":856741939,
+    "wof:lastmodified":1464053455,
+    "wof:name":"Marshall's Scrap Yard",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cutting"
+    ]
+},
+  "bbox": [
+    -85.735207,
+    38.258293,
+    -85.735207,
+    38.258293
+],
+  "geometry": {"coordinates":[-85.735207,38.258293],"type":"Point"}
+}

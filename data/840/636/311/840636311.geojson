@@ -1,0 +1,74 @@
+{
+  "id": 840636311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591905,37.840339,-87.591905,37.840339",
+    "geom:latitude":37.840339,
+    "geom:longitude":-87.591905,
+    "iso:country":"US",
+    "sg:address":"135 N Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4661",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "sg:website":"www.hendersonhobbies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HsIktELQOdaHd9NJxToud_37.840339_-87.591905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044600,
+    "wof:geomhash":"a1e2ad3dcf05753755085d8540436807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840636311
+        }
+    ],
+    "wof:id":840636311,
+    "wof:lastmodified":1464044600,
+    "wof:name":"Henderson Hobbies",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -87.591905,
+    37.840339,
+    -87.591905,
+    37.840339
+],
+  "geometry": {"coordinates":[-87.591905,37.840339],"type":"Point"}
+}

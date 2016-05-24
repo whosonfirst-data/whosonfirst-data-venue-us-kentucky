@@ -1,0 +1,71 @@
+{
+  "id": 840879665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.209652,37.581695,-84.209652,37.581695",
+    "geom:latitude":37.581695,
+    "geom:longitude":-84.209652,
+    "iso:country":"US",
+    "sg:address":"1723 McKee Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 9342",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q138Dq9ovJwcmd1HR8u3a_37.581695_-84.209652@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050069,
+    "wof:geomhash":"bdec920a8d003d22abf786e3b548a15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840879665
+        }
+    ],
+    "wof:id":840879665,
+    "wof:lastmodified":1464050069,
+    "wof:name":"Pilot Knob Baptist Church",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.209652,
+    37.581695,
+    -84.209652,
+    37.581695
+],
+  "geometry": {"coordinates":[-84.20965200000001,37.581695],"type":"Point"}
+}

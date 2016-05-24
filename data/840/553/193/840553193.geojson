@@ -1,0 +1,73 @@
+{
+  "id": 840553193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.527775,36.998061,-88.527775,36.998061",
+    "geom:latitude":36.998061,
+    "geom:longitude":-88.527775,
+    "iso:country":"US",
+    "sg:address":"4321 Cold Springs Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8326",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jBG87RLojTrcWo1dsAvlG_36.998061_-88.527775@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042579,
+    "wof:geomhash":"293c63819599090cce1831a022ae9855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840553193
+        }
+    ],
+    "wof:id":840553193,
+    "wof:lastmodified":1464042579,
+    "wof:name":"Chambers Roofing Co",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.527775,
+    36.998061,
+    -88.527775,
+    36.998061
+],
+  "geometry": {"coordinates":[-88.52777500000001,36.998061],"type":"Point"}
+}

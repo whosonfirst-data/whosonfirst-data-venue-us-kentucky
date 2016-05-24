@@ -1,0 +1,73 @@
+{
+  "id": 856723459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.456183,36.914414,-86.456183,36.914414",
+    "geom:latitude":36.914414,
+    "geom:longitude":-86.456183,
+    "iso:country":"US",
+    "sg:address":"581 Herman Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 6636",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N3haIgZJcFQM5OizQlP3p_36.914414_-86.456183@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052727,
+    "wof:geomhash":"349291da50a7e79e865b3a3958c793f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856723459
+        }
+    ],
+    "wof:id":856723459,
+    "wof:lastmodified":1464052727,
+    "wof:name":"John P Logsdon",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -86.456183,
+    36.914414,
+    -86.456183,
+    36.914414
+],
+  "geometry": {"coordinates":[-86.456183,36.914414],"type":"Point"}
+}

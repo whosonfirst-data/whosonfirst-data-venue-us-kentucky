@@ -1,0 +1,71 @@
+{
+  "id": 856702427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.191203,37.556457,-82.191203,37.556457",
+    "geom:latitude":37.556457,
+    "geom:longitude":-82.191203,
+    "iso:country":"US",
+    "sg:address":"29 Big Blue Springs Rd",
+    "sg:city":"Ransom",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 427 7325",
+    "sg:postcode":"41558",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPHaC6nfDMHzVnTV7su0X_37.556457_-82.191203@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052117,
+    "wof:geomhash":"7ff054465a521e5e2b91e657977ced68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856702427
+        }
+    ],
+    "wof:id":856702427,
+    "wof:lastmodified":1464052117,
+    "wof:name":"Blackberry Volunteer Fire Dept",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.191203,
+    37.556457,
+    -82.191203,
+    37.556457
+],
+  "geometry": {"coordinates":[-82.191203,37.556457],"type":"Point"}
+}

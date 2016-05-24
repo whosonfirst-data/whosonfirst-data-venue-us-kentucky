@@ -1,0 +1,69 @@
+{
+  "id": 840880483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599327,36.988786,-84.599327,36.988786",
+    "geom:latitude":36.988786,
+    "geom:longitude":-84.599327,
+    "iso:country":"US",
+    "sg:address":"8040 US Hwy 27",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 4040",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uS7FaqXP49xTb4u9HjJ1A_36.988786_-84.599327@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050084,
+    "wof:geomhash":"4fb38cf22bc3bb20a4f341d23a9f309a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840880483
+        }
+    ],
+    "wof:id":840880483,
+    "wof:lastmodified":1464050084,
+    "wof:name":"Lost Planet Tattoo",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -84.599327,
+    36.988786,
+    -84.599327,
+    36.988786
+],
+  "geometry": {"coordinates":[-84.599327,36.988786],"type":"Point"}
+}

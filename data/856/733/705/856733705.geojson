@@ -1,0 +1,76 @@
+{
+  "id": 856733705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.520119,38.243667,-85.520119,38.243667",
+    "geom:latitude":38.243667,
+    "geom:longitude":-85.520119,
+    "iso:country":"US",
+    "sg:address":"12719 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/197332-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 1055",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNbIXLXk7BGH3wam4cdUY_38.243667_-85.520119@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053134,
+    "wof:geomhash":"911ca4a86928bba4f906e181ce993042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856733705
+        }
+    ],
+    "wof:id":856733705,
+    "wof:lastmodified":1464053134,
+    "wof:name":"Burger King",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.520119,
+    38.243667,
+    -85.520119,
+    38.243667
+],
+  "geometry": {"coordinates":[-85.52011899999999,38.243667],"type":"Point"}
+}

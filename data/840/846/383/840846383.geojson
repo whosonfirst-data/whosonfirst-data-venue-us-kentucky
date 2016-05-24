@@ -1,0 +1,71 @@
+{
+  "id": 840846383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.207453,37.052534,-86.207453,37.052534",
+    "geom:latitude":37.052534,
+    "geom:longitude":-86.207453,
+    "iso:country":"US",
+    "sg:address":"124 E 1st St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 9430",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HIvJrWyYDoSPmojG9A3U9_37.052534_-86.207453@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049359,
+    "wof:geomhash":"13906ddb5b72d4f11181d21ca33bbd78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840846383
+        }
+    ],
+    "wof:id":840846383,
+    "wof:lastmodified":1464049359,
+    "wof:name":"Wright House Antiques",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -86.207453,
+    37.052534,
+    -86.207453,
+    37.052534
+],
+  "geometry": {"coordinates":[-86.207453,37.052534],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856745295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78805,38.179422,-85.78805,38.179422",
+    "geom:latitude":38.179422,
+    "geom:longitude":-85.78805,
+    "iso:country":"US",
+    "sg:address":"1425 Bluegrass Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 2240",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KsDYFQgCSn7jhVt4xtgjR_38.179422_-85.788050@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053574,
+    "wof:geomhash":"8af80ace1602a3538bcd998fa65a7624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":856745295
+        }
+    ],
+    "wof:id":856745295,
+    "wof:lastmodified":1464053574,
+    "wof:name":"Seven Counties Services Inc",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78805,
+    38.179422,
+    -85.78805,
+    38.179422
+],
+  "geometry": {"coordinates":[-85.78805,38.179422],"type":"Point"}
+}

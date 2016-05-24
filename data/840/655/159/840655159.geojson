@@ -1,0 +1,71 @@
+{
+  "id": 840655159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.801022,37.654902,-84.801022,37.654902",
+    "geom:latitude":37.654902,
+    "geom:longitude":-84.801022,
+    "iso:country":"US",
+    "sg:address":"105 Ponder Ct",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 1674",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GQnB0aOgvs0lAWux9FMuJ_37.654902_-84.801022@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045007,
+    "wof:geomhash":"c73197a184df655b52e4a2e3057de085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840655159
+        }
+    ],
+    "wof:id":840655159,
+    "wof:lastmodified":1464045007,
+    "wof:name":"Associates In Neurology",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.801022,
+    37.654902,
+    -84.801022,
+    37.654902
+],
+  "geometry": {"coordinates":[-84.801022,37.654902],"type":"Point"}
+}

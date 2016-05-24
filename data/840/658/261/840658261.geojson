@@ -1,0 +1,73 @@
+{
+  "id": 840658261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293861,37.751996,-84.293861,37.751996",
+    "geom:latitude":37.751996,
+    "geom:longitude":-84.293861,
+    "iso:country":"US",
+    "sg:address":"350 Moberly Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 6971",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g0nO5ri1QSmr8LZL4kmmr_37.751996_-84.293861@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045070,
+    "wof:geomhash":"da20b126bf8dc01c100483bfc5fb8274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840658261
+        }
+    ],
+    "wof:id":840658261,
+    "wof:lastmodified":1464045070,
+    "wof:name":"Data Design Inc",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -84.293861,
+    37.751996,
+    -84.293861,
+    37.751996
+],
+  "geometry": {"coordinates":[-84.29386100000001,37.751996],"type":"Point"}
+}

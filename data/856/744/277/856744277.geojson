@@ -1,0 +1,82 @@
+{
+  "id": 856744277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.816427,38.267948,-85.816427,38.267948",
+    "geom:latitude":38.267948,
+    "geom:longitude":-85.816427,
+    "iso:country":"US",
+    "sg:address":"300 N 42nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 5260",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tjZh01nZTUxRGJREeGvS7_38.267948_-85.816427@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053538,
+    "wof:geomhash":"50a69470e56ec46f223c62966e53dd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":856744277
+        }
+    ],
+    "wof:id":856744277,
+    "wof:lastmodified":1464053538,
+    "wof:name":"Harambee Preschool Academy",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -85.816427,
+    38.267948,
+    -85.816427,
+    38.267948
+],
+  "geometry": {"coordinates":[-85.816427,38.267948],"type":"Point"}
+}

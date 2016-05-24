@@ -1,0 +1,75 @@
+{
+  "id": 840711453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.61874,38.22101,-85.61874,38.22101",
+    "geom:latitude":38.22101,
+    "geom:longitude":-85.61874,
+    "iso:country":"US",
+    "sg:address":"2900 Mc Mahan Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 0742",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A3SzRj5PdqKaAadfeqjEv_38.221010_-85.618740@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046331,
+    "wof:geomhash":"df737c70d34e73574f4f4367291f7aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840711453
+        }
+    ],
+    "wof:id":840711453,
+    "wof:lastmodified":1464046331,
+    "wof:name":"All About Concrete",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.61874,
+    38.22101,
+    -85.61874,
+    38.22101
+],
+  "geometry": {"coordinates":[-85.61874,38.22101],"type":"Point"}
+}

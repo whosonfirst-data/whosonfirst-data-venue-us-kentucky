@@ -1,0 +1,82 @@
+{
+  "id": 856752293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.556273,38.222762,-85.556273,38.222762",
+    "geom:latitude":38.222762,
+    "geom:longitude":-85.556273,
+    "iso:country":"US",
+    "sg:address":"10610 Bluegrass Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 1788",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment-repairing",
+        "equipment",
+        "protection",
+        "servicing",
+        "supply"
+    ],
+    "sg:website":"http://www.simplexgrinnell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lZTHQyBmOWPEEmT1J0sGT_38.222762_-85.556273@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053843,
+    "wof:geomhash":"de1f3b8facddc6228be4f22016bfb736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752293
+        }
+    ],
+    "wof:id":856752293,
+    "wof:lastmodified":1464053843,
+    "wof:name":"Grinnell Fire Protection",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-repairing",
+        "equipment",
+        "protection",
+        "servicing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.556273,
+    38.222762,
+    -85.556273,
+    38.222762
+],
+  "geometry": {"coordinates":[-85.556273,38.222762],"type":"Point"}
+}

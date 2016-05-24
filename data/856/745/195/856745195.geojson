@@ -1,0 +1,73 @@
+{
+  "id": 856745195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775666,38.147444,-85.775666,38.147444",
+    "geom:latitude":38.147444,
+    "geom:longitude":-85.775666,
+    "iso:country":"US",
+    "sg:address":"5458 New Cut Rd Ste 1",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 4155",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "alterations-clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yApVuzEFT6C31MyACZl2D_38.147444_-85.775666@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053570,
+    "wof:geomhash":"f068c3f2af83ac66ee92a5452c18ea88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745195
+        }
+    ],
+    "wof:id":856745195,
+    "wof:lastmodified":1464053570,
+    "wof:name":"Carol's Alterations",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alterations-clothing"
+    ]
+},
+  "bbox": [
+    -85.775666,
+    38.147444,
+    -85.775666,
+    38.147444
+],
+  "geometry": {"coordinates":[-85.775666,38.147444],"type":"Point"}
+}

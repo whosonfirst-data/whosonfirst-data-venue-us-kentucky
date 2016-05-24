@@ -1,0 +1,73 @@
+{
+  "id": 840862113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.307152,37.857311,-84.307152,37.857311",
+    "geom:latitude":37.857311,
+    "geom:longitude":-84.307152,
+    "iso:country":"US",
+    "sg:address":"512 Daniel Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 9563",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telecommunication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gOZDSkzAcTzYiBklAVJMN_37.857311_-84.307152@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049698,
+    "wof:geomhash":"e97d7bf483eb96ac4b16db8f5655a0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840862113
+        }
+    ],
+    "wof:id":840862113,
+    "wof:lastmodified":1464049698,
+    "wof:name":"SLH Communications Inc",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.307152,
+    37.857311,
+    -84.307152,
+    37.857311
+],
+  "geometry": {"coordinates":[-84.307152,37.857311],"type":"Point"}
+}

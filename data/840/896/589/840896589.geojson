@@ -1,0 +1,71 @@
+{
+  "id": 840896589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.25098,38.211037,-85.25098,38.211037",
+    "geom:latitude":38.211037,
+    "geom:longitude":-85.25098,
+    "iso:country":"US",
+    "sg:address":"100 Stonecrest Rd",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 9080",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01kBSP1iEbivPPuhwSc7nK_38.211037_-85.250980@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050422,
+    "wof:geomhash":"96e95de00e0e4ddfb4e65679ef86a42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840896589
+        }
+    ],
+    "wof:id":840896589,
+    "wof:lastmodified":1464050422,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -85.25098,
+    38.211037,
+    -85.25098,
+    38.211037
+],
+  "geometry": {"coordinates":[-85.25098,38.211037],"type":"Point"}
+}

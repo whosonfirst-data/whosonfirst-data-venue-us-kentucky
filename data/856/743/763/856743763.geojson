@@ -1,0 +1,77 @@
+{
+  "id": 856743763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779111,38.232178,-85.779111,38.232178",
+    "geom:latitude":38.232178,
+    "geom:longitude":-85.779111,
+    "iso:country":"US",
+    "sg:address":"1361 S 15th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 9043",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "self",
+        "portable",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xCRKEEzVPcXYLS3dLqOkD_38.232178_-85.779111@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053521,
+    "wof:geomhash":"d6178d2d362db39725bd01777821bcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":856743763
+        }
+    ],
+    "wof:id":856743763,
+    "wof:lastmodified":1464053521,
+    "wof:name":"Town Storage",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "portable",
+        "unit"
+    ]
+},
+  "bbox": [
+    -85.779111,
+    38.232178,
+    -85.779111,
+    38.232178
+],
+  "geometry": {"coordinates":[-85.779111,38.232178],"type":"Point"}
+}

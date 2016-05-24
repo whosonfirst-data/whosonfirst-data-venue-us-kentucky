@@ -1,0 +1,75 @@
+{
+  "id": 840875163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.525565,39.041487,-84.525565,39.041487",
+    "geom:latitude":39.041487,
+    "geom:longitude":-84.525565,
+    "iso:country":"US",
+    "sg:address":"3361 Madison Pike",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 8183",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rl4w2N88lHF17AtlCbebR_39.041487_-84.525565@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049953,
+    "wof:geomhash":"abdc74c511a463c35103efad6a0ea6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840875163
+        }
+    ],
+    "wof:id":840875163,
+    "wof:lastmodified":1464049953,
+    "wof:name":"R Hon Plumbing",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.525565,
+    39.041487,
+    -84.525565,
+    39.041487
+],
+  "geometry": {"coordinates":[-84.525565,39.041487],"type":"Point"}
+}

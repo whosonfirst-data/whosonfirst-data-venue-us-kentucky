@@ -1,0 +1,73 @@
+{
+  "id": 840619905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880101,37.713087,-85.880101,37.713087",
+    "geom:latitude":37.713087,
+    "geom:longitude":-85.880101,
+    "iso:country":"US",
+    "sg:address":"1107 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6665",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XPYCpmukhmcFaOTx2vYZ4_37.713087_-85.880101@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044164,
+    "wof:geomhash":"ea9458e0b1ab0ff7c702a13d57ae4239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840619905
+        }
+    ],
+    "wof:id":840619905,
+    "wof:lastmodified":1464044164,
+    "wof:name":"Elizabethtown Oncology Hmtlgy",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.880101,
+    37.713087,
+    -85.880101,
+    37.713087
+],
+  "geometry": {"coordinates":[-85.880101,37.713087],"type":"Point"}
+}

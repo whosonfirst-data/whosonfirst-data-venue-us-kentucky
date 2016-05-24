@@ -1,0 +1,78 @@
+{
+  "id": 840546251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.547512,37.027568,-88.547512,37.027568",
+    "geom:latitude":37.027568,
+    "geom:longitude":-88.547512,
+    "iso:country":"US",
+    "sg:address":"134 Bichon Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 2225",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27KWn5AC4J53F5PuzeZPMf_37.027568_-88.547512@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042407,
+    "wof:geomhash":"e4e31b0164a66df58a5b3dcb64060c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840546251
+        }
+    ],
+    "wof:id":840546251,
+    "wof:lastmodified":1464042407,
+    "wof:name":"Mannon Plumbing & Drain Clean",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.547512,
+    37.027568,
+    -88.547512,
+    37.027568
+],
+  "geometry": {"coordinates":[-88.547512,37.027568],"type":"Point"}
+}

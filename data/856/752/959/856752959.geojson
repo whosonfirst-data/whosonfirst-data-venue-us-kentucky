@@ -1,0 +1,73 @@
+{
+  "id": 856752959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.728157,38.051269,-84.728157,38.051269",
+    "geom:latitude":38.051269,
+    "geom:longitude":-84.728157,
+    "iso:country":"US",
+    "sg:address":"230 Morgan St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 2020",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kpx2kQfcfFcCxryxFZXGS_38.051269_-84.728157@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053867,
+    "wof:geomhash":"b97a01b2aae7aa422676a1ec27be6bbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752959
+        }
+    ],
+    "wof:id":856752959,
+    "wof:lastmodified":1464053867,
+    "wof:name":"Three Springs Campground",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -84.728157,
+    38.051269,
+    -84.728157,
+    38.051269
+],
+  "geometry": {"coordinates":[-84.728157,38.051269],"type":"Point"}
+}

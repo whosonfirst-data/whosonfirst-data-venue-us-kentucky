@@ -1,0 +1,77 @@
+{
+  "id": 840877681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.143125,37.741233,-84.143125,37.741233",
+    "geom:latitude":37.741233,
+    "geom:longitude":-84.143125,
+    "iso:country":"US",
+    "sg:address":"3303 Irvine Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 369 4111",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H8vOke9Ic9saRrPv1H3pV_37.741233_-84.143125@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050022,
+    "wof:geomhash":"8ef4c7b7e4dcfb8aa80942b01e428569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840877681
+        }
+    ],
+    "wof:id":840877681,
+    "wof:lastmodified":1464050022,
+    "wof:name":"Renfro's Paint & Collision",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.143125,
+    37.741233,
+    -84.143125,
+    37.741233
+],
+  "geometry": {"coordinates":[-84.143125,37.741233],"type":"Point"}
+}

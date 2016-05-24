@@ -1,0 +1,71 @@
+{
+  "id": 840557523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.608851,37.825886,-84.608851,37.825886",
+    "geom:latitude":37.825886,
+    "geom:longitude":-84.608851,
+    "iso:country":"US",
+    "sg:address":"1294 Bethel Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 0264",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OsmzM3frxAXEqkmIR2Vce_37.825886_-84.608851@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042684,
+    "wof:geomhash":"9ea2ca4bd813717435c4131e36fa5e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840557523
+        }
+    ],
+    "wof:id":840557523,
+    "wof:lastmodified":1464042684,
+    "wof:name":"H & L Excavating",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.608851,
+    37.825886,
+    -84.608851,
+    37.825886
+],
+  "geometry": {"coordinates":[-84.608851,37.825886],"type":"Point"}
+}

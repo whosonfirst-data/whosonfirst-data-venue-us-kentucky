@@ -1,0 +1,73 @@
+{
+  "id": 840793967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.783028,38.20392,-85.783028,38.20392",
+    "geom:latitude":38.20392,
+    "geom:longitude":-85.783028,
+    "iso:country":"US",
+    "sg:address":"1234 Arcade Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 6732",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYpbp30Tvxw0OCHn1h6jg_38.203920_-85.783028@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048059,
+    "wof:geomhash":"24b56fe0ec004996ea5444aa9291bf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840793967
+        }
+    ],
+    "wof:id":840793967,
+    "wof:lastmodified":1464048059,
+    "wof:name":"Emil Walther Florist",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -85.783028,
+    38.20392,
+    -85.783028,
+    38.20392
+],
+  "geometry": {"coordinates":[-85.783028,38.20392],"type":"Point"}
+}

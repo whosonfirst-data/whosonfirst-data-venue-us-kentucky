@@ -1,0 +1,73 @@
+{
+  "id": 840765767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.728889,37.067158,-88.728889,37.067158",
+    "geom:latitude":37.067158,
+    "geom:longitude":-88.728889,
+    "iso:country":"US",
+    "sg:address":"4950 Leonard Futrell Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 744 0400",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZYf6VdRefUtDukIz0yHrc_37.067158_-88.728889@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047469,
+    "wof:geomhash":"1013d29487a0862b210cd4de9835229c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840765767
+        }
+    ],
+    "wof:id":840765767,
+    "wof:lastmodified":1464047469,
+    "wof:name":"AWS Eco-Block",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "form"
+    ]
+},
+  "bbox": [
+    -88.728889,
+    37.067158,
+    -88.728889,
+    37.067158
+],
+  "geometry": {"coordinates":[-88.728889,37.067158],"type":"Point"}
+}

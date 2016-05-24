@@ -1,0 +1,69 @@
+{
+  "id": 840788969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.579329,37.864391,-84.579329,37.864391",
+    "geom:latitude":37.864391,
+    "geom:longitude":-84.579329,
+    "iso:country":"US",
+    "sg:address":"1022 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5505",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EyozG9VfW5sWfHrQRNjmu_37.864391_-84.579329@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047957,
+    "wof:geomhash":"7f3833ee41bf83f6dd52f4ccc65dff19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840788969
+        }
+    ],
+    "wof:id":840788969,
+    "wof:lastmodified":1464047957,
+    "wof:name":"Nicholasville Fire Chief",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.579329,
+    37.864391,
+    -84.579329,
+    37.864391
+],
+  "geometry": {"coordinates":[-84.579329,37.864391],"type":"Point"}
+}

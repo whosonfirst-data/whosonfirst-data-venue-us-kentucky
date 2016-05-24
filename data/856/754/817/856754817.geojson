@@ -1,0 +1,96 @@
+{
+  "id": 856754817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523417,38.065602,-84.523417,38.065602",
+    "geom:latitude":38.065602,
+    "geom:longitude":-84.523417,
+    "iso:country":"US",
+    "sg:address":"1490 Leestown Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 389 8387",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85833499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y6NWdExrx4DGjtY49AjDI_38.065602_-84.523417@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053938,
+    "wof:geomhash":"f64a076f1a161820070f0dd1962dc0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85833499,
+            "region_id":85688641,
+            "venue_id":856754817
+        }
+    ],
+    "wof:id":856754817,
+    "wof:lastmodified":1464053938,
+    "wof:name":"Masterson Animal Clinic",
+    "wof:parent_id":85833499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.523417,
+    38.065602,
+    -84.523417,
+    38.065602
+],
+  "geometry": {"coordinates":[-84.52341699999999,38.065602],"type":"Point"}
+}

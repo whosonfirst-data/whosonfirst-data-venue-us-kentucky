@@ -1,0 +1,76 @@
+{
+  "id": 856735311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535621,39.033338,-84.535621,39.033338",
+    "geom:latitude":39.033338,
+    "geom:longitude":-84.535621,
+    "iso:country":"US",
+    "sg:address":"3480 Valley Plaza Pkwy",
+    "sg:city":"Ft Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/10499-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 344 1681",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PLEp5GGhWIXBTGRoapDkl_39.033338_-84.535621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053194,
+    "wof:geomhash":"83f8641de13e158650b3a38236edffb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":856735311
+        }
+    ],
+    "wof:id":856735311,
+    "wof:lastmodified":1464053194,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.535621,
+    39.033338,
+    -84.535621,
+    39.033338
+],
+  "geometry": {"coordinates":[-84.53562100000001,39.033338],"type":"Point"}
+}

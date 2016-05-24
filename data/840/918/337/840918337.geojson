@@ -1,0 +1,71 @@
+{
+  "id": 840918337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434411,36.998646,-86.434411,36.998646",
+    "geom:latitude":36.998646,
+    "geom:longitude":-86.434411,
+    "iso:country":"US",
+    "sg:address":"339 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 8032",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OT97RgeIsFN8WiouHHaRo_36.998646_-86.434411@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050959,
+    "wof:geomhash":"11847bf66f3138724a53ddea92f86716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840918337
+        }
+    ],
+    "wof:id":840918337,
+    "wof:lastmodified":1464050959,
+    "wof:name":"Basham's Wrecker Svc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.434411,
+    36.998646,
+    -86.434411,
+    36.998646
+],
+  "geometry": {"coordinates":[-86.434411,36.998646],"type":"Point"}
+}

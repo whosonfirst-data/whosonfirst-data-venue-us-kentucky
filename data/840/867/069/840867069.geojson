@@ -1,0 +1,75 @@
+{
+  "id": 840867069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524612,38.006122,-84.524612,38.006122",
+    "geom:latitude":38.006122,
+    "geom:longitude":-84.524612,
+    "iso:country":"US",
+    "sg:address":"2350 Regency Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 276 2091",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "modem",
+        "set"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yvGHGtDH0hWRooyJx7f3p_38.006122_-84.524612@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049798,
+    "wof:geomhash":"04f348a0604c54fe27dbfa01e0e74baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":840867069
+        }
+    ],
+    "wof:id":840867069,
+    "wof:lastmodified":1464049798,
+    "wof:name":"Remax Modem",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "modem",
+        "set"
+    ]
+},
+  "bbox": [
+    -84.524612,
+    38.006122,
+    -84.524612,
+    38.006122
+],
+  "geometry": {"coordinates":[-84.524612,38.006122],"type":"Point"}
+}

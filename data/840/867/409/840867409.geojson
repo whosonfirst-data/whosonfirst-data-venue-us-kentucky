@@ -1,0 +1,75 @@
+{
+  "id": 840867409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.749112,38.23574,-85.749112,38.23574",
+    "geom:latitude":38.23574,
+    "geom:longitude":-85.749112,
+    "iso:country":"US",
+    "sg:address":"1063 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 5544",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26gHHwInq430K2rBVi1cCJ_38.235740_-85.749112@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049805,
+    "wof:geomhash":"07b6179aa6014d11e654e16b7401dd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840867409
+        }
+    ],
+    "wof:id":840867409,
+    "wof:lastmodified":1464049805,
+    "wof:name":"J's Discount Lock Svc",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -85.749112,
+    38.23574,
+    -85.749112,
+    38.23574
+],
+  "geometry": {"coordinates":[-85.749112,38.23574],"type":"Point"}
+}

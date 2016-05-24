@@ -1,0 +1,73 @@
+{
+  "id": 856710461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6239,38.197685,-85.6239,38.197685",
+    "geom:latitude":38.197685,
+    "geom:longitude":-85.6239,
+    "iso:country":"US",
+    "sg:address":"7312 Six Mile Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 2135",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eqyRpw5A748vlzpXx7o79_38.197685_-85.623900@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052276,
+    "wof:geomhash":"f8e512b1f901a08d85de018b4660e197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856710461
+        }
+    ],
+    "wof:id":856710461,
+    "wof:lastmodified":1464052276,
+    "wof:name":"Hallmark Apartments",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.6239,
+    38.197685,
+    -85.6239,
+    38.197685
+],
+  "geometry": {"coordinates":[-85.62390000000001,38.197685],"type":"Point"}
+}

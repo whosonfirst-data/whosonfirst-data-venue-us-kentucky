@@ -1,0 +1,84 @@
+{
+  "id": 856743825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78022,38.221466,-85.78022,38.221466",
+    "geom:latitude":38.221466,
+    "geom:longitude":-85.78022,
+    "iso:country":"US",
+    "sg:address":"1510 Algonquin Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 4417",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "marble-natural",
+        "top",
+        "counter",
+        "marble-cultured"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGahQ96IrmTv9E0xZuFFx_38.221466_-85.780220@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053523,
+    "wof:geomhash":"0e3e230f7478c5ab0e37a6d67d39d6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873363,
+            "region_id":85688641,
+            "venue_id":856743825
+        }
+    ],
+    "wof:id":856743825,
+    "wof:lastmodified":1464053523,
+    "wof:name":"American Bluegrass Marble Company",
+    "wof:parent_id":85873363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marble-natural",
+        "top",
+        "counter",
+        "marble-cultured"
+    ]
+},
+  "bbox": [
+    -85.78022,
+    38.221466,
+    -85.78022,
+    38.221466
+],
+  "geometry": {"coordinates":[-85.78022,38.221466],"type":"Point"}
+}

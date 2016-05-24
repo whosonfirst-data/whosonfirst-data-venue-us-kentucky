@@ -1,0 +1,73 @@
+{
+  "id": 840678761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.474253,38.04913,-84.474253,38.04913",
+    "geom:latitude":38.04913,
+    "geom:longitude":-84.474253,
+    "iso:country":"US",
+    "sg:address":"540 Shelby St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 4249",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yeK5ZXe7UQISg3fpcHOP6_38.049130_-84.474253@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045539,
+    "wof:geomhash":"5ab426587bc4fccf59686e5d71dc24e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873025,
+            "region_id":85688641,
+            "venue_id":840678761
+        }
+    ],
+    "wof:id":840678761,
+    "wof:lastmodified":1464045539,
+    "wof:name":"Bush Refrigeration",
+    "wof:parent_id":85873025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -84.474253,
+    38.04913,
+    -84.474253,
+    38.04913
+],
+  "geometry": {"coordinates":[-84.474253,38.04913],"type":"Point"}
+}

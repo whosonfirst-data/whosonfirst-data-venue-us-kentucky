@@ -1,0 +1,73 @@
+{
+  "id": 840747765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.405501,36.927139,-86.405501,36.927139",
+    "geom:latitude":36.927139,
+    "geom:longitude":-86.405501,
+    "iso:country":"US",
+    "sg:address":"342 Vanderbilt Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8453",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSK5rXOfQm6TCH5aSWLPx_36.927139_-86.405501@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047042,
+    "wof:geomhash":"34ffbb466ba85b78e9dbed113a4c34ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840747765
+        }
+    ],
+    "wof:id":840747765,
+    "wof:lastmodified":1464047042,
+    "wof:name":"Tile Trends Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.405501,
+    36.927139,
+    -86.405501,
+    36.927139
+],
+  "geometry": {"coordinates":[-86.405501,36.927139],"type":"Point"}
+}

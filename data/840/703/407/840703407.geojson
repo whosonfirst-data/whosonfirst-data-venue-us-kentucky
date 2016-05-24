@@ -1,0 +1,71 @@
+{
+  "id": 840703407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56428,37.167694,-84.56428,37.167694",
+    "geom:latitude":37.167694,
+    "geom:longitude":-84.56428,
+    "iso:country":"US",
+    "sg:address":"78 Misty Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 9833",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JgJveZkGRor0CimPrbIwU_37.167694_-84.564280@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046171,
+    "wof:geomhash":"5c46ba2890997173b959ead481003cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840703407
+        }
+    ],
+    "wof:id":840703407,
+    "wof:lastmodified":1464046171,
+    "wof:name":"Bryans Body Shop",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.56428,
+    37.167694,
+    -84.56428,
+    37.167694
+],
+  "geometry": {"coordinates":[-84.56428,37.167694],"type":"Point"}
+}

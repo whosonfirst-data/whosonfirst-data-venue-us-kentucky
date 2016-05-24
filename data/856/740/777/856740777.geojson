@@ -1,0 +1,88 @@
+{
+  "id": 856740777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.782028,38.248989,-85.782028,38.248989",
+    "geom:latitude":38.248989,
+    "geom:longitude":-85.782028,
+    "iso:country":"US",
+    "sg:address":"1813 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 0296",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qedSajxCvN1RsQOcMpR2k_38.248989_-85.782028@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053417,
+    "wof:geomhash":"6ab727f0f9ca33591468d1c821ce8bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856740777
+        }
+    ],
+    "wof:id":856740777,
+    "wof:lastmodified":1464053417,
+    "wof:name":"Pavon, Hugo DMD",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -85.782028,
+    38.248989,
+    -85.782028,
+    38.248989
+],
+  "geometry": {"coordinates":[-85.782028,38.248989],"type":"Point"}
+}

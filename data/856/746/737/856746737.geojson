@@ -1,0 +1,97 @@
+{
+  "id": 856746737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.664286,38.180506,-85.664286,38.180506",
+    "geom:latitude":38.180506,
+    "geom:longitude":-85.664286,
+    "iso:country":"US",
+    "sg:address":"4921 Tubman Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 5341",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "counselors-licensed",
+        "abuse",
+        "drug",
+        "medicine",
+        "professional",
+        "addiction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uw7mmbmIPty0Botl1lyjQ_38.180506_-85.664286@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053622,
+    "wof:geomhash":"4942fd29ab29d0c996dc8d77a5ba99c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746737
+        }
+    ],
+    "wof:id":856746737,
+    "wof:lastmodified":1464053622,
+    "wof:name":"Alcohol Abuse And Drug Rehab",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "counselors-licensed",
+        "abuse",
+        "drug",
+        "medicine",
+        "professional",
+        "addiction"
+    ]
+},
+  "bbox": [
+    -85.664286,
+    38.180506,
+    -85.664286,
+    38.180506
+],
+  "geometry": {"coordinates":[-85.664286,38.180506],"type":"Point"}
+}

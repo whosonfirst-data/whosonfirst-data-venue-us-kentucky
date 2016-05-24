@@ -1,0 +1,73 @@
+{
+  "id": 840927189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796562,37.645149,-85.796562,37.645149",
+    "geom:latitude":37.645149,
+    "geom:longitude":-85.796562,
+    "iso:country":"US",
+    "sg:address":"857 Red Mill Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 8386",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yyK0rbzotLwgCc2zHSdEF_37.645149_-85.796562@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051189,
+    "wof:geomhash":"9f3d4a64e4d17566aecc552dde2185e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840927189
+        }
+    ],
+    "wof:id":840927189,
+    "wof:lastmodified":1464051189,
+    "wof:name":"Foree Construction",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -85.796562,
+    37.645149,
+    -85.796562,
+    37.645149
+],
+  "geometry": {"coordinates":[-85.79656199999999,37.645149],"type":"Point"}
+}

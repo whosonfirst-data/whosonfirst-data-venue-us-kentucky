@@ -1,0 +1,80 @@
+{
+  "id": 856755321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.74807,36.606066,-83.74807,36.606066",
+    "geom:latitude":36.606066,
+    "geom:longitude":-83.74807,
+    "iso:country":"US",
+    "sg:address":"2403 Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6890",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57KYnFeQfX0DlQvuWgeZuw_36.606066_-83.748070@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"0a4fcee0b3431efbd686968f7586bf11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":856755321
+        }
+    ],
+    "wof:id":856755321,
+    "wof:lastmodified":1464053957,
+    "wof:name":"Taylor, James L Dr",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -83.74807,
+    36.606066,
+    -83.74807,
+    36.606066
+],
+  "geometry": {"coordinates":[-83.74807,36.606066],"type":"Point"}
+}

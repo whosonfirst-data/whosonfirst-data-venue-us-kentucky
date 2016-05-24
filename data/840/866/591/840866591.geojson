@@ -1,0 +1,68 @@
+{
+  "id": 840866591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66449,38.252347,-85.66449,38.252347",
+    "geom:latitude":38.252347,
+    "geom:longitude":-85.66449,
+    "iso:country":"US",
+    "sg:address":"101 Oxford Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 6547",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x3L43dtnKRm6rhjyr2yo7_38.252347_-85.664490@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049789,
+    "wof:geomhash":"ab3392f4b979d44995e436f91c403eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840866591
+        }
+    ],
+    "wof:id":840866591,
+    "wof:lastmodified":1464049789,
+    "wof:name":"Mike Utley DMD",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.66449,
+    38.252347,
+    -85.66449,
+    38.252347
+],
+  "geometry": {"coordinates":[-85.66449,38.252347],"type":"Point"}
+}

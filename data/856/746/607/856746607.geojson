@@ -1,0 +1,99 @@
+{
+  "id": 856746607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674159,38.18911,-85.674159,38.18911",
+    "geom:latitude":38.18911,
+    "geom:longitude":-85.674159,
+    "iso:country":"US",
+    "sg:address":"4500 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 4206",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packaging",
+        "material",
+        "machinery-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pZuQL5C5Tu709B7vtPFhK_38.189110_-85.674159@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053617,
+    "wof:geomhash":"35868f3f629d512abcb410d969a18906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746607
+        }
+    ],
+    "wof:id":856746607,
+    "wof:lastmodified":1464053617,
+    "wof:name":"Derby Fabricating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "material",
+        "machinery-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.674159,
+    38.18911,
+    -85.674159,
+    38.18911
+],
+  "geometry": {"coordinates":[-85.674159,38.18911],"type":"Point"}
+}

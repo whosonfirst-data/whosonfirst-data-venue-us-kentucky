@@ -1,0 +1,77 @@
+{
+  "id": 840659735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.510041,38.9448,-84.510041,38.9448",
+    "geom:latitude":38.9448,
+    "geom:longitude":-84.510041,
+    "iso:country":"US",
+    "sg:address":"720 Cox Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 8863",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RGEWVy38OqUUOZ8lLv8FS_38.944800_-84.510041@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045098,
+    "wof:geomhash":"4ab273ed8f1a6c74a8b83cb7cac77a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":840659735
+        }
+    ],
+    "wof:id":840659735,
+    "wof:lastmodified":1464045098,
+    "wof:name":"Independence Public Works",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -84.510041,
+    38.9448,
+    -84.510041,
+    38.9448
+],
+  "geometry": {"coordinates":[-84.510041,38.9448],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856739391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74344,38.25031,-85.74344,38.25031",
+    "geom:latitude":38.25031,
+    "geom:longitude":-85.74344,
+    "iso:country":"US",
+    "sg:address":"522 Marshall St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 379 2998",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ia2KI2oldQe9MkzQ7eC2_38.250310_-85.743440@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053355,
+    "wof:geomhash":"e23015bc0791da7881786fe9143e84b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":856739391
+        }
+    ],
+    "wof:id":856739391,
+    "wof:lastmodified":1464053355,
+    "wof:name":"Commercial Cleaning Specialists",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -85.74344,
+    38.25031,
+    -85.74344,
+    38.25031
+],
+  "geometry": {"coordinates":[-85.74344000000001,38.25031],"type":"Point"}
+}

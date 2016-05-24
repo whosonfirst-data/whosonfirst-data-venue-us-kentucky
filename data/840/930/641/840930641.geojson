@@ -1,0 +1,75 @@
+{
+  "id": 840930641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.487517,38.962194,-84.487517,38.962194",
+    "geom:latitude":38.962194,
+    "geom:longitude":-84.487517,
+    "iso:country":"US",
+    "sg:address":"467 Rice Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 7650",
+    "sg:postcode":"41015",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fDTRuEIkifIJCV96ADyKp_38.962194_-84.487517@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051263,
+    "wof:geomhash":"079e157747918a0a51f54c7de69dc0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":840930641
+        }
+    ],
+    "wof:id":840930641,
+    "wof:lastmodified":1464051263,
+    "wof:name":"Rose Electric",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.487517,
+    38.962194,
+    -84.487517,
+    38.962194
+],
+  "geometry": {"coordinates":[-84.487517,38.962194],"type":"Point"}
+}

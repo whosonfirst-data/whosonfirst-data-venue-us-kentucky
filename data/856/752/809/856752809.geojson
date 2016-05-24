@@ -1,0 +1,79 @@
+{
+  "id": 856752809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.57357,37.882786,-84.57357,37.882786",
+    "geom:latitude":37.882786,
+    "geom:longitude":-84.57357,
+    "iso:country":"US",
+    "sg:address":"315 N 2nd St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3328",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hqMinx7chi5DJRwVkTjaw_37.882786_-84.573570@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053862,
+    "wof:geomhash":"e08ffa6389700351c42f9d087cb61a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752809
+        }
+    ],
+    "wof:id":856752809,
+    "wof:lastmodified":1464053862,
+    "wof:name":"Strike Zone Lanes",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -84.57357,
+    37.882786,
+    -84.57357,
+    37.882786
+],
+  "geometry": {"coordinates":[-84.57357,37.882786],"type":"Point"}
+}

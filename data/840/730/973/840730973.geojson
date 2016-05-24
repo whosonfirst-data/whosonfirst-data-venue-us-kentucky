@@ -1,0 +1,73 @@
+{
+  "id": 840730973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.595856,38.217828,-85.595856,38.217828",
+    "geom:latitude":38.217828,
+    "geom:longitude":-85.595856,
+    "iso:country":"US",
+    "sg:address":"4553 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 3454",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JXdXIWqoInv3sKW1yIQ6N_38.217828_-85.595856@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046723,
+    "wof:geomhash":"22c6642a61b9a08618539da0c9eddc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840730973
+        }
+    ],
+    "wof:id":840730973,
+    "wof:lastmodified":1464046723,
+    "wof:name":"Cherry Springs Apartments",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.595856,
+    38.217828,
+    -85.595856,
+    38.217828
+],
+  "geometry": {"coordinates":[-85.595856,38.217828],"type":"Point"}
+}

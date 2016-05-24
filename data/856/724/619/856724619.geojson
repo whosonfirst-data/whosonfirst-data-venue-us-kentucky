@@ -1,0 +1,75 @@
+{
+  "id": 856724619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.456531,36.989909,-86.456531,36.989909",
+    "geom:latitude":36.989909,
+    "geom:longitude":-86.456531,
+    "iso:country":"US",
+    "sg:address":"110 Plain Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 0199",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jedQC7876HJTeq6kA1r3M_36.989909_-86.456531@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052776,
+    "wof:geomhash":"b13e73eef40ef62f71b6c7f96f6c65e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":856724619
+        }
+    ],
+    "wof:id":856724619,
+    "wof:lastmodified":1464052776,
+    "wof:name":"Forrest Park Storage",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.456531,
+    36.989909,
+    -86.456531,
+    36.989909
+],
+  "geometry": {"coordinates":[-86.456531,36.989909],"type":"Point"}
+}

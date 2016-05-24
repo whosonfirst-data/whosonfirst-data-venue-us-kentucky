@@ -1,0 +1,75 @@
+{
+  "id": 840683615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779,38.218462,-85.779,38.218462",
+    "geom:latitude":38.218462,
+    "geom:longitude":-85.779,
+    "iso:country":"US",
+    "sg:address":"2105 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 5188",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l5b0SQ6HyAL1If5tTMf9p_38.218462_-85.779000@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045662,
+    "wof:geomhash":"821740ce33a3bd86c9d62a8afadab0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873363,
+            "region_id":85688641,
+            "venue_id":840683615
+        }
+    ],
+    "wof:id":840683615,
+    "wof:lastmodified":1464045662,
+    "wof:name":"H & H Scale Co",
+    "wof:parent_id":85873363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -85.779,
+    38.218462,
+    -85.779,
+    38.218462
+],
+  "geometry": {"coordinates":[-85.779,38.218462],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856736933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616639,37.083681,-84.616639,37.083681",
+    "geom:latitude":37.083681,
+    "geom:longitude":-84.616639,
+    "iso:country":"US",
+    "sg:address":"904 S Highway 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/176037-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 3896",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lhjs0EqojLLNRzr7SHVDe_37.083681_-84.616639@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053255,
+    "wof:geomhash":"2f2f7f428c33d54d608668bfdff36a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736933
+        }
+    ],
+    "wof:id":856736933,
+    "wof:lastmodified":1464053255,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.616639,
+    37.083681,
+    -84.616639,
+    37.083681
+],
+  "geometry": {"coordinates":[-84.61663900000001,37.083681],"type":"Point"}
+}

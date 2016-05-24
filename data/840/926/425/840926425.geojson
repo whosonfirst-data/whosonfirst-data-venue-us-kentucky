@@ -1,0 +1,71 @@
+{
+  "id": 840926425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567714,38.206739,-84.567714,38.206739",
+    "geom:latitude":38.206739,
+    "geom:longitude":-84.567714,
+    "iso:country":"US",
+    "sg:address":"319 Kentucky Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 6779",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Siq6VK2NxD0f8LXaITfQa_38.206739_-84.567714@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051174,
+    "wof:geomhash":"bc921397784b04e7974355d6bf027e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840926425
+        }
+    ],
+    "wof:id":840926425,
+    "wof:lastmodified":1464051174,
+    "wof:name":"Personal Touch Cleaning Svc",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.567714,
+    38.206739,
+    -84.567714,
+    38.206739
+],
+  "geometry": {"coordinates":[-84.567714,38.206739],"type":"Point"}
+}

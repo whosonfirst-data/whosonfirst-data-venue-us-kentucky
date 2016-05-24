@@ -1,0 +1,73 @@
+{
+  "id": 840603845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.561853,37.868003,-87.561853,37.868003",
+    "geom:latitude":37.868003,
+    "geom:longitude":-87.561853,
+    "iso:country":"US",
+    "sg:address":"811 Sinclair Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 6945",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01rc5ihTLGSKTd0QRj2Mu2_37.868003_-87.561853@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043750,
+    "wof:geomhash":"b68dde220c2dbd5c91bd2cbee5cd77e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840603845
+        }
+    ],
+    "wof:id":840603845,
+    "wof:lastmodified":1464043750,
+    "wof:name":"P J M Horizons Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -87.561853,
+    37.868003,
+    -87.561853,
+    37.868003
+],
+  "geometry": {"coordinates":[-87.561853,37.868003],"type":"Point"}
+}

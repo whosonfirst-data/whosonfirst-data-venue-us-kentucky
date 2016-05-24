@@ -1,0 +1,71 @@
+{
+  "id": 856690571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441578,36.993871,-86.441578,36.993871",
+    "geom:latitude":36.993871,
+    "geom:longitude":-86.441578,
+    "iso:country":"US",
+    "sg:address":"400 E Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8228",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06uXe3lDJfvMiIQDWdy2f8_36.993871_-86.441578@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051881,
+    "wof:geomhash":"5a35fd74a8264bff7e578ed557392b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856690571
+        }
+    ],
+    "wof:id":856690571,
+    "wof:lastmodified":1464051881,
+    "wof:name":"Campbell Law Office",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -86.441578,
+    36.993871,
+    -86.441578,
+    36.993871
+],
+  "geometry": {"coordinates":[-86.44157800000001,36.993871],"type":"Point"}
+}

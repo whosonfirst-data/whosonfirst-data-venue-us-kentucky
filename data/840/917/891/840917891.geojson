@@ -1,0 +1,68 @@
+{
+  "id": 840917891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877555,36.908277,-85.877555,36.908277",
+    "geom:latitude":36.908277,
+    "geom:longitude":-85.877555,
+    "iso:country":"US",
+    "sg:address":"597 Wells Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 2959",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E84onQ65wd7QRvJd2hAS5_36.908277_-85.877555@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050951,
+    "wof:geomhash":"bc5360de950e8c9aa23f23576ec6ea5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840917891
+        }
+    ],
+    "wof:id":840917891,
+    "wof:lastmodified":1464050951,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.877555,
+    36.908277,
+    -85.877555,
+    36.908277
+],
+  "geometry": {"coordinates":[-85.877555,36.908277],"type":"Point"}
+}

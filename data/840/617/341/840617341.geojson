@@ -1,0 +1,79 @@
+{
+  "id": 840617341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.569446,37.521248,-82.569446,37.521248",
+    "geom:latitude":37.521248,
+    "geom:longitude":-82.569446,
+    "iso:country":"US",
+    "sg:address":"4045 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 4141",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:website":"www.peebles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927,
+        102191575,
+        85947001,
+        85868825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dQqkQtzL3y2wVG7IiyXtK_37.521248_-82.569446@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044103,
+    "wof:geomhash":"b76ed2496604ec4fbb267c4163ca8895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840617341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947001,
+            "neighbourhood_id":85868825,
+            "region_id":85688641,
+            "venue_id":840617341
+        }
+    ],
+    "wof:id":840617341,
+    "wof:lastmodified":1464044103,
+    "wof:name":"Peebles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.569446,
+    37.521248,
+    -82.569446,
+    37.521248
+],
+  "geometry": {"coordinates":[-82.569446,37.521248],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840936545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.618758,38.137607,-85.618758,38.137607",
+    "geom:latitude":38.137607,
+    "geom:longitude":-85.618758,
+    "iso:country":"US",
+    "sg:address":"7513 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 231 2153",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61SvOZc1mjO2m8D2KBVcRE_38.137607_-85.618758@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051377,
+    "wof:geomhash":"9130f84b6c9871bbeab3027e5dbb8072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840936545
+        }
+    ],
+    "wof:id":840936545,
+    "wof:lastmodified":1464051377,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.618758,
+    38.137607,
+    -85.618758,
+    38.137607
+],
+  "geometry": {"coordinates":[-85.618758,38.137607],"type":"Point"}
+}

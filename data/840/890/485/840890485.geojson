@@ -1,0 +1,71 @@
+{
+  "id": 840890485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.68993,36.728032,-83.68993,36.728032",
+    "geom:latitude":36.728032,
+    "geom:longitude":-83.68993,
+    "iso:country":"US",
+    "sg:address":"145 Woodland Trl",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 9876",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vwjkhi9MafZ0DneuSP5H7_36.728032_-83.689930@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050295,
+    "wof:geomhash":"ccfecb1ca9c180935b7fb4e18b16b360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840890485
+        }
+    ],
+    "wof:id":840890485,
+    "wof:lastmodified":1464050295,
+    "wof:name":"Stella's Hair Styles",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -83.68993,
+    36.728032,
+    -83.68993,
+    36.728032
+],
+  "geometry": {"coordinates":[-83.68993,36.728032],"type":"Point"}
+}

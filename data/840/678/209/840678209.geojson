@@ -1,0 +1,69 @@
+{
+  "id": 840678209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567659,37.892254,-84.567659,37.892254",
+    "geom:latitude":37.892254,
+    "geom:longitude":-84.567659,
+    "iso:country":"US",
+    "sg:address":"256 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4144",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eHbYxpiiyWRWGkuoMZmPO_37.892254_-84.567659@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045527,
+    "wof:geomhash":"64696302fa527b5be1fd4b4d6569dc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840678209
+        }
+    ],
+    "wof:id":840678209,
+    "wof:lastmodified":1464045527,
+    "wof:name":"Beacon Apartments",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.567659,
+    37.892254,
+    -84.567659,
+    37.892254
+],
+  "geometry": {"coordinates":[-84.56765900000001,37.892254],"type":"Point"}
+}

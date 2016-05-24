@@ -1,0 +1,75 @@
+{
+  "id": 856733573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.669634,38.107248,-85.669634,38.107248",
+    "geom:latitude":38.107248,
+    "geom:longitude":-85.669634,
+    "iso:country":"US",
+    "sg:address":"9700 Preston Crossing Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/72410-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0humcK4sqn9ETK5qS1BToT_38.107248_-85.669634@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053130,
+    "wof:geomhash":"45c28b3dc1b23d4150915798d238f73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":856733573
+        }
+    ],
+    "wof:id":856733573,
+    "wof:lastmodified":1464053130,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.669634,
+    38.107248,
+    -85.669634,
+    38.107248
+],
+  "geometry": {"coordinates":[-85.669634,38.107248],"type":"Point"}
+}

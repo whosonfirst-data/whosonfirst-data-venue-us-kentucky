@@ -1,0 +1,71 @@
+{
+  "id": 840781397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567624,37.892524,-84.567624,37.892524",
+    "geom:latitude":37.892524,
+    "geom:longitude":-84.567624,
+    "iso:country":"US",
+    "sg:address":"124 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 7242",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nvjDU18XkjMhfCavMenYE_37.892524_-84.567624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047790,
+    "wof:geomhash":"fa0bd612156f028e7dc0a082e093148d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840781397
+        }
+    ],
+    "wof:id":840781397,
+    "wof:lastmodified":1464047790,
+    "wof:name":"Autozone",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.567624,
+    37.892524,
+    -84.567624,
+    37.892524
+],
+  "geometry": {"coordinates":[-84.567624,37.892524],"type":"Point"}
+}

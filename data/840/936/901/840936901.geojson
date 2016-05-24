@@ -1,0 +1,71 @@
+{
+  "id": 840936901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.753234,37.733364,-85.753234,37.733364",
+    "geom:latitude":37.733364,
+    "geom:longitude":-85.753234,
+    "iso:country":"US",
+    "sg:address":"581 Lincoln Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6516",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bb0z4TX1nbpB3ruMSyDkd_37.733364_-85.753234@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051389,
+    "wof:geomhash":"cb643e00a8e830469d2321dd99cbc036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840936901
+        }
+    ],
+    "wof:id":840936901,
+    "wof:lastmodified":1464051389,
+    "wof:name":"Mike Purchis Photography",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -85.753234,
+    37.733364,
+    -85.753234,
+    37.733364
+],
+  "geometry": {"coordinates":[-85.75323400000001,37.733364],"type":"Point"}
+}

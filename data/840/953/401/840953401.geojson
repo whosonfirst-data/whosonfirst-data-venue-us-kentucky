@@ -1,0 +1,73 @@
+{
+  "id": 840953401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.296826,37.676313,-82.296826,37.676313",
+    "geom:latitude":37.676313,
+    "geom:longitude":-82.296826,
+    "iso:country":"US",
+    "sg:address":"306 Hospital Dr",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 1011",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0thPfZcUuDc7KBL8Nu8QQi_37.676313_-82.296826@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051717,
+    "wof:geomhash":"4a90f3b4f8eb9590504513b9f38fc5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840953401
+        }
+    ],
+    "wof:id":840953401,
+    "wof:lastmodified":1464051717,
+    "wof:name":"Augusto T Abad MD",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.296826,
+    37.676313,
+    -82.296826,
+    37.676313
+],
+  "geometry": {"coordinates":[-82.296826,37.676313],"type":"Point"}
+}

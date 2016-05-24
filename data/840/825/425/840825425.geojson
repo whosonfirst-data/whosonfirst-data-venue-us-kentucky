@@ -1,0 +1,68 @@
+{
+  "id": 840825425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.803029,38.121631,-85.803029,38.121631",
+    "geom:latitude":38.121631,
+    "geom:longitude":-85.803029,
+    "iso:country":"US",
+    "sg:address":"8320 3rd Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 0333",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uXfFHV2r6ok1WekeHf94f_38.121631_-85.803029@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048899,
+    "wof:geomhash":"691a26f865211d5199734cd3ada64cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840825425
+        }
+    ],
+    "wof:id":840825425,
+    "wof:lastmodified":1464048899,
+    "wof:name":"Dairy Mart",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.803029,
+    38.121631,
+    -85.803029,
+    38.121631
+],
+  "geometry": {"coordinates":[-85.803029,38.121631],"type":"Point"}
+}

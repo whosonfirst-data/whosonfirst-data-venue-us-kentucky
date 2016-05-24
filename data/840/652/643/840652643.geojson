@@ -1,0 +1,69 @@
+{
+  "id": 840652643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.961795,37.671856,-84.961795,37.671856",
+    "geom:latitude":37.671856,
+    "geom:longitude":-84.961795,
+    "iso:country":"US",
+    "sg:address":"420 Battlefield Rd",
+    "sg:city":"Perryville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 332 7261",
+    "sg:postcode":"40468",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MTKkOApumMujVh0P3XQk6_37.671856_-84.961795@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044946,
+    "wof:geomhash":"0fa2abd03d669e3a4aa957412518cff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840652643
+        }
+    ],
+    "wof:id":840652643,
+    "wof:lastmodified":1464044946,
+    "wof:name":"Battlefield Antique Shop",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -84.961795,
+    37.671856,
+    -84.961795,
+    37.671856
+],
+  "geometry": {"coordinates":[-84.961795,37.671856],"type":"Point"}
+}

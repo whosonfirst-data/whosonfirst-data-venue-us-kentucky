@@ -1,0 +1,71 @@
+{
+  "id": 840535873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418894,36.935504,-86.418894,36.935504",
+    "geom:latitude":36.935504,
+    "geom:longitude":-86.418894,
+    "iso:country":"US",
+    "sg:address":"3810 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 0308",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PGKFLPloEBJmoSP7bfink_36.935504_-86.418894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042114,
+    "wof:geomhash":"d069eb442f788215b5a52756cff5a9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840535873
+        }
+    ],
+    "wof:id":840535873,
+    "wof:lastmodified":1464042114,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.418894,
+    36.935504,
+    -86.418894,
+    36.935504
+],
+  "geometry": {"coordinates":[-86.41889399999999,36.935504],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840795951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.575333,37.854957,-87.575333,37.854957",
+    "geom:latitude":37.854957,
+    "geom:longitude":-87.575333,
+    "iso:country":"US",
+    "sg:address":"603 Richardson Ave",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 844 0008",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HgbCXzZFbZnd9a5Xk3UUC_37.854957_-87.575333@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048096,
+    "wof:geomhash":"b18cadbc0ef18fd3b6054ac123d55251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840795951
+        }
+    ],
+    "wof:id":840795951,
+    "wof:lastmodified":1464048096,
+    "wof:name":"Macs Barber Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.575333,
+    37.854957,
+    -87.575333,
+    37.854957
+],
+  "geometry": {"coordinates":[-87.575333,37.854957],"type":"Point"}
+}

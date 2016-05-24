@@ -1,0 +1,75 @@
+{
+  "id": 840603563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74001,38.233391,-85.74001,38.233391",
+    "geom:latitude":38.233391,
+    "geom:longitude":-85.74001,
+    "iso:country":"US",
+    "sg:address":"1142 Logan St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 1650",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RhtoASc4Rgsui8gTO2eFc_38.233391_-85.740010@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043745,
+    "wof:geomhash":"146d19df32bc4183ff1c6bc1becb92ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":840603563
+        }
+    ],
+    "wof:id":840603563,
+    "wof:lastmodified":1464043745,
+    "wof:name":"Smith Pallets",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -85.74001,
+    38.233391,
+    -85.74001,
+    38.233391
+],
+  "geometry": {"coordinates":[-85.74001,38.233391],"type":"Point"}
+}

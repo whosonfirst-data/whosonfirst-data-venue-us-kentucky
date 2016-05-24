@@ -1,0 +1,68 @@
+{
+  "id": 840882613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758619,38.247445,-85.758619,38.247445",
+    "geom:latitude":38.247445,
+    "geom:longitude":-85.758619,
+    "iso:country":"US",
+    "sg:address":"2 Theatre Sq",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 9179",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_159aFkKiKxs1Z31jobmtFN_38.247445_-85.758619@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050122,
+    "wof:geomhash":"99ad8c91e68a026cfde909af1a83070e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":840882613
+        }
+    ],
+    "wof:id":840882613,
+    "wof:lastmodified":1464050122,
+    "wof:name":"Antonio's Primizie Pizza",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.758619,
+    38.247445,
+    -85.758619,
+    38.247445
+],
+  "geometry": {"coordinates":[-85.758619,38.247445],"type":"Point"}
+}

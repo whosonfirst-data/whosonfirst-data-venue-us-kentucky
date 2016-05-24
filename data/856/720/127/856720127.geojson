@@ -1,0 +1,68 @@
+{
+  "id": 856720127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724477,38.231635,-85.724477,38.231635",
+    "geom:latitude":38.231635,
+    "geom:longitude":-85.724477,
+    "iso:country":"US",
+    "sg:address":"1200 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 1420",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04tNZJugU2FNRnTsXhfaCw_38.231635_-85.724477@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052595,
+    "wof:geomhash":"3d913a1fefc31320ae5e8eea3e091a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":856720127
+        }
+    ],
+    "wof:id":856720127,
+    "wof:lastmodified":1464052595,
+    "wof:name":"Harpring Florist",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.724477,
+    38.231635,
+    -85.724477,
+    38.231635
+],
+  "geometry": {"coordinates":[-85.72447699999999,38.231635],"type":"Point"}
+}

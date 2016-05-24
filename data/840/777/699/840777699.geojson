@@ -1,0 +1,84 @@
+{
+  "id": 840777699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.77395,37.645841,-84.77395,37.645841",
+    "geom:latitude":37.645841,
+    "geom:longitude":-84.77395,
+    "iso:country":"US",
+    "sg:address":"306 W Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 0605",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19DJNrWsj6taB9t8cDuKed_37.645841_-84.773950@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047714,
+    "wof:geomhash":"ad084f831aacd175f967b1f85e006c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840777699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840777699
+        }
+    ],
+    "wof:id":840777699,
+    "wof:lastmodified":1464047714,
+    "wof:name":"Farmers Financial Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -84.77395,
+    37.645841,
+    -84.77395,
+    37.645841
+],
+  "geometry": {"coordinates":[-84.77395,37.645841],"type":"Point"}
+}

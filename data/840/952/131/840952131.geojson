@@ -1,0 +1,71 @@
+{
+  "id": 840952131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616345,37.071596,-84.616345,37.071596",
+    "geom:latitude":37.071596,
+    "geom:longitude":-84.616345,
+    "iso:country":"US",
+    "sg:address":"511 Monticello St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 1618",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JlXA4aEfdDcb8d60BY4aW_37.071596_-84.616345@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051691,
+    "wof:geomhash":"43c36c4661d65b1b1804f13bd8cac851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840952131
+        }
+    ],
+    "wof:id":840952131,
+    "wof:lastmodified":1464051691,
+    "wof:name":"Thornton's Auto Repair",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.616345,
+    37.071596,
+    -84.616345,
+    37.071596
+],
+  "geometry": {"coordinates":[-84.616345,37.071596],"type":"Point"}
+}

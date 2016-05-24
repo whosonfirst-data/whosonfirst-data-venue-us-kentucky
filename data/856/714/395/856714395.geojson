@@ -1,0 +1,73 @@
+{
+  "id": 856714395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425201,36.98737,-86.425201,36.98737",
+    "geom:latitude":36.98737,
+    "geom:longitude":-86.425201,
+    "iso:country":"US",
+    "sg:address":"627 Eastwood Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3837",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ebd7PmoGDqtVuwZgw8HCJ_36.987370_-86.425201@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052370,
+    "wof:geomhash":"cd1e5671116ce22a136672ce573eb13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":856714395
+        }
+    ],
+    "wof:id":856714395,
+    "wof:lastmodified":1464052370,
+    "wof:name":"Norman Thomas DDS",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.425201,
+    36.98737,
+    -86.425201,
+    36.98737
+],
+  "geometry": {"coordinates":[-86.425201,36.98737],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840809829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.721803,38.255843,-85.721803,38.255843",
+    "geom:latitude":38.255843,
+    "geom:longitude":-85.721803,
+    "iso:country":"US",
+    "sg:address":"1500 Mellwood Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 4414",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mEFVLUgX3lD8x2BEs84zB_38.255843_-85.721803@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048415,
+    "wof:geomhash":"3cccd921c73e64832cd1be79617dd046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":840809829
+        }
+    ],
+    "wof:id":840809829,
+    "wof:lastmodified":1464048415,
+    "wof:name":"Moby Dick Restaurant",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.721803,
+    38.255843,
+    -85.721803,
+    38.255843
+],
+  "geometry": {"coordinates":[-85.72180299999999,38.255843],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 840935163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.77442,37.641064,-84.77442,37.641064",
+    "geom:latitude":37.641064,
+    "geom:longitude":-84.77442,
+    "iso:country":"US",
+    "sg:address":"426 S 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 1234",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hdpmK0TlB05dmjbsym49V_37.641064_-84.774420@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051348,
+    "wof:geomhash":"16707bc8fe9084d513fc12149f059d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840935163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840935163
+        }
+    ],
+    "wof:id":840935163,
+    "wof:lastmodified":1464051348,
+    "wof:name":"Mark L Morgan & Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -84.77442,
+    37.641064,
+    -84.77442,
+    37.641064
+],
+  "geometry": {"coordinates":[-84.77442000000001,37.641064],"type":"Point"}
+}

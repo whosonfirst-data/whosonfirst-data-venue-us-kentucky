@@ -1,0 +1,75 @@
+{
+  "id": 840683285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.582121,37.067263,-88.582121,37.067263",
+    "geom:latitude":37.067263,
+    "geom:longitude":-88.582121,
+    "iso:country":"US",
+    "sg:address":"2025 Wayne Sullivan Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 0840",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fuel",
+        "equipment",
+        "injection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WBpLJBK83YPMGi5TPX2ja_37.067263_-88.582121@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045656,
+    "wof:geomhash":"a3f009d3e9a9d95721a08220f05356b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840683285
+        }
+    ],
+    "wof:id":840683285,
+    "wof:lastmodified":1464045656,
+    "wof:name":"Diesel Power Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fuel",
+        "equipment",
+        "injection"
+    ]
+},
+  "bbox": [
+    -88.582121,
+    37.067263,
+    -88.582121,
+    37.067263
+],
+  "geometry": {"coordinates":[-88.582121,37.067263],"type":"Point"}
+}

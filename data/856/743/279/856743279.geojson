@@ -1,0 +1,80 @@
+{
+  "id": 856743279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.67362,38.280388,-85.67362,38.280388",
+    "geom:latitude":38.280388,
+    "geom:longitude":-85.67362,
+    "iso:country":"US",
+    "sg:address":"60 Indian Hills Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 721 7533",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85808095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_236SoOIo2nut0lZbhCLpqS_38.280388_-85.673620@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053504,
+    "wof:geomhash":"22e28a3e1d207420338b44f8eb7918ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85808095,
+            "region_id":85688641,
+            "venue_id":856743279
+        }
+    ],
+    "wof:id":856743279,
+    "wof:lastmodified":1464053504,
+    "wof:name":"Whalen & Whalen Subway Inc",
+    "wof:parent_id":85808095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.67362,
+    38.280388,
+    -85.67362,
+    38.280388
+],
+  "geometry": {"coordinates":[-85.67362,38.280388],"type":"Point"}
+}

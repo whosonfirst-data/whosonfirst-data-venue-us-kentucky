@@ -1,0 +1,75 @@
+{
+  "id": 840882643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.849607,37.69921,-85.849607,37.69921",
+    "geom:latitude":37.69921,
+    "geom:longitude":-85.849607,
+    "iso:country":"US",
+    "sg:address":"615 N Main St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 1599",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hc7Bp3cqR1whT1BSx66fS_37.699210_-85.849607@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050123,
+    "wof:geomhash":"44dc0754176264342b69ea6d5e883960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840882643
+        }
+    ],
+    "wof:id":840882643,
+    "wof:lastmodified":1464050123,
+    "wof:name":"Danny's Tobacco",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.849607,
+    37.69921,
+    -85.849607,
+    37.69921
+],
+  "geometry": {"coordinates":[-85.84960700000001,37.69921],"type":"Point"}
+}

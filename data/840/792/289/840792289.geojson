@@ -1,0 +1,75 @@
+{
+  "id": 840792289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.910173,36.996173,-85.910173,36.996173",
+    "geom:latitude":36.996173,
+    "geom:longitude":-85.910173,
+    "iso:country":"US",
+    "sg:address":"110 N Broadway",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 659 0362",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pVyPyLKKrllD6LtIgTaWs_36.996173_-85.910173@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048028,
+    "wof:geomhash":"f721711eae3ad0c869fc3fa89136480f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840792289
+        }
+    ],
+    "wof:id":840792289,
+    "wof:lastmodified":1464048028,
+    "wof:name":"Glasgow Automotive Repair",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.910173,
+    36.996173,
+    -85.910173,
+    36.996173
+],
+  "geometry": {"coordinates":[-85.910173,36.996173],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840714143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.23961,37.030923,-86.23961,37.030923",
+    "geom:latitude":37.030923,
+    "geom:longitude":-86.23961,
+    "iso:country":"US",
+    "sg:address":"300 Oakland-Flatrock Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 4735",
+    "sg:postcode":"42159",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rb13cOjapxLo11uIpuygE_37.030923_-86.239610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046386,
+    "wof:geomhash":"9568dc1721b45486d00d1abfb72c5955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840714143
+        }
+    ],
+    "wof:id":840714143,
+    "wof:lastmodified":1464046386,
+    "wof:name":"Clark Distributing Co Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -86.23961,
+    37.030923,
+    -86.23961,
+    37.030923
+],
+  "geometry": {"coordinates":[-86.23961,37.030923],"type":"Point"}
+}

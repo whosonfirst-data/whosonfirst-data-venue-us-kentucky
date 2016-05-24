@@ -1,0 +1,72 @@
+{
+  "id": 840535129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.329525,37.032556,-86.329525,37.032556",
+    "geom:latitude":37.032556,
+    "geom:longitude":-86.329525,
+    "iso:country":"US",
+    "sg:address":"434 Scottys Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4100",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "sg:website":"www.woodcraftind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A0j9SygeoOqd2D4BkqKS3_37.032556_-86.329525@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042096,
+    "wof:geomhash":"953e3cf1a95ffbf7b08a120476c6e1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840535129
+        }
+    ],
+    "wof:id":840535129,
+    "wof:lastmodified":1464042096,
+    "wof:name":"Woodcraft Industries",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.329525,
+    37.032556,
+    -86.329525,
+    37.032556
+],
+  "geometry": {"coordinates":[-86.329525,37.032556],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 856729379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.633803,37.079863,-88.633803,37.079863",
+    "geom:latitude":37.079863,
+    "geom:longitude":-88.633803,
+    "iso:country":"US",
+    "sg:address":"2741 Trimble St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0235",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "sg:website":"http://www.fcpnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q0XG34gtR0YglzCiraf9s_37.079759_-88.634263@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052979,
+    "wof:geomhash":"3241cc0f58600fab3f9993233a8ff15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856729379
+        }
+    ],
+    "wof:id":856729379,
+    "wof:lastmodified":1464052979,
+    "wof:name":"First Cumberland Properties Inc",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -88.633803,
+    37.079863,
+    -88.633803,
+    37.079863
+],
+  "geometry": {"coordinates":[-88.633803,37.079863],"type":"Point"}
+}

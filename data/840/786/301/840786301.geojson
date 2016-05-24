@@ -1,0 +1,75 @@
+{
+  "id": 840786301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.70197,37.059385,-88.70197,37.059385",
+    "geom:latitude":37.059385,
+    "geom:longitude":-88.70197,
+    "iso:country":"US",
+    "sg:address":"121 Matthew Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 8420",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "personal",
+        "credit",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r45oIhI4ZmsGlLFraaovv_37.059385_-88.701970@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047906,
+    "wof:geomhash":"336986c44d169d21bcf9543be5f1e53f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840786301
+        }
+    ],
+    "wof:id":840786301,
+    "wof:lastmodified":1464047906,
+    "wof:name":"Helm Rail Equipment",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "credit",
+        "institution"
+    ]
+},
+  "bbox": [
+    -88.70197,
+    37.059385,
+    -88.70197,
+    37.059385
+],
+  "geometry": {"coordinates":[-88.70197,37.059385],"type":"Point"}
+}

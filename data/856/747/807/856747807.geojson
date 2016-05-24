@@ -1,0 +1,92 @@
+{
+  "id": 856747807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625413,38.219961,-85.625413,38.219961",
+    "geom:latitude":38.219961,
+    "geom:longitude":-85.625413,
+    "iso:country":"US",
+    "sg:address":"4117 Browns Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 1333",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint-wholesale",
+        "equipment",
+        "manufacturer",
+        "painter",
+        "paint"
+    ],
+    "sg:website":"http://www.hikespointpaint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ABK9i2ffM1ESOeMsMSxxM_38.219961_-85.625413@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053669,
+    "wof:geomhash":"a481060d10cd754d58ae2506f0f91cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747807
+        }
+    ],
+    "wof:id":856747807,
+    "wof:lastmodified":1464053669,
+    "wof:name":"Hikes Point Paint & Wallpaper",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint-wholesale",
+        "equipment",
+        "manufacturer",
+        "painter",
+        "paint"
+    ]
+},
+  "bbox": [
+    -85.625413,
+    38.219961,
+    -85.625413,
+    38.219961
+],
+  "geometry": {"coordinates":[-85.62541299999999,38.219961],"type":"Point"}
+}

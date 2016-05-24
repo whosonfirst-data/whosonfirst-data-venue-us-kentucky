@@ -1,0 +1,75 @@
+{
+  "id": 856698699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65932,38.110967,-85.65932,38.110967",
+    "geom:latitude":38.110967,
+    "geom:longitude":-85.65932,
+    "iso:country":"US",
+    "sg:address":"10203 Arbor Oak Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 7016",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13fMK8UIxqhRXUok8GWqFY_38.110967_-85.659320@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052033,
+    "wof:geomhash":"02132031296581cde83c2303ebee392d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":856698699
+        }
+    ],
+    "wof:id":856698699,
+    "wof:lastmodified":1464052033,
+    "wof:name":"C & L Heating & Air Cond Inc",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.65932,
+    38.110967,
+    -85.65932,
+    38.110967
+],
+  "geometry": {"coordinates":[-85.65931999999999,38.110967],"type":"Point"}
+}

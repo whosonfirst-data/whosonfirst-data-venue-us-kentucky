@@ -1,0 +1,71 @@
+{
+  "id": 840788641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852654,37.688011,-85.852654,37.688011",
+    "geom:latitude":37.688011,
+    "geom:longitude":-85.852654,
+    "iso:country":"US",
+    "sg:address":"503 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3025",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3beBCe3Q5FiXRCWHSqdS4F_37.688011_-85.852654@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047949,
+    "wof:geomhash":"a977cca38b172bc7eb83ca129c9469fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840788641
+        }
+    ],
+    "wof:id":840788641,
+    "wof:lastmodified":1464047949,
+    "wof:name":"Trudys Beauty Boutique",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.852654,
+    37.688011,
+    -85.852654,
+    37.688011
+],
+  "geometry": {"coordinates":[-85.852654,37.688011],"type":"Point"}
+}

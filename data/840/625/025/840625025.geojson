@@ -1,0 +1,72 @@
+{
+  "id": 840625025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63124,37.066781,-88.63124,37.066781",
+    "geom:latitude":37.066781,
+    "geom:longitude":-88.63124,
+    "iso:country":"US",
+    "sg:address":"2969 Jackson St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9618",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.supervalupaducah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0od7wrEW9FQwbgtQWbBrlw_37.066781_-88.631240@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044294,
+    "wof:geomhash":"91473d88d4ef0ec9a03f21316f174a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840625025
+        }
+    ],
+    "wof:id":840625025,
+    "wof:lastmodified":1464044294,
+    "wof:name":"Banks Grocery Co",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -88.63124,
+    37.066781,
+    -88.63124,
+    37.066781
+],
+  "geometry": {"coordinates":[-88.63124000000001,37.066781],"type":"Point"}
+}

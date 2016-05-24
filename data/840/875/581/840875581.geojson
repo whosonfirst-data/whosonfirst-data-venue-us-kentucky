@@ -1,0 +1,68 @@
+{
+  "id": 840875581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.468655,37.809339,-85.468655,37.809339",
+    "geom:latitude":37.809339,
+    "geom:longitude":-85.468655,
+    "iso:country":"US",
+    "sg:address":"110 S 4th St",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 348 1444",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i56HkSxDX4BKbV40aqwcI_37.809339_-85.468655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049960,
+    "wof:geomhash":"4c1be105b4c6fa4eb5cb107afea8969f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840875581
+        }
+    ],
+    "wof:id":840875581,
+    "wof:lastmodified":1464049960,
+    "wof:name":"Toddy's Liquors",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.468655,
+    37.809339,
+    -85.468655,
+    37.809339
+],
+  "geometry": {"coordinates":[-85.468655,37.809339],"type":"Point"}
+}

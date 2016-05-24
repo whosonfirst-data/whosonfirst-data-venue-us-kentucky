@@ -1,0 +1,71 @@
+{
+  "id": 840588295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.62569,37.078039,-88.62569,37.078039",
+    "geom:latitude":37.078039,
+    "geom:longitude":-88.62569,
+    "iso:country":"US",
+    "sg:address":"2302 Monroe St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8006",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sqnLpAI44CXHxZZqTfVKH_37.078039_-88.625690@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043386,
+    "wof:geomhash":"452b9aa0ca0d93ea25f81e54765e596d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840588295
+        }
+    ],
+    "wof:id":840588295,
+    "wof:lastmodified":1464043386,
+    "wof:name":"Neil R Thompson",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -88.62569,
+    37.078039,
+    -88.62569,
+    37.078039
+],
+  "geometry": {"coordinates":[-88.62569000000001,37.078039],"type":"Point"}
+}

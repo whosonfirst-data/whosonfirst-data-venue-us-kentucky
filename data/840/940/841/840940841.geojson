@@ -1,0 +1,71 @@
+{
+  "id": 840940841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.412074,36.915794,-86.412074,36.915794",
+    "geom:latitude":36.915794,
+    "geom:longitude":-86.412074,
+    "iso:country":"US",
+    "sg:address":"546 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 901 0343",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HudY8vcHZqJm6ZjIGMHf6_36.915794_-86.412074@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051465,
+    "wof:geomhash":"981d818e7eeb47a197d614e4619a9caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840940841
+        }
+    ],
+    "wof:id":840940841,
+    "wof:lastmodified":1464051465,
+    "wof:name":"Plano Road Produce",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -86.412074,
+    36.915794,
+    -86.412074,
+    36.915794
+],
+  "geometry": {"coordinates":[-86.412074,36.915794],"type":"Point"}
+}

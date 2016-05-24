@@ -1,0 +1,68 @@
+{
+  "id": 856740533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761799,38.245816,-85.761799,38.245816",
+    "geom:latitude":38.245816,
+    "geom:longitude":-85.761799,
+    "iso:country":"US",
+    "sg:address":"729 S 6th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 4018",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBzfraj4PzwFAiuy4vAQ3_38.245816_-85.761799@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053408,
+    "wof:geomhash":"97ef84431cd28c207ac7514540cfd9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":856740533
+        }
+    ],
+    "wof:id":856740533,
+    "wof:lastmodified":1464053408,
+    "wof:name":"YMCA Of Greater Louisville",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.761799,
+    38.245816,
+    -85.761799,
+    38.245816
+],
+  "geometry": {"coordinates":[-85.761799,38.245816],"type":"Point"}
+}

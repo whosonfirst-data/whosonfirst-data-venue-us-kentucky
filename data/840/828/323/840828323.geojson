@@ -1,0 +1,71 @@
+{
+  "id": 840828323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.503766,36.98885,-86.503766,36.98885",
+    "geom:latitude":36.98885,
+    "geom:longitude":-86.503766,
+    "iso:country":"US",
+    "sg:address":"529 Brookwood Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 3666",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ENlGQdCtJzZe2tbAV8L2U_36.988850_-86.503766@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048969,
+    "wof:geomhash":"2113440bd766c42310219d2c0ec668a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840828323
+        }
+    ],
+    "wof:id":840828323,
+    "wof:lastmodified":1464048969,
+    "wof:name":"Barren River Vol Fire Dept",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.503766,
+    36.98885,
+    -86.503766,
+    36.98885
+],
+  "geometry": {"coordinates":[-86.503766,36.98885],"type":"Point"}
+}

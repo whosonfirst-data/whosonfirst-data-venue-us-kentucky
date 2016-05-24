@@ -1,0 +1,73 @@
+{
+  "id": 840533457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810757,38.270223,-85.810757,38.270223",
+    "geom:latitude":38.270223,
+    "geom:longitude":-85.810757,
+    "iso:country":"US",
+    "sg:address":"411 N 38th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 9552",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KLh5xJ062TZsyABd6fOLm_38.270223_-85.810757@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042060,
+    "wof:geomhash":"75569ea3bf12a6887cd4545ac19eb48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840533457
+        }
+    ],
+    "wof:id":840533457,
+    "wof:lastmodified":1464042060,
+    "wof:name":"Ro Ro's Food Mart Food Mart",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.810757,
+    38.270223,
+    -85.810757,
+    38.270223
+],
+  "geometry": {"coordinates":[-85.810757,38.270223],"type":"Point"}
+}

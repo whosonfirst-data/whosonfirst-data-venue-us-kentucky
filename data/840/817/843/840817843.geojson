@@ -1,0 +1,68 @@
+{
+  "id": 840817843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51981,38.002067,-84.51981,38.002067",
+    "geom:latitude":38.002067,
+    "geom:longitude":-84.51981,
+    "iso:country":"US",
+    "sg:address":"243 Surfside Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 3963",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kZAkgJtJOErcsWbfsndsc_38.002067_-84.519810@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048690,
+    "wof:geomhash":"fcccd74853ca9f2d8a827988567dc2ef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840817843
+        }
+    ],
+    "wof:id":840817843,
+    "wof:lastmodified":1464048690,
+    "wof:name":"Surfside Coin Laundry",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.51981,
+    38.002067,
+    -84.51981,
+    38.002067
+],
+  "geometry": {"coordinates":[-84.51981000000001,38.002067],"type":"Point"}
+}

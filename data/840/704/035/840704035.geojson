@@ -1,0 +1,71 @@
+{
+  "id": 840704035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.47133,36.535384,-87.47133,36.535384",
+    "geom:latitude":36.535384,
+    "geom:longitude":-87.47133,
+    "iso:country":"US",
+    "sg:address":"1511 Selph Ln",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 237 1818",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ALP7XcB2RseOtZvox3eUG_36.535384_-87.471330@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046183,
+    "wof:geomhash":"58f0876d59577288d7ae75d7d1a7b730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":840704035
+        }
+    ],
+    "wof:id":840704035,
+    "wof:lastmodified":1464046183,
+    "wof:name":"J B Plumbing & Electric",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.47133,
+    36.535384,
+    -87.47133,
+    36.535384
+],
+  "geometry": {"coordinates":[-87.47132999999999,36.535384],"type":"Point"}
+}

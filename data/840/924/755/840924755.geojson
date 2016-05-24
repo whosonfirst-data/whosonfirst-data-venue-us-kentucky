@@ -1,0 +1,66 @@
+{
+  "id": 840924755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.535482,37.491915,-82.535482,37.491915",
+    "geom:latitude":37.491915,
+    "geom:longitude":-82.535482,
+    "iso:country":"US",
+    "sg:address":"519 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 5959",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLTL3eZ8ImZANC8vp4UZU_37.491915_-82.535482@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051133,
+    "wof:geomhash":"79dac79d3026dab1f345f5604cc4e185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840924755
+        }
+    ],
+    "wof:id":840924755,
+    "wof:lastmodified":1464051133,
+    "wof:name":"One Stop Market",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.535482,
+    37.491915,
+    -82.535482,
+    37.491915
+],
+  "geometry": {"coordinates":[-82.535482,37.491915],"type":"Point"}
+}

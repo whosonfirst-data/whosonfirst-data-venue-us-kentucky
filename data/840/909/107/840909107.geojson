@@ -1,0 +1,75 @@
+{
+  "id": 840909107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.451363,39.058943,-84.451363,39.058943",
+    "geom:latitude":39.058943,
+    "geom:longitude":-84.451363,
+    "iso:country":"US",
+    "sg:address":"1031 Alexandria Pike",
+    "sg:city":"Fort Thomas",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 441 8658",
+    "sg:postcode":"41075",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808861,
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xL6BCxIOqbtL2Z3usV2rk_39.058943_-84.451363@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050699,
+    "wof:geomhash":"640c7249191b0ba1c87a5b2853d53534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85808861,
+            "region_id":85688485,
+            "venue_id":840909107
+        }
+    ],
+    "wof:id":840909107,
+    "wof:lastmodified":1464050699,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85808861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.451363,
+    39.058943,
+    -84.451363,
+    39.058943
+],
+  "geometry": {"coordinates":[-84.451363,39.058943],"type":"Point"}
+}

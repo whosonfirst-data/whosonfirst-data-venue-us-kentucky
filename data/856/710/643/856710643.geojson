@@ -1,0 +1,73 @@
+{
+  "id": 856710643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.884049,37.706088,-85.884049,37.706088",
+    "geom:latitude":37.706088,
+    "geom:longitude":-85.884049,
+    "iso:country":"US",
+    "sg:address":"626 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5222",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fHgG22VD8okTyq8ch1R43_37.706088_-85.884049@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052279,
+    "wof:geomhash":"8ee7bae0bbe3eb53b8862cc55d681789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856710643
+        }
+    ],
+    "wof:id":856710643,
+    "wof:lastmodified":1464052279,
+    "wof:name":"Bluegrass Garden Ctr",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.884049,
+    37.706088,
+    -85.884049,
+    37.706088
+],
+  "geometry": {"coordinates":[-85.884049,37.706088],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840743285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.887393,37.687437,-85.887393,37.687437",
+    "geom:latitude":37.687437,
+    "geom:longitude":-85.887393,
+    "iso:country":"US",
+    "sg:address":"521 Charlemagne Blvd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 0686",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M6mjnQAQ4uZKXdbwCoSOA_37.687437_-85.887393@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046956,
+    "wof:geomhash":"6988107fe0f9702932a7d506eed6558a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840743285
+        }
+    ],
+    "wof:id":840743285,
+    "wof:lastmodified":1464046956,
+    "wof:name":"Energy Management Line",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.887393,
+    37.687437,
+    -85.887393,
+    37.687437
+],
+  "geometry": {"coordinates":[-85.887393,37.687437],"type":"Point"}
+}

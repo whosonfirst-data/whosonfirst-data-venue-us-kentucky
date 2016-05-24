@@ -1,0 +1,75 @@
+{
+  "id": 840560979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.887909,37.73387,-85.887909,37.73387",
+    "geom:latitude":37.73387,
+    "geom:longitude":-85.887909,
+    "iso:country":"US",
+    "sg:address":"143 Towne Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6177",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DAECpYqAK3uO4DnqtRrBI_37.733870_-85.887909@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042753,
+    "wof:geomhash":"744f8e43ae1b3e833800532974a40b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840560979
+        }
+    ],
+    "wof:id":840560979,
+    "wof:lastmodified":1464042753,
+    "wof:name":"US Air Force Recruiting",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -85.887909,
+    37.73387,
+    -85.887909,
+    37.73387
+],
+  "geometry": {"coordinates":[-85.88790899999999,37.73387],"type":"Point"}
+}

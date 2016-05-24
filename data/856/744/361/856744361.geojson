@@ -1,0 +1,94 @@
+{
+  "id": 856744361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702713,38.202333,-85.702713,38.202333",
+    "geom:latitude":38.202333,
+    "geom:longitude":-85.702713,
+    "iso:country":"US",
+    "sg:address":"1841 Taylor Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 9898",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management",
+        "records-storage",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "document",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72El1ALvv1FLwnQyhpfuth_38.202333_-85.702713@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053541,
+    "wof:geomhash":"20ac20f6580c028f9caa6a080e5ca9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744361
+        }
+    ],
+    "wof:id":856744361,
+    "wof:lastmodified":1464053541,
+    "wof:name":"Louisville Underground",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "records-storage",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "document",
+        "boat"
+    ]
+},
+  "bbox": [
+    -85.702713,
+    38.202333,
+    -85.702713,
+    38.202333
+],
+  "geometry": {"coordinates":[-85.702713,38.202333],"type":"Point"}
+}

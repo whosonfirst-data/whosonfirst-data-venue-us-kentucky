@@ -1,0 +1,71 @@
+{
+  "id": 840868163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.841518,37.707652,-85.841518,37.707652",
+    "geom:latitude":37.707652,
+    "geom:longitude":-85.841518,
+    "iso:country":"US",
+    "sg:address":"950 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8793",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gRKifhbQaGsE95wfZOLNR_37.707652_-85.841518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049819,
+    "wof:geomhash":"d9fc49381c2c3b6a3abcf065deb63bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840868163
+        }
+    ],
+    "wof:id":840868163,
+    "wof:lastmodified":1464049819,
+    "wof:name":"E-Town Paint & Decorating Ctr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -85.841518,
+    37.707652,
+    -85.841518,
+    37.707652
+],
+  "geometry": {"coordinates":[-85.84151799999999,37.707652],"type":"Point"}
+}

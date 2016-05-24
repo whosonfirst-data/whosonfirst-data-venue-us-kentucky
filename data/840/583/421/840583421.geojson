@@ -1,0 +1,66 @@
+{
+  "id": 840583421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.528364,37.602945,-82.528364,37.602945",
+    "geom:latitude":37.602945,
+    "geom:longitude":-82.528364,
+    "iso:country":"US",
+    "sg:address":"6861 State Hwy 194 W",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 1192",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gzJ085yRuigOnYuze9JqM_37.602945_-82.528364@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043281,
+    "wof:geomhash":"a7355ff15bacb5b4745a930b8db797df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840583421
+        }
+    ],
+    "wof:id":840583421,
+    "wof:lastmodified":1464043281,
+    "wof:name":"Clevingers Grocery",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.528364,
+    37.602945,
+    -82.528364,
+    37.602945
+],
+  "geometry": {"coordinates":[-82.528364,37.602945],"type":"Point"}
+}

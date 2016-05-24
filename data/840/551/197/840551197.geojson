@@ -1,0 +1,71 @@
+{
+  "id": 840551197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.906749,37.684817,-85.906749,37.684817",
+    "geom:latitude":37.684817,
+    "geom:longitude":-85.906749,
+    "iso:country":"US",
+    "sg:address":"315 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 9720",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CMBtl6OdqZ2iyNUtjs5pM_37.684817_-85.906749@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042538,
+    "wof:geomhash":"4a597ece600dceee90caabda08ded55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840551197
+        }
+    ],
+    "wof:id":840551197,
+    "wof:lastmodified":1464042538,
+    "wof:name":"BDL Svc & Supplies",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.906749,
+    37.684817,
+    -85.906749,
+    37.684817
+],
+  "geometry": {"coordinates":[-85.906749,37.684817],"type":"Point"}
+}

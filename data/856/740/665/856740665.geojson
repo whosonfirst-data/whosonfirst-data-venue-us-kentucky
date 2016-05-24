@@ -1,0 +1,109 @@
+{
+  "id": 856740665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.747726,38.244259,-85.747726,38.244259",
+    "geom:latitude":38.244259,
+    "geom:longitude":-85.747726,
+    "iso:country":"US",
+    "sg:address":"721 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 9325",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "refinishing",
+        "mobility",
+        "wheelchair",
+        "scooter",
+        "aid",
+        "home",
+        "surgeon",
+        "wheelchairs-rental",
+        "equipment-repairing",
+        "care"
+    ],
+    "sg:website":"http://www.harrisonmedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03GBxKbsSLd72G3uWbvPFc_38.244259_-85.747726@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053413,
+    "wof:geomhash":"626e85ed411690930cff139fe3acee96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":856740665
+        }
+    ],
+    "wof:id":856740665,
+    "wof:lastmodified":1464053413,
+    "wof:name":"Harrison Medical Inc",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "refinishing",
+        "mobility",
+        "wheelchair",
+        "scooter",
+        "aid",
+        "home",
+        "surgeon",
+        "wheelchairs-rental",
+        "equipment-repairing",
+        "care"
+    ]
+},
+  "bbox": [
+    -85.747726,
+    38.244259,
+    -85.747726,
+    38.244259
+],
+  "geometry": {"coordinates":[-85.747726,38.244259],"type":"Point"}
+}

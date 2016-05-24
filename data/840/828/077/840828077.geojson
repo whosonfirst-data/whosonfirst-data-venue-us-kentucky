@@ -1,0 +1,75 @@
+{
+  "id": 840828077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.71667,37.987976,-85.71667,37.987976",
+    "geom:latitude":37.987976,
+    "geom:longitude":-85.71667,
+    "iso:country":"US",
+    "sg:address":"349 S Buckman St",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 8335",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vKwWXFjIb74LZS5maH25Z_37.987976_-85.716670@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048964,
+    "wof:geomhash":"7992237d7eb82867b7ae0cda4e896d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840828077
+        }
+    ],
+    "wof:id":840828077,
+    "wof:lastmodified":1464048964,
+    "wof:name":"Auto Paint & Performance LTD",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.71667,
+    37.987976,
+    -85.71667,
+    37.987976
+],
+  "geometry": {"coordinates":[-85.71666999999999,37.987976],"type":"Point"}
+}

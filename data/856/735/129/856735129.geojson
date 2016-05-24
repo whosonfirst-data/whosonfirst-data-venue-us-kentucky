@@ -1,0 +1,72 @@
+{
+  "id": 856735129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.703422,36.63086,-83.703422,36.63086",
+    "geom:latitude":36.63086,
+    "geom:longitude":-83.703422,
+    "iso:country":"US",
+    "sg:address":"1231 N 12th St",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/middlesborough/208562-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 242 2750",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cBuJDmz9SAoxsjzPpTNqJ_36.630860_-83.703422@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053188,
+    "wof:geomhash":"1212a13ce7149d0629262b90b96eda57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856735129
+        }
+    ],
+    "wof:id":856735129,
+    "wof:lastmodified":1464053188,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.703422,
+    36.63086,
+    -83.703422,
+    36.63086
+],
+  "geometry": {"coordinates":[-83.703422,36.63086],"type":"Point"}
+}

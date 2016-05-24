@@ -1,0 +1,75 @@
+{
+  "id": 840624487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.818333,36.983681,-88.818333,36.983681",
+    "geom:latitude":36.983681,
+    "geom:longitude":-88.818333,
+    "iso:country":"US",
+    "sg:address":"12525 Blandville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 488 2336",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OEyV9Zw63kofMdQEEsCUY_36.983681_-88.818333@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044283,
+    "wof:geomhash":"5641eb806f13f099842aed7fe5bc8d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840624487
+        }
+    ],
+    "wof:id":840624487,
+    "wof:lastmodified":1464044283,
+    "wof:name":"Clean-Tech",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.818333,
+    36.983681,
+    -88.818333,
+    36.983681
+],
+  "geometry": {"coordinates":[-88.818333,36.983681],"type":"Point"}
+}

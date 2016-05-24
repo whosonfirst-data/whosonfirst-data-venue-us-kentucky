@@ -1,0 +1,69 @@
+{
+  "id": 856743589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756699,38.205601,-85.756699,38.205601",
+    "geom:latitude":38.205601,
+    "geom:longitude":-85.756699,
+    "iso:country":"US",
+    "sg:address":"2805 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 4330",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:website":"http://www.louisvillesportsreport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2epkBHYlZlG3lUOeJASSCg_38.205601_-85.756699@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053516,
+    "wof:geomhash":"a2435ff725b82ea8adf073c2d3f200c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856743589
+        }
+    ],
+    "wof:id":856743589,
+    "wof:lastmodified":1464053516,
+    "wof:name":"Louisville Sports Report",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.756699,
+    38.205601,
+    -85.756699,
+    38.205601
+],
+  "geometry": {"coordinates":[-85.756699,38.205601],"type":"Point"}
+}

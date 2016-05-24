@@ -1,0 +1,78 @@
+{
+  "id": 856736877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.575268,37.860681,-87.575268,37.860681",
+    "geom:latitude":37.860681,
+    "geom:longitude":-87.575268,
+    "iso:country":"US",
+    "sg:address":"1950 Us Highway 41 N",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/henderson/88633-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9427",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42j7Eau4QwBCQHpXMNrnwE_37.860681_-87.575268@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053253,
+    "wof:geomhash":"cd6a141d5993c4d97867724ab5ae3307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856736877
+        }
+    ],
+    "wof:id":856736877,
+    "wof:lastmodified":1464053253,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -87.575268,
+    37.860681,
+    -87.575268,
+    37.860681
+],
+  "geometry": {"coordinates":[-87.57526799999999,37.860681],"type":"Point"}
+}

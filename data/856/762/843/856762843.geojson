@@ -1,0 +1,83 @@
+{
+  "id": 856762843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851379,37.701761,-85.851379,37.701761",
+    "geom:latitude":37.701761,
+    "geom:longitude":-85.851379,
+    "iso:country":"US",
+    "sg:address":"634 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4994",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "churches-christian",
+        "denomination"
+    ],
+    "sg:website":"http://www.firstchristianonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yrPINQdTNosh5vO8jiSeP_37.701761_-85.851379@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054230,
+    "wof:geomhash":"76fad4a1f24af0220588e29904946a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762843
+        }
+    ],
+    "wof:id":856762843,
+    "wof:lastmodified":1464054230,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "churches-christian",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -85.851379,
+    37.701761,
+    -85.851379,
+    37.701761
+],
+  "geometry": {"coordinates":[-85.85137899999999,37.701761],"type":"Point"}
+}

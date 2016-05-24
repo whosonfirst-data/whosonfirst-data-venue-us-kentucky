@@ -1,0 +1,71 @@
+{
+  "id": 840542407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.645991,37.873263,-84.645991,37.873263",
+    "geom:latitude":37.873263,
+    "geom:longitude":-84.645991,
+    "iso:country":"US",
+    "sg:address":"100 Veterans Dr",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 2814",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hQUC9RF8beekYq1GlYjRL_37.873263_-84.645991@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042283,
+    "wof:geomhash":"7729bac32e85cefc7d6b3b7f5dba4d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840542407
+        }
+    ],
+    "wof:id":840542407,
+    "wof:lastmodified":1464042283,
+    "wof:name":"Thomson Hood Veterans Ctr",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -84.645991,
+    37.873263,
+    -84.645991,
+    37.873263
+],
+  "geometry": {"coordinates":[-84.645991,37.873263],"type":"Point"}
+}

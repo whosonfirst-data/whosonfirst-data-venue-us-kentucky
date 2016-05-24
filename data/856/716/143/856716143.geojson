@@ -1,0 +1,71 @@
+{
+  "id": 856716143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.890789,37.732905,-85.890789,37.732905",
+    "geom:latitude":37.732905,
+    "geom:longitude":-85.890789,
+    "iso:country":"US",
+    "sg:address":"307 Towne Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 735 1613",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lRFO5TQ7spwE6w9sm5tQX_37.732905_-85.890789@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052436,
+    "wof:geomhash":"c74894c1c86f8d951d7aae84dc879346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856716143
+        }
+    ],
+    "wof:id":856716143,
+    "wof:lastmodified":1464052436,
+    "wof:name":"Waterford Place Apartments",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.890789,
+    37.732905,
+    -85.890789,
+    37.732905
+],
+  "geometry": {"coordinates":[-85.890789,37.732905],"type":"Point"}
+}

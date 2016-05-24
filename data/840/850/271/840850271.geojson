@@ -1,0 +1,75 @@
+{
+  "id": 840850271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.466283,38.04197,-84.466283,38.04197",
+    "geom:latitude":38.04197,
+    "geom:longitude":-84.466283,
+    "iso:country":"US",
+    "sg:address":"909 E Loudon Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 231 3765",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1scTz49429jrm43knruTIa_38.041970_-84.466283@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049445,
+    "wof:geomhash":"3c725cbe29b2e6f1d14b928ce4d3a6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":840850271
+        }
+    ],
+    "wof:id":840850271,
+    "wof:lastmodified":1464049445,
+    "wof:name":"McKinney Steve Building Contrs",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.466283,
+    38.04197,
+    -84.466283,
+    38.04197
+],
+  "geometry": {"coordinates":[-84.466283,38.04197],"type":"Point"}
+}

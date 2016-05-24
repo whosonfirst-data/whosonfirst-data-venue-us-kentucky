@@ -1,0 +1,73 @@
+{
+  "id": 840603325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.348069,37.047249,-86.348069,37.047249",
+    "geom:latitude":37.047249,
+    "geom:longitude":-86.348069,
+    "iso:country":"US",
+    "sg:address":"1012 Dickens Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0994",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CWxlgydXHfGlTqtQj3onb_37.047249_-86.348069@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043740,
+    "wof:geomhash":"b7fea8bb6d024880d7d338fb1b23cab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840603325
+        }
+    ],
+    "wof:id":840603325,
+    "wof:lastmodified":1464043740,
+    "wof:name":"Solutions Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [
+    -86.348069,
+    37.047249,
+    -86.348069,
+    37.047249
+],
+  "geometry": {"coordinates":[-86.348069,37.047249],"type":"Point"}
+}

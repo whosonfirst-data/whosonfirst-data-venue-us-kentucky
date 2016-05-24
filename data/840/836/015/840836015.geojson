@@ -1,0 +1,71 @@
+{
+  "id": 840836015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55049,38.190998,-84.55049,38.190998",
+    "geom:latitude":38.190998,
+    "geom:longitude":-84.55049,
+    "iso:country":"US",
+    "sg:address":"101 Bashford Ln",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 9638",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aYIPtXv5f2O3AMln6tWgG_38.190998_-84.550490@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049130,
+    "wof:geomhash":"fdf4a42b481f740ac8cdd9926982faf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840836015
+        }
+    ],
+    "wof:id":840836015,
+    "wof:lastmodified":1464049130,
+    "wof:name":"Bashford Apartments",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.55049,
+    38.190998,
+    -84.55049,
+    38.190998
+],
+  "geometry": {"coordinates":[-84.55049,38.190998],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856725311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.2868,37.584915,-84.2868,37.584915",
+    "geom:latitude":37.584915,
+    "geom:longitude":-84.2868,
+    "iso:country":"US",
+    "sg:address":"204 Woodford Ave",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 8080",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_633vkEcHa7x6isZ4pgSXfu_37.584915_-84.286800@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052806,
+    "wof:geomhash":"240ed5014503464b8e7b8942dcc21aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856725311
+        }
+    ],
+    "wof:id":856725311,
+    "wof:lastmodified":1464052806,
+    "wof:name":"Ba Trucking Co",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.2868,
+    37.584915,
+    -84.2868,
+    37.584915
+],
+  "geometry": {"coordinates":[-84.2868,37.584915],"type":"Point"}
+}

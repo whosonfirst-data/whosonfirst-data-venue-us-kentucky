@@ -1,0 +1,75 @@
+{
+  "id": 840811485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.747905,38.125873,-85.747905,38.125873",
+    "geom:latitude":38.125873,
+    "geom:longitude":-85.747905,
+    "iso:country":"US",
+    "sg:address":"911 Jeremie Ct",
+    "sg:city":"Fairdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 2770",
+    "sg:postcode":"40118",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNTH6Ehc2fRsctUcNczhH_38.125873_-85.747905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048474,
+    "wof:geomhash":"f053ed96843188d9666ec01df5b597e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840811485
+        }
+    ],
+    "wof:id":840811485,
+    "wof:lastmodified":1464048474,
+    "wof:name":"Airport Mini Storage",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.747905,
+    38.125873,
+    -85.747905,
+    38.125873
+],
+  "geometry": {"coordinates":[-85.747905,38.125873],"type":"Point"}
+}

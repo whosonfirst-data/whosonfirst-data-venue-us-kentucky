@@ -1,0 +1,66 @@
+{
+  "id": 840572891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.328123,37.634602,-84.328123,37.634602",
+    "geom:latitude":37.634602,
+    "geom:longitude":-84.328123,
+    "iso:country":"US",
+    "sg:address":"124 Madison County Airport Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 3913",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1249Y0scgukqyuVgcE2FLw_37.634602_-84.328123@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043062,
+    "wof:geomhash":"3d5b979917c5ff3e8a01101bd101848a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840572891
+        }
+    ],
+    "wof:id":840572891,
+    "wof:lastmodified":1464043062,
+    "wof:name":"Madison Airport",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.328123,
+    37.634602,
+    -84.328123,
+    37.634602
+],
+  "geometry": {"coordinates":[-84.32812300000001,37.634602],"type":"Point"}
+}

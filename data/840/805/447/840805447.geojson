@@ -1,0 +1,73 @@
+{
+  "id": 840805447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.737399,38.146044,-85.737399,38.146044",
+    "geom:latitude":38.146044,
+    "geom:longitude":-85.737399,
+    "iso:country":"US",
+    "sg:address":"7017 Grade Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 5533",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vHkM1u3IJDcFma7ZGpDo2_38.146044_-85.737399@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048307,
+    "wof:geomhash":"7b7c94ec793b8ca2617577a1a65097d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840805447
+        }
+    ],
+    "wof:id":840805447,
+    "wof:lastmodified":1464048307,
+    "wof:name":"Discount Transmission Ctr",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.737399,
+    38.146044,
+    -85.737399,
+    38.146044
+],
+  "geometry": {"coordinates":[-85.737399,38.146044],"type":"Point"}
+}

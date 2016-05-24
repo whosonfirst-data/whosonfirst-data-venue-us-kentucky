@@ -1,0 +1,68 @@
+{
+  "id": 840740565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.953599,37.904046,-85.953599,37.904046",
+    "geom:latitude":37.904046,
+    "geom:longitude":-85.953599,
+    "iso:country":"US",
+    "sg:address":"2012 Eisenhower Ave",
+    "sg:city":"Fort Knox",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 942 3891",
+    "sg:postcode":"40121",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947775,
+        102084595,
+        85868823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eJqLzGgtUfr0wBOU8ZmVH_37.904046_-85.953599@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046907,
+    "wof:geomhash":"b3592b63d624d265d2e50b5bedf3e5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947775,
+            "neighbourhood_id":85868823,
+            "region_id":85688641,
+            "venue_id":840740565
+        }
+    ],
+    "wof:id":840740565,
+    "wof:lastmodified":1464046907,
+    "wof:name":"Burger King",
+    "wof:parent_id":85868823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.953599,
+    37.904046,
+    -85.953599,
+    37.904046
+],
+  "geometry": {"coordinates":[-85.953599,37.904046],"type":"Point"}
+}

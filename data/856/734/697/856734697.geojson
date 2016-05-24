@@ -1,0 +1,84 @@
+{
+  "id": 856734697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.419627,38.025196,-84.419627,38.025196",
+    "geom:latitude":38.025196,
+    "geom:longitude":-84.419627,
+    "iso:country":"US",
+    "sg:address":"1890 Star Shoot Pkwy",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/20463-cosi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 263 1045",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IgSFjhDtesuzfGoANrwmj_38.025196_-84.419627@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053171,
+    "wof:geomhash":"8ebbe89df9ac18ef3efb02edd831bd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":856734697
+        }
+    ],
+    "wof:id":856734697,
+    "wof:lastmodified":1464053171,
+    "wof:name":"Cosi",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.419627,
+    38.025196,
+    -84.419627,
+    38.025196
+],
+  "geometry": {"coordinates":[-84.41962700000001,38.025196],"type":"Point"}
+}

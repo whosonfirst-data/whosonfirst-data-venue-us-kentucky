@@ -1,0 +1,71 @@
+{
+  "id": 840779183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.583984,37.117717,-84.583984,37.117717",
+    "geom:latitude":37.117717,
+    "geom:longitude":-84.583984,
+    "iso:country":"US",
+    "sg:address":"225 Pine St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7703",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AudvCbDodKsG8AZ9k4zoG_37.117717_-84.583984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047746,
+    "wof:geomhash":"dcc352e2ebb3f4a4837b94d1c3612c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840779183
+        }
+    ],
+    "wof:id":840779183,
+    "wof:lastmodified":1464047746,
+    "wof:name":"A&H Computer Services",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "network"
+    ]
+},
+  "bbox": [
+    -84.583984,
+    37.117717,
+    -84.583984,
+    37.117717
+],
+  "geometry": {"coordinates":[-84.583984,37.117717],"type":"Point"}
+}

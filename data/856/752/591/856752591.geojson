@@ -1,0 +1,75 @@
+{
+  "id": 856752591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550629,38.216987,-85.550629,38.216987",
+    "geom:latitude":38.216987,
+    "geom:longitude":-85.550629,
+    "iso:country":"US",
+    "sg:address":"11012 Decimal Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 291 5715",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23ZMMJEKczVOAb4d61z0Ne_38.216987_-85.550629@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053854,
+    "wof:geomhash":"9d8c729a93e4122f8698b4f351f1d740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752591
+        }
+    ],
+    "wof:id":856752591,
+    "wof:lastmodified":1464053854,
+    "wof:name":"Green Home Services",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.550629,
+    38.216987,
+    -85.550629,
+    38.216987
+],
+  "geometry": {"coordinates":[-85.550629,38.216987],"type":"Point"}
+}

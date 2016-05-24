@@ -1,0 +1,73 @@
+{
+  "id": 840822213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551173,39.050269,-84.551173,39.050269",
+    "geom:latitude":39.050269,
+    "geom:longitude":-84.551173,
+    "iso:country":"US",
+    "sg:address":"2201 Dixie Hwy",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 1140",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65rHbPhu2H6gHAtr4gpo5v_39.050269_-84.551173@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048817,
+    "wof:geomhash":"5df841553bfbabdad19a68027cb1799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840822213
+        }
+    ],
+    "wof:id":840822213,
+    "wof:lastmodified":1464048817,
+    "wof:name":"St Mary's Cemetery",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -84.551173,
+    39.050269,
+    -84.551173,
+    39.050269
+],
+  "geometry": {"coordinates":[-84.55117300000001,39.050269],"type":"Point"}
+}

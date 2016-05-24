@@ -1,0 +1,87 @@
+{
+  "id": 856753509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.519272,38.007385,-84.519272,38.007385",
+    "geom:latitude":38.007385,
+    "geom:longitude":-84.519272,
+    "iso:country":"US",
+    "sg:address":"145 Burt Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 2261",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zc4ecHsZuI3eH3KLElMro_38.007385_-84.519272@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053886,
+    "wof:geomhash":"c045c6d074ee92c8fcaea02db404fee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":856753509
+        }
+    ],
+    "wof:id":856753509,
+    "wof:lastmodified":1464053886,
+    "wof:name":"Basic Knead Massage Clinic",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.519272,
+    38.007385,
+    -84.519272,
+    38.007385
+],
+  "geometry": {"coordinates":[-84.519272,38.007385],"type":"Point"}
+}

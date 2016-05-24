@@ -1,0 +1,71 @@
+{
+  "id": 840559565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499817,37.304215,-84.499817,37.304215",
+    "geom:latitude":37.304215,
+    "geom:longitude":-84.499817,
+    "iso:country":"US",
+    "sg:address":"16615 State Hwy 39",
+    "sg:city":"Eubank",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 379 2910",
+    "sg:postcode":"42567",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cghikXPkfKKGxq5DArfzb_37.304215_-84.499817@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042722,
+    "wof:geomhash":"ff9fba82da381da470206bc819cf584b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840559565
+        }
+    ],
+    "wof:id":840559565,
+    "wof:lastmodified":1464042722,
+    "wof:name":"S & M Grocery",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.499817,
+    37.304215,
+    -84.499817,
+    37.304215
+],
+  "geometry": {"coordinates":[-84.49981699999999,37.304215],"type":"Point"}
+}

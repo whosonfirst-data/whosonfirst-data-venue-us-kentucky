@@ -1,0 +1,73 @@
+{
+  "id": 840844667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.543091,39.037651,-84.543091,39.037651",
+    "geom:latitude":39.037651,
+    "geom:longitude":-84.543091,
+    "iso:country":"US",
+    "sg:address":"3479 Reeves Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 341 7502",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ohCR6DbQhgINQu4292N6_39.037651_-84.543091@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049324,
+    "wof:geomhash":"4447726dda14395c062719fb2b1d1b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840844667
+        }
+    ],
+    "wof:id":840844667,
+    "wof:lastmodified":1464049324,
+    "wof:name":"Alpine Geophysics",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.543091,
+    39.037651,
+    -84.543091,
+    39.037651
+],
+  "geometry": {"coordinates":[-84.543091,39.037651],"type":"Point"}
+}

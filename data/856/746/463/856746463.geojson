@@ -1,0 +1,100 @@
+{
+  "id": 856746463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68468,38.192639,-85.68468,38.192639",
+    "geom:latitude":38.192639,
+    "geom:longitude":-85.68468,
+    "iso:country":"US",
+    "sg:address":"4403 Kiln Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 1862",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "buses-charter",
+        "wedding",
+        "limousine",
+        "convention"
+    ],
+    "sg:website":"http://www.rrlimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GbIk0Hk6oYLZkXFM9zSaA_38.192639_-85.684680@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053612,
+    "wof:geomhash":"e4a08679eb10bb39601e155fbcd1f9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856746463
+        }
+    ],
+    "wof:id":856746463,
+    "wof:lastmodified":1464053612,
+    "wof:name":"R & R Limousine",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "wedding",
+        "limousine",
+        "convention"
+    ]
+},
+  "bbox": [
+    -85.68468,
+    38.192639,
+    -85.68468,
+    38.192639
+],
+  "geometry": {"coordinates":[-85.68468,38.192639],"type":"Point"}
+}

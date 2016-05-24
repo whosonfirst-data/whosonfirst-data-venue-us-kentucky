@@ -1,0 +1,71 @@
+{
+  "id": 840729529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.262105,38.211777,-85.262105,38.211777",
+    "geom:latitude":38.211777,
+    "geom:longitude":-85.262105,
+    "iso:country":"US",
+    "sg:address":"490 Hill-N-Dale Dr",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 0186",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wWZ9289TwL8pcPYOUIA7d_38.211777_-85.262105@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046700,
+    "wof:geomhash":"d67434079d2fd198eb03cc6a6443bfb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840729529
+        }
+    ],
+    "wof:id":840729529,
+    "wof:lastmodified":1464046700,
+    "wof:name":"Bailey's Service Ctr",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.262105,
+    38.211777,
+    -85.262105,
+    38.211777
+],
+  "geometry": {"coordinates":[-85.26210500000001,38.211777],"type":"Point"}
+}

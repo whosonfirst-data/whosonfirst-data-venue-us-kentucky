@@ -1,0 +1,73 @@
+{
+  "id": 840661523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7879,37.734113,-85.7879,37.734113",
+    "geom:latitude":37.734113,
+    "geom:longitude":-85.7879,
+    "iso:country":"US",
+    "sg:address":"4880 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 0070",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dzW4AEYFAGsKAwtXZY13I_37.734113_-85.787900@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045136,
+    "wof:geomhash":"85872b552eb34ffff02181661d09a78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840661523
+        }
+    ],
+    "wof:id":840661523,
+    "wof:lastmodified":1464045136,
+    "wof:name":"Nall's Specialized Hauling",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.7879,
+    37.734113,
+    -85.7879,
+    37.734113
+],
+  "geometry": {"coordinates":[-85.78789999999999,37.734113],"type":"Point"}
+}

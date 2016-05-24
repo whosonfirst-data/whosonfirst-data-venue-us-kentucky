@@ -1,0 +1,71 @@
+{
+  "id": 840653815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850184,37.682814,-85.850184,37.682814",
+    "geom:latitude":37.682814,
+    "geom:longitude":-85.850184,
+    "iso:country":"US",
+    "sg:address":"621 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5999",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OUlNTROMw1U2fgyD9Cttc_37.682814_-85.850184@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044977,
+    "wof:geomhash":"edee50520bbc582a527ec7f8baffe0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840653815
+        }
+    ],
+    "wof:id":840653815,
+    "wof:lastmodified":1464044977,
+    "wof:name":"Elizabethtown Fire Dept",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.850184,
+    37.682814,
+    -85.850184,
+    37.682814
+],
+  "geometry": {"coordinates":[-85.850184,37.682814],"type":"Point"}
+}

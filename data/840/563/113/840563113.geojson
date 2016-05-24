@@ -1,0 +1,71 @@
+{
+  "id": 840563113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.718842,38.050669,-84.718842,38.050669",
+    "geom:latitude":38.050669,
+    "geom:longitude":-84.718842,
+    "iso:country":"US",
+    "sg:address":"467 Wilson Ave",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 6555",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QLuKFaLFZhzR2SX8FMvvP_38.050669_-84.718842@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042803,
+    "wof:geomhash":"e55b5d41b872010ee1d2fa92a483b7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840563113
+        }
+    ],
+    "wof:id":840563113,
+    "wof:lastmodified":1464042803,
+    "wof:name":"Robert's Lock & Key",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.718842,
+    38.050669,
+    -84.718842,
+    38.050669
+],
+  "geometry": {"coordinates":[-84.718842,38.050669],"type":"Point"}
+}

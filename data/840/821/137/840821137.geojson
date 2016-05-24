@@ -1,0 +1,71 @@
+{
+  "id": 840821137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.303528,37.571972,-84.303528,37.571972",
+    "geom:latitude":37.571972,
+    "geom:longitude":-84.303528,
+    "iso:country":"US",
+    "sg:address":"235 Oak St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 8438",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2owdwpdowUNhGJm341Sgz0_37.571972_-84.303528@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048780,
+    "wof:geomhash":"e61f891909fe535e98d9263d33576f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840821137
+        }
+    ],
+    "wof:id":840821137,
+    "wof:lastmodified":1464048780,
+    "wof:name":"Senters Concreate Contracting",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.303528,
+    37.571972,
+    -84.303528,
+    37.571972
+],
+  "geometry": {"coordinates":[-84.303528,37.571972],"type":"Point"}
+}

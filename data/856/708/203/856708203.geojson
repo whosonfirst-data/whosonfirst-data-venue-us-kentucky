@@ -1,0 +1,75 @@
+{
+  "id": 856708203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.799002,38.238037,-85.799002,38.238037",
+    "geom:latitude":38.238037,
+    "geom:longitude":-85.799002,
+    "iso:country":"US",
+    "sg:address":"2729 Virginia Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 5069",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SGBtNvLdluvT5UR1Oki4m_38.238037_-85.799002@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052233,
+    "wof:geomhash":"fb6eb691f990ef81c865f9c2ea54f2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":856708203
+        }
+    ],
+    "wof:id":856708203,
+    "wof:lastmodified":1464052233,
+    "wof:name":"BFS Contractors",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.799002,
+    38.238037,
+    -85.799002,
+    38.238037
+],
+  "geometry": {"coordinates":[-85.799002,38.238037],"type":"Point"}
+}

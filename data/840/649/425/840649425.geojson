@@ -1,0 +1,71 @@
+{
+  "id": 840649425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.862866,37.690644,-85.862866,37.690644",
+    "geom:latitude":37.690644,
+    "geom:longitude":-85.862866,
+    "iso:country":"US",
+    "sg:address":"315 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1436",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g3hdZNfQufLnCPAYMk3DU_37.690644_-85.862866@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044870,
+    "wof:geomhash":"e2f10a0cde7ee76835832749db4071ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840649425
+        }
+    ],
+    "wof:id":840649425,
+    "wof:lastmodified":1464044870,
+    "wof:name":"Engineering Design Group Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.862866,
+    37.690644,
+    -85.862866,
+    37.690644
+],
+  "geometry": {"coordinates":[-85.862866,37.690644],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840721667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810632,38.22291,-85.810632,38.22291",
+    "geom:latitude":38.22291,
+    "geom:longitude":-85.810632,
+    "iso:country":"US",
+    "sg:address":"3455 Cane Run Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 0226",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CWevGEKoGusodYOOP5SqT_38.222910_-85.810632@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046543,
+    "wof:geomhash":"dc676e1721ee010d88e9fe9e7fa0338a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840721667
+        }
+    ],
+    "wof:id":840721667,
+    "wof:lastmodified":1464046543,
+    "wof:name":"Off Da Hook",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.810632,
+    38.22291,
+    -85.810632,
+    38.22291
+],
+  "geometry": {"coordinates":[-85.810632,38.22291],"type":"Point"}
+}

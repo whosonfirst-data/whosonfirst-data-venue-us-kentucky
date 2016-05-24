@@ -1,0 +1,82 @@
+{
+  "id": 856761243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63556,37.080451,-88.63556,37.080451",
+    "geom:latitude":37.080451,
+    "geom:longitude":-88.63556,
+    "iso:country":"US",
+    "sg:address":"805 Joe Clifton Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9750",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "style",
+        "seafood",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hh7Hy5LBZVSPKoJb9Yn1d_37.080451_-88.635560@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054169,
+    "wof:geomhash":"b4178c2318e4f57cf3fdc1d606744fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761243
+        }
+    ],
+    "wof:id":856761243,
+    "wof:lastmodified":1464054169,
+    "wof:name":"Captain D's",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "style",
+        "seafood",
+        "family"
+    ]
+},
+  "bbox": [
+    -88.63556,
+    37.080451,
+    -88.63556,
+    37.080451
+],
+  "geometry": {"coordinates":[-88.63556,37.080451],"type":"Point"}
+}

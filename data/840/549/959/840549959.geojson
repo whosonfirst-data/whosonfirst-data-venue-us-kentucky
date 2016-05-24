@@ -1,0 +1,69 @@
+{
+  "id": 840549959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759966,38.254225,-85.759966,38.254225",
+    "geom:latitude":38.254225,
+    "geom:longitude":-85.759966,
+    "iso:country":"US",
+    "sg:address":"527 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 6161",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:website":"www.loukymetro.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sW961cC1z8mYqpAUhjOdl_38.254225_-85.759966@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042505,
+    "wof:geomhash":"84917c4c35d6e9d491de666f46f814d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":840549959
+        }
+    ],
+    "wof:id":840549959,
+    "wof:lastmodified":1464042505,
+    "wof:name":"Jefferson County Mayor",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.759966,
+    38.254225,
+    -85.759966,
+    38.254225
+],
+  "geometry": {"coordinates":[-85.75996600000001,38.254225],"type":"Point"}
+}

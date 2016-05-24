@@ -1,0 +1,73 @@
+{
+  "id": 840583461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.587255,37.097043,-84.587255,37.097043",
+    "geom:latitude":37.097043,
+    "geom:longitude":-84.587255,
+    "iso:country":"US",
+    "sg:address":"1103 E Mount Vernon St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 9469",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ud71YkSMOzn27RjiM3ZSU_37.097043_-84.587255@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043282,
+    "wof:geomhash":"5ac42363a9206aa561977b6025064a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840583461
+        }
+    ],
+    "wof:id":840583461,
+    "wof:lastmodified":1464043282,
+    "wof:name":"G F Repair & Welding",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.587255,
+    37.097043,
+    -84.587255,
+    37.097043
+],
+  "geometry": {"coordinates":[-84.587255,37.097043],"type":"Point"}
+}

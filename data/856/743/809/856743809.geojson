@@ -1,0 +1,81 @@
+{
+  "id": 856743809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.770698,38.233762,-85.770698,38.233762",
+    "geom:latitude":38.233762,
+    "geom:longitude":-85.770698,
+    "iso:country":"US",
+    "sg:address":"1000 W Ormsby Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 2001",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel",
+        "warehouse",
+        "distributor",
+        "mill",
+        "fabricator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g4hBy8NrOtd7AzY8d32uv_38.233762_-85.770698@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053523,
+    "wof:geomhash":"d1bed61a72724b9d8554bcee01e0c9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866959,
+            "region_id":85688641,
+            "venue_id":856743809
+        }
+    ],
+    "wof:id":856743809,
+    "wof:lastmodified":1464053523,
+    "wof:name":"Dant-Guenthner Corp",
+    "wof:parent_id":85866959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse",
+        "distributor",
+        "mill",
+        "fabricator"
+    ]
+},
+  "bbox": [
+    -85.770698,
+    38.233762,
+    -85.770698,
+    38.233762
+],
+  "geometry": {"coordinates":[-85.770698,38.233762],"type":"Point"}
+}

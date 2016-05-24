@@ -1,0 +1,71 @@
+{
+  "id": 840765349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583703,37.837607,-87.583703,37.837607",
+    "geom:latitude":37.837607,
+    "geom:longitude":-87.583703,
+    "iso:country":"US",
+    "sg:address":"733 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0706",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53gMwo1odLxJ9wjoS2YnyO_37.837607_-87.583703@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047461,
+    "wof:geomhash":"44d7762e0c17b2c47297c0166f8cfd24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840765349
+        }
+    ],
+    "wof:id":840765349,
+    "wof:lastmodified":1464047461,
+    "wof:name":"Glamour Cuts",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.583703,
+    37.837607,
+    -87.583703,
+    37.837607
+],
+  "geometry": {"coordinates":[-87.583703,37.837607],"type":"Point"}
+}

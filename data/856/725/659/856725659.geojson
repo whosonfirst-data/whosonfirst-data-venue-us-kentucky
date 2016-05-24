@@ -1,0 +1,71 @@
+{
+  "id": 856725659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.463187,36.937521,-86.463187,36.937521",
+    "geom:latitude":36.937521,
+    "geom:longitude":-86.463187,
+    "iso:country":"US",
+    "sg:address":"1009 Arrow Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 2031",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vZjPTByTx4WuKfrh7hmoD_36.937521_-86.463187@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052818,
+    "wof:geomhash":"990697624c1e74a08e2756cff46468e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":856725659
+        }
+    ],
+    "wof:id":856725659,
+    "wof:lastmodified":1464052818,
+    "wof:name":"Executive Accommodations",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -86.463187,
+    36.937521,
+    -86.463187,
+    36.937521
+],
+  "geometry": {"coordinates":[-86.463187,36.937521],"type":"Point"}
+}

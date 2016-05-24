@@ -1,0 +1,71 @@
+{
+  "id": 840891041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.558138,38.210014,-84.558138,38.210014",
+    "geom:latitude":38.210014,
+    "geom:longitude":-84.558138,
+    "iso:country":"US",
+    "sg:address":"107 N Hamilton St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 6263",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mnbKQV5siR93ucedlyv3k_38.210014_-84.558138@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050307,
+    "wof:geomhash":"faa76bb198ba92e76e97a27667d965a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840891041
+        }
+    ],
+    "wof:id":840891041,
+    "wof:lastmodified":1464050307,
+    "wof:name":"Duncliffe Law Office",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -84.558138,
+    38.210014,
+    -84.558138,
+    38.210014
+],
+  "geometry": {"coordinates":[-84.558138,38.210014],"type":"Point"}
+}

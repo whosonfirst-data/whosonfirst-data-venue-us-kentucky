@@ -1,0 +1,82 @@
+{
+  "id": 840827289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485681,36.956475,-86.485681,36.956475",
+    "geom:latitude":36.956475,
+    "geom:longitude":-86.485681,
+    "iso:country":"US",
+    "sg:address":"2717 Pioneer Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0588",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwnibalhLV9ReLhrQZyhS_36.956475_-86.485681@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048947,
+    "wof:geomhash":"1b3391eca7d9a01f698d3ebc0add2d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840827289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840827289
+        }
+    ],
+    "wof:id":840827289,
+    "wof:lastmodified":1464048947,
+    "wof:name":"Sugarcreek Window & Door Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -86.485681,
+    36.956475,
+    -86.485681,
+    36.956475
+],
+  "geometry": {"coordinates":[-86.485681,36.956475],"type":"Point"}
+}

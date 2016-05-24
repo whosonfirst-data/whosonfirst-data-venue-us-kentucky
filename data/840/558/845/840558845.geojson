@@ -1,0 +1,68 @@
+{
+  "id": 840558845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.783194,38.200857,-85.783194,38.200857",
+    "geom:latitude":38.200857,
+    "geom:longitude":-85.783194,
+    "iso:country":"US",
+    "sg:address":"1300 Southgate Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 364 0013",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jFBFGCzyvKjN3RkdN72zr_38.200857_-85.783194@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042709,
+    "wof:geomhash":"94edea4123d22ca3cdf0563a0860e0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840558845
+        }
+    ],
+    "wof:id":840558845,
+    "wof:lastmodified":1464042709,
+    "wof:name":"Laundry Connection",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.783194,
+    38.200857,
+    -85.783194,
+    38.200857
+],
+  "geometry": {"coordinates":[-85.78319399999999,38.200857],"type":"Point"}
+}

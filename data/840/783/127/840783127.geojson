@@ -1,0 +1,75 @@
+{
+  "id": 840783127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447679,36.963719,-86.447679,36.963719",
+    "geom:latitude":36.963719,
+    "geom:longitude":-86.447679,
+    "iso:country":"US",
+    "sg:address":"1800 Westen St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 6643",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_050p2jpQQsfRqvf4VHvaUK_36.963719_-86.447679@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047821,
+    "wof:geomhash":"741212414cb1a7c58526cc9b739edd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840783127
+        }
+    ],
+    "wof:id":840783127,
+    "wof:lastmodified":1464047821,
+    "wof:name":"Christian Health Ctr",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -86.447679,
+    36.963719,
+    -86.447679,
+    36.963719
+],
+  "geometry": {"coordinates":[-86.44767899999999,36.963719],"type":"Point"}
+}

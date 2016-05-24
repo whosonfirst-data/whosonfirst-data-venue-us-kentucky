@@ -1,0 +1,71 @@
+{
+  "id": 840729387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.648125,37.711414,-87.648125,37.711414",
+    "geom:latitude":37.711414,
+    "geom:longitude":-87.648125,
+    "iso:country":"US",
+    "sg:address":"13443 US Hwy 41A",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 533 6286",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uTb1hD2rWLJGYSPjyaBtw_37.711414_-87.648125@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046696,
+    "wof:geomhash":"7bdc4aa0bb3da4bcf3a223353acbdb53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840729387
+        }
+    ],
+    "wof:id":840729387,
+    "wof:lastmodified":1464046696,
+    "wof:name":"Cairo United Methodist Church",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.648125,
+    37.711414,
+    -87.648125,
+    37.711414
+],
+  "geometry": {"coordinates":[-87.64812499999999,37.711414],"type":"Point"}
+}

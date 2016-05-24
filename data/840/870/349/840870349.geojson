@@ -1,0 +1,73 @@
+{
+  "id": 840870349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418599,36.927351,-86.418599,36.927351",
+    "geom:latitude":36.927351,
+    "geom:longitude":-86.418599,
+    "iso:country":"US",
+    "sg:address":"421 Greenwood Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1579",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OlC2a2wxMQu9Lpa3IX8DC_36.927351_-86.418599@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049860,
+    "wof:geomhash":"b01308aa33489d3a5a0acea15293e11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840870349
+        }
+    ],
+    "wof:id":840870349,
+    "wof:lastmodified":1464049860,
+    "wof:name":"Bettersworth Stables",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "stable"
+    ]
+},
+  "bbox": [
+    -86.418599,
+    36.927351,
+    -86.418599,
+    36.927351
+],
+  "geometry": {"coordinates":[-86.418599,36.927351],"type":"Point"}
+}

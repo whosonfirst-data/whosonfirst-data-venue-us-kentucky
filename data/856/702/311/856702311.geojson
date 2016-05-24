@@ -1,0 +1,75 @@
+{
+  "id": 856702311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.699496,38.187206,-85.699496,38.187206",
+    "geom:latitude":38.187206,
+    "geom:longitude":-85.699496,
+    "iso:country":"US",
+    "sg:address":"4644 Illinois Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 6986",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "production",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uW7ujPvJbWluGImVqun5q_38.187206_-85.699496@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052114,
+    "wof:geomhash":"52cb39e119183f06d1f5249c7431b13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856702311
+        }
+    ],
+    "wof:id":856702311,
+    "wof:lastmodified":1464052114,
+    "wof:name":"Advanced Grinding & Machine",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "production",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -85.699496,
+    38.187206,
+    -85.699496,
+    38.187206
+],
+  "geometry": {"coordinates":[-85.699496,38.187206],"type":"Point"}
+}

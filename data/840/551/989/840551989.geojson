@@ -1,0 +1,82 @@
+{
+  "id": 840551989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.775749,37.645961,-84.775749,37.645961",
+    "geom:latitude":37.645961,
+    "geom:longitude":-84.775749,
+    "iso:country":"US",
+    "sg:address":"410 W Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 1224",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LXvGQXn89sCqmKWIaaEUh_37.645961_-84.775749@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042554,
+    "wof:geomhash":"b32798554774ebc35a118f24baa526ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840551989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840551989
+        }
+    ],
+    "wof:id":840551989,
+    "wof:lastmodified":1464042554,
+    "wof:name":"Danville Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.775749,
+    37.645961,
+    -84.775749,
+    37.645961
+],
+  "geometry": {"coordinates":[-84.775749,37.645961],"type":"Point"}
+}

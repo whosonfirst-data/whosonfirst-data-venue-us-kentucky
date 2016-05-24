@@ -1,0 +1,67 @@
+{
+  "id": 840706055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209556,37.044729,-86.209556,37.044729",
+    "geom:latitude":37.044729,
+    "geom:longitude":-86.209556,
+    "iso:country":"US",
+    "sg:address":"592 S Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 5141",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:website":"www.bryceinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Z90EupRti5EUepqK8UmS_37.044729_-86.209556@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046224,
+    "wof:geomhash":"dc51ae6d77ce981d5bca60d58c1b7913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840706055
+        }
+    ],
+    "wof:id":840706055,
+    "wof:lastmodified":1464046224,
+    "wof:name":"Bryce Motel",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.209556,
+    37.044729,
+    -86.209556,
+    37.044729
+],
+  "geometry": {"coordinates":[-86.20955600000001,37.044729],"type":"Point"}
+}

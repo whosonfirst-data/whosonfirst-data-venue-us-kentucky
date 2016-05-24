@@ -1,0 +1,68 @@
+{
+  "id": 840862741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495074,38.044599,-84.495074,38.044599",
+    "geom:latitude":38.044599,
+    "geom:longitude":-84.495074,
+    "iso:country":"US",
+    "sg:address":"214 E Main St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 231 6997",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eq01oApzzzECW8Qphbgt9_38.044599_-84.495074@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049710,
+    "wof:geomhash":"6d6068050d54c6c9c54844e8c42201a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840862741
+        }
+    ],
+    "wof:id":840862741,
+    "wof:lastmodified":1464049710,
+    "wof:name":"Kentucky Theatre",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.495074,
+    38.044599,
+    -84.495074,
+    38.044599
+],
+  "geometry": {"coordinates":[-84.495074,38.044599],"type":"Point"}
+}

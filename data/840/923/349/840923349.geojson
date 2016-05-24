@@ -1,0 +1,74 @@
+{
+  "id": 840923349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75816,38.24784,-85.75816,38.24784",
+    "geom:latitude":38.24784,
+    "geom:longitude":-85.75816,
+    "iso:country":"US",
+    "sg:address":"612 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 2305",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurse"
+    ],
+    "sg:website":"www.nursingcareer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31s64d5rWfnx38VF0xmC3O_38.247840_-85.758160@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051089,
+    "wof:geomhash":"9b741f99b63f797af4a1c030b843fa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":840923349
+        }
+    ],
+    "wof:id":840923349,
+    "wof:lastmodified":1464051089,
+    "wof:name":"Health Institute Of Louisville",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -85.75816,
+    38.24784,
+    -85.75816,
+    38.24784
+],
+  "geometry": {"coordinates":[-85.75816,38.24784],"type":"Point"}
+}

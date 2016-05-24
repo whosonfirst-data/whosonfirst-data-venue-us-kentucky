@@ -1,0 +1,66 @@
+{
+  "id": 840705149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55731,37.046693,-88.55731,37.046693",
+    "geom:latitude":37.046693,
+    "geom:longitude":-88.55731,
+    "iso:country":"US",
+    "sg:address":"3831 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0080",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RD6NChzqNrKVgES8CsMrO_37.046693_-88.557310@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046206,
+    "wof:geomhash":"3feffd0c57fea2744738ba7675eb9d0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840705149
+        }
+    ],
+    "wof:id":840705149,
+    "wof:lastmodified":1464046206,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55731,
+    37.046693,
+    -88.55731,
+    37.046693
+],
+  "geometry": {"coordinates":[-88.55731,37.046693],"type":"Point"}
+}

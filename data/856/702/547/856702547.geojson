@@ -1,0 +1,71 @@
+{
+  "id": 856702547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58028,37.080398,-84.58028,37.080398",
+    "geom:latitude":37.080398,
+    "geom:longitude":-84.58028,
+    "iso:country":"US",
+    "sg:address":"130 Family Circle Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2060",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MOMGnIybrHVZhxN9C6l2e_37.080398_-84.580280@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052119,
+    "wof:geomhash":"0b7bb2db76d3626d509117170fac13f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856702547
+        }
+    ],
+    "wof:id":856702547,
+    "wof:lastmodified":1464052119,
+    "wof:name":"Dawn's Nail Shop",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -84.58028,
+    37.080398,
+    -84.58028,
+    37.080398
+],
+  "geometry": {"coordinates":[-84.58028,37.080398],"type":"Point"}
+}

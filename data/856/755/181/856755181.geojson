@@ -1,0 +1,73 @@
+{
+  "id": 856755181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.516197,37.986759,-84.516197,37.986759",
+    "geom:latitude":37.986759,
+    "geom:longitude":-84.516197,
+    "iso:country":"US",
+    "sg:address":"3527 Lansdowne Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 272 1650",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85807491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66b9DQdbdG4WQfQNdQAoWy_37.986759_-84.516197@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053952,
+    "wof:geomhash":"be5892e13742090c4419360bb32a36c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85807491,
+            "region_id":85688641,
+            "venue_id":856755181
+        }
+    ],
+    "wof:id":856755181,
+    "wof:lastmodified":1464053952,
+    "wof:name":"Mini Market",
+    "wof:parent_id":85807491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.516197,
+    37.986759,
+    -84.516197,
+    37.986759
+],
+  "geometry": {"coordinates":[-84.51619700000001,37.986759],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840615107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.51679,38.240709,-85.51679,38.240709",
+    "geom:latitude":38.240709,
+    "geom:longitude":-85.51679,
+    "iso:country":"US",
+    "sg:address":"205 Townepark Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 254 1040",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UExbtSahxpo3mL8YSWUhy_38.240709_-85.516790@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044036,
+    "wof:geomhash":"9c7288403174c66e1f57d0da81293a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840615107
+        }
+    ],
+    "wof:id":840615107,
+    "wof:lastmodified":1464044036,
+    "wof:name":"Schmidt & Co",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -85.51679,
+    38.240709,
+    -85.51679,
+    38.240709
+],
+  "geometry": {"coordinates":[-85.51679,38.240709],"type":"Point"}
+}

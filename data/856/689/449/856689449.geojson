@@ -1,0 +1,69 @@
+{
+  "id": 856689449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56625,37.896189,-84.56625,37.896189",
+    "geom:latitude":37.896189,
+    "geom:longitude":-84.56625,
+    "iso:country":"US",
+    "sg:address":"956 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2042",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jsoXo8XDm59qbugIsbc6I_37.896189_-84.566250@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051857,
+    "wof:geomhash":"ad0e0808f404cd8e557f1a41d372618f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856689449
+        }
+    ],
+    "wof:id":856689449,
+    "wof:lastmodified":1464051857,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.56625,
+    37.896189,
+    -84.56625,
+    37.896189
+],
+  "geometry": {"coordinates":[-84.56625,37.896189],"type":"Point"}
+}

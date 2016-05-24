@@ -1,0 +1,73 @@
+{
+  "id": 840555319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.498348,38.040822,-84.498348,38.040822",
+    "geom:latitude":38.040822,
+    "geom:longitude":-84.498348,
+    "iso:country":"US",
+    "sg:address":"201 E Maxwell St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 233 7779",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UakU20ObhmLcxoUShYA5U_38.040822_-84.498348@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042633,
+    "wof:geomhash":"3113ab4b7fb67ea6e2b7f27bd0fec160",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840555319
+        }
+    ],
+    "wof:id":840555319,
+    "wof:lastmodified":1464042633,
+    "wof:name":"Lex-Care Inc",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "referral"
+    ]
+},
+  "bbox": [
+    -84.498348,
+    38.040822,
+    -84.498348,
+    38.040822
+],
+  "geometry": {"coordinates":[-84.49834799999999,38.040822],"type":"Point"}
+}

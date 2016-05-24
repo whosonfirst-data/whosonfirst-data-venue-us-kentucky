@@ -1,0 +1,75 @@
+{
+  "id": 840820085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.645215,38.191253,-85.645215,38.191253",
+    "geom:latitude":38.191253,
+    "geom:longitude":-85.645215,
+    "iso:country":"US",
+    "sg:address":"4133 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 671 7264",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BvfMKEDPEJF2H4sWIVkam_38.191253_-85.645215@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048759,
+    "wof:geomhash":"fdfa0465e5c82cf3e4af0e5fa9bf7fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840820085
+        }
+    ],
+    "wof:id":840820085,
+    "wof:lastmodified":1464048759,
+    "wof:name":"Motorplex",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.645215,
+    38.191253,
+    -85.645215,
+    38.191253
+],
+  "geometry": {"coordinates":[-85.64521499999999,38.191253],"type":"Point"}
+}

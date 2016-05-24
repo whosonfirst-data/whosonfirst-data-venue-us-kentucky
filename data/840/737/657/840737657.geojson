@@ -1,0 +1,73 @@
+{
+  "id": 840737657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.863077,37.698321,-85.863077,37.698321",
+    "geom:latitude":37.698321,
+    "geom:longitude":-85.863077,
+    "iso:country":"US",
+    "sg:address":"337 W Poplar St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 6677",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43H68hfZI6tqgHdJdnqjIU_37.698321_-85.863077@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046848,
+    "wof:geomhash":"3577180fe1fa73b14f2beaabc154949c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840737657
+        }
+    ],
+    "wof:id":840737657,
+    "wof:lastmodified":1464046848,
+    "wof:name":"Blue Cross Animal",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.863077,
+    37.698321,
+    -85.863077,
+    37.698321
+],
+  "geometry": {"coordinates":[-85.863077,37.698321],"type":"Point"}
+}

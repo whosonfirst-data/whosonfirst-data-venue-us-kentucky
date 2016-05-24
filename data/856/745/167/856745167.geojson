@@ -1,0 +1,79 @@
+{
+  "id": 856745167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.787422,38.12944,-85.787422,38.12944",
+    "geom:latitude":38.12944,
+    "geom:longitude":-85.787422,
+    "iso:country":"US",
+    "sg:address":"8301 Tallow Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 773 4060",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor",
+        "paving",
+        "asphalt",
+        "sealcoating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28JBUCJyo6G8ELeYWDvUgO_38.129440_-85.787422@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053570,
+    "wof:geomhash":"62f489d8a7d8254844839db1155a7599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745167
+        }
+    ],
+    "wof:id":856745167,
+    "wof:lastmodified":1464053570,
+    "wof:name":"Competition Paving",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "paving",
+        "asphalt",
+        "sealcoating"
+    ]
+},
+  "bbox": [
+    -85.787422,
+    38.12944,
+    -85.787422,
+    38.12944
+],
+  "geometry": {"coordinates":[-85.78742200000001,38.12944],"type":"Point"}
+}

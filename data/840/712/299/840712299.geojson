@@ -1,0 +1,73 @@
+{
+  "id": 840712299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.303632,37.567983,-84.303632,37.567983",
+    "geom:latitude":37.567983,
+    "geom:longitude":-84.303632,
+    "iso:country":"US",
+    "sg:address":"635 Chestnut St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 7283",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LybkSKGtydyzNLsFCabRm_37.567983_-84.303632@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046347,
+    "wof:geomhash":"d493e79c8e7beec887fc23ec386c9b70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840712299
+        }
+    ],
+    "wof:id":840712299,
+    "wof:lastmodified":1464046347,
+    "wof:name":"Gibson Ford",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.303632,
+    37.567983,
+    -84.303632,
+    37.567983
+],
+  "geometry": {"coordinates":[-84.30363199999999,37.567983],"type":"Point"}
+}

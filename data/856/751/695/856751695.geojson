@@ -1,0 +1,69 @@
+{
+  "id": 856751695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589436,38.214285,-85.589436,38.214285",
+    "geom:latitude":38.214285,
+    "geom:longitude":-85.589436,
+    "iso:country":"US",
+    "sg:address":"9080 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 8805",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:website":"http://www.kroger.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qiS5C0VZtzwLBFmHVPg18_38.214285_-85.589436@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053817,
+    "wof:geomhash":"19feb02a9d3d958dfb97a4793e9a69af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856751695
+        }
+    ],
+    "wof:id":856751695,
+    "wof:lastmodified":1464053817,
+    "wof:name":"Kroger",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.589436,
+    38.214285,
+    -85.589436,
+    38.214285
+],
+  "geometry": {"coordinates":[-85.58943600000001,38.214285],"type":"Point"}
+}

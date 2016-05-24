@@ -1,0 +1,71 @@
+{
+  "id": 840700049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426571,36.846929,-86.426571,36.846929",
+    "geom:latitude":36.846929,
+    "geom:longitude":-86.426571,
+    "iso:country":"US",
+    "sg:address":"5616 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6634",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b2j7u50c7Kco6mHg04y62_36.846929_-86.426571@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046086,
+    "wof:geomhash":"2df1ab7963e449fbb3f178a69267e510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840700049
+        }
+    ],
+    "wof:id":840700049,
+    "wof:lastmodified":1464046086,
+    "wof:name":"Terry Hunton Construction",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -86.426571,
+    36.846929,
+    -86.426571,
+    36.846929
+],
+  "geometry": {"coordinates":[-86.426571,36.846929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840644137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.789998,38.178371,-85.789998,38.178371",
+    "geom:latitude":38.178371,
+    "geom:longitude":-85.789998,
+    "iso:country":"US",
+    "sg:address":"4230 Wheeler Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 8942",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zb4X3B4SL0SQFJmYsJEsP_38.178371_-85.789998@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044766,
+    "wof:geomhash":"d6f8ba48627c68384da202df27b52922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":840644137
+        }
+    ],
+    "wof:id":840644137,
+    "wof:lastmodified":1464044766,
+    "wof:name":"Moon Discount Club",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.789998,
+    38.178371,
+    -85.789998,
+    38.178371
+],
+  "geometry": {"coordinates":[-85.789998,38.178371],"type":"Point"}
+}

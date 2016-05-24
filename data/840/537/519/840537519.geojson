@@ -1,0 +1,68 @@
+{
+  "id": 840537519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761975,38.254379,-85.761975,38.254379",
+    "geom:latitude":38.254379,
+    "geom:longitude":-85.761975,
+    "iso:country":"US",
+    "sg:address":"601 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 1100",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65W6Zr6HHrk9BT3W7b4yj0_38.254379_-85.761975@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042146,
+    "wof:geomhash":"d86252e4101e06e4ab26b93da23319ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840537519
+        }
+    ],
+    "wof:id":840537519,
+    "wof:lastmodified":1464042146,
+    "wof:name":"Jefferson County Council",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.761975,
+    38.254379,
+    -85.761975,
+    38.254379
+],
+  "geometry": {"coordinates":[-85.76197500000001,38.254379],"type":"Point"}
+}

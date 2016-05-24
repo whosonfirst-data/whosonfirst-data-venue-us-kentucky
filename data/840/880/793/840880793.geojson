@@ -1,0 +1,73 @@
+{
+  "id": 840880793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.539518,36.940687,-86.539518,36.940687",
+    "geom:latitude":36.940687,
+    "geom:longitude":-86.539518,
+    "iso:country":"US",
+    "sg:address":"312 Hillwood Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 6223",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60UwRXNBHrZgrZn55181xa_36.940687_-86.539518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050090,
+    "wof:geomhash":"ddea412403ede7f1eb88edb06d40352e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840880793
+        }
+    ],
+    "wof:id":840880793,
+    "wof:lastmodified":1464050090,
+    "wof:name":"Triple K Construction Co",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.539518,
+    36.940687,
+    -86.539518,
+    36.940687
+],
+  "geometry": {"coordinates":[-86.539518,36.940687],"type":"Point"}
+}

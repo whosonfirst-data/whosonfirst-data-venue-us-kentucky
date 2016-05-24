@@ -1,0 +1,71 @@
+{
+  "id": 840934597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573442,37.879598,-84.573442,37.879598",
+    "geom:latitude":37.879598,
+    "geom:longitude":-84.573442,
+    "iso:country":"US",
+    "sg:address":"117 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 0589",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P9Ia9htWL0XtX9SDEsBO6_37.879598_-84.573442@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051338,
+    "wof:geomhash":"6ac2cae769aa8b5d261466c1dce7ab91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840934597
+        }
+    ],
+    "wof:id":840934597,
+    "wof:lastmodified":1464051338,
+    "wof:name":"Jessamine South Elkhorn Water",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -84.573442,
+    37.879598,
+    -84.573442,
+    37.879598
+],
+  "geometry": {"coordinates":[-84.573442,37.879598],"type":"Point"}
+}

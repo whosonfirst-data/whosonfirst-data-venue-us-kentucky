@@ -1,0 +1,71 @@
+{
+  "id": 840612981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.539454,37.529355,-82.539454,37.529355",
+    "geom:latitude":37.529355,
+    "geom:longitude":-82.539454,
+    "iso:country":"US",
+    "sg:address":"1511 Stone Coal Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 3382",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F1CnJWKHkMc1GZSztBYEu_37.529355_-82.539454@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043996,
+    "wof:geomhash":"a57a595a5b77789f319d7927da56d60b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840612981
+        }
+    ],
+    "wof:id":840612981,
+    "wof:lastmodified":1464043996,
+    "wof:name":"Hamilton's Transmission & Auto",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -82.539454,
+    37.529355,
+    -82.539454,
+    37.529355
+],
+  "geometry": {"coordinates":[-82.53945400000001,37.529355],"type":"Point"}
+}

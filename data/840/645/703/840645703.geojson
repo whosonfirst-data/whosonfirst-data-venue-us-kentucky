@@ -1,0 +1,71 @@
+{
+  "id": 840645703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53088,37.017277,-88.53088,37.017277",
+    "geom:latitude":37.017277,
+    "geom:longitude":-88.53088,
+    "iso:country":"US",
+    "sg:address":"110 Park Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 8993",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pkT1TqT3rbjxLiIV5aaRE_37.017277_-88.530880@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044795,
+    "wof:geomhash":"e23483976a7e627a91cee6b91de5f7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840645703
+        }
+    ],
+    "wof:id":840645703,
+    "wof:lastmodified":1464044795,
+    "wof:name":"Reidland Dental Ctr",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.53088,
+    37.017277,
+    -88.53088,
+    37.017277
+],
+  "geometry": {"coordinates":[-88.53088,37.017277],"type":"Point"}
+}

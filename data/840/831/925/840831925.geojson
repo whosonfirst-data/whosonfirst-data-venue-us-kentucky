@@ -1,0 +1,73 @@
+{
+  "id": 840831925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632894,37.985374,-85.632894,37.985374",
+    "geom:latitude":37.985374,
+    "geom:longitude":-85.632894,
+    "iso:country":"US",
+    "sg:address":"405 Foley Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 7990",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OQTIzUltyCU6O1jt0thKn_37.985374_-85.632894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049042,
+    "wof:geomhash":"97fc13545ba0ca2f75f9e9561bc291e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840831925
+        }
+    ],
+    "wof:id":840831925,
+    "wof:lastmodified":1464049042,
+    "wof:name":"Bennett Electric Co",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.632894,
+    37.985374,
+    -85.632894,
+    37.985374
+],
+  "geometry": {"coordinates":[-85.63289399999999,37.985374],"type":"Point"}
+}

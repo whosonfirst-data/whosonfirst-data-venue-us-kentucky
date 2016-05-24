@@ -1,0 +1,77 @@
+{
+  "id": 840760111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.811578,38.272783,-85.811578,38.272783",
+    "geom:latitude":38.272783,
+    "geom:longitude":-85.811578,
+    "iso:country":"US",
+    "sg:address":"3803 Miami Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 7409",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ayCOVZvewfhGYSrrKjPTy_38.272783_-85.811578@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047344,
+    "wof:geomhash":"4b114e0901e3beb0c728e0aa15e6168c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840760111
+        }
+    ],
+    "wof:id":840760111,
+    "wof:lastmodified":1464047344,
+    "wof:name":"Youth Outreach Resource Ctr",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -85.811578,
+    38.272783,
+    -85.811578,
+    38.272783
+],
+  "geometry": {"coordinates":[-85.811578,38.272783],"type":"Point"}
+}

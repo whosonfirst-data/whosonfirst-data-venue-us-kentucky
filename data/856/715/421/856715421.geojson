@@ -1,0 +1,73 @@
+{
+  "id": 856715421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748279,37.643395,-84.748279,37.643395",
+    "geom:latitude":37.643395,
+    "geom:longitude":-84.748279,
+    "iso:country":"US",
+    "sg:address":"1020 E Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 5493",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947155,
+        102085579,
+        85822743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EFeSE0bUcW4WjgMl56U8w_37.643395_-84.748279@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052407,
+    "wof:geomhash":"9ffa8a6847d6581a57954a741ef33bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85822743,
+            "region_id":85688641,
+            "venue_id":856715421
+        }
+    ],
+    "wof:id":856715421,
+    "wof:lastmodified":1464052407,
+    "wof:name":"Meadow Run Apartments",
+    "wof:parent_id":85822743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.748279,
+    37.643395,
+    -84.748279,
+    37.643395
+],
+  "geometry": {"coordinates":[-84.748279,37.643395],"type":"Point"}
+}

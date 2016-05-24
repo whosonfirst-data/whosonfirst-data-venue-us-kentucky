@@ -1,0 +1,73 @@
+{
+  "id": 840761669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.54112,36.905103,-86.54112,36.905103",
+    "geom:latitude":36.905103,
+    "geom:longitude":-86.54112,
+    "iso:country":"US",
+    "sg:address":"294 Aaron Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 0455",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TzxpBjYyvGPIOYBpJt9Cd_36.905103_-86.541120@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047384,
+    "wof:geomhash":"bd3a45fa09d0d5098f0095b82eb4ccba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840761669
+        }
+    ],
+    "wof:id":840761669,
+    "wof:lastmodified":1464047384,
+    "wof:name":"Radford Exteriors",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.54112,
+    36.905103,
+    -86.54112,
+    36.905103
+],
+  "geometry": {"coordinates":[-86.54112000000001,36.905103],"type":"Point"}
+}

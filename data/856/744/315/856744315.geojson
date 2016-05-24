@@ -1,0 +1,85 @@
+{
+  "id": 856744315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.703583,38.200802,-85.703583,38.200802",
+    "geom:latitude":38.200802,
+    "geom:longitude":-85.703583,
+    "iso:country":"US",
+    "sg:address":"1815 Taylor Ave Ste B",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 2755",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "photo",
+        "laboratories-commercial",
+        "finishing-custom",
+        "laboratory"
+    ],
+    "sg:website":"http://www.louisvillecolorlab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76durmRKENRh61VTnh9vN2_38.200802_-85.703583@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053540,
+    "wof:geomhash":"cc1ccd33ee2cb826d710ba25c64a3a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744315
+        }
+    ],
+    "wof:id":856744315,
+    "wof:lastmodified":1464053540,
+    "wof:name":"Louisville Color Lab",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "laboratories-commercial",
+        "finishing-custom",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.703583,
+    38.200802,
+    -85.703583,
+    38.200802
+],
+  "geometry": {"coordinates":[-85.70358299999999,38.200802],"type":"Point"}
+}

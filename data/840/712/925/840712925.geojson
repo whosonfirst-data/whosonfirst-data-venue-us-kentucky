@@ -1,0 +1,78 @@
+{
+  "id": 840712925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.746678,36.602231,-83.746678,36.602231",
+    "geom:latitude":36.602231,
+    "geom:longitude":-83.746678,
+    "iso:country":"US",
+    "sg:address":"2215 Winchester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 4184",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t9qrJK00vZJMqLfT67G0H_36.602231_-83.746678@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046359,
+    "wof:geomhash":"abf9f4ffcf9a6a090f23f6e217fd8ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840712925
+        }
+    ],
+    "wof:id":840712925,
+    "wof:lastmodified":1464046359,
+    "wof:name":"Mick's Upholstery & Auto Trim",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -83.746678,
+    36.602231,
+    -83.746678,
+    36.602231
+],
+  "geometry": {"coordinates":[-83.746678,36.602231],"type":"Point"}
+}

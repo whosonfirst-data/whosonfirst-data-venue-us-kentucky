@@ -1,0 +1,73 @@
+{
+  "id": 840761477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.882352,37.678615,-85.882352,37.678615",
+    "geom:latitude":37.678615,
+    "geom:longitude":-85.882352,
+    "iso:country":"US",
+    "sg:address":"1664 Leitchfield Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5464",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WC8tni3HRzu4g7W2SsoQA_37.678615_-85.882352@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047379,
+    "wof:geomhash":"b26f2be1ba1e9a7d179b8413553a6eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840761477
+        }
+    ],
+    "wof:id":840761477,
+    "wof:lastmodified":1464047379,
+    "wof:name":"West Side Auto Sales",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.882352,
+    37.678615,
+    -85.882352,
+    37.678615
+],
+  "geometry": {"coordinates":[-85.882352,37.678615],"type":"Point"}
+}

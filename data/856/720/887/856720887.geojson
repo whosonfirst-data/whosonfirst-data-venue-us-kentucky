@@ -1,0 +1,73 @@
+{
+  "id": 856720887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651444,37.083803,-88.651444,37.083803",
+    "geom:latitude":37.083803,
+    "geom:longitude":-88.651444,
+    "iso:country":"US",
+    "sg:address":"3235 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0660",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZtauZFy1MOB4yKRNmcKw_37.083803_-88.651444@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052629,
+    "wof:geomhash":"518f947a49b134ed0d7a4cac57f602b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856720887
+        }
+    ],
+    "wof:id":856720887,
+    "wof:lastmodified":1464052629,
+    "wof:name":"Bluegrass Used Cars",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.651444,
+    37.083803,
+    -88.651444,
+    37.083803
+],
+  "geometry": {"coordinates":[-88.651444,37.083803],"type":"Point"}
+}

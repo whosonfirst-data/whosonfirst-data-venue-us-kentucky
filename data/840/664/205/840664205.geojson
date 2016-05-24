@@ -1,0 +1,73 @@
+{
+  "id": 840664205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436122,36.922897,-86.436122,36.922897",
+    "geom:latitude":36.922897,
+    "geom:longitude":-86.436122,
+    "iso:country":"US",
+    "sg:address":"170 Sue Lane Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3253",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ECG4esuHxjwfIo7mRkGMo_36.922897_-86.436122@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045192,
+    "wof:geomhash":"c60c1c7d818f5625e49fb6c288c05297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840664205
+        }
+    ],
+    "wof:id":840664205,
+    "wof:lastmodified":1464045192,
+    "wof:name":"Premier Electric Svc Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.436122,
+    36.922897,
+    -86.436122,
+    36.922897
+],
+  "geometry": {"coordinates":[-86.436122,36.922897],"type":"Point"}
+}

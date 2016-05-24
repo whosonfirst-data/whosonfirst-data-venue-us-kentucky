@@ -1,0 +1,69 @@
+{
+  "id": 840763435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.617379,37.056384,-84.617379,37.056384",
+    "geom:latitude":37.056384,
+    "geom:longitude":-84.617379,
+    "iso:country":"US",
+    "sg:address":"214 Airport Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 0801",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f9YhiYdmToZshhjgrxuZk_37.056384_-84.617379@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047418,
+    "wof:geomhash":"b0be25b6bdabf913e4deb3dff0d9b050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840763435
+        }
+    ],
+    "wof:id":840763435,
+    "wof:lastmodified":1464047418,
+    "wof:name":"Lifenet Air Medical Svc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.617379,
+    37.056384,
+    -84.617379,
+    37.056384
+],
+  "geometry": {"coordinates":[-84.617379,37.056384],"type":"Point"}
+}

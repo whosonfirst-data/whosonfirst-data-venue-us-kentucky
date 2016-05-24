@@ -1,0 +1,75 @@
+{
+  "id": 840930479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610474,38.266774,-85.610474,38.266774",
+    "geom:latitude":38.266774,
+    "geom:longitude":-85.610474,
+    "iso:country":"US",
+    "sg:address":"1101 Lyndon Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 0331",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IHWQNq1fy0AYWUQUJs1uf_38.266774_-85.610474@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051260,
+    "wof:geomhash":"89813cf80ca82d14283174ba5bc8fd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840930479
+        }
+    ],
+    "wof:id":840930479,
+    "wof:lastmodified":1464051260,
+    "wof:name":"Camelot Healthcare Speacialty",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.610474,
+    38.266774,
+    -85.610474,
+    38.266774
+],
+  "geometry": {"coordinates":[-85.610474,38.266774],"type":"Point"}
+}

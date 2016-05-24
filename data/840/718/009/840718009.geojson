@@ -1,0 +1,71 @@
+{
+  "id": 840718009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.463103,38.331593,-85.463103,38.331593",
+    "geom:latitude":38.331593,
+    "geom:longitude":-85.463103,
+    "iso:country":"US",
+    "sg:address":"6310 Old Lagrange Rd",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 8992",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DistaG4i26BLhPL1xLu2O_38.331593_-85.463103@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046458,
+    "wof:geomhash":"10711c2950635cdf1c4bdcb1718334a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840718009
+        }
+    ],
+    "wof:id":840718009,
+    "wof:lastmodified":1464046458,
+    "wof:name":"South Oldham Fire Dept",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.463103,
+    38.331593,
+    -85.463103,
+    38.331593
+],
+  "geometry": {"coordinates":[-85.463103,38.331593],"type":"Point"}
+}

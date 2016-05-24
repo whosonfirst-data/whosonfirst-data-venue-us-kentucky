@@ -1,0 +1,77 @@
+{
+  "id": 856746683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.668879,38.208468,-85.668879,38.208468",
+    "geom:latitude":38.208468,
+    "geom:longitude":-85.668879,
+    "iso:country":"US",
+    "sg:address":"2223 Goldsmith Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 4437",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f2Ryx0sTZ2rU9NEuqQUrN_38.208468_-85.668879@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053620,
+    "wof:geomhash":"ef44a38a9a086f93f94f1657d9d861d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746683
+        }
+    ],
+    "wof:id":856746683,
+    "wof:lastmodified":1464053620,
+    "wof:name":"Dupont Circle Enterprises",
+    "wof:parent_id":85866953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -85.668879,
+    38.208468,
+    -85.668879,
+    38.208468
+],
+  "geometry": {"coordinates":[-85.668879,38.208468],"type":"Point"}
+}

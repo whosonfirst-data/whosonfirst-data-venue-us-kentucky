@@ -1,0 +1,75 @@
+{
+  "id": 840766551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763753,38.25453,-85.763753,38.25453",
+    "geom:latitude":38.25453,
+    "geom:longitude":-85.763753,
+    "iso:country":"US",
+    "sg:address":"400 S 8th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 3780",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p0oEtvCBMafu02FPrh087_38.254530_-85.763753@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047492,
+    "wof:geomhash":"eb4abb220003d758ee1db15dca7d2a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840766551
+        }
+    ],
+    "wof:id":840766551,
+    "wof:lastmodified":1464047492,
+    "wof:name":"Louisville Metro Housing Auth",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.763753,
+    38.25453,
+    -85.763753,
+    38.25453
+],
+  "geometry": {"coordinates":[-85.76375299999999,38.25453],"type":"Point"}
+}

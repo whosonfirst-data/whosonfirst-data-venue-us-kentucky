@@ -1,0 +1,74 @@
+{
+  "id": 856736345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.41942,37.008037,-86.41942,37.008037",
+    "geom:latitude":37.008037,
+    "geom:longitude":-86.41942,
+    "iso:country":"US",
+    "sg:address":"1801 Us 31W-Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/153697-zaxbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 8300",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11r9WoaBkLA2TtFV51WCRL_37.008037_-86.419420@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"f45119fa3cc7585b79bb7631f70697bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736345
+        }
+    ],
+    "wof:id":856736345,
+    "wof:lastmodified":1464053236,
+    "wof:name":"Zaxby's",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -86.41942,
+    37.008037,
+    -86.41942,
+    37.008037
+],
+  "geometry": {"coordinates":[-86.41942,37.008037],"type":"Point"}
+}

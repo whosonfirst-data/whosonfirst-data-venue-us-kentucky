@@ -1,0 +1,85 @@
+{
+  "id": 856741785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.721444,38.25462,-85.721444,38.25462",
+    "geom:latitude":38.25462,
+    "geom:longitude":-85.721444,
+    "iso:country":"US",
+    "sg:address":"120 N Spring St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 9637",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "abstracter",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AfYK7RaL2lx6EJzpM6jjo_38.254620_-85.721444@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053450,
+    "wof:geomhash":"eeafdbc27f6fcb488dfd58c505758fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":856741785
+        }
+    ],
+    "wof:id":856741785,
+    "wof:lastmodified":1464053450,
+    "wof:name":"Abstracts & Titles Inc",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstracter",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -85.721444,
+    38.25462,
+    -85.721444,
+    38.25462
+],
+  "geometry": {"coordinates":[-85.72144400000001,38.25462],"type":"Point"}
+}

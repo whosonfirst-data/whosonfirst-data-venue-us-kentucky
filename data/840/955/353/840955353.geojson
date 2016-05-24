@@ -1,0 +1,75 @@
+{
+  "id": 840955353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560233,38.010733,-84.560233,38.010733",
+    "geom:latitude":38.010733,
+    "geom:longitude":-84.560233,
+    "iso:country":"US",
+    "sg:address":"3338 Nevius Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 223 1190",
+    "sg:postcode":"40513",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b2Lo0rkC7EdKE20ixdd9H_38.010733_-84.560233@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051750,
+    "wof:geomhash":"732f987f9e3fa7b74784de8e74e300d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826825,
+            "region_id":85688641,
+            "venue_id":840955353
+        }
+    ],
+    "wof:id":840955353,
+    "wof:lastmodified":1464051750,
+    "wof:name":"Palmer Young MD",
+    "wof:parent_id":85826825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.560233,
+    38.010733,
+    -84.560233,
+    38.010733
+],
+  "geometry": {"coordinates":[-84.560233,38.010733],"type":"Point"}
+}

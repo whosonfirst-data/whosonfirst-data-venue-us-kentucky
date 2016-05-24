@@ -1,0 +1,68 @@
+{
+  "id": 840905237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.519493,38.036077,-84.519493,38.036077",
+    "geom:latitude":38.036077,
+    "geom:longitude":-84.519493,
+    "iso:country":"US",
+    "sg:address":"1214 S Broadway Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 253 9841",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hhxqBo6xIqz901C0Pmrd8_38.036077_-84.519493@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050598,
+    "wof:geomhash":"68caef0568219562ca587ce5962b22ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873031,
+            "region_id":85688641,
+            "venue_id":840905237
+        }
+    ],
+    "wof:id":840905237,
+    "wof:lastmodified":1464050598,
+    "wof:name":"Rally's Hamburgers Inc",
+    "wof:parent_id":85873031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.519493,
+    38.036077,
+    -84.519493,
+    38.036077
+],
+  "geometry": {"coordinates":[-84.519493,38.036077],"type":"Point"}
+}

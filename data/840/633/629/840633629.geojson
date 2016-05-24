@@ -1,0 +1,71 @@
+{
+  "id": 840633629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627678,37.031291,-84.627678,37.031291",
+    "geom:latitude":37.031291,
+    "geom:longitude":-84.627678,
+    "iso:country":"US",
+    "sg:address":"11 Old Monticello Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 1771",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zoiYNg6dxwV9VHv5FIBXg_37.031291_-84.627678@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044529,
+    "wof:geomhash":"9ab47c9b72f1e3e3b070355fd946fd2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840633629
+        }
+    ],
+    "wof:id":840633629,
+    "wof:lastmodified":1464044529,
+    "wof:name":"Car Toon Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.627678,
+    37.031291,
+    -84.627678,
+    37.031291
+],
+  "geometry": {"coordinates":[-84.627678,37.031291],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840814567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.747268,38.247877,-85.747268,38.247877",
+    "geom:latitude":38.247877,
+    "geom:longitude":-85.747268,
+    "iso:country":"US",
+    "sg:address":"221 E Chestnut St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 4001",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PHGxEuWvdlgEbNNrZzGrg_38.247877_-85.747268@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048599,
+    "wof:geomhash":"7e4f2fdcf2d922f4f1aaa00e2f276b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":840814567
+        }
+    ],
+    "wof:id":840814567,
+    "wof:lastmodified":1464048599,
+    "wof:name":"Magnetic Resonance Imaging Ctr",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.747268,
+    38.247877,
+    -85.747268,
+    38.247877
+],
+  "geometry": {"coordinates":[-85.74726800000001,38.247877],"type":"Point"}
+}

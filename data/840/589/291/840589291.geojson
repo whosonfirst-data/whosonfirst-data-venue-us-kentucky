@@ -1,0 +1,69 @@
+{
+  "id": 840589291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.720835,38.047295,-84.720835,38.047295",
+    "geom:latitude":38.047295,
+    "geom:longitude":-84.720835,
+    "iso:country":"US",
+    "sg:address":"147 Dan Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 6105",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ciKciuhtaPy5z8POTkkw8_38.047295_-84.720835@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043407,
+    "wof:geomhash":"d9e483e0d24035abcbd069c641e0531c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840589291
+        }
+    ],
+    "wof:id":840589291,
+    "wof:lastmodified":1464043407,
+    "wof:name":"Springview Apartments",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.720835,
+    38.047295,
+    -84.720835,
+    38.047295
+],
+  "geometry": {"coordinates":[-84.72083499999999,38.047295],"type":"Point"}
+}

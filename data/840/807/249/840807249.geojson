@@ -1,0 +1,73 @@
+{
+  "id": 840807249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.762552,38.18365,-85.762552,38.18365",
+    "geom:latitude":38.18365,
+    "geom:longitude":-85.762552,
+    "iso:country":"US",
+    "sg:address":"4572 S 1st St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 777 4272",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BE32r9njBj0OxBwwJOMvQ_38.183650_-85.762552@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048344,
+    "wof:geomhash":"5287ef2b16d67d8b8295932e6f33814e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":840807249
+        }
+    ],
+    "wof:id":840807249,
+    "wof:lastmodified":1464048344,
+    "wof:name":"Garland Bird Construction",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -85.762552,
+    38.18365,
+    -85.762552,
+    38.18365
+],
+  "geometry": {"coordinates":[-85.762552,38.18365],"type":"Point"}
+}

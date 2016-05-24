@@ -1,0 +1,74 @@
+{
+  "id": 840649351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.30432,37.615056,-84.30432,37.615056",
+    "geom:latitude":37.615056,
+    "geom:longitude":-84.30432,
+    "iso:country":"US",
+    "sg:address":"1101 Mayde Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 0572",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel",
+        "processing"
+    ],
+    "sg:website":"www.kentuckysteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rkJCh9hNFGaAb321Bn2J6_37.615056_-84.304320@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044869,
+    "wof:geomhash":"b9d4fb7d34af495dec70173022a3ad1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840649351
+        }
+    ],
+    "wof:id":840649351,
+    "wof:lastmodified":1464044869,
+    "wof:name":"Kentucky Steel Ctr Inc",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "processing"
+    ]
+},
+  "bbox": [
+    -84.30432,
+    37.615056,
+    -84.30432,
+    37.615056
+],
+  "geometry": {"coordinates":[-84.30432,37.615056],"type":"Point"}
+}

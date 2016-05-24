@@ -1,0 +1,68 @@
+{
+  "id": 840830659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.802681,38.252578,-85.802681,38.252578",
+    "geom:latitude":38.252578,
+    "geom:longitude":-85.802681,
+    "iso:country":"US",
+    "sg:address":"3000 Magazine St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 2253",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cCv5Eds9Gvawexs0t9xbJ_38.252578_-85.802681@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049018,
+    "wof:geomhash":"61c5c75037f3468f90deab475e56ff9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840830659
+        }
+    ],
+    "wof:id":840830659,
+    "wof:lastmodified":1464049018,
+    "wof:name":"Entrepreneur Office Park",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.802681,
+    38.252578,
+    -85.802681,
+    38.252578
+],
+  "geometry": {"coordinates":[-85.80268100000001,38.252578],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856736291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.314974,36.620518,-88.314974,36.620518",
+    "geom:latitude":36.620518,
+    "geom:longitude":-88.314974,
+    "iso:country":"US",
+    "sg:address":"656 N 12th St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/murray/83778-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 6666",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59fsb3v1m4Z2m8tQY94kZp_36.620518_-88.314974@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053234,
+    "wof:geomhash":"e17431d7a03050a717258f17c6bfa73c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":856736291
+        }
+    ],
+    "wof:id":856736291,
+    "wof:lastmodified":1464053234,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.314974,
+    36.620518,
+    -88.314974,
+    36.620518
+],
+  "geometry": {"coordinates":[-88.31497400000001,36.620518],"type":"Point"}
+}

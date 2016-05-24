@@ -1,0 +1,73 @@
+{
+  "id": 840595859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.791913,38.224632,-85.791913,38.224632",
+    "geom:latitude":38.224632,
+    "geom:longitude":-85.791913,
+    "iso:country":"US",
+    "sg:address":"1800 Dixie Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 2610",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8jz1pUrxdva6waUJTXoc_38.224632_-85.791913@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043559,
+    "wof:geomhash":"8285bbf3699a2fdfdca0ba66d6b38bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":840595859
+        }
+    ],
+    "wof:id":840595859,
+    "wof:lastmodified":1464043559,
+    "wof:name":"Hadorn's Bakery",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.791913,
+    38.224632,
+    -85.791913,
+    38.224632
+],
+  "geometry": {"coordinates":[-85.79191299999999,38.224632],"type":"Point"}
+}

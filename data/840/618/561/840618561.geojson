@@ -1,0 +1,71 @@
+{
+  "id": 840618561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.539328,37.027446,-88.539328,37.027446",
+    "geom:latitude":37.027446,
+    "geom:longitude":-88.539328,
+    "iso:country":"US",
+    "sg:address":"160 Fantasy Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 0077",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OPjMfvDshIDm5m0YBBLd1_37.027446_-88.539328@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044132,
+    "wof:geomhash":"f824a55a6cd36b29158930b9d5bc8a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840618561
+        }
+    ],
+    "wof:id":840618561,
+    "wof:lastmodified":1464044132,
+    "wof:name":"M & M Decorating LLC",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -88.539328,
+    37.027446,
+    -88.539328,
+    37.027446
+],
+  "geometry": {"coordinates":[-88.539328,37.027446],"type":"Point"}
+}

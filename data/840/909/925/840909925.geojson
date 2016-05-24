@@ -1,0 +1,85 @@
+{
+  "id": 840909925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.484828,36.956853,-86.484828,36.956853",
+    "geom:latitude":36.956853,
+    "geom:longitude":-86.484828,
+    "iso:country":"US",
+    "sg:address":"309 Dishman Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9813",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "brick"
+    ],
+    "sg:website":"www.leebrickandblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KDiwVazGjjld1kRgRpoAZ_36.956853_-86.484828@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050723,
+    "wof:geomhash":"e863974799324e9f2815aac6c6172e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840909925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840909925
+        }
+    ],
+    "wof:id":840909925,
+    "wof:lastmodified":1464050723,
+    "wof:name":"Lee Brick & Block",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick"
+    ]
+},
+  "bbox": [
+    -86.484828,
+    36.956853,
+    -86.484828,
+    36.956853
+],
+  "geometry": {"coordinates":[-86.48482799999999,36.956853],"type":"Point"}
+}

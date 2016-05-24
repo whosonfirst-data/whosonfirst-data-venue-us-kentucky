@@ -1,0 +1,83 @@
+{
+  "id": 840869867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.574819,37.527588,-82.574819,37.527588",
+    "geom:latitude":37.527588,
+    "geom:longitude":-82.574819,
+    "iso:country":"US",
+    "sg:address":"4543 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 4289",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927,
+        102191575,
+        85947001,
+        85868825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PARaKG1smmM5nlxPGtgSo_37.527588_-82.574819@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049851,
+    "wof:geomhash":"9fba269b5a813787aa8afd1cca8cb6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840869867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947001,
+            "neighbourhood_id":85868825,
+            "region_id":85688641,
+            "venue_id":840869867
+        }
+    ],
+    "wof:id":840869867,
+    "wof:lastmodified":1464049851,
+    "wof:name":"Chester Hills Home Decor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior"
+    ]
+},
+  "bbox": [
+    -82.574819,
+    37.527588,
+    -82.574819,
+    37.527588
+],
+  "geometry": {"coordinates":[-82.57481900000001,37.527588],"type":"Point"}
+}

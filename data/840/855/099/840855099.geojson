@@ -1,0 +1,73 @@
+{
+  "id": 840855099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65313,38.255812,-85.65313,38.255812",
+    "geom:latitude":38.255812,
+    "geom:longitude":-85.65313,
+    "iso:country":"US",
+    "sg:address":"3919 Chenoweth Sq",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 721 9282",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ibYFpz45MunA2PfRVBKy_38.255812_-85.653130@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049547,
+    "wof:geomhash":"ae29597eaf6d8c53d77ed494d5ebc0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840855099
+        }
+    ],
+    "wof:id":840855099,
+    "wof:lastmodified":1464049547,
+    "wof:name":"Watermark Gallery",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.65313,
+    38.255812,
+    -85.65313,
+    38.255812
+],
+  "geometry": {"coordinates":[-85.65313,38.255812],"type":"Point"}
+}

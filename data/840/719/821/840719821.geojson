@@ -1,0 +1,71 @@
+{
+  "id": 840719821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.619057,37.076985,-88.619057,37.076985",
+    "geom:latitude":37.076985,
+    "geom:longitude":-88.619057,
+    "iso:country":"US",
+    "sg:address":"1901 Kentucky Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3247",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QxRwLj5wYgkIx6SHeEKZ8_37.076985_-88.619057@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046506,
+    "wof:geomhash":"d74dcbdd74e9cf0026dfca7f23a526bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840719821
+        }
+    ],
+    "wof:id":840719821,
+    "wof:lastmodified":1464046506,
+    "wof:name":"St Nicholas Family Clinic",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.619057,
+    37.076985,
+    -88.619057,
+    37.076985
+],
+  "geometry": {"coordinates":[-88.619057,37.076985],"type":"Point"}
+}

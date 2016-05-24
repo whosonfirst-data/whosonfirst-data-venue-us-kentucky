@@ -1,0 +1,77 @@
+{
+  "id": 840790947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660144,38.257356,-85.660144,38.257356",
+    "geom:latitude":38.257356,
+    "geom:longitude":-85.660144,
+    "iso:country":"US",
+    "sg:address":"3830 Elmwood Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 0307",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kQjseHMoGae7TM7wtjGXG_38.257356_-85.660144@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048003,
+    "wof:geomhash":"b1cebefcfc1ceef08883985b3cd7848f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840790947
+        }
+    ],
+    "wof:id":840790947,
+    "wof:lastmodified":1464048003,
+    "wof:name":"Pet Priorities Inc",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.660144,
+    38.257356,
+    -85.660144,
+    38.257356
+],
+  "geometry": {"coordinates":[-85.660144,38.257356],"type":"Point"}
+}

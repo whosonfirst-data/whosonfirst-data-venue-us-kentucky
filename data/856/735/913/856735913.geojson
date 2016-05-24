@@ -1,0 +1,74 @@
+{
+  "id": 856735913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.540254,37.506966,-82.540254,37.506966",
+    "geom:latitude":37.506966,
+    "geom:longitude":-82.540254,
+    "iso:country":"US",
+    "sg:address":"190 Cassidy Blvd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pikeville/186948-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 8848",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SfXzBvLrxwetaDBUBJ5eX_37.506966_-82.540254@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053215,
+    "wof:geomhash":"985934e23302e8b39a9d6896155b0f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856735913
+        }
+    ],
+    "wof:id":856735913,
+    "wof:lastmodified":1464053215,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.540254,
+    37.506966,
+    -82.540254,
+    37.506966
+],
+  "geometry": {"coordinates":[-82.540254,37.506966],"type":"Point"}
+}

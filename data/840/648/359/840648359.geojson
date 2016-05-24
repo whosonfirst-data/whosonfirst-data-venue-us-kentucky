@@ -1,0 +1,82 @@
+{
+  "id": 840648359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642514,38.237499,-85.642514,38.237499",
+    "geom:latitude":38.237499,
+    "geom:longitude":-85.642514,
+    "iso:country":"US",
+    "sg:address":"4002 Kresge Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 5997",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DEcw3eL5isiVKUDK2oPgC_38.237499_-85.642514@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044846,
+    "wof:geomhash":"2a1622d99d311268dfc1b60329995990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840648359
+        }
+    ],
+    "wof:id":840648359,
+    "wof:lastmodified":1464044846,
+    "wof:name":"Neurohealth Consultants Pllc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "business"
+    ]
+},
+  "bbox": [
+    -85.642514,
+    38.237499,
+    -85.642514,
+    38.237499
+],
+  "geometry": {"coordinates":[-85.64251400000001,38.237499],"type":"Point"}
+}

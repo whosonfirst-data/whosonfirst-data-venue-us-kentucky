@@ -1,0 +1,71 @@
+{
+  "id": 840908579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.632269,37.175627,-84.632269,37.175627",
+    "geom:latitude":37.175627,
+    "geom:longitude":-84.632269,
+    "iso:country":"US",
+    "sg:address":"326 State Hwy 635",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 2103",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0keOlxVeaaAGLc96baBKa0_37.175627_-84.632269@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050683,
+    "wof:geomhash":"b12770b75e659a769c745a8f071a98c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840908579
+        }
+    ],
+    "wof:id":840908579,
+    "wof:lastmodified":1464050683,
+    "wof:name":"Science Hill Ky Food Store",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -84.632269,
+    37.175627,
+    -84.632269,
+    37.175627
+],
+  "geometry": {"coordinates":[-84.63226899999999,37.175627],"type":"Point"}
+}

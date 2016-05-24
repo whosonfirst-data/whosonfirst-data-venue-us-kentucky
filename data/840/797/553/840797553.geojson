@@ -1,0 +1,71 @@
+{
+  "id": 840797553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.620503,37.006695,-84.620503,37.006695",
+    "geom:latitude":37.006695,
+    "geom:longitude":-84.620503,
+    "iso:country":"US",
+    "sg:address":"6510 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6311",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62PSr10bHZgWxlhqgj5RK6_37.006695_-84.620503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048142,
+    "wof:geomhash":"937a2164eb3852b4925dccb3fc792fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840797553
+        }
+    ],
+    "wof:id":840797553,
+    "wof:lastmodified":1464048142,
+    "wof:name":"Somerset Lawn & Garden Equip",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -84.620503,
+    37.006695,
+    -84.620503,
+    37.006695
+],
+  "geometry": {"coordinates":[-84.620503,37.006695],"type":"Point"}
+}

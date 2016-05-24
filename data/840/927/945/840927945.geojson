@@ -1,0 +1,75 @@
+{
+  "id": 840927945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756282,38.248296,-85.756282,38.248296",
+    "geom:latitude":38.248296,
+    "geom:longitude":-85.756282,
+    "iso:country":"US",
+    "sg:address":"645 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 7163",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "taxi",
+        "poster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QCs666OIblCOxo4e0sW0t_38.248296_-85.756282@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051207,
+    "wof:geomhash":"8048f75333ae3e0a366fcc2188e38c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":840927945
+        }
+    ],
+    "wof:id":840927945,
+    "wof:lastmodified":1464051207,
+    "wof:name":"Taxiposter Whaley Advertising",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxi",
+        "poster"
+    ]
+},
+  "bbox": [
+    -85.756282,
+    38.248296,
+    -85.756282,
+    38.248296
+],
+  "geometry": {"coordinates":[-85.756282,38.248296],"type":"Point"}
+}

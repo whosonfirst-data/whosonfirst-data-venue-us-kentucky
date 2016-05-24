@@ -1,0 +1,71 @@
+{
+  "id": 840799543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.620131,37.088901,-84.620131,37.088901",
+    "geom:latitude":37.088901,
+    "geom:longitude":-84.620131,
+    "iso:country":"US",
+    "sg:address":"114 Floyd St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 5837",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V7TlQ1IW6m4dZlrt48Y5Q_37.088901_-84.620131@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048191,
+    "wof:geomhash":"110b4bf7dc98aeed0832e674c6dc69e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840799543
+        }
+    ],
+    "wof:id":840799543,
+    "wof:lastmodified":1464048191,
+    "wof:name":"TLC Processing Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing"
+    ]
+},
+  "bbox": [
+    -84.620131,
+    37.088901,
+    -84.620131,
+    37.088901
+],
+  "geometry": {"coordinates":[-84.620131,37.088901],"type":"Point"}
+}

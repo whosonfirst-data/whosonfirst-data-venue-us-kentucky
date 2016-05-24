@@ -1,0 +1,73 @@
+{
+  "id": 856714547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421268,36.954353,-86.421268,36.954353",
+    "geom:latitude":36.954353,
+    "geom:longitude":-86.421268,
+    "iso:country":"US",
+    "sg:address":"985 Lovers Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7469",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uDKzPP0epzDsPf1KUgvg7_36.954353_-86.421268@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052375,
+    "wof:geomhash":"43980501a09f7462b0a7e536ed6b1d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856714547
+        }
+    ],
+    "wof:id":856714547,
+    "wof:lastmodified":1464052375,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.421268,
+    36.954353,
+    -86.421268,
+    36.954353
+],
+  "geometry": {"coordinates":[-86.421268,36.954353],"type":"Point"}
+}

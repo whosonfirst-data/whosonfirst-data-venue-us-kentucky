@@ -1,0 +1,73 @@
+{
+  "id": 840765423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377042,38.403078,-85.377042,38.403078",
+    "geom:latitude":38.403078,
+    "geom:longitude":-85.377042,
+    "iso:country":"US",
+    "sg:address":"418 S 1st St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 2017",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30V8uA3PuTyIZ86Vbwparx_38.403078_-85.377042@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047462,
+    "wof:geomhash":"e8463daab27b5d81ffa666cd1df91c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840765423
+        }
+    ],
+    "wof:id":840765423,
+    "wof:lastmodified":1464047462,
+    "wof:name":"Pet Station",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.377042,
+    38.403078,
+    -85.377042,
+    38.403078
+],
+  "geometry": {"coordinates":[-85.377042,38.403078],"type":"Point"}
+}

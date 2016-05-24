@@ -1,0 +1,67 @@
+{
+  "id": 840553167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429759,36.953539,-86.429759,36.953539",
+    "geom:latitude":36.953539,
+    "geom:longitude":-86.429759,
+    "iso:country":"US",
+    "sg:address":"1865 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 0556",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:website":"www.officedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DTbiamgdLb3JTpUknUzQQ_36.953539_-86.429759@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042578,
+    "wof:geomhash":"1031addd06d9d2f0274f04e512ebbd84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840553167
+        }
+    ],
+    "wof:id":840553167,
+    "wof:lastmodified":1464042578,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.429759,
+    36.953539,
+    -86.429759,
+    36.953539
+],
+  "geometry": {"coordinates":[-86.429759,36.953539],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856738731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.655442,37.984622,-85.655442,37.984622",
+    "geom:latitude":37.984622,
+    "geom:longitude":-85.655442,
+    "iso:country":"US",
+    "sg:address":"208 Valley Ln",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 2706",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:website":"http://www.wetbydesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BgtbBoRiozm1KRcJc8k14_37.984622_-85.655442@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053332,
+    "wof:geomhash":"4e83c335a8e566c2bc7fd5d9d6e01cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856738731
+        }
+    ],
+    "wof:id":856738731,
+    "wof:lastmodified":1464053332,
+    "wof:name":"Wet By Design",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.655442,
+    37.984622,
+    -85.655442,
+    37.984622
+],
+  "geometry": {"coordinates":[-85.65544199999999,37.984622],"type":"Point"}
+}

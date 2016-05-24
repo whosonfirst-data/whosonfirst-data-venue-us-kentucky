@@ -1,0 +1,73 @@
+{
+  "id": 840812947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.700124,38.219698,-85.700124,38.219698",
+    "geom:latitude":38.219698,
+    "geom:longitude":-85.700124,
+    "iso:country":"US",
+    "sg:address":"2221 Valley Vista Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 6111",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wveCRRjMvEpw4yUUwpoPX_38.219698_-85.700124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048538,
+    "wof:geomhash":"3ee2ed6a8e3b656f787ea505cb3d418c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873367,
+            "region_id":85688641,
+            "venue_id":840812947
+        }
+    ],
+    "wof:id":840812947,
+    "wof:lastmodified":1464048538,
+    "wof:name":"Color Craft Painting LLC",
+    "wof:parent_id":85873367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.700124,
+    38.219698,
+    -85.700124,
+    38.219698
+],
+  "geometry": {"coordinates":[-85.700124,38.219698],"type":"Point"}
+}

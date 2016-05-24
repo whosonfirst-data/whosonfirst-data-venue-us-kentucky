@@ -1,0 +1,71 @@
+{
+  "id": 856687673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.407399,37.618542,-84.407399,37.618542",
+    "geom:latitude":37.618542,
+    "geom:longitude":-84.407399,
+    "iso:country":"US",
+    "sg:address":"11652 State Hwy 52",
+    "sg:city":"Paint Lick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 925 2444",
+    "sg:postcode":"40461",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qkvF6FDbmt5wCHjXB7qdG_37.618542_-84.407399@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051817,
+    "wof:geomhash":"3ac5c202cffc04fb46f77a27a2737ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856687673
+        }
+    ],
+    "wof:id":856687673,
+    "wof:lastmodified":1464051817,
+    "wof:name":"Paint Lick Family Clinic",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.407399,
+    37.618542,
+    -84.407399,
+    37.618542
+],
+  "geometry": {"coordinates":[-84.407399,37.618542],"type":"Point"}
+}

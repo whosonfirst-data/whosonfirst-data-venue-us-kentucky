@@ -1,0 +1,68 @@
+{
+  "id": 840677163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68329,38.222232,-85.68329,38.222232",
+    "geom:latitude":38.222232,
+    "geom:longitude":-85.68329,
+    "iso:country":"US",
+    "sg:address":"2600 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 9726",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OL8I8zTsMKPDX0DbXlSfK_38.222232_-85.683290@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045494,
+    "wof:geomhash":"72a8fef08dffd225bc1a200d88695a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":840677163
+        }
+    ],
+    "wof:id":840677163,
+    "wof:lastmodified":1464045494,
+    "wof:name":"Kern's Korner",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.68329,
+    38.222232,
+    -85.68329,
+    38.222232
+],
+  "geometry": {"coordinates":[-85.68329,38.222232],"type":"Point"}
+}

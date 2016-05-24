@@ -1,0 +1,73 @@
+{
+  "id": 840665181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.731825,38.244221,-85.731825,38.244221",
+    "geom:latitude":38.244221,
+    "geom:longitude":-85.731825,
+    "iso:country":"US",
+    "sg:address":"1155 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 3432",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0098hxibSuijvFVki6Pv8i_38.244221_-85.731825@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045215,
+    "wof:geomhash":"d31f3132e7b15f926ede3a9508e00712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":840665181
+        }
+    ],
+    "wof:id":840665181,
+    "wof:lastmodified":1464045215,
+    "wof:name":"Wellspring-Broadway",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -85.731825,
+    38.244221,
+    -85.731825,
+    38.244221
+],
+  "geometry": {"coordinates":[-85.731825,38.244221],"type":"Point"}
+}

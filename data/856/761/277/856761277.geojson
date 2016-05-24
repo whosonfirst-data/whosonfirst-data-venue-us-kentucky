@@ -1,0 +1,79 @@
+{
+  "id": 856761277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684546,37.07889,-88.684546,37.07889",
+    "geom:latitude":37.07889,
+    "geom:longitude":-88.684546,
+    "iso:country":"US",
+    "sg:address":"3051 James Sanders Blvd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 415 6942",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57CGfdREOAgTJbQGGfDyWC_37.078890_-88.684546@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"b55a488372c44635d1ed579998cbc1e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856761277
+        }
+    ],
+    "wof:id":856761277,
+    "wof:lastmodified":1464054170,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.684546,
+    37.07889,
+    -88.684546,
+    37.07889
+],
+  "geometry": {"coordinates":[-88.684546,37.07889],"type":"Point"}
+}

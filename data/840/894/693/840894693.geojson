@@ -1,0 +1,75 @@
+{
+  "id": 840894693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.557197,37.046949,-88.557197,37.046949",
+    "geom:latitude":37.046949,
+    "geom:longitude":-88.557197,
+    "iso:country":"US",
+    "sg:address":"4035 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6575",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q3hgohd6hV7ixm0jY9c0G_37.046949_-88.557197@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050377,
+    "wof:geomhash":"d24710f6eef65864c659efae9132645d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840894693
+        }
+    ],
+    "wof:id":840894693,
+    "wof:lastmodified":1464050377,
+    "wof:name":"Harper's Hot Shot Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -88.557197,
+    37.046949,
+    -88.557197,
+    37.046949
+],
+  "geometry": {"coordinates":[-88.557197,37.046949],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840592693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.906527,37.180264,-85.906527,37.180264",
+    "geom:latitude":37.180264,
+    "geom:longitude":-85.906527,
+    "iso:country":"US",
+    "sg:address":"107 Water St",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 3030",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZMOqtm2txPO1MtqLfWIhu_37.180264_-85.906527@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043483,
+    "wof:geomhash":"e4a672b176f6ed3bf54069146ea9d6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840592693
+        }
+    ],
+    "wof:id":840592693,
+    "wof:lastmodified":1464043483,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.906527,
+    37.180264,
+    -85.906527,
+    37.180264
+],
+  "geometry": {"coordinates":[-85.906527,37.180264],"type":"Point"}
+}

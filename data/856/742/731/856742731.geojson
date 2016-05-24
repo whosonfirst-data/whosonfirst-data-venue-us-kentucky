@@ -1,0 +1,84 @@
+{
+  "id": 856742731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65419,38.28764,-85.65419,38.28764",
+    "geom:latitude":38.28764,
+    "geom:longitude":-85.65419,
+    "iso:country":"US",
+    "sg:address":"2401 Woodside Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 2073",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m36UYbPawxYUjjGba7z9q_38.287640_-85.654190@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053485,
+    "wof:geomhash":"c2aa4461651127fb8c86e2695394bab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856742731
+        }
+    ],
+    "wof:id":856742731,
+    "wof:lastmodified":1464053485,
+    "wof:name":"Thomas Schuhmann Photography",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ]
+},
+  "bbox": [
+    -85.65419,
+    38.28764,
+    -85.65419,
+    38.28764
+],
+  "geometry": {"coordinates":[-85.65419,38.28764],"type":"Point"}
+}

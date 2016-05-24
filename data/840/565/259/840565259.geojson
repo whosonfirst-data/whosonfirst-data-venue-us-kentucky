@@ -1,0 +1,75 @@
+{
+  "id": 840565259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527343,37.999286,-84.527343,37.999286",
+    "geom:latitude":37.999286,
+    "geom:longitude":-84.527343,
+    "iso:country":"US",
+    "sg:address":"273 Big Run Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 276 2202",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85839641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17D39vFnF72cof4BVbfrCh_37.999286_-84.527343@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042859,
+    "wof:geomhash":"675d02390990e4e0d4ed9f1463d9506c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85839641,
+            "region_id":85688641,
+            "venue_id":840565259
+        }
+    ],
+    "wof:id":840565259,
+    "wof:lastmodified":1464042859,
+    "wof:name":"Hopkins Tool & Die Co",
+    "wof:parent_id":85839641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -84.527343,
+    37.999286,
+    -84.527343,
+    37.999286
+],
+  "geometry": {"coordinates":[-84.527343,37.999286],"type":"Point"}
+}

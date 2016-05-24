@@ -1,0 +1,73 @@
+{
+  "id": 840886553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.878941,37.693661,-85.878941,37.693661",
+    "geom:latitude":37.693661,
+    "geom:longitude":-85.878941,
+    "iso:country":"US",
+    "sg:address":"505 University Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 5133",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "technical",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lDaJcou4VwI51SGGYI6JZ_37.693661_-85.878941@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050210,
+    "wof:geomhash":"8adfb3d7e0dfac9156279d49faba3deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840886553
+        }
+    ],
+    "wof:id":840886553,
+    "wof:lastmodified":1464050210,
+    "wof:name":"Kentucky Tech Northwest Region",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "trade"
+    ]
+},
+  "bbox": [
+    -85.878941,
+    37.693661,
+    -85.878941,
+    37.693661
+],
+  "geometry": {"coordinates":[-85.878941,37.693661],"type":"Point"}
+}

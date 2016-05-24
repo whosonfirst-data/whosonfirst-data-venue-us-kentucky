@@ -1,0 +1,75 @@
+{
+  "id": 840874539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.289984,37.640148,-82.289984,37.640148",
+    "geom:latitude":37.640148,
+    "geom:longitude":-82.289984,
+    "iso:country":"US",
+    "sg:address":"1549 Forest Hills Rd",
+    "sg:city":"Forest Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 6600",
+    "sg:postcode":"41527",
+    "sg:province":"KY",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ny8Z3BcWhEtisPYzE5uH_37.640148_-82.289984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049942,
+    "wof:geomhash":"44c5a2c809835c9173a0bb5abd70510c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840874539
+        }
+    ],
+    "wof:id":840874539,
+    "wof:lastmodified":1464049942,
+    "wof:name":"Performance Cycle Engineering",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -82.289984,
+    37.640148,
+    -82.289984,
+    37.640148
+],
+  "geometry": {"coordinates":[-82.289984,37.640148],"type":"Point"}
+}

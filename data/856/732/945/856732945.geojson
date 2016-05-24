@@ -1,0 +1,78 @@
+{
+  "id": 856732945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.80932,38.224413,-85.80932,38.224413",
+    "geom:latitude":38.224413,
+    "geom:longitude":-85.80932,
+    "iso:country":"US",
+    "sg:address":"3301 Cane Run Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-west/173493-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 8778",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l1AcdTWKOsLZc1ryKvklq_38.224413_-85.809320@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053108,
+    "wof:geomhash":"6a7a5857aa27e995d2f6590d38b04b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":856732945
+        }
+    ],
+    "wof:id":856732945,
+    "wof:lastmodified":1464053108,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.80932,
+    38.224413,
+    -85.80932,
+    38.224413
+],
+  "geometry": {"coordinates":[-85.80932,38.224413],"type":"Point"}
+}

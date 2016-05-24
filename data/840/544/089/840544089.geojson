@@ -1,0 +1,76 @@
+{
+  "id": 840544089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709638,38.253558,-85.709638,38.253558",
+    "geom:latitude":38.253558,
+    "geom:longitude":-85.709638,
+    "iso:country":"US",
+    "sg:address":"2132 New Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 2123",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.brooksidehomebuilders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HuXU9ROqcoy0SxAgatt2m_38.253558_-85.709638@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042333,
+    "wof:geomhash":"3d039be4e5d61fde3e5d6f3eb0ffd8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":840544089
+        }
+    ],
+    "wof:id":840544089,
+    "wof:lastmodified":1464042333,
+    "wof:name":"Brookside Homes",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.709638,
+    38.253558,
+    -85.709638,
+    38.253558
+],
+  "geometry": {"coordinates":[-85.709638,38.253558],"type":"Point"}
+}

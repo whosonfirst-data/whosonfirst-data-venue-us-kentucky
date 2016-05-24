@@ -1,0 +1,74 @@
+{
+  "id": 856736329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.370025,37.006876,-86.370025,37.006876",
+    "geom:latitude":37.006876,
+    "geom:longitude":-86.370025,
+    "iso:country":"US",
+    "sg:address":"592 Interstate Drive",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/155872-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 9930",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rxjsdwy0MAdxPHXhSAPCx_37.006876_-86.370025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053235,
+    "wof:geomhash":"6eeb9664406cdde7a0524502db3b6819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856736329
+        }
+    ],
+    "wof:id":856736329,
+    "wof:lastmodified":1464053235,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.370025,
+    37.006876,
+    -86.370025,
+    37.006876
+],
+  "geometry": {"coordinates":[-86.370025,37.006876],"type":"Point"}
+}

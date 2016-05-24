@@ -1,0 +1,68 @@
+{
+  "id": 840868253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.795794,38.215159,-85.795794,38.215159",
+    "geom:latitude":38.215159,
+    "geom:longitude":-85.795794,
+    "iso:country":"US",
+    "sg:address":"2400 Dixie Hwy",
+    "sg:city":"Shively",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 581 5383",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JPBgPS5ZumzWe14lHy5TR_38.215159_-85.795794@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049821,
+    "wof:geomhash":"043f3f96c94a29290641032fd641f741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840868253
+        }
+    ],
+    "wof:id":840868253,
+    "wof:lastmodified":1464049821,
+    "wof:name":"National City Bank",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.795794,
+    38.215159,
+    -85.795794,
+    38.215159
+],
+  "geometry": {"coordinates":[-85.795794,38.215159],"type":"Point"}
+}

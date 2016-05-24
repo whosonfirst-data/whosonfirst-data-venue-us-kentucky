@@ -1,0 +1,73 @@
+{
+  "id": 840844895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.517375,38.239571,-85.517375,38.239571",
+    "geom:latitude":38.239571,
+    "geom:longitude":-85.517375,
+    "iso:country":"US",
+    "sg:address":"12920 Wooded Forest Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 2954",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dDUNExa58JG7RN0QdcIgF_38.239571_-85.517375@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049328,
+    "wof:geomhash":"469805600cc9739ae4ce45861ddb9d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840844895
+        }
+    ],
+    "wof:id":840844895,
+    "wof:lastmodified":1464049328,
+    "wof:name":"Larry Ladegast Jr",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.517375,
+    38.239571,
+    -85.517375,
+    38.239571
+],
+  "geometry": {"coordinates":[-85.517375,38.239571],"type":"Point"}
+}

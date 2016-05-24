@@ -1,0 +1,73 @@
+{
+  "id": 856704097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.886162,37.732654,-85.886162,37.732654",
+    "geom:latitude":37.732654,
+    "geom:longitude":-85.886162,
+    "iso:country":"US",
+    "sg:address":"1805 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 735 1421",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ChEy7BgUCDHp0Zy3sWJC8_37.732654_-85.886162@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052153,
+    "wof:geomhash":"3533ff75cbc33c94d37d5b13079b1cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856704097
+        }
+    ],
+    "wof:id":856704097,
+    "wof:lastmodified":1464052153,
+    "wof:name":"Cash Express",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -85.886162,
+    37.732654,
+    -85.886162,
+    37.732654
+],
+  "geometry": {"coordinates":[-85.886162,37.732654],"type":"Point"}
+}

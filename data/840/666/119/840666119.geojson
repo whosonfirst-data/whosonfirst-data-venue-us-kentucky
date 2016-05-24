@@ -1,0 +1,68 @@
+{
+  "id": 840666119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899891,36.835455,-85.899891,36.835455",
+    "geom:latitude":36.835455,
+    "geom:longitude":-85.899891,
+    "iso:country":"US",
+    "sg:address":"5382 Mount Pleasant Rd",
+    "sg:city":"Etoile",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 427 5784",
+    "sg:postcode":"42131",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JsQwrhjX62ju0I0mKd6Sw_36.835455_-85.899891@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045235,
+    "wof:geomhash":"dae6825d9a7b09293a48342cab5a74a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840666119
+        }
+    ],
+    "wof:id":840666119,
+    "wof:lastmodified":1464045235,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.899891,
+    36.835455,
+    -85.899891,
+    36.835455
+],
+  "geometry": {"coordinates":[-85.899891,36.835455],"type":"Point"}
+}

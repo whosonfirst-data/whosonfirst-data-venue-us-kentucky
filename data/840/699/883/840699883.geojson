@@ -1,0 +1,71 @@
+{
+  "id": 840699883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582697,37.851516,-87.582697,37.851516",
+    "geom:latitude":37.851516,
+    "geom:longitude":-87.582697,
+    "iso:country":"US",
+    "sg:address":"1000 N Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3154",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c5PkJ3K38F2VXmKOMPW0M_37.851516_-87.582697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046082,
+    "wof:geomhash":"39773ca14f9c286069249d55dfa68855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840699883
+        }
+    ],
+    "wof:id":840699883,
+    "wof:lastmodified":1464046082,
+    "wof:name":"William L Smith DDS",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.582697,
+    37.851516,
+    -87.582697,
+    37.851516
+],
+  "geometry": {"coordinates":[-87.582697,37.851516],"type":"Point"}
+}

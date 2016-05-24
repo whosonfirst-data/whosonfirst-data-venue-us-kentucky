@@ -1,0 +1,73 @@
+{
+  "id": 840914661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.617565,37.814177,-87.617565,37.814177",
+    "geom:latitude":37.814177,
+    "geom:longitude":-87.617565,
+    "iso:country":"US",
+    "sg:address":"1882 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 1166",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47NNebOBcQyT7VtSpizW6U_37.814177_-87.617565@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050865,
+    "wof:geomhash":"c2c9e8c8f6aa64436d2b6d32ef7eb79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840914661
+        }
+    ],
+    "wof:id":840914661,
+    "wof:lastmodified":1464050865,
+    "wof:name":"Mc Connell's Electrical Work",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.617565,
+    37.814177,
+    -87.617565,
+    37.814177
+],
+  "geometry": {"coordinates":[-87.617565,37.814177],"type":"Point"}
+}

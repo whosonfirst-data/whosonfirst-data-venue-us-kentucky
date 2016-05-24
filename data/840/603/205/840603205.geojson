@@ -1,0 +1,75 @@
+{
+  "id": 840603205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75,38.23099,-85.75,38.23099",
+    "geom:latitude":38.23099,
+    "geom:longitude":-85.75,
+    "iso:country":"US",
+    "sg:address":"1277 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 2573",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auditing",
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F2X7N1l0mGl1TxXcm74DV_38.230990_-85.750000@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043739,
+    "wof:geomhash":"f3322b8455360a9882268b7f107ed079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840603205
+        }
+    ],
+    "wof:id":840603205,
+    "wof:lastmodified":1464043739,
+    "wof:name":"RLEenterprises",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auditing",
+        "return"
+    ]
+},
+  "bbox": [
+    -85.75,
+    38.23099,
+    -85.75,
+    38.23099
+],
+  "geometry": {"coordinates":[-85.75,38.23099],"type":"Point"}
+}

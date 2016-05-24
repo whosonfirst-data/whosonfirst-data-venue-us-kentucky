@@ -1,0 +1,71 @@
+{
+  "id": 840730579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.566187,37.87798,-87.566187,37.87798",
+    "geom:latitude":37.87798,
+    "geom:longitude":-87.566187,
+    "iso:country":"US",
+    "sg:address":"2869 US Hwy 41",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 8833",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uItooTJDXAdcB1G5nfrc8_37.877980_-87.566187@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046716,
+    "wof:geomhash":"a6fdcce0a8c8150f826595c5a43ed8a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840730579
+        }
+    ],
+    "wof:id":840730579,
+    "wof:lastmodified":1464046716,
+    "wof:name":"Crafton Family Dentistry",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.566187,
+    37.87798,
+    -87.566187,
+    37.87798
+],
+  "geometry": {"coordinates":[-87.566187,37.87798],"type":"Point"}
+}

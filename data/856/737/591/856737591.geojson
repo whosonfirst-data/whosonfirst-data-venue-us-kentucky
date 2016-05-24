@@ -1,0 +1,74 @@
+{
+  "id": 856737591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.310912,37.569429,-84.310912,37.569429",
+    "geom:latitude":37.569429,
+    "geom:longitude":-84.310912,
+    "iso:country":"US",
+    "sg:address":"212 Prince Royal Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/berea/83715-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 7272",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3svjtzDOSYSeqMpf6V6OmQ_37.568830_-84.310884@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053288,
+    "wof:geomhash":"7c313243646a7601d00d6c17283ef5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856737591
+        }
+    ],
+    "wof:id":856737591,
+    "wof:lastmodified":1464053288,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.310912,
+    37.569429,
+    -84.310912,
+    37.569429
+],
+  "geometry": {"coordinates":[-84.310912,37.569429],"type":"Point"}
+}

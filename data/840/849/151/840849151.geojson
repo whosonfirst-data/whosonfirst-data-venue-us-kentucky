@@ -1,0 +1,73 @@
+{
+  "id": 840849151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.708469,38.230281,-85.708469,38.230281",
+    "geom:latitude":38.230281,
+    "geom:longitude":-85.708469,
+    "iso:country":"US",
+    "sg:address":"1808 Stevens Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 551 1985",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T1RoPbihIGuSKGgmKB4Yl_38.230281_-85.708469@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049421,
+    "wof:geomhash":"6e329801e757d7af3904cac14a7d3b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":840849151
+        }
+    ],
+    "wof:id":840849151,
+    "wof:lastmodified":1464049421,
+    "wof:name":"Harley Leadership Alliance",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -85.708469,
+    38.230281,
+    -85.708469,
+    38.230281
+],
+  "geometry": {"coordinates":[-85.70846899999999,38.230281],"type":"Point"}
+}

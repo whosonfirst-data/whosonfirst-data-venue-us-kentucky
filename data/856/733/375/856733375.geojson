@@ -1,0 +1,78 @@
+{
+  "id": 856733375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627455,38.214405,-85.627455,38.214405",
+    "geom:latitude":38.214405,
+    "geom:longitude":-85.627455,
+    "iso:country":"US",
+    "sg:address":"3099 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/131478-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 0323",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HzmSFAJmw1NoVGq5xZ8S4_38.214405_-85.627455@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053122,
+    "wof:geomhash":"137a170c6dc0915115d004a36c2dea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856733375
+        }
+    ],
+    "wof:id":856733375,
+    "wof:lastmodified":1464053122,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.627455,
+    38.214405,
+    -85.627455,
+    38.214405
+],
+  "geometry": {"coordinates":[-85.627455,38.214405],"type":"Point"}
+}

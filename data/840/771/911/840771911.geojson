@@ -1,0 +1,73 @@
+{
+  "id": 840771911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.615821,37.029318,-84.615821,37.029318",
+    "geom:latitude":37.029318,
+    "geom:longitude":-84.615821,
+    "iso:country":"US",
+    "sg:address":"110 Super Svc Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 5590",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JG0P7UVh8cjo5yXLDGxVX_37.029318_-84.615821@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047610,
+    "wof:geomhash":"7c8f8a7f88ba2e97d5254fe2e4683768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840771911
+        }
+    ],
+    "wof:id":840771911,
+    "wof:lastmodified":1464047610,
+    "wof:name":"D & M Muffler",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.615821,
+    37.029318,
+    -84.615821,
+    37.029318
+],
+  "geometry": {"coordinates":[-84.615821,37.029318],"type":"Point"}
+}

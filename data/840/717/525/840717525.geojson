@@ -1,0 +1,73 @@
+{
+  "id": 840717525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.440432,37.795699,-84.440432,37.795699",
+    "geom:latitude":37.795699,
+    "geom:longitude":-84.440432,
+    "iso:country":"US",
+    "sg:address":"533 Whitlock Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 5467",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67trMp8A9IkA5mHnh2ajfl_37.795699_-84.440432@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046450,
+    "wof:geomhash":"e3b52d6e76227bca423466fa5c460fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840717525
+        }
+    ],
+    "wof:id":840717525,
+    "wof:lastmodified":1464046450,
+    "wof:name":"Independent Carpentry",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.440432,
+    37.795699,
+    -84.440432,
+    37.795699
+],
+  "geometry": {"coordinates":[-84.440432,37.795699],"type":"Point"}
+}

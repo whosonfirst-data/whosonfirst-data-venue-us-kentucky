@@ -1,0 +1,78 @@
+{
+  "id": 856736301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.316311,36.617005,-88.316311,36.617005",
+    "geom:latitude":36.617005,
+    "geom:longitude":-88.316311,
+    "iso:country":"US",
+    "sg:address":"1203 Chestnut St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/murray/131482-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 8880",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qkhyuTVxF0xspcstW4mN_36.617005_-88.316311@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053234,
+    "wof:geomhash":"f2a7c2a28b339278e11898a2990e6ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":856736301
+        }
+    ],
+    "wof:id":856736301,
+    "wof:lastmodified":1464053234,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.316311,
+    36.617005,
+    -88.316311,
+    36.617005
+],
+  "geometry": {"coordinates":[-88.316311,36.617005],"type":"Point"}
+}

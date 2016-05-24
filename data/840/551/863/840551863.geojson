@@ -1,0 +1,71 @@
+{
+  "id": 840551863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.858213,37.693308,-85.858213,37.693308",
+    "geom:latitude":37.693308,
+    "geom:longitude":-85.858213,
+    "iso:country":"US",
+    "sg:address":"40 Public Sq",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3246",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V8FMkkaGpZsYJHgJVLuAd_37.693308_-85.858213@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042552,
+    "wof:geomhash":"0893dd773ce0a232774a1a33dec7eef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840551863
+        }
+    ],
+    "wof:id":840551863,
+    "wof:lastmodified":1464042552,
+    "wof:name":"Roger T Rigney",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.858213,
+    37.693308,
+    -85.858213,
+    37.693308
+],
+  "geometry": {"coordinates":[-85.85821300000001,37.693308],"type":"Point"}
+}

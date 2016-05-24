@@ -1,0 +1,73 @@
+{
+  "id": 840699835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851747,37.686818,-85.851747,37.686818",
+    "geom:latitude":37.686818,
+    "geom:longitude":-85.851747,
+    "iso:country":"US",
+    "sg:address":"514 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5558",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1efH4uw7vnU4y7I1q2tTm9_37.686818_-85.851747@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046081,
+    "wof:geomhash":"0f94811bb07752f9c18db81e2e0b9314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840699835
+        }
+    ],
+    "wof:id":840699835,
+    "wof:lastmodified":1464046081,
+    "wof:name":"Tires Plus Total Car Care",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.851747,
+    37.686818,
+    -85.851747,
+    37.686818
+],
+  "geometry": {"coordinates":[-85.851747,37.686818],"type":"Point"}
+}

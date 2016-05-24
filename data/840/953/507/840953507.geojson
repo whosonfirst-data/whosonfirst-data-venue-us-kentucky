@@ -1,0 +1,75 @@
+{
+  "id": 840953507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.562224,37.048043,-88.562224,37.048043",
+    "geom:latitude":37.048043,
+    "geom:longitude":-88.562224,
+    "iso:country":"US",
+    "sg:address":"3600 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 7238",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lV5dwlejSLIJh5LKR4ox8_37.048043_-88.562224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051719,
+    "wof:geomhash":"c3fa608fdc13dc6c3569d7225dac9345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840953507
+        }
+    ],
+    "wof:id":840953507,
+    "wof:lastmodified":1464051719,
+    "wof:name":"Dickerson's Used Cars",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.562224,
+    37.048043,
+    -88.562224,
+    37.048043
+],
+  "geometry": {"coordinates":[-88.562224,37.048043],"type":"Point"}
+}

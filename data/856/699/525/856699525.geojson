@@ -1,0 +1,75 @@
+{
+  "id": 856699525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.529284,36.936566,-86.529284,36.936566",
+    "geom:latitude":36.936566,
+    "geom:longitude":-86.529284,
+    "iso:country":"US",
+    "sg:address":"145 Hearthstone Cir",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9734",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u63jnuZByOnGq6NJR1fEA_36.936566_-86.529284@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052048,
+    "wof:geomhash":"5335f50362a45c493b35f9b18863a770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":856699525
+        }
+    ],
+    "wof:id":856699525,
+    "wof:lastmodified":1464052048,
+    "wof:name":"Wheat Trucking Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.529284,
+    36.936566,
+    -86.529284,
+    36.936566
+],
+  "geometry": {"coordinates":[-86.529284,36.936566],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 856754339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484009,38.037849,-84.484009,38.037849",
+    "geom:latitude":38.037849,
+    "geom:longitude":-84.484009,
+    "iso:country":"US",
+    "sg:address":"145 Walton Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 5389",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TiG6Q9JTGBiIYrrVt8uhQ_38.037849_-84.484009@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053922,
+    "wof:geomhash":"2117f8183c76705b1fadf2da33c317aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873061,
+            "region_id":85688641,
+            "venue_id":856754339
+        }
+    ],
+    "wof:id":856754339,
+    "wof:lastmodified":1464053922,
+    "wof:name":"Ann Olliges Therapeutic Massage",
+    "wof:parent_id":85873061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.484009,
+    38.037849,
+    -84.484009,
+    38.037849
+],
+  "geometry": {"coordinates":[-84.484009,38.037849],"type":"Point"}
+}

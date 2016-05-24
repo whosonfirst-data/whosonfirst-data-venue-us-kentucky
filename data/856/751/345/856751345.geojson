@@ -1,0 +1,80 @@
+{
+  "id": 856751345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.591551,38.158833,-85.591551,38.158833",
+    "geom:latitude":38.158833,
+    "geom:longitude":-85.591551,
+    "iso:country":"US",
+    "sg:address":"6017 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 681 3992",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "laboratories-veterinary"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9243568%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ez6ow89lrRxQXGqRCehqF_38.158833_-85.591551@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053804,
+    "wof:geomhash":"c5090011a73a5d2a9e2ad86e9eb5cb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856751345
+        }
+    ],
+    "wof:id":856751345,
+    "wof:lastmodified":1464053804,
+    "wof:name":"Pets Plus Veterinary Care Center",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "laboratories-veterinary"
+    ]
+},
+  "bbox": [
+    -85.591551,
+    38.158833,
+    -85.591551,
+    38.158833
+],
+  "geometry": {"coordinates":[-85.591551,38.158833],"type":"Point"}
+}

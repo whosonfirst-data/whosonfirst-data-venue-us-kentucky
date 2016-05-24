@@ -1,0 +1,71 @@
+{
+  "id": 840670563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.159408,37.509131,-82.159408,37.509131",
+    "geom:latitude":37.509131,
+    "geom:longitude":-82.159408,
+    "iso:country":"US",
+    "sg:address":"13024 Phelps 632 Rd",
+    "sg:city":"Phelps",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 8778",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HUlSVUC9LsXJi0PIHmM19_37.509131_-82.159408@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045322,
+    "wof:geomhash":"7db581134507f1c09ced43fd22f87afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840670563
+        }
+    ],
+    "wof:id":840670563,
+    "wof:lastmodified":1464045322,
+    "wof:name":"Rogers Barber Shop",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.159408,
+    37.509131,
+    -82.159408,
+    37.509131
+],
+  "geometry": {"coordinates":[-82.159408,37.509131],"type":"Point"}
+}

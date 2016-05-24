@@ -1,0 +1,71 @@
+{
+  "id": 840766607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576847,37.870747,-84.576847,37.870747",
+    "geom:latitude":37.870747,
+    "geom:longitude":-84.576847,
+    "iso:country":"US",
+    "sg:address":"713 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4409",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X9c20JP7ayXmov1rbcWt4_37.870747_-84.576847@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047494,
+    "wof:geomhash":"5eaa1ec978b03f5654e52e981a0e52cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840766607
+        }
+    ],
+    "wof:id":840766607,
+    "wof:lastmodified":1464047494,
+    "wof:name":"Cash Express",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -84.576847,
+    37.870747,
+    -84.576847,
+    37.870747
+],
+  "geometry": {"coordinates":[-84.576847,37.870747],"type":"Point"}
+}

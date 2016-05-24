@@ -1,0 +1,71 @@
+{
+  "id": 840899845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425193,36.950377,-86.425193,36.950377",
+    "geom:latitude":36.950377,
+    "geom:longitude":-86.425193,
+    "iso:country":"US",
+    "sg:address":"2625 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8225",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tsL0ZAWgsX8F4ceAcuzXT_36.950377_-86.425193@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050487,
+    "wof:geomhash":"994c71a61d345f3221bf1a1009a4840d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840899845
+        }
+    ],
+    "wof:id":840899845,
+    "wof:lastmodified":1464050487,
+    "wof:name":"Lifeway Christian Stores",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.425193,
+    36.950377,
+    -86.425193,
+    36.950377
+],
+  "geometry": {"coordinates":[-86.42519299999999,36.950377],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856738113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.469652,38.325172,-85.469652,38.325172",
+    "geom:latitude":38.325172,
+    "geom:longitude":-85.469652,
+    "iso:country":"US",
+    "sg:address":"6545 W Highway 22",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 243 3223",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical",
+        "alarm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14eDgH5GvsjugsuFY2XtK7_38.325172_-85.469652@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053308,
+    "wof:geomhash":"127151417e0c154891185389251a5693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856738113
+        }
+    ],
+    "wof:id":856738113,
+    "wof:lastmodified":1464053308,
+    "wof:name":"Emergency Medical Sentry-Plus",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "alarm"
+    ]
+},
+  "bbox": [
+    -85.469652,
+    38.325172,
+    -85.469652,
+    38.325172
+],
+  "geometry": {"coordinates":[-85.469652,38.325172],"type":"Point"}
+}

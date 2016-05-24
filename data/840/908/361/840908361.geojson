@@ -1,0 +1,73 @@
+{
+  "id": 840908361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.517445,36.948255,-86.517445,36.948255",
+    "geom:latitude":36.948255,
+    "geom:longitude":-86.517445,
+    "iso:country":"US",
+    "sg:address":"5521 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 991 7300",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lSsW4V90H4Zd8zi3Ewb3x_36.948255_-86.517445@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050673,
+    "wof:geomhash":"09b10944e3baf06c23ebfcb7fceb8b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840908361
+        }
+    ],
+    "wof:id":840908361,
+    "wof:lastmodified":1464050673,
+    "wof:name":"Russellville Rd Self Storage",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.517445,
+    36.948255,
+    -86.517445,
+    36.948255
+],
+  "geometry": {"coordinates":[-86.517445,36.948255],"type":"Point"}
+}

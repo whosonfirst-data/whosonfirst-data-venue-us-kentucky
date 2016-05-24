@@ -1,0 +1,68 @@
+{
+  "id": 840840575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.554415,39.046589,-84.554415,39.046589",
+    "geom:latitude":39.046589,
+    "geom:longitude":-84.554415,
+    "iso:country":"US",
+    "sg:address":"50 Beechwood Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 3250",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AGVKn0qUnWVGMRPv919aV_39.046589_-84.554415@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049230,
+    "wof:geomhash":"875be8b4e051af35fcf8ee2ecd83f1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840840575
+        }
+    ],
+    "wof:id":840840575,
+    "wof:lastmodified":1464049230,
+    "wof:name":"Beechwood Board Of Education",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.554415,
+    39.046589,
+    -84.554415,
+    39.046589
+],
+  "geometry": {"coordinates":[-84.55441500000001,39.046589],"type":"Point"}
+}

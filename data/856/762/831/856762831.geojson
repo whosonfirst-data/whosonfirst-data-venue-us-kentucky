@@ -1,0 +1,76 @@
+{
+  "id": 856762831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.854218,37.689079,-85.854218,37.689079",
+    "geom:latitude":37.689079,
+    "geom:longitude":-85.854218,
+    "iso:country":"US",
+    "sg:address":"417 E Dixie Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4806",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tVC3qNE1VAtj6ZwRHNGSr_37.689079_-85.854218@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054229,
+    "wof:geomhash":"77b072051655cc12be561310674fc467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856762831
+        }
+    ],
+    "wof:id":856762831,
+    "wof:lastmodified":1464054229,
+    "wof:name":"Dolly Madison Cakes",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -85.854218,
+    37.689079,
+    -85.854218,
+    37.689079
+],
+  "geometry": {"coordinates":[-85.854218,37.689079],"type":"Point"}
+}

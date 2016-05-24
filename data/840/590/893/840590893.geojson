@@ -1,0 +1,73 @@
+{
+  "id": 840590893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.327792,37.56253,-84.327792,37.56253",
+    "geom:latitude":37.56253,
+    "geom:longitude":-84.327792,
+    "iso:country":"US",
+    "sg:address":"116 Linda Ln",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 4408",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dm9u2vgCkAk9QpjrgkMeM_37.562530_-84.327792@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043441,
+    "wof:geomhash":"a41bb56afc4200a2d368b2c44fa5ebbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840590893
+        }
+    ],
+    "wof:id":840590893,
+    "wof:lastmodified":1464043441,
+    "wof:name":"Quality Tooling",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.327792,
+    37.56253,
+    -84.327792,
+    37.56253
+],
+  "geometry": {"coordinates":[-84.327792,37.56253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840533107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.252455,37.609804,-84.252455,37.609804",
+    "geom:latitude":37.609804,
+    "geom:longitude":-84.252455,
+    "iso:country":"US",
+    "sg:address":"1195 Barker Ln S",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 0200",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AoYsOfVaCGMtnXPfXHDrO_37.609804_-84.252455@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042051,
+    "wof:geomhash":"192b9d51441d4eea5a419e76a291e785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840533107
+        }
+    ],
+    "wof:id":840533107,
+    "wof:lastmodified":1464042051,
+    "wof:name":"S & S Custom Machining",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.252455,
+    37.609804,
+    -84.252455,
+    37.609804
+],
+  "geometry": {"coordinates":[-84.252455,37.609804],"type":"Point"}
+}

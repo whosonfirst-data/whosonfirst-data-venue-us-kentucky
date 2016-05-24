@@ -1,0 +1,67 @@
+{
+  "id": 840863111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602292,37.095852,-84.602292,37.095852",
+    "geom:latitude":37.095852,
+    "geom:longitude":-84.602292,
+    "iso:country":"US",
+    "sg:address":"305 College St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4451",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:website":"www.somerset.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e7rdxaSNkk24Z6kITkpmK_37.095852_-84.602292@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049718,
+    "wof:geomhash":"175bc2c0a494db554beabee12e4f9995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840863111
+        }
+    ],
+    "wof:id":840863111,
+    "wof:lastmodified":1464049718,
+    "wof:name":"Somerset Superintendents Ofc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.602292,
+    37.095852,
+    -84.602292,
+    37.095852
+],
+  "geometry": {"coordinates":[-84.60229200000001,37.095852],"type":"Point"}
+}

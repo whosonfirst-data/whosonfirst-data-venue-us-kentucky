@@ -1,0 +1,89 @@
+{
+  "id": 856752877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570364,37.881811,-84.570364,37.881811",
+    "geom:latitude":37.881811,
+    "geom:longitude":-84.570364,
+    "iso:country":"US",
+    "sg:address":"212 E Oak St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 6504",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "tire",
+        "automobile",
+        "servicing-automotive",
+        "part",
+        "brake",
+        "axle",
+        "alignment-frame"
+    ],
+    "sg:website":"http://www.standardtireofnicholasville.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DwXJMceyfN3oNG2FxEsn2_37.881811_-84.570364@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053864,
+    "wof:geomhash":"75b8477891fccf694fafb41128705135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752877
+        }
+    ],
+    "wof:id":856752877,
+    "wof:lastmodified":1464053864,
+    "wof:name":"Beckley's Standard Tire Of Nicholasville",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tire",
+        "automobile",
+        "servicing-automotive",
+        "part",
+        "brake",
+        "axle",
+        "alignment-frame"
+    ]
+},
+  "bbox": [
+    -84.570364,
+    37.881811,
+    -84.570364,
+    37.881811
+],
+  "geometry": {"coordinates":[-84.570364,37.881811],"type":"Point"}
+}

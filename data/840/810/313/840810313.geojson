@@ -1,0 +1,71 @@
+{
+  "id": 840810313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.155206,37.513822,-82.155206,37.513822",
+    "geom:latitude":37.513822,
+    "geom:longitude":-82.155206,
+    "iso:country":"US",
+    "sg:address":"40 Wolford St",
+    "sg:city":"Phelps",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 3926",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PpOZnNiG6hqOXBNKjPwQg_37.513822_-82.155206@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048433,
+    "wof:geomhash":"4c1503dcc59417a97b71d241d1f53bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840810313
+        }
+    ],
+    "wof:id":840810313,
+    "wof:lastmodified":1464048433,
+    "wof:name":"Phelps Funeral Svc",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -82.155206,
+    37.513822,
+    -82.155206,
+    37.513822
+],
+  "geometry": {"coordinates":[-82.15520600000001,37.513822],"type":"Point"}
+}

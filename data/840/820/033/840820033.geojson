@@ -1,0 +1,73 @@
+{
+  "id": 840820033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.729968,36.606083,-83.729968,36.606083",
+    "geom:latitude":36.606083,
+    "geom:longitude":-83.729968,
+    "iso:country":"US",
+    "sg:address":"3004 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 4162",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78d1R5O8J5UyuEfwtRMWa6_36.606083_-83.729968@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048758,
+    "wof:geomhash":"d3a0ced7a17a748de1ed2ec32a67c8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840820033
+        }
+    ],
+    "wof:id":840820033,
+    "wof:lastmodified":1464048758,
+    "wof:name":"Neil G Barry III MD",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.729968,
+    36.606083,
+    -83.729968,
+    36.606083
+],
+  "geometry": {"coordinates":[-83.729968,36.606083],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840690011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.417744,36.898787,-86.417744,36.898787",
+    "geom:latitude":36.898787,
+    "geom:longitude":-86.417744,
+    "iso:country":"US",
+    "sg:address":"1908 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9068",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70NNM4pHSNJGdHO52LhlbY_36.898787_-86.417744@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045813,
+    "wof:geomhash":"c3255ed1ad3e57e3a1f05d571b8483a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840690011
+        }
+    ],
+    "wof:id":840690011,
+    "wof:lastmodified":1464045813,
+    "wof:name":"Nice Garage Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.417744,
+    36.898787,
+    -86.417744,
+    36.898787
+],
+  "geometry": {"coordinates":[-86.417744,36.898787],"type":"Point"}
+}

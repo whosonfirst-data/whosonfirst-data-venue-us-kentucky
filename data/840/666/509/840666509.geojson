@@ -1,0 +1,73 @@
+{
+  "id": 840666509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850158,37.683118,-85.850158,37.683118",
+    "geom:latitude":37.683118,
+    "geom:longitude":-85.850158,
+    "iso:country":"US",
+    "sg:address":"528 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 2224",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W6n0fEkEHtb0qjCCSJsvr_37.683118_-85.850158@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045245,
+    "wof:geomhash":"bd9027cd494a31403582b595e046e96b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840666509
+        }
+    ],
+    "wof:id":840666509,
+    "wof:lastmodified":1464045245,
+    "wof:name":"Heartland Driving School",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -85.850158,
+    37.683118,
+    -85.850158,
+    37.683118
+],
+  "geometry": {"coordinates":[-85.85015799999999,37.683118],"type":"Point"}
+}

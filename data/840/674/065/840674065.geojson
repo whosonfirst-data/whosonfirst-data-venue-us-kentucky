@@ -1,0 +1,73 @@
+{
+  "id": 840674065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528817,39.038855,-84.528817,39.038855",
+    "geom:latitude":39.038855,
+    "geom:longitude":-84.528817,
+    "iso:country":"US",
+    "sg:address":"3288 Madison Pike",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 261 8666",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4shbTNRn4fTglQTlhR3625_39.038855_-84.528817@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045420,
+    "wof:geomhash":"2dd44ee538eb20524eed08dce628160a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840674065
+        }
+    ],
+    "wof:id":840674065,
+    "wof:lastmodified":1464045420,
+    "wof:name":"Complete Auto Care",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.528817,
+    39.038855,
+    -84.528817,
+    39.038855
+],
+  "geometry": {"coordinates":[-84.528817,39.038855],"type":"Point"}
+}

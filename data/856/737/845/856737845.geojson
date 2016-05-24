@@ -1,0 +1,76 @@
+{
+  "id": 856737845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.668795,37.033924,-88.668795,37.033924",
+    "geom:latitude":37.033924,
+    "geom:longitude":-88.668795,
+    "iso:country":"US",
+    "sg:address":"3240 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/66150-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 0080",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FC248v3oxLd9CEdRinJ9Y_37.034285_-88.668408@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053297,
+    "wof:geomhash":"eb80677136e66b30bf7af54a0bec0b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856737845
+        }
+    ],
+    "wof:id":856737845,
+    "wof:lastmodified":1464053297,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.668795,
+    37.033924,
+    -88.668795,
+    37.033924
+],
+  "geometry": {"coordinates":[-88.668795,37.033924],"type":"Point"}
+}

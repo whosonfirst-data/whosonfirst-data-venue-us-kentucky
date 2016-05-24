@@ -1,0 +1,71 @@
+{
+  "id": 840733107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.542668,36.972682,-86.542668,36.972682",
+    "geom:latitude":36.972682,
+    "geom:longitude":-86.542668,
+    "iso:country":"US",
+    "sg:address":"266 Blue Level Providence Rd",
+    "sg:city":"Rockfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3560",
+    "sg:postcode":"42274",
+    "sg:province":"KY",
+    "sg:tags":[
+        "doll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nQI1PIFy3J8cyNW5S5muI_36.972682_-86.542668@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046766,
+    "wof:geomhash":"aaa492ab25d14f3328b3a2983f8878b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840733107
+        }
+    ],
+    "wof:id":840733107,
+    "wof:lastmodified":1464046766,
+    "wof:name":"Essie's Doll Hospital",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doll"
+    ]
+},
+  "bbox": [
+    -86.542668,
+    36.972682,
+    -86.542668,
+    36.972682
+],
+  "geometry": {"coordinates":[-86.54266800000001,36.972682],"type":"Point"}
+}

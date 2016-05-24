@@ -1,0 +1,73 @@
+{
+  "id": 840622227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.909615,37.721795,-85.909615,37.721795",
+    "geom:latitude":37.721795,
+    "geom:longitude":-85.909615,
+    "iso:country":"US",
+    "sg:address":"2141 Rineyville Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5529",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hxN9YDB0EfJc1r53On3UL_37.721795_-85.909615@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044216,
+    "wof:geomhash":"c2af27895912c048badeb463530d2504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840622227
+        }
+    ],
+    "wof:id":840622227,
+    "wof:lastmodified":1464044216,
+    "wof:name":"Wright's Wood Finishing Repair",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -85.909615,
+    37.721795,
+    -85.909615,
+    37.721795
+],
+  "geometry": {"coordinates":[-85.909615,37.721795],"type":"Point"}
+}

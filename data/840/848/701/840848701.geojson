@@ -1,0 +1,71 @@
+{
+  "id": 840848701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.73482,37.932475,-85.73482,37.932475",
+    "geom:latitude":37.932475,
+    "geom:longitude":-85.73482,
+    "iso:country":"US",
+    "sg:address":"570 Tracy Lynn Ln",
+    "sg:city":"Lebanon Junction",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 1628",
+    "sg:postcode":"40150",
+    "sg:province":"KY",
+    "sg:tags":[
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gBPlAyqHIEtbMBvPmjyiW_37.932475_-85.734820@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049412,
+    "wof:geomhash":"10d09bb65084c20569b806af1151e03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840848701
+        }
+    ],
+    "wof:id":840848701,
+    "wof:lastmodified":1464049412,
+    "wof:name":"Suburban Transportation Svc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -85.73482,
+    37.932475,
+    -85.73482,
+    37.932475
+],
+  "geometry": {"coordinates":[-85.73482,37.932475],"type":"Point"}
+}

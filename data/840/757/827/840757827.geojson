@@ -1,0 +1,72 @@
+{
+  "id": 840757827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443032,36.992989,-86.443032,36.992989",
+    "geom:latitude":36.992989,
+    "geom:longitude":-86.443032,
+    "iso:country":"US",
+    "sg:address":"1001 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 3000",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.bgky.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50ECXISFP92Zd7UzS4Nd1y_36.992989_-86.443032@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047282,
+    "wof:geomhash":"6e71ec212d3f20f4edfc1d885f7916b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840757827
+        }
+    ],
+    "wof:id":840757827,
+    "wof:lastmodified":1464047282,
+    "wof:name":"Bowling Green City Clerk",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -86.443032,
+    36.992989,
+    -86.443032,
+    36.992989
+],
+  "geometry": {"coordinates":[-86.443032,36.992989],"type":"Point"}
+}

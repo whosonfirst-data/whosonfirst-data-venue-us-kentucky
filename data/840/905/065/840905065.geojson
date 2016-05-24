@@ -1,0 +1,73 @@
+{
+  "id": 840905065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.589271,37.838197,-87.589271,37.838197",
+    "geom:latitude":37.838197,
+    "geom:longitude":-87.589271,
+    "iso:country":"US",
+    "sg:address":"2 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 830 7180",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lrCqJkdb4jV0l4CtrxM1d_37.838197_-87.589271@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050595,
+    "wof:geomhash":"4471f9b9301e47099543ac4f56f36679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840905065
+        }
+    ],
+    "wof:id":840905065,
+    "wof:lastmodified":1464050595,
+    "wof:name":"Cashland",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -87.589271,
+    37.838197,
+    -87.589271,
+    37.838197
+],
+  "geometry": {"coordinates":[-87.589271,37.838197],"type":"Point"}
+}

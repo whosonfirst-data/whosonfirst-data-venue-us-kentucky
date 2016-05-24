@@ -1,0 +1,85 @@
+{
+  "id": 856744323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.728354,38.19273,-85.728354,38.19273",
+    "geom:latitude":38.19273,
+    "geom:longitude":-85.728354,
+    "iso:country":"US",
+    "sg:address":"4104 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 0405",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.diamondautoglass.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OkvYLtYC4RES1cMw6ahuR_38.192730_-85.728354@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053540,
+    "wof:geomhash":"e6dd5f978912d730cb578f3b1285ffad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744323
+        }
+    ],
+    "wof:id":856744323,
+    "wof:lastmodified":1464053540,
+    "wof:name":"Triumph Auto Glass",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -85.728354,
+    38.19273,
+    -85.728354,
+    38.19273
+],
+  "geometry": {"coordinates":[-85.728354,38.19273],"type":"Point"}
+}

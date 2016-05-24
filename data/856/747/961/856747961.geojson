@@ -1,0 +1,75 @@
+{
+  "id": 856747961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613957,38.279847,-85.613957,38.279847",
+    "geom:latitude":38.279847,
+    "geom:longitude":-85.613957,
+    "iso:country":"US",
+    "sg:address":"1904 Hollen Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 609 1539",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m0AXvbnWQOggETA7WIk6D_38.279847_-85.613957@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053675,
+    "wof:geomhash":"d767ef23c9a8ad6572f98c1611173dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856747961
+        }
+    ],
+    "wof:id":856747961,
+    "wof:lastmodified":1464053675,
+    "wof:name":"Bill's Travel Agency",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -85.613957,
+    38.279847,
+    -85.613957,
+    38.279847
+],
+  "geometry": {"coordinates":[-85.613957,38.279847],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856703623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.733126,37.769764,-85.733126,37.769764",
+    "geom:latitude":37.769764,
+    "geom:longitude":-85.733126,
+    "iso:country":"US",
+    "sg:address":"1440 Lower Colesburg Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4983",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jVMF8Hhily8DpRfRHScU6_37.769764_-85.733126@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052142,
+    "wof:geomhash":"926160ee14ff802a368c3f7c24520ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856703623
+        }
+    ],
+    "wof:id":856703623,
+    "wof:lastmodified":1464052142,
+    "wof:name":"Goodman Enterprises & Tank",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.733126,
+    37.769764,
+    -85.733126,
+    37.769764
+],
+  "geometry": {"coordinates":[-85.733126,37.769764],"type":"Point"}
+}

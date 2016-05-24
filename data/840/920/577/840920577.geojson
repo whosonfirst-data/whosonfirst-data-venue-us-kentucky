@@ -1,0 +1,73 @@
+{
+  "id": 840920577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.732055,38.244243,-85.732055,38.244243",
+    "geom:latitude":38.244243,
+    "geom:longitude":-85.732055,
+    "iso:country":"US",
+    "sg:address":"1161 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 561 0952",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YjyX3D3iqR0Q4fITVf6DF_38.244243_-85.732055@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051006,
+    "wof:geomhash":"b02fdbcd80cdf668aab2081013288718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":840920577
+        }
+    ],
+    "wof:id":840920577,
+    "wof:lastmodified":1464051006,
+    "wof:name":"Psychological Services Ctr",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -85.732055,
+    38.244243,
+    -85.732055,
+    38.244243
+],
+  "geometry": {"coordinates":[-85.732055,38.244243],"type":"Point"}
+}

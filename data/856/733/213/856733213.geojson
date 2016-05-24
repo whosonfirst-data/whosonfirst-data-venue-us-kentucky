@@ -1,0 +1,92 @@
+{
+  "id": 856733213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661673,38.199969,-85.661673,38.199969",
+    "geom:latitude":38.199969,
+    "geom:longitude":-85.661673,
+    "iso:country":"US",
+    "sg:address":"3623 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/33634-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 301 8888",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GKcePLzAdBZkrHAKBWpNo_38.199969_-85.661673@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053117,
+    "wof:geomhash":"669fbd356df678916981138363fb82d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856733213
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856733213
+        }
+    ],
+    "wof:id":856733213,
+    "wof:lastmodified":1464053117,
+    "wof:name":"Chili's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.661673,
+    38.199969,
+    -85.661673,
+    38.199969
+],
+  "geometry": {"coordinates":[-85.66167299999999,38.199969],"type":"Point"}
+}

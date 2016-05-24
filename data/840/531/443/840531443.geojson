@@ -1,0 +1,75 @@
+{
+  "id": 840531443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.89141,37.178087,-85.89141,37.178087",
+    "geom:latitude":37.178087,
+    "geom:longitude":-85.89141,
+    "iso:country":"US",
+    "sg:address":"1145 E Main St",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 1145",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f2wA9euCXy3xR1mge7bvL_37.178087_-85.891410@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042000,
+    "wof:geomhash":"e5aa410453afb84ca6f2b1394e8716f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840531443
+        }
+    ],
+    "wof:id":840531443,
+    "wof:lastmodified":1464042000,
+    "wof:name":"Jones Collision Repair Ctr",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.89141,
+    37.178087,
+    -85.89141,
+    37.178087
+],
+  "geometry": {"coordinates":[-85.89140999999999,37.178087],"type":"Point"}
+}

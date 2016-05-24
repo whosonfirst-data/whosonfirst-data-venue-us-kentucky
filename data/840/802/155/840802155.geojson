@@ -1,0 +1,71 @@
+{
+  "id": 840802155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564145,37.903086,-84.564145,37.903086",
+    "geom:latitude":37.903086,
+    "geom:longitude":-84.564145,
+    "iso:country":"US",
+    "sg:address":"1067 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 1517",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_245GLuqlNhYTHDqjaEb7Ge_37.903086_-84.564145@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048248,
+    "wof:geomhash":"f13838556a2d161e4b8ea6e21069b540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840802155
+        }
+    ],
+    "wof:id":840802155,
+    "wof:lastmodified":1464048248,
+    "wof:name":"First Choice Builders",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -84.564145,
+    37.903086,
+    -84.564145,
+    37.903086
+],
+  "geometry": {"coordinates":[-84.564145,37.903086],"type":"Point"}
+}

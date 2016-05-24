@@ -1,0 +1,73 @@
+{
+  "id": 840889713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.553128,38.209077,-85.553128,38.209077",
+    "geom:latitude":38.209077,
+    "geom:longitude":-85.553128,
+    "iso:country":"US",
+    "sg:address":"10920 Plantside Dr",
+    "sg:city":"Jeffersontown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 9673",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08LiVQN42KUvDOWABcbNY4_38.209077_-85.553128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050276,
+    "wof:geomhash":"26c9b8fb2cdb99785536f9fc0e0dd746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840889713
+        }
+    ],
+    "wof:id":840889713,
+    "wof:lastmodified":1464050276,
+    "wof:name":"Mediq PRN",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -85.553128,
+    38.209077,
+    -85.553128,
+    38.209077
+],
+  "geometry": {"coordinates":[-85.553128,38.209077],"type":"Point"}
+}

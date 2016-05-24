@@ -1,0 +1,69 @@
+{
+  "id": 840642553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.83054,37.121065,-84.83054,37.121065",
+    "geom:latitude":37.121065,
+    "geom:longitude":-84.83054,
+    "iso:country":"US",
+    "sg:address":"794 Hickory Nut Rd",
+    "sg:city":"Nancy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 871 7883",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73aSiX7C4uQEzCIK8zeO2X_37.121065_-84.830540@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044731,
+    "wof:geomhash":"cb4552e2bdb59d374b8c4d0ef691c5e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840642553
+        }
+    ],
+    "wof:id":840642553,
+    "wof:lastmodified":1464044731,
+    "wof:name":"Tarters Tractor Repair",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor"
+    ]
+},
+  "bbox": [
+    -84.83054,
+    37.121065,
+    -84.83054,
+    37.121065
+],
+  "geometry": {"coordinates":[-84.83054,37.121065],"type":"Point"}
+}

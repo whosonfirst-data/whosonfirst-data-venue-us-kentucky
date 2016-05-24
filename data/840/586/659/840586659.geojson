@@ -1,0 +1,73 @@
+{
+  "id": 840586659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436265,36.983769,-86.436265,36.983769",
+    "geom:latitude":36.983769,
+    "geom:longitude":-86.436265,
+    "iso:country":"US",
+    "sg:address":"1042 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0637",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cyiyojsrxMCrR8s4sQqQw_36.983769_-86.436265@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043351,
+    "wof:geomhash":"baf50bcb80dd716213401147729b5ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840586659
+        }
+    ],
+    "wof:id":840586659,
+    "wof:lastmodified":1464043351,
+    "wof:name":"Jerry Smith DVM",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -86.436265,
+    36.983769,
+    -86.436265,
+    36.983769
+],
+  "geometry": {"coordinates":[-86.43626500000001,36.983769],"type":"Point"}
+}

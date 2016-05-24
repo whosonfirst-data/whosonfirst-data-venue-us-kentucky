@@ -1,0 +1,79 @@
+{
+  "id": 856751849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.542374,38.225239,-85.542374,38.225239",
+    "geom:latitude":38.225239,
+    "geom:longitude":-85.542374,
+    "iso:country":"US",
+    "sg:address":"11701 Gateworth Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 8095",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "scooters-repairing"
+    ],
+    "sg:website":"http://www.bluegrassharleydavidson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54wKPSH1RjUFmOjjqp600x_38.225239_-85.542374@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053828,
+    "wof:geomhash":"f33bd6b977425c135d9c497f1e8867ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856751849
+        }
+    ],
+    "wof:id":856751849,
+    "wof:lastmodified":1464053828,
+    "wof:name":"Bluegrass Harley-Davidson",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing"
+    ]
+},
+  "bbox": [
+    -85.542374,
+    38.225239,
+    -85.542374,
+    38.225239
+],
+  "geometry": {"coordinates":[-85.542374,38.225239],"type":"Point"}
+}

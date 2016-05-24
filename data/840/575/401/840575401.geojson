@@ -1,0 +1,75 @@
+{
+  "id": 840575401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75261,38.240128,-85.75261,38.240128",
+    "geom:latitude":38.240128,
+    "geom:longitude":-85.75261,
+    "iso:country":"US",
+    "sg:address":"911 S Brook St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 540 1482",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YzPZbGztFLbMimD7JmLth_38.240128_-85.752610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043112,
+    "wof:geomhash":"f38660f7eac641660f16d40220643ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873403,
+            "region_id":85688641,
+            "venue_id":840575401
+        }
+    ],
+    "wof:id":840575401,
+    "wof:lastmodified":1464043112,
+    "wof:name":"Kentuckiana Nursing Svc",
+    "wof:parent_id":85873403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -85.75261,
+    38.240128,
+    -85.75261,
+    38.240128
+],
+  "geometry": {"coordinates":[-85.75261,38.240128],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840715349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.274849,37.588013,-84.274849,37.588013",
+    "geom:latitude":37.588013,
+    "geom:longitude":-84.274849,
+    "iso:country":"US",
+    "sg:address":"203 Wilson St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 2483",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xPG4tRHFckHE8twaLYfyW_37.588013_-84.274849@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046409,
+    "wof:geomhash":"b25f4cf0e649806872b3569acc81baef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840715349
+        }
+    ],
+    "wof:id":840715349,
+    "wof:lastmodified":1464046409,
+    "wof:name":"May Construction",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -84.274849,
+    37.588013,
+    -84.274849,
+    37.588013
+],
+  "geometry": {"coordinates":[-84.274849,37.588013],"type":"Point"}
+}

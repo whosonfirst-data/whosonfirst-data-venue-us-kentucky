@@ -1,0 +1,67 @@
+{
+  "id": 856762763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86904,37.703784,-85.86904,37.703784",
+    "geom:latitude":37.703784,
+    "geom:longitude":-85.86904,
+    "iso:country":"US",
+    "sg:address":"611 W Poplar St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2383",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"http://www.save-a-lot.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_001jSKwT1ip3loxLcrzltn_37.703784_-85.869040@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054227,
+    "wof:geomhash":"aef0ccb9abeb51cf8aa0750b9ba5d886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762763
+        }
+    ],
+    "wof:id":856762763,
+    "wof:lastmodified":1464054227,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86904,
+    37.703784,
+    -85.86904,
+    37.703784
+],
+  "geometry": {"coordinates":[-85.86904,37.703784],"type":"Point"}
+}

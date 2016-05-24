@@ -1,0 +1,103 @@
+{
+  "id": 856744951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.793206,38.12961,-85.793206,38.12961",
+    "geom:latitude":38.12961,
+    "geom:longitude":-85.793206,
+    "iso:country":"US",
+    "sg:address":"7919 3rd Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Coast Guard Base",
+            "type":"Public Place"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 5664",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "valve",
+        "system",
+        "meter",
+        "regulator",
+        "pump",
+        "controls",
+        "pumps-service"
+    ],
+    "sg:website":"http://www.donjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_368t46AQHFzw3GmpTBjn0o_38.129610_-85.793206@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053562,
+    "wof:geomhash":"8d3c1f6600aafedb82d36afb68019dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744951
+        }
+    ],
+    "wof:id":856744951,
+    "wof:lastmodified":1464053562,
+    "wof:name":"Don Johns Inc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "valve",
+        "system",
+        "meter",
+        "regulator",
+        "pump",
+        "controls",
+        "pumps-service"
+    ]
+},
+  "bbox": [
+    -85.793206,
+    38.12961,
+    -85.793206,
+    38.12961
+],
+  "geometry": {"coordinates":[-85.793206,38.12961],"type":"Point"}
+}

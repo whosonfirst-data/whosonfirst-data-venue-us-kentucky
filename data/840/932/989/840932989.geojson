@@ -1,0 +1,71 @@
+{
+  "id": 840932989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.179436,37.620236,-84.179436,37.620236",
+    "geom:latitude":37.620236,
+    "geom:longitude":-84.179436,
+    "iso:country":"US",
+    "sg:address":"2101 Dreyfus Rd",
+    "sg:city":"Waco",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 1711",
+    "sg:postcode":"40385",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gI6UUnjei7jYfMmf8QCBY_37.620236_-84.179436@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051306,
+    "wof:geomhash":"ab73d3878e5c958ba519844e97035fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840932989
+        }
+    ],
+    "wof:id":840932989,
+    "wof:lastmodified":1464051306,
+    "wof:name":"Bethlehem Baptist Church",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.179436,
+    37.620236,
+    -84.179436,
+    37.620236
+],
+  "geometry": {"coordinates":[-84.179436,37.620236],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856736363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.472807,36.955437,-86.472807,36.955437",
+    "geom:latitude":36.955437,
+    "geom:longitude":-86.472807,
+    "iso:country":"US",
+    "sg:address":"2710 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/120456-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0019",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AAjgSWzEOm1KrPdHxSFBd_36.955437_-86.472807@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"a500c45402ba5e8202b6d19449940562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":856736363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":856736363
+        }
+    ],
+    "wof:id":856736363,
+    "wof:lastmodified":1464053236,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.472807,
+    36.955437,
+    -86.472807,
+    36.955437
+],
+  "geometry": {"coordinates":[-86.472807,36.955437],"type":"Point"}
+}

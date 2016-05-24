@@ -1,0 +1,68 @@
+{
+  "id": 840815481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.802301,38.154962,-85.802301,38.154962",
+    "geom:latitude":38.154962,
+    "geom:longitude":-85.802301,
+    "iso:country":"US",
+    "sg:address":"7311 Saint Andrews Church Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 7636",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OuSRGW6nEtwZmQQ7Gr0vk_38.154962_-85.802301@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048627,
+    "wof:geomhash":"4739fd33d533fbc35dd69055d837123a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840815481
+        }
+    ],
+    "wof:id":840815481,
+    "wof:lastmodified":1464048627,
+    "wof:name":"Iroquois Florist",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.802301,
+    38.154962,
+    -85.802301,
+    38.154962
+],
+  "geometry": {"coordinates":[-85.802301,38.154962],"type":"Point"}
+}

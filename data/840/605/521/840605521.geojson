@@ -1,0 +1,73 @@
+{
+  "id": 840605521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.843438,38.914774,-84.843438,38.914774",
+    "geom:latitude":38.914774,
+    "geom:longitude":-84.843438,
+    "iso:country":"US",
+    "sg:address":"6293 Beaver Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 534 5295",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ywnJu52veck86MvKEdlVH_38.914774_-84.843438@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043788,
+    "wof:geomhash":"ace6129113566c7d9f661fbba54c9924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840605521
+        }
+    ],
+    "wof:id":840605521,
+    "wof:lastmodified":1464043788,
+    "wof:name":"Glenwood Electric Inc",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.843438,
+    38.914774,
+    -84.843438,
+    38.914774
+],
+  "geometry": {"coordinates":[-84.84343800000001,38.914774],"type":"Point"}
+}

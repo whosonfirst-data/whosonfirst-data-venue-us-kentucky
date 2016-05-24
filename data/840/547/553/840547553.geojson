@@ -1,0 +1,71 @@
+{
+  "id": 840547553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857068,37.694203,-85.857068,37.694203",
+    "geom:latitude":37.694203,
+    "geom:longitude":-85.857068,
+    "iso:country":"US",
+    "sg:address":"122 N Main St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2804",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BRqZ5YqDUjZHEjDfmMfjL_37.694203_-85.857068@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042446,
+    "wof:geomhash":"a068d6e766836fe8c9831851a60f7a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840547553
+        }
+    ],
+    "wof:id":840547553,
+    "wof:lastmodified":1464042446,
+    "wof:name":"Robert L Lippman PHD",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -85.857068,
+    37.694203,
+    -85.857068,
+    37.694203
+],
+  "geometry": {"coordinates":[-85.857068,37.694203],"type":"Point"}
+}

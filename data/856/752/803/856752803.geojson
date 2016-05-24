@@ -1,0 +1,75 @@
+{
+  "id": 856752803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.585118,37.866333,-84.585118,37.866333",
+    "geom:latitude":37.866333,
+    "geom:longitude":-84.585118,
+    "iso:country":"US",
+    "sg:address":"218 Williamsburg Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 5471",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uHlzqH4R9rfG6FVFowvoz_37.866333_-84.585118@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053862,
+    "wof:geomhash":"3a364660dc77868209f7f36c28414fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752803
+        }
+    ],
+    "wof:id":856752803,
+    "wof:lastmodified":1464053862,
+    "wof:name":"Shade Tree Small Engine Repair",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -84.585118,
+    37.866333,
+    -84.585118,
+    37.866333
+],
+  "geometry": {"coordinates":[-84.58511799999999,37.866333],"type":"Point"}
+}

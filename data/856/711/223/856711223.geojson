@@ -1,0 +1,75 @@
+{
+  "id": 856711223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.167747,37.617668,-82.167747,37.617668",
+    "geom:latitude":37.617668,
+    "geom:longitude":-82.167747,
+    "iso:country":"US",
+    "sg:address":"185 Radio Station Hill",
+    "sg:city":"Mc Carr",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 427 7214",
+    "sg:postcode":"41544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LKyRQI5F3uilqps44xrRU_37.617668_-82.167747@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052290,
+    "wof:geomhash":"7c82ef5beba952c445f8f08abeb3d3ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856711223
+        }
+    ],
+    "wof:id":856711223,
+    "wof:lastmodified":1464052290,
+    "wof:name":"Tony's Body Shop",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.167747,
+    37.617668,
+    -82.167747,
+    37.617668
+],
+  "geometry": {"coordinates":[-82.16774700000001,37.617668],"type":"Point"}
+}

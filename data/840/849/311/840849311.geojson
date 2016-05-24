@@ -1,0 +1,71 @@
+{
+  "id": 840849311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443895,36.983791,-86.443895,36.983791",
+    "geom:latitude":36.983791,
+    "geom:longitude":-86.443895,
+    "iso:country":"US",
+    "sg:address":"1367 Indianola St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9673",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wujlq48GMiRwvU3GYocT2_36.983791_-86.443895@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049424,
+    "wof:geomhash":"f59e986024b31bc969ee65c4806cd059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840849311
+        }
+    ],
+    "wof:id":840849311,
+    "wof:lastmodified":1464049424,
+    "wof:name":"Vineyard Workers Church",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.443895,
+    36.983791,
+    -86.443895,
+    36.983791
+],
+  "geometry": {"coordinates":[-86.443895,36.983791],"type":"Point"}
+}

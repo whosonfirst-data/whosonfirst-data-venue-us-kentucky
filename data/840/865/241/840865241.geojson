@@ -1,0 +1,68 @@
+{
+  "id": 840865241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.601527,38.132996,-85.601527,38.132996",
+    "geom:latitude":38.132996,
+    "geom:longitude":-85.601527,
+    "iso:country":"US",
+    "sg:address":"7803 Watering Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 239 6361",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z6IzCueeAHhf7XV0gNvKy_38.132996_-85.601527@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049761,
+    "wof:geomhash":"dc22af6a953acbde18bafc318d9d1c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840865241
+        }
+    ],
+    "wof:id":840865241,
+    "wof:lastmodified":1464049761,
+    "wof:name":"Applegate Enterprise",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.601527,
+    38.132996,
+    -85.601527,
+    38.132996
+],
+  "geometry": {"coordinates":[-85.601527,38.132996],"type":"Point"}
+}

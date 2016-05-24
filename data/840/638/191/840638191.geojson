@@ -1,0 +1,68 @@
+{
+  "id": 840638191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.781685,38.171658,-85.781685,38.171658",
+    "geom:latitude":38.171658,
+    "geom:longitude":-85.781685,
+    "iso:country":"US",
+    "sg:address":"4615 Taylor Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 485 8269",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UyTBEkHctopxpTywmuv4f_38.171658_-85.781685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044641,
+    "wof:geomhash":"5b0f91099fb219a09b7cdfd033fc34a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":840638191
+        }
+    ],
+    "wof:id":840638191,
+    "wof:lastmodified":1464044641,
+    "wof:name":"Iroquois High School",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.781685,
+    38.171658,
+    -85.781685,
+    38.171658
+],
+  "geometry": {"coordinates":[-85.781685,38.171658],"type":"Point"}
+}

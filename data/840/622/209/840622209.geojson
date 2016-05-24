@@ -1,0 +1,85 @@
+{
+  "id": 840622209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680703,38.185474,-85.680703,38.185474",
+    "geom:latitude":38.185474,
+    "geom:longitude":-85.680703,
+    "iso:country":"US",
+    "sg:address":"4281 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 9480",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "range",
+        "oven"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3S9RgZbaXSIOrqt2pmvv_38.185474_-85.680703@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044216,
+    "wof:geomhash":"9b08778031183936e66f0d92458f4dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840622209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840622209
+        }
+    ],
+    "wof:id":840622209,
+    "wof:lastmodified":1464044216,
+    "wof:name":"Universal Appliance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "oven"
+    ]
+},
+  "bbox": [
+    -85.680703,
+    38.185474,
+    -85.680703,
+    38.185474
+],
+  "geometry": {"coordinates":[-85.68070299999999,38.185474],"type":"Point"}
+}

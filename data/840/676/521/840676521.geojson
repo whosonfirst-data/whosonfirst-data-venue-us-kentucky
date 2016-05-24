@@ -1,0 +1,69 @@
+{
+  "id": 840676521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.78243,37.080977,-84.78243,37.080977",
+    "geom:latitude":37.080977,
+    "geom:longitude":-84.78243,
+    "iso:country":"US",
+    "sg:address":"842 Warner Rd",
+    "sg:city":"Nancy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 871 7120",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FQ0ObmeoRKojMjiHFEj8J_37.080977_-84.782430@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045477,
+    "wof:geomhash":"5c598f2be8bc3aafcbb0c469a3011faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840676521
+        }
+    ],
+    "wof:id":840676521,
+    "wof:lastmodified":1464045477,
+    "wof:name":"Adkins & Adkins",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -84.78243,
+    37.080977,
+    -84.78243,
+    37.080977
+],
+  "geometry": {"coordinates":[-84.78243000000001,37.080977],"type":"Point"}
+}

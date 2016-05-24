@@ -1,0 +1,68 @@
+{
+  "id": 840943321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759871,38.247727,-85.759871,38.247727",
+    "geom:latitude":38.247727,
+    "geom:longitude":-85.759871,
+    "iso:country":"US",
+    "sg:address":"612 S 5th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 4054",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kgMhshrpsgEzkp9D2OsJH_38.247727_-85.759871@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051519,
+    "wof:geomhash":"b0009f3194ed1f87caaa7fcbb03b207f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840943321
+        }
+    ],
+    "wof:id":840943321,
+    "wof:lastmodified":1464051519,
+    "wof:name":"Pit Stop Bar-B-Que",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.759871,
+    38.247727,
+    -85.759871,
+    38.247727
+],
+  "geometry": {"coordinates":[-85.759871,38.247727],"type":"Point"}
+}

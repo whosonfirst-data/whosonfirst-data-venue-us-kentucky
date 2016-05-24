@@ -1,0 +1,73 @@
+{
+  "id": 840819125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.559924,38.209492,-84.559924,38.209492",
+    "geom:latitude":38.209492,
+    "geom:longitude":-84.559924,
+    "iso:country":"US",
+    "sg:address":"117 S Broadway St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 5445",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ykWQ4g5SL8vGftF2C1H6Q_38.209492_-84.559924@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048727,
+    "wof:geomhash":"923d93246d616e344494962d4f1fbb06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840819125
+        }
+    ],
+    "wof:id":840819125,
+    "wof:lastmodified":1464048727,
+    "wof:name":"Downtown Coffee Co",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -84.559924,
+    38.209492,
+    -84.559924,
+    38.209492
+],
+  "geometry": {"coordinates":[-84.559924,38.209492],"type":"Point"}
+}

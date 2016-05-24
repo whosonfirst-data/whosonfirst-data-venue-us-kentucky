@@ -1,0 +1,75 @@
+{
+  "id": 840895489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.428036,38.182128,-83.428036,38.182128",
+    "geom:latitude":38.182128,
+    "geom:longitude":-83.428036,
+    "iso:country":"US",
+    "sg:address":"1100 Triplett View Rd",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 784 8578",
+    "sg:postcode":"40351",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946999,
+        102084549,
+        85807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XQn26MWUxjV4ZyH0VFN35_38.182128_-83.428036@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050395,
+    "wof:geomhash":"7ae21deabbc73a77ed7c135e071e794a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084549,
+            "locality_id":85946999,
+            "neighbourhood_id":85807011,
+            "region_id":85688641,
+            "venue_id":840895489
+        }
+    ],
+    "wof:id":840895489,
+    "wof:lastmodified":1464050395,
+    "wof:name":"Morehead Housing Authority",
+    "wof:parent_id":85807011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -83.428036,
+    38.182128,
+    -83.428036,
+    38.182128
+],
+  "geometry": {"coordinates":[-83.42803600000001,38.182128],"type":"Point"}
+}

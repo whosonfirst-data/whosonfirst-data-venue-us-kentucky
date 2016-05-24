@@ -1,0 +1,75 @@
+{
+  "id": 840628903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729071,38.219722,-85.729071,38.219722",
+    "geom:latitude":38.219722,
+    "geom:longitude":-85.729071,
+    "iso:country":"US",
+    "sg:address":"1020 Clarks Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 9100",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85803931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ao9ieMUEyOSMyaFNoKXZ0_38.219722_-85.729071@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044407,
+    "wof:geomhash":"a0ca6cf52f42e3c98501b7721d724fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85803931,
+            "region_id":85688641,
+            "venue_id":840628903
+        }
+    ],
+    "wof:id":840628903,
+    "wof:lastmodified":1464044407,
+    "wof:name":"Parkway Electronics Inc",
+    "wof:parent_id":85803931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -85.729071,
+    38.219722,
+    -85.729071,
+    38.219722
+],
+  "geometry": {"coordinates":[-85.729071,38.219722],"type":"Point"}
+}

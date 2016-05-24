@@ -1,0 +1,71 @@
+{
+  "id": 840909331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.382624,36.982886,-86.382624,36.982886",
+    "geom:latitude":36.982886,
+    "geom:longitude":-86.382624,
+    "iso:country":"US",
+    "sg:address":"360 Cedar Hill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0570",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eRBlcFLHrPdhGwOceQkPT_36.982886_-86.382624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050705,
+    "wof:geomhash":"8c8d46eec00d32282d8586be8d3cb4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840909331
+        }
+    ],
+    "wof:id":840909331,
+    "wof:lastmodified":1464050705,
+    "wof:name":"Century Construction Co",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.382624,
+    36.982886,
+    -86.382624,
+    36.982886
+],
+  "geometry": {"coordinates":[-86.38262400000001,36.982886],"type":"Point"}
+}

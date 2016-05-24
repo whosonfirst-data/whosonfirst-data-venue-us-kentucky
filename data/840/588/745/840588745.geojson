@@ -1,0 +1,73 @@
+{
+  "id": 840588745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850026,37.682828,-85.850026,37.682828",
+    "geom:latitude":37.682828,
+    "geom:longitude":-85.850026,
+    "iso:country":"US",
+    "sg:address":"541 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 8551",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bChhC6kMOlKY03oaPkjfo_37.682828_-85.850026@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043395,
+    "wof:geomhash":"dfb796faf8b77b08a46438e8730ed2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840588745
+        }
+    ],
+    "wof:id":840588745,
+    "wof:lastmodified":1464043395,
+    "wof:name":"Check Advance",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -85.850026,
+    37.682828,
+    -85.850026,
+    37.682828
+],
+  "geometry": {"coordinates":[-85.850026,37.682828],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840617035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659377,38.178775,-85.659377,38.178775",
+    "geom:latitude":38.178775,
+    "geom:longitude":-85.659377,
+    "iso:country":"US",
+    "sg:address":"3701 Newburg Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 6554",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NZ3Nat6AudpjOk8xFQQM8_38.178775_-85.659377@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044093,
+    "wof:geomhash":"acc1922638b6f5fc9891c228e38017b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840617035
+        }
+    ],
+    "wof:id":840617035,
+    "wof:lastmodified":1464044093,
+    "wof:name":"Joel's Auto Elec & Auto Repair",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.659377,
+    38.178775,
+    -85.659377,
+    38.178775
+],
+  "geometry": {"coordinates":[-85.65937700000001,38.178775],"type":"Point"}
+}

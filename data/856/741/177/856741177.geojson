@@ -1,0 +1,87 @@
+{
+  "id": 856741177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724663,38.240743,-85.724663,38.240743",
+    "geom:latitude":38.240743,
+    "geom:longitude":-85.724663,
+    "iso:country":"US",
+    "sg:address":"972 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 625 1815",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gWJ6PWV6nu115KLtAKFQv_38.240743_-85.724663@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053429,
+    "wof:geomhash":"5c6ed562205ae2eb30bcecfb3065783a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856741177
+        }
+    ],
+    "wof:id":856741177,
+    "wof:lastmodified":1464053429,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -85.724663,
+    38.240743,
+    -85.724663,
+    38.240743
+],
+  "geometry": {"coordinates":[-85.72466300000001,38.240743],"type":"Point"}
+}

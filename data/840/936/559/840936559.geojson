@@ -1,0 +1,71 @@
+{
+  "id": 840936559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877856,37.748483,-85.877856,37.748483",
+    "geom:latitude":37.748483,
+    "geom:longitude":-85.877856,
+    "iso:country":"US",
+    "sg:address":"517 Pear Orchard Rd NW",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8170",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DvzsVQRuAdaKIAOhagzuT_37.748483_-85.877856@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051377,
+    "wof:geomhash":"04691cb431d81717cbf407583dbc480e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840936559
+        }
+    ],
+    "wof:id":840936559,
+    "wof:lastmodified":1464051377,
+    "wof:name":"Duncan's Appliances Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -85.877856,
+    37.748483,
+    -85.877856,
+    37.748483
+],
+  "geometry": {"coordinates":[-85.87785599999999,37.748483],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856737407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718857,38.211295,-85.718857,38.211295",
+    "geom:latitude":38.211295,
+    "geom:longitude":-85.718857,
+    "iso:country":"US",
+    "sg:address":"3221 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/161459-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 0690",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IoFXKZS97Gi0YyD0hkRY2_38.211037_-85.718059@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053280,
+    "wof:geomhash":"b9dc0aece803bee8ede5c67d5dd22592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873417,
+            "region_id":85688641,
+            "venue_id":856737407
+        }
+    ],
+    "wof:id":856737407,
+    "wof:lastmodified":1464053280,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85873417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.718857,
+    38.211295,
+    -85.718857,
+    38.211295
+],
+  "geometry": {"coordinates":[-85.718857,38.211295],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840751867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512876,36.89865,-86.512876,36.89865",
+    "geom:latitude":36.89865,
+    "geom:longitude":-86.512876,
+    "iso:country":"US",
+    "sg:address":"375 Brad Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 392 0735",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2haFW3NmyOqFcGh0GlJoWt_36.898650_-86.512876@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047145,
+    "wof:geomhash":"1743fd2c76195c6266886544aa838517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840751867
+        }
+    ],
+    "wof:id":840751867,
+    "wof:lastmodified":1464047145,
+    "wof:name":"Straight Line Painting",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.512876,
+    36.89865,
+    -86.512876,
+    36.89865
+],
+  "geometry": {"coordinates":[-86.51287600000001,36.89865],"type":"Point"}
+}

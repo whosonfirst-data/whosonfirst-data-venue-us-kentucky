@@ -1,0 +1,97 @@
+{
+  "id": 856743573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.747962,38.16743,-85.747962,38.16743",
+    "geom:latitude":38.16743,
+    "geom:longitude":-85.747962,
+    "iso:country":"US",
+    "sg:address":"5010 Crittenden Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 3301",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical-cylinder",
+        "bulk",
+        "gas-industrial",
+        "welding",
+        "contractor"
+    ],
+    "sg:website":"http://www.weldingandtherapy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iIpVIv5J0UVhgID5wwJZv_38.167430_-85.747962@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053515,
+    "wof:geomhash":"a60306c169e24956bbce9b4a61278f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856743573
+        }
+    ],
+    "wof:id":856743573,
+    "wof:lastmodified":1464053515,
+    "wof:name":"Welding & Therapy Service",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical-cylinder",
+        "bulk",
+        "gas-industrial",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.747962,
+    38.16743,
+    -85.747962,
+    38.16743
+],
+  "geometry": {"coordinates":[-85.747962,38.16743],"type":"Point"}
+}

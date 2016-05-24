@@ -1,0 +1,75 @@
+{
+  "id": 856688871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852983,37.688143,-85.852983,37.688143",
+    "geom:latitude":37.688143,
+    "geom:longitude":-85.852983,
+    "iso:country":"US",
+    "sg:address":"501 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 9054",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "moving",
+        "company",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUbSJPjlDTKS1Fp9u684D_37.688143_-85.852983@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051845,
+    "wof:geomhash":"f095da7b6dea77fd860e072530d5853d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856688871
+        }
+    ],
+    "wof:id":856688871,
+    "wof:lastmodified":1464051845,
+    "wof:name":"E-Town Moving & Storage",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving",
+        "company",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.852983,
+    37.688143,
+    -85.852983,
+    37.688143
+],
+  "geometry": {"coordinates":[-85.85298299999999,37.688143],"type":"Point"}
+}

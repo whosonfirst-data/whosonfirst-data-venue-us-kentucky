@@ -1,0 +1,71 @@
+{
+  "id": 840790951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.62223,37.041441,-88.62223,37.041441",
+    "geom:latitude":37.041441,
+    "geom:longitude":-88.62223,
+    "iso:country":"US",
+    "sg:address":"234 Broyles Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 2109",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MhQNotQmdICSVotGez06Z_37.041441_-88.622230@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048003,
+    "wof:geomhash":"9896367e3ff1b771ea91b38e537ce1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840790951
+        }
+    ],
+    "wof:id":840790951,
+    "wof:lastmodified":1464048003,
+    "wof:name":"Frances Schmidt Day Care Home",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -88.62223,
+    37.041441,
+    -88.62223,
+    37.041441
+],
+  "geometry": {"coordinates":[-88.62223,37.041441],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856746375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663391,38.190289,-85.663391,38.190289",
+    "geom:latitude":38.190289,
+    "geom:longitude":-85.663391,
+    "iso:country":"US",
+    "sg:address":"5201 Gathwright Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 409 5512",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yo9LmZJH8Ty4OS8UG2dYS_38.190289_-85.663391@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053609,
+    "wof:geomhash":"6b3db699be90a2518e2616eea4eb41e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746375
+        }
+    ],
+    "wof:id":856746375,
+    "wof:lastmodified":1464053609,
+    "wof:name":"Showtime Ez Travel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -85.663391,
+    38.190289,
+    -85.663391,
+    38.190289
+],
+  "geometry": {"coordinates":[-85.663391,38.190289],"type":"Point"}
+}

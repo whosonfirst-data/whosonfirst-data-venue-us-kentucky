@@ -1,0 +1,71 @@
+{
+  "id": 840805093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.772262,37.647022,-84.772262,37.647022",
+    "geom:latitude":37.647022,
+    "geom:longitude":-84.772262,
+    "iso:country":"US",
+    "sg:address":"120 N 3rd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 4146",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BZuU7sQkyItwU7JHphDNa_37.647022_-84.772262@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048301,
+    "wof:geomhash":"07f65d261bfcd1b8b9218d2a230d471f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840805093
+        }
+    ],
+    "wof:id":840805093,
+    "wof:lastmodified":1464048301,
+    "wof:name":"Jeffrey W Jones",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -84.772262,
+    37.647022,
+    -84.772262,
+    37.647022
+],
+  "geometry": {"coordinates":[-84.772262,37.647022],"type":"Point"}
+}

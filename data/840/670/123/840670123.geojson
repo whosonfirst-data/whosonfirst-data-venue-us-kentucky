@@ -1,0 +1,71 @@
+{
+  "id": 840670123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881839,37.723344,-85.881839,37.723344",
+    "geom:latitude":37.723344,
+    "geom:longitude":-85.881839,
+    "iso:country":"US",
+    "sg:address":"100 Gray St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 0419",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yIMcG4jtcrwlqXm5hUEaq_37.723344_-85.881839@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045311,
+    "wof:geomhash":"f1ace52afcb477cb8eb03e14f1a62c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840670123
+        }
+    ],
+    "wof:id":840670123,
+    "wof:lastmodified":1464045311,
+    "wof:name":"Communicare Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -85.881839,
+    37.723344,
+    -85.881839,
+    37.723344
+],
+  "geometry": {"coordinates":[-85.881839,37.723344],"type":"Point"}
+}

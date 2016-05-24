@@ -1,0 +1,80 @@
+{
+  "id": 856761153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66501,37.06627,-88.66501,37.06627",
+    "geom:latitude":37.06627,
+    "geom:longitude":-88.66501,
+    "iso:country":"US",
+    "sg:address":"140 Dove Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8263",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pb33ZYzDeHqp6vC5xLR0K_37.066270_-88.665010@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054166,
+    "wof:geomhash":"edbfad87121d8b08765b441d9c4b65b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761153
+        }
+    ],
+    "wof:id":856761153,
+    "wof:lastmodified":1464054166,
+    "wof:name":"Southern Living At Home",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.66501,
+    37.06627,
+    -88.66501,
+    37.06627
+],
+  "geometry": {"coordinates":[-88.66501,37.06627],"type":"Point"}
+}

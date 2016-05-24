@@ -1,0 +1,68 @@
+{
+  "id": 840847093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.476334,37.810684,-85.476334,37.810684",
+    "geom:latitude":37.810684,
+    "geom:longitude":-85.476334,
+    "iso:country":"US",
+    "sg:address":"503 W Stephen Foster Ave",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 348 5076",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aRy8H5c2NEgi2k3RWrANf_37.810684_-85.476334@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049378,
+    "wof:geomhash":"bf9ef914b0acdd456e05df3970c12706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840847093
+        }
+    ],
+    "wof:id":840847093,
+    "wof:lastmodified":1464049378,
+    "wof:name":"Stephen Foster Restaurant",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.476334,
+    37.810684,
+    -85.476334,
+    37.810684
+],
+  "geometry": {"coordinates":[-85.47633399999999,37.810684],"type":"Point"}
+}

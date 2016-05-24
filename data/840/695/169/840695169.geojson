@@ -1,0 +1,75 @@
+{
+  "id": 840695169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477223,36.971415,-86.477223,36.971415",
+    "geom:latitude":36.971415,
+    "geom:longitude":-86.477223,
+    "iso:country":"US",
+    "sg:address":"2321 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8007",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CwxGI3bT51TxRa3CyelPx_36.971415_-86.477223@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045951,
+    "wof:geomhash":"51add68bca2738546013441677686a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840695169
+        }
+    ],
+    "wof:id":840695169,
+    "wof:lastmodified":1464045951,
+    "wof:name":"Plumbers Supply Co",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.477223,
+    36.971415,
+    -86.477223,
+    36.971415
+],
+  "geometry": {"coordinates":[-86.477223,36.971415],"type":"Point"}
+}

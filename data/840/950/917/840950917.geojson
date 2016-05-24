@@ -1,0 +1,75 @@
+{
+  "id": 840950917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.588579,37.052874,-88.588579,37.052874",
+    "geom:latitude":37.052874,
+    "geom:longitude":-88.588579,
+    "iso:country":"US",
+    "sg:address":"2155 Sunset Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6841",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tank",
+        "cleaning",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TqJB0vQBKYJg1rdrc75x6_37.052874_-88.588579@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051669,
+    "wof:geomhash":"37154499789d4cd1ccdc3e47f8a48875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840950917
+        }
+    ],
+    "wof:id":840950917,
+    "wof:lastmodified":1464051669,
+    "wof:name":"B & B Septic & Sewer Service",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "cleaning",
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.588579,
+    37.052874,
+    -88.588579,
+    37.052874
+],
+  "geometry": {"coordinates":[-88.588579,37.052874],"type":"Point"}
+}

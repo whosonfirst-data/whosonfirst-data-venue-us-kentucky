@@ -1,0 +1,68 @@
+{
+  "id": 840706593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.787337,38.258531,-85.787337,38.258531",
+    "geom:latitude":38.258531,
+    "geom:longitude":-85.787337,
+    "iso:country":"US",
+    "sg:address":"2216 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 4062",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIXatdTOM9vP4GtdkZxS9_38.258531_-85.787337@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046235,
+    "wof:geomhash":"ca15b6b7a3468621d840f3e56d59fd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840706593
+        }
+    ],
+    "wof:id":840706593,
+    "wof:lastmodified":1464046235,
+    "wof:name":"Jones Upholstering",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.787337,
+    38.258531,
+    -85.787337,
+    38.258531
+],
+  "geometry": {"coordinates":[-85.78733699999999,38.258531],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840807977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662703,37.856988,-84.662703,37.856988",
+    "geom:latitude":37.856988,
+    "geom:longitude":-84.662703,
+    "iso:country":"US",
+    "sg:address":"315 Village Cir",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 4922",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RDoJu8aLeHaKjpcqOj6QF_37.856988_-84.662703@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048359,
+    "wof:geomhash":"2cc79915e14cfbeab579e01d7c288ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840807977
+        }
+    ],
+    "wof:id":840807977,
+    "wof:lastmodified":1464048359,
+    "wof:name":"Jessamine Village Apartments",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.662703,
+    37.856988,
+    -84.662703,
+    37.856988
+],
+  "geometry": {"coordinates":[-84.66270299999999,37.856988],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856732603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725013,38.241176,-85.725013,38.241176",
+    "geom:latitude":38.241176,
+    "geom:longitude":-85.725013,
+    "iso:country":"US",
+    "sg:address":"942 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/38947-willys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2969",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qg6cdADPsXvXFcF6o2ELF_38.241176_-85.725013@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053095,
+    "wof:geomhash":"b111e082299770c7d2104a05bdd82d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856732603
+        }
+    ],
+    "wof:id":856732603,
+    "wof:lastmodified":1464053095,
+    "wof:name":"Willy's",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -85.725013,
+    38.241176,
+    -85.725013,
+    38.241176
+],
+  "geometry": {"coordinates":[-85.725013,38.241176],"type":"Point"}
+}

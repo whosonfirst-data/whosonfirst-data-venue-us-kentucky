@@ -1,0 +1,71 @@
+{
+  "id": 840555989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.527545,37.795353,-87.527545,37.795353",
+    "geom:latitude":37.795353,
+    "geom:longitude":-87.527545,
+    "iso:country":"US",
+    "sg:address":"7350 Airline Rd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 3807",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJ47o9RvdTFES7O7pyBX3_37.795353_-87.527545@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042648,
+    "wof:geomhash":"246542fce2ba271bae2033447daf0192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840555989
+        }
+    ],
+    "wof:id":840555989,
+    "wof:lastmodified":1464042648,
+    "wof:name":"Todd's Airline Greenhouse",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -87.527545,
+    37.795353,
+    -87.527545,
+    37.795353
+],
+  "geometry": {"coordinates":[-87.527545,37.795353],"type":"Point"}
+}

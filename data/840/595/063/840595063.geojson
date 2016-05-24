@@ -1,0 +1,68 @@
+{
+  "id": 840595063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.760278,38.234933,-85.760278,38.234933",
+    "geom:latitude":38.234933,
+    "geom:longitude":-85.760278,
+    "iso:country":"US",
+    "sg:address":"1213 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 6168",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pr8Rsj6IArY5aa67vE7GR_38.234933_-85.760278@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043540,
+    "wof:geomhash":"25eb9c0c120f180790b54e0e60ebe280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840595063
+        }
+    ],
+    "wof:id":840595063,
+    "wof:lastmodified":1464043540,
+    "wof:name":"Old Louisville Florist",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.760278,
+    38.234933,
+    -85.760278,
+    38.234933
+],
+  "geometry": {"coordinates":[-85.760278,38.234933],"type":"Point"}
+}

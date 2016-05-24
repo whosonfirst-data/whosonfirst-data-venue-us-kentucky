@@ -1,0 +1,72 @@
+{
+  "id": 856734211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.716464,38.053526,-84.716464,38.053526",
+    "geom:latitude":38.053526,
+    "geom:longitude":-84.716464,
+    "iso:country":"US",
+    "sg:address":"93 Crossfield Ct",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/versailles/87504-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 1000",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aCRRwsuvZBvPjyX6gjocl_38.053526_-84.716464@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053153,
+    "wof:geomhash":"6cd84bb77918264fe3c42565f14e95c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856734211
+        }
+    ],
+    "wof:id":856734211,
+    "wof:lastmodified":1464053153,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.716464,
+    38.053526,
+    -84.716464,
+    38.053526
+],
+  "geometry": {"coordinates":[-84.716464,38.053526],"type":"Point"}
+}

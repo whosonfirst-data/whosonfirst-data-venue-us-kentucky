@@ -1,0 +1,68 @@
+{
+  "id": 856712123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.498632,38.04661,-84.498632,38.04661",
+    "geom:latitude":38.04661,
+    "geom:longitude":-84.498632,
+    "iso:country":"US",
+    "sg:address":"120 S Upper St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 455 9903",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TnVYh1zerv0HmlGSSR9vy_38.046610_-84.498632@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052308,
+    "wof:geomhash":"13fb672c4f664fca4efcfc8f67ccd90e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856712123
+        }
+    ],
+    "wof:id":856712123,
+    "wof:lastmodified":1464052308,
+    "wof:name":"Mia's",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.498632,
+    38.04661,
+    -84.498632,
+    38.04661
+],
+  "geometry": {"coordinates":[-84.498632,38.04661],"type":"Point"}
+}

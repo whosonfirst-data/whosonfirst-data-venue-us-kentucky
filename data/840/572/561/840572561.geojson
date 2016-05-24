@@ -1,0 +1,73 @@
+{
+  "id": 840572561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.654187,37.088238,-84.654187,37.088238",
+    "geom:latitude":37.088238,
+    "geom:longitude":-84.654187,
+    "iso:country":"US",
+    "sg:address":"2428 State Hwy 80",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 1035",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00rJlaa9EgvTmUjUDOazJr_37.088238_-84.654187@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043054,
+    "wof:geomhash":"0564a76ef8c03bab243c1db287133ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840572561
+        }
+    ],
+    "wof:id":840572561,
+    "wof:lastmodified":1464043054,
+    "wof:name":"TNT Farms",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -84.654187,
+    37.088238,
+    -84.654187,
+    37.088238
+],
+  "geometry": {"coordinates":[-84.65418699999999,37.088238],"type":"Point"}
+}

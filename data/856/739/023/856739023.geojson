@@ -1,0 +1,83 @@
+{
+  "id": 856739023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758489,38.255008,-85.758489,38.255008",
+    "geom:latitude":38.255008,
+    "geom:longitude":-85.758489,
+    "iso:country":"US",
+    "sg:address":"214 S 5th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 625 1780",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ],
+    "sg:website":"http://www.syb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vSb0ZWjGuA5i6gWhUiBro_38.255008_-85.758489@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053344,
+    "wof:geomhash":"a6be1cda793e45cd76d2eb0e13cf09b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856739023
+        }
+    ],
+    "wof:id":856739023,
+    "wof:lastmodified":1464053344,
+    "wof:name":"Stock Yards Bank & Mortgage",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ]
+},
+  "bbox": [
+    -85.758489,
+    38.255008,
+    -85.758489,
+    38.255008
+],
+  "geometry": {"coordinates":[-85.758489,38.255008],"type":"Point"}
+}

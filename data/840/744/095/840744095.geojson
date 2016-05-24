@@ -1,0 +1,73 @@
+{
+  "id": 840744095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.918591,37.008435,-85.918591,37.008435",
+    "geom:latitude":37.008435,
+    "geom:longitude":-85.918591,
+    "iso:country":"US",
+    "sg:address":"607 Happy Valley Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 1348",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54QYlesgPHmboTpIX6Hoyo_37.008435_-85.918591@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046970,
+    "wof:geomhash":"3eb02517f8b7b1b92ed740d91b8fe75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840744095
+        }
+    ],
+    "wof:id":840744095,
+    "wof:lastmodified":1464046970,
+    "wof:name":"Buck's Farm Market Inc",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.918591,
+    37.008435,
+    -85.918591,
+    37.008435
+],
+  "geometry": {"coordinates":[-85.91859100000001,37.008435],"type":"Point"}
+}

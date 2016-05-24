@@ -1,0 +1,69 @@
+{
+  "id": 840747835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.57534,37.868614,-84.57534,37.868614",
+    "geom:latitude":37.868614,
+    "geom:longitude":-84.57534,
+    "iso:country":"US",
+    "sg:address":"500 Beauford Pl",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9100",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OmYgLUozxBdnhP7tBxO4X_37.868614_-84.575340@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047044,
+    "wof:geomhash":"b01efeb35b12fd5ddfdd44225d822a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840747835
+        }
+    ],
+    "wof:id":840747835,
+    "wof:lastmodified":1464047044,
+    "wof:name":"Arbor Place",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.57534,
+    37.868614,
+    -84.57534,
+    37.868614
+],
+  "geometry": {"coordinates":[-84.57534,37.868614],"type":"Point"}
+}

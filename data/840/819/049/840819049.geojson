@@ -1,0 +1,71 @@
+{
+  "id": 840819049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714221,36.605821,-83.714221,36.605821",
+    "geom:latitude":36.605821,
+    "geom:longitude":-83.714221,
+    "iso:country":"US",
+    "sg:address":"111 W Chester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 3602",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RKO5jwPPmbHks3JBNnGOD_36.605821_-83.714221@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048724,
+    "wof:geomhash":"cc6dd6668ca31cdf49d26d0e07930935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840819049
+        }
+    ],
+    "wof:id":840819049,
+    "wof:lastmodified":1464048724,
+    "wof:name":"Collins School Of Cosmetology",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -83.714221,
+    36.605821,
+    -83.714221,
+    36.605821
+],
+  "geometry": {"coordinates":[-83.71422099999999,36.605821],"type":"Point"}
+}

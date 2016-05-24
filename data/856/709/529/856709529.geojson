@@ -1,0 +1,73 @@
+{
+  "id": 856709529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.837522,37.709598,-85.837522,37.709598",
+    "geom:latitude":37.709598,
+    "geom:longitude":-85.837522,
+    "iso:country":"US",
+    "sg:address":"1011 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5296",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YeMDakZfQCZ99866udR6M_37.709598_-85.837522@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052256,
+    "wof:geomhash":"a76d247a4cf9b024d9a46ec0a1ce7cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856709529
+        }
+    ],
+    "wof:id":856709529,
+    "wof:lastmodified":1464052256,
+    "wof:name":"R & W Marine Sport Ctr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -85.837522,
+    37.709598,
+    -85.837522,
+    37.709598
+],
+  "geometry": {"coordinates":[-85.83752200000001,37.709598],"type":"Point"}
+}

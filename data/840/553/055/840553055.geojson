@@ -1,0 +1,75 @@
+{
+  "id": 840553055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6633,38.250858,-85.6633,38.250858",
+    "geom:latitude":38.250858,
+    "geom:longitude":-85.6633,
+    "iso:country":"US",
+    "sg:address":"3612 Lexington Rd",
+    "sg:city":"St Matthews",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 1871",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VBys9uCrHMjCJUbIBTXqZ_38.250858_-85.663300@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042576,
+    "wof:geomhash":"c08a131ce02342186a38721158ce50bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840553055
+        }
+    ],
+    "wof:id":840553055,
+    "wof:lastmodified":1464042576,
+    "wof:name":"Robert A Noel MD",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.6633,
+    38.250858,
+    -85.6633,
+    38.250858
+],
+  "geometry": {"coordinates":[-85.66330000000001,38.250858],"type":"Point"}
+}

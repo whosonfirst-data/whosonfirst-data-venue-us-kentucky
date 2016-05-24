@@ -1,0 +1,71 @@
+{
+  "id": 840880131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.607179,38.211146,-84.607179,38.211146",
+    "geom:latitude":38.211146,
+    "geom:longitude":-84.607179,
+    "iso:country":"US",
+    "sg:address":"2125 Frankfort Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 5548",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DV7XvUlYYwo00FvpNy4bp_38.211146_-84.607179@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050077,
+    "wof:geomhash":"b67526ea83c5556a972a38870e9c0952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840880131
+        }
+    ],
+    "wof:id":840880131,
+    "wof:lastmodified":1464050077,
+    "wof:name":"Scott County Animal Clinic",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.607179,
+    38.211146,
+    -84.607179,
+    38.211146
+],
+  "geometry": {"coordinates":[-84.607179,38.211146],"type":"Point"}
+}

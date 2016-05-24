@@ -1,0 +1,73 @@
+{
+  "id": 856698343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.69018,38.209075,-85.69018,38.209075",
+    "geom:latitude":38.209075,
+    "geom:longitude":-85.69018,
+    "iso:country":"US",
+    "sg:address":"2713 Lamont Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 1249",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "professor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A3MOwfj8zYMXnAfHrsrpu_38.209075_-85.690180@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052027,
+    "wof:geomhash":"07a9ba37faf898d364e80f104d571dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856698343
+        }
+    ],
+    "wof:id":856698343,
+    "wof:lastmodified":1464052027,
+    "wof:name":"Lyle Sussman",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professor"
+    ]
+},
+  "bbox": [
+    -85.69018,
+    38.209075,
+    -85.69018,
+    38.209075
+],
+  "geometry": {"coordinates":[-85.69018,38.209075],"type":"Point"}
+}

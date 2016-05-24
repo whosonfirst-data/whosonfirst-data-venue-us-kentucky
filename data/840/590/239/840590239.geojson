@@ -1,0 +1,73 @@
+{
+  "id": 840590239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718598,38.227443,-85.718598,38.227443",
+    "geom:latitude":38.227443,
+    "geom:longitude":-85.718598,
+    "iso:country":"US",
+    "sg:address":"1325 Eastern Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 3010",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cV6xlVUBDV8J49Ojpukad_38.227443_-85.718598@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043428,
+    "wof:geomhash":"e1b3f5acd94416681e2b5929e10128cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":840590239
+        }
+    ],
+    "wof:id":840590239,
+    "wof:lastmodified":1464043428,
+    "wof:name":"Kentucky-Louisville Mission",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.718598,
+    38.227443,
+    -85.718598,
+    38.227443
+],
+  "geometry": {"coordinates":[-85.718598,38.227443],"type":"Point"}
+}

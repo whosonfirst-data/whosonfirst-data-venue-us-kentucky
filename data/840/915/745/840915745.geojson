@@ -1,0 +1,75 @@
+{
+  "id": 840915745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74938,38.234162,-85.74938,38.234162",
+    "geom:latitude":38.234162,
+    "geom:longitude":-85.74938,
+    "iso:country":"US",
+    "sg:address":"1109 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 561 0030",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hWqz9hKL2q8WR7Me3hbJY_38.234162_-85.749380@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050895,
+    "wof:geomhash":"00eafed8c7183679635785b01c77e8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873403,
+            "region_id":85688641,
+            "venue_id":840915745
+        }
+    ],
+    "wof:id":840915745,
+    "wof:lastmodified":1464050895,
+    "wof:name":"Chicago Tube & Iron Co",
+    "wof:parent_id":85873403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -85.74938,
+    38.234162,
+    -85.74938,
+    38.234162
+],
+  "geometry": {"coordinates":[-85.74938,38.234162],"type":"Point"}
+}

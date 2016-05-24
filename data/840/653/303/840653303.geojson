@@ -1,0 +1,66 @@
+{
+  "id": 840653303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.845866,37.673289,-85.845866,37.673289",
+    "geom:latitude":37.673289,
+    "geom:longitude":-85.845866,
+    "iso:country":"US",
+    "sg:address":"806 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7307",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tQ4luJdTPYfDSITlbRvY8_37.673289_-85.845866@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044962,
+    "wof:geomhash":"00e58c1b4166a91053e19b3d1d330eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840653303
+        }
+    ],
+    "wof:id":840653303,
+    "wof:lastmodified":1464044962,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.845866,
+    37.673289,
+    -85.845866,
+    37.673289
+],
+  "geometry": {"coordinates":[-85.845866,37.673289],"type":"Point"}
+}

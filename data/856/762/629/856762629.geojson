@@ -1,0 +1,80 @@
+{
+  "id": 856762629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591168,37.840567,-87.591168,37.840567",
+    "geom:latitude":37.840567,
+    "geom:longitude":-87.591168,
+    "iso:country":"US",
+    "sg:address":"230 2nd St Ste 104",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3923",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "broadcast",
+        "advertising-broadcast",
+        "film"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NBUuLw0W0SvJtkXRi3o31_37.840567_-87.591168@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054222,
+    "wof:geomhash":"1205801ac0407236d1736354990a43d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856762629
+        }
+    ],
+    "wof:id":856762629,
+    "wof:lastmodified":1464054222,
+    "wof:name":"Wson Radio",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "advertising-broadcast",
+        "film"
+    ]
+},
+  "bbox": [
+    -87.591168,
+    37.840567,
+    -87.591168,
+    37.840567
+],
+  "geometry": {"coordinates":[-87.591168,37.840567],"type":"Point"}
+}

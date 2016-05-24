@@ -1,0 +1,73 @@
+{
+  "id": 856699175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.956682,36.964774,-82.956682,36.964774",
+    "geom:latitude":36.964774,
+    "geom:longitude":-82.956682,
+    "iso:country":"US",
+    "sg:address":"340 Poplar St",
+    "sg:city":"Benham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 848 7329",
+    "sg:postcode":"40807",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nl4kfDzylFgZiCjgqWxcF_36.964774_-82.956682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052042,
+    "wof:geomhash":"19a0e34bbdf2dec1349005e22855be4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":856699175
+        }
+    ],
+    "wof:id":856699175,
+    "wof:lastmodified":1464052042,
+    "wof:name":"Boggs Lock & Key Svc",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.956682,
+    36.964774,
+    -82.956682,
+    36.964774
+],
+  "geometry": {"coordinates":[-82.956682,36.964774],"type":"Point"}
+}

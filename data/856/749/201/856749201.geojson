@@ -1,0 +1,103 @@
+{
+  "id": 856749201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641276,38.137921,-85.641276,38.137921",
+    "geom:latitude":38.137921,
+    "geom:longitude":-85.641276,
+    "iso:country":"US",
+    "sg:address":"6456 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 2224",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consulting",
+        "management",
+        "records-storage",
+        "household",
+        "commercial",
+        "record",
+        "document",
+        "destruction"
+    ],
+    "sg:website":"http://www.storageplus.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QHaAim27rCJD5lllyueIp_38.137921_-85.641276@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053722,
+    "wof:geomhash":"a429f7236202bf065cb2bda3f7520ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856749201
+        }
+    ],
+    "wof:id":856749201,
+    "wof:lastmodified":1464053722,
+    "wof:name":"Storage Plus",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management",
+        "records-storage",
+        "household",
+        "commercial",
+        "record",
+        "document",
+        "destruction"
+    ]
+},
+  "bbox": [
+    -85.641276,
+    38.137921,
+    -85.641276,
+    38.137921
+],
+  "geometry": {"coordinates":[-85.641276,38.137921],"type":"Point"}
+}

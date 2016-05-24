@@ -1,0 +1,84 @@
+{
+  "id": 856749733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.597704,38.293429,-85.597704,38.293429",
+    "geom:latitude":38.293429,
+    "geom:longitude":-85.597704,
+    "iso:country":"US",
+    "sg:address":"3505 Saint Andrews Village Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 412 5560",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kn94zeX0cOPpRGatfvyWv_38.293429_-85.597704@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053740,
+    "wof:geomhash":"e315b5f0d0d6f61446e4b2197f3e017e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856749733
+        }
+    ],
+    "wof:id":856749733,
+    "wof:lastmodified":1464053740,
+    "wof:name":"Packaging Sevice Corp",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.597704,
+    38.293429,
+    -85.597704,
+    38.293429
+],
+  "geometry": {"coordinates":[-85.59770399999999,38.293429],"type":"Point"}
+}

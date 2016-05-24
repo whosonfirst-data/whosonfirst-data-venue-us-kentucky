@@ -1,0 +1,71 @@
+{
+  "id": 856761679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.506907,37.009243,-88.506907,37.009243",
+    "geom:latitude":37.009243,
+    "geom:longitude":-88.506907,
+    "iso:country":"US",
+    "sg:address":"6355 Kentucky Dam Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 3955",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ym4ZVYmaOrRi17kEA7ikt_37.009243_-88.506907@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054184,
+    "wof:geomhash":"487b28b78f8ab37096ccbb921d2b6d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761679
+        }
+    ],
+    "wof:id":856761679,
+    "wof:lastmodified":1464054184,
+    "wof:name":"Winning Colors Hair Designs",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.506907,
+    37.009243,
+    -88.506907,
+    37.009243
+],
+  "geometry": {"coordinates":[-88.506907,37.009243],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840580251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59002,37.089321,-84.59002,37.089321",
+    "geom:latitude":37.089321,
+    "geom:longitude":-84.59002,
+    "iso:country":"US",
+    "sg:address":"706 Jarvis Ave",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 9944",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R44roe0eI2QxAngfXAGaJ_37.089321_-84.590020@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043211,
+    "wof:geomhash":"08ada0eeccb15567fd50f5fd31bfa4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840580251
+        }
+    ],
+    "wof:id":840580251,
+    "wof:lastmodified":1464043211,
+    "wof:name":"Hair Expression",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -84.59002,
+    37.089321,
+    -84.59002,
+    37.089321
+],
+  "geometry": {"coordinates":[-84.59002,37.089321],"type":"Point"}
+}

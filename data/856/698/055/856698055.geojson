@@ -1,0 +1,71 @@
+{
+  "id": 856698055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578441,37.866478,-84.578441,37.866478",
+    "geom:latitude":37.866478,
+    "geom:longitude":-84.578441,
+    "iso:country":"US",
+    "sg:address":"936 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5912",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HFD5BjCmuL9UldtLXkHxD_37.866478_-84.578441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052022,
+    "wof:geomhash":"07cae51f4b52aba11d943bfe5afe5eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856698055
+        }
+    ],
+    "wof:id":856698055,
+    "wof:lastmodified":1464052022,
+    "wof:name":"US Army Reserve Training Ctr",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -84.578441,
+    37.866478,
+    -84.578441,
+    37.866478
+],
+  "geometry": {"coordinates":[-84.578441,37.866478],"type":"Point"}
+}

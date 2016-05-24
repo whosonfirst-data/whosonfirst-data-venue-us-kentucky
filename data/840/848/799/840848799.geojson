@@ -1,0 +1,73 @@
+{
+  "id": 840848799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860211,37.714816,-85.860211,37.714816",
+    "geom:latitude":37.714816,
+    "geom:longitude":-85.860211,
+    "iso:country":"US",
+    "sg:address":"801 Sunrise Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 8984",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N10Xfvw8nc1e26JiZXPwm_37.714816_-85.860211@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049414,
+    "wof:geomhash":"e7c1f1ab389c85c8dc13d0bb8539dfb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840848799
+        }
+    ],
+    "wof:id":840848799,
+    "wof:lastmodified":1464049414,
+    "wof:name":"Susan M D King MD",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.860211,
+    37.714816,
+    -85.860211,
+    37.714816
+],
+  "geometry": {"coordinates":[-85.86021100000001,37.714816],"type":"Point"}
+}

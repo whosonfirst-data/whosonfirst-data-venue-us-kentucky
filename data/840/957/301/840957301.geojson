@@ -1,0 +1,72 @@
+{
+  "id": 840957301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.568354,37.835502,-87.568354,37.835502",
+    "geom:latitude":37.835502,
+    "geom:longitude":-87.568354,
+    "iso:country":"US",
+    "sg:address":"455 Klutey Park Plaza Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 2000",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.thegleaner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jfbVdA6jyGRprjqIlK1Wf_37.835502_-87.568354@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051784,
+    "wof:geomhash":"00d4de36a71a23dc74cee93ddd15ec91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840957301
+        }
+    ],
+    "wof:id":840957301,
+    "wof:lastmodified":1464051784,
+    "wof:name":"Henderson Gleaner",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -87.568354,
+    37.835502,
+    -87.568354,
+    37.835502
+],
+  "geometry": {"coordinates":[-87.568354,37.835502],"type":"Point"}
+}

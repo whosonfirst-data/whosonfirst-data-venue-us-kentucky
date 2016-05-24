@@ -1,0 +1,73 @@
+{
+  "id": 840788441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.884054,37.727702,-85.884054,37.727702",
+    "geom:latitude":37.727702,
+    "geom:longitude":-85.884054,
+    "iso:country":"US",
+    "sg:address":"1516 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 1212",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72reUe3y8E8xqsEc9UQwRF_37.727702_-85.884054@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047945,
+    "wof:geomhash":"c4799b9af47f2e0aac807b815889a686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840788441
+        }
+    ],
+    "wof:id":840788441,
+    "wof:lastmodified":1464047945,
+    "wof:name":"Wireless 101",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.884054,
+    37.727702,
+    -85.884054,
+    37.727702
+],
+  "geometry": {"coordinates":[-85.88405400000001,37.727702],"type":"Point"}
+}

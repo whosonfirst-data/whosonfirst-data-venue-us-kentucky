@@ -1,0 +1,73 @@
+{
+  "id": 840667013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.825756,38.256417,-85.825756,38.256417",
+    "geom:latitude":38.256417,
+    "geom:longitude":-85.825756,
+    "iso:country":"US",
+    "sg:address":"4410 River Park Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 7506",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sYPVOTWXhRcaPBezbA3vU_38.256417_-85.825756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045254,
+    "wof:geomhash":"598567613eadfedcc2364bccf8e9025a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840667013
+        }
+    ],
+    "wof:id":840667013,
+    "wof:lastmodified":1464045254,
+    "wof:name":"Flaget Apartments",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.825756,
+    38.256417,
+    -85.825756,
+    38.256417
+],
+  "geometry": {"coordinates":[-85.825756,38.256417],"type":"Point"}
+}

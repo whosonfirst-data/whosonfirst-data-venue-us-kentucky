@@ -1,0 +1,74 @@
+{
+  "id": 856733335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.603169,38.20335,-85.603169,38.20335",
+    "geom:latitude":38.20335,
+    "geom:longitude":-85.603169,
+    "iso:country":"US",
+    "sg:address":"2730 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/98257-qdoba/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 493 9606",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZBnLdDaldNhwMxGeAdpr0_38.203350_-85.603169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053121,
+    "wof:geomhash":"1fa1e08b7e88f5b5e3b34cfadd1f3201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856733335
+        }
+    ],
+    "wof:id":856733335,
+    "wof:lastmodified":1464053121,
+    "wof:name":"Qdoba",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.603169,
+    38.20335,
+    -85.603169,
+    38.20335
+],
+  "geometry": {"coordinates":[-85.60316899999999,38.20335],"type":"Point"}
+}

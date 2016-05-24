@@ -1,0 +1,71 @@
+{
+  "id": 840951925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441646,36.995443,-86.441646,36.995443",
+    "geom:latitude":36.995443,
+    "geom:longitude":-86.441646,
+    "iso:country":"US",
+    "sg:address":"824 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 780 0023",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11qm8EUxcDVjyp3D08bhSL_36.995443_-86.441646@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051687,
+    "wof:geomhash":"1568a03c4bdcfd5fbbce904cd6fb89a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840951925
+        }
+    ],
+    "wof:id":840951925,
+    "wof:lastmodified":1464051687,
+    "wof:name":"Lunch Box Cafe",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.441646,
+    36.995443,
+    -86.441646,
+    36.995443
+],
+  "geometry": {"coordinates":[-86.44164600000001,36.995443],"type":"Point"}
+}

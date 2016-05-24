@@ -1,0 +1,75 @@
+{
+  "id": 840797985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.409902,36.922948,-86.409902,36.922948",
+    "geom:latitude":36.922948,
+    "geom:longitude":-86.409902,
+    "iso:country":"US",
+    "sg:address":"5358 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0400",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W0F30cCoNhilaNCyVPbYR_36.922948_-86.409902@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048154,
+    "wof:geomhash":"43491692e841e57d0b0bad172fa02c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840797985
+        }
+    ],
+    "wof:id":840797985,
+    "wof:lastmodified":1464048154,
+    "wof:name":"Chris's Auto Accessories",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -86.409902,
+    36.922948,
+    -86.409902,
+    36.922948
+],
+  "geometry": {"coordinates":[-86.409902,36.922948],"type":"Point"}
+}

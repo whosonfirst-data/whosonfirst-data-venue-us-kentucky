@@ -1,0 +1,75 @@
+{
+  "id": 840545821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758924,38.194041,-85.758924,38.194041",
+    "geom:latitude":38.194041,
+    "geom:longitude":-85.758924,
+    "iso:country":"US",
+    "sg:address":"4221 Allmond Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 8658",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ta5mh41xD29sb8zAeQwEk_38.194041_-85.758924@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042393,
+    "wof:geomhash":"c895c8cfda26e3be0ff71179c2df299a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873439,
+            "region_id":85688641,
+            "venue_id":840545821
+        }
+    ],
+    "wof:id":840545821,
+    "wof:lastmodified":1464042393,
+    "wof:name":"Greater Louisville Limo Svc",
+    "wof:parent_id":85873439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.758924,
+    38.194041,
+    -85.758924,
+    38.194041
+],
+  "geometry": {"coordinates":[-85.75892399999999,38.194041],"type":"Point"}
+}

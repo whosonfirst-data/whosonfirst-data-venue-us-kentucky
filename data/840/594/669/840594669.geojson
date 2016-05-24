@@ -1,0 +1,75 @@
+{
+  "id": 840594669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.895929,37.707287,-85.895929,37.707287",
+    "geom:latitude":37.707287,
+    "geom:longitude":-85.895929,
+    "iso:country":"US",
+    "sg:address":"408 Timber Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6889",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23q7BGQyU7oqk4uWbjJZ8A_37.707287_-85.895929@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043532,
+    "wof:geomhash":"9fc13ee3d8631b228f90ef5ada53d92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840594669
+        }
+    ],
+    "wof:id":840594669,
+    "wof:lastmodified":1464043532,
+    "wof:name":"Central Kentucky Bottled Water",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -85.895929,
+    37.707287,
+    -85.895929,
+    37.707287
+],
+  "geometry": {"coordinates":[-85.895929,37.707287],"type":"Point"}
+}

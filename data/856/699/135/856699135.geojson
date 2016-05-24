@@ -1,0 +1,75 @@
+{
+  "id": 856699135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.81644,38.132631,-85.81644,38.132631",
+    "geom:latitude":38.132631,
+    "geom:longitude":-85.81644,
+    "iso:country":"US",
+    "sg:address":"8311 Pine Grove Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 937 8596",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dznTtF7HpUM9qAWsJDABD_38.132631_-85.816440@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052041,
+    "wof:geomhash":"ede0e8ebb4502dbb9f44636180910e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856699135
+        }
+    ],
+    "wof:id":856699135,
+    "wof:lastmodified":1464052041,
+    "wof:name":"Peak Concrete Svc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.81644,
+    38.132631,
+    -85.81644,
+    38.132631
+],
+  "geometry": {"coordinates":[-85.81644,38.132631],"type":"Point"}
+}

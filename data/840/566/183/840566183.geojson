@@ -1,0 +1,71 @@
+{
+  "id": 840566183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.733571,38.067097,-84.733571,38.067097",
+    "geom:latitude":38.067097,
+    "geom:longitude":-84.733571,
+    "iso:country":"US",
+    "sg:address":"828 Nancy St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 4135",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gpCsvq1ZFLXYNNUur6XU2_38.067097_-84.733571@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042878,
+    "wof:geomhash":"6db2085a005f76266e0489ad0bfcfe6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840566183
+        }
+    ],
+    "wof:id":840566183,
+    "wof:lastmodified":1464042878,
+    "wof:name":"Donnell & Donnell",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.733571,
+    38.067097,
+    -84.733571,
+    38.067097
+],
+  "geometry": {"coordinates":[-84.733571,38.067097],"type":"Point"}
+}

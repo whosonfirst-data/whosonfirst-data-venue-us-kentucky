@@ -1,0 +1,71 @@
+{
+  "id": 856707221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.964537,37.716022,-85.964537,37.716022",
+    "geom:latitude":37.716022,
+    "geom:longitude":-85.964537,
+    "iso:country":"US",
+    "sg:address":"404 House Ln",
+    "sg:city":"Burkesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 864 5600",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49GwkmME2hMvqkFl44wlU7_37.716022_-85.964537@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052213,
+    "wof:geomhash":"c26768ab6739b754ff1e091039524de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856707221
+        }
+    ],
+    "wof:id":856707221,
+    "wof:lastmodified":1464052213,
+    "wof:name":"Cumberland County Dist Judge",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -85.964537,
+    37.716022,
+    -85.964537,
+    37.716022
+],
+  "geometry": {"coordinates":[-85.96453700000001,37.716022],"type":"Point"}
+}

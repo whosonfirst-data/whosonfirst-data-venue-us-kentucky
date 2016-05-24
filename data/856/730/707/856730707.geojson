@@ -1,0 +1,80 @@
+{
+  "id": 856730707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.713956,38.254477,-85.713956,38.254477",
+    "geom:latitude":38.254477,
+    "geom:longitude":-85.713956,
+    "iso:country":"US",
+    "sg:address":"1875 Arlington Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 1343",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ocCvHk8mTXWchyIiYR27Y_38.254658_-85.714158@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053027,
+    "wof:geomhash":"e198380ef65d0e001d3eef257cd48e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":856730707
+        }
+    ],
+    "wof:id":856730707,
+    "wof:lastmodified":1464053027,
+    "wof:name":"Dancensation Studios",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -85.713956,
+    38.254477,
+    -85.713956,
+    38.254477
+],
+  "geometry": {"coordinates":[-85.713956,38.254477],"type":"Point"}
+}

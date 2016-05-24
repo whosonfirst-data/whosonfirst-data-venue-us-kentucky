@@ -1,0 +1,73 @@
+{
+  "id": 840832057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.956534,37.666301,-85.956534,37.666301",
+    "geom:latitude":37.666301,
+    "geom:longitude":-85.956534,
+    "iso:country":"US",
+    "sg:address":"103 Methodist St",
+    "sg:city":"Cecilia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 862 4379",
+    "sg:postcode":"42724",
+    "sg:province":"KY",
+    "sg:tags":[
+        "educational",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZPPutUffv5QOEKIx4Z914_37.666301_-85.956534@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049044,
+    "wof:geomhash":"220801f4a7930cb67bfc95762adde3fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840832057
+        }
+    ],
+    "wof:id":840832057,
+    "wof:lastmodified":1464049044,
+    "wof:name":"Lord Co",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "material"
+    ]
+},
+  "bbox": [
+    -85.956534,
+    37.666301,
+    -85.956534,
+    37.666301
+],
+  "geometry": {"coordinates":[-85.956534,37.666301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840887989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.769453,37.053086,-88.769453,37.053086",
+    "geom:latitude":37.053086,
+    "geom:longitude":-88.769453,
+    "iso:country":"US",
+    "sg:address":"2901 Fisher Rd",
+    "sg:city":"West Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 744 8971",
+    "sg:postcode":"42086",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29beDmNX4WXXsT197VFd1M_37.053086_-88.769453@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050239,
+    "wof:geomhash":"d6a8cfbf1885f01227165e51e963ebe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840887989
+        }
+    ],
+    "wof:id":840887989,
+    "wof:lastmodified":1464050239,
+    "wof:name":"Northwest Airlink",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -88.769453,
+    37.053086,
+    -88.769453,
+    37.053086
+],
+  "geometry": {"coordinates":[-88.769453,37.053086],"type":"Point"}
+}

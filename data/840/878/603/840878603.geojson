@@ -1,0 +1,71 @@
+{
+  "id": 840878603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.637885,37.804286,-87.637885,37.804286",
+    "geom:latitude":37.804286,
+    "geom:longitude":-87.637885,
+    "iso:country":"US",
+    "sg:address":"301 Community Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 7006",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdK0LG0soPseb8f1Jj0Wi_37.804286_-87.637885@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050049,
+    "wof:geomhash":"5bd213cad6fb21a47d9c68f014c73e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840878603
+        }
+    ],
+    "wof:id":840878603,
+    "wof:lastmodified":1464050049,
+    "wof:name":"Shamrock Technologies Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -87.637885,
+    37.804286,
+    -87.637885,
+    37.804286
+],
+  "geometry": {"coordinates":[-87.637885,37.804286],"type":"Point"}
+}

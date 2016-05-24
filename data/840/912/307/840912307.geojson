@@ -1,0 +1,71 @@
+{
+  "id": 840912307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.89898,36.960426,-82.89898,36.960426",
+    "geom:latitude":36.960426,
+    "geom:longitude":-82.89898,
+    "iso:country":"US",
+    "sg:address":"536 Johnson Rd",
+    "sg:city":"Lynch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 0091",
+    "sg:postcode":"40855",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t4WEjwr3SXi2iYv3PgcFU_36.960426_-82.898980@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050798,
+    "wof:geomhash":"bef6167cf7a075240396f0eef58f2d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840912307
+        }
+    ],
+    "wof:id":840912307,
+    "wof:lastmodified":1464050798,
+    "wof:name":"Benham Fire Dept",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.89898,
+    36.960426,
+    -82.89898,
+    36.960426
+],
+  "geometry": {"coordinates":[-82.89897999999999,36.960426],"type":"Point"}
+}

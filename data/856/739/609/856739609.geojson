@@ -1,0 +1,68 @@
+{
+  "id": 856739609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752315,38.258966,-85.752315,38.258966",
+    "geom:latitude":38.258966,
+    "geom:longitude":-85.752315,
+    "iso:country":"US",
+    "sg:address":"401 W River Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 2355",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A6q9i7f21oWIpBcSES5uM_38.258966_-85.752315@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053364,
+    "wof:geomhash":"3aab0c46dfc6f2e7d1c45706449a7f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873387,
+            "region_id":85688641,
+            "venue_id":856739609
+        }
+    ],
+    "wof:id":856739609,
+    "wof:lastmodified":1464053364,
+    "wof:name":"Belle of Louisville",
+    "wof:parent_id":85873387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.752315,
+    38.258966,
+    -85.752315,
+    38.258966
+],
+  "geometry": {"coordinates":[-85.752315,38.258966],"type":"Point"}
+}

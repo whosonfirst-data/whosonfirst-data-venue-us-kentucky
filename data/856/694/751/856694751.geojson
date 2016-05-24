@@ -1,0 +1,71 @@
+{
+  "id": 856694751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848901,37.736978,-85.848901,37.736978",
+    "geom:latitude":37.736978,
+    "geom:longitude":-85.848901,
+    "iso:country":"US",
+    "sg:address":"770 Bates Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8404",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mammography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ckyhJ4QORyS6risClRZyF_37.736978_-85.848901@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051955,
+    "wof:geomhash":"3e3a5c95eee06e3775680b175dee7ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856694751
+        }
+    ],
+    "wof:id":856694751,
+    "wof:lastmodified":1464051955,
+    "wof:name":"Pamela Casper",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mammography"
+    ]
+},
+  "bbox": [
+    -85.848901,
+    37.736978,
+    -85.848901,
+    37.736978
+],
+  "geometry": {"coordinates":[-85.848901,37.736978],"type":"Point"}
+}

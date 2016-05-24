@@ -1,0 +1,73 @@
+{
+  "id": 840900925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.821067,38.250254,-85.821067,38.250254",
+    "geom:latitude":38.250254,
+    "geom:longitude":-85.821067,
+    "iso:country":"US",
+    "sg:address":"4132 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 6704",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53i5lpVOpzLqZv7g8q50NN_38.250254_-85.821067@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050516,
+    "wof:geomhash":"007db5bf7b179798403cca6149d5e32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873379,
+            "region_id":85688641,
+            "venue_id":840900925
+        }
+    ],
+    "wof:id":840900925,
+    "wof:lastmodified":1464050516,
+    "wof:name":"J & N Foodmart",
+    "wof:parent_id":85873379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.821067,
+    38.250254,
+    -85.821067,
+    38.250254
+],
+  "geometry": {"coordinates":[-85.821067,38.250254],"type":"Point"}
+}

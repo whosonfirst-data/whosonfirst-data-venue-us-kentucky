@@ -1,0 +1,102 @@
+{
+  "id": 856743315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.765131,38.207578,-85.765131,38.207578",
+    "geom:latitude":38.207578,
+    "geom:longitude":-85.765131,
+    "iso:country":"US",
+    "sg:address":"2911 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 9789",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pregnancy",
+        "adoption",
+        "alternative",
+        "abortion",
+        "counseling"
+    ],
+    "sg:website":"http://www.cclou.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EeA6XNfs9myBmiPAkI8Um_38.207578_-85.765131@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053505,
+    "wof:geomhash":"8e882507140253efb54be2be5abb7851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856743315
+        }
+    ],
+    "wof:id":856743315,
+    "wof:lastmodified":1464053505,
+    "wof:name":"Catholic Charities Pregnancy And Adoption Service",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pregnancy",
+        "adoption",
+        "alternative",
+        "abortion",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -85.765131,
+    38.207578,
+    -85.765131,
+    38.207578
+],
+  "geometry": {"coordinates":[-85.765131,38.207578],"type":"Point"}
+}

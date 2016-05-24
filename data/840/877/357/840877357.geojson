@@ -1,0 +1,68 @@
+{
+  "id": 840877357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.450288,36.979527,-86.450288,36.979527",
+    "geom:latitude":36.979527,
+    "geom:longitude":-86.450288,
+    "iso:country":"US",
+    "sg:address":"1633 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9700",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CrxQ59YM8JBz9NBFGr78w_36.979527_-86.450288@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050011,
+    "wof:geomhash":"bb5a4b7234f214fad87f5d4e08ef542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840877357
+        }
+    ],
+    "wof:id":840877357,
+    "wof:lastmodified":1464050011,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.450288,
+    36.979527,
+    -86.450288,
+    36.979527
+],
+  "geometry": {"coordinates":[-86.450288,36.979527],"type":"Point"}
+}

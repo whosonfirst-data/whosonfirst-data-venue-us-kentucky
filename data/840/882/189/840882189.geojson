@@ -1,0 +1,74 @@
+{
+  "id": 840882189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.700104,38.263425,-85.700104,38.263425",
+    "geom:latitude":38.263425,
+    "geom:longitude":-85.700104,
+    "iso:country":"US",
+    "sg:address":"2701 Lindsay Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 1630",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.pfeiffereng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WohYd4fJqaW8CCcsRFRRe_38.263425_-85.700104@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050115,
+    "wof:geomhash":"c42d90f7fca2ed7ae0f74e62efc51b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873385,
+            "region_id":85688641,
+            "venue_id":840882189
+        }
+    ],
+    "wof:id":840882189,
+    "wof:lastmodified":1464050115,
+    "wof:name":"Pfeiffer Engineering Co",
+    "wof:parent_id":85873385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.700104,
+    38.263425,
+    -85.700104,
+    38.263425
+],
+  "geometry": {"coordinates":[-85.700104,38.263425],"type":"Point"}
+}

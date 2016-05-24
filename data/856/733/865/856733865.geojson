@@ -1,0 +1,76 @@
+{
+  "id": 856733865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.590285,38.198356,-85.590285,38.198356",
+    "geom:latitude":38.198356,
+    "geom:longitude":-85.590285,
+    "iso:country":"US",
+    "sg:address":"9017 Galene Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/87488-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 8600",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M5G581AQGkIhv0wlwjDcD_38.198356_-85.590285@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053140,
+    "wof:geomhash":"9323239e95acac555e84e17e2b9c8a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856733865
+        }
+    ],
+    "wof:id":856733865,
+    "wof:lastmodified":1464053140,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.590285,
+    38.198356,
+    -85.590285,
+    38.198356
+],
+  "geometry": {"coordinates":[-85.59028499999999,38.198356],"type":"Point"}
+}

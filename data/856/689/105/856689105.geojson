@@ -1,0 +1,71 @@
+{
+  "id": 856689105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.461412,36.574583,-87.461412,36.574583",
+    "geom:latitude":36.574583,
+    "geom:longitude":-87.461412,
+    "iso:country":"US",
+    "sg:address":"1260 Lafayette Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 9658",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "party",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DZhhnF3rwejTCSqJkfltl_36.574583_-87.461412@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051849,
+    "wof:geomhash":"4ba35a190807768c537eb6a9c7ccb6e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":856689105
+        }
+    ],
+    "wof:id":856689105,
+    "wof:lastmodified":1464051849,
+    "wof:name":"Total Package Events",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning"
+    ]
+},
+  "bbox": [
+    -87.461412,
+    36.574583,
+    -87.461412,
+    36.574583
+],
+  "geometry": {"coordinates":[-87.461412,36.574583],"type":"Point"}
+}

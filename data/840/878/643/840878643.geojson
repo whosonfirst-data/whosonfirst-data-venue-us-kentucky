@@ -1,0 +1,71 @@
+{
+  "id": 840878643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.525655,37.016798,-88.525655,37.016798",
+    "geom:latitude":37.016798,
+    "geom:longitude":-88.525655,
+    "iso:country":"US",
+    "sg:address":"5500 Kentucky Dam Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 2152",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gR6Yki3xDDOYb2xaCBsZ9_37.016798_-88.525655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050050,
+    "wof:geomhash":"132e15af75b4730e55bb66c67b570e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840878643
+        }
+    ],
+    "wof:id":840878643,
+    "wof:lastmodified":1464050050,
+    "wof:name":"Church Of Christ Reidland",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.525655,
+    37.016798,
+    -88.525655,
+    37.016798
+],
+  "geometry": {"coordinates":[-88.525655,37.016798],"type":"Point"}
+}

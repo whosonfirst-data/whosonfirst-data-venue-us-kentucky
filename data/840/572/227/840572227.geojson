@@ -1,0 +1,71 @@
+{
+  "id": 840572227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.884172,37.722995,-85.884172,37.722995",
+    "geom:latitude":37.722995,
+    "geom:longitude":-85.884172,
+    "iso:country":"US",
+    "sg:address":"1308 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5676",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34OLlDxqZFPAbObmEoOD8C_37.722995_-85.884172@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043041,
+    "wof:geomhash":"59ad91f194ba75679601a6563b714e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840572227
+        }
+    ],
+    "wof:id":840572227,
+    "wof:lastmodified":1464043041,
+    "wof:name":"Communicare Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.884172,
+    37.722995,
+    -85.884172,
+    37.722995
+],
+  "geometry": {"coordinates":[-85.88417200000001,37.722995],"type":"Point"}
+}

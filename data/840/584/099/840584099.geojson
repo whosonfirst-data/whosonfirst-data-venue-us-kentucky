@@ -1,0 +1,66 @@
+{
+  "id": 840584099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.58861,37.802226,-87.58861,37.802226",
+    "geom:latitude":37.802226,
+    "geom:longitude":-87.58861,
+    "iso:country":"US",
+    "sg:address":"2037 Gregory Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9482",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bMzRs2Xc73WVdZJeeXS2U_37.802226_-87.588610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043294,
+    "wof:geomhash":"9ea669fd8972dcb6fef6b31bf06151ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840584099
+        }
+    ],
+    "wof:id":840584099,
+    "wof:lastmodified":1464043294,
+    "wof:name":"Finley Repair Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58861,
+    37.802226,
+    -87.58861,
+    37.802226
+],
+  "geometry": {"coordinates":[-87.58861,37.802226],"type":"Point"}
+}

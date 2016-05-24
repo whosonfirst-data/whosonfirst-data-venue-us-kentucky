@@ -1,0 +1,71 @@
+{
+  "id": 840793665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446234,36.948294,-86.446234,36.948294",
+    "geom:latitude":36.948294,
+    "geom:longitude":-86.446234,
+    "iso:country":"US",
+    "sg:address":"1431 Cross Winds Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5354",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eHGaZNYvCPge1pI4yIz4g_36.948294_-86.446234@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048054,
+    "wof:geomhash":"355b219950a4ba756b38694d0224d520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840793665
+        }
+    ],
+    "wof:id":840793665,
+    "wof:lastmodified":1464048054,
+    "wof:name":"Cmk Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.446234,
+    36.948294,
+    -86.446234,
+    36.948294
+],
+  "geometry": {"coordinates":[-86.446234,36.948294],"type":"Point"}
+}

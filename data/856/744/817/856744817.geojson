@@ -1,0 +1,101 @@
+{
+  "id": 856744817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761934,38.150122,-85.761934,38.150122",
+    "geom:latitude":38.150122,
+    "geom:longitude":-85.761934,
+    "iso:country":"US",
+    "sg:address":"5559 National Tpke",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 380 9590",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plate",
+        "door",
+        "glass-auto",
+        "shower",
+        "window",
+        "mirror",
+        "enclosure"
+    ],
+    "sg:website":"http://www.southendglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GdQqGrT1FfhAC7kwLVXyL_38.150122_-85.761934@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053557,
+    "wof:geomhash":"d130cc564747021516d954a749325f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744817
+        }
+    ],
+    "wof:id":856744817,
+    "wof:lastmodified":1464053557,
+    "wof:name":"South End Glass & Mirror Inc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "door",
+        "glass-auto",
+        "shower",
+        "window",
+        "mirror",
+        "enclosure"
+    ]
+},
+  "bbox": [
+    -85.761934,
+    38.150122,
+    -85.761934,
+    38.150122
+],
+  "geometry": {"coordinates":[-85.761934,38.150122],"type":"Point"}
+}

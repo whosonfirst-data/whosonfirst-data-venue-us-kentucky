@@ -1,0 +1,71 @@
+{
+  "id": 840638705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.649326,37.713246,-87.649326,37.713246",
+    "geom:latitude":37.713246,
+    "geom:longitude":-87.649326,
+    "iso:country":"US",
+    "sg:address":"13115 US Hwy 41A",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 533 6013",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UK6PLs9lqgXTJFRZkIO85_37.713246_-87.649326@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044653,
+    "wof:geomhash":"469200d69fce9620e6601bcc3bc10786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840638705
+        }
+    ],
+    "wof:id":840638705,
+    "wof:lastmodified":1464044653,
+    "wof:name":"Cairo Volunteer Fire Dept",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.649326,
+    37.713246,
+    -87.649326,
+    37.713246
+],
+  "geometry": {"coordinates":[-87.649326,37.713246],"type":"Point"}
+}

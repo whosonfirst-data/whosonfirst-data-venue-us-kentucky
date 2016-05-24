@@ -1,0 +1,73 @@
+{
+  "id": 856746197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.648706,38.192986,-85.648706,38.192986",
+    "geom:latitude":38.192986,
+    "geom:longitude":-85.648706,
+    "iso:country":"US",
+    "sg:address":"4014 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 4200",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aU32DyYR4D9J6kvF8W1D0_38.192986_-85.648706@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053603,
+    "wof:geomhash":"3eae1cafb99968f3250f3d9fc3aa993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746197
+        }
+    ],
+    "wof:id":856746197,
+    "wof:lastmodified":1464053603,
+    "wof:name":"Little Rockin Robins Preschool",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten"
+    ]
+},
+  "bbox": [
+    -85.648706,
+    38.192986,
+    -85.648706,
+    38.192986
+],
+  "geometry": {"coordinates":[-85.648706,38.192986],"type":"Point"}
+}

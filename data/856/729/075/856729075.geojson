@@ -1,0 +1,78 @@
+{
+  "id": 856729075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706735,38.193493,-85.706735,38.193493",
+    "geom:latitude":38.193493,
+    "geom:longitude":-85.706735,
+    "iso:country":"US",
+    "sg:address":"4324 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 258 8230",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "household",
+        "storage"
+    ],
+    "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dGmdT7CxdnG4VCGqcvkw1_38.193321_-85.706380@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052969,
+    "wof:geomhash":"a2b73b34c0ca4630e26b268bfccaf44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856729075
+        }
+    ],
+    "wof:id":856729075,
+    "wof:lastmodified":1464052969,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "household",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.706735,
+    38.193493,
+    -85.706735,
+    38.193493
+],
+  "geometry": {"coordinates":[-85.70673499999999,38.193493],"type":"Point"}
+}

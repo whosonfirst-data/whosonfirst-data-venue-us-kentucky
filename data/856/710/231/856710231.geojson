@@ -1,0 +1,71 @@
+{
+  "id": 856710231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636877,37.082481,-88.636877,37.082481",
+    "geom:latitude":37.082481,
+    "geom:longitude":-88.636877,
+    "iso:country":"US",
+    "sg:address":"800 Joe Clifton Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8411",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EiSBjHAU14oa81Sk4AH4Z_37.082481_-88.636877@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052272,
+    "wof:geomhash":"cb8d01cd67553a742e724fa5ee7edc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856710231
+        }
+    ],
+    "wof:id":856710231,
+    "wof:lastmodified":1464052272,
+    "wof:name":"Buford's Bp Svc",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -88.636877,
+    37.082481,
+    -88.636877,
+    37.082481
+],
+  "geometry": {"coordinates":[-88.636877,37.082481],"type":"Point"}
+}

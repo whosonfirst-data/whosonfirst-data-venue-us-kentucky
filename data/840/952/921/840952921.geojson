@@ -1,0 +1,69 @@
+{
+  "id": 840952921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.676232,38.114369,-85.676232,38.114369",
+    "geom:latitude":38.114369,
+    "geom:longitude":-85.676232,
+    "iso:country":"US",
+    "sg:address":"9216 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 5428",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:website":"www.ftd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tH6GY34ltfuKjk5ohCyxo_38.114369_-85.676232@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051708,
+    "wof:geomhash":"260bfd8c11e8780927c28d55180b40f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840952921
+        }
+    ],
+    "wof:id":840952921,
+    "wof:lastmodified":1464051708,
+    "wof:name":"Lloyd's Florist",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.676232,
+    38.114369,
+    -85.676232,
+    38.114369
+],
+  "geometry": {"coordinates":[-85.676232,38.114369],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856734059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.437052,38.177545,-83.437052,38.177545",
+    "geom:latitude":38.177545,
+    "geom:longitude":-83.437052,
+    "iso:country":"US",
+    "sg:address":"212 Stone St",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/morehead/120656-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 784 4708",
+    "sg:postcode":"40351",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946999,
+        102084549,
+        85807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CmtSa417CmpRGRYcCu3MT_38.177545_-83.437052@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053147,
+    "wof:geomhash":"704f328a70284eb4ef0c2a6bc67dbe03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084549,
+            "locality_id":85946999,
+            "neighbourhood_id":85807011,
+            "region_id":85688641,
+            "venue_id":856734059
+        }
+    ],
+    "wof:id":856734059,
+    "wof:lastmodified":1464053147,
+    "wof:name":"Subway",
+    "wof:parent_id":85807011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.437052,
+    38.177545,
+    -83.437052,
+    38.177545
+],
+  "geometry": {"coordinates":[-83.43705199999999,38.177545],"type":"Point"}
+}

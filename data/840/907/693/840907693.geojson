@@ -1,0 +1,75 @@
+{
+  "id": 840907693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.699067,38.160461,-85.699067,38.160461",
+    "geom:latitude":38.160461,
+    "geom:longitude":-85.699067,
+    "iso:country":"US",
+    "sg:address":"6300 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 0809",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fu5A0i0QfUofekXSVPc3y_38.160461_-85.699067@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050654,
+    "wof:geomhash":"b2ecf97c1cb1b7b6dfcbd24d9ea096d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840907693
+        }
+    ],
+    "wof:id":840907693,
+    "wof:lastmodified":1464050654,
+    "wof:name":"Cars USA Inc",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.699067,
+    38.160461,
+    -85.699067,
+    38.160461
+],
+  "geometry": {"coordinates":[-85.699067,38.160461],"type":"Point"}
+}

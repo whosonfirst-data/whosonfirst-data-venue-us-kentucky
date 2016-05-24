@@ -1,0 +1,87 @@
+{
+  "id": 856740455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758713,38.234577,-85.758713,38.234577",
+    "geom:latitude":38.234577,
+    "geom:longitude":-85.758713,
+    "iso:country":"US",
+    "sg:address":"1215 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 1358",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant",
+        "referral",
+        "nursery",
+        "day",
+        "human"
+    ],
+    "sg:website":"http://www.4cforkids.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tJ2W4ngJfqd8xcRmI1uR9_38.234577_-85.758713@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053405,
+    "wof:geomhash":"6623ddd0f5a07c464e5242d24f2dce94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":856740455
+        }
+    ],
+    "wof:id":856740455,
+    "wof:lastmodified":1464053405,
+    "wof:name":"Community Coordinated Child Care 4-C",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "referral",
+        "nursery",
+        "day",
+        "human"
+    ]
+},
+  "bbox": [
+    -85.758713,
+    38.234577,
+    -85.758713,
+    38.234577
+],
+  "geometry": {"coordinates":[-85.758713,38.234577],"type":"Point"}
+}

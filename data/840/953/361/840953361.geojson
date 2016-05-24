@@ -1,0 +1,73 @@
+{
+  "id": 840953361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.767783,38.172304,-85.767783,38.172304",
+    "geom:latitude":38.172304,
+    "geom:longitude":-85.767783,
+    "iso:country":"US",
+    "sg:address":"5107 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 9830",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70SfYwS4E9J8xN1lB6gsUf_38.172304_-85.767783@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051716,
+    "wof:geomhash":"9b1850757c335e9c0abdf992866db8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840953361
+        }
+    ],
+    "wof:id":840953361,
+    "wof:lastmodified":1464051716,
+    "wof:name":"A-Chau Grocery Store",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.767783,
+    38.172304,
+    -85.767783,
+    38.172304
+],
+  "geometry": {"coordinates":[-85.76778299999999,38.172304],"type":"Point"}
+}

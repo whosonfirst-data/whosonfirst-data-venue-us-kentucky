@@ -1,0 +1,74 @@
+{
+  "id": 856746699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65741,38.181492,-85.65741,38.181492",
+    "geom:latitude":38.181492,
+    "geom:longitude":-85.65741,
+    "iso:country":"US",
+    "sg:address":"4913 Heller St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 5401",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"http://www.containerport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xcEB8MtauWLWiLyOzu0nR_38.181492_-85.657410@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053620,
+    "wof:geomhash":"c5e1a894656deea5216aa2b242bae338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746699
+        }
+    ],
+    "wof:id":856746699,
+    "wof:lastmodified":1464053620,
+    "wof:name":"Containerport Group Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.65741,
+    38.181492,
+    -85.65741,
+    38.181492
+],
+  "geometry": {"coordinates":[-85.65741,38.181492],"type":"Point"}
+}

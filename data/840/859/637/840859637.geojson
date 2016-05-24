@@ -1,0 +1,71 @@
+{
+  "id": 840859637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.694462,37.997994,-85.694462,37.997994",
+    "geom:latitude":37.997994,
+    "geom:longitude":-85.694462,
+    "iso:country":"US",
+    "sg:address":"369 Jackie Way",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4230",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70bbLQl2nAeP8O3a8jFPJC_37.997994_-85.694462@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049649,
+    "wof:geomhash":"de82cb83ddbe15b147ca68023acbe0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840859637
+        }
+    ],
+    "wof:id":840859637,
+    "wof:lastmodified":1464049649,
+    "wof:name":"King D",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.694462,
+    37.997994,
+    -85.694462,
+    37.997994
+],
+  "geometry": {"coordinates":[-85.694462,37.997994],"type":"Point"}
+}

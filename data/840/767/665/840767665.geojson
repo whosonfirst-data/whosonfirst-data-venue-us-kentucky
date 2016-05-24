@@ -1,0 +1,73 @@
+{
+  "id": 840767665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729667,38.247069,-85.729667,38.247069",
+    "geom:latitude":38.247069,
+    "geom:longitude":-85.729667,
+    "iso:country":"US",
+    "sg:address":"522 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 4123",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgTQD8ysKV07jHosgppzp_38.247069_-85.729667@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047518,
+    "wof:geomhash":"01bc41862eb43ea54f26ad7d64fba439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":840767665
+        }
+    ],
+    "wof:id":840767665,
+    "wof:lastmodified":1464047518,
+    "wof:name":"Baxter Avenue Baptist Church",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.729667,
+    38.247069,
+    -85.729667,
+    38.247069
+],
+  "geometry": {"coordinates":[-85.72966700000001,38.247069],"type":"Point"}
+}

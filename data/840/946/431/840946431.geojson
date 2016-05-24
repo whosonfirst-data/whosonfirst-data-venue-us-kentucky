@@ -1,0 +1,75 @@
+{
+  "id": 840946431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437388,36.998066,-86.437388,36.998066",
+    "geom:latitude":36.998066,
+    "geom:longitude":-86.437388,
+    "iso:country":"US",
+    "sg:address":"316 E 5th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 1772",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NshHJI2EdB0sKvllIF8nP_36.998066_-86.437388@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051578,
+    "wof:geomhash":"198911ce7e849f38a5c4e9e9ab41d5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840946431
+        }
+    ],
+    "wof:id":840946431,
+    "wof:lastmodified":1464051578,
+    "wof:name":"Sander's Radiator & Battery Co",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -86.437388,
+    36.998066,
+    -86.437388,
+    36.998066
+],
+  "geometry": {"coordinates":[-86.437388,36.998066],"type":"Point"}
+}

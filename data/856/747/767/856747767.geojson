@@ -1,0 +1,82 @@
+{
+  "id": 856747767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647467,38.212101,-85.647467,38.212101",
+    "geom:latitude":38.212101,
+    "geom:longitude":-85.647467,
+    "iso:country":"US",
+    "sg:address":"3638 Windward Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 6858",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "fix-it",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KA9q2jdnNcL2xbN2kOnwK_38.212101_-85.647467@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053668,
+    "wof:geomhash":"d9bc8598f997eba1c9747e02d7047ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747767
+        }
+    ],
+    "wof:id":856747767,
+    "wof:lastmodified":1464053668,
+    "wof:name":"Mickey's Home Repair",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "fix-it",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.647467,
+    38.212101,
+    -85.647467,
+    38.212101
+],
+  "geometry": {"coordinates":[-85.64746700000001,38.212101],"type":"Point"}
+}

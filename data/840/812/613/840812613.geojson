@@ -1,0 +1,72 @@
+{
+  "id": 840812613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.544329,37.041544,-88.544329,37.041544",
+    "geom:latitude":37.041544,
+    "geom:longitude":-88.544329,
+    "iso:country":"US",
+    "sg:address":"4480 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 1111",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.massman.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Wd3gv8c01XbOnbml3VPo_37.041544_-88.544329@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048526,
+    "wof:geomhash":"02cae8b4461b143a64f85afe2b4ce70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840812613
+        }
+    ],
+    "wof:id":840812613,
+    "wof:lastmodified":1464048526,
+    "wof:name":"James Marine Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.544329,
+    37.041544,
+    -88.544329,
+    37.041544
+],
+  "geometry": {"coordinates":[-88.544329,37.041544],"type":"Point"}
+}

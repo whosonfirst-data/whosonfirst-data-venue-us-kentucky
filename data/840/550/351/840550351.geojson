@@ -1,0 +1,73 @@
+{
+  "id": 840550351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.408904,36.980163,-86.408904,36.980163",
+    "geom:latitude":36.980163,
+    "geom:longitude":-86.408904,
+    "iso:country":"US",
+    "sg:address":"915 Meadowlark Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8494",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nlauLqDC74BHRPkqucMX2_36.980163_-86.408904@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042521,
+    "wof:geomhash":"c7a36edf8c3da88336113130e710765b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840550351
+        }
+    ],
+    "wof:id":840550351,
+    "wof:lastmodified":1464042521,
+    "wof:name":"Simpson Brothers Painting",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.408904,
+    36.980163,
+    -86.408904,
+    36.980163
+],
+  "geometry": {"coordinates":[-86.40890400000001,36.980163],"type":"Point"}
+}

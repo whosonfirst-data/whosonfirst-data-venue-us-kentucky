@@ -1,0 +1,79 @@
+{
+  "id": 840573461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.732073,38.225333,-85.732073,38.225333",
+    "geom:latitude":38.225333,
+    "geom:longitude":-85.732073,
+    "iso:country":"US",
+    "sg:address":"1237 Goss Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 6668",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ju7JydH7KuDN4zCn7ao2e_38.225333_-85.732073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043071,
+    "wof:geomhash":"d48f61c53f8e9b5c4db069342860c79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":840573461
+        }
+    ],
+    "wof:id":840573461,
+    "wof:lastmodified":1464043071,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.732073,
+    38.225333,
+    -85.732073,
+    38.225333
+],
+  "geometry": {"coordinates":[-85.732073,38.225333],"type":"Point"}
+}

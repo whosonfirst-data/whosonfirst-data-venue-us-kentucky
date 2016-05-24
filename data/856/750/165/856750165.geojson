@@ -1,0 +1,88 @@
+{
+  "id": 856750165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.512102,38.242835,-85.512102,38.242835",
+    "geom:latitude":38.242835,
+    "geom:longitude":-85.512102,
+    "iso:country":"US",
+    "sg:address":"13106 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 2551",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rrwUC9HTgMVg6k4rZWOLQ_38.242835_-85.512102@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053758,
+    "wof:geomhash":"5c46d4931037739716a63a22ff7d6c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750165
+        }
+    ],
+    "wof:id":856750165,
+    "wof:lastmodified":1464053758,
+    "wof:name":"Walmart Supercenter",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.512102,
+    38.242835,
+    -85.512102,
+    38.242835
+],
+  "geometry": {"coordinates":[-85.512102,38.242835],"type":"Point"}
+}

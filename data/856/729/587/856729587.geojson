@@ -1,0 +1,73 @@
+{
+  "id": 856729587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.641025,37.073149,-88.641025,37.073149",
+    "geom:latitude":37.073149,
+    "geom:longitude":-88.641025,
+    "iso:country":"US",
+    "sg:address":"3223 Madison St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0600",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40pIhVqDTb6VW3WP6qgSU7_37.073227_-88.641067@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052987,
+    "wof:geomhash":"4e621c6e0314c3e2e47232f890da9b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856729587
+        }
+    ],
+    "wof:id":856729587,
+    "wof:lastmodified":1464052987,
+    "wof:name":"Lawn Pride",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -88.641025,
+    37.073149,
+    -88.641025,
+    37.073149
+],
+  "geometry": {"coordinates":[-88.641025,37.073149],"type":"Point"}
+}

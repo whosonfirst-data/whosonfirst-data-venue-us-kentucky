@@ -1,0 +1,72 @@
+{
+  "id": 856736395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418514,36.92894,-86.418514,36.92894",
+    "geom:latitude":36.92894,
+    "geom:longitude":-86.418514,
+    "iso:country":"US",
+    "sg:address":"1979 Mel Browning St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/136306-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2658",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WZptE4DJhBQZK0Srw0GDW_36.928940_-86.418514@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053238,
+    "wof:geomhash":"d4e4c8318a433b08cf15c3e591e0a965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736395
+        }
+    ],
+    "wof:id":856736395,
+    "wof:lastmodified":1464053238,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -86.418514,
+    36.92894,
+    -86.418514,
+    36.92894
+],
+  "geometry": {"coordinates":[-86.418514,36.92894],"type":"Point"}
+}

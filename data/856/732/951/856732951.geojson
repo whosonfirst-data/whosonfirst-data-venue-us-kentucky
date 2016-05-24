@@ -1,0 +1,76 @@
+{
+  "id": 856732951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796919,38.249539,-85.796919,38.249539",
+    "geom:latitude":38.249539,
+    "geom:longitude":-85.796919,
+    "iso:country":"US",
+    "sg:address":"2720 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-west/186873-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 7110",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iG3ZIGYISVD2gnlf2iOKG_38.249539_-85.796919@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053108,
+    "wof:geomhash":"4f476d2fbffa5afb9ae5c7d675c23e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856732951
+        }
+    ],
+    "wof:id":856732951,
+    "wof:lastmodified":1464053108,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.796919,
+    38.249539,
+    -85.796919,
+    38.249539
+],
+  "geometry": {"coordinates":[-85.796919,38.249539],"type":"Point"}
+}

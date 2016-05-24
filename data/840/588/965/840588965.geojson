@@ -1,0 +1,75 @@
+{
+  "id": 840588965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.785847,37.744025,-85.785847,37.744025",
+    "geom:latitude":37.744025,
+    "geom:longitude":-85.785847,
+    "iso:country":"US",
+    "sg:address":"353 Glendover Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1383",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qcGM7Ea7LDPu46bAWEXmK_37.744025_-85.785847@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043399,
+    "wof:geomhash":"55367098e2482c7fb59deb944ea067d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840588965
+        }
+    ],
+    "wof:id":840588965,
+    "wof:lastmodified":1464043399,
+    "wof:name":"Windy Creek Farm",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -85.785847,
+    37.744025,
+    -85.785847,
+    37.744025
+],
+  "geometry": {"coordinates":[-85.785847,37.744025],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840846535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850685,37.630906,-85.850685,37.630906",
+    "geom:latitude":37.630906,
+    "geom:longitude":-85.850685,
+    "iso:country":"US",
+    "sg:address":"2618 Sportsman Lake Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8906",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T9iSJMNmTktlGFarhfnjN_37.630906_-85.850685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049362,
+    "wof:geomhash":"405704bbf09dcf886b1b57f687b46cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840846535
+        }
+    ],
+    "wof:id":840846535,
+    "wof:lastmodified":1464049362,
+    "wof:name":"Will's Heating & Air Cond",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.850685,
+    37.630906,
+    -85.850685,
+    37.630906
+],
+  "geometry": {"coordinates":[-85.850685,37.630906],"type":"Point"}
+}

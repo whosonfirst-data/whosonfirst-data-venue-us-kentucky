@@ -1,0 +1,84 @@
+{
+  "id": 856718441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.771799,37.651975,-84.771799,37.651975",
+    "geom:latitude":37.651975,
+    "geom:longitude":-84.771799,
+    "iso:country":"US",
+    "sg:address":"642 N 3rd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3972",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58dNsBpgOOVJOsuwx01UYC_37.651975_-84.771799@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052521,
+    "wof:geomhash":"e3638bec9bfb5900ee465904bd53db37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856718441
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856718441
+        }
+    ],
+    "wof:id":856718441,
+    "wof:lastmodified":1464052521,
+    "wof:name":"Danville Center For Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -84.771799,
+    37.651975,
+    -84.771799,
+    37.651975
+],
+  "geometry": {"coordinates":[-84.771799,37.651975],"type":"Point"}
+}

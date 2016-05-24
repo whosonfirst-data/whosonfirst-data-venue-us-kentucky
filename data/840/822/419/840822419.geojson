@@ -1,0 +1,78 @@
+{
+  "id": 840822419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.589946,38.311858,-85.589946,38.311858",
+    "geom:latitude":38.311858,
+    "geom:longitude":-85.589946,
+    "iso:country":"US",
+    "sg:address":"4403 Creekcrossing Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 228 6302",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cd40RFg4b2ZMunrrk28g9_38.311858_-85.589946@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048824,
+    "wof:geomhash":"192123604fd04e29c4c6d0a6bcc6bf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840822419
+        }
+    ],
+    "wof:id":840822419,
+    "wof:lastmodified":1464048824,
+    "wof:name":"Benchmark Inspection Svc Inc",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -85.589946,
+    38.311858,
+    -85.589946,
+    38.311858
+],
+  "geometry": {"coordinates":[-85.589946,38.311858],"type":"Point"}
+}

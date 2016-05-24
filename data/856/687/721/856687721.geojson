@@ -1,0 +1,73 @@
+{
+  "id": 856687721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.409902,36.922948,-86.409902,36.922948",
+    "geom:latitude":36.922948,
+    "geom:longitude":-86.409902,
+    "iso:country":"US",
+    "sg:address":"5358 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 4888",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KX3rwF6oLBUc89Uoj9CbN_36.922948_-86.409902@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051818,
+    "wof:geomhash":"43491692e841e57d0b0bad172fa02c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856687721
+        }
+    ],
+    "wof:id":856687721,
+    "wof:lastmodified":1464051818,
+    "wof:name":"Truck Tops Etc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -86.409902,
+    36.922948,
+    -86.409902,
+    36.922948
+],
+  "geometry": {"coordinates":[-86.409902,36.922948],"type":"Point"}
+}

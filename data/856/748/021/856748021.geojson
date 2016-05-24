@@ -1,0 +1,93 @@
+{
+  "id": 856748021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.6408,38.288883,-85.6408,38.288883",
+    "geom:latitude":38.288883,
+    "geom:longitude":-85.6408,
+    "iso:country":"US",
+    "sg:address":"6102 Baylor Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 326 8922",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KQps513jz7ycjHUwZgtrN_38.288883_-85.640800@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053677,
+    "wof:geomhash":"80544ea31cf1d21f43a0c5ebf9a8ca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856748021
+        }
+    ],
+    "wof:id":856748021,
+    "wof:lastmodified":1464053677,
+    "wof:name":"Bedside Medicine, Pllc",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.6408,
+    38.288883,
+    -85.6408,
+    38.288883
+],
+  "geometry": {"coordinates":[-85.6408,38.288883],"type":"Point"}
+}

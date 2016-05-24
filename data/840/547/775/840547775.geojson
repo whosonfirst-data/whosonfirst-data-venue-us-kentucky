@@ -1,0 +1,73 @@
+{
+  "id": 840547775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561746,39.035738,-84.561746,39.035738",
+    "geom:latitude":39.035738,
+    "geom:longitude":-84.561746,
+    "iso:country":"US",
+    "sg:address":"2523 Dixie Hwy",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 8868",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_244c1loOc0LFEcrFHgx2cj_39.035738_-84.561746@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042450,
+    "wof:geomhash":"7892510e8b323958e75c9a8ad9bf87f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840547775
+        }
+    ],
+    "wof:id":840547775,
+    "wof:lastmodified":1464042450,
+    "wof:name":"David P De Maria DDS",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.561746,
+    39.035738,
+    -84.561746,
+    39.035738
+],
+  "geometry": {"coordinates":[-84.561746,39.035738],"type":"Point"}
+}

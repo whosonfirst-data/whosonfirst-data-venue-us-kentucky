@@ -1,0 +1,71 @@
+{
+  "id": 856720923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.695855,36.762197,-83.695855,36.762197",
+    "geom:latitude":36.762197,
+    "geom:longitude":-83.695855,
+    "iso:country":"US",
+    "sg:address":"120 Walnut St",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 1983",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PsWA3DYdimDsotI9KJJiI_36.762197_-83.695855@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052630,
+    "wof:geomhash":"be9412157368c919be655f9d26de0bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856720923
+        }
+    ],
+    "wof:id":856720923,
+    "wof:lastmodified":1464052630,
+    "wof:name":"Longs One & Up",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.695855,
+    36.762197,
+    -83.695855,
+    36.762197
+],
+  "geometry": {"coordinates":[-83.69585499999999,36.762197],"type":"Point"}
+}

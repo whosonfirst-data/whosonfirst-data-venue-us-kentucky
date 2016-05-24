@@ -1,0 +1,66 @@
+{
+  "id": 840621613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471487,36.975944,-86.471487,36.975944",
+    "geom:latitude":36.975944,
+    "geom:longitude":-86.471487,
+    "iso:country":"US",
+    "sg:address":"2037 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5551",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xsSpLQ9TjXL3M6weqVkSz_36.975944_-86.471487@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044203,
+    "wof:geomhash":"1d3b34cd948e3fb2ce6443a4e46d1927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840621613
+        }
+    ],
+    "wof:id":840621613,
+    "wof:lastmodified":1464044203,
+    "wof:name":"Vette City Liquors",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.471487,
+    36.975944,
+    -86.471487,
+    36.975944
+],
+  "geometry": {"coordinates":[-86.471487,36.975944],"type":"Point"}
+}

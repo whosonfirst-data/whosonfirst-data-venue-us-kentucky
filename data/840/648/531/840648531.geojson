@@ -1,0 +1,73 @@
+{
+  "id": 840648531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44747,37.001569,-86.44747,37.001569",
+    "geom:latitude":37.001569,
+    "geom:longitude":-86.44747,
+    "iso:country":"US",
+    "sg:address":"441 Church Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 9032",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "adoption"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hfeh48K5zHW5n5OsVTbjR_37.001569_-86.447470@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044849,
+    "wof:geomhash":"3ca890b7b42488e8ae15e5ac048af5e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840648531
+        }
+    ],
+    "wof:id":840648531,
+    "wof:lastmodified":1464044849,
+    "wof:name":"Adoption Resource Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "adoption"
+    ]
+},
+  "bbox": [
+    -86.44747,
+    37.001569,
+    -86.44747,
+    37.001569
+],
+  "geometry": {"coordinates":[-86.44747,37.001569],"type":"Point"}
+}

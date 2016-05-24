@@ -1,0 +1,69 @@
+{
+  "id": 840869983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.709509,38.049729,-84.709509,38.049729",
+    "geom:latitude":38.049729,
+    "geom:longitude":-84.709509,
+    "iso:country":"US",
+    "sg:address":"513 Marsailles Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 5279",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X4wr3WYpIK2CCxRK8y1BQ_38.049729_-84.709509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049854,
+    "wof:geomhash":"b5cba669fc2b039f2d1179c3bf00f740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840869983
+        }
+    ],
+    "wof:id":840869983,
+    "wof:lastmodified":1464049854,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -84.709509,
+    38.049729,
+    -84.709509,
+    38.049729
+],
+  "geometry": {"coordinates":[-84.709509,38.049729],"type":"Point"}
+}

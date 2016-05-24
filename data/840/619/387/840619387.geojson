@@ -1,0 +1,73 @@
+{
+  "id": 840619387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.626679,37.808332,-87.626679,37.808332",
+    "geom:latitude":37.808332,
+    "geom:longitude":-87.626679,
+    "iso:country":"US",
+    "sg:address":"2100 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 1757",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "post",
+        "trading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JLOat0CgFp2snjDJzhrRY_37.808332_-87.626679@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044151,
+    "wof:geomhash":"70ed21f594b457b190a8bf6c5a8db3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840619387
+        }
+    ],
+    "wof:id":840619387,
+    "wof:lastmodified":1464044151,
+    "wof:name":"Red Wagon Trading Post",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "post",
+        "trading"
+    ]
+},
+  "bbox": [
+    -87.626679,
+    37.808332,
+    -87.626679,
+    37.808332
+],
+  "geometry": {"coordinates":[-87.626679,37.808332],"type":"Point"}
+}

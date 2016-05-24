@@ -1,0 +1,78 @@
+{
+  "id": 840737903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.566249,37.519177,-82.566249,37.519177",
+    "geom:latitude":37.519177,
+    "geom:longitude":-82.566249,
+    "iso:country":"US",
+    "sg:address":"3782 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 9029",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927,
+        102191575,
+        85947001,
+        85868825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EnN2tq8Yvy0NObETLkPIz_37.519177_-82.566249@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046854,
+    "wof:geomhash":"01a4ac6672aa156c8b2013db20b23746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840737903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947001,
+            "neighbourhood_id":85868825,
+            "region_id":85688641,
+            "venue_id":840737903
+        }
+    ],
+    "wof:id":840737903,
+    "wof:lastmodified":1464046854,
+    "wof:name":"Cardinal Country Store 8",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.566249,
+    37.519177,
+    -82.566249,
+    37.519177
+],
+  "geometry": {"coordinates":[-82.566249,37.519177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840584343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.580443,37.854628,-87.580443,37.854628",
+    "geom:latitude":37.854628,
+    "geom:longitude":-87.580443,
+    "iso:country":"US",
+    "sg:address":"316 14th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 2334",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FRwWjYFwMvloWo5Gkm6R3_37.854628_-87.580443@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043298,
+    "wof:geomhash":"c21873e8bcab52b534d9da85c41e5456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840584343
+        }
+    ],
+    "wof:id":840584343,
+    "wof:lastmodified":1464043298,
+    "wof:name":"Apria Healthcare",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.580443,
+    37.854628,
+    -87.580443,
+    37.854628
+],
+  "geometry": {"coordinates":[-87.580443,37.854628],"type":"Point"}
+}

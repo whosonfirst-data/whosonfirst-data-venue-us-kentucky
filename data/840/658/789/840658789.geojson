@@ -1,0 +1,75 @@
+{
+  "id": 840658789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.760464,37.638596,-84.760464,37.638596",
+    "geom:latitude":37.638596,
+    "geom:longitude":-84.760464,
+    "iso:country":"US",
+    "sg:address":"325 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3073",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947155,
+        102085579,
+        85822743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KgNpnVh4o2W6mdqI0Rpuu_37.638596_-84.760464@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045080,
+    "wof:geomhash":"977cee766c037f53b653dcd8393755ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85822743,
+            "region_id":85688641,
+            "venue_id":840658789
+        }
+    ],
+    "wof:id":840658789,
+    "wof:lastmodified":1464045080,
+    "wof:name":"Sims Garage",
+    "wof:parent_id":85822743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.760464,
+    37.638596,
+    -84.760464,
+    37.638596
+],
+  "geometry": {"coordinates":[-84.760464,37.638596],"type":"Point"}
+}

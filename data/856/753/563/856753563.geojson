@@ -1,0 +1,87 @@
+{
+  "id": 856753563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.520817,38.006783,-84.520817,38.006783",
+    "geom:latitude":38.006783,
+    "geom:longitude":-84.520817,
+    "iso:country":"US",
+    "sg:address":"150 W Lowry Ln Ste 114",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 3946",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hair",
+        "cosmetologist",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DC1MrebeuwcNKsIpKgzEf_38.006783_-84.520817@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053893,
+    "wof:geomhash":"4f6d4a61d164f4738c23642aa90fa3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":856753563
+        }
+    ],
+    "wof:id":856753563,
+    "wof:lastmodified":1464053893,
+    "wof:name":"Shear Pleasure",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "cosmetologist",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -84.520817,
+    38.006783,
+    -84.520817,
+    38.006783
+],
+  "geometry": {"coordinates":[-84.52081699999999,38.006783],"type":"Point"}
+}

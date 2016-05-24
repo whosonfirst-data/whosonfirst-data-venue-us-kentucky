@@ -1,0 +1,73 @@
+{
+  "id": 840891839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796309,38.249578,-85.796309,38.249578",
+    "geom:latitude":38.249578,
+    "geom:longitude":-85.796309,
+    "iso:country":"US",
+    "sg:address":"2619 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 1260",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mYymkv6aZFgyTIJDaygi0_38.249578_-85.796309@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050320,
+    "wof:geomhash":"b34d3041d7da47a762848c32058745d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840891839
+        }
+    ],
+    "wof:id":840891839,
+    "wof:lastmodified":1464050320,
+    "wof:name":"Leon D French DDS",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.796309,
+    38.249578,
+    -85.796309,
+    38.249578
+],
+  "geometry": {"coordinates":[-85.79630899999999,38.249578],"type":"Point"}
+}

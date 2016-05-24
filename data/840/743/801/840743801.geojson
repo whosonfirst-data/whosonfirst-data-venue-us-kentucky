@@ -1,0 +1,75 @@
+{
+  "id": 840743801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.69749,37.025151,-88.69749,37.025151",
+    "geom:latitude":37.025151,
+    "geom:longitude":-88.69749,
+    "iso:country":"US",
+    "sg:address":"125 Colony Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 4856",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lfXXE5wuhfsfoM8YuswLX_37.025151_-88.697490@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046965,
+    "wof:geomhash":"43fc233db165d087effc0367b30d9f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840743801
+        }
+    ],
+    "wof:id":840743801,
+    "wof:lastmodified":1464046965,
+    "wof:name":"Telephone Service Co",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.69749,
+    37.025151,
+    -88.69749,
+    37.025151
+],
+  "geometry": {"coordinates":[-88.69749,37.025151],"type":"Point"}
+}

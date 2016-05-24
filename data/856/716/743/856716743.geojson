@@ -1,0 +1,71 @@
+{
+  "id": 856716743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.295161,37.670121,-82.295161,37.670121",
+    "geom:latitude":37.670121,
+    "geom:longitude":-82.295161,
+    "iso:country":"US",
+    "sg:address":"1174 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 1222",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VEw3i6O6Ag0XzWbaVfie2_37.670121_-82.295161@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052459,
+    "wof:geomhash":"399fd8f246fc70915597aa9cc81fd240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856716743
+        }
+    ],
+    "wof:id":856716743,
+    "wof:lastmodified":1464052459,
+    "wof:name":"Tug Valley Surveying Inc",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -82.295161,
+    37.670121,
+    -82.295161,
+    37.670121
+],
+  "geometry": {"coordinates":[-82.29516099999999,37.670121],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840930185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422295,36.956159,-86.422295,36.956159",
+    "geom:latitude":36.956159,
+    "geom:longitude":-86.422295,
+    "iso:country":"US",
+    "sg:address":"1060 Searcy Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3415",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iYhP4FUctgxpJawjS138c_36.956159_-86.422295@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051250,
+    "wof:geomhash":"7995aa65a536d807e3c235645e1897ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840930185
+        }
+    ],
+    "wof:id":840930185,
+    "wof:lastmodified":1464051250,
+    "wof:name":"NTC",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -86.422295,
+    36.956159,
+    -86.422295,
+    36.956159
+],
+  "geometry": {"coordinates":[-86.42229500000001,36.956159],"type":"Point"}
+}

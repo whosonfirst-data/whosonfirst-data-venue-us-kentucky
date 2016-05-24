@@ -1,0 +1,86 @@
+{
+  "id": 856761465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.670807,37.026718,-88.670807,37.026718",
+    "geom:latitude":37.026718,
+    "geom:longitude":-88.670807,
+    "iso:country":"US",
+    "sg:address":"3601 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1441",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-baptist-general",
+        "kindergarten",
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.loneoakfbc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679A7zLe4LWdbNISfc4GvG_37.026718_-88.670807@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054177,
+    "wof:geomhash":"2f578975f46053993b8dc8301654948f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761465
+        }
+    ],
+    "wof:id":856761465,
+    "wof:lastmodified":1464054177,
+    "wof:name":"Lone Oak First Baptist Church",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "kindergarten",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -88.670807,
+    37.026718,
+    -88.670807,
+    37.026718
+],
+  "geometry": {"coordinates":[-88.670807,37.026718],"type":"Point"}
+}

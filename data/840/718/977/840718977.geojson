@@ -1,0 +1,68 @@
+{
+  "id": 840718977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5194,38.003998,-84.5194,38.003998",
+    "geom:latitude":38.003998,
+    "geom:longitude":-84.5194,
+    "iso:country":"US",
+    "sg:address":"2323 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 1915",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34SjbAB1mZP7RLPayl0lOS_38.003998_-84.519400@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046483,
+    "wof:geomhash":"40b3e9361e0186ed2bbdedd2f08acb2c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840718977
+        }
+    ],
+    "wof:id":840718977,
+    "wof:lastmodified":1464046483,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.5194,
+    38.003998,
+    -84.5194,
+    38.003998
+],
+  "geometry": {"coordinates":[-84.5194,38.003998],"type":"Point"}
+}

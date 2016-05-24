@@ -1,0 +1,77 @@
+{
+  "id": 840788417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.736018,38.188492,-85.736018,38.188492",
+    "geom:latitude":38.188492,
+    "geom:longitude":-85.736018,
+    "iso:country":"US",
+    "sg:address":"650 Administration Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 5183",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533321,
+        85873389,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ita3wD6jsDGAfZ2IEtnq1_38.188492_-85.736018@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047944,
+    "wof:geomhash":"3c14116767bfac6b4ab20b1b89b2b549",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533321,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873389,
+            "region_id":85688641,
+            "venue_id":840788417
+        }
+    ],
+    "wof:id":840788417,
+    "wof:lastmodified":1464047944,
+    "wof:name":"US Customs Svc",
+    "wof:parent_id":102533321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -85.736018,
+    38.188492,
+    -85.736018,
+    38.188492
+],
+  "geometry": {"coordinates":[-85.736018,38.188492],"type":"Point"}
+}

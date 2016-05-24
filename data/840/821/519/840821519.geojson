@@ -1,0 +1,73 @@
+{
+  "id": 840821519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.79154,38.249257,-85.79154,38.249257",
+    "geom:latitude":38.249257,
+    "geom:longitude":-85.79154,
+    "iso:country":"US",
+    "sg:address":"2302 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 5050",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R00mB6XGnhcsLafiYWnwA_38.249257_-85.791540@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048793,
+    "wof:geomhash":"cf48be936a950a31160a8e6938fa4f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840821519
+        }
+    ],
+    "wof:id":840821519,
+    "wof:lastmodified":1464048793,
+    "wof:name":"USA Nails",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -85.79154,
+    38.249257,
+    -85.79154,
+    38.249257
+],
+  "geometry": {"coordinates":[-85.79154,38.249257],"type":"Point"}
+}

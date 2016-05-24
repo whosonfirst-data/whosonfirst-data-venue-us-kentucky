@@ -1,0 +1,74 @@
+{
+  "id": 856754337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500951,38.043601,-84.500951,38.043601",
+    "geom:latitude":38.043601,
+    "geom:longitude":-84.500951,
+    "iso:country":"US",
+    "sg:address":"285 S Limestone",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 5125",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.pazzospizzapub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b50ZP6o0esVI3JnR6tGZT_38.043601_-84.500951@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053922,
+    "wof:geomhash":"60685c0e2f06e7fcc1f17ac1986d3d15",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856754337
+        }
+    ],
+    "wof:id":856754337,
+    "wof:lastmodified":1464053922,
+    "wof:name":"Pazzo's Pizza Pub",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.500951,
+    38.043601,
+    -84.500951,
+    38.043601
+],
+  "geometry": {"coordinates":[-84.500951,38.043601],"type":"Point"}
+}

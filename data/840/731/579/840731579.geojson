@@ -1,0 +1,73 @@
+{
+  "id": 840731579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.992064,37.663878,-85.992064,37.663878",
+    "geom:latitude":37.663878,
+    "geom:longitude":-85.992064,
+    "iso:country":"US",
+    "sg:address":"2982 Hardinsburg Rd",
+    "sg:city":"Cecilia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2900",
+    "sg:postcode":"42724",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x2VtWOKRJGGcmEUbQXYyw_37.663878_-85.992064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046733,
+    "wof:geomhash":"95faa05bc389850a1e1824c595558067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840731579
+        }
+    ],
+    "wof:id":840731579,
+    "wof:lastmodified":1464046733,
+    "wof:name":"Kentucky 86 Fire Dept",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.992064,
+    37.663878,
+    -85.992064,
+    37.663878
+],
+  "geometry": {"coordinates":[-85.992064,37.663878],"type":"Point"}
+}

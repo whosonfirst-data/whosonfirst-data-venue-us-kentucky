@@ -1,0 +1,84 @@
+{
+  "id": 856754935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55513,38.019878,-84.55513,38.019878",
+    "geom:latitude":38.019878,
+    "geom:longitude":-84.55513,
+    "iso:country":"US",
+    "sg:address":"1000 Monarch St Ste 100",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 8421",
+    "sg:postcode":"40513",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.cfplex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MAJw9Va47otgwGRYwXmt0_38.019878_-84.555130@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053942,
+    "wof:geomhash":"20c26a6cebef99fd1fc883e1b09dcc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826825,
+            "region_id":85688641,
+            "venue_id":856754935
+        }
+    ],
+    "wof:id":856754935,
+    "wof:lastmodified":1464053942,
+    "wof:name":"Commonwealth Family Physicians",
+    "wof:parent_id":85826825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.55513,
+    38.019878,
+    -84.55513,
+    38.019878
+],
+  "geometry": {"coordinates":[-84.55513000000001,38.019878],"type":"Point"}
+}

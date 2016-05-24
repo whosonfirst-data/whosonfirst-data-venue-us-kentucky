@@ -1,0 +1,72 @@
+{
+  "id": 840680659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437646,36.950611,-86.437646,36.950611",
+    "geom:latitude":36.950611,
+    "geom:longitude":-86.437646,
+    "iso:country":"US",
+    "sg:address":"150 American Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 5000",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.lowes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DxSeoeki0QS6VJmpDQsx9_36.950611_-86.437646@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045593,
+    "wof:geomhash":"5b0ff83482c54f67bd5450b53033dea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840680659
+        }
+    ],
+    "wof:id":840680659,
+    "wof:lastmodified":1464045593,
+    "wof:name":"Lowe's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -86.437646,
+    36.950611,
+    -86.437646,
+    36.950611
+],
+  "geometry": {"coordinates":[-86.437646,36.950611],"type":"Point"}
+}

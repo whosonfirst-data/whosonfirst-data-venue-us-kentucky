@@ -1,0 +1,75 @@
+{
+  "id": 840784767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.631255,37.160101,-84.631255,37.160101",
+    "geom:latitude":37.160101,
+    "geom:longitude":-84.631255,
+    "iso:country":"US",
+    "sg:address":"85 Estes Ln",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 5176",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TPu3nykgH2w7l8BKxI5ZX_37.160101_-84.631255@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047852,
+    "wof:geomhash":"1681f69b63b5a3810cf6e5bca39d27e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840784767
+        }
+    ],
+    "wof:id":840784767,
+    "wof:lastmodified":1464047852,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.631255,
+    37.160101,
+    -84.631255,
+    37.160101
+],
+  "geometry": {"coordinates":[-84.631255,37.160101],"type":"Point"}
+}

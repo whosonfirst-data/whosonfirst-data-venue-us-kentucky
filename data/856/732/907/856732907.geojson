@@ -1,0 +1,74 @@
+{
+  "id": 856732907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662009,38.253421,-85.662009,38.253421",
+    "geom:latitude":38.253421,
+    "geom:longitude":-85.662009,
+    "iso:country":"US",
+    "sg:address":"3702 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/118922-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 8461",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GcCN5ovgIG1wcreKDWCIy_38.253421_-85.662009@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053106,
+    "wof:geomhash":"61c2a5619355f5a0377c5eb3531b1392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856732907
+        }
+    ],
+    "wof:id":856732907,
+    "wof:lastmodified":1464053106,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.662009,
+    38.253421,
+    -85.662009,
+    38.253421
+],
+  "geometry": {"coordinates":[-85.662009,38.253421],"type":"Point"}
+}

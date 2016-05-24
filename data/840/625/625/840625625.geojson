@@ -1,0 +1,84 @@
+{
+  "id": 840625625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.681366,38.185142,-85.681366,38.185142",
+    "geom:latitude":38.185142,
+    "geom:longitude":-85.681366,
+    "iso:country":"US",
+    "sg:address":"4211 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 0032",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.eastech.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qB9y6dFccxyozYEBpEE5A_38.185142_-85.681366@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044308,
+    "wof:geomhash":"657d5f49be2e13a25c9950107b5dc128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840625625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840625625
+        }
+    ],
+    "wof:id":840625625,
+    "wof:lastmodified":1464044308,
+    "wof:name":"Eastech",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -85.681366,
+    38.185142,
+    -85.681366,
+    38.185142
+],
+  "geometry": {"coordinates":[-85.681366,38.185142],"type":"Point"}
+}

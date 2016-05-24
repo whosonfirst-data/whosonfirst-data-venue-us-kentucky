@@ -1,0 +1,71 @@
+{
+  "id": 840650407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.849052,37.658583,-85.849052,37.658583",
+    "geom:latitude":37.658583,
+    "geom:longitude":-85.849052,
+    "iso:country":"US",
+    "sg:address":"2540 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 1395",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MCJH267MP78ARL1Cv04Zs_37.658583_-85.849052@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044889,
+    "wof:geomhash":"fd9ec6495d1983e8b949064440062dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840650407
+        }
+    ],
+    "wof:id":840650407,
+    "wof:lastmodified":1464044889,
+    "wof:name":"SMC Warehouse",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -85.849052,
+    37.658583,
+    -85.849052,
+    37.658583
+],
+  "geometry": {"coordinates":[-85.849052,37.658583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840621671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.907813,36.964212,-82.907813,36.964212",
+    "geom:latitude":36.964212,
+    "geom:longitude":-82.907813,
+    "iso:country":"US",
+    "sg:address":"202 Church St",
+    "sg:city":"Lynch",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 848 2222",
+    "sg:postcode":"40855",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LCr3Xzfrt4SLrttHnE7RI_36.964212_-82.907813@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044204,
+    "wof:geomhash":"a5556320a1328e8f91f92a4490dd8394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840621671
+        }
+    ],
+    "wof:id":840621671,
+    "wof:lastmodified":1464044204,
+    "wof:name":"Boys & Girls Club-The Tri",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -82.907813,
+    36.964212,
+    -82.907813,
+    36.964212
+],
+  "geometry": {"coordinates":[-82.907813,36.964212],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856746771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.671315,38.179092,-85.671315,38.179092",
+    "geom:latitude":38.179092,
+    "geom:longitude":-85.671315,
+    "iso:country":"US",
+    "sg:address":"4931 Shasta Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 1314",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4usLQfARGEmfJbsn4DvT5V_38.179092_-85.671315@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053623,
+    "wof:geomhash":"a814557525a8b65c65dbd57e0a2bb983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746771
+        }
+    ],
+    "wof:id":856746771,
+    "wof:lastmodified":1464053623,
+    "wof:name":"C D L Cleaning Team Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -85.671315,
+    38.179092,
+    -85.671315,
+    38.179092
+],
+  "geometry": {"coordinates":[-85.67131500000001,38.179092],"type":"Point"}
+}

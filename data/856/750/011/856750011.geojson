@@ -1,0 +1,84 @@
+{
+  "id": 856750011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.575174,38.31384,-85.575174,38.31384",
+    "geom:latitude":38.31384,
+    "geom:longitude":-85.575174,
+    "iso:country":"US",
+    "sg:address":"4950 Norton Healthcare Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 394 6300",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "imaging",
+        "laboratory",
+        "surgeon",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NQODtkHln7OXzC0tfVbs0_38.313840_-85.575174@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053749,
+    "wof:geomhash":"7a884ad386c2713e920543c810edadeb",
+    "wof:hierarchy":[],
+    "wof:id":856750011,
+    "wof:lastmodified":1464053749,
+    "wof:name":"Norton Diagnostic Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "imaging",
+        "laboratory",
+        "surgeon",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -85.575174,
+    38.31384,
+    -85.575174,
+    38.31384
+],
+  "geometry": {"coordinates":[-85.575174,38.31384],"type":"Point"}
+}

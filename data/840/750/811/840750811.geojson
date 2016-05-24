@@ -1,0 +1,73 @@
+{
+  "id": 840750811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528815,39.038942,-84.528815,39.038942",
+    "geom:latitude":39.038942,
+    "geom:longitude":-84.528815,
+    "iso:country":"US",
+    "sg:address":"3339 Madison Pike",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 426 0426",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SJaeDBomgYf2rLnJ3yaLt_39.038942_-84.528815@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047126,
+    "wof:geomhash":"02a6490705e04051ce050b510c967e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840750811
+        }
+    ],
+    "wof:id":840750811,
+    "wof:lastmodified":1464047126,
+    "wof:name":"Fort Wright Pet Care",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.528815,
+    39.038942,
+    -84.528815,
+    39.038942
+],
+  "geometry": {"coordinates":[-84.52881499999999,39.038942],"type":"Point"}
+}

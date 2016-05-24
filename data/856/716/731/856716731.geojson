@@ -1,0 +1,73 @@
+{
+  "id": 856716731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.770488,38.235312,-85.770488,38.235312",
+    "geom:latitude":38.235312,
+    "geom:longitude":-85.770488,
+    "iso:country":"US",
+    "sg:address":"1210 S 10th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 1633",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JoAyWcyBacgWNEzhTpMgH_38.235312_-85.770488@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052459,
+    "wof:geomhash":"0c49c73f16487decb4cf225e6a6cc500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856716731
+        }
+    ],
+    "wof:id":856716731,
+    "wof:lastmodified":1464052459,
+    "wof:name":"Goatley Atuo Repair",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.770488,
+    38.235312,
+    -85.770488,
+    38.235312
+],
+  "geometry": {"coordinates":[-85.770488,38.235312],"type":"Point"}
+}

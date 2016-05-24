@@ -1,0 +1,71 @@
+{
+  "id": 840762255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.621634,37.904899,-84.621634,37.904899",
+    "geom:latitude":37.904899,
+    "geom:longitude":-84.621634,
+    "iso:country":"US",
+    "sg:address":"7696 Harrodsburg Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3227",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ao7hheZPMw50Bc31KqWJO_37.904899_-84.621634@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047394,
+    "wof:geomhash":"b093662b2bebfd5da54cc38607c393da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840762255
+        }
+    ],
+    "wof:id":840762255,
+    "wof:lastmodified":1464047394,
+    "wof:name":"Dobson Power Line Construction",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.621634,
+    37.904899,
+    -84.621634,
+    37.904899
+],
+  "geometry": {"coordinates":[-84.621634,37.904899],"type":"Point"}
+}

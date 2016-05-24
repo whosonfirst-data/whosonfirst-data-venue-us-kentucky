@@ -1,0 +1,73 @@
+{
+  "id": 856713551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.650086,37.984957,-85.650086,37.984957",
+    "geom:latitude":37.984957,
+    "geom:longitude":-85.650086,
+    "iso:country":"US",
+    "sg:address":"390 Cedar Creek Ln",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 5620",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yxbQhNsJrXdPe4jjHWrfp_37.984957_-85.650086@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052340,
+    "wof:geomhash":"bbb3a14965f3d66a4ad72c0422de39b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856713551
+        }
+    ],
+    "wof:id":856713551,
+    "wof:lastmodified":1464052340,
+    "wof:name":"John Heffley Plumbing Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.650086,
+    37.984957,
+    -85.650086,
+    37.984957
+],
+  "geometry": {"coordinates":[-85.650086,37.984957],"type":"Point"}
+}

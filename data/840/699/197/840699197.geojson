@@ -1,0 +1,73 @@
+{
+  "id": 840699197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.654306,37.047971,-88.654306,37.047971",
+    "geom:latitude":37.047971,
+    "geom:longitude":-88.654306,
+    "iso:country":"US",
+    "sg:address":"2110 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1000",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qu2LzeKAAPh0JZ5HfVLWV_37.047971_-88.654306@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046070,
+    "wof:geomhash":"a48561a860e294fc6830458d13ff013e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840699197
+        }
+    ],
+    "wof:id":840699197,
+    "wof:lastmodified":1464046070,
+    "wof:name":"All Seasons Car Wash",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.654306,
+    37.047971,
+    -88.654306,
+    37.047971
+],
+  "geometry": {"coordinates":[-88.65430600000001,37.047971],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840830351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447628,36.995039,-86.447628,36.995039",
+    "geom:latitude":36.995039,
+    "geom:longitude":-86.447628,
+    "iso:country":"US",
+    "sg:address":"1115 Adams St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 1453",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzGGmuxXtZPmfOfOcOw4E_36.995039_-86.447628@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049013,
+    "wof:geomhash":"6ddc0656dc09c5adf8745b4538ee0ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840830351
+        }
+    ],
+    "wof:id":840830351,
+    "wof:lastmodified":1464049013,
+    "wof:name":"Unitarian Universalist Flshp",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.447628,
+    36.995039,
+    -86.447628,
+    36.995039
+],
+  "geometry": {"coordinates":[-86.44762799999999,36.995039],"type":"Point"}
+}

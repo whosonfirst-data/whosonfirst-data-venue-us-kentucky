@@ -1,0 +1,75 @@
+{
+  "id": 840952867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.765437,38.205526,-85.765437,38.205526",
+    "geom:latitude":38.205526,
+    "geom:longitude":-85.765437,
+    "iso:country":"US",
+    "sg:address":"3031 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 8897",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63mokXtWZL1w83l9V5GbL1_38.205526_-85.765437@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051708,
+    "wof:geomhash":"c53ff300941e70483b7fae615bca26a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":840952867
+        }
+    ],
+    "wof:id":840952867,
+    "wof:lastmodified":1464051708,
+    "wof:name":"Derby City Marketing",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -85.765437,
+    38.205526,
+    -85.765437,
+    38.205526
+],
+  "geometry": {"coordinates":[-85.76543700000001,38.205526],"type":"Point"}
+}

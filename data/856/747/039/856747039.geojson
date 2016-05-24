@@ -1,0 +1,83 @@
+{
+  "id": 856747039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.705208,38.15828,-85.705208,38.15828",
+    "geom:latitude":38.15828,
+    "geom:longitude":-85.705208,
+    "iso:country":"US",
+    "sg:address":"926 Ulrich Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 9692",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machines-household",
+        "sewing",
+        "machines-service"
+    ],
+    "sg:website":"http://www.sewservicecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OMRKrwM4a0XyV0wE3MXDv_38.158280_-85.705208@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053633,
+    "wof:geomhash":"b3705b36034df7edeb8e2f65bacbe756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856747039
+        }
+    ],
+    "wof:id":856747039,
+    "wof:lastmodified":1464053633,
+    "wof:name":"Sew & Service Center",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-household",
+        "sewing",
+        "machines-service"
+    ]
+},
+  "bbox": [
+    -85.705208,
+    38.15828,
+    -85.705208,
+    38.15828
+],
+  "geometry": {"coordinates":[-85.705208,38.15828],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840923249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.001068,36.976651,-83.001068,36.976651",
+    "geom:latitude":36.976651,
+    "geom:longitude":-83.001068,
+    "iso:country":"US",
+    "sg:address":"908 River Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 4022",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nxDKVJ09ccRoqVM5ZBQ0h_36.976651_-83.001068@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051087,
+    "wof:geomhash":"61e27bee35e8dd1f7417a72d68ff4127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840923249
+        }
+    ],
+    "wof:id":840923249,
+    "wof:lastmodified":1464051087,
+    "wof:name":"Cumberland Sewer Treating Plnt",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [
+    -83.001068,
+    36.976651,
+    -83.001068,
+    36.976651
+],
+  "geometry": {"coordinates":[-83.001068,36.976651],"type":"Point"}
+}

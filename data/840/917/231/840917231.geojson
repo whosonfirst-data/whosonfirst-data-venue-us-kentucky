@@ -1,0 +1,75 @@
+{
+  "id": 840917231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.873335,37.712281,-85.873335,37.712281",
+    "geom:latitude":37.712281,
+    "geom:longitude":-85.873335,
+    "iso:country":"US",
+    "sg:address":"915 Memorial Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6709",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JbYKhcakAZfYon9AAcZeu_37.712281_-85.873335@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050938,
+    "wof:geomhash":"aa00a98922271084f0e5ba5594ee71a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840917231
+        }
+    ],
+    "wof:id":840917231,
+    "wof:lastmodified":1464050938,
+    "wof:name":"Elizabethtown Psychologists",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -85.873335,
+    37.712281,
+    -85.873335,
+    37.712281
+],
+  "geometry": {"coordinates":[-85.873335,37.712281],"type":"Point"}
+}

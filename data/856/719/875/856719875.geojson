@@ -1,0 +1,71 @@
+{
+  "id": 856719875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683058,37.077846,-88.683058,37.077846",
+    "geom:latitude":37.077846,
+    "geom:longitude":-88.683058,
+    "iso:country":"US",
+    "sg:address":"5017 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 415 9103",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sg2ZHhb95bTT2qOMWS4nJ_37.077846_-88.683058@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052587,
+    "wof:geomhash":"c7d3945b5484211eda51c47e9fcb558b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856719875
+        }
+    ],
+    "wof:id":856719875,
+    "wof:lastmodified":1464052587,
+    "wof:name":"Sprint PCS",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -88.683058,
+    37.077846,
+    -88.683058,
+    37.077846
+],
+  "geometry": {"coordinates":[-88.683058,37.077846],"type":"Point"}
+}

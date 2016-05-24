@@ -1,0 +1,75 @@
+{
+  "id": 840611447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758357,38.248913,-85.758357,38.248913",
+    "geom:latitude":38.248913,
+    "geom:longitude":-85.758357,
+    "iso:country":"US",
+    "sg:address":"410 W Chestnut St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 8493",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h1g8mhcs69N0eyABC9IDH_38.248913_-85.758357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043953,
+    "wof:geomhash":"9423b65a36ff05d99de9a1f6d702fa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":840611447
+        }
+    ],
+    "wof:id":840611447,
+    "wof:lastmodified":1464043953,
+    "wof:name":"Armond T Gordon MD",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.758357,
+    38.248913,
+    -85.758357,
+    38.248913
+],
+  "geometry": {"coordinates":[-85.758357,38.248913],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856761217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691337,37.07535,-88.691337,37.07535",
+    "geom:latitude":37.07535,
+    "geom:longitude":-88.691337,
+    "iso:country":"US",
+    "sg:address":"5124 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8161",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A31sKiEahRmen0HdMXOD0_37.075350_-88.691337@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054168,
+    "wof:geomhash":"033c503415ad5a5f7a7286d3a92202dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761217
+        }
+    ],
+    "wof:id":856761217,
+    "wof:lastmodified":1464054168,
+    "wof:name":"Auto America",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -88.691337,
+    37.07535,
+    -88.691337,
+    37.07535
+],
+  "geometry": {"coordinates":[-88.691337,37.07535],"type":"Point"}
+}

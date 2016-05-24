@@ -1,0 +1,69 @@
+{
+  "id": 856701545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43449,38.182532,-83.43449,38.182532",
+    "geom:latitude":38.182532,
+    "geom:longitude":-83.43449,
+    "iso:country":"US",
+    "sg:address":"122 E Main St",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 780 8300",
+    "sg:postcode":"40351",
+    "sg:province":"KY",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946999,
+        102084549,
+        85807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ZBYTBSU3G5fWmhja6hFw_38.182532_-83.434490@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052092,
+    "wof:geomhash":"1c310892c32c8bda0e2289350dafff36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084549,
+            "locality_id":85946999,
+            "neighbourhood_id":85807011,
+            "region_id":85688641,
+            "venue_id":856701545
+        }
+    ],
+    "wof:id":856701545,
+    "wof:lastmodified":1464052092,
+    "wof:name":"US Bank",
+    "wof:parent_id":85807011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.43449,
+    38.182532,
+    -83.43449,
+    38.182532
+],
+  "geometry": {"coordinates":[-83.43449,38.182532],"type":"Point"}
+}

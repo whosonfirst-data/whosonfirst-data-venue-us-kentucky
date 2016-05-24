@@ -1,0 +1,71 @@
+{
+  "id": 840880681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796495,37.24312,-85.796495,37.24312",
+    "geom:latitude":37.24312,
+    "geom:longitude":-85.796495,
+    "iso:country":"US",
+    "sg:address":"965 S Jackson Hwy",
+    "sg:city":"Hardyville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 528 5332",
+    "sg:postcode":"42746",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VDwEjmS0sskUuaBp6mM5n_37.243120_-85.796495@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050087,
+    "wof:geomhash":"3aa4b3850c745e82e1dfe3ff99ff3905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840880681
+        }
+    ],
+    "wof:id":840880681,
+    "wof:lastmodified":1464050087,
+    "wof:name":"Country Harmony Beauty Salon",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.796495,
+    37.24312,
+    -85.796495,
+    37.24312
+],
+  "geometry": {"coordinates":[-85.79649499999999,37.24312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856721039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.573509,37.054144,-88.573509,37.054144",
+    "geom:latitude":37.054144,
+    "geom:longitude":-88.573509,
+    "iso:country":"US",
+    "sg:address":"3035 Parker St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 6926",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zXjeAVKhF6xKABdVmIion_37.054144_-88.573509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052635,
+    "wof:geomhash":"351eaa8de869ee89117b7f6867bd1b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856721039
+        }
+    ],
+    "wof:id":856721039,
+    "wof:lastmodified":1464052635,
+    "wof:name":"Jehovah's Witnesses",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.573509,
+    37.054144,
+    -88.573509,
+    37.054144
+],
+  "geometry": {"coordinates":[-88.573509,37.054144],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 856753671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.552,38.010806,-84.552,38.010806",
+    "geom:latitude":38.010806,
+    "geom:longitude":-84.552,
+    "iso:country":"US",
+    "sg:address":"861 Corporate Dr Ste 200",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 223 3400",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "delivery",
+        "sandwich",
+        "balloons-retail"
+    ],
+    "sg:website":"http://www.manhattanbagel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ihhjWmD4NEvqgDP5m96R_38.010806_-84.552000@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053897,
+    "wof:geomhash":"7195ddc104733155ea47194f4ac0531e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856753671
+        }
+    ],
+    "wof:id":856753671,
+    "wof:lastmodified":1464053897,
+    "wof:name":"Manhattan Bagel",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delivery",
+        "sandwich",
+        "balloons-retail"
+    ]
+},
+  "bbox": [
+    -84.552,
+    38.010806,
+    -84.552,
+    38.010806
+],
+  "geometry": {"coordinates":[-84.55200000000001,38.010806],"type":"Point"}
+}

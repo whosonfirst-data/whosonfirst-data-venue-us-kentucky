@@ -1,0 +1,86 @@
+{
+  "id": 840568181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773849,37.647198,-84.773849,37.647198",
+    "geom:latitude":37.647198,
+    "geom:longitude":-84.773849,
+    "iso:country":"US",
+    "sg:address":"116 N 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 1127",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MYTB8ZBc4OzSLOWttfXOD_37.647198_-84.773849@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042935,
+    "wof:geomhash":"46f3eb3f82d8bb7998963963cbda3ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840568181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840568181
+        }
+    ],
+    "wof:id":840568181,
+    "wof:lastmodified":1464042935,
+    "wof:name":"Boyle County Jail",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -84.773849,
+    37.647198,
+    -84.773849,
+    37.647198
+],
+  "geometry": {"coordinates":[-84.773849,37.647198],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840787493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.377153,37.011328,-86.377153,37.011328",
+    "geom:latitude":37.011328,
+    "geom:longitude":-86.377153,
+    "iso:country":"US",
+    "sg:address":"123 Willamette Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8026",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"www.mercurybags.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XKT2la1SpcQ3ntX108azQ_37.011328_-86.377153@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047929,
+    "wof:geomhash":"00f6a33a6ca8b72866be0ad2e5d721d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840787493
+        }
+    ],
+    "wof:id":840787493,
+    "wof:lastmodified":1464047929,
+    "wof:name":"Mercury Plastics",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -86.377153,
+    37.011328,
+    -86.377153,
+    37.011328
+],
+  "geometry": {"coordinates":[-86.37715300000001,37.011328],"type":"Point"}
+}

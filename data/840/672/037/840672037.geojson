@@ -1,0 +1,71 @@
+{
+  "id": 840672037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560018,38.207597,-84.560018,38.207597",
+    "geom:latitude":38.207597,
+    "geom:longitude":-84.560018,
+    "iso:country":"US",
+    "sg:address":"300 S Broadway St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 7400",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rL9CWmbj0E7fDni9Cd1Mz_38.207597_-84.560018@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045364,
+    "wof:geomhash":"d1dd376ac5b49becf6b932d642d71418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840672037
+        }
+    ],
+    "wof:id":840672037,
+    "wof:lastmodified":1464045364,
+    "wof:name":"Michael P Raymond",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -84.560018,
+    38.207597,
+    -84.560018,
+    38.207597
+],
+  "geometry": {"coordinates":[-84.560018,38.207597],"type":"Point"}
+}

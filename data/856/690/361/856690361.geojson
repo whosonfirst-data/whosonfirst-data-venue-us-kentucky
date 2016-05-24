@@ -1,0 +1,73 @@
+{
+  "id": 856690361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.658688,37.015977,-84.658688,37.015977",
+    "geom:latitude":37.015977,
+    "geom:longitude":-84.658688,
+    "iso:country":"US",
+    "sg:address":"2190 Slate Branch Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2676",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63V5fn5qnjAQdZEbM5csqd_37.015977_-84.658688@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051875,
+    "wof:geomhash":"0afb060e2a24a676f7717b4d70765672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856690361
+        }
+    ],
+    "wof:id":856690361,
+    "wof:lastmodified":1464051875,
+    "wof:name":"Happy Tails Dog Salon",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.658688,
+    37.015977,
+    -84.658688,
+    37.015977
+],
+  "geometry": {"coordinates":[-84.658688,37.015977],"type":"Point"}
+}

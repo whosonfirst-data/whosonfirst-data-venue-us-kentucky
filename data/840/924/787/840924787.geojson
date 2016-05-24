@@ -1,0 +1,73 @@
+{
+  "id": 840924787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434587,36.952091,-86.434587,36.952091",
+    "geom:latitude":36.952091,
+    "geom:longitude":-86.434587,
+    "iso:country":"US",
+    "sg:address":"1550 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 3053",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ACoxV2QcWg8MpjRxD32KC_36.952091_-86.434587@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051134,
+    "wof:geomhash":"25885a74d6a2efac265604ca61b1a7c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840924787
+        }
+    ],
+    "wof:id":840924787,
+    "wof:lastmodified":1464051134,
+    "wof:name":"National Car Wash",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.434587,
+    36.952091,
+    -86.434587,
+    36.952091
+],
+  "geometry": {"coordinates":[-86.43458699999999,36.952091],"type":"Point"}
+}

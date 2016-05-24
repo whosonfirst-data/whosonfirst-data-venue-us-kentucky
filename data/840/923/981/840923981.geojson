@@ -1,0 +1,71 @@
+{
+  "id": 840923981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.822413,37.627254,-84.822413,37.627254",
+    "geom:latitude":37.627254,
+    "geom:longitude":-84.822413,
+    "iso:country":"US",
+    "sg:address":"120 Corporate Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 0316",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y83NPcLA2INYgSzVMAI3U_37.627254_-84.822413@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051100,
+    "wof:geomhash":"21c6b3fbc5062cc945d44734393cc490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840923981
+        }
+    ],
+    "wof:id":840923981,
+    "wof:lastmodified":1464051100,
+    "wof:name":"United Warehousing Co",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.822413,
+    37.627254,
+    -84.822413,
+    37.627254
+],
+  "geometry": {"coordinates":[-84.822413,37.627254],"type":"Point"}
+}

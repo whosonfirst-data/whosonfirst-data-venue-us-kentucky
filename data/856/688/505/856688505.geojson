@@ -1,0 +1,75 @@
+{
+  "id": 856688505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.57192,37.824587,-87.57192,37.824587",
+    "geom:latitude":37.824587,
+    "geom:longitude":-87.57192,
+    "iso:country":"US",
+    "sg:address":"101 S Lincoln Ave",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1328",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a5G6LAiJJNfWlxgSsIhX2_37.824587_-87.571920@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051838,
+    "wof:geomhash":"02200672609439e67a94a4b27b01d55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856688505
+        }
+    ],
+    "wof:id":856688505,
+    "wof:lastmodified":1464051838,
+    "wof:name":"Henderson Pee Wee League",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -87.57192,
+    37.824587,
+    -87.57192,
+    37.824587
+],
+  "geometry": {"coordinates":[-87.57192000000001,37.824587],"type":"Point"}
+}

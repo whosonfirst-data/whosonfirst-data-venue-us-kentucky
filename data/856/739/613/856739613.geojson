@@ -1,0 +1,74 @@
+{
+  "id": 856739613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752899,38.248402,-85.752899,38.248402",
+    "geom:latitude":38.248402,
+    "geom:longitude":-85.752899,
+    "iso:country":"US",
+    "sg:address":"101 W Chestnut St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 2174",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.mc.uky.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nrQpLLixIRYXQMNTv3o5Q_38.248402_-85.752899@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053364,
+    "wof:geomhash":"0472821e9c7600540dec532cff8c1ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":856739613
+        }
+    ],
+    "wof:id":856739613,
+    "wof:lastmodified":1464053364,
+    "wof:name":"Jefferson Community College",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -85.752899,
+    38.248402,
+    -85.752899,
+    38.248402
+],
+  "geometry": {"coordinates":[-85.752899,38.248402],"type":"Point"}
+}

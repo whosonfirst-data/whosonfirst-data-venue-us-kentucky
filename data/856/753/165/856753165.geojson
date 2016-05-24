@@ -1,0 +1,94 @@
+{
+  "id": 856753165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.320808,37.783089,-84.320808,37.783089",
+    "geom:latitude":37.783089,
+    "geom:longitude":-84.320808,
+    "iso:country":"US",
+    "sg:address":"265 N Keeneland Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Go Karts",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 1496",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attraction",
+        "ride",
+        "arcade",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jf03UsvoEZDZu81VNRpPr_37.783089_-84.320808@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053874,
+    "wof:geomhash":"ed8ee259f210bdd91476c6e83c2758c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856753165
+        }
+    ],
+    "wof:id":856753165,
+    "wof:lastmodified":1464053874,
+    "wof:name":"Keeneland Amusement Park",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "ride",
+        "arcade",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -84.320808,
+    37.783089,
+    -84.320808,
+    37.783089
+],
+  "geometry": {"coordinates":[-84.320808,37.783089],"type":"Point"}
+}

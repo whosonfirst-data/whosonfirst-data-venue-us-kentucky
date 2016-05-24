@@ -1,0 +1,73 @@
+{
+  "id": 840869549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.690087,38.190317,-85.690087,38.190317",
+    "geom:latitude":38.190317,
+    "geom:longitude":-85.690087,
+    "iso:country":"US",
+    "sg:address":"4102 Bishop Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 810 9007",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30mdY98bYMikxchJYPwz6D_38.190317_-85.690087@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049846,
+    "wof:geomhash":"3735517bde24dcbe48c1069e5055e12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":840869549
+        }
+    ],
+    "wof:id":840869549,
+    "wof:lastmodified":1464049846,
+    "wof:name":"IMR Metallurgical Svc",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.690087,
+    38.190317,
+    -85.690087,
+    38.190317
+],
+  "geometry": {"coordinates":[-85.69008700000001,38.190317],"type":"Point"}
+}

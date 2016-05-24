@@ -1,0 +1,71 @@
+{
+  "id": 840825397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.458286,38.311473,-85.458286,38.311473",
+    "geom:latitude":38.311473,
+    "geom:longitude":-85.458286,
+    "iso:country":"US",
+    "sg:address":"5600 Old Floydsburg Rd",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 8392",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZIJIIi0PwFiYmhBrhyiCv_38.311473_-85.458286@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048899,
+    "wof:geomhash":"c512bdb87c134d5c29e3d0be7f017f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840825397
+        }
+    ],
+    "wof:id":840825397,
+    "wof:lastmodified":1464048899,
+    "wof:name":"Duncan Memorial Chapel",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.458286,
+    38.311473,
+    -85.458286,
+    38.311473
+],
+  "geometry": {"coordinates":[-85.458286,38.311473],"type":"Point"}
+}

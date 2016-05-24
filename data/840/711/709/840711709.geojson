@@ -1,0 +1,75 @@
+{
+  "id": 840711709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880473,37.700658,-85.880473,37.700658",
+    "geom:latitude":37.700658,
+    "geom:longitude":-85.880473,
+    "iso:country":"US",
+    "sg:address":"587 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 259 3750",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C4Q6BIi3IVM9ytJmm7YTz_37.700658_-85.880473@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046335,
+    "wof:geomhash":"ab02d4080b0b4e200df2afa0210455e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840711709
+        }
+    ],
+    "wof:id":840711709,
+    "wof:lastmodified":1464046335,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -85.880473,
+    37.700658,
+    -85.880473,
+    37.700658
+],
+  "geometry": {"coordinates":[-85.88047299999999,37.700658],"type":"Point"}
+}

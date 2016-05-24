@@ -1,0 +1,75 @@
+{
+  "id": 840701237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443971,36.992129,-86.443971,36.992129",
+    "geom:latitude":36.992129,
+    "geom:longitude":-86.443971,
+    "iso:country":"US",
+    "sg:address":"410 E 11th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 2102",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1umhuwYLh48RdBOqjZQAvv_36.992129_-86.443971@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046112,
+    "wof:geomhash":"84a7d51bc75dcb04b27878519a344b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840701237
+        }
+    ],
+    "wof:id":840701237,
+    "wof:lastmodified":1464046112,
+    "wof:name":"Bowling Green Counseling Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -86.443971,
+    36.992129,
+    -86.443971,
+    36.992129
+],
+  "geometry": {"coordinates":[-86.443971,36.992129],"type":"Point"}
+}

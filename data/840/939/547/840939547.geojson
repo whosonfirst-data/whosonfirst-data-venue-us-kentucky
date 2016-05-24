@@ -1,0 +1,73 @@
+{
+  "id": 840939547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.438521,36.593844,-87.438521,36.593844",
+    "geom:latitude":36.593844,
+    "geom:longitude":-87.438521,
+    "iso:country":"US",
+    "sg:address":"1017 Kay Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 553 8446",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85844639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DQJW8OaSe9cJoXcovYiX0_36.593844_-87.438521@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051437,
+    "wof:geomhash":"79d388be61f7d1c8c7f82a4fd595d519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85844639,
+            "region_id":85688701,
+            "venue_id":840939547
+        }
+    ],
+    "wof:id":840939547,
+    "wof:lastmodified":1464051437,
+    "wof:name":"Browns Garage",
+    "wof:parent_id":85844639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.438521,
+    36.593844,
+    -87.438521,
+    36.593844
+],
+  "geometry": {"coordinates":[-87.43852099999999,36.593844],"type":"Point"}
+}

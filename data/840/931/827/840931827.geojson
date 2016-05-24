@@ -1,0 +1,71 @@
+{
+  "id": 840931827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.715466,36.630528,-83.715466,36.630528",
+    "geom:latitude":36.630528,
+    "geom:longitude":-83.715466,
+    "iso:country":"US",
+    "sg:address":"55 Old Pineville Pike",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6524",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jf9bAmpVT6P99TlqKkJA7_36.630528_-83.715466@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051285,
+    "wof:geomhash":"ab78de01d8408814bd1bff4eb57960f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840931827
+        }
+    ],
+    "wof:id":840931827,
+    "wof:lastmodified":1464051285,
+    "wof:name":"Mike's Towing & Recovery",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.715466,
+    36.630528,
+    -83.715466,
+    36.630528
+],
+  "geometry": {"coordinates":[-83.71546600000001,36.630528],"type":"Point"}
+}

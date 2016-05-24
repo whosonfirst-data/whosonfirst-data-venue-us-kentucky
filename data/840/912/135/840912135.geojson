@@ -1,0 +1,73 @@
+{
+  "id": 840912135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.715866,36.607044,-83.715866,36.607044",
+    "geom:latitude":36.607044,
+    "geom:longitude":-83.715866,
+    "iso:country":"US",
+    "sg:address":"2105 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 7555",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "record",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E2SGiKsWQ4DBDZ5w8h8LD_36.607044_-83.715866@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050790,
+    "wof:geomhash":"f4587e0096f05b64c370701e67baf7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840912135
+        }
+    ],
+    "wof:id":840912135,
+    "wof:lastmodified":1464050790,
+    "wof:name":"Downtown House of Music",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.715866,
+    36.607044,
+    -83.715866,
+    36.607044
+],
+  "geometry": {"coordinates":[-83.71586600000001,36.607044],"type":"Point"}
+}

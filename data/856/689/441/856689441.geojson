@@ -1,0 +1,75 @@
+{
+  "id": 856689441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.688878,37.678414,-87.688878,37.678414",
+    "geom:latitude":37.678414,
+    "geom:longitude":-87.688878,
+    "iso:country":"US",
+    "sg:address":"8117 Whitelick Rd",
+    "sg:city":"Corydon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 533 6342",
+    "sg:postcode":"42406",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPrsZdBbibFOrIXs6xIE6_37.678414_-87.688878@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051857,
+    "wof:geomhash":"8d790725d4749b01e5a4c14e06e2f061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856689441
+        }
+    ],
+    "wof:id":856689441,
+    "wof:lastmodified":1464051857,
+    "wof:name":"Mc Graw Body Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -87.688878,
+    37.678414,
+    -87.688878,
+    37.678414
+],
+  "geometry": {"coordinates":[-87.688878,37.678414],"type":"Point"}
+}

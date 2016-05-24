@@ -1,0 +1,77 @@
+{
+  "id": 840589447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774672,37.626893,-84.774672,37.626893",
+    "geom:latitude":37.626893,
+    "geom:longitude":-84.774672,
+    "iso:country":"US",
+    "sg:address":"1200 Hustonville Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3876",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sr7woAJb3zmoqSVxgBJJq_37.626893_-84.774672@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043410,
+    "wof:geomhash":"4506ff31636d19ac90bc6b08cf979a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840589447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840589447
+        }
+    ],
+    "wof:id":840589447,
+    "wof:lastmodified":1464043410,
+    "wof:name":"Bratton's Town & Country Flrst",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.774672,
+    37.626893,
+    -84.774672,
+    37.626893
+],
+  "geometry": {"coordinates":[-84.774672,37.626893],"type":"Point"}
+}

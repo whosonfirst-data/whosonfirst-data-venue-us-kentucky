@@ -1,0 +1,80 @@
+{
+  "id": 856709339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.465165,38.01883,-84.465165,38.01883",
+    "geom:latitude":38.01883,
+    "geom:longitude":-84.465165,
+    "iso:country":"US",
+    "sg:address":"1999 Richmond Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 268 4300",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LOdpe7mkHkTEpy1azwObq_38.018830_-84.465165@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052253,
+    "wof:geomhash":"f6290e762632685c1de391b0c6b183a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826711,
+            "region_id":85688641,
+            "venue_id":856709339
+        }
+    ],
+    "wof:id":856709339,
+    "wof:lastmodified":1464052253,
+    "wof:name":"Gary C Johnson Psc",
+    "wof:parent_id":85826711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.465165,
+    38.01883,
+    -84.465165,
+    38.01883
+],
+  "geometry": {"coordinates":[-84.465165,38.01883],"type":"Point"}
+}

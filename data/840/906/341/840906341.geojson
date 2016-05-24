@@ -1,0 +1,71 @@
+{
+  "id": 840906341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561969,38.18535,-84.561969,38.18535",
+    "geom:latitude":38.18535,
+    "geom:longitude":-84.561969,
+    "iso:country":"US",
+    "sg:address":"1175 Lexington Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 868 9934",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WAJCJOgiwyvB2ZL8t5HDM_38.185350_-84.561969@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050618,
+    "wof:geomhash":"5a4764e73566c24142b4a245ddb08f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840906341
+        }
+    ],
+    "wof:id":840906341,
+    "wof:lastmodified":1464050618,
+    "wof:name":"Bevins Of Frankfort",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -84.561969,
+    38.18535,
+    -84.561969,
+    38.18535
+],
+  "geometry": {"coordinates":[-84.561969,38.18535],"type":"Point"}
+}

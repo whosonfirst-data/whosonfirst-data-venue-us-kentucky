@@ -1,0 +1,74 @@
+{
+  "id": 840891079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441063,36.993402,-86.441063,36.993402",
+    "geom:latitude":36.993402,
+    "geom:longitude":-86.441063,
+    "iso:country":"US",
+    "sg:address":"446 E Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1691",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "sg:website":"www.hilliard.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Io1mvg3ingUzwvegfeC0R_36.993402_-86.441063@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050307,
+    "wof:geomhash":"34a539c088763d62f29b25fcd5babaa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840891079
+        }
+    ],
+    "wof:id":840891079,
+    "wof:lastmodified":1464050307,
+    "wof:name":"Hilliard Lyons Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -86.441063,
+    36.993402,
+    -86.441063,
+    36.993402
+],
+  "geometry": {"coordinates":[-86.441063,36.993402],"type":"Point"}
+}

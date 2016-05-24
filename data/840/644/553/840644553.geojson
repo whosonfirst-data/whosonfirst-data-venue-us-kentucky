@@ -1,0 +1,74 @@
+{
+  "id": 840644553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429645,36.953732,-86.429645,36.953732",
+    "geom:latitude":36.953732,
+    "geom:longitude":-86.429645,
+    "iso:country":"US",
+    "sg:address":"1860 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4321",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.garyforcetoyota.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pj38PoU9u11mlcreobpyi_36.953732_-86.429645@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044774,
+    "wof:geomhash":"515aa18d82e8b10d432396f3b9fd49d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840644553
+        }
+    ],
+    "wof:id":840644553,
+    "wof:lastmodified":1464044774,
+    "wof:name":"Gary Force Toyota",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.429645,
+    36.953732,
+    -86.429645,
+    36.953732
+],
+  "geometry": {"coordinates":[-86.42964499999999,36.953732],"type":"Point"}
+}

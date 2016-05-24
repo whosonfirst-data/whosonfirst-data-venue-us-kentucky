@@ -1,0 +1,73 @@
+{
+  "id": 856740401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763715,38.234913,-85.763715,38.234913",
+    "geom:latitude":38.234913,
+    "geom:longitude":-85.763715,
+    "iso:country":"US",
+    "sg:address":"1205 S 6th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 4682",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vfW42Co1HHZJfiiOVTnug_38.234913_-85.763715@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053403,
+    "wof:geomhash":"14b11d8e3593339f02d312cc74bfed77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856740401
+        }
+    ],
+    "wof:id":856740401,
+    "wof:lastmodified":1464053403,
+    "wof:name":"Oak Seed Inc",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.763715,
+    38.234913,
+    -85.763715,
+    38.234913
+],
+  "geometry": {"coordinates":[-85.763715,38.234913],"type":"Point"}
+}

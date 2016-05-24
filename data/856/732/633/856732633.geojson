@@ -1,0 +1,80 @@
+{
+  "id": 856732633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683661,38.22329,-85.683661,38.22329",
+    "geom:latitude":38.22329,
+    "geom:longitude":-85.683661,
+    "iso:country":"US",
+    "sg:address":"2225 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/88644-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 0784",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28lAe4lKAjiFnfS4vix9Bj_38.223290_-85.683661@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053097,
+    "wof:geomhash":"fa53df1d3926c095a8a432d1807145ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":856732633
+        }
+    ],
+    "wof:id":856732633,
+    "wof:lastmodified":1464053097,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.683661,
+    38.22329,
+    -85.683661,
+    38.22329
+],
+  "geometry": {"coordinates":[-85.683661,38.22329],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856736375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.393944,36.969894,-86.393944,36.969894",
+    "geom:latitude":36.969894,
+    "geom:longitude":-86.393944,
+    "iso:country":"US",
+    "sg:address":"127 Cumberland Cir",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/155870-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3663",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85835757,
+        102084479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S36sVwgdgsLOe3zaNvPh5_36.969894_-86.393944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053237,
+    "wof:geomhash":"165c679a97361c6efabcd98217a22ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "neighbourhood_id":85835757,
+            "region_id":85688641,
+            "venue_id":856736375
+        }
+    ],
+    "wof:id":856736375,
+    "wof:lastmodified":1464053237,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85835757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.393944,
+    36.969894,
+    -86.393944,
+    36.969894
+],
+  "geometry": {"coordinates":[-86.393944,36.969894],"type":"Point"}
+}

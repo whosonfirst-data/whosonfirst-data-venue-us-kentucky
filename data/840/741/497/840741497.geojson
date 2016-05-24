@@ -1,0 +1,73 @@
+{
+  "id": 840741497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739843,36.607292,-83.739843,36.607292",
+    "geom:latitude":36.607292,
+    "geom:longitude":-83.739843,
+    "iso:country":"US",
+    "sg:address":"1420 Dorchester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 3444",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eDyt14UJPSGxCY97VQelB_36.607292_-83.739843@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046925,
+    "wof:geomhash":"fee633d94d894efb5158d6b940532e7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840741497
+        }
+    ],
+    "wof:id":840741497,
+    "wof:lastmodified":1464046925,
+    "wof:name":"Precision Aircraft",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.739843,
+    36.607292,
+    -83.739843,
+    36.607292
+],
+  "geometry": {"coordinates":[-83.73984299999999,36.607292],"type":"Point"}
+}

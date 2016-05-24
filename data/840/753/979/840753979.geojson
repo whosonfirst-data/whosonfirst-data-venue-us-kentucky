@@ -1,0 +1,73 @@
+{
+  "id": 840753979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.835593,38.935188,-84.835593,38.935188",
+    "geom:latitude":38.935188,
+    "geom:longitude":-84.835593,
+    "iso:country":"US",
+    "sg:address":"10607 E Bend Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 8013",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BpKcKY1XedzPIuB8aH92H_38.935188_-84.835593@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047195,
+    "wof:geomhash":"57a4acb1e16bcf1303358ffbd0558cb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840753979
+        }
+    ],
+    "wof:id":840753979,
+    "wof:lastmodified":1464047195,
+    "wof:name":"Rivertown Construction",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -84.835593,
+    38.935188,
+    -84.835593,
+    38.935188
+],
+  "geometry": {"coordinates":[-84.835593,38.935188],"type":"Point"}
+}

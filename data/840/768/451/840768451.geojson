@@ -1,0 +1,73 @@
+{
+  "id": 840768451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531112,37.01834,-88.531112,37.01834",
+    "geom:latitude":37.01834,
+    "geom:longitude":-88.531112,
+    "iso:country":"US",
+    "sg:address":"5446 Reidland Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 4830",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OR8UU4PcoQZyVimUSL0up_37.018340_-88.531112@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047536,
+    "wof:geomhash":"1235d807feddd8b46eca11da81ed43e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840768451
+        }
+    ],
+    "wof:id":840768451,
+    "wof:lastmodified":1464047536,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -88.531112,
+    37.01834,
+    -88.531112,
+    37.01834
+],
+  "geometry": {"coordinates":[-88.53111199999999,37.01834],"type":"Point"}
+}

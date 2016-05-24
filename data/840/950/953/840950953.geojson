@@ -1,0 +1,73 @@
+{
+  "id": 840950953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.625037,37.040336,-84.625037,37.040336",
+    "geom:latitude":37.040336,
+    "geom:longitude":-84.625037,
+    "iso:country":"US",
+    "sg:address":"106 Southport Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 6589",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zIMqD25OHc4eGd2oLOQf6_37.040336_-84.625037@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051670,
+    "wof:geomhash":"b0d67d2bcee0118579b7261d0687579e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840950953
+        }
+    ],
+    "wof:id":840950953,
+    "wof:lastmodified":1464051670,
+    "wof:name":"Health Information Systems",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "program",
+        "referral"
+    ]
+},
+  "bbox": [
+    -84.625037,
+    37.040336,
+    -84.625037,
+    37.040336
+],
+  "geometry": {"coordinates":[-84.62503700000001,37.040336],"type":"Point"}
+}

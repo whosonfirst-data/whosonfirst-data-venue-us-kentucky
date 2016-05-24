@@ -1,0 +1,83 @@
+{
+  "id": 856761013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.701342,37.072271,-88.701342,37.072271",
+    "geom:latitude":37.072271,
+    "geom:longitude":-88.701342,
+    "iso:country":"US",
+    "sg:address":"5195 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 538 2720",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ],
+    "sg:website":"http://www.bbt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qqfktSDADhjd3MZJ3XPps_37.072271_-88.701342@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054160,
+    "wof:geomhash":"5079848e4de0127f36d5ec014867296d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761013
+        }
+    ],
+    "wof:id":856761013,
+    "wof:lastmodified":1464054160,
+    "wof:name":"BB & T",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.701342,
+    37.072271,
+    -88.701342,
+    37.072271
+],
+  "geometry": {"coordinates":[-88.701342,37.072271],"type":"Point"}
+}

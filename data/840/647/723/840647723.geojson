@@ -1,0 +1,72 @@
+{
+  "id": 840647723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.72047,36.606027,-83.72047,36.606027",
+    "geom:latitude":36.606027,
+    "geom:longitude":-83.72047,
+    "iso:country":"US",
+    "sg:address":"109 S 24th St",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6600",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.vaughnmelton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKYBnSJTwhosQy1Io026Z_36.606027_-83.720470@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044835,
+    "wof:geomhash":"bbf7802e901511fddb3431eeb059f37f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840647723
+        }
+    ],
+    "wof:id":840647723,
+    "wof:lastmodified":1464044835,
+    "wof:name":"Vaughn & Melton Engineers",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -83.72047,
+    36.606027,
+    -83.72047,
+    36.606027
+],
+  "geometry": {"coordinates":[-83.72047000000001,36.606027],"type":"Point"}
+}

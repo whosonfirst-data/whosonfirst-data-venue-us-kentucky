@@ -1,0 +1,73 @@
+{
+  "id": 840676467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443781,37.000908,-86.443781,37.000908",
+    "geom:latitude":37.000908,
+    "geom:longitude":-86.443781,
+    "iso:country":"US",
+    "sg:address":"304 Gordon Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 4851",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J2v9zFPwVwN8z8FOuP1sO_37.000908_-86.443781@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045475,
+    "wof:geomhash":"3b21a64bfc8ccd2ecae4852a58d83ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840676467
+        }
+    ],
+    "wof:id":840676467,
+    "wof:lastmodified":1464045475,
+    "wof:name":"O Reilly Auto Parts",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.443781,
+    37.000908,
+    -86.443781,
+    37.000908
+],
+  "geometry": {"coordinates":[-86.443781,37.000908],"type":"Point"}
+}

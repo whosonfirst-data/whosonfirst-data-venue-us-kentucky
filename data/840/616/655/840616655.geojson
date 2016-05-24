@@ -1,0 +1,71 @@
+{
+  "id": 840616655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.593801,37.136238,-84.593801,37.136238",
+    "geom:latitude":37.136238,
+    "geom:longitude":-84.593801,
+    "iso:country":"US",
+    "sg:address":"100 Valley Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 274 4040",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D1Lyxa00wE39IqVUdIIuW_37.136238_-84.593801@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044081,
+    "wof:geomhash":"40faaa064352371edd92d27e7bf0ba6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840616655
+        }
+    ],
+    "wof:id":840616655,
+    "wof:lastmodified":1464044081,
+    "wof:name":"Center For Advanced Learning",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -84.593801,
+    37.136238,
+    -84.593801,
+    37.136238
+],
+  "geometry": {"coordinates":[-84.593801,37.136238],"type":"Point"}
+}

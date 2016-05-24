@@ -1,0 +1,95 @@
+{
+  "id": 856746707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.690987,38.19865,-85.690987,38.19865",
+    "geom:latitude":38.19865,
+    "geom:longitude":-85.690987,
+    "iso:country":"US",
+    "sg:address":"1501 Gardiner Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 9900",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "part",
+        "new",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kto6yIEx8FCDLQngQzHJL_38.198650_-85.690987@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053621,
+    "wof:geomhash":"a26431215d946445d109ac5feb91beba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856746707
+        }
+    ],
+    "wof:id":856746707,
+    "wof:lastmodified":1464053621,
+    "wof:name":"Cross Chrysler Jeep",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "part",
+        "new",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.690987,
+    38.19865,
+    -85.690987,
+    38.19865
+],
+  "geometry": {"coordinates":[-85.69098700000001,38.19865],"type":"Point"}
+}

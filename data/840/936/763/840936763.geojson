@@ -1,0 +1,82 @@
+{
+  "id": 840936763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774653,37.64014,-84.774653,37.64014",
+    "geom:latitude":37.64014,
+    "geom:longitude":-84.774653,
+    "iso:country":"US",
+    "sg:address":"464 S 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7953",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37j78Y8kIchdpJMaHuRbWI_37.640140_-84.774653@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051386,
+    "wof:geomhash":"4cf9f25ea755fd278e1d675fc3463e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840936763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840936763
+        }
+    ],
+    "wof:id":840936763,
+    "wof:lastmodified":1464051386,
+    "wof:name":"Fourth St Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -84.774653,
+    37.64014,
+    -84.774653,
+    37.64014
+],
+  "geometry": {"coordinates":[-84.774653,37.64014],"type":"Point"}
+}

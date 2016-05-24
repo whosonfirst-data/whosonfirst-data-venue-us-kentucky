@@ -1,0 +1,73 @@
+{
+  "id": 840625089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866872,37.692968,-85.866872,37.692968",
+    "geom:latitude":37.692968,
+    "geom:longitude":-85.866872,
+    "iso:country":"US",
+    "sg:address":"402 College Street Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2900",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A6HoLViCx0WQPO53AX9uY_37.692968_-85.866872@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044296,
+    "wof:geomhash":"e8e0e2493314dd7e66e890e34036c8fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840625089
+        }
+    ],
+    "wof:id":840625089,
+    "wof:lastmodified":1464044296,
+    "wof:name":"Lincare",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.866872,
+    37.692968,
+    -85.866872,
+    37.692968
+],
+  "geometry": {"coordinates":[-85.866872,37.692968],"type":"Point"}
+}

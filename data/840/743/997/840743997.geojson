@@ -1,0 +1,71 @@
+{
+  "id": 840743997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.95071,36.964054,-82.95071,36.964054",
+    "geom:latitude":36.964054,
+    "geom:longitude":-82.95071,
+    "iso:country":"US",
+    "sg:address":"227 Main St",
+    "sg:city":"Benham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 848 5444",
+    "sg:postcode":"40807",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H04XNNe6jaAtwEn3qyOUV_36.964054_-82.950710@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046968,
+    "wof:geomhash":"199d9ed03cf8bd047a1c74b6665b3386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840743997
+        }
+    ],
+    "wof:id":840743997,
+    "wof:lastmodified":1464046968,
+    "wof:name":"Cumberland River Comprehensive",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -82.95071,
+    36.964054,
+    -82.95071,
+    36.964054
+],
+  "geometry": {"coordinates":[-82.95071,36.964054],"type":"Point"}
+}

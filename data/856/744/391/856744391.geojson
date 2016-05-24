@@ -1,0 +1,78 @@
+{
+  "id": 856744391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.71022,38.178391,-85.71022,38.178391",
+    "geom:latitude":38.178391,
+    "geom:longitude":-85.71022,
+    "iso:country":"US",
+    "sg:address":"4914 Bluebird Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 7775",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SkR73JF5tPgpKuZE3c4Kh_38.178391_-85.710220@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053542,
+    "wof:geomhash":"1897a3ff5a9d3909c014be750af0f84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744391
+        }
+    ],
+    "wof:id":856744391,
+    "wof:lastmodified":1464053542,
+    "wof:name":"Lynnview Kennels",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -85.71022,
+    38.178391,
+    -85.71022,
+    38.178391
+],
+  "geometry": {"coordinates":[-85.71022000000001,38.178391],"type":"Point"}
+}

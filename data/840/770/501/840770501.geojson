@@ -1,0 +1,73 @@
+{
+  "id": 840770501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447317,37.013302,-86.447317,37.013302",
+    "geom:latitude":37.013302,
+    "geom:longitude":-86.447317,
+    "iso:country":"US",
+    "sg:address":"424 Power St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 9409",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "brick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ERD7RbcX5Jq5iN388s3EZ_37.013302_-86.447317@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047581,
+    "wof:geomhash":"ac9b836fad786ea2a37cbd757c6c94bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840770501
+        }
+    ],
+    "wof:id":840770501,
+    "wof:lastmodified":1464047581,
+    "wof:name":"Steen Concrete Products Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "brick"
+    ]
+},
+  "bbox": [
+    -86.447317,
+    37.013302,
+    -86.447317,
+    37.013302
+],
+  "geometry": {"coordinates":[-86.447317,37.013302],"type":"Point"}
+}

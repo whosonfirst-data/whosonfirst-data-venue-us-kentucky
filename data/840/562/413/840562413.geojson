@@ -1,0 +1,73 @@
+{
+  "id": 840562413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.642714,37.08966,-84.642714,37.08966",
+    "geom:latitude":37.08966,
+    "geom:longitude":-84.642714,
+    "iso:country":"US",
+    "sg:address":"1009 State Hwy 80",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 2761",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vs0KPj9KGu1qw0WCqItdx_37.089660_-84.642714@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042790,
+    "wof:geomhash":"39ca5d0a9f1baf9b6db8c46a4abdfba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840562413
+        }
+    ],
+    "wof:id":840562413,
+    "wof:lastmodified":1464042790,
+    "wof:name":"West Somerset Woodwork Shop",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -84.642714,
+    37.08966,
+    -84.642714,
+    37.08966
+],
+  "geometry": {"coordinates":[-84.642714,37.08966],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840761315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527483,36.974371,-84.527483,36.974371",
+    "geom:latitude":36.974371,
+    "geom:longitude":-84.527483,
+    "iso:country":"US",
+    "sg:address":"118 Eagle Dr",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5647",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zf8nzd1kpll1FErjXILAO_36.974371_-84.527483@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047376,
+    "wof:geomhash":"b86ce61d804e0c067acc8cced75e7de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840761315
+        }
+    ],
+    "wof:id":840761315,
+    "wof:lastmodified":1464047376,
+    "wof:name":"Daniel A Farwick DVM",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.527483,
+    36.974371,
+    -84.527483,
+    36.974371
+],
+  "geometry": {"coordinates":[-84.527483,36.974371],"type":"Point"}
+}

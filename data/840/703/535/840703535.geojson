@@ -1,0 +1,68 @@
+{
+  "id": 840703535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701435,38.145261,-85.701435,38.145261",
+    "geom:latitude":38.145261,
+    "geom:longitude":-85.701435,
+    "iso:country":"US",
+    "sg:address":"3215 Dupin Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 962 9027",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XJu75nIbQ5Jl03W6ytOBp_38.145261_-85.701435@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046173,
+    "wof:geomhash":"c5cf6d6c87f34748b062c6140b969177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840703535
+        }
+    ],
+    "wof:id":840703535,
+    "wof:lastmodified":1464046173,
+    "wof:name":"Crews LLC",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.701435,
+    38.145261,
+    -85.701435,
+    38.145261
+],
+  "geometry": {"coordinates":[-85.701435,38.145261],"type":"Point"}
+}

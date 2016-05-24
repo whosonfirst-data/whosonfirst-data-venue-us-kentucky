@@ -1,0 +1,75 @@
+{
+  "id": 840702293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.308545,37.761086,-84.308545,37.761086",
+    "geom:latitude":37.761086,
+    "geom:longitude":-84.308545,
+    "iso:country":"US",
+    "sg:address":"1503 Lexington Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 9401",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nfcmcl5fWs9RX16QlL5Ai_37.761086_-84.308545@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046151,
+    "wof:geomhash":"b843ee94f131bb0023e2844f162e5c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840702293
+        }
+    ],
+    "wof:id":840702293,
+    "wof:lastmodified":1464046151,
+    "wof:name":"Morin Smith Dr Joyce Ed D",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.308545,
+    37.761086,
+    -84.308545,
+    37.761086
+],
+  "geometry": {"coordinates":[-84.308545,37.761086],"type":"Point"}
+}

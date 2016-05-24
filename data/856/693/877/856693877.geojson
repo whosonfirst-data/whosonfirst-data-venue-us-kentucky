@@ -1,0 +1,71 @@
+{
+  "id": 856693877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.668204,38.023164,-84.668204,38.023164",
+    "geom:latitude":38.023164,
+    "geom:longitude":-84.668204,
+    "iso:country":"US",
+    "sg:address":"1522 Shannon Run Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 9376",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jweWzzKnWadP1RX4etVz0_38.023164_-84.668204@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051938,
+    "wof:geomhash":"354061ecf60bac585ab7f3e3efbef0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856693877
+        }
+    ],
+    "wof:id":856693877,
+    "wof:lastmodified":1464051938,
+    "wof:name":"Jack Noble Stables",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -84.668204,
+    38.023164,
+    -84.668204,
+    38.023164
+],
+  "geometry": {"coordinates":[-84.668204,38.023164],"type":"Point"}
+}

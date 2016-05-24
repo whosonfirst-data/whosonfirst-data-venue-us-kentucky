@@ -1,0 +1,71 @@
+{
+  "id": 840835351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.579206,37.864903,-84.579206,37.864903",
+    "geom:latitude":37.864903,
+    "geom:longitude":-84.579206,
+    "iso:country":"US",
+    "sg:address":"1000 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4800",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79c9mdnYcgdbAiLvO9CK46_37.864903_-84.579206@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049117,
+    "wof:geomhash":"a2f8507e87000ce43befa17421e53e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840835351
+        }
+    ],
+    "wof:id":840835351,
+    "wof:lastmodified":1464049117,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.579206,
+    37.864903,
+    -84.579206,
+    37.864903
+],
+  "geometry": {"coordinates":[-84.579206,37.864903],"type":"Point"}
+}

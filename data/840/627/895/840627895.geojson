@@ -1,0 +1,73 @@
+{
+  "id": 840627895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.482619,36.941585,-86.482619,36.941585",
+    "geom:latitude":36.941585,
+    "geom:longitude":-86.482619,
+    "iso:country":"US",
+    "sg:address":"4660 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4783",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ucuu80udpZMVjrq0MhGeB_36.941585_-86.482619@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044376,
+    "wof:geomhash":"749f9a68a9365a07128943e4616ac523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840627895
+        }
+    ],
+    "wof:id":840627895,
+    "wof:lastmodified":1464044376,
+    "wof:name":"Charles L Taylor Agriculture",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -86.482619,
+    36.941585,
+    -86.482619,
+    36.941585
+],
+  "geometry": {"coordinates":[-86.482619,36.941585],"type":"Point"}
+}

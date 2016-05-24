@@ -1,0 +1,71 @@
+{
+  "id": 840745033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.891609,37.271108,-85.891609,37.271108",
+    "geom:latitude":37.271108,
+    "geom:longitude":-85.891609,
+    "iso:country":"US",
+    "sg:address":"200 W Union St",
+    "sg:city":"Munfordville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 524 5621",
+    "sg:postcode":"42765",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_061avFZuaG3EXMFage0CRC_37.271108_-85.891609@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046987,
+    "wof:geomhash":"eec92a167085530210a9ee8a0ca1a0f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840745033
+        }
+    ],
+    "wof:id":840745033,
+    "wof:lastmodified":1464046987,
+    "wof:name":"Williams & Williams Law Office",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.891609,
+    37.271108,
+    -85.891609,
+    37.271108
+],
+  "geometry": {"coordinates":[-85.891609,37.271108],"type":"Point"}
+}

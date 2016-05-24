@@ -1,0 +1,90 @@
+{
+  "id": 856752051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.555244,38.218363,-85.555244,38.218363",
+    "geom:latitude":38.218363,
+    "geom:longitude":-85.555244,
+    "iso:country":"US",
+    "sg:address":"1808 Watterson Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 3003",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck",
+        "household",
+        "commercial",
+        "mover"
+    ],
+    "sg:website":"http://www.realpagessites.com/wattersontrail",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dATwkpR5DKTfFXa1SHfVm_38.218363_-85.555244@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053835,
+    "wof:geomhash":"97de75a08b4050361d90f4e1b73df627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752051
+        }
+    ],
+    "wof:id":856752051,
+    "wof:lastmodified":1464053835,
+    "wof:name":"Watterson Trail Mini Storage",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "household",
+        "commercial",
+        "mover"
+    ]
+},
+  "bbox": [
+    -85.555244,
+    38.218363,
+    -85.555244,
+    38.218363
+],
+  "geometry": {"coordinates":[-85.555244,38.218363],"type":"Point"}
+}

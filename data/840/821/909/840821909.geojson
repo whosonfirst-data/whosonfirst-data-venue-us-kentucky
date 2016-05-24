@@ -1,0 +1,68 @@
+{
+  "id": 840821909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.49721,38.047636,-84.49721,38.047636",
+    "geom:latitude":38.047636,
+    "geom:longitude":-84.49721,
+    "iso:country":"US",
+    "sg:address":"148 W Short St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 3772",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oj6domnFRpAY0xHKU3V8M_38.047636_-84.497210@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048807,
+    "wof:geomhash":"fdd85413e15fbd9063b8907080cfec0c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840821909
+        }
+    ],
+    "wof:id":840821909,
+    "wof:lastmodified":1464048807,
+    "wof:name":"Mid-Town Barber",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.49721,
+    38.047636,
+    -84.49721,
+    38.047636
+],
+  "geometry": {"coordinates":[-84.49721,38.047636],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840670153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.915613,37.683668,-85.915613,37.683668",
+    "geom:latitude":37.683668,
+    "geom:longitude":-85.915613,
+    "iso:country":"US",
+    "sg:address":"217 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4824",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MES90xarhWO6BUlnt8mzM_37.683668_-85.915613@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045312,
+    "wof:geomhash":"6619cc1abd4eade114df637c64d90072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840670153
+        }
+    ],
+    "wof:id":840670153,
+    "wof:lastmodified":1464045312,
+    "wof:name":"Etown Electric Svc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -85.915613,
+    37.683668,
+    -85.915613,
+    37.683668
+],
+  "geometry": {"coordinates":[-85.91561299999999,37.683668],"type":"Point"}
+}

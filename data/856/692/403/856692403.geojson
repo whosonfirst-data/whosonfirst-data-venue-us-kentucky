@@ -1,0 +1,71 @@
+{
+  "id": 856692403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.821167,38.90883,-84.821167,38.90883",
+    "geom:latitude":38.90883,
+    "geom:longitude":-84.821167,
+    "iso:country":"US",
+    "sg:address":"5202 Beaver Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 5496",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mO7L8FnlZKahLEavbPBcw_38.908830_-84.821167@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051914,
+    "wof:geomhash":"9e2fce30b5ef66d17a17df1067303a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856692403
+        }
+    ],
+    "wof:id":856692403,
+    "wof:lastmodified":1464051914,
+    "wof:name":"Potter's Ranch",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -84.821167,
+    38.90883,
+    -84.821167,
+    38.90883
+],
+  "geometry": {"coordinates":[-84.821167,38.90883],"type":"Point"}
+}

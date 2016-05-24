@@ -1,0 +1,73 @@
+{
+  "id": 856742007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.722007,38.265724,-85.722007,38.265724",
+    "geom:latitude":38.265724,
+    "geom:longitude":-85.722007,
+    "iso:country":"US",
+    "sg:address":"1833 River Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2700",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ptLg6glYu7mz4i5f4yWGB_38.265724_-85.722007@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053457,
+    "wof:geomhash":"ab799b7b662df3fdfe5dcb6cb74cc66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":856742007
+        }
+    ],
+    "wof:id":856742007,
+    "wof:lastmodified":1464053457,
+    "wof:name":"R J Corman Railroad",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -85.722007,
+    38.265724,
+    -85.722007,
+    38.265724
+],
+  "geometry": {"coordinates":[-85.722007,38.265724],"type":"Point"}
+}

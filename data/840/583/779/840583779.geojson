@@ -1,0 +1,67 @@
+{
+  "id": 840583779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.638378,37.066234,-88.638378,37.066234",
+    "geom:latitude":37.066234,
+    "geom:longitude":-88.638378,
+    "iso:country":"US",
+    "sg:address":"342 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 5710",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"www.paducah.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iIo9rtRD2gorjCMSvVr5q_37.066234_-88.638378@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043287,
+    "wof:geomhash":"1b2e82f6d823172f1c2c8cd58453e154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840583779
+        }
+    ],
+    "wof:id":840583779,
+    "wof:lastmodified":1464043287,
+    "wof:name":"Paducah Middle School",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.638378,
+    37.066234,
+    -88.638378,
+    37.066234
+],
+  "geometry": {"coordinates":[-88.638378,37.066234],"type":"Point"}
+}

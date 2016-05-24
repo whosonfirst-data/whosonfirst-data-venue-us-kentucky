@@ -1,0 +1,73 @@
+{
+  "id": 840602559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641869,38.270265,-85.641869,38.270265",
+    "geom:latitude":38.270265,
+    "geom:longitude":-85.641869,
+    "iso:country":"US",
+    "sg:address":"614 Indian Ridge Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 7973",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XF61Ew9dwMuYvf2U8h427_38.270265_-85.641869@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043715,
+    "wof:geomhash":"d8ab0062ebf041da678c733b440493c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840602559
+        }
+    ],
+    "wof:id":840602559,
+    "wof:lastmodified":1464043715,
+    "wof:name":"Hunters Rest LLC",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.641869,
+    38.270265,
+    -85.641869,
+    38.270265
+],
+  "geometry": {"coordinates":[-85.641869,38.270265],"type":"Point"}
+}

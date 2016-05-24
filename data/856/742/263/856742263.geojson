@@ -1,0 +1,80 @@
+{
+  "id": 856742263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639328,38.280708,-85.639328,38.280708",
+    "geom:latitude":38.280708,
+    "geom:longitude":-85.639328,
+    "iso:country":"US",
+    "sg:address":"6006 Brownsboro Park Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 9395",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47PWHM7yP0KJTgotWntjEq_38.280708_-85.639328@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053467,
+    "wof:geomhash":"5f1c95261d8e5ef22dc460a000bcd75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856742263
+        }
+    ],
+    "wof:id":856742263,
+    "wof:lastmodified":1464053467,
+    "wof:name":"Magellan Mortgage Group",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -85.639328,
+    38.280708,
+    -85.639328,
+    38.280708
+],
+  "geometry": {"coordinates":[-85.63932800000001,38.280708],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840630163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.527663,36.992656,-86.527663,36.992656",
+    "geom:latitude":36.992656,
+    "geom:longitude":-86.527663,
+    "iso:country":"US",
+    "sg:address":"145 Suncrest Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 2160",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bulldozing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSbpbO62NDly79573thc6_36.992656_-86.527663@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044440,
+    "wof:geomhash":"e768b4e397ab84adf322de101411c9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840630163
+        }
+    ],
+    "wof:id":840630163,
+    "wof:lastmodified":1464044440,
+    "wof:name":"Alexander Dozer Svc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulldozing"
+    ]
+},
+  "bbox": [
+    -86.527663,
+    36.992656,
+    -86.527663,
+    36.992656
+],
+  "geometry": {"coordinates":[-86.527663,36.992656],"type":"Point"}
+}

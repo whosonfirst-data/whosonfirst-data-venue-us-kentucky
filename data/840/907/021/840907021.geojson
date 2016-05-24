@@ -1,0 +1,75 @@
+{
+  "id": 840907021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796215,38.214008,-85.796215,38.214008",
+    "geom:latitude":38.214008,
+    "geom:longitude":-85.796215,
+    "iso:country":"US",
+    "sg:address":"2509 Dixie Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 4040",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sJKIOrdvBT31uuP8qglr4_38.214008_-85.796215@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050637,
+    "wof:geomhash":"c228974b9a4e43c0fc7d3dddde8626f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840907021
+        }
+    ],
+    "wof:id":840907021,
+    "wof:lastmodified":1464050637,
+    "wof:name":"502 Lounge",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -85.796215,
+    38.214008,
+    -85.796215,
+    38.214008
+],
+  "geometry": {"coordinates":[-85.796215,38.214008],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840839955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.589037,37.906872,-84.589037,37.906872",
+    "geom:latitude":37.906872,
+    "geom:longitude":-84.589037,
+    "iso:country":"US",
+    "sg:address":"1529 Keene Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 223 5936",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqapW6a3sHPrPrD1H4SKH_37.906872_-84.589037@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049211,
+    "wof:geomhash":"db7ab4e373dbfad1ae2c1365da257ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840839955
+        }
+    ],
+    "wof:id":840839955,
+    "wof:lastmodified":1464049211,
+    "wof:name":"Bold Meadows Farm",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -84.589037,
+    37.906872,
+    -84.589037,
+    37.906872
+],
+  "geometry": {"coordinates":[-84.589037,37.906872],"type":"Point"}
+}

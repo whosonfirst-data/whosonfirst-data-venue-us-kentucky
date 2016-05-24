@@ -1,0 +1,71 @@
+{
+  "id": 840912289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443791,36.995878,-86.443791,36.995878",
+    "geom:latitude":36.995878,
+    "geom:longitude":-86.443791,
+    "iso:country":"US",
+    "sg:address":"911 Kentucky St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 4000",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vd3WhoBRAXrieJDHeGqBO_36.995878_-86.443791@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050797,
+    "wof:geomhash":"589d9c47f31a417db9e6ce14abb52585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840912289
+        }
+    ],
+    "wof:id":840912289,
+    "wof:lastmodified":1464050797,
+    "wof:name":"Bowling Green Animal Control",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -86.443791,
+    36.995878,
+    -86.443791,
+    36.995878
+],
+  "geometry": {"coordinates":[-86.443791,36.995878],"type":"Point"}
+}

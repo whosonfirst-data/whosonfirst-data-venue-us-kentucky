@@ -1,0 +1,73 @@
+{
+  "id": 840794469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.623582,37.075222,-88.623582,37.075222",
+    "geom:latitude":37.075222,
+    "geom:longitude":-88.623582,
+    "iso:country":"US",
+    "sg:address":"2311 Kentucky Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8425",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_465oM8i1WcFcVNoMIBMOSh_37.075222_-88.623582@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048068,
+    "wof:geomhash":"a4cbc41e246d8e53c73287318cbb0989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840794469
+        }
+    ],
+    "wof:id":840794469,
+    "wof:lastmodified":1464048068,
+    "wof:name":"Paducah Women's Clinic",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.623582,
+    37.075222,
+    -88.623582,
+    37.075222
+],
+  "geometry": {"coordinates":[-88.623582,37.075222],"type":"Point"}
+}

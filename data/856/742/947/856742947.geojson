@@ -1,0 +1,89 @@
+{
+  "id": 856742947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.655769,38.256519,-85.655769,38.256519",
+    "geom:latitude":38.256519,
+    "geom:longitude":-85.655769,
+    "iso:country":"US",
+    "sg:address":"3935 Kennison Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 5974",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XHxT3uzPYMTmkr40nMMJH_38.256519_-85.655769@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053492,
+    "wof:geomhash":"be4d91a65e251f9afae62a4ef5af07df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856742947
+        }
+    ],
+    "wof:id":856742947,
+    "wof:lastmodified":1464053492,
+    "wof:name":"St Matthews Fence And Deck Company",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.655769,
+    38.256519,
+    -85.655769,
+    38.256519
+],
+  "geometry": {"coordinates":[-85.65576900000001,38.256519],"type":"Point"}
+}

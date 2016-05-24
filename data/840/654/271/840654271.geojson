@@ -1,0 +1,73 @@
+{
+  "id": 840654271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.36106,37.565833,-84.36106,37.565833",
+    "geom:latitude":37.565833,
+    "geom:longitude":-84.36106,
+    "iso:country":"US",
+    "sg:address":"7349 State Hwy 21 E",
+    "sg:city":"Paint Lick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 9126",
+    "sg:postcode":"40461",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A46DnEV9v9AEGWK6KmbR2_37.565833_-84.361060@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044986,
+    "wof:geomhash":"25611b5551827ad0089fed0afa43ab80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840654271
+        }
+    ],
+    "wof:id":840654271,
+    "wof:lastmodified":1464044986,
+    "wof:name":"Morgan's Auto Repair",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.36106,
+    37.565833,
+    -84.36106,
+    37.565833
+],
+  "geometry": {"coordinates":[-84.36105999999999,37.565833],"type":"Point"}
+}

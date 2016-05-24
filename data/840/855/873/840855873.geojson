@@ -1,0 +1,73 @@
+{
+  "id": 840855873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421532,36.935136,-86.421532,36.935136",
+    "geom:latitude":36.935136,
+    "geom:longitude":-86.421532,
+    "iso:country":"US",
+    "sg:address":"475 Three Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2947",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BGrHWvZjUfqk5xrTRSquY_36.935136_-86.421532@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049563,
+    "wof:geomhash":"80bc4966f33bd318c4edbc934fb0017a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840855873
+        }
+    ],
+    "wof:id":840855873,
+    "wof:lastmodified":1464049563,
+    "wof:name":"B J Electrical & Construction",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.421532,
+    36.935136,
+    -86.421532,
+    36.935136
+],
+  "geometry": {"coordinates":[-86.421532,36.935136],"type":"Point"}
+}

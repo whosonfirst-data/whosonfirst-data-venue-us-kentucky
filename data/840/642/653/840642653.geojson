@@ -1,0 +1,73 @@
+{
+  "id": 840642653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.276673,37.757726,-84.276673,37.757726",
+    "geom:latitude":37.757726,
+    "geom:longitude":-84.276673,
+    "iso:country":"US",
+    "sg:address":"901 Four Mile Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 4018",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PxAJn1ih4XpFHbjmjoziv_37.757726_-84.276673@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044734,
+    "wof:geomhash":"485094388671d39ac937bb2703d0c2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840642653
+        }
+    ],
+    "wof:id":840642653,
+    "wof:lastmodified":1464044734,
+    "wof:name":"Kentucky Eagle Beer Inc",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -84.276673,
+    37.757726,
+    -84.276673,
+    37.757726
+],
+  "geometry": {"coordinates":[-84.276673,37.757726],"type":"Point"}
+}

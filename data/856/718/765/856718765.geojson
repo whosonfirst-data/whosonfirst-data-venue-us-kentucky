@@ -1,0 +1,73 @@
+{
+  "id": 856718765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.561027,37.528464,-82.561027,37.528464",
+    "geom:latitude":37.528464,
+    "geom:longitude":-82.561027,
+    "iso:country":"US",
+    "sg:address":"123 Weddington Branch Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 437 1933",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mmWIeLaUhcVXkPbbkof94_37.528464_-82.561027@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052539,
+    "wof:geomhash":"deab62b953ae6f962d8b3d16a2ae61ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856718765
+        }
+    ],
+    "wof:id":856718765,
+    "wof:lastmodified":1464052539,
+    "wof:name":"Associates In Rehab Pikeville",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -82.561027,
+    37.528464,
+    -82.561027,
+    37.528464
+],
+  "geometry": {"coordinates":[-82.561027,37.528464],"type":"Point"}
+}

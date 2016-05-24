@@ -1,0 +1,71 @@
+{
+  "id": 840910687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714796,36.607278,-83.714796,36.607278",
+    "geom:latitude":36.607278,
+    "geom:longitude":-83.714796,
+    "iso:country":"US",
+    "sg:address":"2014 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 8119",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eMQqSEHGxWAvXU1Ni7UnL_36.607278_-83.714796@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050757,
+    "wof:geomhash":"a4ee09c3ef51978efc8887721b5fbd58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840910687
+        }
+    ],
+    "wof:id":840910687,
+    "wof:lastmodified":1464050757,
+    "wof:name":"B & G Contracting",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.714796,
+    36.607278,
+    -83.714796,
+    36.607278
+],
+  "geometry": {"coordinates":[-83.71479600000001,36.607278],"type":"Point"}
+}

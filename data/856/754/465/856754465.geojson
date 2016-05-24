@@ -1,0 +1,88 @@
+{
+  "id": 856754465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.45462,38.022671,-84.45462,38.022671",
+    "geom:latitude":38.022671,
+    "geom:longitude":-84.45462,
+    "iso:country":"US",
+    "sg:address":"2300 Palumbo Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 269 4712",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "take"
+    ],
+    "sg:website":"http://www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40jSNZGtP7cFzaEeNZFtLH_38.022671_-84.454620@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053926,
+    "wof:geomhash":"9310a3d4ca5588947906d79143b1d94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826711,
+            "region_id":85688641,
+            "venue_id":856754465
+        }
+    ],
+    "wof:id":856754465,
+    "wof:lastmodified":1464053926,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85826711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "take"
+    ]
+},
+  "bbox": [
+    -84.45462,
+    38.022671,
+    -84.45462,
+    38.022671
+],
+  "geometry": {"coordinates":[-84.45462000000001,38.022671],"type":"Point"}
+}

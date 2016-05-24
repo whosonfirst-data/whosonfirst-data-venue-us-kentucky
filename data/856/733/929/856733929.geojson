@@ -1,0 +1,76 @@
+{
+  "id": 856733929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.538897,38.214352,-85.538897,38.214352",
+    "geom:latitude":38.214352,
+    "geom:longitude":-85.538897,
+    "iso:country":"US",
+    "sg:address":"1915 Blankenbaker Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/53043-kimis-asian-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 263 1915",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XNaD4rseu8qwmgN1nCUbt_38.214352_-85.538897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053142,
+    "wof:geomhash":"21c55031c259c6522f1d1557c450fc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856733929
+        }
+    ],
+    "wof:id":856733929,
+    "wof:lastmodified":1464053142,
+    "wof:name":"Kimis Asian Bistro",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -85.538897,
+    38.214352,
+    -85.538897,
+    38.214352
+],
+  "geometry": {"coordinates":[-85.53889700000001,38.214352],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840646137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441453,36.951659,-86.441453,36.951659",
+    "geom:latitude":36.951659,
+    "geom:longitude":-86.441453,
+    "iso:country":"US",
+    "sg:address":"1600 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9115",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t6YDPByFInSFxD29T4bUX_36.951659_-86.441453@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044803,
+    "wof:geomhash":"55d4acf6dda484a021d0bd62a16d6c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840646137
+        }
+    ],
+    "wof:id":840646137,
+    "wof:lastmodified":1464044803,
+    "wof:name":"Quikdrop",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -86.441453,
+    36.951659,
+    -86.441453,
+    36.951659
+],
+  "geometry": {"coordinates":[-86.441453,36.951659],"type":"Point"}
+}

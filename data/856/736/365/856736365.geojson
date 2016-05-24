@@ -1,0 +1,72 @@
+{
+  "id": 856736365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.449197,37.001316,-86.449197,37.001316",
+    "geom:latitude":37.001316,
+    "geom:longitude":-86.449197,
+    "iso:country":"US",
+    "sg:address":"440 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/209819-440-main/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0450",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FHxWQU16FhRlYbVreXXPs_37.001316_-86.449197@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"a55cb065958b538a4367a32e9389b5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736365
+        }
+    ],
+    "wof:id":856736365,
+    "wof:lastmodified":1464053236,
+    "wof:name":"440 Main",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -86.449197,
+    37.001316,
+    -86.449197,
+    37.001316
+],
+  "geometry": {"coordinates":[-86.449197,37.001316],"type":"Point"}
+}

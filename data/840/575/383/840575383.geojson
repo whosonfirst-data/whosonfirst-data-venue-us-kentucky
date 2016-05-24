@@ -1,0 +1,73 @@
+{
+  "id": 840575383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.854481,37.699436,-85.854481,37.699436",
+    "geom:latitude":37.699436,
+    "geom:longitude":-85.854481,
+    "iso:country":"US",
+    "sg:address":"420 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5401",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QocthipQ6odPSW79PN7HN_37.699436_-85.854481@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043112,
+    "wof:geomhash":"8fde6693356102181bda3b8a884a61ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840575383
+        }
+    ],
+    "wof:id":840575383,
+    "wof:lastmodified":1464043112,
+    "wof:name":"Darrell's Towing & Recovery",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.854481,
+    37.699436,
+    -85.854481,
+    37.699436
+],
+  "geometry": {"coordinates":[-85.85448100000001,37.699436],"type":"Point"}
+}

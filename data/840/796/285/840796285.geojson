@@ -1,0 +1,85 @@
+{
+  "id": 840796285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774974,37.64745,-84.774974,37.64745",
+    "geom:latitude":37.64745,
+    "geom:longitude":-84.774974,
+    "iso:country":"US",
+    "sg:address":"324 W Broadway St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 9498",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "graphic",
+        "designer"
+    ],
+    "sg:website":"www.dixondesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vmJf8RbaLQQn3Nf5Dnao2_37.647450_-84.774974@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048102,
+    "wof:geomhash":"fd193ac8e1d1cee6e2565edf44ba8aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840796285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840796285
+        }
+    ],
+    "wof:id":840796285,
+    "wof:lastmodified":1464048102,
+    "wof:name":"Dixon Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [
+    -84.774974,
+    37.64745,
+    -84.774974,
+    37.64745
+],
+  "geometry": {"coordinates":[-84.774974,37.64745],"type":"Point"}
+}

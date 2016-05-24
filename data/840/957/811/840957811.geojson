@@ -1,0 +1,71 @@
+{
+  "id": 840957811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.259811,37.555924,-82.259811,37.555924",
+    "geom:latitude":37.555924,
+    "geom:longitude":-82.259811,
+    "iso:country":"US",
+    "sg:address":"3663 Pond Creek Rd",
+    "sg:city":"Pinsonfork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 353 9775",
+    "sg:postcode":"41555",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DOCznHXtndx4LQ8TMvdO5_37.555924_-82.259811@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051793,
+    "wof:geomhash":"d39e03418bc2e5e10076c653b9c7183e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840957811
+        }
+    ],
+    "wof:id":840957811,
+    "wof:lastmodified":1464051793,
+    "wof:name":"Upper Pond Creek Fire Dept",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.259811,
+    37.555924,
+    -82.259811,
+    37.555924
+],
+  "geometry": {"coordinates":[-82.259811,37.555924],"type":"Point"}
+}

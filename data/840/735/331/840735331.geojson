@@ -1,0 +1,73 @@
+{
+  "id": 840735331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56015,38.219237,-84.56015,38.219237",
+    "geom:latitude":38.219237,
+    "geom:longitude":-84.56015,
+    "iso:country":"US",
+    "sg:address":"100 Payne Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 867 9944",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HpXJZbiFXHwMVAW26rV66_38.219237_-84.560150@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046807,
+    "wof:geomhash":"b9b736097b2b042318dad54e4bab6193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840735331
+        }
+    ],
+    "wof:id":840735331,
+    "wof:lastmodified":1464046807,
+    "wof:name":"Money Mart",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -84.56015,
+    38.219237,
+    -84.56015,
+    38.219237
+],
+  "geometry": {"coordinates":[-84.56014999999999,38.219237],"type":"Point"}
+}

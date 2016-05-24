@@ -1,0 +1,73 @@
+{
+  "id": 840916309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.297322,37.744675,-84.297322,37.744675",
+    "geom:latitude":37.744675,
+    "geom:longitude":-84.297322,
+    "iso:country":"US",
+    "sg:address":"405 University Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 9400",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rv7prAC8sh8cx7JFnutr6_37.744675_-84.297322@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050919,
+    "wof:geomhash":"ce28102cba77a1f37fc388ae14968d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840916309
+        }
+    ],
+    "wof:id":840916309,
+    "wof:lastmodified":1464050919,
+    "wof:name":"St Stephen Catholic Newman Ctr",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.297322,
+    37.744675,
+    -84.297322,
+    37.744675
+],
+  "geometry": {"coordinates":[-84.29732199999999,37.744675],"type":"Point"}
+}

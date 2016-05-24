@@ -1,0 +1,71 @@
+{
+  "id": 840642535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.126902,36.943466,-83.126902,36.943466",
+    "geom:latitude":36.943466,
+    "geom:longitude":-83.126902,
+    "iso:country":"US",
+    "sg:address":"10436 State Hwy 522",
+    "sg:city":"Totz",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 574 9941",
+    "sg:postcode":"40870",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5viVw86rXmcVvuDG7QvASR_36.943466_-83.126902@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044731,
+    "wof:geomhash":"3f816c2cce1a2358490705292c395084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840642535
+        }
+    ],
+    "wof:id":840642535,
+    "wof:lastmodified":1464044731,
+    "wof:name":"Golden Brashears",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -83.126902,
+    36.943466,
+    -83.126902,
+    36.943466
+],
+  "geometry": {"coordinates":[-83.126902,36.943466],"type":"Point"}
+}

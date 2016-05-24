@@ -1,0 +1,85 @@
+{
+  "id": 840705383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.728662,38.159314,-85.728662,38.159314",
+    "geom:latitude":38.159314,
+    "geom:longitude":-85.728662,
+    "iso:country":"US",
+    "sg:address":"755 Grade Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 375 7400",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "tower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TMSgLxll0QD4Fek33Te9P_38.159314_-85.728662@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046213,
+    "wof:geomhash":"e47216fc26685aa175fa9e3f789a0d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840705383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840705383
+        }
+    ],
+    "wof:id":840705383,
+    "wof:lastmodified":1464046213,
+    "wof:name":"Airport Traffic Control Tower",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "tower"
+    ]
+},
+  "bbox": [
+    -85.728662,
+    38.159314,
+    -85.728662,
+    38.159314
+],
+  "geometry": {"coordinates":[-85.728662,38.159314],"type":"Point"}
+}

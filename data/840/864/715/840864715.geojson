@@ -1,0 +1,73 @@
+{
+  "id": 840864715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.907783,36.964283,-82.907783,36.964283",
+    "geom:latitude":36.964283,
+    "geom:longitude":-82.907783,
+    "iso:country":"US",
+    "sg:address":"200 Church St",
+    "sg:city":"Lynch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 0130",
+    "sg:postcode":"40855",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lVCoB65IrXKl0JaRIf38m_36.964283_-82.907783@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049746,
+    "wof:geomhash":"0ed443bb29bc8c938fe1d4e8a2b67735",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840864715
+        }
+    ],
+    "wof:id":840864715,
+    "wof:lastmodified":1464049746,
+    "wof:name":"Arh Cumberland Valley Care",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.907783,
+    36.964283,
+    -82.907783,
+    36.964283
+],
+  "geometry": {"coordinates":[-82.90778299999999,36.964283],"type":"Point"}
+}

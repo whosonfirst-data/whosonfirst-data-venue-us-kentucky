@@ -1,0 +1,75 @@
+{
+  "id": 840670703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.761015,37.650614,-84.761015,37.650614",
+    "geom:latitude":37.650614,
+    "geom:longitude":-84.761015,
+    "iso:country":"US",
+    "sg:address":"640 E Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 1250",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947155,
+        102085579,
+        85822743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ez1TD7Ugs0Hp7DBUkaLZn_37.650614_-84.761015@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045325,
+    "wof:geomhash":"f578c542226a936aaedbca80f8eeaf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85822743,
+            "region_id":85688641,
+            "venue_id":840670703
+        }
+    ],
+    "wof:id":840670703,
+    "wof:lastmodified":1464045325,
+    "wof:name":"Family Medicine Clinic",
+    "wof:parent_id":85822743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.761015,
+    37.650614,
+    -84.761015,
+    37.650614
+],
+  "geometry": {"coordinates":[-84.761015,37.650614],"type":"Point"}
+}

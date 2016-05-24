@@ -1,0 +1,76 @@
+{
+  "id": 856743311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763206,38.20414,-85.763206,38.20414",
+    "geom:latitude":38.20414,
+    "geom:longitude":-85.763206,
+    "iso:country":"US",
+    "sg:address":"3111 S 2nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 4006",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "video",
+        "supply"
+    ],
+    "sg:website":"http://www.gamestop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hKEjq0lqunXkcqn0QLw0S_38.204140_-85.763206@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053505,
+    "wof:geomhash":"2bdae4bb49b5ec297c5aeab55f3799c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856743311
+        }
+    ],
+    "wof:id":856743311,
+    "wof:lastmodified":1464053505,
+    "wof:name":"Game Stop",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.763206,
+    38.20414,
+    -85.763206,
+    38.20414
+],
+  "geometry": {"coordinates":[-85.763206,38.20414],"type":"Point"}
+}

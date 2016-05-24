@@ -1,0 +1,71 @@
+{
+  "id": 856712823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631674,37.972337,-85.631674,37.972337",
+    "geom:latitude":37.972337,
+    "geom:longitude":-85.631674,
+    "iso:country":"US",
+    "sg:address":"5005 Cedar Grove Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 3723",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wZANqOoytgfbwwPv3IGp_37.972337_-85.631674@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052320,
+    "wof:geomhash":"71459a0453d2374b6af480467bb44054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856712823
+        }
+    ],
+    "wof:id":856712823,
+    "wof:lastmodified":1464052320,
+    "wof:name":"Cedar Grove Methodist Church",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.631674,
+    37.972337,
+    -85.631674,
+    37.972337
+],
+  "geometry": {"coordinates":[-85.631674,37.972337],"type":"Point"}
+}

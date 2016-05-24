@@ -1,0 +1,73 @@
+{
+  "id": 856742059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.716502,38.25042,-85.716502,38.25042",
+    "geom:latitude":38.25042,
+    "geom:longitude":-85.716502,
+    "iso:country":"US",
+    "sg:address":"2105 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2498",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gpI5mXssMzXRsp7kavwTe_38.250420_-85.716502@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053460,
+    "wof:geomhash":"6f5db6497fd39d2f57ee4fb8a38ec042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":856742059
+        }
+    ],
+    "wof:id":856742059,
+    "wof:lastmodified":1464053460,
+    "wof:name":"Waggin Tail Kennels Inc",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -85.716502,
+    38.25042,
+    -85.716502,
+    38.25042
+],
+  "geometry": {"coordinates":[-85.71650200000001,38.25042],"type":"Point"}
+}

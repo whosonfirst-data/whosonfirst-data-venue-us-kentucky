@@ -1,0 +1,73 @@
+{
+  "id": 840894025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.631134,37.095722,-88.631134,37.095722",
+    "geom:latitude":37.095722,
+    "geom:longitude":-88.631134,
+    "iso:country":"US",
+    "sg:address":"1902 N 10th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 3638",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uo97UN5wozB2H9JOg6Y7m_37.095722_-88.631134@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050364,
+    "wof:geomhash":"551d800159b0fbb034b4b0a47b3199bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840894025
+        }
+    ],
+    "wof:id":840894025,
+    "wof:lastmodified":1464050364,
+    "wof:name":"Warehouse Auto Parts",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -88.631134,
+    37.095722,
+    -88.631134,
+    37.095722
+],
+  "geometry": {"coordinates":[-88.631134,37.095722],"type":"Point"}
+}

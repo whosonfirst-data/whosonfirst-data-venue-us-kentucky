@@ -1,0 +1,74 @@
+{
+  "id": 856762745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.887587,37.733908,-85.887587,37.733908",
+    "geom:latitude":37.733908,
+    "geom:longitude":-85.887587,
+    "iso:country":"US",
+    "sg:address":"115 Towne Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0250",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "sg:website":"http://www.panerabread.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CAiiGZUE2BKWsOzmesqIE_37.733908_-85.887587@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054226,
+    "wof:geomhash":"5eb7141dce9891eb853c2fd01635516a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762745
+        }
+    ],
+    "wof:id":856762745,
+    "wof:lastmodified":1464054226,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.887587,
+    37.733908,
+    -85.887587,
+    37.733908
+],
+  "geometry": {"coordinates":[-85.887587,37.733908],"type":"Point"}
+}

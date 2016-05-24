@@ -1,0 +1,69 @@
+{
+  "id": 840780605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567321,37.890812,-84.567321,37.890812",
+    "geom:latitude":37.890812,
+    "geom:longitude":-84.567321,
+    "iso:country":"US",
+    "sg:address":"212 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 7411",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pXT7ufZg5blw0es2bbD5y_37.890812_-84.567321@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047776,
+    "wof:geomhash":"e9baada8e37fcc9b6f65cd12350cf553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840780605
+        }
+    ],
+    "wof:id":840780605,
+    "wof:lastmodified":1464047776,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -84.567321,
+    37.890812,
+    -84.567321,
+    37.890812
+],
+  "geometry": {"coordinates":[-84.56732100000001,37.890812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856713475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748419,37.620869,-84.748419,37.620869",
+    "geom:latitude":37.620869,
+    "geom:longitude":-84.748419,
+    "iso:country":"US",
+    "sg:address":"3880 S Danville Byp",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 2201",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GMtDJuNAd6kQudhycjUs3_37.620869_-84.748419@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052338,
+    "wof:geomhash":"b7632bfe8dd1bffc74b55d5dbc869f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856713475
+        }
+    ],
+    "wof:id":856713475,
+    "wof:lastmodified":1464052338,
+    "wof:name":"Animal Medical Ctr",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.748419,
+    37.620869,
+    -84.748419,
+    37.620869
+],
+  "geometry": {"coordinates":[-84.748419,37.620869],"type":"Point"}
+}

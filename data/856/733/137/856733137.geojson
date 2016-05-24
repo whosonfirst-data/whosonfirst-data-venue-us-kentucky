@@ -1,0 +1,74 @@
+{
+  "id": 856733137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741847,38.215251,-85.741847,38.215251",
+    "geom:latitude":38.215251,
+    "geom:longitude":-85.741847,
+    "iso:country":"US",
+    "sg:address":"811 Eastern Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/91663-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 1043",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TO9gKwjUPqAProhstuSvb_38.215251_-85.741847@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053114,
+    "wof:geomhash":"c284d5ff6e41d3168b8c9fd6d59e120b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873425,
+            "region_id":85688641,
+            "venue_id":856733137
+        }
+    ],
+    "wof:id":856733137,
+    "wof:lastmodified":1464053114,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85873425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.741847,
+    38.215251,
+    -85.741847,
+    38.215251
+],
+  "geometry": {"coordinates":[-85.74184700000001,38.215251],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856733135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741571,38.2129,-85.741571,38.2129",
+    "geom:latitude":38.2129,
+    "geom:longitude":-85.741571,
+    "iso:country":"US",
+    "sg:address":"2502 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/162999-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 4170",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66UqKRr835DJamrg44Vr1t_38.212900_-85.741571@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053114,
+    "wof:geomhash":"0c22e7a2cdaf3c0a07e4b3be354311d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":856733135
+        }
+    ],
+    "wof:id":856733135,
+    "wof:lastmodified":1464053114,
+    "wof:name":"Rally's",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.741571,
+    38.2129,
+    -85.741571,
+    38.2129
+],
+  "geometry": {"coordinates":[-85.74157099999999,38.2129],"type":"Point"}
+}

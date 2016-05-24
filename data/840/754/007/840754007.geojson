@@ -1,0 +1,73 @@
+{
+  "id": 840754007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.575713,37.056287,-88.575713,37.056287",
+    "geom:latitude":37.056287,
+    "geom:longitude":-88.575713,
+    "iso:country":"US",
+    "sg:address":"750 Leiberman St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1511",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xGYzwSzNmlNbxxXDkpht5_37.056287_-88.575713@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047196,
+    "wof:geomhash":"a649fde9113e598760a8a9bd108ae376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840754007
+        }
+    ],
+    "wof:id":840754007,
+    "wof:lastmodified":1464047196,
+    "wof:name":"Stow-A-Way Mini Storage & Wrhs",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.575713,
+    37.056287,
+    -88.575713,
+    37.056287
+],
+  "geometry": {"coordinates":[-88.57571299999999,37.056287],"type":"Point"}
+}

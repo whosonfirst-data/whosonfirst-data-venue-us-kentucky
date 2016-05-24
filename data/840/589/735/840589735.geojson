@@ -1,0 +1,67 @@
+{
+  "id": 840589735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.652594,39.072052,-84.652594,39.072052",
+    "geom:latitude":39.072052,
+    "geom:longitude":-84.652594,
+    "iso:country":"US",
+    "sg:address":"591 Hunter Rd",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 525 7510",
+    "sg:postcode":"41048",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528187,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p7hMhe6H4teZH1p19URAO_39.072052_-84.652594@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043417,
+    "wof:geomhash":"8a5bcf2fd1ec4a4425ffd999901da8f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528187,
+            "country_id":85633793,
+            "region_id":85688641,
+            "venue_id":840589735
+        }
+    ],
+    "wof:id":840589735,
+    "wof:lastmodified":1464043417,
+    "wof:name":"Airport Towing",
+    "wof:parent_id":102528187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.652594,
+    39.072052,
+    -84.652594,
+    39.072052
+],
+  "geometry": {"coordinates":[-84.65259399999999,39.072052],"type":"Point"}
+}

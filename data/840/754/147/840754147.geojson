@@ -1,0 +1,73 @@
+{
+  "id": 840754147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.63478,37.17904,-84.63478,37.17904",
+    "geom:latitude":37.17904,
+    "geom:longitude":-84.63478,
+    "iso:country":"US",
+    "sg:address":"817 Stanford St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3217",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34hCXTjrbzoBKZTLyg88yL_37.179040_-84.634780@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047201,
+    "wof:geomhash":"a5e06422944b1c42256ec66fdbd9ae28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840754147
+        }
+    ],
+    "wof:id":840754147,
+    "wof:lastmodified":1464047201,
+    "wof:name":"Dick's Used Cars",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.63478,
+    37.17904,
+    -84.63478,
+    37.17904
+],
+  "geometry": {"coordinates":[-84.63478000000001,37.17904],"type":"Point"}
+}

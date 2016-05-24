@@ -1,0 +1,69 @@
+{
+  "id": 840643565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.217143,38.211798,-85.217143,38.211798",
+    "geom:latitude":38.211798,
+    "geom:longitude":-85.217143,
+    "iso:country":"US",
+    "sg:address":"405 6th St",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 4959",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68iTUR0lDL5CL6Iuz61wHj_38.211798_-85.217143@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044752,
+    "wof:geomhash":"9184f7e7510e8e96f44bbebfc5a1eb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840643565
+        }
+    ],
+    "wof:id":840643565,
+    "wof:lastmodified":1464044752,
+    "wof:name":"Clark Printing Svc",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -85.217143,
+    38.211798,
+    -85.217143,
+    38.211798
+],
+  "geometry": {"coordinates":[-85.21714299999999,38.211798],"type":"Point"}
+}

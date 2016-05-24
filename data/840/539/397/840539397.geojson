@@ -1,0 +1,74 @@
+{
+  "id": 840539397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.873947,37.708957,-85.873947,37.708957",
+    "geom:latitude":37.708957,
+    "geom:longitude":-85.873947,
+    "iso:country":"US",
+    "sg:address":"106 Diecks Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2738",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.phsk.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FE1jd2pTMSZFjljzpl5T2_37.708957_-85.873947@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042204,
+    "wof:geomhash":"62c1c8dae4352d470f550f3029698f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840539397
+        }
+    ],
+    "wof:id":840539397,
+    "wof:lastmodified":1464042204,
+    "wof:name":"Helmwood Healthcare Ctr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.873947,
+    37.708957,
+    -85.873947,
+    37.708957
+],
+  "geometry": {"coordinates":[-85.873947,37.708957],"type":"Point"}
+}

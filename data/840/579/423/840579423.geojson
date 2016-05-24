@@ -1,0 +1,71 @@
+{
+  "id": 840579423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.953129,37.650448,-84.953129,37.650448",
+    "geom:latitude":37.650448,
+    "geom:longitude":-84.953129,
+    "iso:country":"US",
+    "sg:address":"205 W 2nd St",
+    "sg:city":"Perryville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 332 7016",
+    "sg:postcode":"40468",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HLzhrVxN8DnosfFS00QHw_37.650448_-84.953129@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043194,
+    "wof:geomhash":"ae18799816b7da5a380d5b44116dba9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840579423
+        }
+    ],
+    "wof:id":840579423,
+    "wof:lastmodified":1464043194,
+    "wof:name":"Whitehouse Auto Parts",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.953129,
+    37.650448,
+    -84.953129,
+    37.650448
+],
+  "geometry": {"coordinates":[-84.953129,37.650448],"type":"Point"}
+}

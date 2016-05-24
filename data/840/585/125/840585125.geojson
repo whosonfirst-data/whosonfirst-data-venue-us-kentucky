@@ -1,0 +1,71 @@
+{
+  "id": 840585125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.834784,37.716753,-85.834784,37.716753",
+    "geom:latitude":37.716753,
+    "geom:longitude":-85.834784,
+    "iso:country":"US",
+    "sg:address":"150 Raleigh Way",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 7753",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gLHJcFPnI5dUbkIenkmjN_37.716753_-85.834784@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043318,
+    "wof:geomhash":"3899f8e6fe3395a0a99ce461f8dca416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840585125
+        }
+    ],
+    "wof:id":840585125,
+    "wof:lastmodified":1464043318,
+    "wof:name":"Green Apple Foods",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -85.834784,
+    37.716753,
+    -85.834784,
+    37.716753
+],
+  "geometry": {"coordinates":[-85.834784,37.716753],"type":"Point"}
+}

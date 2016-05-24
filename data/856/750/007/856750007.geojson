@@ -1,0 +1,86 @@
+{
+  "id": 856750007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613853,38.301682,-85.613853,38.301682",
+    "geom:latitude":38.301682,
+    "geom:longitude":-85.613853,
+    "iso:country":"US",
+    "sg:address":"7300 Trail Crest Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 292 1957",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "irrigation",
+        "system",
+        "contractor",
+        "equipment",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xbnvlmJPaeTc1VCyPvLgh_38.301682_-85.613853@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053749,
+    "wof:geomhash":"03765213a994af8bcd6fdef970c235b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856750007
+        }
+    ],
+    "wof:id":856750007,
+    "wof:lastmodified":1464053749,
+    "wof:name":"Evergreen Landscape Management",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "system",
+        "contractor",
+        "equipment",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -85.613853,
+    38.301682,
+    -85.613853,
+    38.301682
+],
+  "geometry": {"coordinates":[-85.61385300000001,38.301682],"type":"Point"}
+}

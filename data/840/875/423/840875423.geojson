@@ -1,0 +1,73 @@
+{
+  "id": 840875423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.345332,37.083134,-86.345332,37.083134",
+    "geom:latitude":37.083134,
+    "geom:longitude":-86.345332,
+    "iso:country":"US",
+    "sg:address":"528 Penns Chapel Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 6931",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VQolpKt7nXA0mr5uXIUUL_37.083134_-86.345332@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049957,
+    "wof:geomhash":"eadc9e87c79dbb3171de66fec17e862f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840875423
+        }
+    ],
+    "wof:id":840875423,
+    "wof:lastmodified":1464049957,
+    "wof:name":"Commercial Sanitation Septic",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -86.345332,
+    37.083134,
+    -86.345332,
+    37.083134
+],
+  "geometry": {"coordinates":[-86.345332,37.083134],"type":"Point"}
+}

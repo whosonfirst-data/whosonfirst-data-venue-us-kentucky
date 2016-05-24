@@ -1,0 +1,87 @@
+{
+  "id": 856740601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.781349,38.25938,-85.781349,38.25938",
+    "geom:latitude":38.25938,
+    "geom:longitude":-85.781349,
+    "iso:country":"US",
+    "sg:address":"1900 W Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2235",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "meat-wholesale",
+        "poultry-wholesale",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AtYp8eKSYrjy2JwHVxU7v_38.259380_-85.781349@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053410,
+    "wof:geomhash":"36bbb2af58f66d2ba63fa24f3b67df37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856740601
+        }
+    ],
+    "wof:id":856740601,
+    "wof:lastmodified":1464053410,
+    "wof:name":"Superior Meats Inc",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meat-wholesale",
+        "poultry-wholesale",
+        "market"
+    ]
+},
+  "bbox": [
+    -85.781349,
+    38.25938,
+    -85.781349,
+    38.25938
+],
+  "geometry": {"coordinates":[-85.78134900000001,38.25938],"type":"Point"}
+}

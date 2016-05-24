@@ -1,0 +1,73 @@
+{
+  "id": 840925427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.424108,36.948225,-86.424108,36.948225",
+    "geom:latitude":36.948225,
+    "geom:longitude":-86.424108,
+    "iso:country":"US",
+    "sg:address":"2740 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 4643",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0peawE8ycklcpbm5LWEIlQ_36.948225_-86.424108@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051151,
+    "wof:geomhash":"2786278f1bdfee0617e367bb24b49fd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840925427
+        }
+    ],
+    "wof:id":840925427,
+    "wof:lastmodified":1464051151,
+    "wof:name":"Express Check Advance",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -86.424108,
+    36.948225,
+    -86.424108,
+    36.948225
+],
+  "geometry": {"coordinates":[-86.424108,36.948225],"type":"Point"}
+}

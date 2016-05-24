@@ -1,0 +1,68 @@
+{
+  "id": 840539851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501501,38.003491,-84.501501,38.003491",
+    "geom:latitude":38.003491,
+    "geom:longitude":-84.501501,
+    "iso:country":"US",
+    "sg:address":"759 Robin Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 0422",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85829779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TsMyQwHGxfGWSxCOuHRNR_38.003491_-84.501501@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042214,
+    "wof:geomhash":"5d61dfaec755078505b25ea6257679e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85829779,
+            "region_id":85688641,
+            "venue_id":840539851
+        }
+    ],
+    "wof:id":840539851,
+    "wof:lastmodified":1464042214,
+    "wof:name":"Lexington Vintage Dance Studio",
+    "wof:parent_id":85829779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.501501,
+    38.003491,
+    -84.501501,
+    38.003491
+],
+  "geometry": {"coordinates":[-84.501501,38.003491],"type":"Point"}
+}

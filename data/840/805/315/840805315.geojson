@@ -1,0 +1,73 @@
+{
+  "id": 840805315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.464106,37.812264,-85.464106,37.812264",
+    "geom:latitude":37.812264,
+    "geom:longitude":-85.464106,
+    "iso:country":"US",
+    "sg:address":"310 N 2nd St",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 348 5496",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32YkmLEFH9XKYFCEuHiMsg_37.812264_-85.464106@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048305,
+    "wof:geomhash":"266d4e5f2e9451c5d1a5e8e2ee72491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840805315
+        }
+    ],
+    "wof:id":840805315,
+    "wof:lastmodified":1464048305,
+    "wof:name":"Bardstown Christian Fellowship",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.464106,
+    37.812264,
+    -85.464106,
+    37.812264
+],
+  "geometry": {"coordinates":[-85.464106,37.812264],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856761267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651804,37.099011,-88.651804,37.099011",
+    "geom:latitude":37.099011,
+    "geom:longitude":-88.651804,
+    "iso:country":"US",
+    "sg:address":"3215 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 4513",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "god",
+        "churches-church",
+        "churches-pentecostal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UsOg9gYk8slyfRVfjIfp1_37.099011_-88.651804@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"a1ce89158f6b5c759979c3982763ff79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761267
+        }
+    ],
+    "wof:id":856761267,
+    "wof:lastmodified":1464054170,
+    "wof:name":"Northside Church",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "god",
+        "churches-church",
+        "churches-pentecostal"
+    ]
+},
+  "bbox": [
+    -88.651804,
+    37.099011,
+    -88.651804,
+    37.099011
+],
+  "geometry": {"coordinates":[-88.651804,37.099011],"type":"Point"}
+}

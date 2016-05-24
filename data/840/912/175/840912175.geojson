@@ -1,0 +1,86 @@
+{
+  "id": 840912175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530757,37.026293,-88.530757,37.026293",
+    "geom:latitude":37.026293,
+    "geom:longitude":-88.530757,
+    "iso:country":"US",
+    "sg:address":"2810 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 6587",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ironwork",
+        "metalwork",
+        "mfg",
+        "trade",
+        "architectural",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QQM4h6cwvF58nE6hUqGO0_37.026293_-88.530757@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050791,
+    "wof:geomhash":"27addba51f0a20163585e141f092f698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840912175
+        }
+    ],
+    "wof:id":840912175,
+    "wof:lastmodified":1464050791,
+    "wof:name":"Ornamental Art Craft",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork",
+        "metalwork",
+        "mfg",
+        "trade",
+        "architectural",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.530757,
+    37.026293,
+    -88.530757,
+    37.026293
+],
+  "geometry": {"coordinates":[-88.53075699999999,37.026293],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856732109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.596604,38.298515,-85.596604,38.298515",
+    "geom:latitude":38.298515,
+    "geom:longitude":-85.596604,
+    "iso:country":"US",
+    "sg:address":"8208 Brownsboro Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 2857",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "private"
+    ],
+    "sg:website":"http://www.standardcc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SFRwyYfN2rQNj6MiF37QC_38.298198_-85.597028@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053077,
+    "wof:geomhash":"6396cc9654cadda226c29f704b2d0882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856732109
+        }
+    ],
+    "wof:id":856732109,
+    "wof:lastmodified":1464053077,
+    "wof:name":"Standard Country Club",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "private"
+    ]
+},
+  "bbox": [
+    -85.596604,
+    38.298515,
+    -85.596604,
+    38.298515
+],
+  "geometry": {"coordinates":[-85.596604,38.298515],"type":"Point"}
+}

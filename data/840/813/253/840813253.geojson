@@ -1,0 +1,68 @@
+{
+  "id": 840813253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.428806,36.989661,-86.428806,36.989661",
+    "geom:latitude":36.989661,
+    "geom:longitude":-86.428806,
+    "iso:country":"US",
+    "sg:address":"629 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8552",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59FwoD7NzG18ihp6Mveh1L_36.989661_-86.428806@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048552,
+    "wof:geomhash":"029881107a09d87d96c8a629cc66ead3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840813253
+        }
+    ],
+    "wof:id":840813253,
+    "wof:lastmodified":1464048552,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.428806,
+    36.989661,
+    -86.428806,
+    36.989661
+],
+  "geometry": {"coordinates":[-86.42880599999999,36.989661],"type":"Point"}
+}

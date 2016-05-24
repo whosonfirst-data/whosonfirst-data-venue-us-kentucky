@@ -1,0 +1,80 @@
+{
+  "id": 856711609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.748781,37.96082,-85.748781,37.96082",
+    "geom:latitude":37.96082,
+    "geom:longitude":-85.748781,
+    "iso:country":"US",
+    "sg:address":"2460 Beech Grove Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 0277",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pond",
+        "fishing",
+        "lake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZJnt21TZe1frIbDalNXGi_37.960820_-85.748781@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052298,
+    "wof:geomhash":"7ca83c14aed80766fb410fc4f6a9fb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856711609
+        }
+    ],
+    "wof:id":856711609,
+    "wof:lastmodified":1464052298,
+    "wof:name":"Al's Pay Lake",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pond",
+        "fishing",
+        "lake"
+    ]
+},
+  "bbox": [
+    -85.748781,
+    37.96082,
+    -85.748781,
+    37.96082
+],
+  "geometry": {"coordinates":[-85.74878099999999,37.96082],"type":"Point"}
+}

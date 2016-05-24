@@ -1,0 +1,73 @@
+{
+  "id": 840541775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443545,37.00178,-86.443545,37.00178",
+    "geom:latitude":37.00178,
+    "geom:longitude":-86.443545,
+    "iso:country":"US",
+    "sg:address":"416 Gordon Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 2235",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V4nW74Cb12ajjFcVpdUst_37.001780_-86.443545@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042264,
+    "wof:geomhash":"a637f47d30e5ca255d0f6530187a99c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840541775
+        }
+    ],
+    "wof:id":840541775,
+    "wof:lastmodified":1464042264,
+    "wof:name":"Nunn Better Express Lube",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.443545,
+    37.00178,
+    -86.443545,
+    37.00178
+],
+  "geometry": {"coordinates":[-86.443545,37.00178],"type":"Point"}
+}

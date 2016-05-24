@@ -1,0 +1,77 @@
+{
+  "id": 856729645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755804,38.25101,-85.755804,38.25101",
+    "geom:latitude":38.25101,
+    "geom:longitude":-85.755804,
+    "iso:country":"US",
+    "sg:address":"530 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 561 0889",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garage",
+        "attendant",
+        "lot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_447Z1v726w82v1CCJAMMYC_38.250820_-85.755963@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052988,
+    "wof:geomhash":"fbad33ae3f1b1480f8e2edf46b15b77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856729645
+        }
+    ],
+    "wof:id":856729645,
+    "wof:lastmodified":1464052988,
+    "wof:name":"Riverside Parking",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "attendant",
+        "lot"
+    ]
+},
+  "bbox": [
+    -85.755804,
+    38.25101,
+    -85.755804,
+    38.25101
+],
+  "geometry": {"coordinates":[-85.755804,38.25101],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856714825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616136,37.082072,-84.616136,37.082072",
+    "geom:latitude":37.082072,
+    "geom:longitude":-84.616136,
+    "iso:country":"US",
+    "sg:address":"310 Sallee St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 9546",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z0DnD9JG3nZV15WZZ2Lo2_37.082072_-84.616136@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052385,
+    "wof:geomhash":"2ef307999e14199d74c284df72b42dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856714825
+        }
+    ],
+    "wof:id":856714825,
+    "wof:lastmodified":1464052385,
+    "wof:name":"For Pet's Sake",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.616136,
+    37.082072,
+    -84.616136,
+    37.082072
+],
+  "geometry": {"coordinates":[-84.616136,37.082072],"type":"Point"}
+}

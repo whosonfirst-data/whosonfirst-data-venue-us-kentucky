@@ -1,0 +1,71 @@
+{
+  "id": 840931807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571803,37.867275,-87.571803,37.867275",
+    "geom:latitude":37.867275,
+    "geom:longitude":-87.571803,
+    "iso:country":"US",
+    "sg:address":"409 Marywood Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 1722",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20N4IO3cqTYTaqC1h3JVLg_37.867275_-87.571803@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051285,
+    "wof:geomhash":"5ed045a9d65dfe41da9cbfd2635278c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840931807
+        }
+    ],
+    "wof:id":840931807,
+    "wof:lastmodified":1464051285,
+    "wof:name":"Rogers Jewelers",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -87.571803,
+    37.867275,
+    -87.571803,
+    37.867275
+],
+  "geometry": {"coordinates":[-87.571803,37.867275],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840805401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.82902,37.122314,-84.82902,37.122314",
+    "geom:latitude":37.122314,
+    "geom:longitude":-84.82902,
+    "iso:country":"US",
+    "sg:address":"215 Hickory Nut Rd",
+    "sg:city":"Faubush",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 871 0022",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MP6ynNWMWLjCVPZqLwK49_37.122314_-84.829020@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048306,
+    "wof:geomhash":"189f60f138db7408aab9b493ba00261f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840805401
+        }
+    ],
+    "wof:id":840805401,
+    "wof:lastmodified":1464048306,
+    "wof:name":"Cumberland Surveying",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -84.82902,
+    37.122314,
+    -84.82902,
+    37.122314
+],
+  "geometry": {"coordinates":[-84.82902,37.122314],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840775835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714682,36.60729,-83.714682,36.60729",
+    "geom:latitude":36.60729,
+    "geom:longitude":-83.714682,
+    "iso:country":"US",
+    "sg:address":"2002 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 1266",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cQ7J4gh3bctn9sWAjEwjc_36.607290_-83.714682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047682,
+    "wof:geomhash":"5ee8b6d119bf0343d48257589015f537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840775835
+        }
+    ],
+    "wof:id":840775835,
+    "wof:lastmodified":1464047682,
+    "wof:name":"Enix & Son Jewelers Inc",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -83.714682,
+    36.60729,
+    -83.714682,
+    36.60729
+],
+  "geometry": {"coordinates":[-83.714682,36.60729],"type":"Point"}
+}

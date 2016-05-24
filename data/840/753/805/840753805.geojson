@@ -1,0 +1,68 @@
+{
+  "id": 840753805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566493,39.043998,-84.566493,39.043998",
+    "geom:latitude":39.043998,
+    "geom:longitude":-84.566493,
+    "iso:country":"US",
+    "sg:address":"15 Harvard Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 6463",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yXUXaeuxesfu3evJ94S72_39.043998_-84.566493@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047191,
+    "wof:geomhash":"9790410d7ec1d0c70cbc986893807d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840753805
+        }
+    ],
+    "wof:id":840753805,
+    "wof:lastmodified":1464047191,
+    "wof:name":"Meade & Associates",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.566493,
+    39.043998,
+    -84.566493,
+    39.043998
+],
+  "geometry": {"coordinates":[-84.56649299999999,39.043998],"type":"Point"}
+}

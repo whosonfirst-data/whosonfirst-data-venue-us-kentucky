@@ -1,0 +1,74 @@
+{
+  "id": 840589863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.420627,36.937468,-86.420627,36.937468",
+    "geom:latitude":36.937468,
+    "geom:longitude":-86.420627,
+    "iso:country":"US",
+    "sg:address":"325 Three Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 0001",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.bowlinggreendealership.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aGffUV0Mo1mObBBHmU2qD_36.937468_-86.420627@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043420,
+    "wof:geomhash":"28cb1814513d17b35757c2909061cd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840589863
+        }
+    ],
+    "wof:id":840589863,
+    "wof:lastmodified":1464043420,
+    "wof:name":"Bowling Green Imports",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.420627,
+    36.937468,
+    -86.420627,
+    36.937468
+],
+  "geometry": {"coordinates":[-86.420627,36.937468],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840688025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.4823,37.814803,-87.4823,37.814803",
+    "geom:latitude":37.814803,
+    "geom:longitude":-87.4823,
+    "iso:country":"US",
+    "sg:address":"8158 State Hwy 351",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 4952",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sTQvAAJ8gIYOm5vjlp8eo_37.814803_-87.482300@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045777,
+    "wof:geomhash":"56a158559151a2049f5d789fb074bfc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840688025
+        }
+    ],
+    "wof:id":840688025,
+    "wof:lastmodified":1464045777,
+    "wof:name":"Zion Baptist Church",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.4823,
+    37.814803,
+    -87.4823,
+    37.814803
+],
+  "geometry": {"coordinates":[-87.4823,37.814803],"type":"Point"}
+}

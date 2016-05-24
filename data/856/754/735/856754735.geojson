@@ -1,0 +1,88 @@
+{
+  "id": 856754735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.420613,38.012377,-84.420613,38.012377",
+    "geom:latitude":38.012377,
+    "geom:longitude":-84.420613,
+    "iso:country":"US",
+    "sg:address":"3090 Helmsdale Pl",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 543 1999",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85808767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zgD0eK8ucXLaNVpR0wO9J_38.012377_-84.420613@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053935,
+    "wof:geomhash":"1c9098a640fdc552f41856724792595d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85808767,
+            "region_id":85688641,
+            "venue_id":856754735
+        }
+    ],
+    "wof:id":856754735,
+    "wof:lastmodified":1464053935,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85808767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.420613,
+    38.012377,
+    -84.420613,
+    38.012377
+],
+  "geometry": {"coordinates":[-84.420613,38.012377],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840785455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641475,38.21068,-85.641475,38.21068",
+    "geom:latitude":38.21068,
+    "geom:longitude":-85.641475,
+    "iso:country":"US",
+    "sg:address":"2909 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 357 5900",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nqs7AWPAhyUZBDeK51NJz_38.210680_-85.641475@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047887,
+    "wof:geomhash":"15146c385728eb24ec171016b845a6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840785455
+        }
+    ],
+    "wof:id":840785455,
+    "wof:lastmodified":1464047887,
+    "wof:name":"Ba Beach Properties",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -85.641475,
+    38.21068,
+    -85.641475,
+    38.21068
+],
+  "geometry": {"coordinates":[-85.641475,38.21068],"type":"Point"}
+}

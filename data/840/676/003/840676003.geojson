@@ -1,0 +1,75 @@
+{
+  "id": 840676003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.572473,38.267459,-85.572473,38.267459",
+    "geom:latitude":38.267459,
+    "geom:longitude":-85.572473,
+    "iso:country":"US",
+    "sg:address":"9723 Ormsby Station Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 327 6732",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZMxGfsYeM4p0mzyflt6Nx_38.267459_-85.572473@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045465,
+    "wof:geomhash":"ca7719b5c552e25eed346f8d071b0f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840676003
+        }
+    ],
+    "wof:id":840676003,
+    "wof:lastmodified":1464045465,
+    "wof:name":"JAIR United Inc",
+    "wof:parent_id":85866953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.572473,
+    38.267459,
+    -85.572473,
+    38.267459
+],
+  "geometry": {"coordinates":[-85.572473,38.267459],"type":"Point"}
+}

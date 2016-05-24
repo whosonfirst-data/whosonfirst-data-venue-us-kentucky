@@ -1,0 +1,74 @@
+{
+  "id": 856737107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.8875,37.734835,-85.8875,37.734835",
+    "geom:latitude":37.734835,
+    "geom:longitude":-85.8875,
+    "iso:country":"US",
+    "sg:address":"2020 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/127780-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 3339",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZeGzi47Nz0Mz5wkAfQFvU_37.734835_-85.887500@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053266,
+    "wof:geomhash":"9d03620717537d6989f4036b30d659ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737107
+        }
+    ],
+    "wof:id":856737107,
+    "wof:lastmodified":1464053266,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.8875,
+    37.734835,
+    -85.8875,
+    37.734835
+],
+  "geometry": {"coordinates":[-85.8875,37.734835],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856754419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.425054,38.006305,-84.425054,38.006305",
+    "geom:latitude":38.006305,
+    "geom:longitude":-84.425054,
+    "iso:country":"US",
+    "sg:address":"3130 Mapleleaf Dr Ste 101",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 543 8210",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85808767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CXuaeSD5NCXvmLSd2dpBu_38.006305_-84.425054@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053925,
+    "wof:geomhash":"afe30efc07c7b90d55b6c156e840a52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85808767,
+            "region_id":85688641,
+            "venue_id":856754419
+        }
+    ],
+    "wof:id":856754419,
+    "wof:lastmodified":1464053925,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85808767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.425054,
+    38.006305,
+    -84.425054,
+    38.006305
+],
+  "geometry": {"coordinates":[-84.425054,38.006305],"type":"Point"}
+}

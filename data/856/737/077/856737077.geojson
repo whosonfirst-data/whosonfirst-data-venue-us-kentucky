@@ -1,0 +1,80 @@
+{
+  "id": 856737077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.886662,37.733173,-85.886662,37.733173",
+    "geom:latitude":37.733173,
+    "geom:longitude":-85.886662,
+    "iso:country":"US",
+    "sg:address":"1840 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/180015-chick-fil-a/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 1350",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pTbrpRJXU91DNrowP4ofm_37.733173_-85.886662@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053265,
+    "wof:geomhash":"08b6b6b39e4ce27d4af7d94fec091490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737077
+        }
+    ],
+    "wof:id":856737077,
+    "wof:lastmodified":1464053265,
+    "wof:name":"Chick-fil-A",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -85.886662,
+    37.733173,
+    -85.886662,
+    37.733173
+],
+  "geometry": {"coordinates":[-85.886662,37.733173],"type":"Point"}
+}

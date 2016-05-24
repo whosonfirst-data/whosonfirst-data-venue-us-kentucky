@@ -1,0 +1,71 @@
+{
+  "id": 840939537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.581134,37.853759,-87.581134,37.853759",
+    "geom:latitude":37.853759,
+    "geom:longitude":-87.581134,
+    "iso:country":"US",
+    "sg:address":"311 13th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3052",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DStO8F0jc9GFJmAb9uMJH_37.853759_-87.581134@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051436,
+    "wof:geomhash":"b86356634ceb387859527eac4fe5e7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840939537
+        }
+    ],
+    "wof:id":840939537,
+    "wof:lastmodified":1464051436,
+    "wof:name":"Have Hammer Will Travel",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -87.581134,
+    37.853759,
+    -87.581134,
+    37.853759
+],
+  "geometry": {"coordinates":[-87.58113400000001,37.853759],"type":"Point"}
+}

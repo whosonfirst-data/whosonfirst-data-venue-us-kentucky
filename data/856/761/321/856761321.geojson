@@ -1,0 +1,81 @@
+{
+  "id": 856761321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68512,37.077209,-88.68512,37.077209",
+    "geom:latitude":37.077209,
+    "geom:longitude":-88.68512,
+    "iso:country":"US",
+    "sg:address":"5025 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 734 4667",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C8mODCf6Y3Do2wmEsFfKE_37.077209_-88.685120@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054172,
+    "wof:geomhash":"d5ea45eeccdbdb804077cc579917f542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761321
+        }
+    ],
+    "wof:id":856761321,
+    "wof:lastmodified":1464054172,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -88.68512,
+    37.077209,
+    -88.68512,
+    37.077209
+],
+  "geometry": {"coordinates":[-88.68512,37.077209],"type":"Point"}
+}

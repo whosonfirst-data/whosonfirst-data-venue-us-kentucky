@@ -1,0 +1,76 @@
+{
+  "id": 856733467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63217,38.283584,-85.63217,38.283584",
+    "geom:latitude":38.283584,
+    "geom:longitude":-85.63217,
+    "iso:country":"US",
+    "sg:address":"2210 Holiday Manor Ctr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-northeast/39009-emperor-of-china/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 1717",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o1LNRkT40WzY9mVAzxwmq_38.283584_-85.632170@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053125,
+    "wof:geomhash":"425ffeb1e9da1cbf3df949006bc85106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856733467
+        }
+    ],
+    "wof:id":856733467,
+    "wof:lastmodified":1464053125,
+    "wof:name":"Emperor of China",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -85.63217,
+    38.283584,
+    -85.63217,
+    38.283584
+],
+  "geometry": {"coordinates":[-85.63217,38.283584],"type":"Point"}
+}

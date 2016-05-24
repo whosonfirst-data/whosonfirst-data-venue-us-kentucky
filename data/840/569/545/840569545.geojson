@@ -1,0 +1,73 @@
+{
+  "id": 840569545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.57107,37.979914,-85.57107,37.979914",
+    "geom:latitude":37.979914,
+    "geom:longitude":-85.57107,
+    "iso:country":"US",
+    "sg:address":"764 Clarks Ln",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 419 8910",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nuMHXqISzmIXExtCqac7b_37.979914_-85.571070@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042970,
+    "wof:geomhash":"477cce2ea428fc82316a4dca8574df39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840569545
+        }
+    ],
+    "wof:id":840569545,
+    "wof:lastmodified":1464042970,
+    "wof:name":"Vance Custom Concrete",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.57107,
+    37.979914,
+    -85.57107,
+    37.979914
+],
+  "geometry": {"coordinates":[-85.57107000000001,37.979914],"type":"Point"}
+}

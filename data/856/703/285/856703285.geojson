@@ -1,0 +1,79 @@
+{
+  "id": 856703285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.487558,38.042216,-84.487558,38.042216",
+    "geom:latitude":38.042216,
+    "geom:longitude":-84.487558,
+    "iso:country":"US",
+    "sg:address":"525 Corral St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 254 0001",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79WYcS5LcZbImLcVg8lfBR_38.042216_-84.487558@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052136,
+    "wof:geomhash":"61578a7632b9a00b73043670af46a927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873075,
+            "region_id":85688641,
+            "venue_id":856703285
+        }
+    ],
+    "wof:id":856703285,
+    "wof:lastmodified":1464052136,
+    "wof:name":"Zip Express",
+    "wof:parent_id":85873075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.487558,
+    38.042216,
+    -84.487558,
+    38.042216
+],
+  "geometry": {"coordinates":[-84.48755800000001,38.042216],"type":"Point"}
+}

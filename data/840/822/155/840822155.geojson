@@ -1,0 +1,73 @@
+{
+  "id": 840822155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.460249,36.5749,-87.460249,36.5749",
+    "geom:latitude":36.5749,
+    "geom:longitude":-87.460249,
+    "iso:country":"US",
+    "sg:address":"1240 Lafayette Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 1988",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive",
+        "mfg",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29vj8T2bs4Q2dSSZlStXJ3_36.574900_-87.460249@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048815,
+    "wof:geomhash":"1305b76b30791a20cb83e7ffaae638ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":840822155
+        }
+    ],
+    "wof:id":840822155,
+    "wof:lastmodified":1464048815,
+    "wof:name":"A&H Converters and Transm",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "mfg",
+        "repair"
+    ]
+},
+  "bbox": [
+    -87.460249,
+    36.5749,
+    -87.460249,
+    36.5749
+],
+  "geometry": {"coordinates":[-87.460249,36.5749],"type":"Point"}
+}

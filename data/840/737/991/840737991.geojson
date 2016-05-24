@@ -1,0 +1,71 @@
+{
+  "id": 840737991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62988,37.14344,-84.62988,37.14344",
+    "geom:latitude":37.14344,
+    "geom:longitude":-84.62988,
+    "iso:country":"US",
+    "sg:address":"120 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4954",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BS7hLwDMG8dpmVOPXAP2y_37.143440_-84.629880@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046856,
+    "wof:geomhash":"9a2159f7430bb6c0ef2cfdd8822b75ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840737991
+        }
+    ],
+    "wof:id":840737991,
+    "wof:lastmodified":1464046856,
+    "wof:name":"Southeast Technology Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -84.62988,
+    37.14344,
+    -84.62988,
+    37.14344
+],
+  "geometry": {"coordinates":[-84.62988,37.14344],"type":"Point"}
+}

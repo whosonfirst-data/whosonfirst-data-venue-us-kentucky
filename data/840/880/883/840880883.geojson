@@ -1,0 +1,71 @@
+{
+  "id": 840880883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.371971,38.398315,-85.371971,38.398315",
+    "geom:latitude":38.398315,
+    "geom:longitude":-85.371971,
+    "iso:country":"US",
+    "sg:address":"819 S Hwy 53",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 5041",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vu1DSd96RfWdVetAokTAd_38.398315_-85.371971@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050091,
+    "wof:geomhash":"9b51f35a6ba906077f8b90e8b4efbeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840880883
+        }
+    ],
+    "wof:id":840880883,
+    "wof:lastmodified":1464050091,
+    "wof:name":"Cowboys Food Store",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.371971,
+    38.398315,
+    -85.371971,
+    38.398315
+],
+  "geometry": {"coordinates":[-85.371971,38.398315],"type":"Point"}
+}

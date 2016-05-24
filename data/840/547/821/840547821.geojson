@@ -1,0 +1,71 @@
+{
+  "id": 840547821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698792,37.074763,-88.698792,37.074763",
+    "geom:latitude":37.074763,
+    "geom:longitude":-88.698792,
+    "iso:country":"US",
+    "sg:address":"3165 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0200",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HVEkd8TzQgNR0nlSWb6Yd_37.074763_-88.698792@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042451,
+    "wof:geomhash":"1289f95493eab36cf76b3b151477624c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840547821
+        }
+    ],
+    "wof:id":840547821,
+    "wof:lastmodified":1464042451,
+    "wof:name":"Jewelryland",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -88.698792,
+    37.074763,
+    -88.698792,
+    37.074763
+],
+  "geometry": {"coordinates":[-88.698792,37.074763],"type":"Point"}
+}

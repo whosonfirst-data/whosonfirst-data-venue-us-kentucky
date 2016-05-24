@@ -1,0 +1,69 @@
+{
+  "id": 840920015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573293,37.879574,-84.573293,37.879574",
+    "geom:latitude":37.879574,
+    "geom:longitude":-84.573293,
+    "iso:country":"US",
+    "sg:address":"118 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5201",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GyZRgKQbTpW94cVHtFKVy_37.879574_-84.573293@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050990,
+    "wof:geomhash":"69c02875645d7e137a79e503229ec8b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840920015
+        }
+    ],
+    "wof:id":840920015,
+    "wof:lastmodified":1464050990,
+    "wof:name":"Ann's Beauty Salon",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.573293,
+    37.879574,
+    -84.573293,
+    37.879574
+],
+  "geometry": {"coordinates":[-84.57329300000001,37.879574],"type":"Point"}
+}

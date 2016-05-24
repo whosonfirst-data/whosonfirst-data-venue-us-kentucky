@@ -1,0 +1,73 @@
+{
+  "id": 840654593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.63417,37.04119,-88.63417,37.04119",
+    "geom:latitude":37.04119,
+    "geom:longitude":-88.63417,
+    "iso:country":"US",
+    "sg:address":"120 Summit Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 2567",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jDF2U3GuYyR1OJyikw1JR_37.041190_-88.634170@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044995,
+    "wof:geomhash":"17d3e1cd5cfd0a521056dc97c1cb5c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840654593
+        }
+    ],
+    "wof:id":840654593,
+    "wof:lastmodified":1464044995,
+    "wof:name":"Holland Insulation Sales & Svc",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.63417,
+    37.04119,
+    -88.63417,
+    37.04119
+],
+  "geometry": {"coordinates":[-88.63417,37.04119],"type":"Point"}
+}

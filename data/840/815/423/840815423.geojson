@@ -1,0 +1,73 @@
+{
+  "id": 840815423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860706,37.727646,-85.860706,37.727646",
+    "geom:latitude":37.727646,
+    "geom:longitude":-85.860706,
+    "iso:country":"US",
+    "sg:address":"1016 Pear Orchard Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 9900",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_405VsZFTyJlEFgM32wWK1R_37.727646_-85.860706@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048625,
+    "wof:geomhash":"55fa5b1173a0488fd4a5a169a602ea16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840815423
+        }
+    ],
+    "wof:id":840815423,
+    "wof:lastmodified":1464048625,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.860706,
+    37.727646,
+    -85.860706,
+    37.727646
+],
+  "geometry": {"coordinates":[-85.86070599999999,37.727646],"type":"Point"}
+}

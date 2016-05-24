@@ -1,0 +1,73 @@
+{
+  "id": 840645829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.470066,38.052129,-84.470066,38.052129",
+    "geom:latitude":38.052129,
+    "geom:longitude":-84.470066,
+    "iso:country":"US",
+    "sg:address":"859 Carneal Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 552 5543",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0biQoI9f4s7uLrHkXeP5Vc_38.052129_-84.470066@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044797,
+    "wof:geomhash":"d33fa4f55f27e48b3e3ea40f6e98c69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873025,
+            "region_id":85688641,
+            "venue_id":840645829
+        }
+    ],
+    "wof:id":840645829,
+    "wof:lastmodified":1464044797,
+    "wof:name":"Cathys Residential & Coml Svc",
+    "wof:parent_id":85873025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -84.470066,
+    38.052129,
+    -84.470066,
+    38.052129
+],
+  "geometry": {"coordinates":[-84.470066,38.052129],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840748681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571724,37.821359,-87.571724,37.821359",
+    "geom:latitude":37.821359,
+    "geom:longitude":-87.571724,
+    "iso:country":"US",
+    "sg:address":"1942 Clay St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3978",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jCWeO0ZY6hz1SlUeGrsWd_37.821359_-87.571724@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047065,
+    "wof:geomhash":"061977bb8751aabdfc11316c6baaffc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840748681
+        }
+    ],
+    "wof:id":840748681,
+    "wof:lastmodified":1464047065,
+    "wof:name":"Airline Baptist Church",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.571724,
+    37.821359,
+    -87.571724,
+    37.821359
+],
+  "geometry": {"coordinates":[-87.571724,37.821359],"type":"Point"}
+}

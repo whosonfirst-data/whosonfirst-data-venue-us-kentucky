@@ -1,0 +1,73 @@
+{
+  "id": 840727549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.613185,38.253644,-85.613185,38.253644",
+    "geom:latitude":38.253644,
+    "geom:longitude":-85.613185,
+    "iso:country":"US",
+    "sg:address":"7513 New Lagrange Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 423 7868",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vvaZD3GwtyHeWqOR8OfyD_38.253644_-85.613185@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046663,
+    "wof:geomhash":"dd3cac85986fca314a69e0c1b586ae98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840727549
+        }
+    ],
+    "wof:id":840727549,
+    "wof:lastmodified":1464046663,
+    "wof:name":"Patrick M Carroll DDS",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.613185,
+    38.253644,
+    -85.613185,
+    38.253644
+],
+  "geometry": {"coordinates":[-85.613185,38.253644],"type":"Point"}
+}

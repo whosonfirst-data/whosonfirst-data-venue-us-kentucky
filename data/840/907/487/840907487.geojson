@@ -1,0 +1,74 @@
+{
+  "id": 840907487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.420048,36.925694,-86.420048,36.925694",
+    "geom:latitude":36.925694,
+    "geom:longitude":-86.420048,
+    "iso:country":"US",
+    "sg:address":"565 Greenwood Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2422",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "sg:website":"www.bgaa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FXrx9zQ5l2XhwzNaSbr0j_36.925694_-86.420048@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050648,
+    "wof:geomhash":"b5295e35f4ac0ed48d22baa864cd4eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840907487
+        }
+    ],
+    "wof:id":840907487,
+    "wof:lastmodified":1464050648,
+    "wof:name":"Bowling Green Auto Auction",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.420048,
+    36.925694,
+    -86.420048,
+    36.925694
+],
+  "geometry": {"coordinates":[-86.42004799999999,36.925694],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856752899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.594241,37.87751,-84.594241,37.87751",
+    "geom:latitude":37.87751,
+    "geom:longitude":-84.594241,
+    "iso:country":"US",
+    "sg:address":"10 Wichita Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 8086",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jx5u2uRoGG0qSrErWMMiY_37.877510_-84.594241@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053865,
+    "wof:geomhash":"3aa7415d67687576523b63a51f5dbf4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752899
+        }
+    ],
+    "wof:id":856752899,
+    "wof:lastmodified":1464053865,
+    "wof:name":"Animal Hospital Of Nicholasville",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.594241,
+    37.87751,
+    -84.594241,
+    37.87751
+],
+  "geometry": {"coordinates":[-84.594241,37.87751],"type":"Point"}
+}

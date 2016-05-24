@@ -1,0 +1,79 @@
+{
+  "id": 856752999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.728463,38.052694,-84.728463,38.052694",
+    "geom:latitude":38.052694,
+    "geom:longitude":-84.728463,
+    "iso:country":"US",
+    "sg:address":"219 Lexington St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 7959",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313868821&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4muLAH9LLKWE75WP77Z3gL_38.052694_-84.728463@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053868,
+    "wof:geomhash":"18ded8f8b38f90527265d66b4cc5976c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752999
+        }
+    ],
+    "wof:id":856752999,
+    "wof:lastmodified":1464053868,
+    "wof:name":"JC's Auto Repair",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.728463,
+    38.052694,
+    -84.728463,
+    38.052694
+],
+  "geometry": {"coordinates":[-84.728463,38.052694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840745105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566103,38.222601,-84.566103,38.222601",
+    "geom:latitude":38.222601,
+    "geom:longitude":-84.566103,
+    "iso:country":"US",
+    "sg:address":"800 Cincinnati Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 4041",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZtfGpwGinhTswXmeKHRUL_38.222601_-84.566103@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046990,
+    "wof:geomhash":"005b7956000862096e11af06a20bd660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840745105
+        }
+    ],
+    "wof:id":840745105,
+    "wof:lastmodified":1464046990,
+    "wof:name":"Senior Citizens Of Georgetown",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.566103,
+    38.222601,
+    -84.566103,
+    38.222601
+],
+  "geometry": {"coordinates":[-84.566103,38.222601],"type":"Point"}
+}

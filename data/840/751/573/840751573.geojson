@@ -1,0 +1,73 @@
+{
+  "id": 840751573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.797102,37.728897,-85.797102,37.728897",
+    "geom:latitude":37.728897,
+    "geom:longitude":-85.797102,
+    "iso:country":"US",
+    "sg:address":"4374 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0841",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tBl5EkVJ91egYOKwFOaoM_37.728897_-85.797102@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047139,
+    "wof:geomhash":"e77ada29989185ca3dfe26c20e18ae22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840751573
+        }
+    ],
+    "wof:id":840751573,
+    "wof:lastmodified":1464047139,
+    "wof:name":"B & T Quality Home Builders",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.797102,
+    37.728897,
+    -85.797102,
+    37.728897
+],
+  "geometry": {"coordinates":[-85.797102,37.728897],"type":"Point"}
+}

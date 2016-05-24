@@ -1,0 +1,72 @@
+{
+  "id": 840670729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43944,36.993428,-86.43944,36.993428",
+    "geom:latitude":36.993428,
+    "geom:longitude":-86.43944,
+    "iso:country":"US",
+    "sg:address":"814 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3660",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "event"
+    ],
+    "sg:website":"www.primetimeevents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L0ibmlMxiqVFWgQkjKaPu_36.993428_-86.439440@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045326,
+    "wof:geomhash":"d23ef20427d75293ccce2d1136fa5310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840670729
+        }
+    ],
+    "wof:id":840670729,
+    "wof:lastmodified":1464045326,
+    "wof:name":"Prime Time Events",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event"
+    ]
+},
+  "bbox": [
+    -86.43944,
+    36.993428,
+    -86.43944,
+    36.993428
+],
+  "geometry": {"coordinates":[-86.43944,36.993428],"type":"Point"}
+}

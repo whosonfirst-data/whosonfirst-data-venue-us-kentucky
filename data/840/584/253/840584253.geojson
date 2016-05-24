@@ -1,0 +1,77 @@
+{
+  "id": 840584253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.692737,38.224372,-85.692737,38.224372",
+    "geom:latitude":38.224372,
+    "geom:longitude":-85.692737,
+    "iso:country":"US",
+    "sg:address":"2247 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 7360",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ge8lfBn4OCrcDWxh3TI1f_38.224372_-85.692737@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043297,
+    "wof:geomhash":"dedc7ec8dd7f54bd06f5be257bc4a7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":840584253
+        }
+    ],
+    "wof:id":840584253,
+    "wof:lastmodified":1464043297,
+    "wof:name":"Conn's Body Shop I",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.692737,
+    38.224372,
+    -85.692737,
+    38.224372
+],
+  "geometry": {"coordinates":[-85.69273699999999,38.224372],"type":"Point"}
+}

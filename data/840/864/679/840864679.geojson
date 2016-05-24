@@ -1,0 +1,73 @@
+{
+  "id": 840864679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531316,37.010962,-88.531316,37.010962",
+    "geom:latitude":37.010962,
+    "geom:longitude":-88.531316,
+    "iso:country":"US",
+    "sg:address":"110 Calvert Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1511",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ag5J021CwMVtnWP2WX8pF_37.010962_-88.531316@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049745,
+    "wof:geomhash":"10cd2392e6b1681ec09f6a9d2af1e491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840864679
+        }
+    ],
+    "wof:id":840864679,
+    "wof:lastmodified":1464049745,
+    "wof:name":"Stow-A-Way Mini Storage & Wrhs",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.531316,
+    37.010962,
+    -88.531316,
+    37.010962
+],
+  "geometry": {"coordinates":[-88.531316,37.010962],"type":"Point"}
+}

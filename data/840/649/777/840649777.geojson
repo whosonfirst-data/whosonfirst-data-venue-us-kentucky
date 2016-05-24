@@ -1,0 +1,71 @@
+{
+  "id": 840649777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55736,38.217269,-84.55736,38.217269",
+    "geom:latitude":38.217269,
+    "geom:longitude":-84.55736,
+    "iso:country":"US",
+    "sg:address":"213 Gano Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 3355",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aYzsOthugbNVaDmP3nKZW_38.217269_-84.557360@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044877,
+    "wof:geomhash":"649173e027e7f822a63dd65f25e6c133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840649777
+        }
+    ],
+    "wof:id":840649777,
+    "wof:lastmodified":1464044877,
+    "wof:name":"Victory Baptist Temple",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.55736,
+    38.217269,
+    -84.55736,
+    38.217269
+],
+  "geometry": {"coordinates":[-84.55736,38.217269],"type":"Point"}
+}

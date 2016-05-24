@@ -1,0 +1,78 @@
+{
+  "id": 856754341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.503647,38.045502,-84.503647,38.045502",
+    "geom:latitude":38.045502,
+    "geom:longitude":-84.503647,
+    "iso:country":"US",
+    "sg:address":"315 W Maxwell St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 4183",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eHA3mmP7393Fj1RSvmJLb_38.045502_-84.503647@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053923,
+    "wof:geomhash":"ad1fe904efd81038f4f2b041208fe8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873063,
+            "region_id":85688641,
+            "venue_id":856754341
+        }
+    ],
+    "wof:id":856754341,
+    "wof:lastmodified":1464053923,
+    "wof:name":"Shambhala Center",
+    "wof:parent_id":85873063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -84.503647,
+    38.045502,
+    -84.503647,
+    38.045502
+],
+  "geometry": {"coordinates":[-84.503647,38.045502],"type":"Point"}
+}

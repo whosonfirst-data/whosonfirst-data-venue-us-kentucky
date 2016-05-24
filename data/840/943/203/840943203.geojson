@@ -1,0 +1,77 @@
+{
+  "id": 840943203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.782088,38.263558,-85.782088,38.263558",
+    "geom:latitude":38.263558,
+    "geom:longitude":-85.782088,
+    "iso:country":"US",
+    "sg:address":"1915 Griffiths Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 4686",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vlEZcnlW387bTYUGerW2f_38.263558_-85.782088@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051515,
+    "wof:geomhash":"54c16d5c0f504853c4d0776fed3cf22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":840943203
+        }
+    ],
+    "wof:id":840943203,
+    "wof:lastmodified":1464051515,
+    "wof:name":"Odle Movers",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.782088,
+    38.263558,
+    -85.782088,
+    38.263558
+],
+  "geometry": {"coordinates":[-85.782088,38.263558],"type":"Point"}
+}

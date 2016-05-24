@@ -1,0 +1,71 @@
+{
+  "id": 840831819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.537146,37.49066,-82.537146,37.49066",
+    "geom:latitude":37.49066,
+    "geom:longitude":-82.537146,
+    "iso:country":"US",
+    "sg:address":"577 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 437 6171",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kgXmEtfx0Rq58XLou8fDo_37.490660_-82.537146@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049040,
+    "wof:geomhash":"9e1698677f87c28ebc7054431eac86d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840831819
+        }
+    ],
+    "wof:id":840831819,
+    "wof:lastmodified":1464049040,
+    "wof:name":"American Consulting Engineers",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -82.537146,
+    37.49066,
+    -82.537146,
+    37.49066
+],
+  "geometry": {"coordinates":[-82.53714600000001,37.49066],"type":"Point"}
+}

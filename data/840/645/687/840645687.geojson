@@ -1,0 +1,88 @@
+{
+  "id": 840645687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.489914,36.960397,-86.489914,36.960397",
+    "geom:latitude":36.960397,
+    "geom:longitude":-86.489914,
+    "iso:country":"US",
+    "sg:address":"125 Dishman Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2057",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pHFc40ZltmIXs7c3FyeLl_36.960397_-86.489914@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044795,
+    "wof:geomhash":"0d55277239c9c82277697444be1c2c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840645687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840645687
+        }
+    ],
+    "wof:id":840645687,
+    "wof:lastmodified":1464044795,
+    "wof:name":"Dial First Heating & Cooling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.489914,
+    36.960397,
+    -86.489914,
+    36.960397
+],
+  "geometry": {"coordinates":[-86.489914,36.960397],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856692619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857765,37.699377,-85.857765,37.699377",
+    "geom:latitude":37.699377,
+    "geom:longitude":-85.857765,
+    "iso:country":"US",
+    "sg:address":"205 W Warfield St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 5016",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UCTD6zL76zkDoTE6PzYYm_37.699377_-85.857765@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051918,
+    "wof:geomhash":"82b5405c8796878191a6ba8d78cfa231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856692619
+        }
+    ],
+    "wof:id":856692619,
+    "wof:lastmodified":1464051918,
+    "wof:name":"National Guard Recruiting Ofc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -85.857765,
+    37.699377,
+    -85.857765,
+    37.699377
+],
+  "geometry": {"coordinates":[-85.857765,37.699377],"type":"Point"}
+}

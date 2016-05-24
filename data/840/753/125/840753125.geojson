@@ -1,0 +1,71 @@
+{
+  "id": 840753125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.856986,37.694189,-85.856986,37.694189",
+    "geom:latitude":37.694189,
+    "geom:longitude":-85.856986,
+    "iso:country":"US",
+    "sg:address":"115 W Poplar St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2368",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23sr7CyOo93o6iGYKXyuRn_37.694189_-85.856986@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047175,
+    "wof:geomhash":"28530e91f81569f538cecf267924db52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840753125
+        }
+    ],
+    "wof:id":840753125,
+    "wof:lastmodified":1464047175,
+    "wof:name":"Kelley Law Office",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.856986,
+    37.694189,
+    -85.856986,
+    37.694189
+],
+  "geometry": {"coordinates":[-85.85698600000001,37.694189],"type":"Point"}
+}

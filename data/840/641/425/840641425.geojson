@@ -1,0 +1,68 @@
+{
+  "id": 840641425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.70417,38.166613,-85.70417,38.166613",
+    "geom:latitude":38.166613,
+    "geom:longitude":-85.70417,
+    "iso:country":"US",
+    "sg:address":"5611 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 6222",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LOX2NHZ4jE5UbtobBzItq_38.166613_-85.704170@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044708,
+    "wof:geomhash":"61141f9bc257375e4417a3347a028919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840641425
+        }
+    ],
+    "wof:id":840641425,
+    "wof:lastmodified":1464044708,
+    "wof:name":"SVS Vision",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.70417,
+    38.166613,
+    -85.70417,
+    38.166613
+],
+  "geometry": {"coordinates":[-85.70417,38.166613],"type":"Point"}
+}

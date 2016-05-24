@@ -1,0 +1,71 @@
+{
+  "id": 840813785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.424132,36.948281,-86.424132,36.948281",
+    "geom:latitude":36.948281,
+    "geom:longitude":-86.424132,
+    "iso:country":"US",
+    "sg:address":"2736 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 1110",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yGykS9haXW0BkVweiEK1J_36.948281_-86.424132@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048572,
+    "wof:geomhash":"28d6adcad85d7e97457b6be7f8124b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840813785
+        }
+    ],
+    "wof:id":840813785,
+    "wof:lastmodified":1464048572,
+    "wof:name":"Equity One Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -86.424132,
+    36.948281,
+    -86.424132,
+    36.948281
+],
+  "geometry": {"coordinates":[-86.424132,36.948281],"type":"Point"}
+}

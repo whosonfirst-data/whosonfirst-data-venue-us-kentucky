@@ -1,0 +1,77 @@
+{
+  "id": 856731133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.777648,38.241066,-85.777648,38.241066",
+    "geom:latitude":38.241066,
+    "geom:longitude":-85.777648,
+    "iso:country":"US",
+    "sg:address":"1008 S 15th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 562 9203",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bW9VbR9jHBEe5OvqHM81n_38.240690_-85.777794@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053043,
+    "wof:geomhash":"8fe0966bddecc511aa21a7076ce4b359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856731133
+        }
+    ],
+    "wof:id":856731133,
+    "wof:lastmodified":1464053043,
+    "wof:name":"St Stephens Church",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -85.777648,
+    38.241066,
+    -85.777648,
+    38.241066
+],
+  "geometry": {"coordinates":[-85.777648,38.241066],"type":"Point"}
+}

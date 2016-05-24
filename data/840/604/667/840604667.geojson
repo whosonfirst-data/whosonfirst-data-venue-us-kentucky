@@ -1,0 +1,75 @@
+{
+  "id": 840604667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642663,38.01293,-85.642663,38.01293",
+    "geom:latitude":38.01293,
+    "geom:longitude":-85.642663,
+    "iso:country":"US",
+    "sg:address":"264 Grindstone Dr",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 5567",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70CXRBukgjRMnmNI6uLsod_38.012930_-85.642663@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043771,
+    "wof:geomhash":"15a5210ccb192f39acecbad5bf44e3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840604667
+        }
+    ],
+    "wof:id":840604667,
+    "wof:lastmodified":1464043771,
+    "wof:name":"Riggs Hauling Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.642663,
+    38.01293,
+    -85.642663,
+    38.01293
+],
+  "geometry": {"coordinates":[-85.642663,38.01293],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856750301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.520477,38.24374,-85.520477,38.24374",
+    "geom:latitude":38.24374,
+    "geom:longitude":-85.520477,
+    "iso:country":"US",
+    "sg:address":"12700 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 4136",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "system",
+        "form",
+        "printers-business"
+    ],
+    "sg:website":"http://www.moore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bFHoa9OWLUgEk3GcYCVWX_38.243740_-85.520477@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053763,
+    "wof:geomhash":"501dced23e6207b4d4dc052f8e0300c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750301
+        }
+    ],
+    "wof:id":856750301,
+    "wof:lastmodified":1464053763,
+    "wof:name":"Moore Data Management Service",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "form",
+        "printers-business"
+    ]
+},
+  "bbox": [
+    -85.520477,
+    38.24374,
+    -85.520477,
+    38.24374
+],
+  "geometry": {"coordinates":[-85.520477,38.24374],"type":"Point"}
+}

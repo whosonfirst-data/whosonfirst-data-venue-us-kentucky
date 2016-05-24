@@ -1,0 +1,76 @@
+{
+  "id": 856737401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.808283,38.2499,-85.808283,38.2499",
+    "geom:latitude":38.2499,
+    "geom:longitude":-85.808283,
+    "iso:country":"US",
+    "sg:address":"3407 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-west/200447-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 774 1285",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mmTTdK14MYLnWUDB4K6cK_38.249874_-85.807898@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053280,
+    "wof:geomhash":"caecb1ca0b126c6bf66f6f635d5dec0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":856737401
+        }
+    ],
+    "wof:id":856737401,
+    "wof:lastmodified":1464053280,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.808283,
+    38.2499,
+    -85.808283,
+    38.2499
+],
+  "geometry": {"coordinates":[-85.808283,38.2499],"type":"Point"}
+}

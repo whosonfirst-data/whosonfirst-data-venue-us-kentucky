@@ -1,0 +1,67 @@
+{
+  "id": 856763039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.673002,37.079104,-88.673002,37.079104",
+    "geom:latitude":37.079104,
+    "geom:longitude":-88.673002,
+    "iso:country":"US",
+    "sg:address":"3901 Technology Drive",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 545 4274",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"http://www.csiweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sv0bgQKCcBG79ugY2MrZF_37.079104_-88.673002@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464054237,
+    "wof:geomhash":"e89b1f904483c6817d9897cd0a1e4606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856763039
+        }
+    ],
+    "wof:id":856763039,
+    "wof:lastmodified":1464054237,
+    "wof:name":"Computer Services",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.673002,
+    37.079104,
+    -88.673002,
+    37.079104
+],
+  "geometry": {"coordinates":[-88.673002,37.079104],"type":"Point"}
+}

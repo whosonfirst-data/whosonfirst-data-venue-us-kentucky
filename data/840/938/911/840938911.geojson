@@ -1,0 +1,73 @@
+{
+  "id": 840938911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.622209,37.011739,-88.622209,37.011739",
+    "geom:latitude":37.011739,
+    "geom:longitude":-88.622209,
+    "iso:country":"US",
+    "sg:address":"5980 Old Mayfield Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1213",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c6bmq0G620I7IMVPxmCWd_37.011739_-88.622209@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051426,
+    "wof:geomhash":"1b4da22697bb5317d0b83c20d4df8b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840938911
+        }
+    ],
+    "wof:id":840938911,
+    "wof:lastmodified":1464051426,
+    "wof:name":"Faughn Electric Inc",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.622209,
+    37.011739,
+    -88.622209,
+    37.011739
+],
+  "geometry": {"coordinates":[-88.622209,37.011739],"type":"Point"}
+}

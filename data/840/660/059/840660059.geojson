@@ -1,0 +1,73 @@
+{
+  "id": 840660059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.599028,37.8327,-87.599028,37.8327",
+    "geom:latitude":37.8327,
+    "geom:longitude":-87.599028,
+    "iso:country":"US",
+    "sg:address":"625 S Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0340",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SA8QuLJoZWiC7V8wW3IHW_37.832700_-87.599028@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045105,
+    "wof:geomhash":"0261280124cec864c5e53a79135a22aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840660059
+        }
+    ],
+    "wof:id":840660059,
+    "wof:lastmodified":1464045105,
+    "wof:name":"A-1 Complete Septic Svc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.599028,
+    37.8327,
+    -87.599028,
+    37.8327
+],
+  "geometry": {"coordinates":[-87.599028,37.8327],"type":"Point"}
+}

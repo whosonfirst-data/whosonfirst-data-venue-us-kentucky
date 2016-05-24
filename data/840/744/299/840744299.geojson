@@ -1,0 +1,71 @@
+{
+  "id": 840744299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.592423,37.836764,-87.592423,37.836764",
+    "geom:latitude":37.836764,
+    "geom:longitude":-87.592423,
+    "iso:country":"US",
+    "sg:address":"130 S Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 5522",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TKKW2svRl652xLv5eAAyX_37.836764_-87.592423@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046975,
+    "wof:geomhash":"cd7ac35fe0569ca845437a5fe25d5074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840744299
+        }
+    ],
+    "wof:id":840744299,
+    "wof:lastmodified":1464046975,
+    "wof:name":"John S Stier CPA",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -87.592423,
+    37.836764,
+    -87.592423,
+    37.836764
+],
+  "geometry": {"coordinates":[-87.592423,37.836764],"type":"Point"}
+}

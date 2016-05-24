@@ -1,0 +1,76 @@
+{
+  "id": 856733567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.664441,38.092101,-85.664441,38.092101",
+    "geom:latitude":38.092101,
+    "geom:longitude":-85.664441,
+    "iso:country":"US",
+    "sg:address":"11810 Standiford Plaza Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/201343-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 9090",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XtkEeepd9GFOBEhhHSCQU_38.092101_-85.664441@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053129,
+    "wof:geomhash":"524f044090c0503e340b37f314fa094f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":856733567
+        }
+    ],
+    "wof:id":856733567,
+    "wof:lastmodified":1464053129,
+    "wof:name":"Sonic",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.664441,
+    38.092101,
+    -85.664441,
+    38.092101
+],
+  "geometry": {"coordinates":[-85.664441,38.092101],"type":"Point"}
+}

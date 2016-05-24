@@ -1,0 +1,87 @@
+{
+  "id": 856762787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86689,37.70274,-85.86689,37.70274",
+    "geom:latitude":37.70274,
+    "geom:longitude":-85.86689,
+    "iso:country":"US",
+    "sg:address":"200 Sycamore St Ste 151",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5359",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18tdn8ty8AFKwpvccQ7hJk_37.702740_-85.866890@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"6f553e24a93d7691d364f47a0fe7bfb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762787
+        }
+    ],
+    "wof:id":856762787,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.86689,
+    37.70274,
+    -85.86689,
+    37.70274
+],
+  "geometry": {"coordinates":[-85.86689,37.70274],"type":"Point"}
+}

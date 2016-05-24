@@ -1,0 +1,71 @@
+{
+  "id": 840816703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.85324,36.422988,-88.85324,36.422988",
+    "geom:latitude":36.422988,
+    "geom:longitude":-88.85324,
+    "iso:country":"US",
+    "sg:address":"9363 McConnell Rd",
+    "sg:city":"Martin",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 1236",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21r5WhtgZz5bpEzBChbhEg_36.422988_-88.853240@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048649,
+    "wof:geomhash":"9927f8f84e26a8e9f4fa3127ff6c7210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840816703
+        }
+    ],
+    "wof:id":840816703,
+    "wof:lastmodified":1464048649,
+    "wof:name":"Mc Connell Baptist Church",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.85324,
+    36.422988,
+    -88.85324,
+    36.422988
+],
+  "geometry": {"coordinates":[-88.85324,36.422988],"type":"Point"}
+}

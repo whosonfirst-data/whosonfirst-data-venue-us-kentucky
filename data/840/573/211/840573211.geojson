@@ -1,0 +1,71 @@
+{
+  "id": 840573211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.564469,37.052314,-88.564469,37.052314",
+    "geom:latitude":37.052314,
+    "geom:longitude":-88.564469,
+    "iso:country":"US",
+    "sg:address":"3478 Wayne Sullivan Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3397",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s05eVGjqdaKEpwmizdzht_37.052314_-88.564469@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043067,
+    "wof:geomhash":"85859d1ed4384fd6bea78dcda1ba2a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840573211
+        }
+    ],
+    "wof:id":840573211,
+    "wof:lastmodified":1464043067,
+    "wof:name":"Pharmacy Corner",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.564469,
+    37.052314,
+    -88.564469,
+    37.052314
+],
+  "geometry": {"coordinates":[-88.564469,37.052314],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 856743571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.749111,38.176064,-85.749111,38.176064",
+    "geom:latitude":38.176064,
+    "geom:longitude":-85.749111,
+    "iso:country":"US",
+    "sg:address":"4840 Crittenden Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 375 7300",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "supply",
+        "contractor",
+        "equipment",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OAMgSkFXQ7rbxHgX5bs2L_38.176064_-85.749111@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053515,
+    "wof:geomhash":"f92340c8b9fad473129e462b957839ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856743571
+        }
+    ],
+    "wof:id":856743571,
+    "wof:lastmodified":1464053515,
+    "wof:name":"Roofing Supply Group",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "supply",
+        "contractor",
+        "equipment",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -85.749111,
+    38.176064,
+    -85.749111,
+    38.176064
+],
+  "geometry": {"coordinates":[-85.749111,38.176064],"type":"Point"}
+}

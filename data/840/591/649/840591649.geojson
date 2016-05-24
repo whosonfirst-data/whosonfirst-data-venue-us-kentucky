@@ -1,0 +1,75 @@
+{
+  "id": 840591649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.793697,38.180032,-85.793697,38.180032",
+    "geom:latitude":38.180032,
+    "geom:longitude":-85.793697,
+    "iso:country":"US",
+    "sg:address":"1700 Old Bluegrass Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 0288",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ARCYk8OH1WO8JdVPc0ur0_38.180032_-85.793697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043457,
+    "wof:geomhash":"64464146a5e7e98c5d5e3747bef2bef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":840591649
+        }
+    ],
+    "wof:id":840591649,
+    "wof:lastmodified":1464043457,
+    "wof:name":"Associates In Dermatology",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.793697,
+    38.180032,
+    -85.793697,
+    38.180032
+],
+  "geometry": {"coordinates":[-85.79369699999999,38.180032],"type":"Point"}
+}

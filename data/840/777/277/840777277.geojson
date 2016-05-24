@@ -1,0 +1,67 @@
+{
+  "id": 840777277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.588167,37.839409,-87.588167,37.839409",
+    "geom:latitude":37.839409,
+    "geom:longitude":-87.588167,
+    "iso:country":"US",
+    "sg:address":"423 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9562",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:website":"www.shawsflowersinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bYlzNDTiGfois7qFYkOdG_37.839409_-87.588167@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047708,
+    "wof:geomhash":"b2327184f99c62fbdb4c1eb018b8c072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840777277
+        }
+    ],
+    "wof:id":840777277,
+    "wof:lastmodified":1464047708,
+    "wof:name":"Shaw's Flowers Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.588167,
+    37.839409,
+    -87.588167,
+    37.839409
+],
+  "geometry": {"coordinates":[-87.588167,37.839409],"type":"Point"}
+}

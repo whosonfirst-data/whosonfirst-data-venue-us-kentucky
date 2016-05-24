@@ -1,0 +1,78 @@
+{
+  "id": 856737601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.319049,37.776499,-84.319049,37.776499",
+    "geom:latitude":37.776499,
+    "geom:longitude":-84.319049,
+    "iso:country":"US",
+    "sg:address":"113 N Keeneland Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/richmond/173519-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 6958",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X3TN55RrhbtivFZDIp995_37.776402_-84.318980@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053288,
+    "wof:geomhash":"70750cb02c2dda209fc58277d1acd69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856737601
+        }
+    ],
+    "wof:id":856737601,
+    "wof:lastmodified":1464053288,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.319049,
+    37.776499,
+    -84.319049,
+    37.776499
+],
+  "geometry": {"coordinates":[-84.31904900000001,37.776499],"type":"Point"}
+}

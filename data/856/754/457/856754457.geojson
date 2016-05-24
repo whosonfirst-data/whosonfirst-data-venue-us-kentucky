@@ -1,0 +1,86 @@
+{
+  "id": 856754457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417289,38.022749,-84.417289,38.022749",
+    "geom:latitude":38.022749,
+    "geom:longitude":-84.417289,
+    "iso:country":"US",
+    "sg:address":"1979 Pavillon Way",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 264 1073",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "major",
+        "consumer"
+    ],
+    "sg:website":"http://stores.bestbuy.com/1477/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ycumytvV8mDAHS6dquQuP_38.022749_-84.417289@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053926,
+    "wof:geomhash":"111d37fb049b0589dd407927f661eb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":856754457
+        }
+    ],
+    "wof:id":856754457,
+    "wof:lastmodified":1464053926,
+    "wof:name":"Best Buy Hamburg Pavilion",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "consumer"
+    ]
+},
+  "bbox": [
+    -84.417289,
+    38.022749,
+    -84.417289,
+    38.022749
+],
+  "geometry": {"coordinates":[-84.417289,38.022749],"type":"Point"}
+}

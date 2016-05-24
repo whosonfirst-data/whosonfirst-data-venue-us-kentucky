@@ -1,0 +1,73 @@
+{
+  "id": 840561677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.39097,36.589543,-87.39097,36.589543",
+    "geom:latitude":36.589543,
+    "geom:longitude":-87.39097,
+    "iso:country":"US",
+    "sg:address":"1301 Peachers Mill Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 572 9152",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85810067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XMlExqPe93tQcS0xHf3ty_36.589543_-87.390970@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042767,
+    "wof:geomhash":"b2f5ee1ef615202b4f13e20149204e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85810067,
+            "region_id":85688701,
+            "venue_id":840561677
+        }
+    ],
+    "wof:id":840561677,
+    "wof:lastmodified":1464042767,
+    "wof:name":"Clarksville Dental Ctr",
+    "wof:parent_id":85810067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.39097,
+    36.589543,
+    -87.39097,
+    36.589543
+],
+  "geometry": {"coordinates":[-87.39097,36.589543],"type":"Point"}
+}

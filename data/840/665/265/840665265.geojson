@@ -1,0 +1,75 @@
+{
+  "id": 840665265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.649406,38.252404,-85.649406,38.252404",
+    "geom:latitude":38.252404,
+    "geom:longitude":-85.649406,
+    "iso:country":"US",
+    "sg:address":"112 S Sherrin Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 6600",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63BvXzSfxRPnu6DYYlyFkf_38.252404_-85.649406@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045216,
+    "wof:geomhash":"f5597075283160920008c134fcb70534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840665265
+        }
+    ],
+    "wof:id":840665265,
+    "wof:lastmodified":1464045216,
+    "wof:name":"Vein Treatment Ctr",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.649406,
+    38.252404,
+    -85.649406,
+    38.252404
+],
+  "geometry": {"coordinates":[-85.649406,38.252404],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840667807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880724,37.706765,-85.880724,37.706765",
+    "geom:latitude":37.706765,
+    "geom:longitude":-85.880724,
+    "iso:country":"US",
+    "sg:address":"706 Clifford Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2646",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HeNqGxzuJ5AJTQkDorBOZ_37.706765_-85.880724@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045268,
+    "wof:geomhash":"28026936fe24e01521ecf78b0d7563e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840667807
+        }
+    ],
+    "wof:id":840667807,
+    "wof:lastmodified":1464045268,
+    "wof:name":"Beville Appraisal Svc Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.880724,
+    37.706765,
+    -85.880724,
+    37.706765
+],
+  "geometry": {"coordinates":[-85.880724,37.706765],"type":"Point"}
+}

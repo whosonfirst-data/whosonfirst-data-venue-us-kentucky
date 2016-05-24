@@ -1,0 +1,77 @@
+{
+  "id": 856722327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293161,37.748649,-84.293161,37.748649",
+    "geom:latitude":37.748649,
+    "geom:longitude":-84.293161,
+    "iso:country":"US",
+    "sg:address":"202 N 1st St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 8967",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MlUlCPjQmupUjw3WwiAJl_37.748649_-84.293161@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052687,
+    "wof:geomhash":"bd28dcbb35945ddec983d3e5dd0f58e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856722327
+        }
+    ],
+    "wof:id":856722327,
+    "wof:lastmodified":1464052687,
+    "wof:name":"Kentucky Alcohol Program",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -84.293161,
+    37.748649,
+    -84.293161,
+    37.748649
+],
+  "geometry": {"coordinates":[-84.293161,37.748649],"type":"Point"}
+}

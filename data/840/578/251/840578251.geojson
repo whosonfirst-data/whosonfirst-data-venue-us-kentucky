@@ -1,0 +1,73 @@
+{
+  "id": 840578251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741278,38.005783,-85.741278,38.005783",
+    "geom:latitude":38.005783,
+    "geom:longitude":-85.741278,
+    "iso:country":"US",
+    "sg:address":"239 Raymond Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 5510",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i2I1CO1gLUifwPTkBB5Ei_38.005783_-85.741278@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043170,
+    "wof:geomhash":"e418cf562c24ade619a8f5dc1b98e77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840578251
+        }
+    ],
+    "wof:id":840578251,
+    "wof:lastmodified":1464043170,
+    "wof:name":"Bob Parker & Son Auto Sales",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.741278,
+    38.005783,
+    -85.741278,
+    38.005783
+],
+  "geometry": {"coordinates":[-85.74127799999999,38.005783],"type":"Point"}
+}

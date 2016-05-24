@@ -1,0 +1,75 @@
+{
+  "id": 856725933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.505918,38.252206,-85.505918,38.252206",
+    "geom:latitude":38.252206,
+    "geom:longitude":-85.505918,
+    "iso:country":"US",
+    "sg:address":"13060 Middletown Ind Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 515 1234",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_628dpmCzibn4ZBhkFBJH9D_38.252206_-85.505918@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052827,
+    "wof:geomhash":"2c8e85161f58e0621ec1b284e66f201d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856725933
+        }
+    ],
+    "wof:id":856725933,
+    "wof:lastmodified":1464052827,
+    "wof:name":"Capitol Mortgage",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -85.505918,
+    38.252206,
+    -85.505918,
+    38.252206
+],
+  "geometry": {"coordinates":[-85.50591799999999,38.252206],"type":"Point"}
+}

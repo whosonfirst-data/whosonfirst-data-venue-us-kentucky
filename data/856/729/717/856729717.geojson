@@ -1,0 +1,81 @@
+{
+  "id": 856729717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.630785,38.233347,-85.630785,38.233347",
+    "geom:latitude":38.233347,
+    "geom:longitude":-85.630785,
+    "iso:country":"US",
+    "sg:address":"4010 Dupont Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 3636",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgery",
+        "oral",
+        "dentist",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a76spiaOrCrvm1QQ1CQYZ_38.232955_-85.631134@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052991,
+    "wof:geomhash":"6d71ef883168ea2974c752ab33a61869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856729717
+        }
+    ],
+    "wof:id":856729717,
+    "wof:lastmodified":1464052991,
+    "wof:name":"Alan D Wilkinson Dr",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgery",
+        "oral",
+        "dentist",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -85.630785,
+    38.233347,
+    -85.630785,
+    38.233347
+],
+  "geometry": {"coordinates":[-85.630785,38.233347],"type":"Point"}
+}

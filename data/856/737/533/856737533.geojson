@@ -1,0 +1,72 @@
+{
+  "id": 856737533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.541572,38.222085,-84.541572,38.222085",
+    "geom:latitude":38.222085,
+    "geom:longitude":-84.541572,
+    "iso:country":"US",
+    "sg:address":"124 Darby Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/georgetown/121573-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 4700",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xRpuwCuDbLTJWn7tvS3QR_38.221853_-84.541777@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053285,
+    "wof:geomhash":"1e45870199a0b3d95aceb13791d9efa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856737533
+        }
+    ],
+    "wof:id":856737533,
+    "wof:lastmodified":1464053285,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -84.541572,
+    38.222085,
+    -84.541572,
+    38.222085
+],
+  "geometry": {"coordinates":[-84.541572,38.222085],"type":"Point"}
+}

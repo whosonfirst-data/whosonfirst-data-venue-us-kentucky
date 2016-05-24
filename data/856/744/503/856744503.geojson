@@ -1,0 +1,88 @@
+{
+  "id": 856744503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729042,38.19376,-85.729042,38.19376",
+    "geom:latitude":38.19376,
+    "geom:longitude":-85.729042,
+    "iso:country":"US",
+    "sg:address":"4027 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 6513",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gjgT0u9bEHHnJ5JA0qhYr_38.193760_-85.729042@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053547,
+    "wof:geomhash":"bc1470e466dd392749953f307ec5dc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744503
+        }
+    ],
+    "wof:id":856744503,
+    "wof:lastmodified":1464053547,
+    "wof:name":"Houston & Houston Insurance Agency, Inc.",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ]
+},
+  "bbox": [
+    -85.729042,
+    38.19376,
+    -85.729042,
+    38.19376
+],
+  "geometry": {"coordinates":[-85.72904200000001,38.19376],"type":"Point"}
+}

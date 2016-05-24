@@ -1,0 +1,71 @@
+{
+  "id": 840900235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.730554,38.051559,-84.730554,38.051559",
+    "geom:latitude":38.051559,
+    "geom:longitude":-84.730554,
+    "iso:country":"US",
+    "sg:address":"195 S Main St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 8880",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q5lTuJSUA75bqwC7wynSN_38.051559_-84.730554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050499,
+    "wof:geomhash":"45ae49aba6578c7557ccd95478291173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840900235
+        }
+    ],
+    "wof:id":840900235,
+    "wof:lastmodified":1464050499,
+    "wof:name":"Fikret T Yalkut MD",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.730554,
+    38.051559,
+    -84.730554,
+    38.051559
+],
+  "geometry": {"coordinates":[-84.730554,38.051559],"type":"Point"}
+}

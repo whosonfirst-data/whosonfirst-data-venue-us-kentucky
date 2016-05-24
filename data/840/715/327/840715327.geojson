@@ -1,0 +1,73 @@
+{
+  "id": 840715327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582712,37.84822,-87.582712,37.84822",
+    "geom:latitude":37.84822,
+    "geom:longitude":-87.582712,
+    "iso:country":"US",
+    "sg:address":"818 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 2626",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70nyZr0w5OZcC2DJ0bYW0b_37.848220_-87.582712@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046409,
+    "wof:geomhash":"9e40f89e63c04ec6695ded1bedac3350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840715327
+        }
+    ],
+    "wof:id":840715327,
+    "wof:lastmodified":1464046409,
+    "wof:name":"Velbacell Wireless",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -87.582712,
+    37.84822,
+    -87.582712,
+    37.84822
+],
+  "geometry": {"coordinates":[-87.582712,37.84822],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856717055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.611995,37.062404,-86.611995,37.062404",
+    "geom:latitude":37.062404,
+    "geom:longitude":-86.611995,
+    "iso:country":"US",
+    "sg:address":"12111 Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 8513",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28PfizycaMj79jLZRAbPlW_37.062404_-86.611995@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052471,
+    "wof:geomhash":"19d53df1c33c8a7df0377277928519ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":856717055
+        }
+    ],
+    "wof:id":856717055,
+    "wof:lastmodified":1464052471,
+    "wof:name":"Hadley One Stop Inc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.611995,
+    37.062404,
+    -86.611995,
+    37.062404
+],
+  "geometry": {"coordinates":[-86.61199499999999,37.062404],"type":"Point"}
+}

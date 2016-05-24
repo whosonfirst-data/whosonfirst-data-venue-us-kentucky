@@ -1,0 +1,75 @@
+{
+  "id": 840807597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709231,38.171303,-85.709231,38.171303",
+    "geom:latitude":38.171303,
+    "geom:longitude":-85.709231,
+    "iso:country":"US",
+    "sg:address":"5400 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 6911",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12mcz9ZJsEqQh8SJTVoqvv_38.171303_-85.709231@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048352,
+    "wof:geomhash":"32fd3902027356e9fa17bbd309fea91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840807597
+        }
+    ],
+    "wof:id":840807597,
+    "wof:lastmodified":1464048352,
+    "wof:name":"Cash Express Inc",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -85.709231,
+    38.171303,
+    -85.709231,
+    38.171303
+],
+  "geometry": {"coordinates":[-85.709231,38.171303],"type":"Point"}
+}

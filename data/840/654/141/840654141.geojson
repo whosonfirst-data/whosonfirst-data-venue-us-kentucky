@@ -1,0 +1,77 @@
+{
+  "id": 840654141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.653532,38.195019,-85.653532,38.195019",
+    "geom:latitude":38.195019,
+    "geom:longitude":-85.653532,
+    "iso:country":"US",
+    "sg:address":"2126 Reynolds Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 4242",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IOmgYt9fwPrkCeV0MlwkT_38.195019_-85.653532@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044984,
+    "wof:geomhash":"08f3c345065587ddc4c89494aba937c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840654141
+        }
+    ],
+    "wof:id":840654141,
+    "wof:lastmodified":1464044984,
+    "wof:name":"E & R Industries",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -85.653532,
+    38.195019,
+    -85.653532,
+    38.195019
+],
+  "geometry": {"coordinates":[-85.653532,38.195019],"type":"Point"}
+}

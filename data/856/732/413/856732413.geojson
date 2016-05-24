@@ -1,0 +1,72 @@
+{
+  "id": 856732413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706381,37.989188,-85.706381,37.989188",
+    "geom:latitude":37.989188,
+    "geom:longitude":-85.706381,
+    "iso:country":"US",
+    "sg:address":"210 Paraquet Springs Dr",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/shepherdsville-northwest/121627-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4058",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gU0vQyvVE6PYw0SzBfQCt_37.989188_-85.706381@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053089,
+    "wof:geomhash":"48e502a6fdb08ef7df9c68cd51a1d77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856732413
+        }
+    ],
+    "wof:id":856732413,
+    "wof:lastmodified":1464053089,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.706381,
+    37.989188,
+    -85.706381,
+    37.989188
+],
+  "geometry": {"coordinates":[-85.70638099999999,37.989188],"type":"Point"}
+}

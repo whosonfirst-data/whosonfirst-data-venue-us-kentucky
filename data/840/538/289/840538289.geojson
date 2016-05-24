@@ -1,0 +1,71 @@
+{
+  "id": 840538289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.298335,37.890547,-84.298335,37.890547",
+    "geom:latitude":37.890547,
+    "geom:longitude":-84.298335,
+    "iso:country":"US",
+    "sg:address":"100 Tiffany Ct",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 527 9986",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WlrP01RATr6CudlIbAZMV_37.890547_-84.298335@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042166,
+    "wof:geomhash":"326aeaf2bb87f543de71e0375c8c16fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840538289
+        }
+    ],
+    "wof:id":840538289,
+    "wof:lastmodified":1464042166,
+    "wof:name":"Daff Builders",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -84.298335,
+    37.890547,
+    -84.298335,
+    37.890547
+],
+  "geometry": {"coordinates":[-84.29833499999999,37.890547],"type":"Point"}
+}

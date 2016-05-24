@@ -1,0 +1,73 @@
+{
+  "id": 840895699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446739,36.981097,-86.446739,36.981097",
+    "geom:latitude":36.981097,
+    "geom:longitude":-86.446739,
+    "iso:country":"US",
+    "sg:address":"705 E 16th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5470",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UlQAniVqzz6SugwDNR2de_36.981097_-86.446739@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050399,
+    "wof:geomhash":"bfd61c4c2c8c173d74b6c64a04d5c650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840895699
+        }
+    ],
+    "wof:id":840895699,
+    "wof:lastmodified":1464050399,
+    "wof:name":"Miller's AAA Transmission",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.446739,
+    36.981097,
+    -86.446739,
+    36.981097
+],
+  "geometry": {"coordinates":[-86.44673899999999,36.981097],"type":"Point"}
+}

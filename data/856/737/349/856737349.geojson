@@ -1,0 +1,83 @@
+{
+  "id": 856737349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.684398,38.222856,-85.684398,38.222856",
+    "geom:latitude":38.222856,
+    "geom:longitude":-85.684398,
+    "iso:country":"US",
+    "sg:address":"2525 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/54227-homemade-ice-cream--pie-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 8184",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuSqmknXZXKIFSG31N0kr_38.222674_-85.683862@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053276,
+    "wof:geomhash":"e912b56eb78143e83a28f8e1c0a7fe57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":856737349
+        }
+    ],
+    "wof:id":856737349,
+    "wof:lastmodified":1464053276,
+    "wof:name":"Homemade Ice Cream & Pie Kitchen",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -85.684398,
+    38.222856,
+    -85.684398,
+    38.222856
+],
+  "geometry": {"coordinates":[-85.684398,38.222856],"type":"Point"}
+}

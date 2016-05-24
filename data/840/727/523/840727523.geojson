@@ -1,0 +1,73 @@
+{
+  "id": 840727523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.295051,37.669935,-82.295051,37.669935",
+    "geom:latitude":37.669935,
+    "geom:longitude":-82.295051,
+    "iso:country":"US",
+    "sg:address":"1188 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 5193",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fbmSfdmqFNML5CcsCRgxm_37.669935_-82.295051@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046663,
+    "wof:geomhash":"59425f917897817608ff3da53877b6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840727523
+        }
+    ],
+    "wof:id":840727523,
+    "wof:lastmodified":1464046663,
+    "wof:name":"Cash In Hand",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -82.295051,
+    37.669935,
+    -82.295051,
+    37.669935
+],
+  "geometry": {"coordinates":[-82.295051,37.669935],"type":"Point"}
+}

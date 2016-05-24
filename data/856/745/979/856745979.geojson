@@ -1,0 +1,83 @@
+{
+  "id": 856745979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724804,38.215729,-85.724804,38.215729",
+    "geom:latitude":38.215729,
+    "geom:longitude":-85.724804,
+    "iso:country":"US",
+    "sg:address":"1720 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 2661",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.republicbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85803931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cLyaT7ofqI3sWRYnB1DKo_38.215729_-85.724804@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053596,
+    "wof:geomhash":"83206b21a9115d15b71e3a977bb5f80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85803931,
+            "region_id":85688641,
+            "venue_id":856745979
+        }
+    ],
+    "wof:id":856745979,
+    "wof:lastmodified":1464053596,
+    "wof:name":"Republic Bank",
+    "wof:parent_id":85803931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.724804,
+    38.215729,
+    -85.724804,
+    38.215729
+],
+  "geometry": {"coordinates":[-85.72480400000001,38.215729],"type":"Point"}
+}

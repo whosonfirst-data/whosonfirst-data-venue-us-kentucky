@@ -1,0 +1,73 @@
+{
+  "id": 840929545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.588627,37.842344,-87.588627,37.842344",
+    "geom:latitude":37.842344,
+    "geom:longitude":-87.588627,
+    "iso:country":"US",
+    "sg:address":"327 N Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1234",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JhV3GMF2MZ3OG0dVn7VWT_37.842344_-87.588627@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051238,
+    "wof:geomhash":"1104d6210ec47c81db00c61f0b118d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840929545
+        }
+    ],
+    "wof:id":840929545,
+    "wof:lastmodified":1464051238,
+    "wof:name":"Pulmonary & Critical Care",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.588627,
+    37.842344,
+    -87.588627,
+    37.842344
+],
+  "geometry": {"coordinates":[-87.588627,37.842344],"type":"Point"}
+}

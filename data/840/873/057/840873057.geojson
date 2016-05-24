@@ -1,0 +1,78 @@
+{
+  "id": 840873057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438215,36.950966,-86.438215,36.950966",
+    "geom:latitude":36.950966,
+    "geom:longitude":-86.438215,
+    "iso:country":"US",
+    "sg:address":"1689 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0706",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47BO92kUdqu4kFiqcQ9Ror_36.950966_-86.438215@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049916,
+    "wof:geomhash":"79684b514c377be20f1e10da78a6cbbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840873057
+        }
+    ],
+    "wof:id":840873057,
+    "wof:lastmodified":1464049916,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.438215,
+    36.950966,
+    -86.438215,
+    36.950966
+],
+  "geometry": {"coordinates":[-86.438215,36.950966],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840865279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874009,37.708825,-85.874009,37.708825",
+    "geom:latitude":37.708825,
+    "geom:longitude":-85.874009,
+    "iso:country":"US",
+    "sg:address":"914 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 1711",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_252XER2BsJHFCy9QlVFR2y_37.708825_-85.874009@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049763,
+    "wof:geomhash":"89082a2261638927eb13fb85b61679a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840865279
+        }
+    ],
+    "wof:id":840865279,
+    "wof:lastmodified":1464049763,
+    "wof:name":"Urogynecology Specialists",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.874009,
+    37.708825,
+    -85.874009,
+    37.708825
+],
+  "geometry": {"coordinates":[-85.874009,37.708825],"type":"Point"}
+}

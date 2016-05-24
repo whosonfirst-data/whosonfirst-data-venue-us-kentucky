@@ -1,0 +1,73 @@
+{
+  "id": 856748081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.602524,38.26318,-85.602524,38.26318",
+    "geom:latitude":38.26318,
+    "geom:longitude":-85.602524,
+    "iso:country":"US",
+    "sg:address":"12307 la Grange Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 4041",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iz0Aos2oLDeBWB7EbXaFj_38.263180_-85.602524@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053679,
+    "wof:geomhash":"b47c563d8d93b08f4c07dc9815292e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748081
+        }
+    ],
+    "wof:id":856748081,
+    "wof:lastmodified":1464053679,
+    "wof:name":"Greater Louisville Homes",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.602524,
+    38.26318,
+    -85.602524,
+    38.26318
+],
+  "geometry": {"coordinates":[-85.602524,38.26318],"type":"Point"}
+}

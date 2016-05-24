@@ -1,0 +1,73 @@
+{
+  "id": 840721357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659589,38.18845,-85.659589,38.18845",
+    "geom:latitude":38.18845,
+    "geom:longitude":-85.659589,
+    "iso:country":"US",
+    "sg:address":"3806 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 473 0400",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jfoPqE6HJKcjX1iYo4ZFZ_38.188450_-85.659589@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046537,
+    "wof:geomhash":"be98b35d057dd34a5e85aa3031d34908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840721357
+        }
+    ],
+    "wof:id":840721357,
+    "wof:lastmodified":1464046537,
+    "wof:name":"Melem International Grocery",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.659589,
+    38.18845,
+    -85.659589,
+    38.18845
+],
+  "geometry": {"coordinates":[-85.659589,38.18845],"type":"Point"}
+}

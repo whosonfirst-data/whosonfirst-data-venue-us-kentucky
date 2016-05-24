@@ -1,0 +1,74 @@
+{
+  "id": 856737051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.862216,37.691215,-85.862216,37.691215",
+    "geom:latitude":37.691215,
+    "geom:longitude":-85.862216,
+    "iso:country":"US",
+    "sg:address":"321 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/161457-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5310",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bZ9kwlkIZoRmg45DbByAC_37.691215_-85.862216@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053259,
+    "wof:geomhash":"b99e0d1384b3d23ab584d003e3ed8e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856737051
+        }
+    ],
+    "wof:id":856737051,
+    "wof:lastmodified":1464053259,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.862216,
+    37.691215,
+    -85.862216,
+    37.691215
+],
+  "geometry": {"coordinates":[-85.862216,37.691215],"type":"Point"}
+}

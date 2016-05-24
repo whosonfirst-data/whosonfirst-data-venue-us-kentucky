@@ -1,0 +1,71 @@
+{
+  "id": 840652593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.638555,37.033905,-84.638555,37.033905",
+    "geom:latitude":37.033905,
+    "geom:longitude":-84.638555,
+    "iso:country":"US",
+    "sg:address":"206 Pogue Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 3177",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JVZsf3slBDS5gSgrkCCCB_37.033905_-84.638555@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044945,
+    "wof:geomhash":"4ba6ea5431fd89f7bfb53b8cc9b4627a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840652593
+        }
+    ],
+    "wof:id":840652593,
+    "wof:lastmodified":1464044945,
+    "wof:name":"Tarter's Lawn & Landscape Svc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.638555,
+    37.033905,
+    -84.638555,
+    37.033905
+],
+  "geometry": {"coordinates":[-84.638555,37.033905],"type":"Point"}
+}

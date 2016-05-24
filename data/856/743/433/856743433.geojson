@@ -1,0 +1,79 @@
+{
+  "id": 856743433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.782112,38.215611,-85.782112,38.215611",
+    "geom:latitude":38.215611,
+    "geom:longitude":-85.782112,
+    "iso:country":"US",
+    "sg:address":"2500 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 1321",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product"
+    ],
+    "sg:website":"http://www.gfgb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RDYMCcOLjipKS4xXRp1tS_38.215611_-85.782112@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053509,
+    "wof:geomhash":"c0eabc40abb556a25789e7edc00b426e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":856743433
+        }
+    ],
+    "wof:id":856743433,
+    "wof:lastmodified":1464053509,
+    "wof:name":"Golden Brands",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -85.782112,
+    38.215611,
+    -85.782112,
+    38.215611
+],
+  "geometry": {"coordinates":[-85.782112,38.215611],"type":"Point"}
+}

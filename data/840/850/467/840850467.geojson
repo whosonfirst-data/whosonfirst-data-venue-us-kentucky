@@ -1,0 +1,73 @@
+{
+  "id": 840850467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.581017,37.538427,-82.581017,37.538427",
+    "geom:latitude":37.538427,
+    "geom:longitude":-82.581017,
+    "iso:country":"US",
+    "sg:address":"5333 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 3111",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jtjDbkbKBpYAq0Pyc9Jdu_37.538427_-82.581017@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049449,
+    "wof:geomhash":"6fe226d4d340785b0fb4a3bee0688f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840850467
+        }
+    ],
+    "wof:id":840850467,
+    "wof:lastmodified":1464049449,
+    "wof:name":"Volunteers Of America",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -82.581017,
+    37.538427,
+    -82.581017,
+    37.538427
+],
+  "geometry": {"coordinates":[-82.581017,37.538427],"type":"Point"}
+}

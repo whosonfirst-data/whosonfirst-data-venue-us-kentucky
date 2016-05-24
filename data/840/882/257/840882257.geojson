@@ -1,0 +1,75 @@
+{
+  "id": 840882257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.52037,38.030893,-84.52037,38.030893",
+    "geom:latitude":38.030893,
+    "geom:longitude":-84.52037,
+    "iso:country":"US",
+    "sg:address":"386 Waller Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 276 2342",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JiBtYeYMuytAzGCNRXTEt_38.030893_-84.520370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050116,
+    "wof:geomhash":"a139e95b747b8fe67463e7df82f8e6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873031,
+            "region_id":85688641,
+            "venue_id":840882257
+        }
+    ],
+    "wof:id":840882257,
+    "wof:lastmodified":1464050116,
+    "wof:name":"Stryker Orthopaedics",
+    "wof:parent_id":85873031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.52037,
+    38.030893,
+    -84.52037,
+    38.030893
+],
+  "geometry": {"coordinates":[-84.52037,38.030893],"type":"Point"}
+}

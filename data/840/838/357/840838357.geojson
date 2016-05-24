@@ -1,0 +1,73 @@
+{
+  "id": 840838357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.549697,38.209915,-85.549697,38.209915",
+    "geom:latitude":38.209915,
+    "geom:longitude":-85.549697,
+    "iso:country":"US",
+    "sg:address":"11021 Plantside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 261 0304",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZvSGexxWAhrrWWoPMO04w_38.209915_-85.549697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049180,
+    "wof:geomhash":"3d90ebeae5ca3327f6182645d03792d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840838357
+        }
+    ],
+    "wof:id":840838357,
+    "wof:lastmodified":1464049180,
+    "wof:name":"Indiana Veterinary Diagnostic",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.549697,
+    38.209915,
+    -85.549697,
+    38.209915
+],
+  "geometry": {"coordinates":[-85.54969699999999,38.209915],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840898411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596524,37.884507,-84.596524,37.884507",
+    "geom:latitude":37.884507,
+    "geom:longitude":-84.596524,
+    "iso:country":"US",
+    "sg:address":"104 Courchelle Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 9811",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySLkrmROYj2LvWoW0cK1A_37.884507_-84.596524@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050457,
+    "wof:geomhash":"8526c420ef59065dd7c992f193ff41a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840898411
+        }
+    ],
+    "wof:id":840898411,
+    "wof:lastmodified":1464050457,
+    "wof:name":"Rice-Ransdell Engineering",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -84.596524,
+    37.884507,
+    -84.596524,
+    37.884507
+],
+  "geometry": {"coordinates":[-84.596524,37.884507],"type":"Point"}
+}

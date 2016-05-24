@@ -1,0 +1,71 @@
+{
+  "id": 840578053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377705,38.407697,-85.377705,38.407697",
+    "geom:latitude":38.407697,
+    "geom:longitude":-85.377705,
+    "iso:country":"US",
+    "sg:address":"111 E Main St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 9373",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RxbqgRh5puT6nv2bYQXps_38.407697_-85.377705@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043167,
+    "wof:geomhash":"5ce785b255c7ca7bca945245b5797ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840578053
+        }
+    ],
+    "wof:id":840578053,
+    "wof:lastmodified":1464043167,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -85.377705,
+    38.407697,
+    -85.377705,
+    38.407697
+],
+  "geometry": {"coordinates":[-85.37770500000001,38.407697],"type":"Point"}
+}

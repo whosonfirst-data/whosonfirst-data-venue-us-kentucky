@@ -1,0 +1,73 @@
+{
+  "id": 840912225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.72657,38.259116,-85.72657,38.259116",
+    "geom:latitude":38.259116,
+    "geom:longitude":-85.72657,
+    "iso:country":"US",
+    "sg:address":"240 Adams St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 1282",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x7jarrsU6DtlGqjgLhDqu_38.259116_-85.726570@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050793,
+    "wof:geomhash":"fa8029050fa6f7b90a130e3dc59a816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":840912225
+        }
+    ],
+    "wof:id":840912225,
+    "wof:lastmodified":1464050793,
+    "wof:name":"Serendipity Catering",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.72657,
+    38.259116,
+    -85.72657,
+    38.259116
+],
+  "geometry": {"coordinates":[-85.72657,38.259116],"type":"Point"}
+}

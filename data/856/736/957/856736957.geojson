@@ -1,0 +1,74 @@
+{
+  "id": 856736957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618395,37.094917,-84.618395,37.094917",
+    "geom:latitude":37.094917,
+    "geom:longitude":-84.618395,
+    "iso:country":"US",
+    "sg:address":"604 Ogden St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/120730-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2698",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JxqvQggzkgM6b6LZYYGtg_37.094917_-84.618395@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053256,
+    "wof:geomhash":"f5d4a0a6c180c1f83ba87669414d0a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736957
+        }
+    ],
+    "wof:id":856736957,
+    "wof:lastmodified":1464053256,
+    "wof:name":"Subway",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.618395,
+    37.094917,
+    -84.618395,
+    37.094917
+],
+  "geometry": {"coordinates":[-84.61839500000001,37.094917],"type":"Point"}
+}

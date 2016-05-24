@@ -1,0 +1,73 @@
+{
+  "id": 840668789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633445,38.215393,-85.633445,38.215393",
+    "geom:latitude":38.215393,
+    "geom:longitude":-85.633445,
+    "iso:country":"US",
+    "sg:address":"3201 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 1716",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q0KnbgpYPo7NrSvsf7qHG_38.215393_-85.633445@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045287,
+    "wof:geomhash":"a63fe4a228e9850d1d963e87ed9b0ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840668789
+        }
+    ],
+    "wof:id":840668789,
+    "wof:lastmodified":1464045287,
+    "wof:name":"Jeffrey L Echelberger DDS",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.633445,
+    38.215393,
+    -85.633445,
+    38.215393
+],
+  "geometry": {"coordinates":[-85.63344499999999,38.215393],"type":"Point"}
+}

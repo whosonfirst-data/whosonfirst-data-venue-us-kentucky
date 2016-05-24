@@ -1,0 +1,69 @@
+{
+  "id": 840869483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.761872,37.687922,-84.761872,37.687922",
+    "geom:latitude":37.687922,
+    "geom:longitude":-84.761872,
+    "iso:country":"US",
+    "sg:address":"285 Mocks Creek Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 6787",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mNJMroOzKm4WyjZGvCcv5_37.687922_-84.761872@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049845,
+    "wof:geomhash":"aefe23a84db1cb4b7c76cbc5b526b037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840869483
+        }
+    ],
+    "wof:id":840869483,
+    "wof:lastmodified":1464049845,
+    "wof:name":"Moreland Cemetery Association",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -84.761872,
+    37.687922,
+    -84.761872,
+    37.687922
+],
+  "geometry": {"coordinates":[-84.761872,37.687922],"type":"Point"}
+}

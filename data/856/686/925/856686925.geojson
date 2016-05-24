@@ -1,0 +1,71 @@
+{
+  "id": 856686925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.061131,37.499713,-82.061131,37.499713",
+    "geom:latitude":37.499713,
+    "geom:longitude":-82.061131,
+    "iso:country":"US",
+    "sg:address":"52720 State Hwy 194 E",
+    "sg:city":"Stopover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 0700",
+    "sg:postcode":"41568",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UdEp8W5uPX0xIX2UAob6j_37.499713_-82.061131@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051802,
+    "wof:geomhash":"e48bc8b77d55122f8e3ca94e7bd15f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856686925
+        }
+    ],
+    "wof:id":856686925,
+    "wof:lastmodified":1464051802,
+    "wof:name":"Hurley Flea Market",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.061131,
+    37.499713,
+    -82.061131,
+    37.499713
+],
+  "geometry": {"coordinates":[-82.061131,37.499713],"type":"Point"}
+}

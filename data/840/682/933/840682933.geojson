@@ -1,0 +1,75 @@
+{
+  "id": 840682933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.687188,38.170902,-85.687188,38.170902",
+    "geom:latitude":38.170902,
+    "geom:longitude":-85.687188,
+    "iso:country":"US",
+    "sg:address":"4004 E Indian Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 9292",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telecommunication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jzqwp9GK35pTOv06hw1R_38.170902_-85.687188@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045645,
+    "wof:geomhash":"6154e2d665ca6f132142e1a967a5506b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840682933
+        }
+    ],
+    "wof:id":840682933,
+    "wof:lastmodified":1464045645,
+    "wof:name":"O R Communications",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.687188,
+    38.170902,
+    -85.687188,
+    38.170902
+],
+  "geometry": {"coordinates":[-85.68718800000001,38.170902],"type":"Point"}
+}

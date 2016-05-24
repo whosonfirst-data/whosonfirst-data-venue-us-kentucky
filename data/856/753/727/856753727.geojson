@@ -1,0 +1,76 @@
+{
+  "id": 856753727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524844,37.988792,-84.524844,37.988792",
+    "geom:latitude":37.988792,
+    "geom:longitude":-84.524844,
+    "iso:country":"US",
+    "sg:address":"3473 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 271 5000",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.coffeebeanery.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85807491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pxSgVDJ2xnX7CCPXyq0xS_37.988792_-84.524844@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053898,
+    "wof:geomhash":"ed8b6f4838556d371f6575d66dd3a5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85807491,
+            "region_id":85688641,
+            "venue_id":856753727
+        }
+    ],
+    "wof:id":856753727,
+    "wof:lastmodified":1464053898,
+    "wof:name":"Coffee Beanery",
+    "wof:parent_id":85807491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -84.524844,
+    37.988792,
+    -84.524844,
+    37.988792
+],
+  "geometry": {"coordinates":[-84.524844,37.988792],"type":"Point"}
+}

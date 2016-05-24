@@ -1,0 +1,92 @@
+{
+  "id": 856754257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.494431,38.048199,-84.494431,38.048199",
+    "geom:latitude":38.048199,
+    "geom:longitude":-84.494431,
+    "iso:country":"US",
+    "sg:address":"201 N Limestone",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 253 3135",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FNe38DoBaK8JURE97eiFZ_38.048199_-84.494431@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053919,
+    "wof:geomhash":"854bd5eab1ff248e919cf4a78d685e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873067,
+            "region_id":85688641,
+            "venue_id":856754257
+        }
+    ],
+    "wof:id":856754257,
+    "wof:lastmodified":1464053919,
+    "wof:name":"Columbia Steak House",
+    "wof:parent_id":85873067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -84.494431,
+    38.048199,
+    -84.494431,
+    38.048199
+],
+  "geometry": {"coordinates":[-84.49443100000001,38.048199],"type":"Point"}
+}

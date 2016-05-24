@@ -1,0 +1,71 @@
+{
+  "id": 856725249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.218689,38.211219,-85.218689,38.211219",
+    "geom:latitude":38.211219,
+    "geom:longitude":-85.218689,
+    "iso:country":"US",
+    "sg:address":"611 Main St",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 6012",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kT1sov9q0zk0uTnuoMmL9_38.211219_-85.218689@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052801,
+    "wof:geomhash":"9656ef930cf403068b285e8c8d00977a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":856725249
+        }
+    ],
+    "wof:id":856725249,
+    "wof:lastmodified":1464052801,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -85.218689,
+    38.211219,
+    -85.218689,
+    38.211219
+],
+  "geometry": {"coordinates":[-85.218689,38.211219],"type":"Point"}
+}

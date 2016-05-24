@@ -1,0 +1,80 @@
+{
+  "id": 840710749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423743,36.947371,-86.423743,36.947371",
+    "geom:latitude":36.947371,
+    "geom:longitude":-86.423743,
+    "iso:country":"US",
+    "sg:address":"2800 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 4111",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oC2R8Z4sDxK4IK7RYuRob_36.947371_-86.423743@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046317,
+    "wof:geomhash":"8020a7c6e018384c6fc3885061bc59e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840710749
+        }
+    ],
+    "wof:id":840710749,
+    "wof:lastmodified":1464046317,
+    "wof:name":"Kentucky Billiards Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.423743,
+    36.947371,
+    -86.423743,
+    36.947371
+],
+  "geometry": {"coordinates":[-86.423743,36.947371],"type":"Point"}
+}

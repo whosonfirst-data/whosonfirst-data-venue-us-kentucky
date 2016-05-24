@@ -1,0 +1,72 @@
+{
+  "id": 840606163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443091,36.991175,-86.443091,36.991175",
+    "geom:latitude":36.991175,
+    "geom:longitude":-86.443091,
+    "iso:country":"US",
+    "sg:address":"1101 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8171",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.statestreetumc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cKRCmBCLhmCSDWXVO30rz_36.991175_-86.443091@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043801,
+    "wof:geomhash":"a94e36dd84ca5114d429cf1fbbcea466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840606163
+        }
+    ],
+    "wof:id":840606163,
+    "wof:lastmodified":1464043801,
+    "wof:name":"State Street United Methodist",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.443091,
+    36.991175,
+    -86.443091,
+    36.991175
+],
+  "geometry": {"coordinates":[-86.443091,36.991175],"type":"Point"}
+}

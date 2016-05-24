@@ -1,0 +1,74 @@
+{
+  "id": 856734391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.334515,37.882628,-84.334515,37.882628",
+    "geom:latitude":37.882628,
+    "geom:longitude":-84.334515,
+    "iso:country":"US",
+    "sg:address":"120 Carr Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/madison-north/101780-huddle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 8573",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K0fnqjayZVB8mwMM3sioM_37.882628_-84.334515@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053159,
+    "wof:geomhash":"bc9435865f64a032024fe01b50464426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":856734391
+        }
+    ],
+    "wof:id":856734391,
+    "wof:lastmodified":1464053159,
+    "wof:name":"Huddle House",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -84.334515,
+    37.882628,
+    -84.334515,
+    37.882628
+],
+  "geometry": {"coordinates":[-84.334515,37.882628],"type":"Point"}
+}

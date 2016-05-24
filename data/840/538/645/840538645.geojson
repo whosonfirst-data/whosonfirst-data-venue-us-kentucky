@@ -1,0 +1,73 @@
+{
+  "id": 840538645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.664859,37.1123,-84.664859,37.1123",
+    "geom:latitude":37.1123,
+    "geom:longitude":-84.664859,
+    "iso:country":"US",
+    "sg:address":"2085 Ringgold Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7137",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OcDPLPah6VQx3HrEdCzW6_37.112300_-84.664859@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042177,
+    "wof:geomhash":"1dd4a0c04cd71aa26b1876a264bce1f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840538645
+        }
+    ],
+    "wof:id":840538645,
+    "wof:lastmodified":1464042177,
+    "wof:name":"Industrial Motor Repair",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -84.664859,
+    37.1123,
+    -84.664859,
+    37.1123
+],
+  "geometry": {"coordinates":[-84.66485900000001,37.1123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840779305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.592738,37.841236,-87.592738,37.841236",
+    "geom:latitude":37.841236,
+    "geom:longitude":-87.592738,
+    "iso:country":"US",
+    "sg:address":"135 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1999",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2isORNq4rKDIZ52Kit7lOg_37.841236_-87.592738@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047750,
+    "wof:geomhash":"320371daf87bf61bb165c946da03e7f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840779305
+        }
+    ],
+    "wof:id":840779305,
+    "wof:lastmodified":1464047750,
+    "wof:name":"Polk & Polk",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -87.592738,
+    37.841236,
+    -87.592738,
+    37.841236
+],
+  "geometry": {"coordinates":[-87.592738,37.841236],"type":"Point"}
+}

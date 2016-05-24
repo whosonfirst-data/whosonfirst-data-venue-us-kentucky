@@ -1,0 +1,73 @@
+{
+  "id": 840748359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.631546,37.149693,-84.631546,37.149693",
+    "geom:latitude":37.149693,
+    "geom:longitude":-84.631546,
+    "iso:country":"US",
+    "sg:address":"1965 Norwood Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3005",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NW7PLcXonTv47cij7medO_37.149693_-84.631546@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047054,
+    "wof:geomhash":"032235b76bcd21cabb72e4429af55ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840748359
+        }
+    ],
+    "wof:id":840748359,
+    "wof:lastmodified":1464047054,
+    "wof:name":"Somerset Tool & Die Corp",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -84.631546,
+    37.149693,
+    -84.631546,
+    37.149693
+],
+  "geometry": {"coordinates":[-84.631546,37.149693],"type":"Point"}
+}

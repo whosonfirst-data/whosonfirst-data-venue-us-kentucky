@@ -1,0 +1,73 @@
+{
+  "id": 840661945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.455783,36.989139,-86.455783,36.989139",
+    "geom:latitude":36.989139,
+    "geom:longitude":-86.455783,
+    "iso:country":"US",
+    "sg:address":"1467 Kentucky St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 4129",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2enkpgT51POe4GpaboRCvw_36.989139_-86.455783@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045146,
+    "wof:geomhash":"aece0a7e26846d89799af19727db1918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840661945
+        }
+    ],
+    "wof:id":840661945,
+    "wof:lastmodified":1464045146,
+    "wof:name":"Lemox Book Inc",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.455783,
+    36.989139,
+    -86.455783,
+    36.989139
+],
+  "geometry": {"coordinates":[-86.455783,36.989139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856736069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690376,37.074491,-88.690376,37.074491",
+    "geom:latitude":37.074491,
+    "geom:longitude":-88.690376,
+    "iso:country":"US",
+    "sg:address":"2935 New Holt Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/121666-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1632",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GtEtRzoWOMLijh4wChVzO_37.074491_-88.690376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053220,
+    "wof:geomhash":"a8763ff969d3f6be28cf03e7b7fe7448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736069
+        }
+    ],
+    "wof:id":856736069,
+    "wof:lastmodified":1464053220,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -88.690376,
+    37.074491,
+    -88.690376,
+    37.074491
+],
+  "geometry": {"coordinates":[-88.690376,37.074491],"type":"Point"}
+}

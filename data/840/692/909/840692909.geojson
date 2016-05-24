@@ -1,0 +1,71 @@
+{
+  "id": 840692909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.487904,36.879273,-86.487904,36.879273",
+    "geom:latitude":36.879273,
+    "geom:longitude":-86.487904,
+    "iso:country":"US",
+    "sg:address":"2302 Richpond Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 9816",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xHKyKXfgHsVjp45BhkFVg_36.879273_-86.487904@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045894,
+    "wof:geomhash":"871cc028d2095fce0d944f8f9d0b2993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840692909
+        }
+    ],
+    "wof:id":840692909,
+    "wof:lastmodified":1464045894,
+    "wof:name":"Richpond First Baptist Church",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.487904,
+    36.879273,
+    -86.487904,
+    36.879273
+],
+  "geometry": {"coordinates":[-86.487904,36.879273],"type":"Point"}
+}

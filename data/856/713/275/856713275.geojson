@@ -1,0 +1,80 @@
+{
+  "id": 856713275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.627409,37.035999,-88.627409,37.035999",
+    "geom:latitude":37.035999,
+    "geom:longitude":-88.627409,
+    "iso:country":"US",
+    "sg:address":"4750 Old Mayfield Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1379",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "used",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fh5ZiYpW2bkBTaGmD7NmO_37.035999_-88.627409@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052331,
+    "wof:geomhash":"8bbd08b57b2afe6b8b5834e591f7fac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856713275
+        }
+    ],
+    "wof:id":856713275,
+    "wof:lastmodified":1464052331,
+    "wof:name":"Hicks Trucks & Parts",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "used",
+        "truck"
+    ]
+},
+  "bbox": [
+    -88.627409,
+    37.035999,
+    -88.627409,
+    37.035999
+],
+  "geometry": {"coordinates":[-88.627409,37.035999],"type":"Point"}
+}

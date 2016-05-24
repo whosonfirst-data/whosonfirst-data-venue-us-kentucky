@@ -1,0 +1,71 @@
+{
+  "id": 840820605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.765813,37.796826,-87.765813,37.796826",
+    "geom:latitude":37.796826,
+    "geom:longitude":-87.765813,
+    "iso:country":"US",
+    "sg:address":"11652 State Hwy 359",
+    "sg:city":"Waverly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 533 6843",
+    "sg:postcode":"42462",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LiVzntq8QbemJXUCS4GrS_37.796826_-87.765813@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048769,
+    "wof:geomhash":"c0042853a981357bdc7caa1dd9346789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840820605
+        }
+    ],
+    "wof:id":840820605,
+    "wof:lastmodified":1464048769,
+    "wof:name":"McAtee Plumbing",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.765813,
+    37.796826,
+    -87.765813,
+    37.796826
+],
+  "geometry": {"coordinates":[-87.76581299999999,37.796826],"type":"Point"}
+}

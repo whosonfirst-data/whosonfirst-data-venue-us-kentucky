@@ -1,0 +1,73 @@
+{
+  "id": 840683499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.975242,36.973234,-82.975242,36.973234",
+    "geom:latitude":36.973234,
+    "geom:longitude":-82.975242,
+    "iso:country":"US",
+    "sg:address":"2314 E Main St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 5050",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PNTzP3HxwFNnKSsKahntN_36.973234_-82.975242@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045660,
+    "wof:geomhash":"48b1bb7fbdf0d8db4f578fbbc18a48ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840683499
+        }
+    ],
+    "wof:id":840683499,
+    "wof:lastmodified":1464045660,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -82.975242,
+    36.973234,
+    -82.975242,
+    36.973234
+],
+  "geometry": {"coordinates":[-82.97524199999999,36.973234],"type":"Point"}
+}

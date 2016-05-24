@@ -1,0 +1,73 @@
+{
+  "id": 840631479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.700893,38.186644,-85.700893,38.186644",
+    "geom:latitude":38.186644,
+    "geom:longitude":-85.700893,
+    "iso:country":"US",
+    "sg:address":"4529 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 4778",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gNQwRprJZzEHMM8C3TCF9_38.186644_-85.700893@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044475,
+    "wof:geomhash":"44715b56ee820aac6de9ded7ece711fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":840631479
+        }
+    ],
+    "wof:id":840631479,
+    "wof:lastmodified":1464044475,
+    "wof:name":"Grimes & Wood Animal Hospital",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.700893,
+    38.186644,
+    -85.700893,
+    38.186644
+],
+  "geometry": {"coordinates":[-85.70089299999999,38.186644],"type":"Point"}
+}

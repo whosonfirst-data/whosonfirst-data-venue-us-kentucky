@@ -1,0 +1,73 @@
+{
+  "id": 840580089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.869902,36.906628,-85.869902,36.906628",
+    "geom:latitude":36.906628,
+    "geom:longitude":-85.869902,
+    "iso:country":"US",
+    "sg:address":"199 Wells Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9933",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_723FHgbedggw0LmDLkFat4_36.906628_-85.869902@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043208,
+    "wof:geomhash":"ab0193e7cd52710572eb214bf9d203a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840580089
+        }
+    ],
+    "wof:id":840580089,
+    "wof:lastmodified":1464043208,
+    "wof:name":"L A Nails",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -85.869902,
+    36.906628,
+    -85.869902,
+    36.906628
+],
+  "geometry": {"coordinates":[-85.869902,36.906628],"type":"Point"}
+}

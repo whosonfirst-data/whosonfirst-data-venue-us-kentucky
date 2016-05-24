@@ -1,0 +1,71 @@
+{
+  "id": 840773723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.589324,37.835425,-87.589324,37.835425",
+    "geom:latitude":37.835425,
+    "geom:longitude":-87.589324,
+    "iso:country":"US",
+    "sg:address":"523 Washington St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0035",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bMAWYsv33GvZbM1KwhyuT_37.835425_-87.589324@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047645,
+    "wof:geomhash":"ecb8df2f6e61d002b76daff2add736db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840773723
+        }
+    ],
+    "wof:id":840773723,
+    "wof:lastmodified":1464047645,
+    "wof:name":"Dubl R Enterprises LTD",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -87.589324,
+    37.835425,
+    -87.589324,
+    37.835425
+],
+  "geometry": {"coordinates":[-87.589324,37.835425],"type":"Point"}
+}

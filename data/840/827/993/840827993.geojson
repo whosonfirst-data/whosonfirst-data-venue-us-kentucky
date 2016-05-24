@@ -1,0 +1,71 @@
+{
+  "id": 840827993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.249203,38.21239,-85.249203,38.21239",
+    "geom:latitude":38.21239,
+    "geom:longitude":-85.249203,
+    "iso:country":"US",
+    "sg:address":"1829 Midland Trl",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 3038",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fPWpM5cIVSKW3YIWFovQB_38.212390_-85.249203@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048962,
+    "wof:geomhash":"a32d8b9fd5307ddc31315c5ca5ece33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840827993
+        }
+    ],
+    "wof:id":840827993,
+    "wof:lastmodified":1464048962,
+    "wof:name":"Wood's Auto Clean-Up",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.249203,
+    38.21239,
+    -85.249203,
+    38.21239
+],
+  "geometry": {"coordinates":[-85.24920299999999,38.21239],"type":"Point"}
+}

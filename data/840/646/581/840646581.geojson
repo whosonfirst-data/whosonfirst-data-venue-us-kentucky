@@ -1,0 +1,71 @@
+{
+  "id": 840646581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.689981,37.744596,-87.689981,37.744596",
+    "geom:latitude":37.744596,
+    "geom:longitude":-87.689981,
+    "iso:country":"US",
+    "sg:address":"4056 State Hwy 266",
+    "sg:city":"Corydon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 533 6732",
+    "sg:postcode":"42406",
+    "sg:province":"KY",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0anr3xx4luxLXYUB1GOAr1_37.744596_-87.689981@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044813,
+    "wof:geomhash":"7f1e60c47228f0c3dc19f0307aa2021e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840646581
+        }
+    ],
+    "wof:id":840646581,
+    "wof:lastmodified":1464044813,
+    "wof:name":"Billings Taxidermy",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -87.689981,
+    37.744596,
+    -87.689981,
+    37.744596
+],
+  "geometry": {"coordinates":[-87.689981,37.744596],"type":"Point"}
+}

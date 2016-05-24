@@ -1,0 +1,73 @@
+{
+  "id": 856720397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.314706,36.992234,-86.314706,36.992234",
+    "geom:latitude":36.992234,
+    "geom:longitude":-86.314706,
+    "iso:country":"US",
+    "sg:address":"1123 Bethel Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 5765",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11tLjiMj6MHX2Qxgn9kR3P_36.992234_-86.314706@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052605,
+    "wof:geomhash":"996f3e19bceef21fa75d26a2faaa6d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856720397
+        }
+    ],
+    "wof:id":856720397,
+    "wof:lastmodified":1464052605,
+    "wof:name":"Hudson Construction",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -86.314706,
+    36.992234,
+    -86.314706,
+    36.992234
+],
+  "geometry": {"coordinates":[-86.314706,36.992234],"type":"Point"}
+}

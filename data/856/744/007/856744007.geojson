@@ -1,0 +1,91 @@
+{
+  "id": 856744007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.801738,38.242481,-85.801738,38.242481",
+    "geom:latitude":38.242481,
+    "geom:longitude":-85.801738,
+    "iso:country":"US",
+    "sg:address":"2931 Greenwood Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 8061",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck",
+        "salvage",
+        "metal",
+        "wrecking",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cy4weqyiY7lWG9BemHzTa_38.242481_-85.801738@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053530,
+    "wof:geomhash":"bd00512ee4542cbf004b724baee1d044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":856744007
+        }
+    ],
+    "wof:id":856744007,
+    "wof:lastmodified":1464053530,
+    "wof:name":"Morton's Auto Wrecker & Salvage",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "salvage",
+        "metal",
+        "wrecking",
+        "towing"
+    ]
+},
+  "bbox": [
+    -85.801738,
+    38.242481,
+    -85.801738,
+    38.242481
+],
+  "geometry": {"coordinates":[-85.801738,38.242481],"type":"Point"}
+}

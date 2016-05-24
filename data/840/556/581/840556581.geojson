@@ -1,0 +1,75 @@
+{
+  "id": 840556581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.710147,37.065684,-88.710147,37.065684",
+    "geom:latitude":37.065684,
+    "geom:longitude":-88.710147,
+    "iso:country":"US",
+    "sg:address":"5490 Stevin Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 2321",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "project",
+        "railroad",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xTglFoe7kDAFowotIbMNF_37.065684_-88.710147@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042658,
+    "wof:geomhash":"8650bf5430e807793bd4c23a93e16b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840556581
+        }
+    ],
+    "wof:id":840556581,
+    "wof:lastmodified":1464042658,
+    "wof:name":"Tg Consulting",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project",
+        "railroad",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -88.710147,
+    37.065684,
+    -88.710147,
+    37.065684
+],
+  "geometry": {"coordinates":[-88.71014700000001,37.065684],"type":"Point"}
+}

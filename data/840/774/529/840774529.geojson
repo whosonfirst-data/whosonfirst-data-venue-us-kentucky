@@ -1,0 +1,73 @@
+{
+  "id": 840774529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860473,37.692835,-85.860473,37.692835",
+    "geom:latitude":37.692835,
+    "geom:longitude":-85.860473,
+    "iso:country":"US",
+    "sg:address":"202 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1415",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rsmdswD8hT24hAo9rRycw_37.692835_-85.860473@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047659,
+    "wof:geomhash":"8b17e3be6adf86a70f019a904b547371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840774529
+        }
+    ],
+    "wof:id":840774529,
+    "wof:lastmodified":1464047659,
+    "wof:name":"Carpet Store",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -85.860473,
+    37.692835,
+    -85.860473,
+    37.692835
+],
+  "geometry": {"coordinates":[-85.860473,37.692835],"type":"Point"}
+}

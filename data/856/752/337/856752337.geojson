@@ -1,0 +1,92 @@
+{
+  "id": 856752337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.53749,38.218835,-85.53749,38.218835",
+    "geom:latitude":38.218835,
+    "geom:longitude":-85.53749,
+    "iso:country":"US",
+    "sg:address":"1717 Alliant Ave Ste 5",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 5045",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "abstracter",
+        "mortgage",
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IcYjZaka4IICKAv2YCVvV_38.218835_-85.537490@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053845,
+    "wof:geomhash":"47a1ec8fb6b752422d58bf59188cd45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752337
+        }
+    ],
+    "wof:id":856752337,
+    "wof:lastmodified":1464053845,
+    "wof:name":"ASK Title Services",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstracter",
+        "mortgage",
+        "escrow"
+    ]
+},
+  "bbox": [
+    -85.53749,
+    38.218835,
+    -85.53749,
+    38.218835
+],
+  "geometry": {"coordinates":[-85.53749000000001,38.218835],"type":"Point"}
+}

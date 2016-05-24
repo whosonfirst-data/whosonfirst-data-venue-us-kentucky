@@ -1,0 +1,69 @@
+{
+  "id": 840850585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.581649,37.887752,-84.581649,37.887752",
+    "geom:latitude":37.887752,
+    "geom:longitude":-84.581649,
+    "iso:country":"US",
+    "sg:address":"202 Stephens Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 5757",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dYnp3We9z0iZedahKQGgH_37.887752_-84.581649@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049452,
+    "wof:geomhash":"0288a9f6537818e7461db90a8a59f999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840850585
+        }
+    ],
+    "wof:id":840850585,
+    "wof:lastmodified":1464049452,
+    "wof:name":"Rentco Trailer Sales & Rental",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -84.581649,
+    37.887752,
+    -84.581649,
+    37.887752
+],
+  "geometry": {"coordinates":[-84.581649,37.887752],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 856755325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693343,36.7481,-83.693343,36.7481",
+    "geom:latitude":36.7481,
+    "geom:longitude":-83.693343,
+    "iso:country":"US",
+    "sg:address":"Route 7 Box 400 Junction Cumberland Gap Parkway",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 9298",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RMHXfKWuob2KIalA3W0NC_36.748100_-83.693343@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"d3d6fa24f8d649ce46bb53b235eb3f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856755325
+        }
+    ],
+    "wof:id":856755325,
+    "wof:lastmodified":1464053957,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.693343,
+    36.7481,
+    -83.693343,
+    36.7481
+],
+  "geometry": {"coordinates":[-83.693343,36.7481],"type":"Point"}
+}

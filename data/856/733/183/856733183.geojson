@@ -1,0 +1,86 @@
+{
+  "id": 856733183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.666709,38.20557,-85.666709,38.20557",
+    "geom:latitude":38.20557,
+    "geom:longitude":-85.666709,
+    "iso:country":"US",
+    "sg:address":"3400 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/176039-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 5914",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dKrFGktXxjCg8IJ7xHRgC_38.205570_-85.666709@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053116,
+    "wof:geomhash":"f5cb5650c0f52c732aad6f0618ead60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856733183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856733183
+        }
+    ],
+    "wof:id":856733183,
+    "wof:lastmodified":1464053116,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.666709,
+    38.20557,
+    -85.666709,
+    38.20557
+],
+  "geometry": {"coordinates":[-85.666709,38.20557],"type":"Point"}
+}

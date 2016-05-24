@@ -1,0 +1,70 @@
+{
+  "id": 840802625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.653224,39.073563,-84.653224,39.073563",
+    "geom:latitude":39.073563,
+    "geom:longitude":-84.653224,
+    "iso:country":"US",
+    "sg:address":"569 Petersburg Rd",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 5200",
+    "sg:postcode":"41048",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.thrifty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528187,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Niajw9xU9JVeUmEIDs4ZR_39.073563_-84.653224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048256,
+    "wof:geomhash":"3791c023a98f8fec7f3c4a097e7a75f0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528187,
+            "country_id":85633793,
+            "region_id":85688641,
+            "venue_id":840802625
+        }
+    ],
+    "wof:id":840802625,
+    "wof:lastmodified":1464048256,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":102528187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.653224,
+    39.073563,
+    -84.653224,
+    39.073563
+],
+  "geometry": {"coordinates":[-84.65322399999999,39.073563],"type":"Point"}
+}

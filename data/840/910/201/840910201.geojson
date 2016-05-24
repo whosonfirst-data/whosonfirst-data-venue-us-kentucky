@@ -1,0 +1,69 @@
+{
+  "id": 840910201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.796837,37.658529,-84.796837,37.658529",
+    "geom:latitude":37.658529,
+    "geom:longitude":-84.796837,
+    "iso:country":"US",
+    "sg:address":"470 Whirlaway Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 8384",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QZcxqEoXlvv75BnhooKdl_37.658529_-84.796837@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050735,
+    "wof:geomhash":"774e1031c67ef627ada63f5ab731fa1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840910201
+        }
+    ],
+    "wof:id":840910201,
+    "wof:lastmodified":1464050735,
+    "wof:name":"84 Lumber Co",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -84.796837,
+    37.658529,
+    -84.796837,
+    37.658529
+],
+  "geometry": {"coordinates":[-84.796837,37.658529],"type":"Point"}
+}

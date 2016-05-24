@@ -1,0 +1,75 @@
+{
+  "id": 840832597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764073,38.242165,-85.764073,38.242165",
+    "geom:latitude":38.242165,
+    "geom:longitude":-85.764073,
+    "iso:country":"US",
+    "sg:address":"925 S 7th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 8338",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZUoKuCQnt8cxqi3pUdVgy_38.242165_-85.764073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049055,
+    "wof:geomhash":"25e9b8b14bb6412c34f1d8c4fa67c83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840832597
+        }
+    ],
+    "wof:id":840832597,
+    "wof:lastmodified":1464049055,
+    "wof:name":"Bloemer Food Sales Co",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.764073,
+    38.242165,
+    -85.764073,
+    38.242165
+],
+  "geometry": {"coordinates":[-85.764073,38.242165],"type":"Point"}
+}

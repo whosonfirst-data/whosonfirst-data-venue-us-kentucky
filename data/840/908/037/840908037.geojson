@@ -1,0 +1,71 @@
+{
+  "id": 840908037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.598838,37.094393,-84.598838,37.094393",
+    "geom:latitude":37.094393,
+    "geom:longitude":-84.598838,
+    "iso:country":"US",
+    "sg:address":"416 E Mount Vernon St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 9491",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32v6vzKWUfr669igyuYQmP_37.094393_-84.598838@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050665,
+    "wof:geomhash":"bc22b0838ddcbf2e06b65ae60fd62591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840908037
+        }
+    ],
+    "wof:id":840908037,
+    "wof:lastmodified":1464050665,
+    "wof:name":"Marshall Builders",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.598838,
+    37.094393,
+    -84.598838,
+    37.094393
+],
+  "geometry": {"coordinates":[-84.598838,37.094393],"type":"Point"}
+}

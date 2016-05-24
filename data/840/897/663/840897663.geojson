@@ -1,0 +1,74 @@
+{
+  "id": 840897663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.475357,36.988923,-86.475357,36.988923",
+    "geom:latitude":36.988923,
+    "geom:longitude":-86.475357,
+    "iso:country":"US",
+    "sg:address":"920 Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 7843",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "sg:website":"www.kyem.dma.ky.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2olaEELkWOuCrMzNhHWzw7_36.988923_-86.475357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050443,
+    "wof:geomhash":"ef4d016cf3c61d17a382f45602a026b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840897663
+        }
+    ],
+    "wof:id":840897663,
+    "wof:lastmodified":1464050443,
+    "wof:name":"Military Affairs Dept",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -86.475357,
+    36.988923,
+    -86.475357,
+    36.988923
+],
+  "geometry": {"coordinates":[-86.475357,36.988923],"type":"Point"}
+}

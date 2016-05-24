@@ -1,0 +1,73 @@
+{
+  "id": 840835547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.452658,37.807773,-87.452658,37.807773",
+    "geom:latitude":37.807773,
+    "geom:longitude":-87.452658,
+    "iso:country":"US",
+    "sg:address":"11080 State Hwy 351",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 4035",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45nCS9WuEvGa23igtXXvmm_37.807773_-87.452658@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049122,
+    "wof:geomhash":"8e693295718d0f7e8c73fa047485d6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840835547
+        }
+    ],
+    "wof:id":840835547,
+    "wof:lastmodified":1464049122,
+    "wof:name":"Pearson Electric",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.452658,
+    37.807773,
+    -87.452658,
+    37.807773
+],
+  "geometry": {"coordinates":[-87.452658,37.807773],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840789789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757909,38.24836,-85.757909,38.24836",
+    "geom:latitude":38.24836,
+    "geom:longitude":-85.757909,
+    "iso:country":"US",
+    "sg:address":"629 S 4th Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 5208",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07v7jKTtSOmAvynk9F5abH_38.248360_-85.757909@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047975,
+    "wof:geomhash":"05588e3fe4e2446fec764c83a620f6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":840789789
+        }
+    ],
+    "wof:id":840789789,
+    "wof:lastmodified":1464047975,
+    "wof:name":"US Railroad Retirement Board",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "human"
+    ]
+},
+  "bbox": [
+    -85.757909,
+    38.24836,
+    -85.757909,
+    38.24836
+],
+  "geometry": {"coordinates":[-85.757909,38.24836],"type":"Point"}
+}

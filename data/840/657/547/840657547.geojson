@@ -1,0 +1,83 @@
+{
+  "id": 840657547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.473696,36.965081,-86.473696,36.965081",
+    "geom:latitude":36.965081,
+    "geom:longitude":-86.473696,
+    "iso:country":"US",
+    "sg:address":"711 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0701",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85831487,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RthHp86scW7YoD98EUC9h_36.965081_-86.473696@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045055,
+    "wof:geomhash":"d28dbb6ef512f6cb81cc855cccaac2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840657547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840657547
+        }
+    ],
+    "wof:id":840657547,
+    "wof:lastmodified":1464045055,
+    "wof:name":"Kroger",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.473696,
+    36.965081,
+    -86.473696,
+    36.965081
+],
+  "geometry": {"coordinates":[-86.473696,36.965081],"type":"Point"}
+}

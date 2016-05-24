@@ -1,0 +1,101 @@
+{
+  "id": 856744665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.735503,38.150016,-85.735503,38.150016",
+    "geom:latitude":38.150016,
+    "geom:longitude":-85.735503,
+    "iso:country":"US",
+    "sg:address":"6911 Grade Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 7766",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "environmental",
+        "equipment",
+        "services-site",
+        "remediation",
+        "oils-fuel",
+        "oils-used",
+        "waste"
+    ],
+    "sg:website":"http://www.kypetroleumrecycling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u3JUl5zbY9Bi0ZfFlx3up_38.150016_-85.735503@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053552,
+    "wof:geomhash":"629f749b31618c0db3fc1d38cfb8b5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744665
+        }
+    ],
+    "wof:id":856744665,
+    "wof:lastmodified":1464053552,
+    "wof:name":"Kentucky Petroleum Recycling",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "equipment",
+        "services-site",
+        "remediation",
+        "oils-fuel",
+        "oils-used",
+        "waste"
+    ]
+},
+  "bbox": [
+    -85.735503,
+    38.150016,
+    -85.735503,
+    38.150016
+],
+  "geometry": {"coordinates":[-85.73550299999999,38.150016],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840611303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.629429,37.174375,-84.629429,37.174375",
+    "geom:latitude":37.174375,
+    "geom:longitude":-84.629429,
+    "iso:country":"US",
+    "sg:address":"215 Main St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 4221",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3By4R5m1TxMUzYdhPYS2JN_37.174375_-84.629429@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043949,
+    "wof:geomhash":"0f6331be9cb697eae6514a86f9af6ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840611303
+        }
+    ],
+    "wof:id":840611303,
+    "wof:lastmodified":1464043949,
+    "wof:name":"Science Hill Library",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.629429,
+    37.174375,
+    -84.629429,
+    37.174375
+],
+  "geometry": {"coordinates":[-84.629429,37.174375],"type":"Point"}
+}

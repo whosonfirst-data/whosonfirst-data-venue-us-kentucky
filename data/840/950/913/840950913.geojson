@@ -1,0 +1,71 @@
+{
+  "id": 840950913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618755,37.182163,-84.618755,37.182163",
+    "geom:latitude":37.182163,
+    "geom:longitude":-84.618755,
+    "iso:country":"US",
+    "sg:address":"217 E Langdon Rd",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 4109",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DE14r1GxGmwLgLFrpuIf6_37.182163_-84.618755@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051669,
+    "wof:geomhash":"c941dc3a9309aec1bba691a9866ee7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840950913
+        }
+    ],
+    "wof:id":840950913,
+    "wof:lastmodified":1464051669,
+    "wof:name":"Science Hill Water Office",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.618755,
+    37.182163,
+    -84.618755,
+    37.182163
+],
+  "geometry": {"coordinates":[-84.61875499999999,37.182163],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840818533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.629599,37.071143,-88.629599,37.071143",
+    "geom:latitude":37.071143,
+    "geom:longitude":-88.629599,
+    "iso:country":"US",
+    "sg:address":"324 S 28th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1043",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ok5hyYB2bvcjlN2j8Xbx7_37.071143_-88.629599@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048710,
+    "wof:geomhash":"e867caa5e941f2cea0805191f83511e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840818533
+        }
+    ],
+    "wof:id":840818533,
+    "wof:lastmodified":1464048710,
+    "wof:name":"West End Baptist Church",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.629599,
+    37.071143,
+    -88.629599,
+    37.071143
+],
+  "geometry": {"coordinates":[-88.629599,37.071143],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840753633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.310683,37.078269,-86.310683,37.078269",
+    "geom:latitude":37.078269,
+    "geom:longitude":-86.310683,
+    "iso:country":"US",
+    "sg:address":"1871 Boiling Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0058",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "chicken",
+        "egg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cgzcDjAMJiiljT1Hn1UKP_37.078269_-86.310683@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047187,
+    "wof:geomhash":"b9f0e9e2f6303cccf5358bef6224e050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840753633
+        }
+    ],
+    "wof:id":840753633,
+    "wof:lastmodified":1464047187,
+    "wof:name":"D&D Farms",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "egg"
+    ]
+},
+  "bbox": [
+    -86.310683,
+    37.078269,
+    -86.310683,
+    37.078269
+],
+  "geometry": {"coordinates":[-86.310683,37.078269],"type":"Point"}
+}

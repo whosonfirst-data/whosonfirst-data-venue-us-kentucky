@@ -1,0 +1,89 @@
+{
+  "id": 856755319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.713797,36.616962,-83.713797,36.616962",
+    "geom:latitude":36.616962,
+    "geom:longitude":-83.713797,
+    "iso:country":"US",
+    "sg:address":"609 N 19th St",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 0538",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker",
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fWITDmthxrudiu1xLUrZK_36.616962_-83.713797@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"0aafd443f2fe898cc97f78c993607521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856755319
+        }
+    ],
+    "wof:id":856755319,
+    "wof:lastmodified":1464053957,
+    "wof:name":"Earle Gun & Pawn",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker",
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -83.713797,
+    36.616962,
+    -83.713797,
+    36.616962
+],
+  "geometry": {"coordinates":[-83.713797,36.616962],"type":"Point"}
+}

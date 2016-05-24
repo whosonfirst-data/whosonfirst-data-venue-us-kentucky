@@ -1,0 +1,77 @@
+{
+  "id": 840576473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.775429,37.644801,-84.775429,37.644801",
+    "geom:latitude":37.644801,
+    "geom:longitude":-84.775429,
+    "iso:country":"US",
+    "sg:address":"434 W Walnut St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 239 0022",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZv7OFTGltOlR7YTtT6eh_37.644801_-84.775429@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043132,
+    "wof:geomhash":"6282d85cc115278b4649f05fd4228ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840576473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840576473
+        }
+    ],
+    "wof:id":840576473,
+    "wof:lastmodified":1464043132,
+    "wof:name":"Danville Family Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.775429,
+    37.644801,
+    -84.775429,
+    37.644801
+],
+  "geometry": {"coordinates":[-84.775429,37.644801],"type":"Point"}
+}

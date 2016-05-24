@@ -1,0 +1,88 @@
+{
+  "id": 856742917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.629967,38.250832,-85.629967,38.250832",
+    "geom:latitude":38.250832,
+    "geom:longitude":-85.629967,
+    "iso:country":"US",
+    "sg:address":"4600 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 2403",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "apparel",
+        "women's"
+    ],
+    "sg:website":"http://www.catherines.com/?sid=localsearch&mcid=localsearch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vsEBIQCGlyGNsxswuy7ba_38.250832_-85.629967@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053491,
+    "wof:geomhash":"5e019555a7d7975356e77270c7bffbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742917
+        }
+    ],
+    "wof:id":856742917,
+    "wof:lastmodified":1464053491,
+    "wof:name":"Catherine's",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "apparel",
+        "women's"
+    ]
+},
+  "bbox": [
+    -85.629967,
+    38.250832,
+    -85.629967,
+    38.250832
+],
+  "geometry": {"coordinates":[-85.62996699999999,38.250832],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 856741339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.675079,38.211121,-85.675079,38.211121",
+    "geom:latitude":38.211121,
+    "geom:longitude":-85.675079,
+    "iso:country":"US",
+    "sg:address":"2100 Gardiner Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 7431",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "physical",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xA3g0joFCWShlLevyDHt7_38.211121_-85.675079@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053435,
+    "wof:geomhash":"f87d6d6d65e7e9fdfc06f15ae4bc9f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856741339
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856741339
+        }
+    ],
+    "wof:id":856741339,
+    "wof:lastmodified":1464053435,
+    "wof:name":"Breuer & Hopson Multicare Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -85.675079,
+    38.211121,
+    -85.675079,
+    38.211121
+],
+  "geometry": {"coordinates":[-85.675079,38.211121],"type":"Point"}
+}

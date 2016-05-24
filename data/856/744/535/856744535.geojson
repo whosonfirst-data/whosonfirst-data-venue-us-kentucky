@@ -1,0 +1,105 @@
+{
+  "id": 856744535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.717322,38.163163,-85.717322,38.163163",
+    "geom:latitude":38.163163,
+    "geom:longitude":-85.717322,
+    "iso:country":"US",
+    "sg:address":"825 Lotus Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 359 5850",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.ups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qS8YwU5I8ih6VAfv7s8eA_38.163163_-85.717322@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053548,
+    "wof:geomhash":"ee62dc704119c73f2ae30f452c869c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744535
+        }
+    ],
+    "wof:id":856744535,
+    "wof:lastmodified":1464053548,
+    "wof:name":"Ups",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -85.717322,
+    38.163163,
+    -85.717322,
+    38.163163
+],
+  "geometry": {"coordinates":[-85.717322,38.163163],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840697707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899407,37.009693,-85.899407,37.009693",
+    "geom:latitude":37.009693,
+    "geom:longitude":-85.899407,
+    "iso:country":"US",
+    "sg:address":"211 Professional Park Dr",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9696",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50T2Ltb9pnHbvjDfpfYHxc_37.009693_-85.899407@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046019,
+    "wof:geomhash":"9961c221623e601424ffff691288c3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840697707
+        }
+    ],
+    "wof:id":840697707,
+    "wof:lastmodified":1464046019,
+    "wof:name":"Glasgow Pediatric Assoc",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.899407,
+    37.009693,
+    -85.899407,
+    37.009693
+],
+  "geometry": {"coordinates":[-85.899407,37.009693],"type":"Point"}
+}

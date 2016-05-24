@@ -1,0 +1,71 @@
+{
+  "id": 856688683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627144,37.020013,-84.627144,37.020013",
+    "geom:latitude":37.020013,
+    "geom:longitude":-84.627144,
+    "iso:country":"US",
+    "sg:address":"5830 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 9941",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sMYTTKHHUyXeFXFlcWgo5_37.020013_-84.627144@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051841,
+    "wof:geomhash":"3298de2ccb5fd10a8de6f7e99808a563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856688683
+        }
+    ],
+    "wof:id":856688683,
+    "wof:lastmodified":1464051841,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -84.627144,
+    37.020013,
+    -84.627144,
+    37.020013
+],
+  "geometry": {"coordinates":[-84.627144,37.020013],"type":"Point"}
+}

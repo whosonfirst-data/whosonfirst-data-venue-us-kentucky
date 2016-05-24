@@ -1,0 +1,74 @@
+{
+  "id": 856746919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.738457,38.143581,-85.738457,38.143581",
+    "geom:latitude":38.143581,
+    "geom:longitude":-85.738457,
+    "iso:country":"US",
+    "sg:address":"1200 Don Hutson Blvd # 4",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 7334",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.csxt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySHME9Z9YNV3qF49TiI1H_38.143581_-85.738457@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053628,
+    "wof:geomhash":"cc020a4ed6cdd10c1e4d692c89e4c003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856746919
+        }
+    ],
+    "wof:id":856746919,
+    "wof:lastmodified":1464053628,
+    "wof:name":"Csx",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -85.738457,
+    38.143581,
+    -85.738457,
+    38.143581
+],
+  "geometry": {"coordinates":[-85.738457,38.143581],"type":"Point"}
+}

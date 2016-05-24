@@ -1,0 +1,73 @@
+{
+  "id": 840692145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.791901,38.008786,-85.791901,38.008786",
+    "geom:latitude":38.008786,
+    "geom:longitude":-85.791901,
+    "iso:country":"US",
+    "sg:address":"1706 Martin Hill Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 6020",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pp9iJvTsbnjs8RcpgEIDK_38.008786_-85.791901@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045866,
+    "wof:geomhash":"d6799e011031f2a4043f5524cfe181b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840692145
+        }
+    ],
+    "wof:id":840692145,
+    "wof:lastmodified":1464045866,
+    "wof:name":"Decker's Concrete Construction",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.791901,
+    38.008786,
+    -85.791901,
+    38.008786
+],
+  "geometry": {"coordinates":[-85.791901,38.008786],"type":"Point"}
+}

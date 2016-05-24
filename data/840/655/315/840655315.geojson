@@ -1,0 +1,67 @@
+{
+  "id": 840655315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.708214,36.607641,-83.708214,36.607641",
+    "geom:latitude":36.607641,
+    "geom:longitude":-83.708214,
+    "iso:country":"US",
+    "sg:address":"1623 E Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 5630",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:website":"www.bestwestern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EqNW6hcByXd4vJnfiuVZE_36.607641_-83.708214@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045010,
+    "wof:geomhash":"3931f3c703982bbf0760b3419e03eb30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840655315
+        }
+    ],
+    "wof:id":840655315,
+    "wof:lastmodified":1464045010,
+    "wof:name":"Best Western Inn",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.708214,
+    36.607641,
+    -83.708214,
+    36.607641
+],
+  "geometry": {"coordinates":[-83.708214,36.607641],"type":"Point"}
+}

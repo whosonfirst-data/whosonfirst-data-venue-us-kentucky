@@ -1,0 +1,73 @@
+{
+  "id": 840605167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.344909,37.033201,-86.344909,37.033201",
+    "geom:latitude":37.033201,
+    "geom:longitude":-86.344909,
+    "iso:country":"US",
+    "sg:address":"6414 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0506",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QdHqm0oWQYRk4C6x7M87c_37.033201_-86.344909@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043782,
+    "wof:geomhash":"92118385b929444add7d18a80225dc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840605167
+        }
+    ],
+    "wof:id":840605167,
+    "wof:lastmodified":1464043782,
+    "wof:name":"About Glass",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.344909,
+    37.033201,
+    -86.344909,
+    37.033201
+],
+  "geometry": {"coordinates":[-86.344909,37.033201],"type":"Point"}
+}

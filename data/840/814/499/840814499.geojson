@@ -1,0 +1,75 @@
+{
+  "id": 840814499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282635,37.736631,-84.282635,37.736631",
+    "geom:latitude":37.736631,
+    "geom:longitude":-84.282635,
+    "iso:country":"US",
+    "sg:address":"105 Rice Ct",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 0072",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YAXyty0mbqEV7fcVSITDG_37.736631_-84.282635@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048594,
+    "wof:geomhash":"9b6fe8cca2d1de9a68cba088af231145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840814499
+        }
+    ],
+    "wof:id":840814499,
+    "wof:lastmodified":1464048594,
+    "wof:name":"Neil Burns Construction",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.282635,
+    37.736631,
+    -84.282635,
+    37.736631
+],
+  "geometry": {"coordinates":[-84.282635,37.736631],"type":"Point"}
+}

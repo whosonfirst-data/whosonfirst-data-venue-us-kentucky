@@ -1,0 +1,80 @@
+{
+  "id": 840839295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.475737,36.9712,-86.475737,36.9712",
+    "geom:latitude":36.9712,
+    "geom:longitude":-86.475737,
+    "iso:country":"US",
+    "sg:address":"224 Emmett Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 6892",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "automotive",
+        "cover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tw3hCeWiguLeQ0NuG0qFF_36.971200_-86.475737@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049196,
+    "wof:geomhash":"b6a263d83e19b9b88133e63e6c1733dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840839295
+        }
+    ],
+    "wof:id":840839295,
+    "wof:lastmodified":1464049196,
+    "wof:name":"Epley's Touch Of Classic",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automotive",
+        "cover"
+    ]
+},
+  "bbox": [
+    -86.475737,
+    36.9712,
+    -86.475737,
+    36.9712
+],
+  "geometry": {"coordinates":[-86.475737,36.9712],"type":"Point"}
+}

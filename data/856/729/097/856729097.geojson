@@ -1,0 +1,78 @@
+{
+  "id": 856729097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709582,38.172371,-85.709582,38.172371",
+    "geom:latitude":38.172371,
+    "geom:longitude":-85.709582,
+    "iso:country":"US",
+    "sg:address":"1204 Vim Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 272 0334",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "brake"
+    ],
+    "sg:website":"http://www.yext.com/p/superpages/mills-automotive-louisville-kentucky.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eOs3nqyfgv8cHPvWHdbml_38.172593_-85.709049@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052970,
+    "wof:geomhash":"57ebba50c3dc159208776a787584010b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856729097
+        }
+    ],
+    "wof:id":856729097,
+    "wof:lastmodified":1464052970,
+    "wof:name":"Mills Automotive",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.709582,
+    38.172371,
+    -85.709582,
+    38.172371
+],
+  "geometry": {"coordinates":[-85.709582,38.172371],"type":"Point"}
+}

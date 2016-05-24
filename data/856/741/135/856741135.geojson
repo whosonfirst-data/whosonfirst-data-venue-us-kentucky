@@ -1,0 +1,73 @@
+{
+  "id": 856741135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.710497,38.232651,-85.710497,38.232651",
+    "geom:latitude":38.232651,
+    "geom:longitude":-85.710497,
+    "iso:country":"US",
+    "sg:address":"1436 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 3937",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ouSu7dHevCmKXQvk0GB4R_38.232651_-85.710497@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053428,
+    "wof:geomhash":"af51b3242e857dc498495258e62b2db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856741135
+        }
+    ],
+    "wof:id":856741135,
+    "wof:lastmodified":1464053428,
+    "wof:name":"Kaleidoscope Hair Salon",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.710497,
+    38.232651,
+    -85.710497,
+    38.232651
+],
+  "geometry": {"coordinates":[-85.710497,38.232651],"type":"Point"}
+}

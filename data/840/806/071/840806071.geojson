@@ -1,0 +1,71 @@
+{
+  "id": 840806071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.695161,37.998804,-85.695161,37.998804",
+    "geom:latitude":37.998804,
+    "geom:longitude":-85.695161,
+    "iso:country":"US",
+    "sg:address":"1566 State Hwy 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 3607",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bdOvXmsFiAojxmjQV47DP_37.998804_-85.695161@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048319,
+    "wof:geomhash":"6ba3ed62027640830e4ff59078a26273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840806071
+        }
+    ],
+    "wof:id":840806071,
+    "wof:lastmodified":1464048319,
+    "wof:name":"Pic Pac Iga Of Shepherdsville",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.695161,
+    37.998804,
+    -85.695161,
+    37.998804
+],
+  "geometry": {"coordinates":[-85.695161,37.998804],"type":"Point"}
+}

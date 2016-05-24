@@ -1,0 +1,72 @@
+{
+  "id": 856723287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435518,37.000758,-86.435518,37.000758",
+    "geom:latitude":37.000758,
+    "geom:longitude":-86.435518,
+    "iso:country":"US",
+    "sg:address":"210 E 3rd Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8003",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "magazine"
+    ],
+    "sg:website":"www.andersonnews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63vboMaC7FBr1cUXtThtF0_37.000758_-86.435518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052721,
+    "wof:geomhash":"b5e653736cc75de96f7efcb36b8feb1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856723287
+        }
+    ],
+    "wof:id":856723287,
+    "wof:lastmodified":1464052721,
+    "wof:name":"Anderson News Co",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine"
+    ]
+},
+  "bbox": [
+    -86.435518,
+    37.000758,
+    -86.435518,
+    37.000758
+],
+  "geometry": {"coordinates":[-86.435518,37.000758],"type":"Point"}
+}

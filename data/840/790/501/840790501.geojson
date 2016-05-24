@@ -1,0 +1,73 @@
+{
+  "id": 840790501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636214,37.081309,-88.636214,37.081309",
+    "geom:latitude":37.081309,
+    "geom:longitude":-88.636214,
+    "iso:country":"US",
+    "sg:address":"911 Joe Clifton Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6301",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HIHMuU1HA2DUmnw0NzAjo_37.081309_-88.636214@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047988,
+    "wof:geomhash":"ac0b47dd6d3b53adbaa8243f4c721ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840790501
+        }
+    ],
+    "wof:id":840790501,
+    "wof:lastmodified":1464047988,
+    "wof:name":"Grocery Supply Co",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -88.636214,
+    37.081309,
+    -88.636214,
+    37.081309
+],
+  "geometry": {"coordinates":[-88.636214,37.081309],"type":"Point"}
+}

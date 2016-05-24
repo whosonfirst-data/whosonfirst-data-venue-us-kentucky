@@ -1,0 +1,66 @@
+{
+  "id": 856721413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88558,37.731391,-85.88558,37.731391",
+    "geom:latitude":37.731391,
+    "geom:longitude":-85.88558,
+    "iso:country":"US",
+    "sg:address":"1705 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 9605",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bsZpLIoMAItBB1xDAHv6N_37.731391_-85.885580@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052654,
+    "wof:geomhash":"010b9d9688f9e27a1d4bc90c11e5523a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856721413
+        }
+    ],
+    "wof:id":856721413,
+    "wof:lastmodified":1464052654,
+    "wof:name":"Starlite Coin Laundry",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.88558,
+    37.731391,
+    -85.88558,
+    37.731391
+],
+  "geometry": {"coordinates":[-85.88558,37.731391],"type":"Point"}
+}

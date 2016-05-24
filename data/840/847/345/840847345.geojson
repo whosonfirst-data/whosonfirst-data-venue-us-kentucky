@@ -1,0 +1,73 @@
+{
+  "id": 840847345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.746884,38.249554,-85.746884,38.249554",
+    "geom:latitude":38.249554,
+    "geom:longitude":-85.746884,
+    "iso:country":"US",
+    "sg:address":"500 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 852 5555",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qu9EHE8QNMoOKNESaebYq_38.249554_-85.746884@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049386,
+    "wof:geomhash":"ee1268fdaee36011dc7b10a8201b1d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":840847345
+        }
+    ],
+    "wof:id":840847345,
+    "wof:lastmodified":1464049386,
+    "wof:name":"City Cafe//Health Sciences Ctr",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -85.746884,
+    38.249554,
+    -85.746884,
+    38.249554
+],
+  "geometry": {"coordinates":[-85.74688399999999,38.249554],"type":"Point"}
+}

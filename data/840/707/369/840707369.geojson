@@ -1,0 +1,71 @@
+{
+  "id": 840707369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.70421,37.672987,-84.70421,37.672987",
+    "geom:latitude":37.672987,
+    "geom:longitude":-84.70421,
+    "iso:country":"US",
+    "sg:address":"5411 Lexington Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 8558",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ABZowGN7Y4c8K075RHwQZ_37.672987_-84.704210@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046252,
+    "wof:geomhash":"8ed5ebc18b161b54e934ba1c241f30e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840707369
+        }
+    ],
+    "wof:id":840707369,
+    "wof:lastmodified":1464046252,
+    "wof:name":"Delk & Associates",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.70421,
+    37.672987,
+    -84.70421,
+    37.672987
+],
+  "geometry": {"coordinates":[-84.70421,37.672987],"type":"Point"}
+}

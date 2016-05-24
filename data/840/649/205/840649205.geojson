@@ -1,0 +1,73 @@
+{
+  "id": 840649205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78453,38.250458,-85.78453,38.250458",
+    "geom:latitude":38.250458,
+    "geom:longitude":-85.78453,
+    "iso:country":"US",
+    "sg:address":"1942 Magazine St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 7173",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ch5h13jZFk5UFxc3a619p_38.250458_-85.784530@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044866,
+    "wof:geomhash":"1473ac6b1dbfed0537db87029d37f8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840649205
+        }
+    ],
+    "wof:id":840649205,
+    "wof:lastmodified":1464044866,
+    "wof:name":"Magazine Street Seventh Day",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.78453,
+    38.250458,
+    -85.78453,
+    38.250458
+],
+  "geometry": {"coordinates":[-85.78453,38.250458],"type":"Point"}
+}

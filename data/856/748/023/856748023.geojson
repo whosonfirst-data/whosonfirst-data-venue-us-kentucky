@@ -1,0 +1,91 @@
+{
+  "id": 856748023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.594156,38.253361,-85.594156,38.253361",
+    "geom:latitude":38.253361,
+    "geom:longitude":-85.594156,
+    "iso:country":"US",
+    "sg:address":"8617 Whipps Mill Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 1636",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "god",
+        "churches-pentecostal-independent",
+        "god-independent",
+        "churches-assemblies",
+        "churches-pentecostal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b5zEsOEkghCSQUEKOavnN_38.253361_-85.594156@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053677,
+    "wof:geomhash":"450c4ce05d55c68895063f6170fb8f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748023
+        }
+    ],
+    "wof:id":856748023,
+    "wof:lastmodified":1464053677,
+    "wof:name":"Assembly Of God Trinity Chapel",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "god",
+        "churches-pentecostal-independent",
+        "god-independent",
+        "churches-assemblies",
+        "churches-pentecostal"
+    ]
+},
+  "bbox": [
+    -85.594156,
+    38.253361,
+    -85.594156,
+    38.253361
+],
+  "geometry": {"coordinates":[-85.594156,38.253361],"type":"Point"}
+}

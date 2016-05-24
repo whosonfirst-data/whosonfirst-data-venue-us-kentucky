@@ -1,0 +1,71 @@
+{
+  "id": 840760211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.584926,37.86981,-84.584926,37.86981",
+    "geom:latitude":37.86981,
+    "geom:longitude":-84.584926,
+    "iso:country":"US",
+    "sg:address":"311 Edgewood Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3361",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DVIE4G71KwqxGa1mdy211_37.869810_-84.584926@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047347,
+    "wof:geomhash":"437ab2761e8131f074265e39f244590b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840760211
+        }
+    ],
+    "wof:id":840760211,
+    "wof:lastmodified":1464047347,
+    "wof:name":"Social Insurance Programs",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -84.584926,
+    37.86981,
+    -84.584926,
+    37.86981
+],
+  "geometry": {"coordinates":[-84.584926,37.86981],"type":"Point"}
+}

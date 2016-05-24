@@ -1,0 +1,71 @@
+{
+  "id": 856691967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.655665,37.86482,-84.655665,37.86482",
+    "geom:latitude":37.86482,
+    "geom:longitude":-84.655665,
+    "iso:country":"US",
+    "sg:address":"309 E Morrison St",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 9984",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "development",
+        "clinical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z8vgk8EAenQfqi1tcZvzf_37.864820_-84.655665@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051906,
+    "wof:geomhash":"ec510e039134b1840840958021529ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856691967
+        }
+    ],
+    "wof:id":856691967,
+    "wof:lastmodified":1464051906,
+    "wof:name":"Pharmaceutical Research Assoc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "clinical"
+    ]
+},
+  "bbox": [
+    -84.655665,
+    37.86482,
+    -84.655665,
+    37.86482
+],
+  "geometry": {"coordinates":[-84.655665,37.86482],"type":"Point"}
+}

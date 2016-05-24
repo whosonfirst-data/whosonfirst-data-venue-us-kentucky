@@ -1,0 +1,74 @@
+{
+  "id": 856737409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.708958,38.157058,-85.708958,38.157058",
+    "geom:latitude":38.157058,
+    "geom:longitude":-85.708958,
+    "iso:country":"US",
+    "sg:address":"3347 Fern Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/136338-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 8090",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3owBV6PuQm7OQ5SFUAYuX7_38.157088_-85.709429@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053280,
+    "wof:geomhash":"4b30c4e76dbd2cae13e891c9818170a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856737409
+        }
+    ],
+    "wof:id":856737409,
+    "wof:lastmodified":1464053280,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.708958,
+    38.157058,
+    -85.708958,
+    38.157058
+],
+  "geometry": {"coordinates":[-85.708958,38.157058],"type":"Point"}
+}

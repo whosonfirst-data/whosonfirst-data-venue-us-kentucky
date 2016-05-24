@@ -1,0 +1,68 @@
+{
+  "id": 840846883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740223,38.210953,-85.740223,38.210953",
+    "geom:latitude":38.210953,
+    "geom:longitude":-85.740223,
+    "iso:country":"US",
+    "sg:address":"2703 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 4402",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCgzzm5t7oUp1SB13Zotq_38.210953_-85.740223@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049371,
+    "wof:geomhash":"216e86e87464f5a68b5a87ec643bccb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":840846883
+        }
+    ],
+    "wof:id":840846883,
+    "wof:lastmodified":1464049371,
+    "wof:name":"Dairy Mart",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.740223,
+    38.210953,
+    -85.740223,
+    38.210953
+],
+  "geometry": {"coordinates":[-85.740223,38.210953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840832157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.547159,38.187945,-85.547159,38.187945",
+    "geom:latitude":38.187945,
+    "geom:longitude":-85.547159,
+    "iso:country":"US",
+    "sg:address":"4103 Rivulet Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 5222",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3id0g7wAUEjwHjsiIdAJFV_38.187945_-85.547159@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049046,
+    "wof:geomhash":"99af9368db0e592500193595cfd0435c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840832157
+        }
+    ],
+    "wof:id":840832157,
+    "wof:lastmodified":1464049046,
+    "wof:name":"Dan Brumback Painting Inc",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.547159,
+    38.187945,
+    -85.547159,
+    38.187945
+],
+  "geometry": {"coordinates":[-85.54715899999999,38.187945],"type":"Point"}
+}

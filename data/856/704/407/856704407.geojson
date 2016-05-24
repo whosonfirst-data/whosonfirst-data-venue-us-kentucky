@@ -1,0 +1,84 @@
+{
+  "id": 856704407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.782412,37.645224,-84.782412,37.645224",
+    "geom:latitude":37.645224,
+    "geom:longitude":-84.782412,
+    "iso:country":"US",
+    "sg:address":"600 W Walnut St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 5200",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.centre.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PVqNnwUR7FGIOlKkWfo6v_37.645224_-84.782412@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052158,
+    "wof:geomhash":"4fcfd600edc4819d512835a9b22a4942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":856704407
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856704407
+        }
+    ],
+    "wof:id":856704407,
+    "wof:lastmodified":1464052158,
+    "wof:name":"Centre College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -84.782412,
+    37.645224,
+    -84.782412,
+    37.645224
+],
+  "geometry": {"coordinates":[-84.78241199999999,37.645224],"type":"Point"}
+}

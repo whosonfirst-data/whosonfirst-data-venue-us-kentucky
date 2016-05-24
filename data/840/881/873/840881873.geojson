@@ -1,0 +1,69 @@
+{
+  "id": 840881873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.577814,37.868084,-84.577814,37.868084",
+    "geom:latitude":37.868084,
+    "geom:longitude":-84.577814,
+    "iso:country":"US",
+    "sg:address":"105 E Edgewood Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2431",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H2nAuXZrpGNJQFNs62gzx_37.868084_-84.577814@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050110,
+    "wof:geomhash":"6db43e9631e76968b0bce800cbe1eae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840881873
+        }
+    ],
+    "wof:id":840881873,
+    "wof:lastmodified":1464050110,
+    "wof:name":"David M Skaff DDS",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.577814,
+    37.868084,
+    -84.577814,
+    37.868084
+],
+  "geometry": {"coordinates":[-84.577814,37.868084],"type":"Point"}
+}

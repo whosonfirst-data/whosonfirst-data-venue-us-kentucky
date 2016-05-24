@@ -1,0 +1,66 @@
+{
+  "id": 856715235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.697469,38.021428,-85.697469,38.021428",
+    "geom:latitude":38.021428,
+    "geom:longitude":-85.697469,
+    "iso:country":"US",
+    "sg:address":"1679 N Preston Hwy",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 0476",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hVU3CB2fRzOtS5dfVoG7K_38.021428_-85.697469@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052400,
+    "wof:geomhash":"06e7734a3b653e15933bb2ab04ef2026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856715235
+        }
+    ],
+    "wof:id":856715235,
+    "wof:lastmodified":1464052400,
+    "wof:name":"Hillview Coin Laundry",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.697469,
+    38.021428,
+    -85.697469,
+    38.021428
+],
+  "geometry": {"coordinates":[-85.697469,38.021428],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840606729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62504,37.040289,-84.62504,37.040289",
+    "geom:latitude":37.040289,
+    "geom:longitude":-84.62504,
+    "iso:country":"US",
+    "sg:address":"112 Southport Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 0201",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EpKSQTcZwSJLseF0u2fR7_37.040289_-84.625040@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043819,
+    "wof:geomhash":"37e02cb32969e7c03c197cc6fa7efe0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840606729
+        }
+    ],
+    "wof:id":840606729,
+    "wof:lastmodified":1464043819,
+    "wof:name":"Renaissance Medical",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "group"
+    ]
+},
+  "bbox": [
+    -84.62504,
+    37.040289,
+    -84.62504,
+    37.040289
+],
+  "geometry": {"coordinates":[-84.62504,37.040289],"type":"Point"}
+}

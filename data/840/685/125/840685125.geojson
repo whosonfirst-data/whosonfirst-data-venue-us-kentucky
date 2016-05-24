@@ -1,0 +1,71 @@
+{
+  "id": 840685125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.584694,37.042604,-88.584694,37.042604",
+    "geom:latitude":37.042604,
+    "geom:longitude":-88.584694,
+    "iso:country":"US",
+    "sg:address":"1500 Husband Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6444",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aNxQ4Hbek0VpKBiynhM29_37.042604_-88.584694@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045688,
+    "wof:geomhash":"aaa1522a6b8bb8e04b27d7f43595bbe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840685125
+        }
+    ],
+    "wof:id":840685125,
+    "wof:lastmodified":1464045688,
+    "wof:name":"Highland Baptist Church",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.584694,
+    37.042604,
+    -88.584694,
+    37.042604
+],
+  "geometry": {"coordinates":[-88.584694,37.042604],"type":"Point"}
+}

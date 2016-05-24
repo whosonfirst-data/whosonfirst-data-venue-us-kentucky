@@ -1,0 +1,71 @@
+{
+  "id": 840760833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.909836,37.173483,-85.909836,37.173483",
+    "geom:latitude":37.173483,
+    "geom:longitude":-85.909836,
+    "iso:country":"US",
+    "sg:address":"570 S Dixie St",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 2676",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EHGF1sPdQ5L3jMpUh0FiJ_37.173483_-85.909836@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047362,
+    "wof:geomhash":"af190d80ee9969052df25ddb18b7e4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840760833
+        }
+    ],
+    "wof:id":840760833,
+    "wof:lastmodified":1464047362,
+    "wof:name":"Hart County News Herald",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -85.909836,
+    37.173483,
+    -85.909836,
+    37.173483
+],
+  "geometry": {"coordinates":[-85.909836,37.173483],"type":"Point"}
+}

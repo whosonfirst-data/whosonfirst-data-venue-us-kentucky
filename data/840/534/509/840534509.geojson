@@ -1,0 +1,68 @@
+{
+  "id": 840534509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754431,38.226453,-85.754431,38.226453",
+    "geom:latitude":38.226453,
+    "geom:longitude":-85.754431,
+    "iso:country":"US",
+    "sg:address":"208 E Burnett Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 9221",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FZhRUqjzAgLWPKhSd7779_38.226453_-85.754431@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042085,
+    "wof:geomhash":"f7af88b7da0463f921263ad0a0667b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866959,
+            "region_id":85688641,
+            "venue_id":840534509
+        }
+    ],
+    "wof:id":840534509,
+    "wof:lastmodified":1464042085,
+    "wof:name":"Woody's Tavern",
+    "wof:parent_id":85866959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.754431,
+    38.226453,
+    -85.754431,
+    38.226453
+],
+  "geometry": {"coordinates":[-85.754431,38.226453],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840654723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.767827,38.892654,-84.767827,38.892654",
+    "geom:latitude":38.892654,
+    "geom:longitude":-84.767827,
+    "iso:country":"US",
+    "sg:address":"3724 Beaver Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 384 7500",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dSljEI5P7eVJkaNFhsAaS_38.892654_-84.767827@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044997,
+    "wof:geomhash":"d10476c26123c441b2c3e64fc9daa360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840654723
+        }
+    ],
+    "wof:id":840654723,
+    "wof:lastmodified":1464044997,
+    "wof:name":"Advanced Electrical Svc",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.767827,
+    38.892654,
+    -84.767827,
+    38.892654
+],
+  "geometry": {"coordinates":[-84.767827,38.892654],"type":"Point"}
+}

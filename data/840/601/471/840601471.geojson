@@ -1,0 +1,74 @@
+{
+  "id": 840601471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342526,37.026656,-86.342526,37.026656",
+    "geom:latitude":37.026656,
+    "geom:longitude":-86.342526,
+    "iso:country":"US",
+    "sg:address":"550 Kelly Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 5698",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.br-electrical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09p9Oui19rW0Fi5JvLwmI5_37.026656_-86.342526@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043690,
+    "wof:geomhash":"d231ef387993d302772200ee81114ecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840601471
+        }
+    ],
+    "wof:id":840601471,
+    "wof:lastmodified":1464043690,
+    "wof:name":"B & R Electrical Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.342526,
+    37.026656,
+    -86.342526,
+    37.026656
+],
+  "geometry": {"coordinates":[-86.34252600000001,37.026656],"type":"Point"}
+}

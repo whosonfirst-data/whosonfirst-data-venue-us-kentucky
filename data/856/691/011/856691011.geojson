@@ -1,0 +1,68 @@
+{
+  "id": 856691011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.739235,38.222803,-85.739235,38.222803",
+    "geom:latitude":38.222803,
+    "geom:longitude":-85.739235,
+    "iso:country":"US",
+    "sg:address":"1016 E Burnett Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 1831",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gXveyoPhCl7M91LiQlKMM_38.222803_-85.739235@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051889,
+    "wof:geomhash":"58a82c1d95ae5d578604444931d5c4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873427,
+            "region_id":85688641,
+            "venue_id":856691011
+        }
+    ],
+    "wof:id":856691011,
+    "wof:lastmodified":1464051889,
+    "wof:name":"St Rose Catholic School",
+    "wof:parent_id":85873427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.739235,
+    38.222803,
+    -85.739235,
+    38.222803
+],
+  "geometry": {"coordinates":[-85.73923499999999,38.222803],"type":"Point"}
+}

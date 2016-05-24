@@ -1,0 +1,75 @@
+{
+  "id": 840903555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.624178,38.199356,-85.624178,38.199356",
+    "geom:latitude":38.199356,
+    "geom:longitude":-85.624178,
+    "iso:country":"US",
+    "sg:address":"3441 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 6280",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nkxSkSYbG9qoCshpMPFMb_38.199356_-85.624178@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050568,
+    "wof:geomhash":"e73c610bd14af774989cb4b52763202d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840903555
+        }
+    ],
+    "wof:id":840903555,
+    "wof:lastmodified":1464050568,
+    "wof:name":"Breckenridge Plaza Bingo Hall",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "game"
+    ]
+},
+  "bbox": [
+    -85.624178,
+    38.199356,
+    -85.624178,
+    38.199356
+],
+  "geometry": {"coordinates":[-85.624178,38.199356],"type":"Point"}
+}

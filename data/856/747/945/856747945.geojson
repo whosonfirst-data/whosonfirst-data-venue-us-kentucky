@@ -1,0 +1,110 @@
+{
+  "id": 856747945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.615387,38.250649,-85.615387,38.250649",
+    "geom:latitude":38.250649,
+    "geom:longitude":-85.615387,
+    "iso:country":"US",
+    "sg:address":"7331 New la Grange Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 1000",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard",
+        "facility",
+        "hall",
+        "decoration",
+        "planning",
+        "reception",
+        "banquet",
+        "store",
+        "tent"
+    ],
+    "sg:website":"http://www.reliablerentall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sf6lo1OkbXldRHU4blf4O_38.250649_-85.615387@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053674,
+    "wof:geomhash":"36f6f660c8f6a8049ae6e1eacbf5eefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856747945
+        }
+    ],
+    "wof:id":856747945,
+    "wof:lastmodified":1464053674,
+    "wof:name":"Reliable Rentals",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "facility",
+        "hall",
+        "decoration",
+        "planning",
+        "reception",
+        "banquet",
+        "store",
+        "tent"
+    ]
+},
+  "bbox": [
+    -85.615387,
+    38.250649,
+    -85.615387,
+    38.250649
+],
+  "geometry": {"coordinates":[-85.615387,38.250649],"type":"Point"}
+}

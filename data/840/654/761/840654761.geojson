@@ -1,0 +1,73 @@
+{
+  "id": 840654761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.60552,37.094273,-84.60552,37.094273",
+    "geom:latitude":37.094273,
+    "geom:longitude":-84.60552,
+    "iso:country":"US",
+    "sg:address":"122 N Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 5560",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtKabG4tETWjC6QNOUFvk_37.094273_-84.605520@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044997,
+    "wof:geomhash":"44a4c6edf6a605eb2348f3163bfb5526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840654761
+        }
+    ],
+    "wof:id":840654761,
+    "wof:lastmodified":1464044997,
+    "wof:name":"Tax Masters",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -84.60552,
+    37.094273,
+    -84.60552,
+    37.094273
+],
+  "geometry": {"coordinates":[-84.60552,37.094273],"type":"Point"}
+}

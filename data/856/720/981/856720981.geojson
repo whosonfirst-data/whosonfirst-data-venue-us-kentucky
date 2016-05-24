@@ -1,0 +1,71 @@
+{
+  "id": 856720981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.538605,37.504736,-82.538605,37.504736",
+    "geom:latitude":37.504736,
+    "geom:longitude":-82.538605,
+    "iso:country":"US",
+    "sg:address":"276 Cassidy Blvd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 0205",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nOYxV8K24yC8A6fwAwx0n_37.504736_-82.538605@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052632,
+    "wof:geomhash":"5479e283ea57b1561a94f1461b9bc1e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856720981
+        }
+    ],
+    "wof:id":856720981,
+    "wof:lastmodified":1464052632,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.538605,
+    37.504736,
+    -82.538605,
+    37.504736
+],
+  "geometry": {"coordinates":[-82.538605,37.504736],"type":"Point"}
+}

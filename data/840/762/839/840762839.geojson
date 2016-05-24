@@ -1,0 +1,71 @@
+{
+  "id": 840762839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578908,37.865783,-84.578908,37.865783",
+    "geom:latitude":37.865783,
+    "geom:longitude":-84.578908,
+    "iso:country":"US",
+    "sg:address":"961 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2886",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3akddmawutOimSpvNlCmfn_37.865783_-84.578908@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047404,
+    "wof:geomhash":"56b93201c67490ebde7a85c9b5f643c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840762839
+        }
+    ],
+    "wof:id":840762839,
+    "wof:lastmodified":1464047404,
+    "wof:name":"Quick Cash",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -84.578908,
+    37.865783,
+    -84.578908,
+    37.865783
+],
+  "geometry": {"coordinates":[-84.578908,37.865783],"type":"Point"}
+}

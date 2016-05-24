@@ -1,0 +1,71 @@
+{
+  "id": 840588547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.387702,36.827206,-86.387702,36.827206",
+    "geom:latitude":36.827206,
+    "geom:longitude":-86.387702,
+    "iso:country":"US",
+    "sg:address":"425 Antioch Church Rd",
+    "sg:city":"Alvaton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 0150",
+    "sg:postcode":"42122",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rXl9fptUMwBUhNLyyPgXX_36.827206_-86.387702@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043392,
+    "wof:geomhash":"831b07dd829941ac1b2e235999bfbb58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840588547
+        }
+    ],
+    "wof:id":840588547,
+    "wof:lastmodified":1464043392,
+    "wof:name":"Antioch Construction",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.387702,
+    36.827206,
+    -86.387702,
+    36.827206
+],
+  "geometry": {"coordinates":[-86.387702,36.827206],"type":"Point"}
+}

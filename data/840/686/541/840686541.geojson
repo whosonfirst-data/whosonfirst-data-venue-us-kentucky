@@ -1,0 +1,73 @@
+{
+  "id": 840686541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.74841,38.121874,-85.74841,38.121874",
+    "geom:latitude":38.121874,
+    "geom:longitude":-85.74841,
+    "iso:country":"US",
+    "sg:address":"8704 National Tpke",
+    "sg:city":"Fairdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 4352",
+    "sg:postcode":"40118",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nhLte7tIlL78JR9LdPcCZ_38.121874_-85.748410@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045737,
+    "wof:geomhash":"760e87e59e363592289f11b055120229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840686541
+        }
+    ],
+    "wof:id":840686541,
+    "wof:lastmodified":1464045737,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.74841,
+    38.121874,
+    -85.74841,
+    38.121874
+],
+  "geometry": {"coordinates":[-85.74841000000001,38.121874],"type":"Point"}
+}

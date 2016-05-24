@@ -1,0 +1,92 @@
+{
+  "id": 856744561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.699668,38.181283,-85.699668,38.181283",
+    "geom:latitude":38.181283,
+    "geom:longitude":-85.699668,
+    "iso:country":"US",
+    "sg:address":"3310 Gilmore Industrial Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 3655",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "tools-renting",
+        "yard",
+        "saw",
+        "store"
+    ],
+    "sg:website":"http://www.amestools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NUcDhpzY40sOaGqCAMA7k_38.181283_-85.699668@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053549,
+    "wof:geomhash":"61d687a7e764d4f15f97e577b7ae7e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744561
+        }
+    ],
+    "wof:id":856744561,
+    "wof:lastmodified":1464053549,
+    "wof:name":"Ames Taping Tool Systems, Inc.",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "tools-renting",
+        "yard",
+        "saw",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.699668,
+    38.181283,
+    -85.699668,
+    38.181283
+],
+  "geometry": {"coordinates":[-85.699668,38.181283],"type":"Point"}
+}

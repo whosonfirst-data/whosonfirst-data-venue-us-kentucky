@@ -1,0 +1,74 @@
+{
+  "id": 840550143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.748161,38.242444,-85.748161,38.242444",
+    "geom:latitude":38.242444,
+    "geom:longitude":-85.748161,
+    "iso:country":"US",
+    "sg:address":"308 E College St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 5226",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brake"
+    ],
+    "sg:website":"www.acbrake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jMFLxDOTCP44SBWX3KgTF_38.242444_-85.748161@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042511,
+    "wof:geomhash":"584947f823ea5437d0ec6426119ef005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873403,
+            "region_id":85688641,
+            "venue_id":840550143
+        }
+    ],
+    "wof:id":840550143,
+    "wof:lastmodified":1464042511,
+    "wof:name":"A C Brake Co Inc",
+    "wof:parent_id":85873403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.748161,
+    38.242444,
+    -85.748161,
+    38.242444
+],
+  "geometry": {"coordinates":[-85.748161,38.242444],"type":"Point"}
+}

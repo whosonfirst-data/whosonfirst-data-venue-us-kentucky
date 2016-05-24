@@ -1,0 +1,67 @@
+{
+  "id": 840655127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740314,36.603928,-83.740314,36.603928",
+    "geom:latitude":36.603928,
+    "geom:longitude":-83.740314,
+    "iso:country":"US",
+    "sg:address":"312 W Chester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 242 2023",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:website":"www.rosenbalmrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hd0bPDOo9REguRnABkGuY_36.603928_-83.740314@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045007,
+    "wof:geomhash":"c1171560ea9449f713d427453945d0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840655127
+        }
+    ],
+    "wof:id":840655127,
+    "wof:lastmodified":1464045007,
+    "wof:name":"Rosenbalm Real Estate",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.740314,
+    36.603928,
+    -83.740314,
+    36.603928
+],
+  "geometry": {"coordinates":[-83.740314,36.603928],"type":"Point"}
+}

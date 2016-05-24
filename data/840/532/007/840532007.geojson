@@ -1,0 +1,73 @@
+{
+  "id": 840532007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.350776,37.736206,-84.350776,37.736206",
+    "geom:latitude":37.736206,
+    "geom:longitude":-84.350776,
+    "iso:country":"US",
+    "sg:address":"1307 Travis Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 6750",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tUfsPxzerRq25t6mffg9O_37.736206_-84.350776@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042026,
+    "wof:geomhash":"ed8eaabdee4be5baf27cf451678adb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840532007
+        }
+    ],
+    "wof:id":840532007,
+    "wof:lastmodified":1464042026,
+    "wof:name":"Action Discount Tent Rental",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -84.350776,
+    37.736206,
+    -84.350776,
+    37.736206
+],
+  "geometry": {"coordinates":[-84.350776,37.736206],"type":"Point"}
+}

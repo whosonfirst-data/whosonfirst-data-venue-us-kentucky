@@ -1,0 +1,72 @@
+{
+  "id": 840821807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.623433,37.075215,-88.623433,37.075215",
+    "geom:latitude":37.075215,
+    "geom:longitude":-88.623433,
+    "iso:country":"US",
+    "sg:address":"2301 Kentucky Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7466",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.labcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SexVc7YgAZlfaIssT03wn_37.075215_-88.623433@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048804,
+    "wof:geomhash":"6b9d0976ed895098ac92ad14e176284a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840821807
+        }
+    ],
+    "wof:id":840821807,
+    "wof:lastmodified":1464048804,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.623433,
+    37.075215,
+    -88.623433,
+    37.075215
+],
+  "geometry": {"coordinates":[-88.62343300000001,37.075215],"type":"Point"}
+}

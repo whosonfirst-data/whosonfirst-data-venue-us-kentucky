@@ -1,0 +1,71 @@
+{
+  "id": 840828979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.697763,37.02549,-88.697763,37.02549",
+    "geom:latitude":37.02549,
+    "geom:longitude":-88.697763,
+    "iso:country":"US",
+    "sg:address":"100 Colony Dr",
+    "sg:city":"Barlow",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 334 3148",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wq2FdGL227IADDKUzFqk3_37.025490_-88.697763@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048981,
+    "wof:geomhash":"fa5c602d8b42c87610a44499032d353c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840828979
+        }
+    ],
+    "wof:id":840828979,
+    "wof:lastmodified":1464048981,
+    "wof:name":"Colony House Apartments",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.697763,
+    37.02549,
+    -88.697763,
+    37.02549
+],
+  "geometry": {"coordinates":[-88.69776299999999,37.02549],"type":"Point"}
+}

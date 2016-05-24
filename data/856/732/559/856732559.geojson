@@ -1,0 +1,76 @@
+{
+  "id": 856732559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.783029,38.267416,-85.783029,38.267416",
+    "geom:latitude":38.267416,
+    "geom:longitude":-85.783029,
+    "iso:country":"US",
+    "sg:address":"520 N 22nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-west/186874-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 5454",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PX5P6UtTAtYFektC0T9vk_38.267416_-85.783029@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053094,
+    "wof:geomhash":"d742e8f9cad227d9ab8c2a7232763e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":856732559
+        }
+    ],
+    "wof:id":856732559,
+    "wof:lastmodified":1464053094,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.783029,
+    38.267416,
+    -85.783029,
+    38.267416
+],
+  "geometry": {"coordinates":[-85.783029,38.267416],"type":"Point"}
+}

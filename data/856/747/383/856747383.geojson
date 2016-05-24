@@ -1,0 +1,85 @@
+{
+  "id": 856747383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627524,38.214342,-85.627524,38.214342",
+    "geom:latitude":38.214342,
+    "geom:longitude":-85.627524,
+    "iso:country":"US",
+    "sg:address":"3046 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 493 2017",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "web",
+        "product",
+        "design",
+        "site"
+    ],
+    "sg:website":"http://dottrend.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Td6ccvi8iTUx1a9k65VjL_38.214342_-85.627524@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053654,
+    "wof:geomhash":"e456fc11db98ad9d56a443caccf1a178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747383
+        }
+    ],
+    "wof:id":856747383,
+    "wof:lastmodified":1464053654,
+    "wof:name":"DotTrend",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "product",
+        "design",
+        "site"
+    ]
+},
+  "bbox": [
+    -85.627524,
+    38.214342,
+    -85.627524,
+    38.214342
+],
+  "geometry": {"coordinates":[-85.62752399999999,38.214342],"type":"Point"}
+}

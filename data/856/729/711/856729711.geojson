@@ -1,0 +1,69 @@
+{
+  "id": 856729711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751947,38.253889,-85.751947,38.253889",
+    "geom:latitude":38.253889,
+    "geom:longitude":-85.751947,
+    "iso:country":"US",
+    "sg:address":"222 S 1st St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 562 9220",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:website":"http://www.architecturalinvestments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49t7JGOTbazl88eyDzuxut_38.253320_-85.752121@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052991,
+    "wof:geomhash":"51f0d8c823e02dd25ec99230e39953d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856729711
+        }
+    ],
+    "wof:id":856729711,
+    "wof:lastmodified":1464052991,
+    "wof:name":"Architectural Investments",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.751947,
+    38.253889,
+    -85.751947,
+    38.253889
+],
+  "geometry": {"coordinates":[-85.751947,38.253889],"type":"Point"}
+}

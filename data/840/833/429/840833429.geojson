@@ -1,0 +1,73 @@
+{
+  "id": 840833429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844544,37.705649,-85.844544,37.705649",
+    "geom:latitude":37.705649,
+    "geom:longitude":-85.844544,
+    "iso:country":"US",
+    "sg:address":"929 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 1767",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jTeA3aBXRTx7QB3jHgmUC_37.705649_-85.844544@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049072,
+    "wof:geomhash":"4e57dcf9d5d5337219bb77b5ca0751c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840833429
+        }
+    ],
+    "wof:id":840833429,
+    "wof:lastmodified":1464049072,
+    "wof:name":"All Star Car Wash",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.844544,
+    37.705649,
+    -85.844544,
+    37.705649
+],
+  "geometry": {"coordinates":[-85.844544,37.705649],"type":"Point"}
+}

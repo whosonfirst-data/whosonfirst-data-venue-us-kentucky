@@ -1,0 +1,71 @@
+{
+  "id": 840574141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.245778,38.2128,-85.245778,38.2128",
+    "geom:latitude":38.2128,
+    "geom:longitude":-85.245778,
+    "iso:country":"US",
+    "sg:address":"1744 Midland Trl",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 647 9195",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZC7pBkogPELGLy6jLHC90_38.212800_-85.245778@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043086,
+    "wof:geomhash":"33164c14350d778be5e434039032caf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840574141
+        }
+    ],
+    "wof:id":840574141,
+    "wof:lastmodified":1464043086,
+    "wof:name":"Cash Express",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -85.245778,
+    38.2128,
+    -85.245778,
+    38.2128
+],
+  "geometry": {"coordinates":[-85.245778,38.2128],"type":"Point"}
+}

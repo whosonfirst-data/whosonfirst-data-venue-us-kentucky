@@ -1,0 +1,73 @@
+{
+  "id": 840705029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852394,37.71091,-85.852394,37.71091",
+    "geom:latitude":37.71091,
+    "geom:longitude":-85.852394,
+    "iso:country":"US",
+    "sg:address":"248 Vivian Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5156",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pt63W9wQyLCTV7adPg5WM_37.710910_-85.852394@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046203,
+    "wof:geomhash":"ab4fb8afe599dd10573c5c37077cb173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840705029
+        }
+    ],
+    "wof:id":840705029,
+    "wof:lastmodified":1464046203,
+    "wof:name":"G Buchanan",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -85.852394,
+    37.71091,
+    -85.852394,
+    37.71091
+],
+  "geometry": {"coordinates":[-85.852394,37.71091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840872325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.638466,37.172854,-84.638466,37.172854",
+    "geom:latitude":37.172854,
+    "geom:longitude":-84.638466,
+    "iso:country":"US",
+    "sg:address":"611 Stanford St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3971",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B56OnWn1QOV5sxaWz3tkt_37.172854_-84.638466@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049902,
+    "wof:geomhash":"0d3e2b595b65a344a72d671bf65af7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840872325
+        }
+    ],
+    "wof:id":840872325,
+    "wof:lastmodified":1464049902,
+    "wof:name":"A 1 Mobile Wash Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.638466,
+    37.172854,
+    -84.638466,
+    37.172854
+],
+  "geometry": {"coordinates":[-84.63846599999999,37.172854],"type":"Point"}
+}

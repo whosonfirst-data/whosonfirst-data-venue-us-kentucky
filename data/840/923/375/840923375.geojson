@@ -1,0 +1,71 @@
+{
+  "id": 840923375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44158,36.966456,-86.44158,36.966456",
+    "geom:latitude":36.966456,
+    "geom:longitude":-86.44158,
+    "iso:country":"US",
+    "sg:address":"1728 Rockingham Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 9265",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iVO58UQPqxPMdGysL9aBp_36.966456_-86.441580@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051089,
+    "wof:geomhash":"740751e63a9f652b388f0b780aa88d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840923375
+        }
+    ],
+    "wof:id":840923375,
+    "wof:lastmodified":1464051089,
+    "wof:name":"Bowling Green Radiation Onclgy",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.44158,
+    36.966456,
+    -86.44158,
+    36.966456
+],
+  "geometry": {"coordinates":[-86.44158,36.966456],"type":"Point"}
+}

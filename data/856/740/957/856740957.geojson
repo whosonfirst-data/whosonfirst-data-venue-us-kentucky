@@ -1,0 +1,124 @@
+{
+  "id": 856740957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.712965,38.234003,-85.712965,38.234003",
+    "geom:latitude":38.234003,
+    "geom:longitude":-85.712965,
+    "iso:country":"US",
+    "sg:address":"1355 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 9493",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cargo",
+        "fax",
+        "transparency",
+        "package",
+        "color",
+        "express",
+        "duplicating",
+        "shipping",
+        "mailbox-rental",
+        "air",
+        "copying",
+        "mail",
+        "print",
+        "notary",
+        "receiving",
+        "photographic"
+    ],
+    "sg:website":"http://www.upsstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J9wQd4WjaXeEIpNLmv88w_38.234003_-85.712965@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053422,
+    "wof:geomhash":"2526ab7ab8949010bbf3d28b5a4e6c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":856740957
+        }
+    ],
+    "wof:id":856740957,
+    "wof:lastmodified":1464053422,
+    "wof:name":"The UPS Store",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "fax",
+        "transparency",
+        "package",
+        "color",
+        "express",
+        "duplicating",
+        "shipping",
+        "mailbox-rental",
+        "air",
+        "copying",
+        "mail",
+        "print",
+        "notary",
+        "receiving",
+        "photographic"
+    ]
+},
+  "bbox": [
+    -85.712965,
+    38.234003,
+    -85.712965,
+    38.234003
+],
+  "geometry": {"coordinates":[-85.712965,38.234003],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840750821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.995243,36.92948,-85.995243,36.92948",
+    "geom:latitude":36.92948,
+    "geom:longitude":-85.995243,
+    "iso:country":"US",
+    "sg:address":"6551 Scottsville Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 646 5656",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V8BkrugzdjD5J1289aO8b_36.929480_-85.995243@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047126,
+    "wof:geomhash":"89999de3f4228c548b2ad7879fae7449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840750821
+        }
+    ],
+    "wof:id":840750821,
+    "wof:lastmodified":1464047126,
+    "wof:name":"Glasgow Cars & Parts",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.995243,
+    36.92948,
+    -85.995243,
+    36.92948
+],
+  "geometry": {"coordinates":[-85.995243,36.92948],"type":"Point"}
+}

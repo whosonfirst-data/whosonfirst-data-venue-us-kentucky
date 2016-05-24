@@ -1,0 +1,71 @@
+{
+  "id": 840957199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.242099,37.650582,-84.242099,37.650582",
+    "geom:latitude":37.650582,
+    "geom:longitude":-84.242099,
+    "iso:country":"US",
+    "sg:address":"106 McKee Rd",
+    "sg:city":"Mc Kee",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 287 8990",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OTrEQ1rfSHtGTkZ0WHoCU_37.650582_-84.242099@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051782,
+    "wof:geomhash":"6ef1900e2b5aa377174da87085e09f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840957199
+        }
+    ],
+    "wof:id":840957199,
+    "wof:lastmodified":1464051782,
+    "wof:name":"Mc Kee Manor Apartments",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.242099,
+    37.650582,
+    -84.242099,
+    37.650582
+],
+  "geometry": {"coordinates":[-84.242099,37.650582],"type":"Point"}
+}

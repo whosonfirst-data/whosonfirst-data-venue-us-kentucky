@@ -1,0 +1,68 @@
+{
+  "id": 840943267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.762968,38.219541,-85.762968,38.219541",
+    "geom:latitude":38.219541,
+    "geom:longitude":-85.762968,
+    "iso:country":"US",
+    "sg:address":"1907 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 6444",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V0n63LI3PBWGPU99Zt8s5_38.219541_-85.762968@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051517,
+    "wof:geomhash":"b46b4664fba06cdb402a0a14700ffdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":840943267
+        }
+    ],
+    "wof:id":840943267,
+    "wof:lastmodified":1464051517,
+    "wof:name":"Laundry Connection",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.762968,
+    38.219541,
+    -85.762968,
+    38.219541
+],
+  "geometry": {"coordinates":[-85.762968,38.219541],"type":"Point"}
+}

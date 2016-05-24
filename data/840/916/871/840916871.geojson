@@ -1,0 +1,73 @@
+{
+  "id": 840916871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.455585,38.017673,-84.455585,38.017673",
+    "geom:latitude":38.017673,
+    "geom:longitude":-84.455585,
+    "iso:country":"US",
+    "sg:address":"2339 Woodhill Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 389 6561",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KWGxw864juecKaOxbkWxa_38.017673_-84.455585@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050932,
+    "wof:geomhash":"35ce5cbd4bb5aead7206dc8f88441f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826711,
+            "region_id":85688641,
+            "venue_id":840916871
+        }
+    ],
+    "wof:id":840916871,
+    "wof:lastmodified":1464050932,
+    "wof:name":"Super Mercado Aguascalientes",
+    "wof:parent_id":85826711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.455585,
+    38.017673,
+    -84.455585,
+    38.017673
+],
+  "geometry": {"coordinates":[-84.455585,38.017673],"type":"Point"}
+}

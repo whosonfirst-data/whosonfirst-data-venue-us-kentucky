@@ -1,0 +1,73 @@
+{
+  "id": 856726485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.024624,37.020706,-86.024624,37.020706",
+    "geom:latitude":37.020706,
+    "geom:longitude":-86.024624,
+    "iso:country":"US",
+    "sg:address":"493 Stovall Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 678 5498",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i8XONXhIwa9wiZmQGfAxV_37.020706_-86.024624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052848,
+    "wof:geomhash":"acc242b0d94e377d6715e109c847ce6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856726485
+        }
+    ],
+    "wof:id":856726485,
+    "wof:lastmodified":1464052848,
+    "wof:name":"Roy S Gossett",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -86.024624,
+    37.020706,
+    -86.024624,
+    37.020706
+],
+  "geometry": {"coordinates":[-86.024624,37.020706],"type":"Point"}
+}

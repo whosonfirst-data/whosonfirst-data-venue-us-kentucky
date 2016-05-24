@@ -1,0 +1,71 @@
+{
+  "id": 840773147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.633381,37.085523,-88.633381,37.085523",
+    "geom:latitude":37.085523,
+    "geom:longitude":-88.633381,
+    "iso:country":"US",
+    "sg:address":"814 H C Mathis Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7109",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NbsHmUXhPcUI7OV5xJHAN_37.085523_-88.633381@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047634,
+    "wof:geomhash":"23177e525da01e6e0b44b45e880aae30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840773147
+        }
+    ],
+    "wof:id":840773147,
+    "wof:lastmodified":1464047634,
+    "wof:name":"Operle Crane Rentals",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -88.633381,
+    37.085523,
+    -88.633381,
+    37.085523
+],
+  "geometry": {"coordinates":[-88.633381,37.085523],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856744937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764704,38.155915,-85.764704,38.155915",
+    "geom:latitude":38.155915,
+    "geom:longitude":-85.764704,
+    "iso:country":"US",
+    "sg:address":"7031 Southside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 9838",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "sg:website":"http://www.southsidepetshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n4i1KvBBEnemGnKz5Zt7u_38.155915_-85.764704@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053562,
+    "wof:geomhash":"9e85d77b989d61d7b9a2f0ce54ff478f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744937
+        }
+    ],
+    "wof:id":856744937,
+    "wof:lastmodified":1464053562,
+    "wof:name":"Southside Pet Shop",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -85.764704,
+    38.155915,
+    -85.764704,
+    38.155915
+],
+  "geometry": {"coordinates":[-85.76470399999999,38.155915],"type":"Point"}
+}

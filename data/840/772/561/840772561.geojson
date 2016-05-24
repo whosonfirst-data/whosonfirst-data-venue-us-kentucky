@@ -1,0 +1,71 @@
+{
+  "id": 840772561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.558165,37.047169,-88.558165,37.047169",
+    "geom:latitude":37.047169,
+    "geom:longitude":-88.558165,
+    "iso:country":"US",
+    "sg:address":"3800 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7541",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ft62jBJqvA3XJd2NdWsrX_37.047169_-88.558165@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047625,
+    "wof:geomhash":"218d3b3adb225d90a0ae2716a2177554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840772561
+        }
+    ],
+    "wof:id":840772561,
+    "wof:lastmodified":1464047625,
+    "wof:name":"Cummings Veterinary Clinic",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.558165,
+    37.047169,
+    -88.558165,
+    37.047169
+],
+  "geometry": {"coordinates":[-88.558165,37.047169],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840638287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.44272,38.377217,-85.44272,38.377217",
+    "geom:latitude":38.377217,
+    "geom:longitude":-85.44272,
+    "iso:country":"US",
+    "sg:address":"4632 Old Lagrange Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 5720",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xD3LVc7YBiefsJld0BBPo_38.377217_-85.442720@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044643,
+    "wof:geomhash":"3effdf16ed5a8a46f3638ed37166686a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840638287
+        }
+    ],
+    "wof:id":840638287,
+    "wof:lastmodified":1464044643,
+    "wof:name":"Air Filter Testing Labs Inc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.44272,
+    38.377217,
+    -85.44272,
+    38.377217
+],
+  "geometry": {"coordinates":[-85.44271999999999,38.377217],"type":"Point"}
+}

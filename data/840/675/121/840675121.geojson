@@ -1,0 +1,71 @@
+{
+  "id": 840675121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.783879,37.660238,-84.783879,37.660238",
+    "geom:latitude":37.660238,
+    "geom:longitude":-84.783879,
+    "iso:country":"US",
+    "sg:address":"801 N Maple Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 9444",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xaLfB752mqRtmaajhWaCo_37.660238_-84.783879@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045448,
+    "wof:geomhash":"a503f90538a3ea33b35f76dee2ccaa78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840675121
+        }
+    ],
+    "wof:id":840675121,
+    "wof:lastmodified":1464045448,
+    "wof:name":"Price King Rent-A-Car",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.783879,
+    37.660238,
+    -84.783879,
+    37.660238
+],
+  "geometry": {"coordinates":[-84.783879,37.660238],"type":"Point"}
+}

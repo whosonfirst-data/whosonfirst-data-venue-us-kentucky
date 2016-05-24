@@ -1,0 +1,71 @@
+{
+  "id": 840616025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.322357,37.827259,-84.322357,37.827259",
+    "geom:latitude":37.827259,
+    "geom:longitude":-84.322357,
+    "iso:country":"US",
+    "sg:address":"3401 Colonel Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 5965",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75hS8EFWC8WDfvEeVAQSsq_37.827259_-84.322357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044062,
+    "wof:geomhash":"cd9a2be218fb73b0d7700fcdfb9ce8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840616025
+        }
+    ],
+    "wof:id":840616025,
+    "wof:lastmodified":1464044062,
+    "wof:name":"Whitehall Baptist Church",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.322357,
+    37.827259,
+    -84.322357,
+    37.827259
+],
+  "geometry": {"coordinates":[-84.322357,37.827259],"type":"Point"}
+}

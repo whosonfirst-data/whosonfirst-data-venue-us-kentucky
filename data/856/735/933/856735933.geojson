@@ -1,0 +1,74 @@
+{
+  "id": 856735933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.277955,37.668813,-82.277955,37.668813",
+    "geom:latitude":37.668813,
+    "geom:longitude":-82.277955,
+    "iso:country":"US",
+    "sg:address":"28914 US-119",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/south-williamson/79762-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 8480",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SK6vlSBvl5Tf4rWtWEhFd_37.668813_-82.277955@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053216,
+    "wof:geomhash":"da3069b3272578316857b73630c08332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856735933
+        }
+    ],
+    "wof:id":856735933,
+    "wof:lastmodified":1464053216,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.277955,
+    37.668813,
+    -82.277955,
+    37.668813
+],
+  "geometry": {"coordinates":[-82.27795500000001,37.668813],"type":"Point"}
+}

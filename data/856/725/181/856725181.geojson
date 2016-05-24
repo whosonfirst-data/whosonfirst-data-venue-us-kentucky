@@ -1,0 +1,73 @@
+{
+  "id": 856725181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.716626,37.884628,-84.716626,37.884628",
+    "geom:latitude":37.884628,
+    "geom:longitude":-84.716626,
+    "iso:country":"US",
+    "sg:address":"12641 Troy Pike",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 9636",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05fQbqzBdVfvQmkTAnoy5b_37.884628_-84.716626@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052799,
+    "wof:geomhash":"f8c5cb2b2c536e82f6c7957be7999f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856725181
+        }
+    ],
+    "wof:id":856725181,
+    "wof:lastmodified":1464052799,
+    "wof:name":"Pet-Fit Health Resort",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.716626,
+    37.884628,
+    -84.716626,
+    37.884628
+],
+  "geometry": {"coordinates":[-84.71662600000001,37.884628],"type":"Point"}
+}

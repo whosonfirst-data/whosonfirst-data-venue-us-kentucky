@@ -1,0 +1,68 @@
+{
+  "id": 840930571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.95917,37.138588,-85.95917,37.138588",
+    "geom:latitude":37.138588,
+    "geom:longitude":-85.95917,
+    "iso:country":"US",
+    "sg:address":"103 Broadway St",
+    "sg:city":"Cave City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 773 3585",
+    "sg:postcode":"42127",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oU9xH4KweqJJgP2QPtLQa_37.138588_-85.959170@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051261,
+    "wof:geomhash":"87a0129c56cc866a8aa091e4506a7c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840930571
+        }
+    ],
+    "wof:id":840930571,
+    "wof:lastmodified":1464051261,
+    "wof:name":"Caverna Florist",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.95917,
+    37.138588,
+    -85.95917,
+    37.138588
+],
+  "geometry": {"coordinates":[-85.95917,37.138588],"type":"Point"}
+}

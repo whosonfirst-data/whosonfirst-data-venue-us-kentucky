@@ -1,0 +1,79 @@
+{
+  "id": 840661107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.745723,38.208385,-85.745723,38.208385",
+    "geom:latitude":38.208385,
+    "geom:longitude":-85.745723,
+    "iso:country":"US",
+    "sg:address":"2517 Bradley Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 6188",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "party",
+        "bar",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xS21GFucylBEt2R3Iczrf_38.208385_-85.745723@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045128,
+    "wof:geomhash":"19e3daaa0bee01467ea2a93eebcfaacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":840661107
+        }
+    ],
+    "wof:id":840661107,
+    "wof:lastmodified":1464045128,
+    "wof:name":"Pats Glassware",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "party",
+        "bar",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.745723,
+    38.208385,
+    -85.745723,
+    38.208385
+],
+  "geometry": {"coordinates":[-85.745723,38.208385],"type":"Point"}
+}

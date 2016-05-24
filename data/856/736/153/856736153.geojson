@@ -1,0 +1,72 @@
+{
+  "id": 856736153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64668,37.053663,-88.64668,37.053663",
+    "geom:latitude":37.053663,
+    "geom:longitude":-88.64668,
+    "iso:country":"US",
+    "sg:address":"1530 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/118947-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 2687",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aFjUkyigapLknZPO3dW0t_37.053663_-88.646680@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053224,
+    "wof:geomhash":"489ae6bbecd6f54356338e2bda9c2a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856736153
+        }
+    ],
+    "wof:id":856736153,
+    "wof:lastmodified":1464053224,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.64668,
+    37.053663,
+    -88.64668,
+    37.053663
+],
+  "geometry": {"coordinates":[-88.64668,37.053663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856745125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.797211,38.169552,-85.797211,38.169552",
+    "geom:latitude":38.169552,
+    "geom:longitude":-85.797211,
+    "iso:country":"US",
+    "sg:address":"6000 Manslick Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 364 9795",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laundries-self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ev9LJWVifUPWWWkXv5hCz_38.169552_-85.797211@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053568,
+    "wof:geomhash":"e70f6a829b9af4e74520b63a3a7ac16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":856745125
+        }
+    ],
+    "wof:id":856745125,
+    "wof:lastmodified":1464053568,
+    "wof:name":"Manslick Marathon",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self"
+    ]
+},
+  "bbox": [
+    -85.797211,
+    38.169552,
+    -85.797211,
+    38.169552
+],
+  "geometry": {"coordinates":[-85.797211,38.169552],"type":"Point"}
+}

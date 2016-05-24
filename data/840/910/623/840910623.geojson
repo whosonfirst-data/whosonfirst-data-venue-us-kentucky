@@ -1,0 +1,71 @@
+{
+  "id": 840910623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912779,37.683962,-85.912779,37.683962",
+    "geom:latitude":37.683962,
+    "geom:longitude":-85.912779,
+    "iso:country":"US",
+    "sg:address":"907 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4070",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PyDSmk7oys8H2SxIDmq7G_37.683962_-85.912779@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050755,
+    "wof:geomhash":"d21c62c743cb05feac2170c7a6a6bed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840910623
+        }
+    ],
+    "wof:id":840910623,
+    "wof:lastmodified":1464050755,
+    "wof:name":"Service First Warehouse & Dist",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -85.912779,
+    37.683962,
+    -85.912779,
+    37.683962
+],
+  "geometry": {"coordinates":[-85.912779,37.683962],"type":"Point"}
+}

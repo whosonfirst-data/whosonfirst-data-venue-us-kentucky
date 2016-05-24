@@ -1,0 +1,74 @@
+{
+  "id": 856736373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.387213,36.983384,-86.387213,36.983384",
+    "geom:latitude":36.983384,
+    "geom:longitude":-86.387213,
+    "iso:country":"US",
+    "sg:address":"300 Cumberland Trace Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/282750-catfish-house-bowling-green/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 7171",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L2cROxzU1Msq8r8PQsBuN_36.983384_-86.387213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053237,
+    "wof:geomhash":"8b6855b88ac6d43c232d0cc9b53debbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856736373
+        }
+    ],
+    "wof:id":856736373,
+    "wof:lastmodified":1464053237,
+    "wof:name":"Catfish House Bowling Green",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.387213,
+    36.983384,
+    -86.387213,
+    36.983384
+],
+  "geometry": {"coordinates":[-86.387213,36.983384],"type":"Point"}
+}

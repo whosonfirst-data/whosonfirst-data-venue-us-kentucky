@@ -1,0 +1,75 @@
+{
+  "id": 856700373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.73033,38.24789,-85.73033,38.24789",
+    "geom:latitude":38.24789,
+    "geom:longitude":-85.73033,
+    "iso:country":"US",
+    "sg:address":"436 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 2227",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52HU4S9hfki3IAqkCrWmYq_38.247890_-85.730330@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052062,
+    "wof:geomhash":"35989e50f1dba4d7e7779b8f86f71840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":856700373
+        }
+    ],
+    "wof:id":856700373,
+    "wof:lastmodified":1464052062,
+    "wof:name":"Bar Louisville",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -85.73033,
+    38.24789,
+    -85.73033,
+    38.24789
+],
+  "geometry": {"coordinates":[-85.73033,38.24789],"type":"Point"}
+}

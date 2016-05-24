@@ -1,0 +1,73 @@
+{
+  "id": 840842863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.841765,37.652028,-85.841765,37.652028",
+    "geom:latitude":37.652028,
+    "geom:longitude":-85.841765,
+    "iso:country":"US",
+    "sg:address":"1068 Sportsman Lake Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6613",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KaagipKFMWceje9NC1lIl_37.652028_-85.841765@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049288,
+    "wof:geomhash":"cd0cebfd0fa87ce9e823ef5b3a3271cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840842863
+        }
+    ],
+    "wof:id":840842863,
+    "wof:lastmodified":1464049288,
+    "wof:name":"Noe's Hydraulic Svc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -85.841765,
+    37.652028,
+    -85.841765,
+    37.652028
+],
+  "geometry": {"coordinates":[-85.841765,37.652028],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 856723003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.900911,37.774275,-85.900911,37.774275",
+    "geom:latitude":37.774275,
+    "geom:longitude":-85.900911,
+    "iso:country":"US",
+    "sg:address":"57 Sheila Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 0125",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947277,
+        102084595,
+        85845657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxgXMWPqqqB1YzDMtsBS5_37.774275_-85.900911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052711,
+    "wof:geomhash":"177fd6e6c416cb666b7d65b9b0ea0f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947277,
+            "neighbourhood_id":85845657,
+            "region_id":85688641,
+            "venue_id":856723003
+        }
+    ],
+    "wof:id":856723003,
+    "wof:lastmodified":1464052711,
+    "wof:name":"Martin Mc Whorter",
+    "wof:parent_id":85845657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.900911,
+    37.774275,
+    -85.900911,
+    37.774275
+],
+  "geometry": {"coordinates":[-85.90091099999999,37.774275],"type":"Point"}
+}

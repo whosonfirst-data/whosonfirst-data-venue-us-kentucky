@@ -1,0 +1,73 @@
+{
+  "id": 840699015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614939,37.096564,-84.614939,37.096564",
+    "geom:latitude":37.096564,
+    "geom:longitude":-84.614939,
+    "iso:country":"US",
+    "sg:address":"501 Ogden St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 0727",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQ32wpxKYbaCiVyvAPcUD_37.096564_-84.614939@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046065,
+    "wof:geomhash":"d3491839f009e3e7421878f3e6c1d011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840699015
+        }
+    ],
+    "wof:id":840699015,
+    "wof:lastmodified":1464046065,
+    "wof:name":"Precision Financial Group",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -84.614939,
+    37.096564,
+    -84.614939,
+    37.096564
+],
+  "geometry": {"coordinates":[-84.61493900000001,37.096564],"type":"Point"}
+}

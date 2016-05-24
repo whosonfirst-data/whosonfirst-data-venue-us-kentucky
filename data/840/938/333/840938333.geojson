@@ -1,0 +1,71 @@
+{
+  "id": 840938333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.483179,38.322958,-85.483179,38.322958",
+    "geom:latitude":38.322958,
+    "geom:longitude":-85.483179,
+    "iso:country":"US",
+    "sg:address":"7025 W State Hwy 22",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 9880",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yDv7LTzRJUV31fc3uiZnz_38.322958_-85.483179@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051413,
+    "wof:geomhash":"093d5888cc350ff786f2fcff961dcc6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840938333
+        }
+    ],
+    "wof:id":840938333,
+    "wof:lastmodified":1464051413,
+    "wof:name":"A Lee Crush DDS",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.483179,
+    38.322958,
+    -85.483179,
+    38.322958
+],
+  "geometry": {"coordinates":[-85.48317900000001,38.322958],"type":"Point"}
+}

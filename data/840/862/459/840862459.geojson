@@ -1,0 +1,82 @@
+{
+  "id": 840862459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.772434,37.646722,-84.772434,37.646722",
+    "geom:latitude":37.646722,
+    "geom:longitude":-84.772434,
+    "iso:country":"US",
+    "sg:address":"141 N 3rd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2293",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H8RtZ10n4DHtsoB3cYPnh_37.646722_-84.772434@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049705,
+    "wof:geomhash":"9aa2e3df49a92e64fbf21ef54109f602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840862459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840862459
+        }
+    ],
+    "wof:id":840862459,
+    "wof:lastmodified":1464049705,
+    "wof:name":"Spouse Abuse CTR-Ywca",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -84.772434,
+    37.646722,
+    -84.772434,
+    37.646722
+],
+  "geometry": {"coordinates":[-84.772434,37.646722],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856753913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.45842,38.04276,-84.45842,38.04276",
+    "geom:latitude":38.04276,
+    "geom:longitude":-84.45842,
+    "iso:country":"US",
+    "sg:address":"1301 Winchester Rd Ste 225",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 3777",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85817017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43k24gvGtouprso9Faa3wW_38.042760_-84.458420@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053904,
+    "wof:geomhash":"56f11568c1de6c9a922ad7f89a126584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85817017,
+            "region_id":85688641,
+            "venue_id":856753913
+        }
+    ],
+    "wof:id":856753913,
+    "wof:lastmodified":1464053904,
+    "wof:name":"Eastland Pet Shop",
+    "wof:parent_id":85817017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -84.45842,
+    38.04276,
+    -84.45842,
+    38.04276
+],
+  "geometry": {"coordinates":[-84.45842,38.04276],"type":"Point"}
+}

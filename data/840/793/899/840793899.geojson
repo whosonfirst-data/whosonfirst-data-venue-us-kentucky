@@ -1,0 +1,75 @@
+{
+  "id": 840793899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.455756,36.978192,-86.455756,36.978192",
+    "geom:latitude":36.978192,
+    "geom:longitude":-86.455756,
+    "iso:country":"US",
+    "sg:address":"1783 Chestnut St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 5679",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oXhCuLDiEOngoJjUVAN8S_36.978192_-86.455756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048058,
+    "wof:geomhash":"e4d6deaf04fa2889118d6eed3da59809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840793899
+        }
+    ],
+    "wof:id":840793899,
+    "wof:lastmodified":1464048058,
+    "wof:name":"Western Kentucky University",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -86.455756,
+    36.978192,
+    -86.455756,
+    36.978192
+],
+  "geometry": {"coordinates":[-86.45575599999999,36.978192],"type":"Point"}
+}

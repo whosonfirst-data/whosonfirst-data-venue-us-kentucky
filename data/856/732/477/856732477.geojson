@@ -1,0 +1,74 @@
+{
+  "id": 856732477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755081,38.255028,-85.755081,38.255028",
+    "geom:latitude":38.255028,
+    "geom:longitude":-85.755081,
+    "iso:country":"US",
+    "sg:address":"301 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/4295-dekes-marketplace-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 8337",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n0Xw7txE7yi0C2VsZr3Ac_38.255028_-85.755081@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053091,
+    "wof:geomhash":"41d20667cccce1efc646d5345470c7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732477
+        }
+    ],
+    "wof:id":856732477,
+    "wof:lastmodified":1464053091,
+    "wof:name":"Deke's Marketplace Grill",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.755081,
+    38.255028,
+    -85.755081,
+    38.255028
+],
+  "geometry": {"coordinates":[-85.755081,38.255028],"type":"Point"}
+}

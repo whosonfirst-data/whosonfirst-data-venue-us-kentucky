@@ -1,0 +1,77 @@
+{
+  "id": 840745601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725826,38.250772,-85.725826,38.250772",
+    "geom:latitude":38.250772,
+    "geom:longitude":-85.725826,
+    "iso:country":"US",
+    "sg:address":"1399 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 2277",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M2S5DGefewxcQVD7KeI7d_38.250772_-85.725826@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046998,
+    "wof:geomhash":"1b15cce6a3b977dd76bc3b1cd9538d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":840745601
+        }
+    ],
+    "wof:id":840745601,
+    "wof:lastmodified":1464046998,
+    "wof:name":"Standard Auto Co",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.725826,
+    38.250772,
+    -85.725826,
+    38.250772
+],
+  "geometry": {"coordinates":[-85.725826,38.250772],"type":"Point"}
+}

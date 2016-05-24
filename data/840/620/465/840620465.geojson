@@ -1,0 +1,75 @@
+{
+  "id": 840620465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899423,37.78889,-85.899423,37.78889",
+    "geom:latitude":37.78889,
+    "geom:longitude":-85.899423,
+    "iso:country":"US",
+    "sg:address":"565 Battle Training Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 8165",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947277,
+        102084595,
+        85845657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cdJCwh7YHm7OYkAXBXRw4_37.788890_-85.899423@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044174,
+    "wof:geomhash":"cd42f2440fbebd65fd9542008ea3d040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947277,
+            "neighbourhood_id":85845657,
+            "region_id":85688641,
+            "venue_id":840620465
+        }
+    ],
+    "wof:id":840620465,
+    "wof:lastmodified":1464044174,
+    "wof:name":"Chris Anderson Construction",
+    "wof:parent_id":85845657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.899423,
+    37.78889,
+    -85.899423,
+    37.78889
+],
+  "geometry": {"coordinates":[-85.899423,37.78889],"type":"Point"}
+}

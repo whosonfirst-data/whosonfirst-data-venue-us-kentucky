@@ -1,0 +1,85 @@
+{
+  "id": 856719859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66457,38.202781,-85.66457,38.202781",
+    "geom:latitude":38.202781,
+    "geom:longitude":-85.66457,
+    "iso:country":"US",
+    "sg:address":"2105 Bashford Manor Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 3215",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mPMlrWvycnFO1YBinJoxj_38.202781_-85.664570@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052586,
+    "wof:geomhash":"1aa364ea3f65cf1c9adea02d3cbaaacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856719859
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856719859
+        }
+    ],
+    "wof:id":856719859,
+    "wof:lastmodified":1464052586,
+    "wof:name":"Historic Kentucky Real Estate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.66457,
+    38.202781,
+    -85.66457,
+    38.202781
+],
+  "geometry": {"coordinates":[-85.66457,38.202781],"type":"Point"}
+}

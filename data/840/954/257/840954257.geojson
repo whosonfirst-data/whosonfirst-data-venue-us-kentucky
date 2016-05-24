@@ -1,0 +1,73 @@
+{
+  "id": 840954257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.703964,37.185832,-85.703964,37.185832",
+    "geom:latitude":37.185832,
+    "geom:longitude":-85.703964,
+    "iso:country":"US",
+    "sg:address":"250 H Davis Rd",
+    "sg:city":"Hardyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 565 3415",
+    "sg:postcode":"42746",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engine",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qSGc8ugZPiU4yDMPPQs3n_37.185832_-85.703964@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051731,
+    "wof:geomhash":"1936bcbffc6ddef678ee09326e9cff75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840954257
+        }
+    ],
+    "wof:id":840954257,
+    "wof:lastmodified":1464051731,
+    "wof:name":"Troyers Repair Shop",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -85.703964,
+    37.185832,
+    -85.703964,
+    37.185832
+],
+  "geometry": {"coordinates":[-85.703964,37.185832],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840614991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.287029,37.573946,-84.287029,37.573946",
+    "geom:latitude":37.573946,
+    "geom:longitude":-84.287029,
+    "iso:country":"US",
+    "sg:address":"305 Estill St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 6034",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x3Crvh9IJ4W7D8HX8Vm6o_37.573946_-84.287029@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044034,
+    "wof:geomhash":"8d9ab060b8b9b7ccabfe3266e98822c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840614991
+        }
+    ],
+    "wof:id":840614991,
+    "wof:lastmodified":1464044034,
+    "wof:name":"Pathological Associates",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.287029,
+    37.573946,
+    -84.287029,
+    37.573946
+],
+  "geometry": {"coordinates":[-84.287029,37.573946],"type":"Point"}
+}

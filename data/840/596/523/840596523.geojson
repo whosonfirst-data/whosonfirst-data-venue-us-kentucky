@@ -1,0 +1,71 @@
+{
+  "id": 840596523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.620583,37.031534,-84.620583,37.031534",
+    "geom:latitude":37.031534,
+    "geom:longitude":-84.620583,
+    "iso:country":"US",
+    "sg:address":"330 Enterprise Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 3388",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_024NVEkWIR4jBZD3NUKJft_37.031534_-84.620583@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043572,
+    "wof:geomhash":"6e5dcd8935548f993463aaeea7a4b3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840596523
+        }
+    ],
+    "wof:id":840596523,
+    "wof:lastmodified":1464043572,
+    "wof:name":"Mac's Drywall",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.620583,
+    37.031534,
+    -84.620583,
+    37.031534
+],
+  "geometry": {"coordinates":[-84.620583,37.031534],"type":"Point"}
+}

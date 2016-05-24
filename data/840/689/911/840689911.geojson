@@ -1,0 +1,73 @@
+{
+  "id": 840689911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.481777,38.358785,-85.481777,38.358785",
+    "geom:latitude":38.358785,
+    "geom:longitude":-85.481777,
+    "iso:country":"US",
+    "sg:address":"4310 Glenarm Rd",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 1621",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UTiKCdkhXP9w2lT6kUIwP_38.358785_-85.481777@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045812,
+    "wof:geomhash":"809da8d57377a379c5a00b2930d79081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840689911
+        }
+    ],
+    "wof:id":840689911,
+    "wof:lastmodified":1464045812,
+    "wof:name":"W D Lashley Excavating Co",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.481777,
+    38.358785,
+    -85.481777,
+    38.358785
+],
+  "geometry": {"coordinates":[-85.48177699999999,38.358785],"type":"Point"}
+}

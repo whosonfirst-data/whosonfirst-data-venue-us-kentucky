@@ -1,0 +1,82 @@
+{
+  "id": 856751791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.474493,38.196751,-85.474493,38.196751",
+    "geom:latitude":38.196751,
+    "geom:longitude":-85.474493,
+    "iso:country":"US",
+    "sg:address":"2827 S English Station Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 5042",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "sg:website":"http://www.wm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ChSJwFSQRHrgWx1e0fjNu_38.196751_-85.474493@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053826,
+    "wof:geomhash":"8387cd2eef2cf5c61fc8df31690f0a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856751791
+        }
+    ],
+    "wof:id":856751791,
+    "wof:lastmodified":1464053826,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [
+    -85.474493,
+    38.196751,
+    -85.474493,
+    38.196751
+],
+  "geometry": {"coordinates":[-85.474493,38.196751],"type":"Point"}
+}

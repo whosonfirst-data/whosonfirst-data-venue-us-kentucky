@@ -1,0 +1,73 @@
+{
+  "id": 840616715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440265,36.983872,-86.440265,36.983872",
+    "geom:latitude":36.983872,
+    "geom:longitude":-86.440265,
+    "iso:country":"US",
+    "sg:address":"913 Broadway Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5014",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NOAaRGAoqmcqfR2VD2FhV_36.983872_-86.440265@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044082,
+    "wof:geomhash":"80304881a6c91954bdab5f2a1b3ea024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840616715
+        }
+    ],
+    "wof:id":840616715,
+    "wof:lastmodified":1464044082,
+    "wof:name":"Hope Harbor Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -86.440265,
+    36.983872,
+    -86.440265,
+    36.983872
+],
+  "geometry": {"coordinates":[-86.440265,36.983872],"type":"Point"}
+}

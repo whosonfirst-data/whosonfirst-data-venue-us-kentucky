@@ -1,0 +1,71 @@
+{
+  "id": 856724581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440235,36.98691,-86.440235,36.98691",
+    "geom:latitude":36.98691,
+    "geom:longitude":-86.440235,
+    "iso:country":"US",
+    "sg:address":"1138 High St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 8500",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45CQa98au7kwoPxHMxpj9S_36.986910_-86.440235@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052774,
+    "wof:geomhash":"17417fba53138e18cbd9ffcc402caa7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856724581
+        }
+    ],
+    "wof:id":856724581,
+    "wof:lastmodified":1464052774,
+    "wof:name":"Crowe Wheeler & Assoc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -86.440235,
+    36.98691,
+    -86.440235,
+    36.98691
+],
+  "geometry": {"coordinates":[-86.440235,36.98691],"type":"Point"}
+}

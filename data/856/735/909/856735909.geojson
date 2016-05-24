@@ -1,0 +1,74 @@
+{
+  "id": 856735909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.539303,37.476483,-82.539303,37.476483",
+    "geom:latitude":37.476483,
+    "geom:longitude":-82.539303,
+    "iso:country":"US",
+    "sg:address":"125 S Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pikeville/101779-huddle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 1846",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75AN8d2wgQdPxA9fusdqMH_37.476483_-82.539303@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053215,
+    "wof:geomhash":"af35b43f9f461ff10e06022d6228cf65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856735909
+        }
+    ],
+    "wof:id":856735909,
+    "wof:lastmodified":1464053215,
+    "wof:name":"Huddle House",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -82.539303,
+    37.476483,
+    -82.539303,
+    37.476483
+],
+  "geometry": {"coordinates":[-82.539303,37.476483],"type":"Point"}
+}

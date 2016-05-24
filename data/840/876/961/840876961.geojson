@@ -1,0 +1,75 @@
+{
+  "id": 840876961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.580246,37.82596,-87.580246,37.82596",
+    "geom:latitude":37.82596,
+    "geom:longitude":-87.580246,
+    "iso:country":"US",
+    "sg:address":"411 Letcher St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0200",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vBcHHA1il8ILdd1sN2StZ_37.825960_-87.580246@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049994,
+    "wof:geomhash":"ef301a2dd8015581f2fb1388103fc374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840876961
+        }
+    ],
+    "wof:id":840876961,
+    "wof:lastmodified":1464049994,
+    "wof:name":"Matthew 25 AIDS Svc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "program",
+        "referral"
+    ]
+},
+  "bbox": [
+    -87.580246,
+    37.82596,
+    -87.580246,
+    37.82596
+],
+  "geometry": {"coordinates":[-87.580246,37.82596],"type":"Point"}
+}

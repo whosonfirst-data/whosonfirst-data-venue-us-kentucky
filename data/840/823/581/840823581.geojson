@@ -1,0 +1,73 @@
+{
+  "id": 840823581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.73101,38.24697,-85.73101,38.24697",
+    "geom:latitude":38.24697,
+    "geom:longitude":-85.73101,
+    "iso:country":"US",
+    "sg:address":"509 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 7675",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bBAv69hF6KvqpauwX3ttD_38.246970_-85.731010@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048861,
+    "wof:geomhash":"b4790f105bdfe5cced07069a67415f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":840823581
+        }
+    ],
+    "wof:id":840823581,
+    "wof:lastmodified":1464048861,
+    "wof:name":"Division One Commercial Clng",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.73101,
+    38.24697,
+    -85.73101,
+    38.24697
+],
+  "geometry": {"coordinates":[-85.73101,38.24697],"type":"Point"}
+}

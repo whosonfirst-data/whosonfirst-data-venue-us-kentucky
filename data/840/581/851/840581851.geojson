@@ -1,0 +1,73 @@
+{
+  "id": 840581851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437806,36.996361,-86.437806,36.996361",
+    "geom:latitude":36.996361,
+    "geom:longitude":-86.437806,
+    "iso:country":"US",
+    "sg:address":"601 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 0857",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GG3lkMzYn5YRoEhoTIXhy_36.996361_-86.437806@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043252,
+    "wof:geomhash":"883a307c58f7f01b032cc067f3576da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840581851
+        }
+    ],
+    "wof:id":840581851,
+    "wof:lastmodified":1464043252,
+    "wof:name":"Roman's Repair Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -86.437806,
+    36.996361,
+    -86.437806,
+    36.996361
+],
+  "geometry": {"coordinates":[-86.43780599999999,36.996361],"type":"Point"}
+}

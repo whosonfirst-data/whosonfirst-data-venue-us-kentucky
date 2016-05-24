@@ -1,0 +1,71 @@
+{
+  "id": 840928945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578591,37.866167,-84.578591,37.866167",
+    "geom:latitude":37.866167,
+    "geom:longitude":-84.578591,
+    "iso:country":"US",
+    "sg:address":"948 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 5330",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dNI5saXGFxFTM4lyAIGgp_37.866167_-84.578591@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051225,
+    "wof:geomhash":"ac39dd747625e9b15443fabb52438452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840928945
+        }
+    ],
+    "wof:id":840928945,
+    "wof:lastmodified":1464051225,
+    "wof:name":"Mailing Moving & More",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -84.578591,
+    37.866167,
+    -84.578591,
+    37.866167
+],
+  "geometry": {"coordinates":[-84.578591,37.866167],"type":"Point"}
+}

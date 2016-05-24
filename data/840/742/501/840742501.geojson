@@ -1,0 +1,76 @@
+{
+  "id": 840742501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.581984,38.21848,-85.581984,38.21848",
+    "geom:latitude":38.21848,
+    "geom:longitude":-85.581984,
+    "iso:country":"US",
+    "sg:address":"10 Swope Autocenter Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 5000",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "sg:website":"www.samswope.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HcADFwHxJeTcV5BAe6bY9_38.218480_-85.581984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046942,
+    "wof:geomhash":"3f37998f6009a0d43e6ac5997371e561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840742501
+        }
+    ],
+    "wof:id":840742501,
+    "wof:lastmodified":1464046942,
+    "wof:name":"Sam Swope Auto Group LLC",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.581984,
+    38.21848,
+    -85.581984,
+    38.21848
+],
+  "geometry": {"coordinates":[-85.58198400000001,38.21848],"type":"Point"}
+}

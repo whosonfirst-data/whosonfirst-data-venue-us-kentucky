@@ -1,0 +1,74 @@
+{
+  "id": 840700873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.295775,37.746798,-84.295775,37.746798",
+    "geom:latitude":37.746798,
+    "geom:longitude":-84.295775,
+    "iso:country":"US",
+    "sg:address":"228 S 2nd St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 0330",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.apollopizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U71ONqYwatLSJhtFu4mtd_37.746798_-84.295775@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046104,
+    "wof:geomhash":"bbdae6e659ebcca4fa8b2a7f8eb17ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840700873
+        }
+    ],
+    "wof:id":840700873,
+    "wof:lastmodified":1464046104,
+    "wof:name":"Apollo Pizza",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.295775,
+    37.746798,
+    -84.295775,
+    37.746798
+],
+  "geometry": {"coordinates":[-84.29577500000001,37.746798],"type":"Point"}
+}

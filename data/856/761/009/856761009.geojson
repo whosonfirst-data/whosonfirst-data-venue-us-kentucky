@@ -1,0 +1,71 @@
+{
+  "id": 856761009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.624023,37.076221,-88.624023,37.076221",
+    "geom:latitude":37.076221,
+    "geom:longitude":-88.624023,
+    "iso:country":"US",
+    "sg:address":"2300 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3445",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JMXNisJKEZzRR1LhHWLLW_37.076221_-88.624023@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054160,
+    "wof:geomhash":"826881f119d0a2e3c421ef8be5d33fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761009
+        }
+    ],
+    "wof:id":856761009,
+    "wof:lastmodified":1464054160,
+    "wof:name":"El Porton",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -88.624023,
+    37.076221,
+    -88.624023,
+    37.076221
+],
+  "geometry": {"coordinates":[-88.62402299999999,37.076221],"type":"Point"}
+}

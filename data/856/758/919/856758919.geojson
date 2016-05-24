@@ -1,0 +1,78 @@
+{
+  "id": 856758919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.653706,39.073835,-84.653706,39.073835",
+    "geom:latitude":39.073835,
+    "geom:longitude":-84.653706,
+    "iso:country":"US",
+    "sg:address":"609 Petersburg Rd",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 7800",
+    "sg:postcode":"41048",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528187,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f0D0rVL489TcfLKAWAWsN_39.073835_-84.653706@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054088,
+    "wof:geomhash":"278b67da9fed98ba0f6daff97c855baa",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528187,
+            "country_id":85633793,
+            "region_id":85688641,
+            "venue_id":856758919
+        }
+    ],
+    "wof:id":856758919,
+    "wof:lastmodified":1464054088,
+    "wof:name":"Fiesta Liquors",
+    "wof:parent_id":102528187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -84.653706,
+    39.073835,
+    -84.653706,
+    39.073835
+],
+  "geometry": {"coordinates":[-84.653706,39.073835],"type":"Point"}
+}

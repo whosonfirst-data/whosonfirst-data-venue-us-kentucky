@@ -1,0 +1,71 @@
+{
+  "id": 840583343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.956538,37.611426,-84.956538,37.611426",
+    "geom:latitude":37.611426,
+    "geom:longitude":-84.956538,
+    "iso:country":"US",
+    "sg:address":"4125 Mitchellsburg Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 332 2550",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zpvo7JJhx0yPfssT3yuXf_37.611426_-84.956538@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043279,
+    "wof:geomhash":"7e46b6495ae17fc10c4199a00382c203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840583343
+        }
+    ],
+    "wof:id":840583343,
+    "wof:lastmodified":1464043279,
+    "wof:name":"Vikingland Processing",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -84.956538,
+    37.611426,
+    -84.956538,
+    37.611426
+],
+  "geometry": {"coordinates":[-84.95653799999999,37.611426],"type":"Point"}
+}

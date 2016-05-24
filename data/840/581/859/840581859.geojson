@@ -1,0 +1,71 @@
+{
+  "id": 840581859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.578447,37.812017,-87.578447,37.812017",
+    "geom:latitude":37.812017,
+    "geom:longitude":-87.578447,
+    "iso:country":"US",
+    "sg:address":"1800 Madison St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 5851",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pCToLFIqqinZ745GVMRQM_37.812017_-87.578447@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043253,
+    "wof:geomhash":"35fe83665164050d17058b1703be9b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840581859
+        }
+    ],
+    "wof:id":840581859,
+    "wof:lastmodified":1464043253,
+    "wof:name":"Fritco",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.578447,
+    37.812017,
+    -87.578447,
+    37.812017
+],
+  "geometry": {"coordinates":[-87.578447,37.812017],"type":"Point"}
+}

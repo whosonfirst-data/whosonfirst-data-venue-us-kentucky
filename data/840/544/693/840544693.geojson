@@ -1,0 +1,71 @@
+{
+  "id": 840544693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.402268,38.398229,-85.402268,38.398229",
+    "geom:latitude":38.398229,
+    "geom:longitude":-85.402268,
+    "iso:country":"US",
+    "sg:address":"2100 Button Ln",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 9809",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15iSTRLhl50ZSFBlD9QA16_38.398229_-85.402268@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042355,
+    "wof:geomhash":"32b31cce0dbbd11d7c37bfcacd02de2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840544693
+        }
+    ],
+    "wof:id":840544693,
+    "wof:lastmodified":1464042355,
+    "wof:name":"Kentucky Cheer Athletics Inc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -85.402268,
+    38.398229,
+    -85.402268,
+    38.398229
+],
+  "geometry": {"coordinates":[-85.40226800000001,38.398229],"type":"Point"}
+}

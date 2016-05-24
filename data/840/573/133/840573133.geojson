@@ -1,0 +1,71 @@
+{
+  "id": 840573133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844399,37.732194,-85.844399,37.732194",
+    "geom:latitude":37.732194,
+    "geom:longitude":-85.844399,
+    "iso:country":"US",
+    "sg:address":"2401 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6502",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5COABLoAZSnYbz5dDP6SF4_37.732194_-85.844399@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043066,
+    "wof:geomhash":"aa5a460d44eed5d2e2f3d9094dd042b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840573133
+        }
+    ],
+    "wof:id":840573133,
+    "wof:lastmodified":1464043066,
+    "wof:name":"John J Du Plessis Jr DDS",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.844399,
+    37.732194,
+    -85.844399,
+    37.732194
+],
+  "geometry": {"coordinates":[-85.844399,37.732194],"type":"Point"}
+}

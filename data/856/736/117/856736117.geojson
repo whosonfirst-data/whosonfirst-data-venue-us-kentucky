@@ -1,0 +1,72 @@
+{
+  "id": 856736117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.556514,37.046607,-88.556514,37.046607",
+    "geom:latitude":37.046607,
+    "geom:longitude":-88.556514,
+    "iso:country":"US",
+    "sg:address":"3522 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/136351-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 0133",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fLow51fCXSsb2oBUGSPIt_37.046607_-88.556514@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053222,
+    "wof:geomhash":"40bd5e107f31e2ef2629aff70267c7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856736117
+        }
+    ],
+    "wof:id":856736117,
+    "wof:lastmodified":1464053222,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -88.556514,
+    37.046607,
+    -88.556514,
+    37.046607
+],
+  "geometry": {"coordinates":[-88.55651400000001,37.046607],"type":"Point"}
+}

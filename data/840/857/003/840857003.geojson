@@ -1,0 +1,73 @@
+{
+  "id": 840857003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.581126,38.325459,-85.581126,38.325459",
+    "geom:latitude":38.325459,
+    "geom:longitude":-85.581126,
+    "iso:country":"US",
+    "sg:address":"9106 Hensley Ct",
+    "sg:city":"Prospect",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 326 0064",
+    "sg:postcode":"40059",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lqfvlTVcH45Go0D2JBEA5_38.325459_-85.581126@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049588,
+    "wof:geomhash":"5fb2cce13e64e3719002a09a8a6dc861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840857003
+        }
+    ],
+    "wof:id":840857003,
+    "wof:lastmodified":1464049588,
+    "wof:name":"Del Labs",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.581126,
+    38.325459,
+    -85.581126,
+    38.325459
+],
+  "geometry": {"coordinates":[-85.581126,38.325459],"type":"Point"}
+}

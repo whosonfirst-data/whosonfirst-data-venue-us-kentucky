@@ -1,0 +1,83 @@
+{
+  "id": 856740043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.760307,38.254189,-85.760307,38.254189",
+    "geom:latitude":38.254189,
+    "geom:longitude":-85.760307,
+    "iso:country":"US",
+    "sg:address":"600 W Jefferson St Ste B2",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 595 4475",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "justice",
+        "parish",
+        "government-county"
+    ],
+    "sg:website":"http://www.thehealingplace.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59jP4kvoQ8YpK9WuNA0wMV_38.254189_-85.760307@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053378,
+    "wof:geomhash":"3638ed7350c7033d0a42382ebde3a669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856740043
+        }
+    ],
+    "wof:id":856740043,
+    "wof:lastmodified":1464053378,
+    "wof:name":"Louisville Jefferson County Metro District Court Division",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -85.760307,
+    38.254189,
+    -85.760307,
+    38.254189
+],
+  "geometry": {"coordinates":[-85.760307,38.254189],"type":"Point"}
+}

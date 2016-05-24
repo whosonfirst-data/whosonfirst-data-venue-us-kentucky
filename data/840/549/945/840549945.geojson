@@ -1,0 +1,71 @@
+{
+  "id": 840549945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.759733,39.071411,-84.759733,39.071411",
+    "geom:latitude":39.071411,
+    "geom:longitude":-84.759733,
+    "iso:country":"US",
+    "sg:address":"3576 Garber Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 7777",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N1bsbXeWsSbCNGNuoGPaz_39.071411_-84.759733@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042505,
+    "wof:geomhash":"c3ffa8b51ef2a570e1e0c21b9e76d964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840549945
+        }
+    ],
+    "wof:id":840549945,
+    "wof:lastmodified":1464042505,
+    "wof:name":"Hair On The Hill",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.759733,
+    39.071411,
+    -84.759733,
+    39.071411
+],
+  "geometry": {"coordinates":[-84.759733,39.071411],"type":"Point"}
+}

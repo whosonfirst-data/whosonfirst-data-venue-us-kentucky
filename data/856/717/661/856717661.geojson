@@ -1,0 +1,71 @@
+{
+  "id": 856717661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698477,37.075204,-88.698477,37.075204",
+    "geom:latitude":37.075204,
+    "geom:longitude":-88.698477,
+    "iso:country":"US",
+    "sg:address":"3137 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9911",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qv1q9cSLcYJPyrwJxIaih_37.075204_-88.698477@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052492,
+    "wof:geomhash":"ea989e9210ae91ec071fee418e3caa8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856717661
+        }
+    ],
+    "wof:id":856717661,
+    "wof:lastmodified":1464052492,
+    "wof:name":"Heartland Veterinary Hospital",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.698477,
+    37.075204,
+    -88.698477,
+    37.075204
+],
+  "geometry": {"coordinates":[-88.698477,37.075204],"type":"Point"}
+}

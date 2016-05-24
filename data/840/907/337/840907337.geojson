@@ -1,0 +1,71 @@
+{
+  "id": 840907337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.516935,37.07147,-84.516935,37.07147",
+    "geom:latitude":37.07147,
+    "geom:longitude":-84.516935,
+    "iso:country":"US",
+    "sg:address":"3734 State Hwy 192",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 4095",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15wxizKICl6UImU1iVy3hq_37.071470_-84.516935@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050644,
+    "wof:geomhash":"24584d66b991ac587dbcd68789406456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840907337
+        }
+    ],
+    "wof:id":840907337,
+    "wof:lastmodified":1464050644,
+    "wof:name":"192 Market",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.516935,
+    37.07147,
+    -84.516935,
+    37.07147
+],
+  "geometry": {"coordinates":[-84.516935,37.07147],"type":"Point"}
+}

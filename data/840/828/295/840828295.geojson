@@ -1,0 +1,68 @@
+{
+  "id": 840828295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.784646,38.242674,-85.784646,38.242674",
+    "geom:latitude":38.242674,
+    "geom:longitude":-85.784646,
+    "iso:country":"US",
+    "sg:address":"931 Dixie Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 0480",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IGmhQitUm0cIUsObqU4ZI_38.242674_-85.784646@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048969,
+    "wof:geomhash":"9508661c389a990040086e700bee12a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840828295
+        }
+    ],
+    "wof:id":840828295,
+    "wof:lastmodified":1464048969,
+    "wof:name":"B-Line Food Mart",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.784646,
+    38.242674,
+    -85.784646,
+    38.242674
+],
+  "geometry": {"coordinates":[-85.784646,38.242674],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856750659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.500727,38.234027,-85.500727,38.234027",
+    "geom:latitude":38.234027,
+    "geom:longitude":-85.500727,
+    "iso:country":"US",
+    "sg:address":"700 S English Station Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 3225",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "k-",
+        "private"
+    ],
+    "sg:website":"http://www.christianacademylou.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHt0WqfCVgTWljr30PF46_38.234027_-85.500727@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053781,
+    "wof:geomhash":"31169974c6d7bf07323712f0ea55b52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750659
+        }
+    ],
+    "wof:id":856750659,
+    "wof:lastmodified":1464053781,
+    "wof:name":"Christian Academy Of Louisville",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [
+    -85.500727,
+    38.234027,
+    -85.500727,
+    38.234027
+],
+  "geometry": {"coordinates":[-85.500727,38.234027],"type":"Point"}
+}

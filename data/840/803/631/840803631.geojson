@@ -1,0 +1,71 @@
+{
+  "id": 840803631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851554,37.715375,-85.851554,37.715375",
+    "geom:latitude":37.715375,
+    "geom:longitude":-85.851554,
+    "iso:country":"US",
+    "sg:address":"1200 N Miles St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4449",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xOTiHEMl7dxSkwgp3zcTU_37.715375_-85.851554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048276,
+    "wof:geomhash":"24b86844e21049587ff8c62eeeda4663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840803631
+        }
+    ],
+    "wof:id":840803631,
+    "wof:lastmodified":1464048276,
+    "wof:name":"First Church Of The Nazarene",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.851554,
+    37.715375,
+    -85.851554,
+    37.715375
+],
+  "geometry": {"coordinates":[-85.85155399999999,37.715375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840767705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.57504,37.834085,-87.57504,37.834085",
+    "geom:latitude":37.834085,
+    "geom:longitude":-87.57504,
+    "iso:country":"US",
+    "sg:address":"1301 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2343",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hrMulzDCbQ0Aenut2xXXT_37.834085_-87.575040@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047519,
+    "wof:geomhash":"b31e6005372eb6ccc5d819ff3654d7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840767705
+        }
+    ],
+    "wof:id":840767705,
+    "wof:lastmodified":1464047519,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.57504,
+    37.834085,
+    -87.57504,
+    37.834085
+],
+  "geometry": {"coordinates":[-87.57504,37.834085],"type":"Point"}
+}

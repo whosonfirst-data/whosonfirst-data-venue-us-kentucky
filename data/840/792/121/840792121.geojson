@@ -1,0 +1,71 @@
+{
+  "id": 840792121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.875462,36.494015,-88.875462,36.494015",
+    "geom:latitude":36.494015,
+    "geom:longitude":-88.875462,
+    "iso:country":"US",
+    "sg:address":"602 Broadway St",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 2747",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18kI5ZjfTKDH2MaJRoXTiU_36.494015_-88.875462@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048024,
+    "wof:geomhash":"6c19edd98616a281cedf939ad11ed7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840792121
+        }
+    ],
+    "wof:id":840792121,
+    "wof:lastmodified":1464048024,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -88.875462,
+    36.494015,
+    -88.875462,
+    36.494015
+],
+  "geometry": {"coordinates":[-88.875462,36.494015],"type":"Point"}
+}

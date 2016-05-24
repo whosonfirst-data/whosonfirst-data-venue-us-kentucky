@@ -1,0 +1,74 @@
+{
+  "id": 856736323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429696,37.003996,-86.429696,37.003996",
+    "geom:latitude":37.003996,
+    "geom:longitude":-86.429696,
+    "iso:country":"US",
+    "sg:address":"629 Us 31w Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/155873-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8552",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M1z4OkDLObz2CdXiYNbIC_37.003996_-86.429696@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053235,
+    "wof:geomhash":"a6428f16a1e4403db630cb6cf74b38e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736323
+        }
+    ],
+    "wof:id":856736323,
+    "wof:lastmodified":1464053235,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.429696,
+    37.003996,
+    -86.429696,
+    37.003996
+],
+  "geometry": {"coordinates":[-86.42969600000001,37.003996],"type":"Point"}
+}

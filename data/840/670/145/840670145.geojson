@@ -1,0 +1,73 @@
+{
+  "id": 840670145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.456265,38.007857,-84.456265,38.007857",
+    "geom:latitude":38.007857,
+    "geom:longitude":-84.456265,
+    "iso:country":"US",
+    "sg:address":"203 Patchen Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 269 4913",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T9sEY1dt4Pq11kXFBkQVU_38.007857_-84.456265@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045312,
+    "wof:geomhash":"cf039fecdeb6176761ec403ee654320a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873047,
+            "region_id":85688641,
+            "venue_id":840670145
+        }
+    ],
+    "wof:id":840670145,
+    "wof:lastmodified":1464045312,
+    "wof:name":"Patchen Place Apartments",
+    "wof:parent_id":85873047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.456265,
+    38.007857,
+    -84.456265,
+    38.007857
+],
+  "geometry": {"coordinates":[-84.456265,38.007857],"type":"Point"}
+}

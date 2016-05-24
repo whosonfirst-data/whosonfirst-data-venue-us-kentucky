@@ -1,0 +1,78 @@
+{
+  "id": 840798107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.673637,36.974735,-84.673637,36.974735",
+    "geom:latitude":36.974735,
+    "geom:longitude":-84.673637,
+    "iso:country":"US",
+    "sg:address":"2433 State Hwy 90",
+    "sg:city":"Bronston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 0664",
+    "sg:postcode":"42518",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "fiber",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JS2wz7P0pRkqrHuK89bmW_36.974735_-84.673637@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048158,
+    "wof:geomhash":"049db2b5376d38957c0cd1cce9b460ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840798107
+        }
+    ],
+    "wof:id":840798107,
+    "wof:lastmodified":1464048158,
+    "wof:name":"Taylor Fiberglass Repair",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "fiber",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.673637,
+    36.974735,
+    -84.673637,
+    36.974735
+],
+  "geometry": {"coordinates":[-84.673637,36.974735],"type":"Point"}
+}

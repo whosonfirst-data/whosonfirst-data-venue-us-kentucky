@@ -1,0 +1,75 @@
+{
+  "id": 840895951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.364809,37.021991,-86.364809,37.021991",
+    "geom:latitude":37.021991,
+    "geom:longitude":-86.364809,
+    "iso:country":"US",
+    "sg:address":"5236 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0406",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fvha1vrJqW3xmPw1Ur2ZK_37.021991_-86.364809@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050405,
+    "wof:geomhash":"a7094abc37787d8c5045d6d0614f26bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840895951
+        }
+    ],
+    "wof:id":840895951,
+    "wof:lastmodified":1464050405,
+    "wof:name":"Classy Cuts",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.364809,
+    37.021991,
+    -86.364809,
+    37.021991
+],
+  "geometry": {"coordinates":[-86.36480899999999,37.021991],"type":"Point"}
+}

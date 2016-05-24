@@ -1,0 +1,85 @@
+{
+  "id": 856742777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.630783,38.233343,-85.630783,38.233343",
+    "geom:latitude":38.233343,
+    "geom:longitude":-85.630783,
+    "iso:country":"US",
+    "sg:address":"4004 Dupont Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 0159",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15G1y1m8bi0CUJHZ2CZW2z_38.233343_-85.630783@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053486,
+    "wof:geomhash":"52d3f71ac21ed90c2b14c6728cbef7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742777
+        }
+    ],
+    "wof:id":856742777,
+    "wof:lastmodified":1464053486,
+    "wof:name":"Morris, John R MD",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ]
+},
+  "bbox": [
+    -85.630783,
+    38.233343,
+    -85.630783,
+    38.233343
+],
+  "geometry": {"coordinates":[-85.63078299999999,38.233343],"type":"Point"}
+}

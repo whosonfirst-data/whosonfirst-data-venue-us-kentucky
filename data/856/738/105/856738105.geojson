@@ -1,0 +1,77 @@
+{
+  "id": 856738105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.443409,38.375391,-85.443409,38.375391",
+    "geom:latitude":38.375391,
+    "geom:longitude":-85.443409,
+    "iso:country":"US",
+    "sg:address":"20 Quality Pl",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 9358",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "health"
+    ],
+    "sg:website":"http://www.ymcalouisville.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nIavVYPdHRqgKoBArRDuG_38.375391_-85.443409@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053308,
+    "wof:geomhash":"927fd46b61eea44dcca178d68990f101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856738105
+        }
+    ],
+    "wof:id":856738105,
+    "wof:lastmodified":1464053308,
+    "wof:name":"YMCA",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -85.443409,
+    38.375391,
+    -85.443409,
+    38.375391
+],
+  "geometry": {"coordinates":[-85.443409,38.375391],"type":"Point"}
+}

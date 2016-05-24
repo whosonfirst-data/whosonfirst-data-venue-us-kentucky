@@ -1,0 +1,73 @@
+{
+  "id": 840598917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.801909,38.119841,-85.801909,38.119841",
+    "geom:latitude":38.119841,
+    "geom:longitude":-85.801909,
+    "iso:country":"US",
+    "sg:address":"1915 Herbert Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 7845",
+    "sg:postcode":"40272",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xO3jHgbS06s2ktXNLI385_38.119841_-85.801909@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043634,
+    "wof:geomhash":"bc656985f0343df0fa6090be22be6256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840598917
+        }
+    ],
+    "wof:id":840598917,
+    "wof:lastmodified":1464043634,
+    "wof:name":"Hawkins Dora Beauty Shoppe",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.801909,
+    38.119841,
+    -85.801909,
+    38.119841
+],
+  "geometry": {"coordinates":[-85.80190899999999,38.119841],"type":"Point"}
+}

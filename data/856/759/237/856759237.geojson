@@ -1,0 +1,83 @@
+{
+  "id": 856759237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508841,38.944495,-84.508841,38.944495",
+    "geom:latitude":38.944495,
+    "geom:longitude":-84.508841,
+    "iso:country":"US",
+    "sg:address":"6426 Taylor Mill Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 1218",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VBOjaojUW4BsBOwvsFj4w_38.944495_-84.508841@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054098,
+    "wof:geomhash":"96f4c8d8ff183f9ef3a464f885ce3f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":856759237
+        }
+    ],
+    "wof:id":856759237,
+    "wof:lastmodified":1464054098,
+    "wof:name":"In & Out Market North",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -84.508841,
+    38.944495,
+    -84.508841,
+    38.944495
+],
+  "geometry": {"coordinates":[-84.508841,38.944495],"type":"Point"}
+}

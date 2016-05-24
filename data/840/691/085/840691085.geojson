@@ -1,0 +1,73 @@
+{
+  "id": 840691085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.118053,36.897533,-83.118053,36.897533",
+    "geom:latitude":36.897533,
+    "geom:longitude":-83.118053,
+    "iso:country":"US",
+    "sg:address":"14586 State Hwy 38",
+    "sg:city":"Evarts",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 837 0996",
+    "sg:postcode":"40828",
+    "sg:province":"KY",
+    "sg:tags":[
+        "squad",
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aRYvitknUFiEfAMymMEip_36.897533_-83.118053@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045838,
+    "wof:geomhash":"89e6aa9bf1e655fe8501506d0441a7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840691085
+        }
+    ],
+    "wof:id":840691085,
+    "wof:lastmodified":1464045838,
+    "wof:name":"Harlan County Clover Fork",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "squad",
+        "rescue"
+    ]
+},
+  "bbox": [
+    -83.118053,
+    36.897533,
+    -83.118053,
+    36.897533
+],
+  "geometry": {"coordinates":[-83.118053,36.897533],"type":"Point"}
+}

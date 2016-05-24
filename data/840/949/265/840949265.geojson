@@ -1,0 +1,73 @@
+{
+  "id": 840949265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.30534,37.893923,-84.30534,37.893923",
+    "geom:latitude":37.893923,
+    "geom:longitude":-84.30534,
+    "iso:country":"US",
+    "sg:address":"2050 River Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 527 6342",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G3QnOfetLCMiytwr5Fuhi_37.893923_-84.305340@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051636,
+    "wof:geomhash":"97df34e53025f433b1fbdf32518be7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840949265
+        }
+    ],
+    "wof:id":840949265,
+    "wof:lastmodified":1464051636,
+    "wof:name":"Rogers Painting",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.30534,
+    37.893923,
+    -84.30534,
+    37.893923
+],
+  "geometry": {"coordinates":[-84.30534,37.893923],"type":"Point"}
+}

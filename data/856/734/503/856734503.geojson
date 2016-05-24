@@ -1,0 +1,78 @@
+{
+  "id": 856734503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521553,37.999739,-84.521553,37.999739",
+    "geom:latitude":37.999739,
+    "geom:longitude":-84.521553,
+    "iso:country":"US",
+    "sg:address":"2575 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/173522-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 4311",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YkaDYoRgISMsl2msJjT4T_37.999739_-84.521553@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053164,
+    "wof:geomhash":"09d5988f06126a978eadf09e9a448625",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856734503
+        }
+    ],
+    "wof:id":856734503,
+    "wof:lastmodified":1464053164,
+    "wof:name":"Wendy's",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.521553,
+    37.999739,
+    -84.521553,
+    37.999739
+],
+  "geometry": {"coordinates":[-84.521553,37.999739],"type":"Point"}
+}

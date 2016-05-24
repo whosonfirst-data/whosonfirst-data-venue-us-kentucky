@@ -1,0 +1,71 @@
+{
+  "id": 840769813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.362209,37.567961,-84.362209,37.567961",
+    "geom:latitude":37.567961,
+    "geom:longitude":-84.362209,
+    "iso:country":"US",
+    "sg:address":"3000 Guynn Rd",
+    "sg:city":"Paint Lick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 925 3086",
+    "sg:postcode":"40461",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7it98w1tNiE56F4j8Bu9Rv_37.567961_-84.362209@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047566,
+    "wof:geomhash":"ada2f10ba63738a08d8fa092b929f052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840769813
+        }
+    ],
+    "wof:id":840769813,
+    "wof:lastmodified":1464047566,
+    "wof:name":"Sexton Painting Inc",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.362209,
+    37.567961,
+    -84.362209,
+    37.567961
+],
+  "geometry": {"coordinates":[-84.36220899999999,37.567961],"type":"Point"}
+}

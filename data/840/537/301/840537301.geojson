@@ -1,0 +1,73 @@
+{
+  "id": 840537301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.467652,38.042028,-84.467652,38.042028",
+    "geom:latitude":38.042028,
+    "geom:longitude":-84.467652,
+    "iso:country":"US",
+    "sg:address":"929 Winchester Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 0940",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "starter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DQy5aH3Szv7atFSsrDoit_38.042028_-84.467652@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042142,
+    "wof:geomhash":"ceebd215510ca7268e2935dfbfd4f5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":840537301
+        }
+    ],
+    "wof:id":840537301,
+    "wof:lastmodified":1464042142,
+    "wof:name":"Jefferson Auto Electric",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "starter"
+    ]
+},
+  "bbox": [
+    -84.467652,
+    38.042028,
+    -84.467652,
+    38.042028
+],
+  "geometry": {"coordinates":[-84.467652,38.042028],"type":"Point"}
+}

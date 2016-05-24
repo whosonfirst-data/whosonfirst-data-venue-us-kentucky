@@ -1,0 +1,74 @@
+{
+  "id": 856698019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640182,37.076045,-88.640182,37.076045",
+    "geom:latitude":37.076045,
+    "geom:longitude":-88.640182,
+    "iso:country":"US",
+    "sg:address":"3100 Clay St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6884",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.superiorcarehome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RosVVuraAFNHBd3OTKVAq_37.076045_-88.640182@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052021,
+    "wof:geomhash":"7b78b403ee3b0bc61cad84b0cb3386c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856698019
+        }
+    ],
+    "wof:id":856698019,
+    "wof:lastmodified":1464052021,
+    "wof:name":"Superior Care Home-Nursing",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -88.640182,
+    37.076045,
+    -88.640182,
+    37.076045
+],
+  "geometry": {"coordinates":[-88.640182,37.076045],"type":"Point"}
+}

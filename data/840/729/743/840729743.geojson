@@ -1,0 +1,79 @@
+{
+  "id": 840729743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.402272,36.564069,-87.402272,36.564069",
+    "geom:latitude":36.564069,
+    "geom:longitude":-87.402272,
+    "iso:country":"US",
+    "sg:address":"1343 Fort Campbell Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 905 2277",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "a",
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85850241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jFC2JkOWJgVsjlEWd1KzL_36.564069_-87.402272@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046703,
+    "wof:geomhash":"889e0fcd38ffd6059dc98bdc5a0c02de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85850241,
+            "region_id":85688701,
+            "venue_id":840729743
+        }
+    ],
+    "wof:id":840729743,
+    "wof:lastmodified":1464046703,
+    "wof:name":"Best Motors Inc",
+    "wof:parent_id":85850241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.402272,
+    36.564069,
+    -87.402272,
+    36.564069
+],
+  "geometry": {"coordinates":[-87.402272,36.564069],"type":"Point"}
+}

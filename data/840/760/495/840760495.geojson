@@ -1,0 +1,71 @@
+{
+  "id": 840760495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.398672,37.797206,-84.398672,37.797206",
+    "geom:latitude":37.797206,
+    "geom:longitude":-84.398672,
+    "iso:country":"US",
+    "sg:address":"2280 Tates Creek Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 9722",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zbltnql1nEbB6uOt8CPyC_37.797206_-84.398672@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047356,
+    "wof:geomhash":"83a49e4dd0460cd8ee8718f96da4f512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840760495
+        }
+    ],
+    "wof:id":840760495,
+    "wof:lastmodified":1464047356,
+    "wof:name":"Antioch Christian Church",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.398672,
+    37.797206,
+    -84.398672,
+    37.797206
+],
+  "geometry": {"coordinates":[-84.398672,37.797206],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840842335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425224,36.950817,-86.425224,36.950817",
+    "geom:latitude":36.950817,
+    "geom:longitude":-86.425224,
+    "iso:country":"US",
+    "sg:address":"2608 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1188",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Avqxmw7bY4wDRzbd6fbz9_36.950817_-86.425224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049280,
+    "wof:geomhash":"8050503174aace17b00115f8cb8b1aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840842335
+        }
+    ],
+    "wof:id":840842335,
+    "wof:lastmodified":1464049280,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.425224,
+    36.950817,
+    -86.425224,
+    36.950817
+],
+  "geometry": {"coordinates":[-86.425224,36.950817],"type":"Point"}
+}

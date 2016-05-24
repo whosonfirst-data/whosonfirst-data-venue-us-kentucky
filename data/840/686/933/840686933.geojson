@@ -1,0 +1,73 @@
+{
+  "id": 840686933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.93511,36.480027,-88.93511,36.480027",
+    "geom:latitude":36.480027,
+    "geom:longitude":-88.93511,
+    "iso:country":"US",
+    "sg:address":"6736 Barclay Rd",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 1413",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trainer",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hhuu6HdyH4QcrmS26CCRG_36.480027_-88.935110@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045750,
+    "wof:geomhash":"3c5edebeb578f7811fe8295402ce78db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840686933
+        }
+    ],
+    "wof:id":840686933,
+    "wof:lastmodified":1464045750,
+    "wof:name":"Eddie Barclay Stables",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "horse"
+    ]
+},
+  "bbox": [
+    -88.93511,
+    36.480027,
+    -88.93511,
+    36.480027
+],
+  "geometry": {"coordinates":[-88.93510999999999,36.480027],"type":"Point"}
+}

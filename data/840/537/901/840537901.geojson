@@ -1,0 +1,71 @@
+{
+  "id": 840537901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284131,37.57942,-84.284131,37.57942",
+    "geom:latitude":37.57942,
+    "geom:longitude":-84.284131,
+    "iso:country":"US",
+    "sg:address":"306 Richmond Rd N",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 4889",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QD3TIdp1TrYxNjVA41Mvc_37.579420_-84.284131@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042157,
+    "wof:geomhash":"e459bf41d38743124d41f5f2a178622f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840537901
+        }
+    ],
+    "wof:id":840537901,
+    "wof:lastmodified":1464042157,
+    "wof:name":"Smith's Tire Ctr",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.284131,
+    37.57942,
+    -84.284131,
+    37.57942
+],
+  "geometry": {"coordinates":[-84.284131,37.57942],"type":"Point"}
+}

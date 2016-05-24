@@ -1,0 +1,68 @@
+{
+  "id": 840709799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501186,38.046501,-84.501186,38.046501",
+    "geom:latitude":38.046501,
+    "geom:longitude":-84.501186,
+    "iso:country":"US",
+    "sg:address":"380 S Mill St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 233 2118",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YsaqI3pGras78WxQdKY5T_38.046501_-84.501186@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046300,
+    "wof:geomhash":"b6c5684814ae05c4d530d2602b55a1da",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840709799
+        }
+    ],
+    "wof:id":840709799,
+    "wof:lastmodified":1464046300,
+    "wof:name":"Salon 1050",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.501186,
+    38.046501,
+    -84.501186,
+    38.046501
+],
+  "geometry": {"coordinates":[-84.501186,38.046501],"type":"Point"}
+}

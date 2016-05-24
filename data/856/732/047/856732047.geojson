@@ -1,0 +1,69 @@
+{
+  "id": 856732047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.719591,38.051639,-84.719591,38.051639",
+    "geom:latitude":38.051639,
+    "geom:longitude":-84.719591,
+    "iso:country":"US",
+    "sg:address":"412 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 6463",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MV9XjngMXlu6MVJ8qfmXJ_38.051568_-84.719594@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053075,
+    "wof:geomhash":"a0f603b8fe99b083d93da1aa2221120b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856732047
+        }
+    ],
+    "wof:id":856732047,
+    "wof:lastmodified":1464053075,
+    "wof:name":"Crossroads Veterinary Clinic",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.719591,
+    38.051639,
+    -84.719591,
+    38.051639
+],
+  "geometry": {"coordinates":[-84.71959099999999,38.051639],"type":"Point"}
+}

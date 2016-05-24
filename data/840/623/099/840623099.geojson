@@ -1,0 +1,75 @@
+{
+  "id": 840623099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477129,36.949636,-86.477129,36.949636",
+    "geom:latitude":36.949636,
+    "geom:longitude":-86.477129,
+    "iso:country":"US",
+    "sg:address":"3219 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3652",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WsAPUxMC8tAtguZEnaGch_36.949636_-86.477129@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044242,
+    "wof:geomhash":"1dc8ae789f7c17ca4ad23b4673831cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840623099
+        }
+    ],
+    "wof:id":840623099,
+    "wof:lastmodified":1464044242,
+    "wof:name":"Children's House Montessori",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -86.477129,
+    36.949636,
+    -86.477129,
+    36.949636
+],
+  "geometry": {"coordinates":[-86.47712900000001,36.949636],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856734387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.325613,37.84374,-84.325613,37.84374",
+    "geom:latitude":37.84374,
+    "geom:longitude":-84.325613,
+    "iso:country":"US",
+    "sg:address":"3799 Colonel Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/madison-north/159377-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 0882",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_536VLRRkFT8LC952Rkhfva_37.843740_-84.325613@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053159,
+    "wof:geomhash":"a46118081a1e442852bd432fbac93dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":856734387
+        }
+    ],
+    "wof:id":856734387,
+    "wof:lastmodified":1464053159,
+    "wof:name":"Arby's",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.325613,
+    37.84374,
+    -84.325613,
+    37.84374
+],
+  "geometry": {"coordinates":[-84.325613,37.84374],"type":"Point"}
+}

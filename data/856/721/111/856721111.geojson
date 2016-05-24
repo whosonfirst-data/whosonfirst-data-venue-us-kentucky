@@ -1,0 +1,71 @@
+{
+  "id": 856721111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857257,37.702338,-85.857257,37.702338",
+    "geom:latitude":37.702338,
+    "geom:longitude":-85.857257,
+    "iso:country":"US",
+    "sg:address":"520 N Miles St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1349",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmtZVPpZjARJxJzVrf206_37.702338_-85.857257@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052638,
+    "wof:geomhash":"7a23a0889b276b68759e1ed628b9c881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856721111
+        }
+    ],
+    "wof:id":856721111,
+    "wof:lastmodified":1464052638,
+    "wof:name":"Inman Orthodontics",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.857257,
+    37.702338,
+    -85.857257,
+    37.702338
+],
+  "geometry": {"coordinates":[-85.857257,37.702338],"type":"Point"}
+}

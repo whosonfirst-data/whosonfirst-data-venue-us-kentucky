@@ -1,0 +1,100 @@
+{
+  "id": 856753701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524512,38.00196,-84.524512,38.00196",
+    "geom:latitude":38.00196,
+    "geom:longitude":-84.524512,
+    "iso:country":"US",
+    "sg:address":"2550 Regency Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 276 4318",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.ntb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N4Q0zI55A9Ofd4bJvCH6A_38.001960_-84.524512@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053897,
+    "wof:geomhash":"89b4c24cf740a3fec1b7296e906a4ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":856753701
+        }
+    ],
+    "wof:id":856753701,
+    "wof:lastmodified":1464053897,
+    "wof:name":"NTB - National Tire & Battery",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.524512,
+    38.00196,
+    -84.524512,
+    38.00196
+],
+  "geometry": {"coordinates":[-84.524512,38.00196],"type":"Point"}
+}

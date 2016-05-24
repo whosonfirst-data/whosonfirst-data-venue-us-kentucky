@@ -1,0 +1,66 @@
+{
+  "id": 856738687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.957182,37.724394,-85.957182,37.724394",
+    "geom:latitude":37.724394,
+    "geom:longitude":-85.957182,
+    "iso:country":"US",
+    "sg:address":"56 Bridle Dr",
+    "sg:city":"Rineyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 1945",
+    "sg:postcode":"40162",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DyGBJr1Bmc95lfxcDLboF_37.724394_-85.957182@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053331,
+    "wof:geomhash":"886013b6c2e73abf8e9d3da81fa1d1b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856738687
+        }
+    ],
+    "wof:id":856738687,
+    "wof:lastmodified":1464053331,
+    "wof:name":"Settlers Trace Grocery",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.957182,
+    37.724394,
+    -85.957182,
+    37.724394
+],
+  "geometry": {"coordinates":[-85.957182,37.724394],"type":"Point"}
+}

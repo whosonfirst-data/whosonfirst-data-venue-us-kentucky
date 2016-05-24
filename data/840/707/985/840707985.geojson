@@ -1,0 +1,84 @@
+{
+  "id": 840707985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.768824,37.618185,-84.768824,37.618185",
+    "geom:latitude":37.618185,
+    "geom:longitude":-84.768824,
+    "iso:country":"US",
+    "sg:address":"84 Brenda Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 0045",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "album",
+        "scrapbook"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FtI3nzgb4vTerzS004SM8_37.618185_-84.768824@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046263,
+    "wof:geomhash":"ef7d622c5b42d31e7eec66f7ba647311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840707985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840707985
+        }
+    ],
+    "wof:id":840707985,
+    "wof:lastmodified":1464046263,
+    "wof:name":"Simply Scrappin'",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "album",
+        "scrapbook"
+    ]
+},
+  "bbox": [
+    -84.768824,
+    37.618185,
+    -84.768824,
+    37.618185
+],
+  "geometry": {"coordinates":[-84.768824,37.618185],"type":"Point"}
+}

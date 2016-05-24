@@ -1,0 +1,73 @@
+{
+  "id": 840889741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912229,37.652472,-85.912229,37.652472",
+    "geom:latitude":37.652472,
+    "geom:longitude":-85.912229,
+    "iso:country":"US",
+    "sg:address":"1832 Bacon Creek Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6689",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fg9GdeJUBFQZYBIhGcpcU_37.652472_-85.912229@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050277,
+    "wof:geomhash":"d7a47eae0c62bda140b1c21019a2fd66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840889741
+        }
+    ],
+    "wof:id":840889741,
+    "wof:lastmodified":1464050277,
+    "wof:name":"Stuecker Electric Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.912229,
+    37.652472,
+    -85.912229,
+    37.652472
+],
+  "geometry": {"coordinates":[-85.912229,37.652472],"type":"Point"}
+}

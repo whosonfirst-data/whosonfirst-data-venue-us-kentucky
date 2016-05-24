@@ -1,0 +1,73 @@
+{
+  "id": 840651511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.453537,36.960085,-86.453537,36.960085",
+    "geom:latitude":36.960085,
+    "geom:longitude":-86.453537,
+    "iso:country":"US",
+    "sg:address":"1840 Westen St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6595",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10S4A2hB4gBfetUJeHF10A_36.960085_-86.453537@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044919,
+    "wof:geomhash":"be7faccf60ca0c15a9598f6c488fe25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840651511
+        }
+    ],
+    "wof:id":840651511,
+    "wof:lastmodified":1464044919,
+    "wof:name":"Premiere Check Advance",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -86.453537,
+    36.960085,
+    -86.453537,
+    36.960085
+],
+  "geometry": {"coordinates":[-86.453537,36.960085],"type":"Point"}
+}

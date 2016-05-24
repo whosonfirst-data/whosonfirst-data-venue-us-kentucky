@@ -1,0 +1,71 @@
+{
+  "id": 840532981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.349796,36.993272,-86.349796,36.993272",
+    "geom:latitude":36.993272,
+    "geom:longitude":-86.349796,
+    "iso:country":"US",
+    "sg:address":"3076 Porter Pike",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 0691",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w4xAYAuLdZlXbGfaFANjO_36.993272_-86.349796@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042049,
+    "wof:geomhash":"2a86627ba5effa578032d70a6dc46117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840532981
+        }
+    ],
+    "wof:id":840532981,
+    "wof:lastmodified":1464042049,
+    "wof:name":"Tony Hendrick",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -86.349796,
+    36.993272,
+    -86.349796,
+    36.993272
+],
+  "geometry": {"coordinates":[-86.349796,36.993272],"type":"Point"}
+}

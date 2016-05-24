@@ -1,0 +1,75 @@
+{
+  "id": 840760061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425963,36.952537,-86.425963,36.952537",
+    "geom:latitude":36.952537,
+    "geom:longitude":-86.425963,
+    "iso:country":"US",
+    "sg:address":"2516 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 7901",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PMK50Nf46zjm15OKawmvK_36.952537_-86.425963@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047342,
+    "wof:geomhash":"53e7a21908f5e064576e2564c131d3de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840760061
+        }
+    ],
+    "wof:id":840760061,
+    "wof:lastmodified":1464047342,
+    "wof:name":"A G Glass Co",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -86.425963,
+    36.952537,
+    -86.425963,
+    36.952537
+],
+  "geometry": {"coordinates":[-86.425963,36.952537],"type":"Point"}
+}

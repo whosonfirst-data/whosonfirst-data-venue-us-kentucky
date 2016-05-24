@@ -1,0 +1,71 @@
+{
+  "id": 856723805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.537451,37.490489,-82.537451,37.490489",
+    "geom:latitude":37.490489,
+    "geom:longitude":-82.537451,
+    "iso:country":"US",
+    "sg:address":"587 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 4171",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ECq8p5KY03dRoHfsijDpZ_37.490489_-82.537451@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052739,
+    "wof:geomhash":"01d2a885df5f4f6d6631c3336cdfc67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856723805
+        }
+    ],
+    "wof:id":856723805,
+    "wof:lastmodified":1464052739,
+    "wof:name":"Collins & Love",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -82.537451,
+    37.490489,
+    -82.537451,
+    37.490489
+],
+  "geometry": {"coordinates":[-82.537451,37.490489],"type":"Point"}
+}

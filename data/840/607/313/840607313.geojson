@@ -1,0 +1,69 @@
+{
+  "id": 840607313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433771,38.018797,-84.433771,38.018797",
+    "geom:latitude":38.018797,
+    "geom:longitude":-84.433771,
+    "iso:country":"US",
+    "sg:address":"2598 Liberty Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 263 7245",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:website":"www.lexingtonchristian.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ViKGEPV2skDavKwtepd91_38.018797_-84.433771@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043840,
+    "wof:geomhash":"8eaffd95d56af79cf6913a7f6062896f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":840607313
+        }
+    ],
+    "wof:id":840607313,
+    "wof:lastmodified":1464043840,
+    "wof:name":"Lexington Christian Academy",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.433771,
+    38.018797,
+    -84.433771,
+    38.018797
+],
+  "geometry": {"coordinates":[-84.43377099999999,38.018797],"type":"Point"}
+}

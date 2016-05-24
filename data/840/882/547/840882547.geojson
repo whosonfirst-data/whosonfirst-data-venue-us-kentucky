@@ -1,0 +1,68 @@
+{
+  "id": 840882547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764463,38.21119,-85.764463,38.21119",
+    "geom:latitude":38.21119,
+    "geom:longitude":-85.764463,
+    "iso:country":"US",
+    "sg:address":"2633 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 1956",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fbiwr1qBAGglJeWAvJAcm_38.211190_-85.764463@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050121,
+    "wof:geomhash":"0d7385b8119b35a6639f04b11097f45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":840882547
+        }
+    ],
+    "wof:id":840882547,
+    "wof:lastmodified":1464050121,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.764463,
+    38.21119,
+    -85.764463,
+    38.21119
+],
+  "geometry": {"coordinates":[-85.76446300000001,38.21119],"type":"Point"}
+}

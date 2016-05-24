@@ -1,0 +1,73 @@
+{
+  "id": 840857457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.727943,38.256005,-85.727943,38.256005",
+    "geom:latitude":38.256005,
+    "geom:longitude":-85.727943,
+    "iso:country":"US",
+    "sg:address":"1200 Story Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 1835",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cafeteria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a0W0CwY8KWA6pCyNwzo6E_38.256005_-85.727943@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049596,
+    "wof:geomhash":"4b2a29b18055d5bf4e715d1201264e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":840857457
+        }
+    ],
+    "wof:id":840857457,
+    "wof:lastmodified":1464049596,
+    "wof:name":"Liberty Food Service Inc",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafeteria"
+    ]
+},
+  "bbox": [
+    -85.727943,
+    38.256005,
+    -85.727943,
+    38.256005
+],
+  "geometry": {"coordinates":[-85.727943,38.256005],"type":"Point"}
+}

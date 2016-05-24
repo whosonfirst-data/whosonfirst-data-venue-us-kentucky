@@ -1,0 +1,71 @@
+{
+  "id": 840794997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881864,37.711687,-85.881864,37.711687",
+    "geom:latitude":37.711687,
+    "geom:longitude":-85.881864,
+    "iso:country":"US",
+    "sg:address":"313 Mercer St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2641",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uG8Uy8z3fvJSzaWVr2cGK_37.711687_-85.881864@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048078,
+    "wof:geomhash":"6cd55047a0b7b699e2218c9948f1ecea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840794997
+        }
+    ],
+    "wof:id":840794997,
+    "wof:lastmodified":1464048078,
+    "wof:name":"Pucketts Wrecker",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.881864,
+    37.711687,
+    -85.881864,
+    37.711687
+],
+  "geometry": {"coordinates":[-85.88186399999999,37.711687],"type":"Point"}
+}

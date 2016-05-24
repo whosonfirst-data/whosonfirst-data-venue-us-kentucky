@@ -1,0 +1,84 @@
+{
+  "id": 856694083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680487,38.185625,-85.680487,38.185625",
+    "geom:latitude":38.185625,
+    "geom:longitude":-85.680487,
+    "iso:country":"US",
+    "sg:address":"4271 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 7368",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.therentaldepotonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MOvywDtgVdfiprZ8KYXcA_38.185625_-85.680487@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051942,
+    "wof:geomhash":"e6d4355c46101ff040c899617334274a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856694083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856694083
+        }
+    ],
+    "wof:id":856694083,
+    "wof:lastmodified":1464051942,
+    "wof:name":"Rental Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -85.680487,
+    38.185625,
+    -85.680487,
+    38.185625
+],
+  "geometry": {"coordinates":[-85.680487,38.185625],"type":"Point"}
+}

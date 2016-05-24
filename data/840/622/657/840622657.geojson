@@ -1,0 +1,75 @@
+{
+  "id": 840622657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729636,38.145856,-85.729636,38.145856",
+    "geom:latitude":38.145856,
+    "geom:longitude":-85.729636,
+    "iso:country":"US",
+    "sg:address":"4571 Melton Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 5465",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MDoLhZqoK51RnAmzURKMJ_38.145856_-85.729636@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044234,
+    "wof:geomhash":"3caf8a6084eae858098439a0729a3eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840622657
+        }
+    ],
+    "wof:id":840622657,
+    "wof:lastmodified":1464044234,
+    "wof:name":"Temple Trucking Svc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.729636,
+    38.145856,
+    -85.729636,
+    38.145856
+],
+  "geometry": {"coordinates":[-85.729636,38.145856],"type":"Point"}
+}

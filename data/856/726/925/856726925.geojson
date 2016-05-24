@@ -1,0 +1,76 @@
+{
+  "id": 856726925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.520048,38.001621,-84.520048,38.001621",
+    "geom:latitude":38.001621,
+    "geom:longitude":-84.520048,
+    "iso:country":"US",
+    "sg:address":"2520 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 8481",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "super",
+        "supermarket"
+    ],
+    "sg:website":"http://www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0An9F7oWzmAwM7LCP0OhuC_38.001232_-84.519965@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052866,
+    "wof:geomhash":"eb7f6e80d6a857dd18060b5b44122730",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856726925
+        }
+    ],
+    "wof:id":856726925,
+    "wof:lastmodified":1464052866,
+    "wof:name":"Kmart",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -84.520048,
+    38.001621,
+    -84.520048,
+    38.001621
+],
+  "geometry": {"coordinates":[-84.520048,38.001621],"type":"Point"}
+}

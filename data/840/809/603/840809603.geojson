@@ -1,0 +1,73 @@
+{
+  "id": 840809603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.41661,36.9489,-86.41661,36.9489",
+    "geom:latitude":36.9489,
+    "geom:longitude":-86.41661,
+    "iso:country":"US",
+    "sg:address":"930 Shive Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 2216",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40P5Hp0lQsq7WECMCCoYxA_36.948900_-86.416610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048408,
+    "wof:geomhash":"9cb01984b7b271b9b62260c79fec3582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840809603
+        }
+    ],
+    "wof:id":840809603,
+    "wof:lastmodified":1464048408,
+    "wof:name":"Mick-Murf Construction Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.41661,
+    36.9489,
+    -86.41661,
+    36.9489
+],
+  "geometry": {"coordinates":[-86.41661000000001,36.9489],"type":"Point"}
+}

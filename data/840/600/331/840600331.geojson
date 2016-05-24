@@ -1,0 +1,71 @@
+{
+  "id": 840600331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.581472,37.085019,-84.581472,37.085019",
+    "geom:latitude":37.085019,
+    "geom:longitude":-84.581472,
+    "iso:country":"US",
+    "sg:address":"118 Brookhaven Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7104",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjplJjoLz71uvegeGgSfZ_37.085019_-84.581472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043669,
+    "wof:geomhash":"68583ae0030a105e1660606446ffea41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840600331
+        }
+    ],
+    "wof:id":840600331,
+    "wof:lastmodified":1464043669,
+    "wof:name":"Gilbert Robinson",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -84.581472,
+    37.085019,
+    -84.581472,
+    37.085019
+],
+  "geometry": {"coordinates":[-84.58147200000001,37.085019],"type":"Point"}
+}

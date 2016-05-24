@@ -1,0 +1,71 @@
+{
+  "id": 840573793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.285821,37.886831,-84.285821,37.886831",
+    "geom:latitude":37.886831,
+    "geom:longitude":-84.285821,
+    "iso:country":"US",
+    "sg:address":"2591 Boonesborough Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 527 3126",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "quarry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13MelSSvS7EVsRopnLcbOG_37.886831_-84.285821@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043079,
+    "wof:geomhash":"42e760a5f2d36e963b1db517821cb6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840573793
+        }
+    ],
+    "wof:id":840573793,
+    "wof:lastmodified":1464043079,
+    "wof:name":"Boonesboro Quarry Inc-Plant",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "quarry"
+    ]
+},
+  "bbox": [
+    -84.285821,
+    37.886831,
+    -84.285821,
+    37.886831
+],
+  "geometry": {"coordinates":[-84.285821,37.886831],"type":"Point"}
+}

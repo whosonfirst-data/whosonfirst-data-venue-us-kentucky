@@ -1,0 +1,71 @@
+{
+  "id": 840867811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580361,37.840205,-84.580361,37.840205",
+    "geom:latitude":37.840205,
+    "geom:longitude":-84.580361,
+    "iso:country":"US",
+    "sg:address":"1258 Hoover Pike",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4197",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZKZh26G3o9ziN4NIWWzri_37.840205_-84.580361@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049813,
+    "wof:geomhash":"fc3c1f9d715f575d3cbaad822ce5315c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840867811
+        }
+    ],
+    "wof:id":840867811,
+    "wof:lastmodified":1464049813,
+    "wof:name":"Mastin Construction",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.580361,
+    37.840205,
+    -84.580361,
+    37.840205
+],
+  "geometry": {"coordinates":[-84.580361,37.840205],"type":"Point"}
+}

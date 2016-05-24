@@ -1,0 +1,76 @@
+{
+  "id": 840877545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.734047,38.152794,-85.734047,38.152794",
+    "geom:latitude":38.152794,
+    "geom:longitude":-85.734047,
+    "iso:country":"US",
+    "sg:address":"6406 Grade Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 6564",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "sg:website":"www.dixiewarehouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Buk58x1dWEryBpjBBOXqy_38.152794_-85.734047@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050019,
+    "wof:geomhash":"c651f5dddc8ba0c6446f71574d01c256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840877545
+        }
+    ],
+    "wof:id":840877545,
+    "wof:lastmodified":1464050019,
+    "wof:name":"Dixie Warehouse Svc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.734047,
+    38.152794,
+    -85.734047,
+    38.152794
+],
+  "geometry": {"coordinates":[-85.734047,38.152794],"type":"Point"}
+}

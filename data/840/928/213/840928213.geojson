@@ -1,0 +1,75 @@
+{
+  "id": 840928213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540316,37.957862,-85.540316,37.957862",
+    "geom:latitude":37.957862,
+    "geom:longitude":-85.540316,
+    "iso:country":"US",
+    "sg:address":"624 Thompson Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 3292",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hBpahVFoGors30N9qqep0_37.957862_-85.540316@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051211,
+    "wof:geomhash":"3112c8e23eb01425db86b66d94c8563b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840928213
+        }
+    ],
+    "wof:id":840928213,
+    "wof:lastmodified":1464051211,
+    "wof:name":"Ejt Trucking Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.540316,
+    37.957862,
+    -85.540316,
+    37.957862
+],
+  "geometry": {"coordinates":[-85.540316,37.957862],"type":"Point"}
+}

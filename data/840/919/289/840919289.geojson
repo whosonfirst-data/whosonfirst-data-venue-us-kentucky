@@ -1,0 +1,68 @@
+{
+  "id": 840919289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.640812,38.234922,-85.640812,38.234922",
+    "geom:latitude":38.234922,
+    "geom:longitude":-85.640812,
+    "iso:country":"US",
+    "sg:address":"962 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 9430",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jCHMxxvWAcY7soeLT5fIE_38.234922_-85.640812@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050976,
+    "wof:geomhash":"be834a4b523836b3f3535723c23135af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840919289
+        }
+    ],
+    "wof:id":840919289,
+    "wof:lastmodified":1464050976,
+    "wof:name":"O'Charley's",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.640812,
+    38.234922,
+    -85.640812,
+    38.234922
+],
+  "geometry": {"coordinates":[-85.640812,38.234922],"type":"Point"}
+}

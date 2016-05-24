@@ -1,0 +1,74 @@
+{
+  "id": 840890949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.599483,38.277293,-85.599483,38.277293",
+    "geom:latitude":38.277293,
+    "geom:longitude":-85.599483,
+    "iso:country":"US",
+    "sg:address":"8414 Westport Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 1566",
+    "sg:postcode":"40242",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.lyndonfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QEFg5ui3kfcfjsqycPyeO_38.277293_-85.599483@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050305,
+    "wof:geomhash":"31f9f129def54e4a0111cdc35dd3ca3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840890949
+        }
+    ],
+    "wof:id":840890949,
+    "wof:lastmodified":1464050305,
+    "wof:name":"Lyndon Fire Protection",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.599483,
+    38.277293,
+    -85.599483,
+    38.277293
+],
+  "geometry": {"coordinates":[-85.59948300000001,38.277293],"type":"Point"}
+}

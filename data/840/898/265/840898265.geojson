@@ -1,0 +1,75 @@
+{
+  "id": 840898265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.586263,37.059716,-88.586263,37.059716",
+    "geom:latitude":37.059716,
+    "geom:longitude":-88.586263,
+    "iso:country":"US",
+    "sg:address":"225 Wall St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 1444",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M09H3Y6n7cz0hSgFnEk1X_37.059716_-88.586263@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050455,
+    "wof:geomhash":"3e04f0d3a53f379b0a70e3f81864ff22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840898265
+        }
+    ],
+    "wof:id":840898265,
+    "wof:lastmodified":1464050455,
+    "wof:name":"Enviro Clean",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -88.586263,
+    37.059716,
+    -88.586263,
+    37.059716
+],
+  "geometry": {"coordinates":[-88.586263,37.059716],"type":"Point"}
+}

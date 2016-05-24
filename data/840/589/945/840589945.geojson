@@ -1,0 +1,75 @@
+{
+  "id": 840589945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645836,37.054281,-88.645836,37.054281",
+    "geom:latitude":37.054281,
+    "geom:longitude":-88.645836,
+    "iso:country":"US",
+    "sg:address":"1415 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0031",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18301PLCcRXRSyLxfFxiMc_37.054281_-88.645836@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043423,
+    "wof:geomhash":"e216c198d44da6bfc1b9e8aba383d097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840589945
+        }
+    ],
+    "wof:id":840589945,
+    "wof:lastmodified":1464043423,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -88.645836,
+    37.054281,
+    -88.645836,
+    37.054281
+],
+  "geometry": {"coordinates":[-88.645836,37.054281],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856732919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763212,38.204457,-85.763212,38.204457",
+    "geom:latitude":38.204457,
+    "geom:longitude":-85.763212,
+    "iso:country":"US",
+    "sg:address":"3101 S 2nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-south/99373-beef-obradys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 3737",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "wing",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41aTGhjWtueheRAtv1Rx0o_38.204457_-85.763212@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053107,
+    "wof:geomhash":"f222b7f9a1c1f46603c2c58e965795aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856732919
+        }
+    ],
+    "wof:id":856732919,
+    "wof:lastmodified":1464053107,
+    "wof:name":"Beef O'Brady's",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "wing",
+        "pub"
+    ]
+},
+  "bbox": [
+    -85.763212,
+    38.204457,
+    -85.763212,
+    38.204457
+],
+  "geometry": {"coordinates":[-85.763212,38.204457],"type":"Point"}
+}

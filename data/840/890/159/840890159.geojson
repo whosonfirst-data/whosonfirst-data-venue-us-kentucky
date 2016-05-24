@@ -1,0 +1,68 @@
+{
+  "id": 840890159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579785,38.205334,-85.579785,38.205334",
+    "geom:latitude":38.205334,
+    "geom:longitude":-85.579785,
+    "iso:country":"US",
+    "sg:address":"9501 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 7000",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ddSZJaAmWg8tGmV0ajg3_38.205334_-85.579785@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050288,
+    "wof:geomhash":"6093648320c5fac2473fad9c988eba8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840890159
+        }
+    ],
+    "wof:id":840890159,
+    "wof:lastmodified":1464050288,
+    "wof:name":"Papa Murphy's Take 'N' Bake",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.579785,
+    38.205334,
+    -85.579785,
+    38.205334
+],
+  "geometry": {"coordinates":[-85.579785,38.205334],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856713845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.888347,39.055908,-84.888347,39.055908",
+    "geom:latitude":39.055908,
+    "geom:longitude":-84.888347,
+    "iso:country":"US",
+    "sg:address":"6240 Aurora Ferry Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 5929",
+    "sg:postcode":"41080",
+    "sg:province":"KY",
+    "sg:tags":[
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ve0Ytq0HKY0nQlD4M86N2_39.055908_-84.888347@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052350,
+    "wof:geomhash":"b7a778e25f9067e894d115a72fa355af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856713845
+        }
+    ],
+    "wof:id":856713845,
+    "wof:lastmodified":1464052350,
+    "wof:name":"Sunset Valley Stock Farm",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer"
+    ]
+},
+  "bbox": [
+    -84.888347,
+    39.055908,
+    -84.888347,
+    39.055908
+],
+  "geometry": {"coordinates":[-84.888347,39.055908],"type":"Point"}
+}

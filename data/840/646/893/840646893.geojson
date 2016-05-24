@@ -1,0 +1,73 @@
+{
+  "id": 840646893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660367,38.227495,-85.660367,38.227495",
+    "geom:latitude":38.227495,
+    "geom:longitude":-85.660367,
+    "iso:country":"US",
+    "sg:address":"2700 Moran Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 753 3600",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jtdF17zpo9e7cqx8Cr01R_38.227495_-85.660367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044819,
+    "wof:geomhash":"9a6e941e41adde11d5124d80f18816ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873371,
+            "region_id":85688641,
+            "venue_id":840646893
+        }
+    ],
+    "wof:id":840646893,
+    "wof:lastmodified":1464044819,
+    "wof:name":"Automated Flight Service Stn",
+    "wof:parent_id":85873371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -85.660367,
+    38.227495,
+    -85.660367,
+    38.227495
+],
+  "geometry": {"coordinates":[-85.66036699999999,38.227495],"type":"Point"}
+}

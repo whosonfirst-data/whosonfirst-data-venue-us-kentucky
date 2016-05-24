@@ -1,0 +1,71 @@
+{
+  "id": 840645865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605958,37.088352,-84.605958,37.088352",
+    "geom:latitude":37.088352,
+    "geom:longitude":-84.605958,
+    "iso:country":"US",
+    "sg:address":"300 Cundiff Sq",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 2176",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQyRD1LtcXEr7Tvf5xBHz_37.088352_-84.605958@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044798,
+    "wof:geomhash":"482fb5791f1e26bda5f9cbf744d0f1fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840645865
+        }
+    ],
+    "wof:id":840645865,
+    "wof:lastmodified":1464044798,
+    "wof:name":"Cundiff Square Apartments",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.605958,
+    37.088352,
+    -84.605958,
+    37.088352
+],
+  "geometry": {"coordinates":[-84.605958,37.088352],"type":"Point"}
+}

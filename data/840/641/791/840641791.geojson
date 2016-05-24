@@ -1,0 +1,73 @@
+{
+  "id": 840641791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.838222,37.729176,-85.838222,37.729176",
+    "geom:latitude":37.729176,
+    "geom:longitude":-85.838222,
+    "iso:country":"US",
+    "sg:address":"1105 Julianna Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 8833",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RClNzgFRrHoZYtp8U5Qpq_37.729176_-85.838222@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044715,
+    "wof:geomhash":"fcdb263b1cb89d267600cb644bc5b08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840641791
+        }
+    ],
+    "wof:id":840641791,
+    "wof:lastmodified":1464044715,
+    "wof:name":"Central Ky Ostomy",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.838222,
+    37.729176,
+    -85.838222,
+    37.729176
+],
+  "geometry": {"coordinates":[-85.838222,37.729176],"type":"Point"}
+}

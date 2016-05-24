@@ -1,0 +1,89 @@
+{
+  "id": 840905575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471769,36.963941,-86.471769,36.963941",
+    "geom:latitude":36.963941,
+    "geom:longitude":-86.471769,
+    "iso:country":"US",
+    "sg:address":"741 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 780 0045",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85831487,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G1o8mCaiTqz3V1x9hx470_36.963941_-86.471769@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050604,
+    "wof:geomhash":"e232b8026fbcc2812380685510c7dba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840905575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840905575
+        }
+    ],
+    "wof:id":840905575,
+    "wof:lastmodified":1464050604,
+    "wof:name":"CD Warehouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.471769,
+    36.963941,
+    -86.471769,
+    36.963941
+],
+  "geometry": {"coordinates":[-86.47176899999999,36.963941],"type":"Point"}
+}

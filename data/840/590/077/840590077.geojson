@@ -1,0 +1,73 @@
+{
+  "id": 840590077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879224,37.711842,-85.879224,37.711842",
+    "geom:latitude":37.711842,
+    "geom:longitude":-85.879224,
+    "iso:country":"US",
+    "sg:address":"1002 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 735 9066",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UwCKX67OuWbNk9u7VyMfH_37.711842_-85.879224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043425,
+    "wof:geomhash":"9a88c62e3766c638d408a3f6b0b0f6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840590077
+        }
+    ],
+    "wof:id":840590077,
+    "wof:lastmodified":1464043425,
+    "wof:name":"E Town Lung Specialist Psc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.879224,
+    37.711842,
+    -85.879224,
+    37.711842
+],
+  "geometry": {"coordinates":[-85.87922399999999,37.711842],"type":"Point"}
+}

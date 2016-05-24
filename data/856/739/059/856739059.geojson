@@ -1,0 +1,75 @@
+{
+  "id": 856739059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752455,38.245658,-85.752455,38.245658",
+    "geom:latitude":38.245658,
+    "geom:longitude":-85.752455,
+    "iso:country":"US",
+    "sg:address":"129 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 8255",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pathologist",
+        "speech-language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WdTfwBcH8tdcYnULxfaIx_38.245658_-85.752455@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053345,
+    "wof:geomhash":"46b7b4695f612558d6f19a0dbc5ed5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":856739059
+        }
+    ],
+    "wof:id":856739059,
+    "wof:lastmodified":1464053345,
+    "wof:name":"University Speech Pathology Associates",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech-language"
+    ]
+},
+  "bbox": [
+    -85.752455,
+    38.245658,
+    -85.752455,
+    38.245658
+],
+  "geometry": {"coordinates":[-85.752455,38.245658],"type":"Point"}
+}

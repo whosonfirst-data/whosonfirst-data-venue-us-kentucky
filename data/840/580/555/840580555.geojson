@@ -1,0 +1,73 @@
+{
+  "id": 840580555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.499912,36.995341,-86.499912,36.995341",
+    "geom:latitude":36.995341,
+    "geom:longitude":-86.499912,
+    "iso:country":"US",
+    "sg:address":"586 Willoughby Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9660",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XAnzZHjFxfvIfFZyWqvk5_36.995341_-86.499912@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043219,
+    "wof:geomhash":"c4539c78d65fc677d50acea592ff1d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840580555
+        }
+    ],
+    "wof:id":840580555,
+    "wof:lastmodified":1464043219,
+    "wof:name":"Miller's Construction Co",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.499912,
+    36.995341,
+    -86.499912,
+    36.995341
+],
+  "geometry": {"coordinates":[-86.49991199999999,36.995341],"type":"Point"}
+}

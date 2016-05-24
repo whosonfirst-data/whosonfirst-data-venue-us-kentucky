@@ -1,0 +1,71 @@
+{
+  "id": 856718761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618588,37.071256,-84.618588,37.071256",
+    "geom:latitude":37.071256,
+    "geom:longitude":-84.618588,
+    "iso:country":"US",
+    "sg:address":"3540 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 2355",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RsqgetKWpZmgNLbe11VXW_37.071256_-84.618588@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052539,
+    "wof:geomhash":"a3d8d49fcffb55fab80bb5f89afa389e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856718761
+        }
+    ],
+    "wof:id":856718761,
+    "wof:lastmodified":1464052539,
+    "wof:name":"Ramcell",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -84.618588,
+    37.071256,
+    -84.618588,
+    37.071256
+],
+  "geometry": {"coordinates":[-84.618588,37.071256],"type":"Point"}
+}

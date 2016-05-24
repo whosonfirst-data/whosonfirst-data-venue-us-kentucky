@@ -1,0 +1,71 @@
+{
+  "id": 856717633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693861,36.755809,-83.693861,36.755809",
+    "geom:latitude":36.755809,
+    "geom:longitude":-83.693861,
+    "iso:country":"US",
+    "sg:address":"1101 US Hwy 25E",
+    "sg:city":"Barbourville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 546 8378",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3szy6eOQrqNRtlY7yhObhk_36.755809_-83.693861@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052491,
+    "wof:geomhash":"c6a10382f25fc20a2a0e381b55a9a2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856717633
+        }
+    ],
+    "wof:id":856717633,
+    "wof:lastmodified":1464052491,
+    "wof:name":"Marathon Pit Stop",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -83.693861,
+    36.755809,
+    -83.693861,
+    36.755809
+],
+  "geometry": {"coordinates":[-83.693861,36.755809],"type":"Point"}
+}

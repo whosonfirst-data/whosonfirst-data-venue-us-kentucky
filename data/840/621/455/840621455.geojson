@@ -1,0 +1,71 @@
+{
+  "id": 840621455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445462,36.994773,-86.445462,36.994773",
+    "geom:latitude":36.994773,
+    "geom:longitude":-86.445462,
+    "iso:country":"US",
+    "sg:address":"1039 Kentucky St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4105",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NCt2HMYW004TOAnj7sro8_36.994773_-86.445462@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044201,
+    "wof:geomhash":"616ee20e5f8c06529131dab1e2e12348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840621455
+        }
+    ],
+    "wof:id":840621455,
+    "wof:lastmodified":1464044201,
+    "wof:name":"Thomas Brand Siding Co Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.445462,
+    36.994773,
+    -86.445462,
+    36.994773
+],
+  "geometry": {"coordinates":[-86.44546200000001,36.994773],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856735899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.576735,37.53115,-82.576735,37.53115",
+    "geom:latitude":37.53115,
+    "geom:longitude":-82.576735,
+    "iso:country":"US",
+    "sg:address":"4117 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pikeville/42159-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 9054",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927,
+        102191575,
+        85947001,
+        85868825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SfltPug9Dm9bfx0aVFaEd_37.531150_-82.576735@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053214,
+    "wof:geomhash":"659179025ea5e1da4ee40b1bced514ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856735899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947001,
+            "neighbourhood_id":85868825,
+            "region_id":85688641,
+            "venue_id":856735899
+        }
+    ],
+    "wof:id":856735899,
+    "wof:lastmodified":1464053214,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.576735,
+    37.53115,
+    -82.576735,
+    37.53115
+],
+  "geometry": {"coordinates":[-82.576735,37.53115],"type":"Point"}
+}

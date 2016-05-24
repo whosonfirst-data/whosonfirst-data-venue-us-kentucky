@@ -1,0 +1,73 @@
+{
+  "id": 840934427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.847566,37.749856,-85.847566,37.749856",
+    "geom:latitude":37.749856,
+    "geom:longitude":-85.847566,
+    "iso:country":"US",
+    "sg:address":"396 W Bryan Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6515",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iyzEtLQdcMDYNRPc30lEW_37.749856_-85.847566@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051335,
+    "wof:geomhash":"80d4ca76c4e10a36d486a10a04874d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840934427
+        }
+    ],
+    "wof:id":840934427,
+    "wof:lastmodified":1464051335,
+    "wof:name":"Charlie's Service Ctr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.847566,
+    37.749856,
+    -85.847566,
+    37.749856
+],
+  "geometry": {"coordinates":[-85.847566,37.749856],"type":"Point"}
+}

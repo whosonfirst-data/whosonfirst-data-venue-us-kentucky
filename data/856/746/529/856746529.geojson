@@ -1,0 +1,110 @@
+{
+  "id": 856746529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661511,38.195649,-85.661511,38.195649",
+    "geom:latitude":38.195649,
+    "geom:longitude":-85.661511,
+    "iso:country":"US",
+    "sg:address":"3913 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 5740",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "supply",
+        "contractor",
+        "servicing-automotive",
+        "truck",
+        "axle",
+        "alignment-frame",
+        "brake",
+        "crane"
+    ],
+    "sg:website":"http://www.medleystruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B4r9xx18W6IHrhJJUI15j_38.195649_-85.661511@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053614,
+    "wof:geomhash":"13dd7903b1d7d194b4fbb5685fe15070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746529
+        }
+    ],
+    "wof:id":856746529,
+    "wof:lastmodified":1464053614,
+    "wof:name":"Medley's Auto & Truck Alignment Service Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "supply",
+        "contractor",
+        "servicing-automotive",
+        "truck",
+        "axle",
+        "alignment-frame",
+        "brake",
+        "crane"
+    ]
+},
+  "bbox": [
+    -85.661511,
+    38.195649,
+    -85.661511,
+    38.195649
+],
+  "geometry": {"coordinates":[-85.661511,38.195649],"type":"Point"}
+}

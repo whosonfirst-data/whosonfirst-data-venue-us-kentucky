@@ -1,0 +1,71 @@
+{
+  "id": 840788047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.603444,37.825445,-87.603444,37.825445",
+    "geom:latitude":37.825445,
+    "geom:longitude":-87.603444,
+    "iso:country":"US",
+    "sg:address":"313 Turner Ave",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4437",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FByVOJsYQolzYOw8sae57_37.825445_-87.603444@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047938,
+    "wof:geomhash":"a3d5e71872e579ac81810cbd640df716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840788047
+        }
+    ],
+    "wof:id":840788047,
+    "wof:lastmodified":1464047938,
+    "wof:name":"Roffler Of Henderson",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.603444,
+    37.825445,
+    -87.603444,
+    37.825445
+],
+  "geometry": {"coordinates":[-87.603444,37.825445],"type":"Point"}
+}

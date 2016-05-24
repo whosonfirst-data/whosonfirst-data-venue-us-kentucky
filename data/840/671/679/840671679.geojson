@@ -1,0 +1,71 @@
+{
+  "id": 840671679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.378095,37.014701,-86.378095,37.014701",
+    "geom:latitude":37.014701,
+    "geom:longitude":-86.378095,
+    "iso:country":"US",
+    "sg:address":"4325 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 9466",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39EYVFxez4OSifhi8I3wy2_37.014701_-86.378095@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045349,
+    "wof:geomhash":"84f53eadbabe75aa2f0a9f6b3eb200ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840671679
+        }
+    ],
+    "wof:id":840671679,
+    "wof:lastmodified":1464045349,
+    "wof:name":"Davis Inspection Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -86.378095,
+    37.014701,
+    -86.378095,
+    37.014701
+],
+  "geometry": {"coordinates":[-86.378095,37.014701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840773117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.152607,37.554593,-82.152607,37.554593",
+    "geom:latitude":37.554593,
+    "geom:longitude":-82.152607,
+    "iso:country":"US",
+    "sg:address":"109 S Johnson Bottom Rd",
+    "sg:city":"Freeburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 7392",
+    "sg:postcode":"41528",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lbY0ZwOMZ3yWjft1Xpto_37.554593_-82.152607@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047634,
+    "wof:geomhash":"48fad732ed1bc560c29e52fe5eb05f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840773117
+        }
+    ],
+    "wof:id":840773117,
+    "wof:lastmodified":1464047634,
+    "wof:name":"Fields Towing",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.152607,
+    37.554593,
+    -82.152607,
+    37.554593
+],
+  "geometry": {"coordinates":[-82.152607,37.554593],"type":"Point"}
+}

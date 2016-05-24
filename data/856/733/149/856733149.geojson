@@ -1,0 +1,76 @@
+{
+  "id": 856733149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.743882,38.215635,-85.743882,38.215635",
+    "geom:latitude":38.215635,
+    "geom:longitude":-85.743882,
+    "iso:country":"US",
+    "sg:address":"2247 S Preston St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/280152-mr-gattis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 6708",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CWKaKLDUU9vfCzXrmuR6F_38.215635_-85.743882@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053115,
+    "wof:geomhash":"a5e483ffe977a0d0d270084ba84dfeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873425,
+            "region_id":85688641,
+            "venue_id":856733149
+        }
+    ],
+    "wof:id":856733149,
+    "wof:lastmodified":1464053115,
+    "wof:name":"Mr Gatti's",
+    "wof:parent_id":85873425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.743882,
+    38.215635,
+    -85.743882,
+    38.215635
+],
+  "geometry": {"coordinates":[-85.743882,38.215635],"type":"Point"}
+}

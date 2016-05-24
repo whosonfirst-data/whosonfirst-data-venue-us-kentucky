@@ -1,0 +1,71 @@
+{
+  "id": 856710703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.562145,37.894423,-84.562145,37.894423",
+    "geom:latitude":37.894423,
+    "geom:longitude":-84.562145,
+    "iso:country":"US",
+    "sg:address":"116 Orchard Ct",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 2246",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a7sdZoR78dQ7QbeYBRLIO_37.894423_-84.562145@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052280,
+    "wof:geomhash":"65a6401b5e4578314adf975284139d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856710703
+        }
+    ],
+    "wof:id":856710703,
+    "wof:lastmodified":1464052280,
+    "wof:name":"A Ayala & Co Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.562145,
+    37.894423,
+    -84.562145,
+    37.894423
+],
+  "geometry": {"coordinates":[-84.562145,37.894423],"type":"Point"}
+}

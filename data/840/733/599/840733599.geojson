@@ -1,0 +1,74 @@
+{
+  "id": 840733599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.554739,38.195427,-84.554739,38.195427",
+    "geom:latitude":38.195427,
+    "geom:longitude":-84.554739,
+    "iso:country":"US",
+    "sg:address":"139 Scroggins Park",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 3773",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "sg:website":"www.gtownha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8MhjNGs5f7ujPFLYRkDY_38.195427_-84.554739@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046774,
+    "wof:geomhash":"f42b6c0a091194a61e2906c4f38614d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840733599
+        }
+    ],
+    "wof:id":840733599,
+    "wof:lastmodified":1464046774,
+    "wof:name":"Housing Authority-Georgetown",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -84.554739,
+    38.195427,
+    -84.554739,
+    38.195427
+],
+  "geometry": {"coordinates":[-84.554739,38.195427],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840688599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.791016,38.204021,-85.791016,38.204021",
+    "geom:latitude":38.204021,
+    "geom:longitude":-85.791016,
+    "iso:country":"US",
+    "sg:address":"2900 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 638 9085",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04UBGJAeHaOAhDEz6AYnaz_38.204021_-85.791016@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045788,
+    "wof:geomhash":"11093a2f6f47b0d2e64397352512e3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840688599
+        }
+    ],
+    "wof:id":840688599,
+    "wof:lastmodified":1464045788,
+    "wof:name":"Premier Warehouse & Distr Svc",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.791016,
+    38.204021,
+    -85.791016,
+    38.204021
+],
+  "geometry": {"coordinates":[-85.791016,38.204021],"type":"Point"}
+}

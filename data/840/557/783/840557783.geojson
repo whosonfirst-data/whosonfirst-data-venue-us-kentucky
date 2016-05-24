@@ -1,0 +1,71 @@
+{
+  "id": 840557783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4399,36.964977,-86.4399,36.964977",
+    "geom:latitude":36.964977,
+    "geom:longitude":-86.4399,
+    "iso:country":"US",
+    "sg:address":"1802 Rockingham Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8480",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30dwgMd3SFkBmjEcFMs1A8_36.964977_-86.439900@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042689,
+    "wof:geomhash":"7d52c093ca3666a6851562a3a875373a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840557783
+        }
+    ],
+    "wof:id":840557783,
+    "wof:lastmodified":1464042689,
+    "wof:name":"Tom P Carter DDS",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.4399,
+    36.964977,
+    -86.4399,
+    36.964977
+],
+  "geometry": {"coordinates":[-86.43989999999999,36.964977],"type":"Point"}
+}

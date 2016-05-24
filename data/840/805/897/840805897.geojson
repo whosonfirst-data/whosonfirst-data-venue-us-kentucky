@@ -1,0 +1,71 @@
+{
+  "id": 840805897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833109,37.710367,-85.833109,37.710367",
+    "geom:latitude":37.710367,
+    "geom:longitude":-85.833109,
+    "iso:country":"US",
+    "sg:address":"1035 Executive Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6663",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yGsbhf9HdM7secZbGODAa_37.710367_-85.833109@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048315,
+    "wof:geomhash":"83ac498b9a7717857311c6749ba87f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840805897
+        }
+    ],
+    "wof:id":840805897,
+    "wof:lastmodified":1464048315,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -85.833109,
+    37.710367,
+    -85.833109,
+    37.710367
+],
+  "geometry": {"coordinates":[-85.83310899999999,37.710367],"type":"Point"}
+}

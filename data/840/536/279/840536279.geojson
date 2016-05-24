@@ -1,0 +1,71 @@
+{
+  "id": 840536279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435572,36.985172,-86.435572,36.985172",
+    "geom:latitude":36.985172,
+    "geom:longitude":-86.435572,
+    "iso:country":"US",
+    "sg:address":"926 E 10th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0149",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PnMhalSVahZnCyRVKSHd4_36.985172_-86.435572@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042121,
+    "wof:geomhash":"ffcf8d115fcb022debc9240261c0eaab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840536279
+        }
+    ],
+    "wof:id":840536279,
+    "wof:lastmodified":1464042121,
+    "wof:name":"Hinton Cleaners Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.435572,
+    36.985172,
+    -86.435572,
+    36.985172
+],
+  "geometry": {"coordinates":[-86.43557199999999,36.985172],"type":"Point"}
+}

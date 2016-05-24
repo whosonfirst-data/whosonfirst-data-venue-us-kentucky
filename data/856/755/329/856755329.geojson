@@ -1,0 +1,73 @@
+{
+  "id": 856755329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.700396,36.763054,-83.700396,36.763054",
+    "geom:latitude":36.763054,
+    "geom:longitude":-83.700396,
+    "iso:country":"US",
+    "sg:address":"526 W Kentucky Ave",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 3223",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bnGO88qYqtAisRlftv9Rw_36.763054_-83.700396@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"46b08be2923f1284713fc263049928cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856755329
+        }
+    ],
+    "wof:id":856755329,
+    "wof:lastmodified":1464053957,
+    "wof:name":"Shawn S Fugate Md",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.700396,
+    36.763054,
+    -83.700396,
+    36.763054
+],
+  "geometry": {"coordinates":[-83.700396,36.763054],"type":"Point"}
+}

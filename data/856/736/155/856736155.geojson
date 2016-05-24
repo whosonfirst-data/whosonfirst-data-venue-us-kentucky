@@ -1,0 +1,74 @@
+{
+  "id": 856736155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569943,37.053872,-88.569943,37.053872",
+    "geom:latitude":37.053872,
+    "geom:longitude":-88.569943,
+    "iso:country":"US",
+    "sg:address":"3230 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/79765-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 3200",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5azKhexBM8niqIuz9OCdFC_37.053872_-88.569943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053224,
+    "wof:geomhash":"02303f65451b58b0d4d7f1a755666da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856736155
+        }
+    ],
+    "wof:id":856736155,
+    "wof:lastmodified":1464053224,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.569943,
+    37.053872,
+    -88.569943,
+    37.053872
+],
+  "geometry": {"coordinates":[-88.56994299999999,37.053872],"type":"Point"}
+}

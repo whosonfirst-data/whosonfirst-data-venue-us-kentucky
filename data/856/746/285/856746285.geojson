@@ -1,0 +1,89 @@
+{
+  "id": 856746285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663272,38.196918,-85.663272,38.196918",
+    "geom:latitude":38.196918,
+    "geom:longitude":-85.663272,
+    "iso:country":"US",
+    "sg:address":"2004 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 419 4853",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ocrl4trNTfehoxMcjKRNM_38.196918_-85.663272@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053606,
+    "wof:geomhash":"8680b0c0b3bc60939c1cc480b7ae15cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746285
+        }
+    ],
+    "wof:id":856746285,
+    "wof:lastmodified":1464053606,
+    "wof:name":"Just Fish",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -85.663272,
+    38.196918,
+    -85.663272,
+    38.196918
+],
+  "geometry": {"coordinates":[-85.66327200000001,38.196918],"type":"Point"}
+}

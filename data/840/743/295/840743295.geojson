@@ -1,0 +1,71 @@
+{
+  "id": 840743295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.481357,36.97774,-86.481357,36.97774",
+    "geom:latitude":36.97774,
+    "geom:longitude":-86.481357,
+    "iso:country":"US",
+    "sg:address":"221 Valleybrook Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 526 3902",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tV2Z103I8LYHkFCiPErkK_36.977740_-86.481357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046956,
+    "wof:geomhash":"2f544b30d1043b09f54c2a97cc717831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840743295
+        }
+    ],
+    "wof:id":840743295,
+    "wof:lastmodified":1464046956,
+    "wof:name":"Rocky Spring Baptist Church",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.481357,
+    36.97774,
+    -86.481357,
+    36.97774
+],
+  "geometry": {"coordinates":[-86.481357,36.97774],"type":"Point"}
+}

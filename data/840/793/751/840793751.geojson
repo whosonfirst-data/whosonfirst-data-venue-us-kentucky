@@ -1,0 +1,73 @@
+{
+  "id": 840793751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658095,38.095223,-85.658095,38.095223",
+    "geom:latitude":38.095223,
+    "geom:longitude":-85.658095,
+    "iso:country":"US",
+    "sg:address":"5519 Cannonwood Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 962 9985",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cRyDrGstg2BL3IYQvVzh6_38.095223_-85.658095@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048055,
+    "wof:geomhash":"5ef2123110d916dbc0a6ccc7db209ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840793751
+        }
+    ],
+    "wof:id":840793751,
+    "wof:lastmodified":1464048055,
+    "wof:name":"Hvac Assoc",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.658095,
+    38.095223,
+    -85.658095,
+    38.095223
+],
+  "geometry": {"coordinates":[-85.658095,38.095223],"type":"Point"}
+}

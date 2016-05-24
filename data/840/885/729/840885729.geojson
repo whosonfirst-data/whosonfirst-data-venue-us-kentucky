@@ -1,0 +1,68 @@
+{
+  "id": 840885729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685839,38.254552,-85.685839,38.254552",
+    "geom:latitude":38.254552,
+    "geom:longitude":-85.685839,
+    "iso:country":"US",
+    "sg:address":"2914 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 1900",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VmOXxBDtoTEQbx2kj0Pus_38.254552_-85.685839@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050194,
+    "wof:geomhash":"9d1d679a24954eedf75693b843bd6187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":840885729
+        }
+    ],
+    "wof:id":840885729,
+    "wof:lastmodified":1464050194,
+    "wof:name":"ABG Realtors",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.685839,
+    38.254552,
+    -85.685839,
+    38.254552
+],
+  "geometry": {"coordinates":[-85.685839,38.254552],"type":"Point"}
+}

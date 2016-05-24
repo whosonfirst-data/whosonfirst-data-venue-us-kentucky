@@ -1,0 +1,76 @@
+{
+  "id": 840720565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.569378,37.820256,-87.569378,37.820256",
+    "geom:latitude":37.820256,
+    "geom:longitude":-87.569378,
+    "iso:country":"US",
+    "sg:address":"261 US Hwy 41",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 9741",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pekBkefaejuE6BiLFthRJ_37.820256_-87.569378@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046520,
+    "wof:geomhash":"00cf93fa3fd461696bbeb8a0404f561d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840720565
+        }
+    ],
+    "wof:id":840720565,
+    "wof:lastmodified":1464046520,
+    "wof:name":"Frank's Barber Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.569378,
+    37.820256,
+    -87.569378,
+    37.820256
+],
+  "geometry": {"coordinates":[-87.569378,37.820256],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840907531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.318582,36.879354,-86.318582,36.879354",
+    "geom:latitude":36.879354,
+    "geom:longitude":-86.318582,
+    "iso:country":"US",
+    "sg:address":"2057 H E Johnson Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2893",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhLDuqX4pj7syWcfroh50_36.879354_-86.318582@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050649,
+    "wof:geomhash":"a901a6e42a590987bc549a943213598d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840907531
+        }
+    ],
+    "wof:id":840907531,
+    "wof:lastmodified":1464050649,
+    "wof:name":"American Plumbing",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.318582,
+    36.879354,
+    -86.318582,
+    36.879354
+],
+  "geometry": {"coordinates":[-86.31858200000001,36.879354],"type":"Point"}
+}

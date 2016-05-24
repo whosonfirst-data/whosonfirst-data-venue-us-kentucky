@@ -1,0 +1,71 @@
+{
+  "id": 840729497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.744965,39.016391,-84.744965,39.016391",
+    "geom:latitude":39.016391,
+    "geom:longitude":-84.744965,
+    "iso:country":"US",
+    "sg:address":"6519 Emerald Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 5988",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g1gRzN3yNoMXGbiSll8yR_39.016391_-84.744965@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046699,
+    "wof:geomhash":"93fa6d9a50780e422c051e0b81c77505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840729497
+        }
+    ],
+    "wof:id":840729497,
+    "wof:lastmodified":1464046699,
+    "wof:name":"Jim Guthrie Trucking Inc",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.744965,
+    39.016391,
+    -84.744965,
+    39.016391
+],
+  "geometry": {"coordinates":[-84.74496499999999,39.016391],"type":"Point"}
+}

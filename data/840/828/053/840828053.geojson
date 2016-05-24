@@ -1,0 +1,75 @@
+{
+  "id": 840828053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.451082,37.01074,-86.451082,37.01074",
+    "geom:latitude":37.01074,
+    "geom:longitude":-86.451082,
+    "iso:country":"US",
+    "sg:address":"720 Beech St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6609",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17mQS4pFMoBfAVrFNDkyMp_37.010740_-86.451082@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048963,
+    "wof:geomhash":"c9e6532d26600671d99b37211660bbfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840828053
+        }
+    ],
+    "wof:id":840828053,
+    "wof:lastmodified":1464048963,
+    "wof:name":"Reynolds Sealing & Striping",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -86.451082,
+    37.01074,
+    -86.451082,
+    37.01074
+],
+  "geometry": {"coordinates":[-86.451082,37.01074],"type":"Point"}
+}

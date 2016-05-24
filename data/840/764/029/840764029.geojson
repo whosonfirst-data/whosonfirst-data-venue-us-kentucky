@@ -1,0 +1,73 @@
+{
+  "id": 840764029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.768598,38.152016,-85.768598,38.152016",
+    "geom:latitude":38.152016,
+    "geom:longitude":-85.768598,
+    "iso:country":"US",
+    "sg:address":"304 Meadowood Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 9788",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05bZmNsgmhKE8e5Bw3UDIo_38.152016_-85.768598@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047428,
+    "wof:geomhash":"fb4708fa2f7889bedf18b50d148b2d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840764029
+        }
+    ],
+    "wof:id":840764029,
+    "wof:lastmodified":1464047428,
+    "wof:name":"Meadowood Apartments",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.768598,
+    38.152016,
+    -85.768598,
+    38.152016
+],
+  "geometry": {"coordinates":[-85.768598,38.152016],"type":"Point"}
+}

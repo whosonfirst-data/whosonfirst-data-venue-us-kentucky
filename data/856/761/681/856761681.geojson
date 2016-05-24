@@ -1,0 +1,78 @@
+{
+  "id": 856761681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.504846,37.020916,-88.504846,37.020916",
+    "geom:latitude":37.020916,
+    "geom:longitude":-88.504846,
+    "iso:country":"US",
+    "sg:address":"955 Tennevue Est",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 210 9721",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rW8BGssuIfbZzlaI8MB22_37.020916_-88.504846@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054185,
+    "wof:geomhash":"a18895cc9e6e50c9625954acf0e9011c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761681
+        }
+    ],
+    "wof:id":856761681,
+    "wof:lastmodified":1464054185,
+    "wof:name":"Stone Cleaniing Co",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -88.504846,
+    37.020916,
+    -88.504846,
+    37.020916
+],
+  "geometry": {"coordinates":[-88.504846,37.020916],"type":"Point"}
+}

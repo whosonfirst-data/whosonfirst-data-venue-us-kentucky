@@ -1,0 +1,71 @@
+{
+  "id": 840537255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603893,37.089948,-84.603893,37.089948",
+    "geom:latitude":37.089948,
+    "geom:longitude":-84.603893,
+    "iso:country":"US",
+    "sg:address":"213 S Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 9499",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HQxfJm2iioPFmG7vB3sf5_37.089948_-84.603893@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042141,
+    "wof:geomhash":"a3ab874c8e8236db7adc9e71a57eeb05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840537255
+        }
+    ],
+    "wof:id":840537255,
+    "wof:lastmodified":1464042141,
+    "wof:name":"Charles Fox",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -84.603893,
+    37.089948,
+    -84.603893,
+    37.089948
+],
+  "geometry": {"coordinates":[-84.603893,37.089948],"type":"Point"}
+}

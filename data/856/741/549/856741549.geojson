@@ -1,0 +1,75 @@
+{
+  "id": 856741549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704584,38.225141,-85.704584,38.225141",
+    "geom:latitude":38.225141,
+    "geom:longitude":-85.704584,
+    "iso:country":"US",
+    "sg:address":"1840 Roanoke Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 1252",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iv21yM7S6p0WRK3EFnBFU_38.225141_-85.704584@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053442,
+    "wof:geomhash":"884ceeefaf2bc2cfb10170f7bd1c8f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856741549
+        }
+    ],
+    "wof:id":856741549,
+    "wof:lastmodified":1464053442,
+    "wof:name":"Locks By Smith",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.704584,
+    38.225141,
+    -85.704584,
+    38.225141
+],
+  "geometry": {"coordinates":[-85.704584,38.225141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840859025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.314246,38.334231,-85.314246,38.334231",
+    "geom:latitude":38.334231,
+    "geom:longitude":-85.314246,
+    "iso:country":"US",
+    "sg:address":"4901 S Hwy 53",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 0351",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FQvUgABrx8crFK86BQcRC_38.334231_-85.314246@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049637,
+    "wof:geomhash":"95759ba82f36f84b2b08f38b7e9cfdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840859025
+        }
+    ],
+    "wof:id":840859025,
+    "wof:lastmodified":1464049637,
+    "wof:name":"Good News Shelter Corp",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -85.314246,
+    38.334231,
+    -85.314246,
+    38.334231
+],
+  "geometry": {"coordinates":[-85.314246,38.334231],"type":"Point"}
+}

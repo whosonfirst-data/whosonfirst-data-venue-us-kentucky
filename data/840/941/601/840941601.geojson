@@ -1,0 +1,68 @@
+{
+  "id": 840941601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.550217,38.181405,-85.550217,38.181405",
+    "geom:latitude":38.181405,
+    "geom:longitude":-85.550217,
+    "iso:country":"US",
+    "sg:address":"3909 Chenoweth Run Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 1027",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BCV0RzQrPS5noU9BnwCon_38.181405_-85.550217@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051479,
+    "wof:geomhash":"8f77a3081ca3f828a6f3e93d8dbd694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840941601
+        }
+    ],
+    "wof:id":840941601,
+    "wof:lastmodified":1464051479,
+    "wof:name":"Meadow Run Inc",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.550217,
+    38.181405,
+    -85.550217,
+    38.181405
+],
+  "geometry": {"coordinates":[-85.550217,38.181405],"type":"Point"}
+}

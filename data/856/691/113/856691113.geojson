@@ -1,0 +1,73 @@
+{
+  "id": 856691113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472302,38.323582,-85.472302,38.323582",
+    "geom:latitude":38.323582,
+    "geom:longitude":-85.472302,
+    "iso:country":"US",
+    "sg:address":"6439 W Hwy 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 2823",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lgs7dCqukbYSx16WW1zr0_38.323582_-85.472302@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051891,
+    "wof:geomhash":"c662e3574a34a1911a05458814f5225b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856691113
+        }
+    ],
+    "wof:id":856691113,
+    "wof:lastmodified":1464051891,
+    "wof:name":"Kentucky Landscape & Lawn Care",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.472302,
+    38.323582,
+    -85.472302,
+    38.323582
+],
+  "geometry": {"coordinates":[-85.472302,38.323582],"type":"Point"}
+}

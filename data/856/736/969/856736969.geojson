@@ -1,0 +1,72 @@
+{
+  "id": 856736969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627234,37.118794,-84.627234,37.118794",
+    "geom:latitude":37.118794,
+    "geom:longitude":-84.627234,
+    "iso:country":"US",
+    "sg:address":"3061 N Highway 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/42163-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 0911",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36cJdKg1P6Y0Sa5eOAd1sT_37.118794_-84.627234@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053256,
+    "wof:geomhash":"63ef35720d9de53d2c365834d0ffbe1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736969
+        }
+    ],
+    "wof:id":856736969,
+    "wof:lastmodified":1464053256,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.627234,
+    37.118794,
+    -84.627234,
+    37.118794
+],
+  "geometry": {"coordinates":[-84.627234,37.118794],"type":"Point"}
+}

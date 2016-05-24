@@ -1,0 +1,71 @@
+{
+  "id": 856716483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438863,36.981386,-86.438863,36.981386",
+    "geom:latitude":36.981386,
+    "geom:longitude":-86.438863,
+    "iso:country":"US",
+    "sg:address":"1116 Broadway Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9575",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bDCPyGpu3DLCq6EvBRnzV_36.981386_-86.438863@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052449,
+    "wof:geomhash":"94cec97b2685896c3ab767869b6079a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856716483
+        }
+    ],
+    "wof:id":856716483,
+    "wof:lastmodified":1464052449,
+    "wof:name":"Southern Dog Fence",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -86.438863,
+    36.981386,
+    -86.438863,
+    36.981386
+],
+  "geometry": {"coordinates":[-86.438863,36.981386],"type":"Point"}
+}

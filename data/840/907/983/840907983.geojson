@@ -1,0 +1,77 @@
+{
+  "id": 840907983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.550671,38.053005,-84.550671,38.053005",
+    "geom:latitude":38.053005,
+    "geom:longitude":-84.550671,
+    "iso:country":"US",
+    "sg:address":"2020 Cambridge Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 8057",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z2UnhIfjUhqEBzcGqgni8_38.053005_-84.550671@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050663,
+    "wof:geomhash":"92905f0aa17cbba667c2e17a158cc370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873489,
+            "region_id":85688641,
+            "venue_id":840907983
+        }
+    ],
+    "wof:id":840907983,
+    "wof:lastmodified":1464050663,
+    "wof:name":"Sunrise Health Care Admissions",
+    "wof:parent_id":85873489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -84.550671,
+    38.053005,
+    -84.550671,
+    38.053005
+],
+  "geometry": {"coordinates":[-84.55067099999999,38.053005],"type":"Point"}
+}

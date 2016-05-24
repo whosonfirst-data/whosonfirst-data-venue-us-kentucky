@@ -1,0 +1,67 @@
+{
+  "id": 856721177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.427354,36.944529,-86.427354,36.944529",
+    "geom:latitude":36.944529,
+    "geom:longitude":-86.427354,
+    "iso:country":"US",
+    "sg:address":"1807 Cave Mill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9077",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:website":"www.anchoredchristian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1clqWTakMT8uUPGkgGp6Zc_36.944529_-86.427354@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052640,
+    "wof:geomhash":"14831f2c5196a2d94788a640f9678293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856721177
+        }
+    ],
+    "wof:id":856721177,
+    "wof:lastmodified":1464052640,
+    "wof:name":"Anchored Christian School",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.427354,
+    36.944529,
+    -86.427354,
+    36.944529
+],
+  "geometry": {"coordinates":[-86.42735399999999,36.944529],"type":"Point"}
+}

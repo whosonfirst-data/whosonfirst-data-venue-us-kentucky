@@ -1,0 +1,75 @@
+{
+  "id": 840842723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.382094,37.555515,-83.382094,37.555515",
+    "geom:latitude":37.555515,
+    "geom:longitude":-83.382094,
+    "iso:country":"US",
+    "sg:address":"1501 Hargis Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 666 5912",
+    "sg:postcode":"41339",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946791,
+        102085543,
+        85840361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ODORh0JFM1ugAAAZegJzm_37.555515_-83.382094@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049286,
+    "wof:geomhash":"5422d4617f82e22b207f586c6687fdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085543,
+            "locality_id":85946791,
+            "neighbourhood_id":85840361,
+            "region_id":85688641,
+            "venue_id":840842723
+        }
+    ],
+    "wof:id":840842723,
+    "wof:lastmodified":1464049286,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":85840361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -83.382094,
+    37.555515,
+    -83.382094,
+    37.555515
+],
+  "geometry": {"coordinates":[-83.382094,37.555515],"type":"Point"}
+}

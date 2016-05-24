@@ -1,0 +1,73 @@
+{
+  "id": 840693175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.700173,38.173794,-85.700173,38.173794",
+    "geom:latitude":38.173794,
+    "geom:longitude":-85.700173,
+    "iso:country":"US",
+    "sg:address":"1357 Vim Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 9451",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BcPGqfE21z2cs6GgALKBe_38.173794_-85.700173@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045899,
+    "wof:geomhash":"5eec5bd17aa847fc9eb9846689282e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840693175
+        }
+    ],
+    "wof:id":840693175,
+    "wof:lastmodified":1464045899,
+    "wof:name":"American Garage Builders",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.700173,
+    38.173794,
+    -85.700173,
+    38.173794
+],
+  "geometry": {"coordinates":[-85.70017300000001,38.173794],"type":"Point"}
+}

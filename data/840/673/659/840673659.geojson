@@ -1,0 +1,69 @@
+{
+  "id": 840673659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662645,37.86091,-84.662645,37.86091",
+    "geom:latitude":37.86091,
+    "geom:longitude":-84.662645,
+    "iso:country":"US",
+    "sg:address":"110 S Lexington Ave",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3613",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CqRrMKg5N0RQwfUYof4LE_37.860910_-84.662645@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045406,
+    "wof:geomhash":"f0af02230a42c31f55be2233f7540a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840673659
+        }
+    ],
+    "wof:id":840673659,
+    "wof:lastmodified":1464045406,
+    "wof:name":"Animal Clinic Of Wilmore",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.662645,
+    37.86091,
+    -84.662645,
+    37.86091
+],
+  "geometry": {"coordinates":[-84.662645,37.86091],"type":"Point"}
+}

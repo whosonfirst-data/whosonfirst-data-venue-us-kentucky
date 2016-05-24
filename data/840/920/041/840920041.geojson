@@ -1,0 +1,73 @@
+{
+  "id": 840920041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495889,38.041374,-84.495889,38.041374",
+    "geom:latitude":38.041374,
+    "geom:longitude":-84.495889,
+    "iso:country":"US",
+    "sg:address":"265 Lyndhurst Pl",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 0680",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wJSfLNo6WmayO4oddS84C_38.041374_-84.495889@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050991,
+    "wof:geomhash":"fa627193732495dfd4c009a90c2000df",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840920041
+        }
+    ],
+    "wof:id":840920041,
+    "wof:lastmodified":1464050991,
+    "wof:name":"Mc Gregor Apartments",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.495889,
+    38.041374,
+    -84.495889,
+    38.041374
+],
+  "geometry": {"coordinates":[-84.49588900000001,38.041374],"type":"Point"}
+}

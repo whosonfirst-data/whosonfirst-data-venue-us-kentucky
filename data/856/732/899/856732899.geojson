@@ -1,0 +1,78 @@
+{
+  "id": 856732899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.62944,38.250292,-85.62944,38.250292",
+    "geom:latitude":38.250292,
+    "geom:longitude":-85.62944,
+    "iso:country":"US",
+    "sg:address":"4600 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/90097-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 721 7366",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07vvkLuLnQ2mP1pgDGz77t_38.250292_-85.629440@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053106,
+    "wof:geomhash":"4e1c3658855e959fa3e3ca6eca408e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732899
+        }
+    ],
+    "wof:id":856732899,
+    "wof:lastmodified":1464053106,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.62944,
+    38.250292,
+    -85.62944,
+    38.250292
+],
+  "geometry": {"coordinates":[-85.62944,38.250292],"type":"Point"}
+}

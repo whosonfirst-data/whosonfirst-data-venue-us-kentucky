@@ -1,0 +1,73 @@
+{
+  "id": 840830745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.770628,37.646955,-84.770628,37.646955",
+    "geom:latitude":37.646955,
+    "geom:longitude":-84.770628,
+    "iso:country":"US",
+    "sg:address":"116 N 2nd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 0105",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GWJE5lGz7KVH7jjxIdhI6_37.646955_-84.770628@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049020,
+    "wof:geomhash":"96ef32022f55d0a2dfa872e0b3bd3040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840830745
+        }
+    ],
+    "wof:id":840830745,
+    "wof:lastmodified":1464049020,
+    "wof:name":"Glass Mountain",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -84.770628,
+    37.646955,
+    -84.770628,
+    37.646955
+],
+  "geometry": {"coordinates":[-84.770628,37.646955],"type":"Point"}
+}

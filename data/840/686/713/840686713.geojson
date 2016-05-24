@@ -1,0 +1,73 @@
+{
+  "id": 840686713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.572644,37.877766,-87.572644,37.877766",
+    "geom:latitude":37.877766,
+    "geom:longitude":-87.572644,
+    "iso:country":"US",
+    "sg:address":"127 William and Mary Ct",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3920",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58gFTTCxMvWsR4d3BJ6Tjo_37.877766_-87.572644@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045743,
+    "wof:geomhash":"6d3ab3689be845261c180b11adb30eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840686713
+        }
+    ],
+    "wof:id":840686713,
+    "wof:lastmodified":1464045743,
+    "wof:name":"Sunset Lane Miniwarehouse",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.572644,
+    37.877766,
+    -87.572644,
+    37.877766
+],
+  "geometry": {"coordinates":[-87.572644,37.877766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840774129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42588,36.952342,-86.42588,36.952342",
+    "geom:latitude":36.952342,
+    "geom:longitude":-86.42588,
+    "iso:country":"US",
+    "sg:address":"2530 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4914",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3edCvUwz6p9wquLmgYjUxX_36.952342_-86.425880@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047652,
+    "wof:geomhash":"2ed05607887ba2abf7fc611c1054f97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840774129
+        }
+    ],
+    "wof:id":840774129,
+    "wof:lastmodified":1464047652,
+    "wof:name":"Copy Trolley",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -86.42588,
+    36.952342,
+    -86.42588,
+    36.952342
+],
+  "geometry": {"coordinates":[-86.42588000000001,36.952342],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840847327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.553747,38.183865,-84.553747,38.183865",
+    "geom:latitude":38.183865,
+    "geom:longitude":-84.553747,
+    "iso:country":"US",
+    "sg:address":"161 Southgate Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 868 6000",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uq5KoFWLLJFn20v71lpLY_38.183865_-84.553747@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049385,
+    "wof:geomhash":"5f09a1c8037c719eccb007d6121184c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840847327
+        }
+    ],
+    "wof:id":840847327,
+    "wof:lastmodified":1464049385,
+    "wof:name":"Patriot Automotive Svc Ctr",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.553747,
+    38.183865,
+    -84.553747,
+    38.183865
+],
+  "geometry": {"coordinates":[-84.553747,38.183865],"type":"Point"}
+}

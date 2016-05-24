@@ -1,0 +1,68 @@
+{
+  "id": 856688915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.455028,38.005437,-84.455028,38.005437",
+    "geom:latitude":38.005437,
+    "geom:longitude":-84.455028,
+    "iso:country":"US",
+    "sg:address":"356 Pleasant Pointe Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 269 4796",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UlXNToxPh7qXHu56Aqypd_38.005437_-84.455028@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051846,
+    "wof:geomhash":"7b3ac3e15b36e89714b88cbeab215cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873047,
+            "region_id":85688641,
+            "venue_id":856688915
+        }
+    ],
+    "wof:id":856688915,
+    "wof:lastmodified":1464051846,
+    "wof:name":"Studio Nouveau",
+    "wof:parent_id":85873047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.455028,
+    38.005437,
+    -84.455028,
+    38.005437
+],
+  "geometry": {"coordinates":[-84.455028,38.005437],"type":"Point"}
+}

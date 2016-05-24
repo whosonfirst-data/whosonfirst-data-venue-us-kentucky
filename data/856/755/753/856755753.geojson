@@ -1,0 +1,77 @@
+{
+  "id": 856755753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.795173,38.995313,-84.795173,38.995313",
+    "geom:latitude":38.995313,
+    "geom:longitude":-84.795173,
+    "iso:country":"US",
+    "sg:address":"5501 Middle Creek Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 334 2117",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hiking"
+    ],
+    "sg:website":"www.boonecountyky.org/parks/Park...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39MSbxTQwf006bfpOZfll3_38.995313_-84.795173@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053970,
+    "wof:geomhash":"cbb5010719bfaaa4a6d2539742ff65c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856755753
+        }
+    ],
+    "wof:id":856755753,
+    "wof:lastmodified":1464053970,
+    "wof:name":"Middle Creek Park",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hiking"
+    ]
+},
+  "bbox": [
+    -84.795173,
+    38.995313,
+    -84.795173,
+    38.995313
+],
+  "geometry": {"coordinates":[-84.79517300000001,38.995313],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840656045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647531,38.012957,-85.647531,38.012957",
+    "geom:latitude":38.012957,
+    "geom:longitude":-85.647531,
+    "iso:country":"US",
+    "sg:address":"375 Sunview Dr",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4333",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZIS6am4MBYEIUUpr6qcBn_38.012957_-85.647531@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045023,
+    "wof:geomhash":"7ac43ba063fbd9b1900451863f8deb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840656045
+        }
+    ],
+    "wof:id":840656045,
+    "wof:lastmodified":1464045023,
+    "wof:name":"Bullitt County Shrine Club",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -85.647531,
+    38.012957,
+    -85.647531,
+    38.012957
+],
+  "geometry": {"coordinates":[-85.647531,38.012957],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840752931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.913502,37.690768,-85.913502,37.690768",
+    "geom:latitude":37.690768,
+    "geom:longitude":-85.913502,
+    "iso:country":"US",
+    "sg:address":"380 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2121",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qp2rwqBszqGZBmbAM576i_37.690768_-85.913502@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047170,
+    "wof:geomhash":"ffc321d97b3a51c6bd7670e373996d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840752931
+        }
+    ],
+    "wof:id":840752931,
+    "wof:lastmodified":1464047170,
+    "wof:name":"Elizabethtown Fire Dept",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.913502,
+    37.690768,
+    -85.913502,
+    37.690768
+],
+  "geometry": {"coordinates":[-85.91350199999999,37.690768],"type":"Point"}
+}

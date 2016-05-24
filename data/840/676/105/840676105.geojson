@@ -1,0 +1,71 @@
+{
+  "id": 840676105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.574861,37.87989,-84.574861,37.87989",
+    "geom:latitude":37.87989,
+    "geom:longitude":-84.574861,
+    "iso:country":"US",
+    "sg:address":"109 S 2nd St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9451",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RcdXpuftN9BQFkM4cYu4c_37.879890_-84.574861@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045467,
+    "wof:geomhash":"4c5d32f1194f44f61fb77cb147f9e506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840676105
+        }
+    ],
+    "wof:id":840676105,
+    "wof:lastmodified":1464045467,
+    "wof:name":"Social Service Dept",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -84.574861,
+    37.87989,
+    -84.574861,
+    37.87989
+],
+  "geometry": {"coordinates":[-84.574861,37.87989],"type":"Point"}
+}

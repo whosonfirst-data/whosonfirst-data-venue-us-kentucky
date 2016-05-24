@@ -1,0 +1,71 @@
+{
+  "id": 840836275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.46387,37.002685,-86.46387,37.002685",
+    "geom:latitude":37.002685,
+    "geom:longitude":-86.46387,
+    "iso:country":"US",
+    "sg:address":"1155 N Lee St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0200",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HRfrrfsWqYMckRLHZebWF_37.002685_-86.463870@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049135,
+    "wof:geomhash":"29513f00af999ba2f535b3ff4c0b9f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840836275
+        }
+    ],
+    "wof:id":840836275,
+    "wof:lastmodified":1464049135,
+    "wof:name":"El Calvario AD",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.46387,
+    37.002685,
+    -86.46387,
+    37.002685
+],
+  "geometry": {"coordinates":[-86.46387,37.002685],"type":"Point"}
+}

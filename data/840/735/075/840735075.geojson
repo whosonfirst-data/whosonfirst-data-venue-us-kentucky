@@ -1,0 +1,71 @@
+{
+  "id": 840735075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367322,36.950509,-86.367322,36.950509",
+    "geom:latitude":36.950509,
+    "geom:longitude":-86.367322,
+    "iso:country":"US",
+    "sg:address":"271 Markdale Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6924",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I93tJ3GlXZgE3bpvaJ0NQ_36.950509_-86.367322@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046803,
+    "wof:geomhash":"fd739caeceb9f0eaca7706aa3efa37f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840735075
+        }
+    ],
+    "wof:id":840735075,
+    "wof:lastmodified":1464046803,
+    "wof:name":"Bowlin Investments",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.367322,
+    36.950509,
+    -86.367322,
+    36.950509
+],
+  "geometry": {"coordinates":[-86.367322,36.950509],"type":"Point"}
+}

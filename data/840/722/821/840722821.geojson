@@ -1,0 +1,71 @@
+{
+  "id": 840722821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.588044,37.135234,-84.588044,37.135234",
+    "geom:latitude":37.135234,
+    "geom:longitude":-84.588044,
+    "iso:country":"US",
+    "sg:address":"1115 State Hwy 39",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 5903",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2erC2hUTIVtmsOQrDOHuRc_37.135234_-84.588044@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046565,
+    "wof:geomhash":"44bff308c99c7325ada043c7f199f24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840722821
+        }
+    ],
+    "wof:id":840722821,
+    "wof:lastmodified":1464046565,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.588044,
+    37.135234,
+    -84.588044,
+    37.135234
+],
+  "geometry": {"coordinates":[-84.588044,37.135234],"type":"Point"}
+}

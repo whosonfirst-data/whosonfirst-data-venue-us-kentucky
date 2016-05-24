@@ -1,0 +1,71 @@
+{
+  "id": 840827625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880696,37.747084,-85.880696,37.747084",
+    "geom:latitude":37.747084,
+    "geom:longitude":-85.880696,
+    "iso:country":"US",
+    "sg:address":"203 Lakewood Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 0445",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33h6Cvo9feWpo83fuhzo2I_37.747084_-85.880696@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048955,
+    "wof:geomhash":"ec603b496af97ef460660297b3a16b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840827625
+        }
+    ],
+    "wof:id":840827625,
+    "wof:lastmodified":1464048955,
+    "wof:name":"Lowe & Lowe",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -85.880696,
+    37.747084,
+    -85.880696,
+    37.747084
+],
+  "geometry": {"coordinates":[-85.880696,37.747084],"type":"Point"}
+}

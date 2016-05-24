@@ -1,0 +1,72 @@
+{
+  "id": 856732319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.263141,38.208518,-85.263141,38.208518",
+    "geom:latitude":38.208518,
+    "geom:longitude":-85.263141,
+    "iso:country":"US",
+    "sg:address":"480 Taylorsville Rd",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/shelbyville/176031-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 0800",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58NFyXNfYFnT1JlesnXCFK_38.208518_-85.263141@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053085,
+    "wof:geomhash":"9df5b763ede84c4211e07c97cfe524b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":856732319
+        }
+    ],
+    "wof:id":856732319,
+    "wof:lastmodified":1464053085,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.263141,
+    38.208518,
+    -85.263141,
+    38.208518
+],
+  "geometry": {"coordinates":[-85.263141,38.208518],"type":"Point"}
+}

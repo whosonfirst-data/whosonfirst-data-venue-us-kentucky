@@ -1,0 +1,77 @@
+{
+  "id": 856761241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683241,37.041463,-88.683241,37.041463",
+    "geom:latitude":37.041463,
+    "geom:longitude":-88.683241,
+    "iso:country":"US",
+    "sg:address":"278 Hillington Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 0004",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pMKHx5LUWWx7Es4W2pO5U_37.041463_-88.683241@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054169,
+    "wof:geomhash":"1a1a75f1b5144f0d1bf97b2ce81cb78d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761241
+        }
+    ],
+    "wof:id":856761241,
+    "wof:lastmodified":1464054169,
+    "wof:name":"Dunn Construction",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -88.683241,
+    37.041463,
+    -88.683241,
+    37.041463
+],
+  "geometry": {"coordinates":[-88.683241,37.041463],"type":"Point"}
+}

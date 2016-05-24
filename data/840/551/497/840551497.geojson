@@ -1,0 +1,73 @@
+{
+  "id": 840551497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.458012,37.003234,-86.458012,37.003234",
+    "geom:latitude":37.003234,
+    "geom:longitude":-86.458012,
+    "iso:country":"US",
+    "sg:address":"710 Woodford Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3555",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xOe1szV6rwcleWhAmabzE_37.003234_-86.458012@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042545,
+    "wof:geomhash":"aa64d4d87ac6ac9d5b1755bd341d7041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840551497
+        }
+    ],
+    "wof:id":840551497,
+    "wof:lastmodified":1464042545,
+    "wof:name":"Verstar",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.458012,
+    37.003234,
+    -86.458012,
+    37.003234
+],
+  "geometry": {"coordinates":[-86.458012,37.003234],"type":"Point"}
+}

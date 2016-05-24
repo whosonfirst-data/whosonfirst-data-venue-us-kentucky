@@ -1,0 +1,66 @@
+{
+  "id": 856760783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.26574,37.64329,-82.26574,37.64329",
+    "geom:latitude":37.64329,
+    "geom:longitude":-82.26574,
+    "iso:country":"US",
+    "sg:address":"41 Wood Hill Dr",
+    "sg:city":"Belfry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 1616",
+    "sg:postcode":"41514",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zrr0ScG4Ve0CdHCBxNn3r_37.643290_-82.265740@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054152,
+    "wof:geomhash":"3e5372f1e486a52d5da5d007e138b74a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856760783
+        }
+    ],
+    "wof:id":856760783,
+    "wof:lastmodified":1464054152,
+    "wof:name":"Mark Auto Repair",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.26574,
+    37.64329,
+    -82.26574,
+    37.64329
+],
+  "geometry": {"coordinates":[-82.26573999999999,37.64329],"type":"Point"}
+}

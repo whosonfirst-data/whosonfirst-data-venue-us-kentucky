@@ -1,0 +1,67 @@
+{
+  "id": 840842439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850168,37.683141,-85.850168,37.683141",
+    "geom:latitude":37.683141,
+    "geom:longitude":-85.850168,
+    "iso:country":"US",
+    "sg:address":"527 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6490",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"www.rtmarbys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RyKipxfnDhq37srBajGVm_37.683141_-85.850168@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049281,
+    "wof:geomhash":"e2d34d138aab7df0dd5f233a2bf5b066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840842439
+        }
+    ],
+    "wof:id":840842439,
+    "wof:lastmodified":1464049281,
+    "wof:name":"Arby's",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.850168,
+    37.683141,
+    -85.850168,
+    37.683141
+],
+  "geometry": {"coordinates":[-85.850168,37.683141],"type":"Point"}
+}

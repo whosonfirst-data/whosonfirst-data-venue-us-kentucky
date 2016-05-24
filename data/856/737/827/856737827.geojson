@@ -1,0 +1,74 @@
+{
+  "id": 856737827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.282665,37.67389,-82.282665,37.67389",
+    "geom:latitude":37.67389,
+    "geom:longitude":-82.282665,
+    "iso:country":"US",
+    "sg:address":"130 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/south-williamson/83797-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 1010",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CCLA9fiyXErVICvKPKwK1_37.673976_-82.282716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053296,
+    "wof:geomhash":"1daac2622db7ae107bbfb92b6f0f5331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856737827
+        }
+    ],
+    "wof:id":856737827,
+    "wof:lastmodified":1464053296,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.282665,
+    37.67389,
+    -82.282665,
+    37.67389
+],
+  "geometry": {"coordinates":[-82.28266499999999,37.67389],"type":"Point"}
+}

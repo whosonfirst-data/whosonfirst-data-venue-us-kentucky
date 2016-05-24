@@ -1,0 +1,73 @@
+{
+  "id": 840536867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.643669,37.07549,-88.643669,37.07549",
+    "geom:latitude":37.07549,
+    "geom:longitude":-88.643669,
+    "iso:country":"US",
+    "sg:address":"3217 Central Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 2040",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fGyjV6yY1iavwGClf2yMJ_37.075490_-88.643669@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042132,
+    "wof:geomhash":"082c7ef97b2d24cc16ccb009956a8b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840536867
+        }
+    ],
+    "wof:id":840536867,
+    "wof:lastmodified":1464042132,
+    "wof:name":"Ruth Johnson's School Of Dance",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -88.643669,
+    37.07549,
+    -88.643669,
+    37.07549
+],
+  "geometry": {"coordinates":[-88.643669,37.07549],"type":"Point"}
+}

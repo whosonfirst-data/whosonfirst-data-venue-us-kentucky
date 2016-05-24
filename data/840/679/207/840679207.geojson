@@ -1,0 +1,73 @@
+{
+  "id": 840679207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434089,36.984587,-86.434089,36.984587",
+    "geom:latitude":36.984587,
+    "geom:longitude":-86.434089,
+    "iso:country":"US",
+    "sg:address":"941 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0229",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rp9dIhd0KWrQj5W88GEDg_36.984587_-86.434089@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045550,
+    "wof:geomhash":"79d018288ee7bc0e0630634887f2fc1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840679207
+        }
+    ],
+    "wof:id":840679207,
+    "wof:lastmodified":1464045550,
+    "wof:name":"Tender Touch Express",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.434089,
+    36.984587,
+    -86.434089,
+    36.984587
+],
+  "geometry": {"coordinates":[-86.434089,36.984587],"type":"Point"}
+}

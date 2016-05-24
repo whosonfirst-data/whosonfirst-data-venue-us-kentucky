@@ -1,0 +1,73 @@
+{
+  "id": 840619785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880217,37.757816,-85.880217,37.757816",
+    "geom:latitude":37.757816,
+    "geom:longitude":-85.880217,
+    "iso:country":"US",
+    "sg:address":"1300 Pine Valley Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 9359",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y9rgzSQS6lYevY5aPorag_37.757816_-85.880217@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044162,
+    "wof:geomhash":"cecac738be06ee73a02590e8795476b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840619785
+        }
+    ],
+    "wof:id":840619785,
+    "wof:lastmodified":1464044162,
+    "wof:name":"Bridge St Corporate Housing",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.880217,
+    37.757816,
+    -85.880217,
+    37.757816
+],
+  "geometry": {"coordinates":[-85.880217,37.757816],"type":"Point"}
+}

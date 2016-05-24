@@ -1,0 +1,68 @@
+{
+  "id": 840786961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.319788,37.775457,-84.319788,37.775457",
+    "geom:latitude":37.775457,
+    "geom:longitude":-84.319788,
+    "iso:country":"US",
+    "sg:address":"120 S Keeneland Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 0220",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hURg1z8Nq6TLguGORppqy_37.775457_-84.319788@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047919,
+    "wof:geomhash":"fab683dc2eda9621bfbc6e0b78d89ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840786961
+        }
+    ],
+    "wof:id":840786961,
+    "wof:lastmodified":1464047919,
+    "wof:name":"Salon Revue",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.319788,
+    37.775457,
+    -84.319788,
+    37.775457
+],
+  "geometry": {"coordinates":[-84.319788,37.775457],"type":"Point"}
+}

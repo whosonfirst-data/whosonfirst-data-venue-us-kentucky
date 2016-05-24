@@ -1,0 +1,83 @@
+{
+  "id": 856752965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.71079,38.048666,-84.71079,38.048666",
+    "geom:latitude":38.048666,
+    "geom:longitude":-84.71079,
+    "iso:country":"US",
+    "sg:address":"525 Marsailles Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 7704",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fi5KGv0XGuuisDuBXwUp8_38.048666_-84.710790@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053867,
+    "wof:geomhash":"b93be3ad6c9ec370bc3f8704694c1036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752965
+        }
+    ],
+    "wof:id":856752965,
+    "wof:lastmodified":1464053867,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -84.71079,
+    38.048666,
+    -84.71079,
+    38.048666
+],
+  "geometry": {"coordinates":[-84.71079,38.048666],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856721257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729592,38.23811,-85.729592,38.23811",
+    "geom:latitude":38.23811,
+    "geom:longitude":-85.729592,
+    "iso:country":"US",
+    "sg:address":"936 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 7417",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16aEagVzn7ehZGFh5CXh7c_38.238110_-85.729592@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052644,
+    "wof:geomhash":"12ab8cd96754d96db8628608a5140b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856721257
+        }
+    ],
+    "wof:id":856721257,
+    "wof:lastmodified":1464052644,
+    "wof:name":"Altenheim",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.729592,
+    38.23811,
+    -85.729592,
+    38.23811
+],
+  "geometry": {"coordinates":[-85.729592,38.23811],"type":"Point"}
+}

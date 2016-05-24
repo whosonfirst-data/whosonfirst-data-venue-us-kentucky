@@ -1,0 +1,71 @@
+{
+  "id": 840947003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.531682,36.93592,-86.531682,36.93592",
+    "geom:latitude":36.93592,
+    "geom:longitude":-86.531682,
+    "iso:country":"US",
+    "sg:address":"255 Stonecrest Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 7598",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1psulTrIqfcYoAu0aHI2j7_36.935920_-86.531682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051589,
+    "wof:geomhash":"1c1c10542f8a2bc36b4b180e7cccd9ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840947003
+        }
+    ],
+    "wof:id":840947003,
+    "wof:lastmodified":1464051589,
+    "wof:name":"PPG Industries",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.531682,
+    36.93592,
+    -86.531682,
+    36.93592
+],
+  "geometry": {"coordinates":[-86.531682,36.93592],"type":"Point"}
+}

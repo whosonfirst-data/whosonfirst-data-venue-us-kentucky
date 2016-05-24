@@ -1,0 +1,75 @@
+{
+  "id": 840640241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78883,38.232257,-85.78883,38.232257",
+    "geom:latitude":38.232257,
+    "geom:longitude":-85.78883,
+    "iso:country":"US",
+    "sg:address":"1385 Dixie Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 9603",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LDF9McRxdgEZZioPu8hO4_38.232257_-85.788830@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044679,
+    "wof:geomhash":"1582c554800ead045ec60b90d58585a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":840640241
+        }
+    ],
+    "wof:id":840640241,
+    "wof:lastmodified":1464044679,
+    "wof:name":"Scott's Quality Air",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.78883,
+    38.232257,
+    -85.78883,
+    38.232257
+],
+  "geometry": {"coordinates":[-85.78883,38.232257],"type":"Point"}
+}

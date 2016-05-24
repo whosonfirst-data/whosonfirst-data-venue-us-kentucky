@@ -1,0 +1,73 @@
+{
+  "id": 840602319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.72329,36.974304,-88.72329,36.974304",
+    "geom:latitude":36.974304,
+    "geom:longitude":-88.72329,
+    "iso:country":"US",
+    "sg:address":"7235 Clinton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 7630",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IT3GL3MFXWiLux8dXSs8n_36.974304_-88.723290@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043710,
+    "wof:geomhash":"d0b6fddfc7e518a729921c1ae5f72b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840602319
+        }
+    ],
+    "wof:id":840602319,
+    "wof:lastmodified":1464043710,
+    "wof:name":"Four Rivers Electric",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.72329,
+    36.974304,
+    -88.72329,
+    36.974304
+],
+  "geometry": {"coordinates":[-88.72329000000001,36.974304],"type":"Point"}
+}

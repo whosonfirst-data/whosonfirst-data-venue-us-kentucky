@@ -1,0 +1,73 @@
+{
+  "id": 840924259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.578455,37.058552,-88.578455,37.058552",
+    "geom:latitude":37.058552,
+    "geom:longitude":-88.578455,
+    "iso:country":"US",
+    "sg:address":"2515 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8030",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HumYy6jXj0K6DQMoEIU9m_37.058552_-88.578455@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051108,
+    "wof:geomhash":"7209fe4c0e289fb502144254787acd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840924259
+        }
+    ],
+    "wof:id":840924259,
+    "wof:lastmodified":1464051108,
+    "wof:name":"R & D Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.578455,
+    37.058552,
+    -88.578455,
+    37.058552
+],
+  "geometry": {"coordinates":[-88.57845500000001,37.058552],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840778099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.840716,37.670791,-85.840716,37.670791",
+    "geom:latitude":37.670791,
+    "geom:longitude":-85.840716,
+    "iso:country":"US",
+    "sg:address":"1214 Hawkins Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5906",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cT2jtEdTfHuVxu0rbSrSz_37.670791_-85.840716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047721,
+    "wof:geomhash":"0226db91e1507ac9e30123c848e2823d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840778099
+        }
+    ],
+    "wof:id":840778099,
+    "wof:lastmodified":1464047721,
+    "wof:name":"Hinton's Body Shop",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.840716,
+    37.670791,
+    -85.840716,
+    37.670791
+],
+  "geometry": {"coordinates":[-85.840716,37.670791],"type":"Point"}
+}

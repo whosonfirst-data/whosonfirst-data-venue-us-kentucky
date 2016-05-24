@@ -1,0 +1,71 @@
+{
+  "id": 840601929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839755,37.717521,-85.839755,37.717521",
+    "geom:latitude":37.717521,
+    "geom:longitude":-85.839755,
+    "iso:country":"US",
+    "sg:address":"2919 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6111",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KsDmtPaX1TycqQUFmk2u4_37.717521_-85.839755@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043701,
+    "wof:geomhash":"49dfa252c0cd9a3e17051f82117cdecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840601929
+        }
+    ],
+    "wof:id":840601929,
+    "wof:lastmodified":1464043701,
+    "wof:name":"Jenkins-Essex Supply Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -85.839755,
+    37.717521,
+    -85.839755,
+    37.717521
+],
+  "geometry": {"coordinates":[-85.839755,37.717521],"type":"Point"}
+}

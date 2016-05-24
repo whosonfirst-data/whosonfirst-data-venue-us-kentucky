@@ -1,0 +1,77 @@
+{
+  "id": 840925779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.539607,38.24539,-85.539607,38.24539",
+    "geom:latitude":38.24539,
+    "geom:longitude":-85.539607,
+    "iso:country":"US",
+    "sg:address":"103 N Madison Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 0414",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h8vgHrEcJkOcWIaIfRG3t_38.245390_-85.539607@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051158,
+    "wof:geomhash":"cf142df0a3c8ef579e5ca6087806f900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840925779
+        }
+    ],
+    "wof:id":840925779,
+    "wof:lastmodified":1464051158,
+    "wof:name":"Bluegrass Muffler & BRAKE",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.539607,
+    38.24539,
+    -85.539607,
+    38.24539
+],
+  "geometry": {"coordinates":[-85.539607,38.24539],"type":"Point"}
+}

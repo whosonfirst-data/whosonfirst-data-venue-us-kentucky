@@ -1,0 +1,69 @@
+{
+  "id": 840734323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.764847,37.685108,-84.764847,37.685108",
+    "geom:latitude":37.685108,
+    "geom:longitude":-84.764847,
+    "iso:country":"US",
+    "sg:address":"3045 Shakertown Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7615",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jHVRJDh12eAGwcNi2o19j_37.685108_-84.764847@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046789,
+    "wof:geomhash":"cab915cc443fe4c67419282a45f0b32b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840734323
+        }
+    ],
+    "wof:id":840734323,
+    "wof:lastmodified":1464046789,
+    "wof:name":"Danville Landscape Design",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -84.764847,
+    37.685108,
+    -84.764847,
+    37.685108
+],
+  "geometry": {"coordinates":[-84.764847,37.685108],"type":"Point"}
+}

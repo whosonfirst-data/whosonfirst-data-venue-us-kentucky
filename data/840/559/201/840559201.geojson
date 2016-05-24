@@ -1,0 +1,71 @@
+{
+  "id": 840559201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.351512,38.362892,-85.351512,38.362892",
+    "geom:latitude":38.362892,
+    "geom:longitude":-85.351512,
+    "iso:country":"US",
+    "sg:address":"4489 Brittany Ln",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 2358",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LivPfhdaIfkvT9PPGy1oo_38.362892_-85.351512@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042715,
+    "wof:geomhash":"924604b88020983505d19127b17b59f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840559201
+        }
+    ],
+    "wof:id":840559201,
+    "wof:lastmodified":1464042715,
+    "wof:name":"GP Telephone Enterprises",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -85.351512,
+    38.362892,
+    -85.351512,
+    38.362892
+],
+  "geometry": {"coordinates":[-85.351512,38.362892],"type":"Point"}
+}

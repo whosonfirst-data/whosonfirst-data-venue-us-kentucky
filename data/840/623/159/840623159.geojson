@@ -1,0 +1,71 @@
+{
+  "id": 840623159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.590486,37.838574,-87.590486,37.838574",
+    "geom:latitude":37.838574,
+    "geom:longitude":-87.590486,
+    "iso:country":"US",
+    "sg:address":"326 1st St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 8199",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71paL801iPfjLv3Bjn3C20_37.838574_-87.590486@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044243,
+    "wof:geomhash":"d42de33a1a4db3c326f756fb8b1ed4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840623159
+        }
+    ],
+    "wof:id":840623159,
+    "wof:lastmodified":1464044243,
+    "wof:name":"Kevin's Kreations",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -87.590486,
+    37.838574,
+    -87.590486,
+    37.838574
+],
+  "geometry": {"coordinates":[-87.590486,37.838574],"type":"Point"}
+}

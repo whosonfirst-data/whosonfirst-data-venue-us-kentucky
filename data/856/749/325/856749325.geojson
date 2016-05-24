@@ -1,0 +1,84 @@
+{
+  "id": 856749325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634339,38.150346,-85.634339,38.150346",
+    "geom:latitude":38.150346,
+    "geom:longitude":-85.634339,
+    "iso:country":"US",
+    "sg:address":"6806 Cozy Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 239 2144",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RDQoSXJ44uAU9YBs6nToS_38.150346_-85.634339@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053727,
+    "wof:geomhash":"c578fe5fdf2dcbcb24e0b8645e237fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856749325
+        }
+    ],
+    "wof:id":856749325,
+    "wof:lastmodified":1464053727,
+    "wof:name":"L & H Packaging Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.634339,
+    38.150346,
+    -85.634339,
+    38.150346
+],
+  "geometry": {"coordinates":[-85.634339,38.150346],"type":"Point"}
+}

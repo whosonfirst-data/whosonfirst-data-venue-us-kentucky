@@ -1,0 +1,86 @@
+{
+  "id": 856761411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683474,37.075477,-88.683474,37.075477",
+    "geom:latitude":37.075477,
+    "geom:longitude":-88.683474,
+    "iso:country":"US",
+    "sg:address":"2929 James Sanders Blvd B",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8330",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apparel",
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"http://www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oiQOikbcDRWV1ET6Flkrr_37.075477_-88.683474@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054175,
+    "wof:geomhash":"f45ded90ebe81316a2c3e84e715b5c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761411
+        }
+    ],
+    "wof:id":856761411,
+    "wof:lastmodified":1464054175,
+    "wof:name":"T.J.Maxx",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -88.683474,
+    37.075477,
+    -88.683474,
+    37.075477
+],
+  "geometry": {"coordinates":[-88.683474,37.075477],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840946013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883129,37.720185,-85.883129,37.720185",
+    "geom:latitude":37.720185,
+    "geom:longitude":-85.883129,
+    "iso:country":"US",
+    "sg:address":"1230 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 735 1534",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23ndOMZoWFtiIwCGShOGK2_37.720185_-85.883129@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051571,
+    "wof:geomhash":"dd65ecdbfdac523d1a2c0f496a6f85d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840946013
+        }
+    ],
+    "wof:id":840946013,
+    "wof:lastmodified":1464051571,
+    "wof:name":"Road To Revitalization",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.883129,
+    37.720185,
+    -85.883129,
+    37.720185
+],
+  "geometry": {"coordinates":[-85.883129,37.720185],"type":"Point"}
+}

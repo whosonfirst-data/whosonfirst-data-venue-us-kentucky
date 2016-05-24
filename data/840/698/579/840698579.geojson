@@ -1,0 +1,71 @@
+{
+  "id": 840698579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439312,36.995264,-86.439312,36.995264",
+    "geom:latitude":36.995264,
+    "geom:longitude":-86.439312,
+    "iso:country":"US",
+    "sg:address":"724 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 7420",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nxy0nt3vHteDJGoGrkL2c_36.995264_-86.439312@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046053,
+    "wof:geomhash":"b952d164def65af00e5ecb74a0b5fbec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840698579
+        }
+    ],
+    "wof:id":840698579,
+    "wof:lastmodified":1464046053,
+    "wof:name":"Probation & Parole Ofc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -86.439312,
+    36.995264,
+    -86.439312,
+    36.995264
+],
+  "geometry": {"coordinates":[-86.439312,36.995264],"type":"Point"}
+}

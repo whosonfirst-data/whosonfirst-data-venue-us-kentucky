@@ -1,0 +1,73 @@
+{
+  "id": 840574147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912964,36.996311,-85.912964,36.996311",
+    "geom:latitude":36.996311,
+    "geom:longitude":-85.912964,
+    "iso:country":"US",
+    "sg:address":"107 W Public Sq",
+    "sg:city":"Scottsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 237 9134",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aVSGZkuLWwEHzdOX6Hf3Q_36.996311_-85.912964@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043086,
+    "wof:geomhash":"fa2629bfd3f9f98d286cf39d27b0abae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840574147
+        }
+    ],
+    "wof:id":840574147,
+    "wof:lastmodified":1464043086,
+    "wof:name":"Classic Cleaners",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.912964,
+    36.996311,
+    -85.912964,
+    36.996311
+],
+  "geometry": {"coordinates":[-85.912964,36.996311],"type":"Point"}
+}

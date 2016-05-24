@@ -1,0 +1,81 @@
+{
+  "id": 840590727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.809164,37.652664,-84.809164,37.652664",
+    "geom:latitude":37.652664,
+    "geom:longitude":-84.809164,
+    "iso:country":"US",
+    "sg:address":"993 W Count Fleet Cir",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4231",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YPqsrHhC89b22qiWkega6_37.652664_-84.809164@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043438,
+    "wof:geomhash":"d8e478b990309bf7133d8bdb46cad276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840590727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840590727
+        }
+    ],
+    "wof:id":840590727,
+    "wof:lastmodified":1464043438,
+    "wof:name":"Scott Bodner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -84.809164,
+    37.652664,
+    -84.809164,
+    37.652664
+],
+  "geometry": {"coordinates":[-84.809164,37.652664],"type":"Point"}
+}

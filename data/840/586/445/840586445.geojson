@@ -1,0 +1,69 @@
+{
+  "id": 840586445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.667598,37.862241,-84.667598,37.862241",
+    "geom:latitude":37.862241,
+    "geom:longitude":-84.667598,
+    "iso:country":"US",
+    "sg:address":"301 W Linden St",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3222",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pyMwLhMppWaSU79Mk8V2y_37.862241_-84.667598@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043347,
+    "wof:geomhash":"4c0a27ca0460701ffe0a73a37399b951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840586445
+        }
+    ],
+    "wof:id":840586445,
+    "wof:lastmodified":1464043347,
+    "wof:name":"Wilmore Fire Dept",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.667598,
+    37.862241,
+    -84.667598,
+    37.862241
+],
+  "geometry": {"coordinates":[-84.667598,37.862241],"type":"Point"}
+}

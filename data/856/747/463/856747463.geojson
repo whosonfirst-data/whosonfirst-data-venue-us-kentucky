@@ -1,0 +1,84 @@
+{
+  "id": 856747463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.620903,38.219597,-85.620903,38.219597",
+    "geom:latitude":38.219597,
+    "geom:longitude":-85.620903,
+    "iso:country":"US",
+    "sg:address":"4060 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 4666",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JS2hSbAbJBrKG4OgdlDOD_38.219597_-85.620903@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053658,
+    "wof:geomhash":"8c3d1b2e7aa5d436f79c0792e81850c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747463
+        }
+    ],
+    "wof:id":856747463,
+    "wof:lastmodified":1464053658,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.620903,
+    38.219597,
+    -85.620903,
+    38.219597
+],
+  "geometry": {"coordinates":[-85.620903,38.219597],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840675269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491933,36.926538,-86.491933,36.926538",
+    "geom:latitude":36.926538,
+    "geom:longitude":-86.491933,
+    "iso:country":"US",
+    "sg:address":"550 Cal Batsel Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0400",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ay3xAM3SLxvZ6POX9yCJd_36.926538_-86.491933@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045451,
+    "wof:geomhash":"a1a4fac6bddd745f51546faa43da2ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840675269
+        }
+    ],
+    "wof:id":840675269,
+    "wof:lastmodified":1464045451,
+    "wof:name":"U S Warehousing Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -86.491933,
+    36.926538,
+    -86.491933,
+    36.926538
+],
+  "geometry": {"coordinates":[-86.491933,36.926538],"type":"Point"}
+}

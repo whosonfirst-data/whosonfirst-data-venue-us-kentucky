@@ -1,0 +1,73 @@
+{
+  "id": 840721153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431379,36.964158,-86.431379,36.964158",
+    "geom:latitude":36.964158,
+    "geom:longitude":-86.431379,
+    "iso:country":"US",
+    "sg:address":"1900 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 0197",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_040kPB9YbhyDEoTJWbSHL9_36.964158_-86.431379@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046533,
+    "wof:geomhash":"01d6883d95a8ebf75a8744061b1336ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840721153
+        }
+    ],
+    "wof:id":840721153,
+    "wof:lastmodified":1464046533,
+    "wof:name":"University Hyundai-Subaru",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.431379,
+    36.964158,
+    -86.431379,
+    36.964158
+],
+  "geometry": {"coordinates":[-86.43137900000001,36.964158],"type":"Point"}
+}

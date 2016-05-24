@@ -1,0 +1,73 @@
+{
+  "id": 840853825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.795314,38.200597,-85.795314,38.200597",
+    "geom:latitude":38.200597,
+    "geom:longitude":-85.795314,
+    "iso:country":"US",
+    "sg:address":"3300 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 9215",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "distiller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48dv01xhc8SBUuVZl68M9M_38.200597_-85.795314@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049523,
+    "wof:geomhash":"b1d7c528c560e496e6f2720c30ab27df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840853825
+        }
+    ],
+    "wof:id":840853825,
+    "wof:lastmodified":1464049523,
+    "wof:name":"Clarendon Flavor Engineering",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distiller"
+    ]
+},
+  "bbox": [
+    -85.795314,
+    38.200597,
+    -85.795314,
+    38.200597
+],
+  "geometry": {"coordinates":[-85.795314,38.200597],"type":"Point"}
+}

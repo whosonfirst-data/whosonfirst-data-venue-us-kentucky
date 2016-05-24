@@ -1,0 +1,69 @@
+{
+  "id": 840584613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578687,37.884542,-84.578687,37.884542",
+    "geom:latitude":37.884542,
+    "geom:longitude":-84.578687,
+    "iso:country":"US",
+    "sg:address":"117 Mill St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 9546",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZwXlbnxcVeLtl0cEumgvQ_37.884542_-84.578687@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043303,
+    "wof:geomhash":"6affe7621e5ec2a57dd8d2507a2a6e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840584613
+        }
+    ],
+    "wof:id":840584613,
+    "wof:lastmodified":1464043303,
+    "wof:name":"Fayette Tool",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.578687,
+    37.884542,
+    -84.578687,
+    37.884542
+],
+  "geometry": {"coordinates":[-84.578687,37.884542],"type":"Point"}
+}

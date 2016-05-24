@@ -1,0 +1,71 @@
+{
+  "id": 840908281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.676158,38.020825,-84.676158,38.020825",
+    "geom:latitude":38.020825,
+    "geom:longitude":-84.676158,
+    "iso:country":"US",
+    "sg:address":"187 Juniper Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 2425",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fNbw4ek9D5kUPfheQ8xPv_38.020825_-84.676158@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050672,
+    "wof:geomhash":"6b9d68d3b373f6492b432b33050d0d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840908281
+        }
+    ],
+    "wof:id":840908281,
+    "wof:lastmodified":1464050672,
+    "wof:name":"Direct Machine Parts Inc",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.676158,
+    38.020825,
+    -84.676158,
+    38.020825
+],
+  "geometry": {"coordinates":[-84.676158,38.020825],"type":"Point"}
+}

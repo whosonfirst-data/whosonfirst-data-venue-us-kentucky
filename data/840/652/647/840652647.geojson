@@ -1,0 +1,73 @@
+{
+  "id": 840652647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.611747,37.817908,-87.611747,37.817908",
+    "geom:latitude":37.817908,
+    "geom:longitude":-87.611747,
+    "iso:country":"US",
+    "sg:address":"1640 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 6291",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73iN8XCb6kagJY8e7hnHSl_37.817908_-87.611747@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044946,
+    "wof:geomhash":"e77687c9cf6bcc72330118d89d427659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840652647
+        }
+    ],
+    "wof:id":840652647,
+    "wof:lastmodified":1464044946,
+    "wof:name":"Henderson Animal Clinic",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -87.611747,
+    37.817908,
+    -87.611747,
+    37.817908
+],
+  "geometry": {"coordinates":[-87.61174699999999,37.817908],"type":"Point"}
+}

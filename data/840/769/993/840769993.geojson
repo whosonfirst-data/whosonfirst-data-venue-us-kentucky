@@ -1,0 +1,75 @@
+{
+  "id": 840769993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551829,39.048721,-84.551829,39.048721",
+    "geom:latitude":39.048721,
+    "geom:longitude":-84.551829,
+    "iso:country":"US",
+    "sg:address":"2194 Dixie Hwy",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 341 9998",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oY8hh61XsT0TQvDuwmpro_39.048721_-84.551829@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047569,
+    "wof:geomhash":"8e00c4969e2876e032dd47678494e295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840769993
+        }
+    ],
+    "wof:id":840769993,
+    "wof:lastmodified":1464047569,
+    "wof:name":"Swift Cleaners",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -84.551829,
+    39.048721,
+    -84.551829,
+    39.048721
+],
+  "geometry": {"coordinates":[-84.551829,39.048721],"type":"Point"}
+}

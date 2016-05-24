@@ -1,0 +1,71 @@
+{
+  "id": 840632795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.737945,37.66433,-84.737945,37.66433",
+    "geom:latitude":37.66433,
+    "geom:longitude":-84.737945,
+    "iso:country":"US",
+    "sg:address":"2035 Old Lexington Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 9058",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_784SJeg30pXgnYGiB43knf_37.664330_-84.737945@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044506,
+    "wof:geomhash":"b05631763f0281c168101dc2da902c9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840632795
+        }
+    ],
+    "wof:id":840632795,
+    "wof:lastmodified":1464044506,
+    "wof:name":"Cornerstone Assembly Of God",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.737945,
+    37.66433,
+    -84.737945,
+    37.66433
+],
+  "geometry": {"coordinates":[-84.737945,37.66433],"type":"Point"}
+}

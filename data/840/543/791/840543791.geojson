@@ -1,0 +1,73 @@
+{
+  "id": 840543791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.248983,38.212416,-85.248983,38.212416",
+    "geom:latitude":38.212416,
+    "geom:longitude":-85.248983,
+    "iso:country":"US",
+    "sg:address":"1820 Midland Trl",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 844 2166",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EBtVXdIFetZZAaEvkFfhG_38.212416_-85.248983@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042326,
+    "wof:geomhash":"482c2e0d969aa32e97631c1241ced346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840543791
+        }
+    ],
+    "wof:id":840543791,
+    "wof:lastmodified":1464042326,
+    "wof:name":"Expertise Auto Detail",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -85.248983,
+    38.212416,
+    -85.248983,
+    38.212416
+],
+  "geometry": {"coordinates":[-85.248983,38.212416],"type":"Point"}
+}

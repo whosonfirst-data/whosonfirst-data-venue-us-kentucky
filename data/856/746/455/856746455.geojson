@@ -1,0 +1,79 @@
+{
+  "id": 856746455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.668926,38.208438,-85.668926,38.208438",
+    "geom:latitude":38.208438,
+    "geom:longitude":-85.668926,
+    "iso:country":"US",
+    "sg:address":"2209 Goldsmith Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 6912",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sRihfMyfnjCxxMPpQNS9j_38.208438_-85.668926@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053612,
+    "wof:geomhash":"24a6c2cb636f422020a2469d39648d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746455
+        }
+    ],
+    "wof:id":856746455,
+    "wof:lastmodified":1464053612,
+    "wof:name":"Pet's Palace",
+    "wof:parent_id":85866953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -85.668926,
+    38.208438,
+    -85.668926,
+    38.208438
+],
+  "geometry": {"coordinates":[-85.668926,38.208438],"type":"Point"}
+}

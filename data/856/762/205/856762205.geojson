@@ -1,0 +1,79 @@
+{
+  "id": 856762205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.725371,36.947053,-88.725371,36.947053",
+    "geom:latitude":36.947053,
+    "geom:longitude":-88.725371,
+    "iso:country":"US",
+    "sg:address":"8650 Clinton Rd",
+    "sg:city":"Melber",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"42069",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tuawpwRqQjWDQO5E221Be_36.947053_-88.725371@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054207,
+    "wof:geomhash":"e965388c1aceec58fa7f547c4a956500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856762205
+        }
+    ],
+    "wof:id":856762205,
+    "wof:lastmodified":1464054207,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -88.725371,
+    36.947053,
+    -88.725371,
+    36.947053
+],
+  "geometry": {"coordinates":[-88.725371,36.947053],"type":"Point"}
+}

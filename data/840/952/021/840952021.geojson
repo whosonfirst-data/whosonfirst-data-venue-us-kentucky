@@ -1,0 +1,73 @@
+{
+  "id": 840952021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.342427,37.026491,-86.342427,37.026491",
+    "geom:latitude":37.026491,
+    "geom:longitude":-86.342427,
+    "iso:country":"US",
+    "sg:address":"578 Kelly Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8646",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hE570bEJCx1keYVvBpd47_37.026491_-86.342427@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051689,
+    "wof:geomhash":"be8b5226177e3548389678443ff58fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840952021
+        }
+    ],
+    "wof:id":840952021,
+    "wof:lastmodified":1464051689,
+    "wof:name":"Southern Kentucky Contractors",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.342427,
+    37.026491,
+    -86.342427,
+    37.026491
+],
+  "geometry": {"coordinates":[-86.342427,37.026491],"type":"Point"}
+}

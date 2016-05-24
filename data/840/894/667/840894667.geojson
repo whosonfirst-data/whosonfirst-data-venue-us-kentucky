@@ -1,0 +1,75 @@
+{
+  "id": 840894667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.82106,38.138627,-85.82106,38.138627",
+    "geom:latitude":38.138627,
+    "geom:longitude":-85.82106,
+    "iso:country":"US",
+    "sg:address":"7502 Arnoldtown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 935 5471",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QIXjE3GhuDIU3EjLYtWik_38.138627_-85.821060@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050376,
+    "wof:geomhash":"0e326d6ffe120c9e819d32291d3bae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840894667
+        }
+    ],
+    "wof:id":840894667,
+    "wof:lastmodified":1464050376,
+    "wof:name":"Bracey Electric Co",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.82106,
+    38.138627,
+    -85.82106,
+    38.138627
+],
+  "geometry": {"coordinates":[-85.82106,38.138627],"type":"Point"}
+}

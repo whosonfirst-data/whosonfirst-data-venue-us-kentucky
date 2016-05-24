@@ -1,0 +1,73 @@
+{
+  "id": 840830813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.595981,37.115469,-84.595981,37.115469",
+    "geom:latitude":37.115469,
+    "geom:longitude":-84.595981,
+    "iso:country":"US",
+    "sg:address":"1755 State Hwy 39",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 5476",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22huqSepjLg1rhzYLWh2Sv_37.115469_-84.595981@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049021,
+    "wof:geomhash":"521d7943695b2c52e2c2e0d758a4abcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840830813
+        }
+    ],
+    "wof:id":840830813,
+    "wof:lastmodified":1464049021,
+    "wof:name":"Ed Vaught's Garage & 24 Hr Tow",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.595981,
+    37.115469,
+    -84.595981,
+    37.115469
+],
+  "geometry": {"coordinates":[-84.59598099999999,37.115469],"type":"Point"}
+}

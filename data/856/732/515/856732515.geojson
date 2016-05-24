@@ -1,0 +1,74 @@
+{
+  "id": 856732515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757107,38.253381,-85.757107,38.253381",
+    "geom:latitude":38.253381,
+    "geom:longitude":-85.757107,
+    "iso:country":"US",
+    "sg:address":"424 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/36092-hard-rock-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 568 2202",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_144JUwIkBV9zCYGPqNV4nI_38.253381_-85.757107@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053093,
+    "wof:geomhash":"12b01d3fdcd4d4a448f226565b4b271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732515
+        }
+    ],
+    "wof:id":856732515,
+    "wof:lastmodified":1464053093,
+    "wof:name":"Hard Rock Cafe",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.757107,
+    38.253381,
+    -85.757107,
+    38.253381
+],
+  "geometry": {"coordinates":[-85.757107,38.253381],"type":"Point"}
+}

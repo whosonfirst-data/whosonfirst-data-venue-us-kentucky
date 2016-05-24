@@ -1,0 +1,66 @@
+{
+  "id": 840755483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64322,37.076724,-88.64322,37.076724",
+    "geom:latitude":37.076724,
+    "geom:longitude":-88.64322,
+    "iso:country":"US",
+    "sg:address":"600 N 32nd St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 0067",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H8B0a5JHWUq25Oro0AT9D_37.076724_-88.643220@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047227,
+    "wof:geomhash":"268bd1ed68fa2de2d4da1732697a6277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840755483
+        }
+    ],
+    "wof:id":840755483,
+    "wof:lastmodified":1464047227,
+    "wof:name":"Pizza By The Pound",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.64322,
+    37.076724,
+    -88.64322,
+    37.076724
+],
+  "geometry": {"coordinates":[-88.64322,37.076724],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840877811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.442664,36.992681,-86.442664,36.992681",
+    "geom:latitude":36.992681,
+    "geom:longitude":-86.442664,
+    "iso:country":"US",
+    "sg:address":"429 E 10th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 5805",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AezJnWa5Iloy7xSMfpdaa_36.992681_-86.442664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050026,
+    "wof:geomhash":"245d0b74378648f6fe36b3a7c1516fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840877811
+        }
+    ],
+    "wof:id":840877811,
+    "wof:lastmodified":1464050026,
+    "wof:name":"Warren County Treasurer",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -86.442664,
+    36.992681,
+    -86.442664,
+    36.992681
+],
+  "geometry": {"coordinates":[-86.44266399999999,36.992681],"type":"Point"}
+}

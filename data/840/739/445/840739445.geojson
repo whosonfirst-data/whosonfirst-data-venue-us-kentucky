@@ -1,0 +1,75 @@
+{
+  "id": 840739445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.537337,38.247615,-85.537337,38.247615",
+    "geom:latitude":38.247615,
+    "geom:longitude":-85.537337,
+    "iso:country":"US",
+    "sg:address":"11802 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 4644",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17l2N7rIgx49ZQyk3ubnRm_38.247615_-85.537337@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046886,
+    "wof:geomhash":"bc4db14b3c2025d3f09e4bc957b72c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840739445
+        }
+    ],
+    "wof:id":840739445,
+    "wof:lastmodified":1464046886,
+    "wof:name":"Tricounty Ob/Gyn",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.537337,
+    38.247615,
+    -85.537337,
+    38.247615
+],
+  "geometry": {"coordinates":[-85.53733699999999,38.247615],"type":"Point"}
+}

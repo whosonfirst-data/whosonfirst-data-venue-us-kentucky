@@ -1,0 +1,105 @@
+{
+  "id": 856738803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.713817,37.99055,-85.713817,37.99055",
+    "geom:latitude":37.99055,
+    "geom:longitude":-85.713817,
+    "iso:country":"US",
+    "sg:address":"250 Highway 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 9063",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "supplies-used",
+        "truck",
+        "rebuilt",
+        "batteries-storage"
+    ],
+    "sg:website":"http://www.advanceautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46M3FNM740WC10hnWCydW3_37.990550_-85.713817@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053335,
+    "wof:geomhash":"b505d7df5cbf54349d233c66e33d0aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856738803
+        }
+    ],
+    "wof:id":856738803,
+    "wof:lastmodified":1464053335,
+    "wof:name":"Advance Auto Parts",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "supplies-used",
+        "truck",
+        "rebuilt",
+        "batteries-storage"
+    ]
+},
+  "bbox": [
+    -85.713817,
+    37.99055,
+    -85.713817,
+    37.99055
+],
+  "geometry": {"coordinates":[-85.71381700000001,37.99055],"type":"Point"}
+}

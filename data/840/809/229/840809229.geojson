@@ -1,0 +1,73 @@
+{
+  "id": 840809229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.753262,36.613537,-83.753262,36.613537",
+    "geom:latitude":36.613537,
+    "geom:longitude":-83.753262,
+    "iso:country":"US",
+    "sg:address":"235 New Wilson Ln",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 0925",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LKi4hvZMWB6QeJMHK0Rvg_36.613537_-83.753262@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048392,
+    "wof:geomhash":"784e0a547377a8c26821913f78dc8283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840809229
+        }
+    ],
+    "wof:id":840809229,
+    "wof:lastmodified":1464048392,
+    "wof:name":"Middlesboro Health Care",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -83.753262,
+    36.613537,
+    -83.753262,
+    36.613537
+],
+  "geometry": {"coordinates":[-83.75326200000001,36.613537],"type":"Point"}
+}

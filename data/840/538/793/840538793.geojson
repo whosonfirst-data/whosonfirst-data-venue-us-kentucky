@@ -1,0 +1,75 @@
+{
+  "id": 840538793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551505,38.046681,-84.551505,38.046681",
+    "geom:latitude":38.046681,
+    "geom:longitude":-84.551505,
+    "iso:country":"US",
+    "sg:address":"2284 Versailles Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 373 0005",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c3OlyZ5tWANuFJFj7XjZf_38.046681_-84.551505@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042180,
+    "wof:geomhash":"17e0f91706499510b9225ebca24a3db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873489,
+            "region_id":85688641,
+            "venue_id":840538793
+        }
+    ],
+    "wof:id":840538793,
+    "wof:lastmodified":1464042180,
+    "wof:name":"Stonehorse Car Wash",
+    "wof:parent_id":85873489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.551505,
+    38.046681,
+    -84.551505,
+    38.046681
+],
+  "geometry": {"coordinates":[-84.55150500000001,38.046681],"type":"Point"}
+}

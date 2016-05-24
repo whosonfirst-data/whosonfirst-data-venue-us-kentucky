@@ -1,0 +1,71 @@
+{
+  "id": 840599273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284275,37.577756,-84.284275,37.577756",
+    "geom:latitude":37.577756,
+    "geom:longitude":-84.284275,
+    "iso:country":"US",
+    "sg:address":"415 Richmond Rd N",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 1767",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UdUT7Ehe6jZQw0m2oKrhc_37.577756_-84.284275@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043645,
+    "wof:geomhash":"a3e3740a972800db16b4ff34ae236681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840599273
+        }
+    ],
+    "wof:id":840599273,
+    "wof:lastmodified":1464043645,
+    "wof:name":"Davis Auction Svc",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -84.284275,
+    37.577756,
+    -84.284275,
+    37.577756
+],
+  "geometry": {"coordinates":[-84.28427499999999,37.577756],"type":"Point"}
+}

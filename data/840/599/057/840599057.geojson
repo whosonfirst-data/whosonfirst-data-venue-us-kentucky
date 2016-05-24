@@ -1,0 +1,71 @@
+{
+  "id": 840599057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671568,37.072753,-88.671568,37.072753",
+    "geom:latitude":37.072753,
+    "geom:longitude":-88.671568,
+    "iso:country":"US",
+    "sg:address":"1220 Beresford Way",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0400",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48RZt5oukelIRitUy3JB2j_37.072753_-88.671568@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043640,
+    "wof:geomhash":"c35f9f61b8b4fbb6c7d91c39a920a759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840599057
+        }
+    ],
+    "wof:id":840599057,
+    "wof:lastmodified":1464043640,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -88.671568,
+    37.072753,
+    -88.671568,
+    37.072753
+],
+  "geometry": {"coordinates":[-88.67156799999999,37.072753],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840594841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881246,37.714318,-85.881246,37.714318",
+    "geom:latitude":37.714318,
+    "geom:longitude":-85.881246,
+    "iso:country":"US",
+    "sg:address":"1115 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5963",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.elizabethtownobgyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ClxSwY21M8QGZs2TVG8uo_37.714318_-85.881246@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043536,
+    "wof:geomhash":"2633f412fd732f7d1fd49e55a623cb40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840594841
+        }
+    ],
+    "wof:id":840594841,
+    "wof:lastmodified":1464043536,
+    "wof:name":"Elizabethtown Physicians",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.881246,
+    37.714318,
+    -85.881246,
+    37.714318
+],
+  "geometry": {"coordinates":[-85.881246,37.714318],"type":"Point"}
+}

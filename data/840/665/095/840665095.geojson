@@ -1,0 +1,73 @@
+{
+  "id": 840665095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425473,37.003732,-86.425473,37.003732",
+    "geom:latitude":37.003732,
+    "geom:longitude":-86.425473,
+    "iso:country":"US",
+    "sg:address":"1343 Old Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3551",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MXF2SmaIUEZyCutYs554p_37.003732_-86.425473@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045213,
+    "wof:geomhash":"39e49a5adf82c9aee6210639d2727326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840665095
+        }
+    ],
+    "wof:id":840665095,
+    "wof:lastmodified":1464045213,
+    "wof:name":"Lindsey Automotive",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.425473,
+    37.003732,
+    -86.425473,
+    37.003732
+],
+  "geometry": {"coordinates":[-86.425473,37.003732],"type":"Point"}
+}

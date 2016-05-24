@@ -1,0 +1,74 @@
+{
+  "id": 856735235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.581025,39.026633,-84.581025,39.026633",
+    "geom:latitude":39.026633,
+    "geom:longitude":-84.581025,
+    "iso:country":"US",
+    "sg:address":"2899 Dixie Hwy",
+    "sg:city":"Ft Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/98404-carrabbas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 344 6163",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kEYfwrwGDp3TC7t6v4GJK_39.026633_-84.581025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053191,
+    "wof:geomhash":"02f5b800124719d662f93f0dc9dcb6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":856735235
+        }
+    ],
+    "wof:id":856735235,
+    "wof:lastmodified":1464053191,
+    "wof:name":"Carrabba's",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -84.581025,
+    39.026633,
+    -84.581025,
+    39.026633
+],
+  "geometry": {"coordinates":[-84.581025,39.026633],"type":"Point"}
+}

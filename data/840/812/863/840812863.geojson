@@ -1,0 +1,72 @@
+{
+  "id": 840812863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.76661,37.645464,-84.76661,37.645464",
+    "geom:latitude":37.645464,
+    "geom:longitude":-84.76661,
+    "iso:country":"US",
+    "sg:address":"103 E Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 9157",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "security"
+    ],
+    "sg:website":"www.edwardjones.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LxAykYcA19PIxqCwfSIQh_37.645464_-84.766610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048535,
+    "wof:geomhash":"f763ae71019d52de9cb7dfc2bf85f9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840812863
+        }
+    ],
+    "wof:id":840812863,
+    "wof:lastmodified":1464048535,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -84.76661,
+    37.645464,
+    -84.76661,
+    37.645464
+],
+  "geometry": {"coordinates":[-84.76661,37.645464],"type":"Point"}
+}

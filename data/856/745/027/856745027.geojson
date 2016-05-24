@@ -1,0 +1,85 @@
+{
+  "id": 856745027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775072,38.144907,-85.775072,38.144907",
+    "geom:latitude":38.144907,
+    "geom:longitude":-85.775072,
+    "iso:country":"US",
+    "sg:address":"5530 New Cut Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 7650",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brew",
+        "grill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OPG5fZMNl4bavMG8cckXp_38.144907_-85.775072@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053565,
+    "wof:geomhash":"3f44affc6185b10dc9b587aba359b8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745027
+        }
+    ],
+    "wof:id":856745027,
+    "wof:lastmodified":1464053565,
+    "wof:name":"Spectators Sports Bar & Grill",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill"
+    ]
+},
+  "bbox": [
+    -85.775072,
+    38.144907,
+    -85.775072,
+    38.144907
+],
+  "geometry": {"coordinates":[-85.77507199999999,38.144907],"type":"Point"}
+}

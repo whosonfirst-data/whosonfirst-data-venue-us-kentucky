@@ -1,0 +1,75 @@
+{
+  "id": 840617243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874213,37.683329,-85.874213,37.683329",
+    "geom:latitude":37.683329,
+    "geom:longitude":-85.874213,
+    "iso:country":"US",
+    "sg:address":"438 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6630",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zBmq8BraGXonZLeTlHFRh_37.683329_-85.874213@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044101,
+    "wof:geomhash":"4f676015304e87fb182fc25970ba6d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840617243
+        }
+    ],
+    "wof:id":840617243,
+    "wof:lastmodified":1464044101,
+    "wof:name":"Elizabethtown Winlectric Co",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.874213,
+    37.683329,
+    -85.874213,
+    37.683329
+],
+  "geometry": {"coordinates":[-85.874213,37.683329],"type":"Point"}
+}

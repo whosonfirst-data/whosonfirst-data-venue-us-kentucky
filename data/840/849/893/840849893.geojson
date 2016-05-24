@@ -1,0 +1,69 @@
+{
+  "id": 840849893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.676652,37.079665,-88.676652,37.079665",
+    "geom:latitude":37.079665,
+    "geom:longitude":-88.676652,
+    "iso:country":"US",
+    "sg:address":"3970 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 1014",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RRTfaO1l29Rk3h5Lf7j1S_37.079665_-88.676652@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049435,
+    "wof:geomhash":"ecae0474601ae5d0956bcb64e3e3329b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840849893
+        }
+    ],
+    "wof:id":840849893,
+    "wof:lastmodified":1464049435,
+    "wof:name":"Horizon Group of Restaurant",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.676652,
+    37.079665,
+    -88.676652,
+    37.079665
+],
+  "geometry": {"coordinates":[-88.676652,37.079665],"type":"Point"}
+}

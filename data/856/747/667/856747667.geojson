@@ -1,0 +1,85 @@
+{
+  "id": 856747667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.630252,38.219877,-85.630252,38.219877",
+    "geom:latitude":38.219877,
+    "geom:longitude":-85.630252,
+    "iso:country":"US",
+    "sg:address":"2960 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 4261",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "style",
+        "seafood",
+        "family"
+    ],
+    "sg:website":"http://www.captainds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50VLfp70jEAgxEsAtFsqc2_38.219877_-85.630252@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053665,
+    "wof:geomhash":"a8dea770d1a5df771dee6bc816ca85d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747667
+        }
+    ],
+    "wof:id":856747667,
+    "wof:lastmodified":1464053665,
+    "wof:name":"Captain D's Seafood Kitchen",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "style",
+        "seafood",
+        "family"
+    ]
+},
+  "bbox": [
+    -85.630252,
+    38.219877,
+    -85.630252,
+    38.219877
+],
+  "geometry": {"coordinates":[-85.630252,38.219877],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840668717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.405856,36.914236,-86.405856,36.914236",
+    "geom:latitude":36.914236,
+    "geom:longitude":-86.405856,
+    "iso:country":"US",
+    "sg:address":"6000 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5041",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mhylUpXfefjG6NZd8NhLY_36.914236_-86.405856@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045286,
+    "wof:geomhash":"ecc3d7da8f3122d5eae641b9a81b26ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840668717
+        }
+    ],
+    "wof:id":840668717,
+    "wof:lastmodified":1464045286,
+    "wof:name":"Snodgrass Veterinary Medical",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.405856,
+    36.914236,
+    -86.405856,
+    36.914236
+],
+  "geometry": {"coordinates":[-86.405856,36.914236],"type":"Point"}
+}

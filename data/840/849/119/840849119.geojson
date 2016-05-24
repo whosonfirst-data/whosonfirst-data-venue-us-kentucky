@@ -1,0 +1,73 @@
+{
+  "id": 840849119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677126,37.923764,-85.677126,37.923764",
+    "geom:latitude":37.923764,
+    "geom:longitude":-85.677126,
+    "iso:country":"US",
+    "sg:address":"1580 Clermont Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 1042",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ji3kwmvznI8DoNUjFMxVl_37.923764_-85.677126@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049421,
+    "wof:geomhash":"570df0dfbe131e9dba72cf35c5bc55be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840849119
+        }
+    ],
+    "wof:id":840849119,
+    "wof:lastmodified":1464049421,
+    "wof:name":"B C Auto Sale",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.677126,
+    37.923764,
+    -85.677126,
+    37.923764
+],
+  "geometry": {"coordinates":[-85.677126,37.923764],"type":"Point"}
+}

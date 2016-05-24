@@ -1,0 +1,71 @@
+{
+  "id": 856687897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531744,37.012159,-88.531744,37.012159",
+    "geom:latitude":37.012159,
+    "geom:longitude":-88.531744,
+    "iso:country":"US",
+    "sg:address":"5730 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 8651",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxEfYJSUoFpR3mWeX5E4r_37.012159_-88.531744@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051822,
+    "wof:geomhash":"e651b4e348afcdfe5d6bb5802b58d6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856687897
+        }
+    ],
+    "wof:id":856687897,
+    "wof:lastmodified":1464051822,
+    "wof:name":"Ken's Dental LAB/Cdt",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -88.531744,
+    37.012159,
+    -88.531744,
+    37.012159
+],
+  "geometry": {"coordinates":[-88.531744,37.012159],"type":"Point"}
+}

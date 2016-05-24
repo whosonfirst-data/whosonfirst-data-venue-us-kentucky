@@ -1,0 +1,71 @@
+{
+  "id": 840751493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566032,37.902311,-84.566032,37.902311",
+    "geom:latitude":37.902311,
+    "geom:longitude":-84.566032,
+    "iso:country":"US",
+    "sg:address":"157 Imperial Way",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 8115",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aOVtWy9llVVQMJEPpmw9W_37.902311_-84.566032@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047138,
+    "wof:geomhash":"40655387d9e6d1b223fe6430a67a5679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840751493
+        }
+    ],
+    "wof:id":840751493,
+    "wof:lastmodified":1464047138,
+    "wof:name":"Jessamine Car Care Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.566032,
+    37.902311,
+    -84.566032,
+    37.902311
+],
+  "geometry": {"coordinates":[-84.56603200000001,37.902311],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 840807799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.47745,36.958011,-86.47745,36.958011",
+    "geom:latitude":36.958011,
+    "geom:longitude":-86.47745,
+    "iso:country":"US",
+    "sg:address":"3080 Fitzgerald Industrial Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8886",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85831487,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSQiVlpLo5I8Ypjm0KeLM_36.958011_-86.477450@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048356,
+    "wof:geomhash":"2bf3de4268ce13f9790f2944f8d2cf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840807799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840807799
+        }
+    ],
+    "wof:id":840807799,
+    "wof:lastmodified":1464048356,
+    "wof:name":"Mulch Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.47745,
+    36.958011,
+    -86.47745,
+    36.958011
+],
+  "geometry": {"coordinates":[-86.47745,36.958011],"type":"Point"}
+}

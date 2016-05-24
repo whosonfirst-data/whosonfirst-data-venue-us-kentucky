@@ -1,0 +1,71 @@
+{
+  "id": 840928597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879855,37.700548,-85.879855,37.700548",
+    "geom:latitude":37.700548,
+    "geom:longitude":-85.879855,
+    "iso:country":"US",
+    "sg:address":"571 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6103",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UodC7D5ZL9JhsRHMlMjM4_37.700548_-85.879855@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051218,
+    "wof:geomhash":"787534acb57074c9662bda9ceaf907ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840928597
+        }
+    ],
+    "wof:id":840928597,
+    "wof:lastmodified":1464051218,
+    "wof:name":"Morningview Gardens",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    -85.879855,
+    37.700548,
+    -85.879855,
+    37.700548
+],
+  "geometry": {"coordinates":[-85.87985500000001,37.700548],"type":"Point"}
+}

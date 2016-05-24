@@ -1,0 +1,76 @@
+{
+  "id": 856716931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.543026,38.247885,-85.543026,38.247885",
+    "geom:latitude":38.247885,
+    "geom:longitude":-85.543026,
+    "iso:country":"US",
+    "sg:address":"206 Old Harrods Creek Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 2727",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.scotthallimports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07qI8xyUW17OBZOu3OeIt2_38.247885_-85.543026@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052467,
+    "wof:geomhash":"615f45e3f7ac02891ead5003e80bbe44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856716931
+        }
+    ],
+    "wof:id":856716931,
+    "wof:lastmodified":1464052467,
+    "wof:name":"Scott Hall Imports",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.543026,
+    38.247885,
+    -85.543026,
+    38.247885
+],
+  "geometry": {"coordinates":[-85.543026,38.247885],"type":"Point"}
+}

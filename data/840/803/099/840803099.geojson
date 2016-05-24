@@ -1,0 +1,71 @@
+{
+  "id": 840803099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.541316,37.039205,-88.541316,37.039205",
+    "geom:latitude":37.039205,
+    "geom:longitude":-88.541316,
+    "iso:country":"US",
+    "sg:address":"4509 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 7000",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QXApWF422zldAMXXff0cU_37.039205_-88.541316@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048265,
+    "wof:geomhash":"642b8680da62531873e0a42620f81362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840803099
+        }
+    ],
+    "wof:id":840803099,
+    "wof:lastmodified":1464048265,
+    "wof:name":"Antiques Plus",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -88.541316,
+    37.039205,
+    -88.541316,
+    37.039205
+],
+  "geometry": {"coordinates":[-88.54131599999999,37.039205],"type":"Point"}
+}

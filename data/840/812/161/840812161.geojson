@@ -1,0 +1,73 @@
+{
+  "id": 840812161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.735357,38.257098,-85.735357,38.257098",
+    "geom:latitude":38.257098,
+    "geom:longitude":-85.735357,
+    "iso:country":"US",
+    "sg:address":"156 N Campbell St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 6491",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g6AtdpIVPrvelKSMOL6vW_38.257098_-85.735357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048508,
+    "wof:geomhash":"fd68e76df4238cf4f7925283ead8ae65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":840812161
+        }
+    ],
+    "wof:id":840812161,
+    "wof:lastmodified":1464048508,
+    "wof:name":"Pierson Transmission Svc",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.735357,
+    38.257098,
+    -85.735357,
+    38.257098
+],
+  "geometry": {"coordinates":[-85.73535699999999,38.257098],"type":"Point"}
+}

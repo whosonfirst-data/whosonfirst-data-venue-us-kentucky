@@ -1,0 +1,71 @@
+{
+  "id": 840909549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.863202,37.674614,-85.863202,37.674614",
+    "geom:latitude":37.674614,
+    "geom:longitude":-85.863202,
+    "iso:country":"US",
+    "sg:address":"150 McCamish Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4199",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNjXGn0QkNz7G8m2iwOnk_37.674614_-85.863202@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050711,
+    "wof:geomhash":"8fc478ff004753af3c60b7ded2ad7811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840909549
+        }
+    ],
+    "wof:id":840909549,
+    "wof:lastmodified":1464050711,
+    "wof:name":"Eden Fence Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -85.863202,
+    37.674614,
+    -85.863202,
+    37.674614
+],
+  "geometry": {"coordinates":[-85.863202,37.674614],"type":"Point"}
+}

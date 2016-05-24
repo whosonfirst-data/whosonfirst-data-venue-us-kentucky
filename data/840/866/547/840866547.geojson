@@ -1,0 +1,71 @@
+{
+  "id": 840866547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.565215,37.048502,-88.565215,37.048502",
+    "geom:latitude":37.048502,
+    "geom:longitude":-88.565215,
+    "iso:country":"US",
+    "sg:address":"3415 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9978",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GkASfsm6o1DTYjfna4pGw_37.048502_-88.565215@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049789,
+    "wof:geomhash":"160c03f680853441a340854818ff2647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840866547
+        }
+    ],
+    "wof:id":840866547,
+    "wof:lastmodified":1464049789,
+    "wof:name":"Country Castle Barbecue",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -88.565215,
+    37.048502,
+    -88.565215,
+    37.048502
+],
+  "geometry": {"coordinates":[-88.56521499999999,37.048502],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840784385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.800927,37.655013,-84.800927,37.655013",
+    "geom:latitude":37.655013,
+    "geom:longitude":-84.800927,
+    "iso:country":"US",
+    "sg:address":"106 Ponder Ct",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4039",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DVQc0f3ms22DfwmKNNzBW_37.655013_-84.800927@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047846,
+    "wof:geomhash":"f3975b8d00573b9b27bc3937376ae2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840784385
+        }
+    ],
+    "wof:id":840784385,
+    "wof:lastmodified":1464047846,
+    "wof:name":"Danville Open Mri & Diagnostic",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -84.800927,
+    37.655013,
+    -84.800927,
+    37.655013
+],
+  "geometry": {"coordinates":[-84.800927,37.655013],"type":"Point"}
+}

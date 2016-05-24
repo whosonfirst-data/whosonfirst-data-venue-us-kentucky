@@ -1,0 +1,71 @@
+{
+  "id": 840706013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446722,36.996787,-86.446722,36.996787",
+    "geom:latitude":36.996787,
+    "geom:longitude":-86.446722,
+    "iso:country":"US",
+    "sg:address":"1 E 10th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4964",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I4N7Ck2DZYeJXFIKcQnrs_36.996787_-86.446722@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046224,
+    "wof:geomhash":"bf66104404918cca9c31eb7c9fbe2c82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840706013
+        }
+    ],
+    "wof:id":840706013,
+    "wof:lastmodified":1464046224,
+    "wof:name":"Southern Kentucky Bldg & Rmdlg",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -86.446722,
+    36.996787,
+    -86.446722,
+    36.996787
+],
+  "geometry": {"coordinates":[-86.44672199999999,36.996787],"type":"Point"}
+}

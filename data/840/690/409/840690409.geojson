@@ -1,0 +1,76 @@
+{
+  "id": 840690409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.454205,38.037412,-84.454205,38.037412",
+    "geom:latitude":38.037412,
+    "geom:longitude":-84.454205,
+    "iso:country":"US",
+    "sg:address":"1029 E New Circle Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 4242",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.paulmillerautoplex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85817017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67K4tt1GhThd4qd230BWbX_38.037412_-84.454205@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045826,
+    "wof:geomhash":"ba0259040456fe03b94901f14680fadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85817017,
+            "region_id":85688641,
+            "venue_id":840690409
+        }
+    ],
+    "wof:id":840690409,
+    "wof:lastmodified":1464045826,
+    "wof:name":"Paul Miller Mazda",
+    "wof:parent_id":85817017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.454205,
+    38.037412,
+    -84.454205,
+    38.037412
+],
+  "geometry": {"coordinates":[-84.454205,38.037412],"type":"Point"}
+}

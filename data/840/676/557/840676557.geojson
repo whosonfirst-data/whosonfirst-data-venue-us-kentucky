@@ -1,0 +1,75 @@
+{
+  "id": 840676557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888865,37.627069,-85.888865,37.627069",
+    "geom:latitude":37.627069,
+    "geom:longitude":-85.888865,
+    "iso:country":"US",
+    "sg:address":"4605 New Glendale Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 9851",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aemK2RTu2cWMzHYSEqdhJ_37.627069_-85.888865@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045477,
+    "wof:geomhash":"fd7bad12902dbeede36b6e7bc2df3237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840676557
+        }
+    ],
+    "wof:id":840676557,
+    "wof:lastmodified":1464045477,
+    "wof:name":"Thomas' Body Shop",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.888865,
+    37.627069,
+    -85.888865,
+    37.627069
+],
+  "geometry": {"coordinates":[-85.888865,37.627069],"type":"Point"}
+}

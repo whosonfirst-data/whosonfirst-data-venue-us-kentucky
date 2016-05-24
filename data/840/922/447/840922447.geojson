@@ -1,0 +1,69 @@
+{
+  "id": 840922447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.613501,37.885771,-84.613501,37.885771",
+    "geom:latitude":37.885771,
+    "geom:longitude":-84.613501,
+    "iso:country":"US",
+    "sg:address":"1851 Wilmore Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3061",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fGRKgJEXSpXFk0r5CW96c_37.885771_-84.613501@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051070,
+    "wof:geomhash":"2bd9590b8e193a93bb2fc461bb8d1ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840922447
+        }
+    ],
+    "wof:id":840922447,
+    "wof:lastmodified":1464051070,
+    "wof:name":"Charles K Williams Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.613501,
+    37.885771,
+    -84.613501,
+    37.885771
+],
+  "geometry": {"coordinates":[-84.613501,37.885771],"type":"Point"}
+}

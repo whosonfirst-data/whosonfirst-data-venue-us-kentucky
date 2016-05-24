@@ -1,0 +1,73 @@
+{
+  "id": 840561117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.710697,37.676232,-84.710697,37.676232",
+    "geom:latitude":37.676232,
+    "geom:longitude":-84.710697,
+    "iso:country":"US",
+    "sg:address":"970 Wells Landing Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 9427",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D8omRHXaV1MFrItjdOqPX_37.676232_-84.710697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042757,
+    "wof:geomhash":"ed277b43a59741c1443950fd0dfc4860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840561117
+        }
+    ],
+    "wof:id":840561117,
+    "wof:lastmodified":1464042757,
+    "wof:name":"Leffew Electric",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.710697,
+    37.676232,
+    -84.710697,
+    37.676232
+],
+  "geometry": {"coordinates":[-84.710697,37.676232],"type":"Point"}
+}

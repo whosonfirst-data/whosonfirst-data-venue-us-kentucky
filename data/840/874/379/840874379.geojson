@@ -1,0 +1,71 @@
+{
+  "id": 840874379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.788887,38.006543,-84.788887,38.006543",
+    "geom:latitude":38.006543,
+    "geom:longitude":-84.788887,
+    "iso:country":"US",
+    "sg:address":"1990 Scotts Ferry Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 6095",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ZfqFzhZSNipW28jSzLfn_38.006543_-84.788887@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049939,
+    "wof:geomhash":"f23920c030bc15128db918fb0eef75c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840874379
+        }
+    ],
+    "wof:id":840874379,
+    "wof:lastmodified":1464049939,
+    "wof:name":"Pennington Painting LLC",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.788887,
+    38.006543,
+    -84.788887,
+    38.006543
+],
+  "geometry": {"coordinates":[-84.788887,38.006543],"type":"Point"}
+}

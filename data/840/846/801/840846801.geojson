@@ -1,0 +1,76 @@
+{
+  "id": 840846801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779183,38.161944,-85.779183,38.161944",
+    "geom:latitude":38.161944,
+    "geom:longitude":-85.779183,
+    "iso:country":"US",
+    "sg:address":"5115 New Cut Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 2007",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kP0cstOHIGpMtcR4ZZ7Cx_38.161944_-85.779183@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049369,
+    "wof:geomhash":"331eb9ee79be1476588770e2042d6bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840846801
+        }
+    ],
+    "wof:id":840846801,
+    "wof:lastmodified":1464049369,
+    "wof:name":"Autozone",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -85.779183,
+    38.161944,
+    -85.779183,
+    38.161944
+],
+  "geometry": {"coordinates":[-85.779183,38.161944],"type":"Point"}
+}

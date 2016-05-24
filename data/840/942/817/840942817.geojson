@@ -1,0 +1,73 @@
+{
+  "id": 840942817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.629357,37.174366,-84.629357,37.174366",
+    "geom:latitude":37.174366,
+    "geom:longitude":-84.629357,
+    "iso:country":"US",
+    "sg:address":"217 State Hwy 635",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3290",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ELJrhOWylUf0IIFTgwomK_37.174366_-84.629357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051502,
+    "wof:geomhash":"866cb3d3a3ae6376446cbed7af0f5081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840942817
+        }
+    ],
+    "wof:id":840942817,
+    "wof:lastmodified":1464051502,
+    "wof:name":"Paul's Carwash",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.629357,
+    37.174366,
+    -84.629357,
+    37.174366
+],
+  "geometry": {"coordinates":[-84.629357,37.174366],"type":"Point"}
+}

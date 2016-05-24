@@ -1,0 +1,73 @@
+{
+  "id": 840796787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839911,37.690764,-85.839911,37.690764",
+    "geom:latitude":37.690764,
+    "geom:longitude":-85.839911,
+    "iso:country":"US",
+    "sg:address":"1338 Springfield Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8243",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56E10GETz2xyNXV2caAmtK_37.690764_-85.839911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048116,
+    "wof:geomhash":"103e65cf81eb2401925a21f8f588cde1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840796787
+        }
+    ],
+    "wof:id":840796787,
+    "wof:lastmodified":1464048116,
+    "wof:name":"Masterson's Electric",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.839911,
+    37.690764,
+    -85.839911,
+    37.690764
+],
+  "geometry": {"coordinates":[-85.839911,37.690764],"type":"Point"}
+}

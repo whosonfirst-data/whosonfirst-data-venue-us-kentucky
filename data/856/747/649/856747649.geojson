@@ -1,0 +1,81 @@
+{
+  "id": 856747649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.623619,38.216782,-85.623619,38.216782",
+    "geom:latitude":38.216782,
+    "geom:longitude":-85.623619,
+    "iso:country":"US",
+    "sg:address":"3050 Hunsinger Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eXLGGjcfabEN15eDlaNhZ_38.216782_-85.623619@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053664,
+    "wof:geomhash":"3f1bd975bc7ba65616b8d0b7ba89788e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747649
+        }
+    ],
+    "wof:id":856747649,
+    "wof:lastmodified":1464053664,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -85.623619,
+    38.216782,
+    -85.623619,
+    38.216782
+],
+  "geometry": {"coordinates":[-85.62361900000001,38.216782],"type":"Point"}
+}

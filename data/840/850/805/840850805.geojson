@@ -1,0 +1,71 @@
+{
+  "id": 840850805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.461013,37.011752,-86.461013,37.011752",
+    "geom:latitude":37.011752,
+    "geom:longitude":-86.461013,
+    "iso:country":"US",
+    "sg:address":"1200 W Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 3877",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PARxvOKNHviDML1yIBpwu_37.011752_-86.461013@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049456,
+    "wof:geomhash":"ed74a2fb72e7144b7d79bd76877d9cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840850805
+        }
+    ],
+    "wof:id":840850805,
+    "wof:lastmodified":1464049456,
+    "wof:name":"Hobson Grove Golf Course",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -86.461013,
+    37.011752,
+    -86.461013,
+    37.011752
+],
+  "geometry": {"coordinates":[-86.46101299999999,37.011752],"type":"Point"}
+}

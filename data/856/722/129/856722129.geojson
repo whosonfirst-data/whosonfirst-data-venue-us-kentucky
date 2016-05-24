@@ -1,0 +1,73 @@
+{
+  "id": 856722129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.586344,39.018861,-84.586344,39.018861",
+    "geom:latitude":39.018861,
+    "geom:longitude":-84.586344,
+    "iso:country":"US",
+    "sg:address":"3045 Lyndale Ct",
+    "sg:city":"Edgewood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 727 3210",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dZekKncUtPj5iuQc4ZJKt_39.018861_-84.586344@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052680,
+    "wof:geomhash":"af54894759c79b4ec26d9cef73fd9a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":856722129
+        }
+    ],
+    "wof:id":856722129,
+    "wof:lastmodified":1464052680,
+    "wof:name":"Ma' Adanim's Catering",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -84.586344,
+    39.018861,
+    -84.586344,
+    39.018861
+],
+  "geometry": {"coordinates":[-84.586344,39.018861],"type":"Point"}
+}

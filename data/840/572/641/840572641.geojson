@@ -1,0 +1,71 @@
+{
+  "id": 840572641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.876341,37.712835,-85.876341,37.712835",
+    "geom:latitude":37.712835,
+    "geom:longitude":-85.876341,
+    "iso:country":"US",
+    "sg:address":"134 Heartland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3100",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lnQoe8h6jxPr0BvjXcoRt_37.712835_-85.876341@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043058,
+    "wof:geomhash":"91c2b04ea3f7beb3b018df2ac7c19ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840572641
+        }
+    ],
+    "wof:id":840572641,
+    "wof:lastmodified":1464043058,
+    "wof:name":"Healthsouth Rehabilitation Ctr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -85.876341,
+    37.712835,
+    -85.876341,
+    37.712835
+],
+  "geometry": {"coordinates":[-85.876341,37.712835],"type":"Point"}
+}

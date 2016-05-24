@@ -1,0 +1,71 @@
+{
+  "id": 840882109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.41833,36.892493,-86.41833,36.892493",
+    "geom:latitude":36.892493,
+    "geom:longitude":-86.41833,
+    "iso:country":"US",
+    "sg:address":"2371 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 2043",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MmA6rhCFwTF4fsA8cT4dz_36.892493_-86.418330@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050114,
+    "wof:geomhash":"b913b6262742aa2b6101c6e1bb64dade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840882109
+        }
+    ],
+    "wof:id":840882109,
+    "wof:lastmodified":1464050114,
+    "wof:name":"Rubens Auto Service",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.41833,
+    36.892493,
+    -86.41833,
+    36.892493
+],
+  "geometry": {"coordinates":[-86.41833,36.892493],"type":"Point"}
+}

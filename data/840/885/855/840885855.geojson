@@ -1,0 +1,73 @@
+{
+  "id": 840885855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879485,37.73292,-85.879485,37.73292",
+    "geom:latitude":37.73292,
+    "geom:longitude":-85.879485,
+    "iso:country":"US",
+    "sg:address":"1709 Oriole Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 1809",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JI9vT7TfRE9aJGEGXQgHM_37.732920_-85.879485@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050196,
+    "wof:geomhash":"6cdfb5e70f5b3b9dd3841bb27914602a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840885855
+        }
+    ],
+    "wof:id":840885855,
+    "wof:lastmodified":1464050196,
+    "wof:name":"Vaughn Miller MD",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.879485,
+    37.73292,
+    -85.879485,
+    37.73292
+],
+  "geometry": {"coordinates":[-85.879485,37.73292],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840599701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.590961,37.841874,-87.590961,37.841874",
+    "geom:latitude":37.841874,
+    "geom:longitude":-87.590961,
+    "iso:country":"US",
+    "sg:address":"213 N Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2748",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NiB2ve79hKMl5aQy1s6gX_37.841874_-87.590961@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043654,
+    "wof:geomhash":"ac3dbc5fe28ca20af4e8ac1248816c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840599701
+        }
+    ],
+    "wof:id":840599701,
+    "wof:lastmodified":1464043654,
+    "wof:name":"Frank G Schmitt Co",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -87.590961,
+    37.841874,
+    -87.590961,
+    37.841874
+],
+  "geometry": {"coordinates":[-87.59096099999999,37.841874],"type":"Point"}
+}

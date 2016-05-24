@@ -1,0 +1,71 @@
+{
+  "id": 840876235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718141,37.998056,-85.718141,37.998056",
+    "geom:latitude":37.998056,
+    "geom:longitude":-85.718141,
+    "iso:country":"US",
+    "sg:address":"172 Sand Dollar Ct",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 9505",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rkaQr7WCf79GSTDQkbeCk_37.998056_-85.718141@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049973,
+    "wof:geomhash":"8d5998731289f2f972bdd70e4317313c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840876235
+        }
+    ],
+    "wof:id":840876235,
+    "wof:lastmodified":1464049973,
+    "wof:name":"Angela Homes",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.718141,
+    37.998056,
+    -85.718141,
+    37.998056
+],
+  "geometry": {"coordinates":[-85.718141,37.998056],"type":"Point"}
+}

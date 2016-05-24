@@ -1,0 +1,81 @@
+{
+  "id": 856753147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.292784,37.747169,-84.292784,37.747169",
+    "geom:latitude":37.747169,
+    "geom:longitude":-84.292784,
+    "iso:country":"US",
+    "sg:address":"140 N Madison Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZACp8AXtFNPLHMEV1fqHm_37.747169_-84.292784@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053873,
+    "wof:geomhash":"771dc363dc632b84c4436d304214c80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856753147
+        }
+    ],
+    "wof:id":856753147,
+    "wof:lastmodified":1464053873,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.292784,
+    37.747169,
+    -84.292784,
+    37.747169
+],
+  "geometry": {"coordinates":[-84.292784,37.747169],"type":"Point"}
+}

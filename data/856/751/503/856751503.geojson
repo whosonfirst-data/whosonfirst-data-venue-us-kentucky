@@ -1,0 +1,84 @@
+{
+  "id": 856751503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622749,38.168322,-85.622749,38.168322",
+    "geom:latitude":38.168322,
+    "geom:longitude":-85.622749,
+    "iso:country":"US",
+    "sg:address":"5406 S Watterson Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 5645",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IDWmazm3rocBMmbK48vOx_38.168322_-85.622749@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053810,
+    "wof:geomhash":"388544df4ad548b21114f9fa068c06b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856751503
+        }
+    ],
+    "wof:id":856751503,
+    "wof:lastmodified":1464053810,
+    "wof:name":"Smith Fence Co",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.622749,
+    38.168322,
+    -85.622749,
+    38.168322
+],
+  "geometry": {"coordinates":[-85.622749,38.168322],"type":"Point"}
+}

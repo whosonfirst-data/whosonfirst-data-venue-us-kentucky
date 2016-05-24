@@ -1,0 +1,66 @@
+{
+  "id": 840835073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422224,36.943811,-86.422224,36.943811",
+    "geom:latitude":36.943811,
+    "geom:longitude":-86.422224,
+    "iso:country":"US",
+    "sg:address":"3040 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3740",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bb9OjLAgqpv84jPQq274k_36.943811_-86.422224@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049112,
+    "wof:geomhash":"b4def26f4a72715fec244d2e9fcdf1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840835073
+        }
+    ],
+    "wof:id":840835073,
+    "wof:lastmodified":1464049112,
+    "wof:name":"Race Track Svc Station",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.422224,
+    36.943811,
+    -86.422224,
+    36.943811
+],
+  "geometry": {"coordinates":[-86.422224,36.943811],"type":"Point"}
+}

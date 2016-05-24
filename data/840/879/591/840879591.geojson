@@ -1,0 +1,71 @@
+{
+  "id": 840879591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.85545,37.698118,-85.85545,37.698118",
+    "geom:latitude":37.698118,
+    "geom:longitude":-85.85545,
+    "iso:country":"US",
+    "sg:address":"403 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0335",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oQNgXInLczgxx8e9s8dIQ_37.698118_-85.855450@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050068,
+    "wof:geomhash":"627c742c981cb086a079f89f4ef2cdcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840879591
+        }
+    ],
+    "wof:id":840879591,
+    "wof:lastmodified":1464050068,
+    "wof:name":"James E Dennis CPA",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -85.85545,
+    37.698118,
+    -85.85545,
+    37.698118
+],
+  "geometry": {"coordinates":[-85.85545,37.698118],"type":"Point"}
+}

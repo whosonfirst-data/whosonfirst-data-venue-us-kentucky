@@ -1,0 +1,73 @@
+{
+  "id": 840702691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625124,38.200395,-85.625124,38.200395",
+    "geom:latitude":38.200395,
+    "geom:longitude":-85.625124,
+    "iso:country":"US",
+    "sg:address":"4413 Woodgate Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 8969",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WoxOFVKIA0xexnYvfCjIX_38.200395_-85.625124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046159,
+    "wof:geomhash":"209d9395440e4d9f912bde68c1300491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840702691
+        }
+    ],
+    "wof:id":840702691,
+    "wof:lastmodified":1464046159,
+    "wof:name":"Oteng Associates",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning"
+    ]
+},
+  "bbox": [
+    -85.625124,
+    38.200395,
+    -85.625124,
+    38.200395
+],
+  "geometry": {"coordinates":[-85.625124,38.200395],"type":"Point"}
+}

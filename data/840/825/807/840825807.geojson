@@ -1,0 +1,73 @@
+{
+  "id": 840825807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.875474,36.907987,-85.875474,36.907987",
+    "geom:latitude":36.907987,
+    "geom:longitude":-85.875474,
+    "iso:country":"US",
+    "sg:address":"314 Wells Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 6984",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48wr0cfVJmpeoHp4Cjzi12_36.907987_-85.875474@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048906,
+    "wof:geomhash":"5e4102be59efab133e29a8f97e15b507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840825807
+        }
+    ],
+    "wof:id":840825807,
+    "wof:lastmodified":1464048906,
+    "wof:name":"Friedman's",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -85.875474,
+    36.907987,
+    -85.875474,
+    36.907987
+],
+  "geometry": {"coordinates":[-85.875474,36.907987],"type":"Point"}
+}

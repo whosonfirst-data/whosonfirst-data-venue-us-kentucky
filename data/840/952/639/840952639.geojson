@@ -1,0 +1,73 @@
+{
+  "id": 840952639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.470058,37.827703,-85.470058,37.827703",
+    "geom:latitude":37.827703,
+    "geom:longitude":-85.470058,
+    "iso:country":"US",
+    "sg:address":"207 W John Rowan Blvd",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 331 9346",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EjwTAcXwt8NmwvqwaHa2t_37.827703_-85.470058@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051699,
+    "wof:geomhash":"4298307e8da37b9a610361190939e366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840952639
+        }
+    ],
+    "wof:id":840952639,
+    "wof:lastmodified":1464051699,
+    "wof:name":"CPMC",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -85.470058,
+    37.827703,
+    -85.470058,
+    37.827703
+],
+  "geometry": {"coordinates":[-85.47005799999999,37.827703],"type":"Point"}
+}

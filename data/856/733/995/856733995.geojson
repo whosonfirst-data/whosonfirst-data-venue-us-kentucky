@@ -1,0 +1,74 @@
+{
+  "id": 856733995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.541045,38.218083,-84.541045,38.218083",
+    "geom:latitude":38.218083,
+    "geom:longitude":-84.541045,
+    "iso:country":"US",
+    "sg:address":"1445 Cherry Blossom Way",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/georgetown/176069-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 1867",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EQdx8iqj9Bcih2JwcKxJo_38.218083_-84.541045@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053145,
+    "wof:geomhash":"78f39cc76cb633ea9089c0c997e04e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856733995
+        }
+    ],
+    "wof:id":856733995,
+    "wof:lastmodified":1464053145,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.541045,
+    38.218083,
+    -84.541045,
+    38.218083
+],
+  "geometry": {"coordinates":[-84.541045,38.218083],"type":"Point"}
+}

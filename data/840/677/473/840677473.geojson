@@ -1,0 +1,73 @@
+{
+  "id": 840677473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270543,37.735418,-84.270543,37.735418",
+    "geom:latitude":37.735418,
+    "geom:longitude":-84.270543,
+    "iso:country":"US",
+    "sg:address":"976 Commercial Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 2414",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TBdrdYt21qRaaZf85QUSF_37.735418_-84.270543@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045502,
+    "wof:geomhash":"e984d0400f0e377d66f9eee4f4d217d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840677473
+        }
+    ],
+    "wof:id":840677473,
+    "wof:lastmodified":1464045502,
+    "wof:name":"Tanning Salon",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -84.270543,
+    37.735418,
+    -84.270543,
+    37.735418
+],
+  "geometry": {"coordinates":[-84.270543,37.735418],"type":"Point"}
+}

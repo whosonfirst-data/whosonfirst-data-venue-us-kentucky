@@ -1,0 +1,73 @@
+{
+  "id": 840561731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527549,36.974362,-84.527549,36.974362",
+    "geom:latitude":36.974362,
+    "geom:longitude":-84.527549,
+    "iso:country":"US",
+    "sg:address":"45 Eagle Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7493",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wiEdaYGL1gUFf8LjC07qZ_36.974362_-84.527549@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042774,
+    "wof:geomhash":"67819a0e3792e34ca16da2e831f20163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840561731
+        }
+    ],
+    "wof:id":840561731,
+    "wof:lastmodified":1464042774,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -84.527549,
+    36.974362,
+    -84.527549,
+    36.974362
+],
+  "geometry": {"coordinates":[-84.52754899999999,36.974362],"type":"Point"}
+}

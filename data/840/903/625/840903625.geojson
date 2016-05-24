@@ -1,0 +1,73 @@
+{
+  "id": 840903625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.456002,36.891641,-86.456002,36.891641",
+    "geom:latitude":36.891641,
+    "geom:longitude":-86.456002,
+    "iso:country":"US",
+    "sg:address":"953 Long Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 780 4808",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03n76iNPFr981k4xDR9w0D_36.891641_-86.456002@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050569,
+    "wof:geomhash":"2c726bed875ddc6db348cd63b3c3e3f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840903625
+        }
+    ],
+    "wof:id":840903625,
+    "wof:lastmodified":1464050569,
+    "wof:name":"Pro Lawn & Landscape",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.456002,
+    36.891641,
+    -86.456002,
+    36.891641
+],
+  "geometry": {"coordinates":[-86.456002,36.891641],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840687909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.708389,38.230436,-85.708389,38.230436",
+    "geom:latitude":38.230436,
+    "geom:longitude":-85.708389,
+    "iso:country":"US",
+    "sg:address":"1800 Stevens Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 2195",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bHOSJBBikURhEYr8NAjLH_38.230436_-85.708389@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045775,
+    "wof:geomhash":"f3f1354b17a159908e45655c830aff5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":840687909
+        }
+    ],
+    "wof:id":840687909,
+    "wof:lastmodified":1464045775,
+    "wof:name":"Housing Associates Inc",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.708389,
+    38.230436,
+    -85.708389,
+    38.230436
+],
+  "geometry": {"coordinates":[-85.708389,38.230436],"type":"Point"}
+}

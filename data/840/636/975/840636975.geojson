@@ -1,0 +1,73 @@
+{
+  "id": 840636975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.747995,38.245247,-85.747995,38.245247",
+    "geom:latitude":38.245247,
+    "geom:longitude":-85.747995,
+    "iso:country":"US",
+    "sg:address":"324 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 3994",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VLZzIPFbo062Y2o8lBN8J_38.245247_-85.747995@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044614,
+    "wof:geomhash":"578e60699a285c01f2fc1bcf24401b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":840636975
+        }
+    ],
+    "wof:id":840636975,
+    "wof:lastmodified":1464044614,
+    "wof:name":"Broadway Church of Nazarene",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.747995,
+    38.245247,
+    -85.747995,
+    38.245247
+],
+  "geometry": {"coordinates":[-85.747995,38.245247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856741879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701564,38.253532,-85.701564,38.253532",
+    "geom:latitude":38.253532,
+    "geom:longitude":-85.701564,
+    "iso:country":"US",
+    "sg:address":"2341 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 7981",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "television",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yJZeglLO8FFhnEHVwbsAn_38.253532_-85.701564@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053453,
+    "wof:geomhash":"468058f60c7aa75a1e4e879751bd45ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866965,
+            "region_id":85688641,
+            "venue_id":856741879
+        }
+    ],
+    "wof:id":856741879,
+    "wof:lastmodified":1464053453,
+    "wof:name":"Bailey TV & Electronics Inc",
+    "wof:parent_id":85866965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -85.701564,
+    38.253532,
+    -85.701564,
+    38.253532
+],
+  "geometry": {"coordinates":[-85.701564,38.253532],"type":"Point"}
+}

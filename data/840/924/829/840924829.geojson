@@ -1,0 +1,73 @@
+{
+  "id": 840924829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53022,37.016044,-88.53022,37.016044",
+    "geom:latitude":37.016044,
+    "geom:longitude":-88.53022,
+    "iso:country":"US",
+    "sg:address":"101 Rac Mer Ct",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 1555",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eZu4JLF0JaZwwWUJRaw75_37.016044_-88.530220@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051135,
+    "wof:geomhash":"9dd66a0f9d5317f79b48a1b1d8133db2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840924829
+        }
+    ],
+    "wof:id":840924829,
+    "wof:lastmodified":1464051135,
+    "wof:name":"Reidland Manor Apartments",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.53022,
+    37.016044,
+    -88.53022,
+    37.016044
+],
+  "geometry": {"coordinates":[-88.53022,37.016044],"type":"Point"}
+}

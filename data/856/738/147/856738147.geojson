@@ -1,0 +1,73 @@
+{
+  "id": 856738147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.431898,38.341523,-85.431898,38.341523",
+    "geom:latitude":38.341523,
+    "geom:longitude":-85.431898,
+    "iso:country":"US",
+    "sg:address":"5922 Centerwood Dr",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 0365",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qAuFzYz3V6sp2zqzBlChn_38.341523_-85.431898@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053309,
+    "wof:geomhash":"017d98a1f599efbc1e494bcabfd5be11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856738147
+        }
+    ],
+    "wof:id":856738147,
+    "wof:lastmodified":1464053309,
+    "wof:name":"Quinn & Company Medical",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.431898,
+    38.341523,
+    -85.431898,
+    38.341523
+],
+  "geometry": {"coordinates":[-85.431898,38.341523],"type":"Point"}
+}

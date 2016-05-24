@@ -1,0 +1,75 @@
+{
+  "id": 840618157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.520565,38.242856,-85.520565,38.242856",
+    "geom:latitude":38.242856,
+    "geom:longitude":-85.520565,
+    "iso:country":"US",
+    "sg:address":"12730 Townepark Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 0425",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rCjk9Y5KhKquXGLFGiIBl_38.242856_-85.520565@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044125,
+    "wof:geomhash":"341af760b665e3cb74125ecab9d3655f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840618157
+        }
+    ],
+    "wof:id":840618157,
+    "wof:lastmodified":1464044125,
+    "wof:name":"NAERIC",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -85.520565,
+    38.242856,
+    -85.520565,
+    38.242856
+],
+  "geometry": {"coordinates":[-85.520565,38.242856],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840721013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471296,36.97682,-86.471296,36.97682",
+    "geom:latitude":36.97682,
+    "geom:longitude":-86.471296,
+    "iso:country":"US",
+    "sg:address":"167 Saint Charles St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7968",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xWsGEKKDvoTqS5ttYbd1l_36.976820_-86.471296@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046529,
+    "wof:geomhash":"11944647cda864920dcb0b419dc04494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840721013
+        }
+    ],
+    "wof:id":840721013,
+    "wof:lastmodified":1464046529,
+    "wof:name":"Kaiser Glass & Metal LLC",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -86.471296,
+    36.97682,
+    -86.471296,
+    36.97682
+],
+  "geometry": {"coordinates":[-86.471296,36.97682],"type":"Point"}
+}

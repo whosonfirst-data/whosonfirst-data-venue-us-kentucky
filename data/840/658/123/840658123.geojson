@@ -1,0 +1,75 @@
+{
+  "id": 840658123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.93918,37.652603,-84.93918,37.652603",
+    "geom:latitude":37.652603,
+    "geom:longitude":-84.93918,
+    "iso:country":"US",
+    "sg:address":"9445 Perryville Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 332 8530",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department",
+        "dept",
+        "2",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YqQvqxNBk8zGTkyp1VuaY_37.652603_-84.939180@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045068,
+    "wof:geomhash":"188b2da1529afc685ae32c572dc1ee42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840658123
+        }
+    ],
+    "wof:id":840658123,
+    "wof:lastmodified":1464045068,
+    "wof:name":"Boyle County Engine 5",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "dept",
+        "2",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -84.93918,
+    37.652603,
+    -84.93918,
+    37.652603
+],
+  "geometry": {"coordinates":[-84.93917999999999,37.652603],"type":"Point"}
+}

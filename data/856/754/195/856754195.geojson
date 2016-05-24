@@ -1,0 +1,77 @@
+{
+  "id": 856754195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.50123,38.050132,-84.50123,38.050132",
+    "geom:latitude":38.050132,
+    "geom:longitude":-84.50123,
+    "iso:country":"US",
+    "sg:address":"517 W Main St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 327 3333",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d7Z4AIkk7DNM3TVOrrCRS_38.050132_-84.501230@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053917,
+    "wof:geomhash":"963d3d7ef89b38d694cf5d5ac1d736d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873065,
+            "region_id":85688641,
+            "venue_id":856754195
+        }
+    ],
+    "wof:id":856754195,
+    "wof:lastmodified":1464053917,
+    "wof:name":"The Penguin Dueling Piano Bar",
+    "wof:parent_id":85873065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -84.50123,
+    38.050132,
+    -84.50123,
+    38.050132
+],
+  "geometry": {"coordinates":[-84.50123000000001,38.050132],"type":"Point"}
+}

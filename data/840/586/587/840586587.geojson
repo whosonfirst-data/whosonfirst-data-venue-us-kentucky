@@ -1,0 +1,71 @@
+{
+  "id": 840586587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.351911,37.026814,-84.351911,37.026814",
+    "geom:latitude":37.026814,
+    "geom:longitude":-84.351911,
+    "iso:country":"US",
+    "sg:address":"15621 State Hwy 192",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 9192",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lb3fjFCFR41wiiX6a4yDw_37.026814_-84.351911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043349,
+    "wof:geomhash":"c602535c2f2b10896d9bc53d2d1b1c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840586587
+        }
+    ],
+    "wof:id":840586587,
+    "wof:lastmodified":1464043349,
+    "wof:name":"Morgan's Grocery",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.351911,
+    37.026814,
+    -84.351911,
+    37.026814
+],
+  "geometry": {"coordinates":[-84.351911,37.026814],"type":"Point"}
+}

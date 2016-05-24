@@ -1,0 +1,69 @@
+{
+  "id": 840777603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.739411,38.037771,-84.739411,38.037771",
+    "geom:latitude":38.037771,
+    "geom:longitude":-84.739411,
+    "iso:country":"US",
+    "sg:address":"202 Tweed Ct",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 8008",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XrDj21TNTetqnIUUwh5Bl_38.037771_-84.739411@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047713,
+    "wof:geomhash":"4696af6d9bf8f39c86b6082478f44557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840777603
+        }
+    ],
+    "wof:id":840777603,
+    "wof:lastmodified":1464047713,
+    "wof:name":"Dunn Painting",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.739411,
+    38.037771,
+    -84.739411,
+    38.037771
+],
+  "geometry": {"coordinates":[-84.739411,38.037771],"type":"Point"}
+}

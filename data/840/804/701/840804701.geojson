@@ -1,0 +1,74 @@
+{
+  "id": 840804701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447009,36.959522,-86.447009,36.959522",
+    "geom:latitude":36.959522,
+    "geom:longitude":-86.447009,
+    "iso:country":"US",
+    "sg:address":"1720 Destiny Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3554",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.bgdestinydental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y1q9zRYuNB2aVklessO1q_36.959522_-86.447009@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048294,
+    "wof:geomhash":"843a23d1da8b9cade3f46df41946b9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840804701
+        }
+    ],
+    "wof:id":840804701,
+    "wof:lastmodified":1464048294,
+    "wof:name":"Davis & Robertson",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.447009,
+    36.959522,
+    -86.447009,
+    36.959522
+],
+  "geometry": {"coordinates":[-86.44700899999999,36.959522],"type":"Point"}
+}

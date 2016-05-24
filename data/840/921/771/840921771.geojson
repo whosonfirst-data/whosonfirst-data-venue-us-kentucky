@@ -1,0 +1,73 @@
+{
+  "id": 840921771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.555856,38.046607,-84.555856,38.046607",
+    "geom:latitude":38.046607,
+    "geom:longitude":-84.555856,
+    "iso:country":"US",
+    "sg:address":"2335 Versailles Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 3778",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pwz4gkwyo6OTAoB8SRJYd_38.046607_-84.555856@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051054,
+    "wof:geomhash":"dd5ea33c2891043ea37667c7b5cc1eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873489,
+            "region_id":85688641,
+            "venue_id":840921771
+        }
+    ],
+    "wof:id":840921771,
+    "wof:lastmodified":1464051054,
+    "wof:name":"Superior Dry Cleaners 1",
+    "wof:parent_id":85873489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.555856,
+    38.046607,
+    -84.555856,
+    38.046607
+],
+  "geometry": {"coordinates":[-84.55585600000001,38.046607],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856751359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604115,38.168308,-85.604115,38.168308",
+    "geom:latitude":38.168308,
+    "geom:longitude":-85.604115,
+    "iso:country":"US",
+    "sg:address":"5324 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 7714",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medal",
+        "plaque",
+        "trophies"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S3XVnHLbOQUtAafDJ0tYm_38.168308_-85.604115@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053805,
+    "wof:geomhash":"c64658bc06a629239dfadf8323b583da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856751359
+        }
+    ],
+    "wof:id":856751359,
+    "wof:lastmodified":1464053805,
+    "wof:name":"Coffman's",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medal",
+        "plaque",
+        "trophies"
+    ]
+},
+  "bbox": [
+    -85.604115,
+    38.168308,
+    -85.604115,
+    38.168308
+],
+  "geometry": {"coordinates":[-85.60411499999999,38.168308],"type":"Point"}
+}

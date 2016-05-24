@@ -1,0 +1,71 @@
+{
+  "id": 840727813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.430128,36.966954,-86.430128,36.966954",
+    "geom:latitude":36.966954,
+    "geom:longitude":-86.430128,
+    "iso:country":"US",
+    "sg:address":"1065 Ashley St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 7822",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tuXASRoPdxbIsj2LMfAiA_36.966954_-86.430128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046667,
+    "wof:geomhash":"331e5b68622dfd1e92db7a75f4d337b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840727813
+        }
+    ],
+    "wof:id":840727813,
+    "wof:lastmodified":1464046667,
+    "wof:name":"Morgan Stanley",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -86.430128,
+    36.966954,
+    -86.430128,
+    36.966954
+],
+  "geometry": {"coordinates":[-86.430128,36.966954],"type":"Point"}
+}

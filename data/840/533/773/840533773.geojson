@@ -1,0 +1,69 @@
+{
+  "id": 840533773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.263113,38.21244,-85.263113,38.21244",
+    "geom:latitude":38.21244,
+    "geom:longitude":-85.263113,
+    "iso:country":"US",
+    "sg:address":"344 Hill-N-Dale Dr",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 5947",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aLNsuPtWleJmGOlGCNq75_38.212440_-85.263113@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042069,
+    "wof:geomhash":"9d5b2a3765303be9ac83bf1164bc62e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840533773
+        }
+    ],
+    "wof:id":840533773,
+    "wof:lastmodified":1464042069,
+    "wof:name":"Bruner Repair Service",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -85.263113,
+    38.21244,
+    -85.263113,
+    38.21244
+],
+  "geometry": {"coordinates":[-85.263113,38.21244],"type":"Point"}
+}

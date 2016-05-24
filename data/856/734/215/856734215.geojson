@@ -1,0 +1,72 @@
+{
+  "id": 856734215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.715393,38.052897,-84.715393,38.052897",
+    "geom:latitude":38.052897,
+    "geom:longitude":-84.715393,
+    "iso:country":"US",
+    "sg:address":"102 United Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/versailles/186982-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 5720",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQNut31E4TY5dUTeGrVvc_38.052897_-84.715393@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053153,
+    "wof:geomhash":"9dc0b756bb5bb3d8846102729c3866e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856734215
+        }
+    ],
+    "wof:id":856734215,
+    "wof:lastmodified":1464053153,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.715393,
+    38.052897,
+    -84.715393,
+    38.052897
+],
+  "geometry": {"coordinates":[-84.71539300000001,38.052897],"type":"Point"}
+}

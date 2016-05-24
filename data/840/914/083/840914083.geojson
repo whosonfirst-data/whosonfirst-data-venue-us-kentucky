@@ -1,0 +1,73 @@
+{
+  "id": 840914083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.612523,36.995201,-84.612523,36.995201",
+    "geom:latitude":36.995201,
+    "geom:longitude":-84.612523,
+    "iso:country":"US",
+    "sg:address":"78 Cumberland Ln",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5805",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oGxP0OYFxbOVQGf4oOyxu_36.995201_-84.612523@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050852,
+    "wof:geomhash":"27ec8f595ea51c182ccefffe961655db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840914083
+        }
+    ],
+    "wof:id":840914083,
+    "wof:lastmodified":1464050852,
+    "wof:name":"Lonnie Sewell Body Shop",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.612523,
+    36.995201,
+    -84.612523,
+    36.995201
+],
+  "geometry": {"coordinates":[-84.612523,36.995201],"type":"Point"}
+}

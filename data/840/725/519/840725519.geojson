@@ -1,0 +1,87 @@
+{
+  "id": 840725519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.76858,37.616714,-84.76858,37.616714",
+    "geom:latitude":37.616714,
+    "geom:longitude":-84.76858,
+    "iso:country":"US",
+    "sg:address":"266 Jane Trl",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2022",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "swimming",
+        "pool",
+        "supply"
+    ],
+    "sg:website":"www.suntropic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VASwl30GlhOqqQ56CnXq9_37.616714_-84.768580@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046628,
+    "wof:geomhash":"e59534f2a96102f0649e01aafa062d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840725519
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840725519
+        }
+    ],
+    "wof:id":840725519,
+    "wof:lastmodified":1464046628,
+    "wof:name":"Sun Tropic Pools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "swimming",
+        "pool",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.76858,
+    37.616714,
+    -84.76858,
+    37.616714
+],
+  "geometry": {"coordinates":[-84.76858,37.616714],"type":"Point"}
+}

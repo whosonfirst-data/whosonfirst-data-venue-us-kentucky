@@ -1,0 +1,73 @@
+{
+  "id": 840540479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.602743,38.296357,-85.602743,38.296357",
+    "geom:latitude":38.296357,
+    "geom:longitude":-85.602743,
+    "iso:country":"US",
+    "sg:address":"3303 Barbour Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 5051",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4suiBUqBMB3RraAjeTgIC6_38.296357_-85.602743@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042237,
+    "wof:geomhash":"be6777d502401642aa1e526dcfdd7c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840540479
+        }
+    ],
+    "wof:id":840540479,
+    "wof:lastmodified":1464042237,
+    "wof:name":"Barbour Lane Animal Hospital",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.602743,
+    38.296357,
+    -85.602743,
+    38.296357
+],
+  "geometry": {"coordinates":[-85.602743,38.296357],"type":"Point"}
+}

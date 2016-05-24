@@ -1,0 +1,73 @@
+{
+  "id": 840575651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437155,36.995056,-86.437155,36.995056",
+    "geom:latitude":36.995056,
+    "geom:longitude":-86.437155,
+    "iso:country":"US",
+    "sg:address":"637 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1666",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mHt9rWsWAxNxD6eayPJrP_36.995056_-86.437155@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043118,
+    "wof:geomhash":"bc5b56172586f8e9d8eaa00d119161c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840575651
+        }
+    ],
+    "wof:id":840575651,
+    "wof:lastmodified":1464043118,
+    "wof:name":"Stephenson Auto Sales",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.437155,
+    36.995056,
+    -86.437155,
+    36.995056
+],
+  "geometry": {"coordinates":[-86.437155,36.995056],"type":"Point"}
+}

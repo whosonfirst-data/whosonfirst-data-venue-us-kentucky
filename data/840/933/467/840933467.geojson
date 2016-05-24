@@ -1,0 +1,71 @@
+{
+  "id": 840933467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.82682,38.935814,-84.82682,38.935814",
+    "geom:latitude":38.935814,
+    "geom:longitude":-84.82682,
+    "iso:country":"US",
+    "sg:address":"6175 Bishop Bend Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 8076",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dlsZRlMgBpYu9pK9fIfgp_38.935814_-84.826820@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051316,
+    "wof:geomhash":"fe792fc48ad194efda139d7fccba9725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840933467
+        }
+    ],
+    "wof:id":840933467,
+    "wof:lastmodified":1464051316,
+    "wof:name":"On Site Oil Inc",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.82682,
+    38.935814,
+    -84.82682,
+    38.935814
+],
+  "geometry": {"coordinates":[-84.82682,38.935814],"type":"Point"}
+}

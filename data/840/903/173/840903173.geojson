@@ -1,0 +1,69 @@
+{
+  "id": 840903173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.615554,37.074939,-84.615554,37.074939",
+    "geom:latitude":37.074939,
+    "geom:longitude":-84.615554,
+    "iso:country":"US",
+    "sg:address":"409 Monticello St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 1228",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NWIqbXjLBbkuK8BkMl2mY_37.074939_-84.615554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050561,
+    "wof:geomhash":"07ac98ec333274f36d8b29b0c7426078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840903173
+        }
+    ],
+    "wof:id":840903173,
+    "wof:lastmodified":1464050561,
+    "wof:name":"Pine Cone Primitives",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.615554,
+    37.074939,
+    -84.615554,
+    37.074939
+],
+  "geometry": {"coordinates":[-84.615554,37.074939],"type":"Point"}
+}

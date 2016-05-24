@@ -1,0 +1,75 @@
+{
+  "id": 840582625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75387,38.204527,-85.75387,38.204527",
+    "geom:latitude":38.204527,
+    "geom:longitude":-85.75387,
+    "iso:country":"US",
+    "sg:address":"2725 Helm St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 1169",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gHZtxe7dr6iML6GsRA4LX_38.204527_-85.753870@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043268,
+    "wof:geomhash":"cb3fc3a5ae02906ae5c2ce3318f9ef96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":840582625
+        }
+    ],
+    "wof:id":840582625,
+    "wof:lastmodified":1464043268,
+    "wof:name":"Verizon Wireless",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.75387,
+    38.204527,
+    -85.75387,
+    38.204527
+],
+  "geometry": {"coordinates":[-85.75387000000001,38.204527],"type":"Point"}
+}

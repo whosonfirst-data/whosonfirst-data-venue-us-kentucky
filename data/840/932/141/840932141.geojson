@@ -1,0 +1,66 @@
+{
+  "id": 840932141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.695173,36.763497,-83.695173,36.763497",
+    "geom:latitude":36.763497,
+    "geom:longitude":-83.695173,
+    "iso:country":"US",
+    "sg:address":"111 Walnut St",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 2650",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KPnjf1XGyeYXQGVyjZMOC_36.763497_-83.695173@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051291,
+    "wof:geomhash":"70e7782b99ee8a6e90ca53e160ba9110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840932141
+        }
+    ],
+    "wof:id":840932141,
+    "wof:lastmodified":1464051291,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.695173,
+    36.763497,
+    -83.695173,
+    36.763497
+],
+  "geometry": {"coordinates":[-83.695173,36.763497],"type":"Point"}
+}

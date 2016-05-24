@@ -1,0 +1,73 @@
+{
+  "id": 840670221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636015,38.217977,-85.636015,38.217977",
+    "geom:latitude":38.217977,
+    "geom:longitude":-85.636015,
+    "iso:country":"US",
+    "sg:address":"3742 Stanton Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 3004",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQnMKw7EXgQZnk8L8fjH0_38.217977_-85.636015@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045314,
+    "wof:geomhash":"cedcd91a29d65b0738bbd549d36f84b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840670221
+        }
+    ],
+    "wof:id":840670221,
+    "wof:lastmodified":1464045314,
+    "wof:name":"Kiddie Academy",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -85.636015,
+    38.217977,
+    -85.636015,
+    38.217977
+],
+  "geometry": {"coordinates":[-85.636015,38.217977],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840848785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.689277,37.06507,-88.689277,37.06507",
+    "geom:latitude":37.06507,
+    "geom:longitude":-88.689277,
+    "iso:country":"US",
+    "sg:address":"110 Quail Run Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1453",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YI0KhD2wvRXuyr3HfPfKF_37.065070_-88.689277@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049414,
+    "wof:geomhash":"2223bb04badccebaf05b8def048f9571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840848785
+        }
+    ],
+    "wof:id":840848785,
+    "wof:lastmodified":1464049414,
+    "wof:name":"Quail Run Apartments",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.689277,
+    37.06507,
+    -88.689277,
+    37.06507
+],
+  "geometry": {"coordinates":[-88.689277,37.06507],"type":"Point"}
+}

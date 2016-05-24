@@ -1,0 +1,67 @@
+{
+  "id": 856761023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.674004,37.078289,-88.674004,37.078289",
+    "geom:latitude":37.078289,
+    "geom:longitude":-88.674004,
+    "iso:country":"US",
+    "sg:address":"3835 Technology Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3600",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"http://www.marriott.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LLkfuAo2FjrM6Jnah5JTg_37.078289_-88.674004@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054160,
+    "wof:geomhash":"8db59146e434b5d7908de85d4b6ff452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761023
+        }
+    ],
+    "wof:id":856761023,
+    "wof:lastmodified":1464054160,
+    "wof:name":"Courtyard by Marriott Paducah West",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.674004,
+    37.078289,
+    -88.674004,
+    37.078289
+],
+  "geometry": {"coordinates":[-88.674004,37.078289],"type":"Point"}
+}

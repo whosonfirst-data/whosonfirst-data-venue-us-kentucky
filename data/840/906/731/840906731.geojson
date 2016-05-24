@@ -1,0 +1,71 @@
+{
+  "id": 840906731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.546527,36.901627,-86.546527,36.901627",
+    "geom:latitude":36.901627,
+    "geom:longitude":-86.546527,
+    "iso:country":"US",
+    "sg:address":"1849 Richpond Rockfield Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 6680",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AE3uYIhqBmxEgfINLuiuk_36.901627_-86.546527@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050632,
+    "wof:geomhash":"d87b0b0b8d69de754cc0d5db7dfc4855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840906731
+        }
+    ],
+    "wof:id":840906731,
+    "wof:lastmodified":1464050632,
+    "wof:name":"Rockfield Baptist Church",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.546527,
+    36.901627,
+    -86.546527,
+    36.901627
+],
+  "geometry": {"coordinates":[-86.546527,36.901627],"type":"Point"}
+}

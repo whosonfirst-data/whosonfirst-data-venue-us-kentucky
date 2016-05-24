@@ -1,0 +1,73 @@
+{
+  "id": 840886509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.577564,38.010054,-84.577564,38.010054",
+    "geom:latitude":38.010054,
+    "geom:longitude":-84.577564,
+    "iso:country":"US",
+    "sg:address":"4025 Peppertree Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 296 4364",
+    "sg:postcode":"40513",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85849621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lCxD1DdZBDaX1fNt85WGY_38.010054_-84.577564@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050210,
+    "wof:geomhash":"d3fe84cd623bcc5cb64cbccc1b7a9ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85849621,
+            "region_id":85688641,
+            "venue_id":840886509
+        }
+    ],
+    "wof:id":840886509,
+    "wof:lastmodified":1464050210,
+    "wof:name":"Louis D Johnson DVM",
+    "wof:parent_id":85849621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.577564,
+    38.010054,
+    -84.577564,
+    38.010054
+],
+  "geometry": {"coordinates":[-84.577564,38.010054],"type":"Point"}
+}

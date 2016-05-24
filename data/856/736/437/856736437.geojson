@@ -1,0 +1,74 @@
+{
+  "id": 856736437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.413281,36.929935,-86.413281,36.929935",
+    "geom:latitude":36.929935,
+    "geom:longitude":-86.413281,
+    "iso:country":"US",
+    "sg:address":"4903 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/182800-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 901 0221",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZbS31WQIN9fcvPOD5yzf8_36.929935_-86.413281@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053239,
+    "wof:geomhash":"188a2a45f781eb4199961e7a2990f360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736437
+        }
+    ],
+    "wof:id":856736437,
+    "wof:lastmodified":1464053239,
+    "wof:name":"Culver's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.413281,
+    36.929935,
+    -86.413281,
+    36.929935
+],
+  "geometry": {"coordinates":[-86.413281,36.929935],"type":"Point"}
+}

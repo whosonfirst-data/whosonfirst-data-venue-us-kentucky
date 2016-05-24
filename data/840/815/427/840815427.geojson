@@ -1,0 +1,73 @@
+{
+  "id": 840815427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.572764,37.055849,-88.572764,37.055849",
+    "geom:latitude":37.055849,
+    "geom:longitude":-88.572764,
+    "iso:country":"US",
+    "sg:address":"3033 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 441 7721",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p6DaCm1lee7sNo66HnFBB_37.055849_-88.572764@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048626,
+    "wof:geomhash":"decb6e512ec8b21b16a83204fc913c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840815427
+        }
+    ],
+    "wof:id":840815427,
+    "wof:lastmodified":1464048626,
+    "wof:name":"Coram's Automotive Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.572764,
+    37.055849,
+    -88.572764,
+    37.055849
+],
+  "geometry": {"coordinates":[-88.57276400000001,37.055849],"type":"Point"}
+}

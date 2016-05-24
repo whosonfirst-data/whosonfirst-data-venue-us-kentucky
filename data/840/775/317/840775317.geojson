@@ -1,0 +1,75 @@
+{
+  "id": 840775317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.377279,37.015163,-86.377279,37.015163",
+    "geom:latitude":37.015163,
+    "geom:longitude":-86.377279,
+    "iso:country":"US",
+    "sg:address":"4246 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 0790",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wKvAX6amOmNDohIy28hsY_37.015163_-86.377279@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047673,
+    "wof:geomhash":"419f6e430cb49f067906d0095a3eb197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840775317
+        }
+    ],
+    "wof:id":840775317,
+    "wof:lastmodified":1464047673,
+    "wof:name":"Souhtwestern Bowling Green",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -86.377279,
+    37.015163,
+    -86.377279,
+    37.015163
+],
+  "geometry": {"coordinates":[-86.377279,37.015163],"type":"Point"}
+}

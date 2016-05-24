@@ -1,0 +1,71 @@
+{
+  "id": 856713707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354944,36.994482,-86.354944,36.994482",
+    "geom:latitude":36.994482,
+    "geom:longitude":-86.354944,
+    "iso:country":"US",
+    "sg:address":"2105 Porter Pike",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 0160",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "feeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EWycAN6ft55LmGvI9tOVi_36.994482_-86.354944@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052345,
+    "wof:geomhash":"99243926c1f0c87f1976049f6c9314d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856713707
+        }
+    ],
+    "wof:id":856713707,
+    "wof:lastmodified":1464052345,
+    "wof:name":"River Bend Farms",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feeding"
+    ]
+},
+  "bbox": [
+    -86.354944,
+    36.994482,
+    -86.354944,
+    36.994482
+],
+  "geometry": {"coordinates":[-86.354944,36.994482],"type":"Point"}
+}

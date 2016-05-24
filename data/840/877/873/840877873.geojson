@@ -1,0 +1,71 @@
+{
+  "id": 840877873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440235,36.98691,-86.440235,36.98691",
+    "geom:latitude":36.98691,
+    "geom:longitude":-86.440235,
+    "iso:country":"US",
+    "sg:address":"1138 High St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 7262",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hABJV4QIqO0eiV0PTs5WP_36.986910_-86.440235@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050029,
+    "wof:geomhash":"17417fba53138e18cbd9ffcc402caa7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840877873
+        }
+    ],
+    "wof:id":840877873,
+    "wof:lastmodified":1464050029,
+    "wof:name":"Freeland Harris Consulting Eng",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -86.440235,
+    36.98691,
+    -86.440235,
+    36.98691
+],
+  "geometry": {"coordinates":[-86.440235,36.98691],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840700081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.488638,36.928398,-86.488638,36.928398",
+    "geom:latitude":36.928398,
+    "geom:longitude":-86.488638,
+    "iso:country":"US",
+    "sg:address":"384 Cal Batsel Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 7014",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aKlkPCxaXF4qWgzR6hXbN_36.928398_-86.488638@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046086,
+    "wof:geomhash":"17a9927819fc920abbde077766929748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840700081
+        }
+    ],
+    "wof:id":840700081,
+    "wof:lastmodified":1464046086,
+    "wof:name":"DTD Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.488638,
+    36.928398,
+    -86.488638,
+    36.928398
+],
+  "geometry": {"coordinates":[-86.48863799999999,36.928398],"type":"Point"}
+}

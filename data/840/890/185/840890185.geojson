@@ -1,0 +1,66 @@
+{
+  "id": 840890185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.578297,37.054443,-88.578297,37.054443",
+    "geom:latitude":37.054443,
+    "geom:longitude":-88.578297,
+    "iso:country":"US",
+    "sg:address":"2429 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 6493",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79ig33L6VPjLN9egofA2JM_37.054443_-88.578297@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050289,
+    "wof:geomhash":"91c6be447cc9beee7078aed3a9a1778c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840890185
+        }
+    ],
+    "wof:id":840890185,
+    "wof:lastmodified":1464050289,
+    "wof:name":"Bob's Drive-In Restaurant",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.578297,
+    37.054443,
+    -88.578297,
+    37.054443
+],
+  "geometry": {"coordinates":[-88.57829700000001,37.054443],"type":"Point"}
+}

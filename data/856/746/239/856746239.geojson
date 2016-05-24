@@ -1,0 +1,97 @@
+{
+  "id": 856746239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659225,38.199556,-85.659225,38.199556",
+    "geom:latitude":38.199556,
+    "geom:longitude":-85.659225,
+    "iso:country":"US",
+    "sg:address":"2231 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 4600",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "batteries-storage",
+        "accessory"
+    ],
+    "sg:website":"http://www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mfkakIz6wDMrhYpuRhMpR_38.199556_-85.659225@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053605,
+    "wof:geomhash":"45ab8e70aa0d491bd8f82579b7ad4f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746239
+        }
+    ],
+    "wof:id":856746239,
+    "wof:lastmodified":1464053605,
+    "wof:name":"AutoZone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "batteries-storage",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -85.659225,
+    38.199556,
+    -85.659225,
+    38.199556
+],
+  "geometry": {"coordinates":[-85.65922500000001,38.199556],"type":"Point"}
+}

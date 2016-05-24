@@ -1,0 +1,71 @@
+{
+  "id": 840533813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439208,36.995331,-86.439208,36.995331",
+    "geom:latitude":36.995331,
+    "geom:longitude":-86.439208,
+    "iso:country":"US",
+    "sg:address":"716 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8141",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lpotfaCYGFtuGCh6aZTUM_36.995331_-86.439208@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042071,
+    "wof:geomhash":"8bc4d7dc75b0e6f75d9bd0cf1e748344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840533813
+        }
+    ],
+    "wof:id":840533813,
+    "wof:lastmodified":1464042071,
+    "wof:name":"Cecilia Memorial Presbyterian",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.439208,
+    36.995331,
+    -86.439208,
+    36.995331
+],
+  "geometry": {"coordinates":[-86.43920799999999,36.995331],"type":"Point"}
+}

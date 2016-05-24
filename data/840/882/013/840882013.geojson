@@ -1,0 +1,73 @@
+{
+  "id": 840882013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.590511,37.838587,-87.590511,37.838587",
+    "geom:latitude":37.838587,
+    "geom:longitude":-87.590511,
+    "iso:country":"US",
+    "sg:address":"324 1st St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 6071",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TZYR2ywWbfcF4PtKxaHWa_37.838587_-87.590511@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050112,
+    "wof:geomhash":"5a7861fb21905f0f81e392cc4214065d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840882013
+        }
+    ],
+    "wof:id":840882013,
+    "wof:lastmodified":1464050112,
+    "wof:name":"Audubon Area Community Svc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -87.590511,
+    37.838587,
+    -87.590511,
+    37.838587
+],
+  "geometry": {"coordinates":[-87.59051100000001,37.838587],"type":"Point"}
+}

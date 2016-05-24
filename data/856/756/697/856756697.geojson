@@ -1,0 +1,73 @@
+{
+  "id": 856756697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.296597,38.390317,-84.296597,38.390317",
+    "geom:latitude":38.390317,
+    "geom:longitude":-84.296597,
+    "iso:country":"US",
+    "sg:address":"104 E Pleasant St",
+    "sg:city":"Cynthiana",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 234 7100",
+    "sg:postcode":"41031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946683,
+        102084413,
+        85805601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M9kc6ARINsOWuxMZcnFIq_38.390317_-84.296597@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464054002,
+    "wof:geomhash":"3611f7d82b38e900f0f61caee01b49b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084413,
+            "locality_id":85946683,
+            "neighbourhood_id":85805601,
+            "region_id":85688641,
+            "venue_id":856756697
+        }
+    ],
+    "wof:id":856756697,
+    "wof:lastmodified":1464054002,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85805601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.296597,
+    38.390317,
+    -84.296597,
+    38.390317
+],
+  "geometry": {"coordinates":[-84.29659700000001,38.390317],"type":"Point"}
+}

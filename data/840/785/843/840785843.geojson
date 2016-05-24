@@ -1,0 +1,78 @@
+{
+  "id": 840785843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.561503,37.528388,-82.561503,37.528388",
+    "geom:latitude":37.528388,
+    "geom:longitude":-82.561503,
+    "iso:country":"US",
+    "sg:address":"153 Weddington Branch Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 2225",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927,
+        102191575,
+        85947001,
+        85868825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HlskdqoFzjzjhIZbHwgn1_37.528388_-82.561503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047897,
+    "wof:geomhash":"5f5c6b31f7c2ef49c07f43a1911986f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840785843
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947001,
+            "neighbourhood_id":85868825,
+            "region_id":85688641,
+            "venue_id":840785843
+        }
+    ],
+    "wof:id":840785843,
+    "wof:lastmodified":1464047897,
+    "wof:name":"Hackney & Hensley Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.561503,
+    37.528388,
+    -82.561503,
+    37.528388
+],
+  "geometry": {"coordinates":[-82.561503,37.528388],"type":"Point"}
+}

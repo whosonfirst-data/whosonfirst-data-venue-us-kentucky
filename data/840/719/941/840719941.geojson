@@ -1,0 +1,73 @@
+{
+  "id": 840719941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.81954,37.718277,-85.81954,37.718277",
+    "geom:latitude":37.718277,
+    "geom:longitude":-85.81954,
+    "iso:country":"US",
+    "sg:address":"2727 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 1221",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F2PNEsVVak4I1qpfTA0Qq_37.718277_-85.819540@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046508,
+    "wof:geomhash":"bc988091c22c3b5b1d2710f7d6fd8b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840719941
+        }
+    ],
+    "wof:id":840719941,
+    "wof:lastmodified":1464046508,
+    "wof:name":"ABC Self Storage",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.81954,
+    37.718277,
+    -85.81954,
+    37.718277
+],
+  "geometry": {"coordinates":[-85.81954,37.718277],"type":"Point"}
+}

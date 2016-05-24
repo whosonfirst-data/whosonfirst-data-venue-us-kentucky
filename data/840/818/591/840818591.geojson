@@ -1,0 +1,68 @@
+{
+  "id": 840818591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.650403,38.194116,-85.650403,38.194116",
+    "geom:latitude":38.194116,
+    "geom:longitude":-85.650403,
+    "iso:country":"US",
+    "sg:address":"3953 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 671 7271",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EOPTtykLfKe6SOz8kbi1a_38.194116_-85.650403@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048711,
+    "wof:geomhash":"f5b406bb4b41b9ac5e44ff49d94dbedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840818591
+        }
+    ],
+    "wof:id":840818591,
+    "wof:lastmodified":1464048711,
+    "wof:name":"Builders Resupply",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.650403,
+    38.194116,
+    -85.650403,
+    38.194116
+],
+  "geometry": {"coordinates":[-85.650403,38.194116],"type":"Point"}
+}

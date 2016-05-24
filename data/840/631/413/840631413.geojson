@@ -1,0 +1,73 @@
+{
+  "id": 840631413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.489209,36.962183,-86.489209,36.962183",
+    "geom:latitude":36.962183,
+    "geom:longitude":-86.489209,
+    "iso:country":"US",
+    "sg:address":"2649 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 4191",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0asUT8rqUvaQPPCa6mBb6a_36.962183_-86.489209@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044474,
+    "wof:geomhash":"bc7177cda78eb9a076ae8c29c1b7a9eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840631413
+        }
+    ],
+    "wof:id":840631413,
+    "wof:lastmodified":1464044474,
+    "wof:name":"Traugott Farms & Mgt",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -86.489209,
+    36.962183,
+    -86.489209,
+    36.962183
+],
+  "geometry": {"coordinates":[-86.489209,36.962183],"type":"Point"}
+}

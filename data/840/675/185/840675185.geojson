@@ -1,0 +1,72 @@
+{
+  "id": 840675185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435564,37.000568,-86.435564,37.000568",
+    "geom:latitude":37.000568,
+    "geom:longitude":-86.435564,
+    "iso:country":"US",
+    "sg:address":"223 E 3rd Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 3249",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.bgky.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y1QXNgEp3aglIeNLBmnyJ_37.000568_-86.435564@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045449,
+    "wof:geomhash":"dd44e5864c7357c1738cdaecb67ceb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840675185
+        }
+    ],
+    "wof:id":840675185,
+    "wof:lastmodified":1464045449,
+    "wof:name":"Bowling Green Parks & Rec",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -86.435564,
+    37.000568,
+    -86.435564,
+    37.000568
+],
+  "geometry": {"coordinates":[-86.435564,37.000568],"type":"Point"}
+}

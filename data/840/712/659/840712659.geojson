@@ -1,0 +1,73 @@
+{
+  "id": 840712659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.807716,37.062947,-88.807716,37.062947",
+    "geom:latitude":37.062947,
+    "geom:longitude":-88.807716,
+    "iso:country":"US",
+    "sg:address":"9510 US Hwy 60 W",
+    "sg:city":"Kevil",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 488 3652",
+    "sg:postcode":"42053",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_279ZT24vIetjYKdvpEBjR6_37.062947_-88.807716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046355,
+    "wof:geomhash":"fb50530473da04ebabb577f7ab3e94e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840712659
+        }
+    ],
+    "wof:id":840712659,
+    "wof:lastmodified":1464046355,
+    "wof:name":"AAA Mini Storage",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.807716,
+    37.062947,
+    -88.807716,
+    37.062947
+],
+  "geometry": {"coordinates":[-88.807716,37.062947],"type":"Point"}
+}

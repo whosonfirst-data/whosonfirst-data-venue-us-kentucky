@@ -1,0 +1,71 @@
+{
+  "id": 840939635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874009,37.708825,-85.874009,37.708825",
+    "geom:latitude":37.708825,
+    "geom:longitude":-85.874009,
+    "iso:country":"US",
+    "sg:address":"914 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0777",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zUu9wOE71xgH5d6xP76o_37.708825_-85.874009@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051438,
+    "wof:geomhash":"89082a2261638927eb13fb85b61679a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840939635
+        }
+    ],
+    "wof:id":840939635,
+    "wof:lastmodified":1464051438,
+    "wof:name":"Patient Care Psc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -85.874009,
+    37.708825,
+    -85.874009,
+    37.708825
+],
+  "geometry": {"coordinates":[-85.874009,37.708825],"type":"Point"}
+}

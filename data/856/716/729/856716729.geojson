@@ -1,0 +1,71 @@
+{
+  "id": 856716729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.935538,36.966274,-82.935538,36.966274",
+    "geom:latitude":36.966274,
+    "geom:longitude":-82.935538,
+    "iso:country":"US",
+    "sg:address":"310 W Main St",
+    "sg:city":"Lynch",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 848 2861",
+    "sg:postcode":"40855",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05lSO0PxrTejMylYMtdsVF_36.966274_-82.935538@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052459,
+    "wof:geomhash":"157cf5ac65fd8cdbaffee05b5489b3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":856716729
+        }
+    ],
+    "wof:id":856716729,
+    "wof:lastmodified":1464052459,
+    "wof:name":"Johnson Life-Care",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -82.935538,
+    36.966274,
+    -82.935538,
+    36.966274
+],
+  "geometry": {"coordinates":[-82.93553799999999,36.966274],"type":"Point"}
+}

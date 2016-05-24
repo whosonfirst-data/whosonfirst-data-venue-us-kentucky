@@ -1,0 +1,73 @@
+{
+  "id": 840650839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640897,37.083496,-88.640897,37.083496",
+    "geom:latitude":37.083496,
+    "geom:longitude":-88.640897,
+    "iso:country":"US",
+    "sg:address":"2956 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9776",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cB5TNSvKoDjlv15yxXCoL_37.083496_-88.640897@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044902,
+    "wof:geomhash":"a6e6da7942a5d7878277b503c8219821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840650839
+        }
+    ],
+    "wof:id":840650839,
+    "wof:lastmodified":1464044902,
+    "wof:name":"US Army Reserve Training Ctr",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -88.640897,
+    37.083496,
+    -88.640897,
+    37.083496
+],
+  "geometry": {"coordinates":[-88.640897,37.083496],"type":"Point"}
+}

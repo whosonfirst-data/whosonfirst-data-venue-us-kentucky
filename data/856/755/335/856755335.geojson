@@ -1,0 +1,77 @@
+{
+  "id": 856755335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694029,36.761518,-83.694029,36.761518",
+    "geom:latitude":36.761518,
+    "geom:longitude":-83.694029,
+    "iso:country":"US",
+    "sg:address":"121 W Virginia Ave Ste A100",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 7002",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "surgery-general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XPviLEsMzWvddwxq9M3Hf_36.761518_-83.694029@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"794285eb379e4557a84e4bcd5c38d4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856755335
+        }
+    ],
+    "wof:id":856755335,
+    "wof:lastmodified":1464053957,
+    "wof:name":"Hays Corum & Freeman Md",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "surgery-general"
+    ]
+},
+  "bbox": [
+    -83.694029,
+    36.761518,
+    -83.694029,
+    36.761518
+],
+  "geometry": {"coordinates":[-83.694029,36.761518],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840712205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.762531,37.74279,-85.762531,37.74279",
+    "geom:latitude":37.74279,
+    "geom:longitude":-85.762531,
+    "iso:country":"US",
+    "sg:address":"6685 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6287",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GGNL0Mzm4Co8HZ3yQ14z3_37.742790_-85.762531@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046345,
+    "wof:geomhash":"0288e94b15cdb57f7ed5052b1e762013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840712205
+        }
+    ],
+    "wof:id":840712205,
+    "wof:lastmodified":1464046345,
+    "wof:name":"John Mills Ornamental Iron Wrk",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -85.762531,
+    37.74279,
+    -85.762531,
+    37.74279
+],
+  "geometry": {"coordinates":[-85.762531,37.74279],"type":"Point"}
+}

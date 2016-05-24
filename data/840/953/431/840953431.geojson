@@ -1,0 +1,71 @@
+{
+  "id": 840953431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437866,36.985046,-86.437866,36.985046",
+    "geom:latitude":36.985046,
+    "geom:longitude":-86.437866,
+    "iso:country":"US",
+    "sg:address":"901 E 11th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 4233",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I9fAddNQrECjehdj4GUrN_36.985046_-86.437866@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051717,
+    "wof:geomhash":"ab4b8983861da176bcc28700e9ca9a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840953431
+        }
+    ],
+    "wof:id":840953431,
+    "wof:lastmodified":1464051717,
+    "wof:name":"Express Printing",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -86.437866,
+    36.985046,
+    -86.437866,
+    36.985046
+],
+  "geometry": {"coordinates":[-86.437866,36.985046],"type":"Point"}
+}

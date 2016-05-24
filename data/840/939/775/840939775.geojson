@@ -1,0 +1,73 @@
+{
+  "id": 840939775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.712745,36.607291,-83.712745,36.607291",
+    "geom:latitude":36.607291,
+    "geom:longitude":-83.712745,
+    "iso:country":"US",
+    "sg:address":"1907 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 0005",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YpEhh3GUfPE4IBB3MP9WY_36.607291_-83.712745@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051440,
+    "wof:geomhash":"86ff681f2b5ac9098e23bae4cb301af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840939775
+        }
+    ],
+    "wof:id":840939775,
+    "wof:lastmodified":1464051440,
+    "wof:name":"Wayne's World",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -83.712745,
+    36.607291,
+    -83.712745,
+    36.607291
+],
+  "geometry": {"coordinates":[-83.712745,36.607291],"type":"Point"}
+}

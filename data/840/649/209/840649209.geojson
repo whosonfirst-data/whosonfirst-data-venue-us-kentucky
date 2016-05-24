@@ -1,0 +1,73 @@
+{
+  "id": 840649209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.633408,37.037358,-88.633408,37.037358",
+    "geom:latitude":37.037358,
+    "geom:longitude":-88.633408,
+    "iso:country":"US",
+    "sg:address":"1565 Bleich Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 3267",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xZKRnq7qTFXSYBVMqiS6w_37.037358_-88.633408@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044866,
+    "wof:geomhash":"a092e717cbee1b807f649f4a064d6f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840649209
+        }
+    ],
+    "wof:id":840649209,
+    "wof:lastmodified":1464044866,
+    "wof:name":"Taylor Building Corp",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -88.633408,
+    37.037358,
+    -88.633408,
+    37.037358
+],
+  "geometry": {"coordinates":[-88.633408,37.037358],"type":"Point"}
+}

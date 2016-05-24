@@ -1,0 +1,71 @@
+{
+  "id": 840781909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880416,37.713301,-85.880416,37.713301",
+    "geom:latitude":37.713301,
+    "geom:longitude":-85.880416,
+    "iso:country":"US",
+    "sg:address":"1102 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2186",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CGQBK6iYr2miqpaBEop5r_37.713301_-85.880416@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047800,
+    "wof:geomhash":"32c57b4f075f36c358fc3b25b0a2e79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840781909
+        }
+    ],
+    "wof:id":840781909,
+    "wof:lastmodified":1464047800,
+    "wof:name":"Deborah R Borden DDS",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.880416,
+    37.713301,
+    -85.880416,
+    37.713301
+],
+  "geometry": {"coordinates":[-85.880416,37.713301],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856736881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.579482,37.853301,-87.579482,37.853301",
+    "geom:latitude":37.853301,
+    "geom:longitude":-87.579482,
+    "iso:country":"US",
+    "sg:address":"1320 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/henderson/100084-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 9310",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RpA9D6dWw0R49sgNbccle_37.853301_-87.579482@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053253,
+    "wof:geomhash":"50d1ee8fa865fe3f7454255d42d96797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856736881
+        }
+    ],
+    "wof:id":856736881,
+    "wof:lastmodified":1464053253,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -87.579482,
+    37.853301,
+    -87.579482,
+    37.853301
+],
+  "geometry": {"coordinates":[-87.579482,37.853301],"type":"Point"}
+}

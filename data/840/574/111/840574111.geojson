@@ -1,0 +1,73 @@
+{
+  "id": 840574111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.821168,37.71729,-85.821168,37.71729",
+    "geom:latitude":37.71729,
+    "geom:longitude":-85.821168,
+    "iso:country":"US",
+    "sg:address":"2647 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3950",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HcB7JhJJ7hfaHF9V3hC8K_37.717290_-85.821168@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043085,
+    "wof:geomhash":"0a8060c86ae7f07cb1495890b2982f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840574111
+        }
+    ],
+    "wof:id":840574111,
+    "wof:lastmodified":1464043085,
+    "wof:name":"Four Seasons Landscaping",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.821168,
+    37.71729,
+    -85.821168,
+    37.71729
+],
+  "geometry": {"coordinates":[-85.821168,37.71729],"type":"Point"}
+}

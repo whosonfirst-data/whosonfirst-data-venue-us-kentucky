@@ -1,0 +1,73 @@
+{
+  "id": 840557301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.452758,36.99941,-86.452758,36.99941",
+    "geom:latitude":36.99941,
+    "geom:longitude":-86.452758,
+    "iso:country":"US",
+    "sg:address":"531 W 11th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2180",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pep6DROWAchwCe2G7iMfU_36.999410_-86.452758@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042678,
+    "wof:geomhash":"a8f03d8196cd9b2856863a52821f112a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840557301
+        }
+    ],
+    "wof:id":840557301,
+    "wof:lastmodified":1464042678,
+    "wof:name":"Community Service Warren Cty",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -86.452758,
+    36.99941,
+    -86.452758,
+    36.99941
+],
+  "geometry": {"coordinates":[-86.452758,36.99941],"type":"Point"}
+}

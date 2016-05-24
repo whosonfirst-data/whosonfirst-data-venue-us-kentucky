@@ -1,0 +1,68 @@
+{
+  "id": 840827123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.765367,38.234901,-85.765367,38.234901",
+    "geom:latitude":38.234901,
+    "geom:longitude":-85.765367,
+    "iso:country":"US",
+    "sg:address":"1212 S 7th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 0065",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FTgriTbGtdbroref092fh_38.234901_-85.765367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048943,
+    "wof:geomhash":"c0b0dbdd0a17c92d9cd4beef1af71276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840827123
+        }
+    ],
+    "wof:id":840827123,
+    "wof:lastmodified":1464048943,
+    "wof:name":"City Cleaning Svc",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.765367,
+    38.234901,
+    -85.765367,
+    38.234901
+],
+  "geometry": {"coordinates":[-85.765367,38.234901],"type":"Point"}
+}

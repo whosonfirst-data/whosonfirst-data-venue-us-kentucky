@@ -1,0 +1,71 @@
+{
+  "id": 840944437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.417671,36.954107,-86.417671,36.954107",
+    "geom:latitude":36.954107,
+    "geom:longitude":-86.417671,
+    "iso:country":"US",
+    "sg:address":"942 Lovers Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9776",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMY8GL9v0lRAOXxN8bWlr_36.954107_-86.417671@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051541,
+    "wof:geomhash":"f2fecaedb7543f015d3f7a0b84367d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840944437
+        }
+    ],
+    "wof:id":840944437,
+    "wof:lastmodified":1464051541,
+    "wof:name":"All Creatures Animal Hospital",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.417671,
+    36.954107,
+    -86.417671,
+    36.954107
+],
+  "geometry": {"coordinates":[-86.417671,36.954107],"type":"Point"}
+}

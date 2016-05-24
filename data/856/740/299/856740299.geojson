@@ -1,0 +1,77 @@
+{
+  "id": 856740299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779313,38.268119,-85.779313,38.268119",
+    "geom:latitude":38.268119,
+    "geom:longitude":-85.779313,
+    "iso:country":"US",
+    "sg:address":"2006 Northwestern Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Naval Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 310 637 3737",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "range",
+        "part",
+        "ovens-supplies"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sKvGmvdbfuG6HqvoTxRXt_38.268119_-85.779313@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053394,
+    "wof:geomhash":"15f8e1b5ff3f5739b0d18542cff53f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":856740299
+        }
+    ],
+    "wof:id":856740299,
+    "wof:lastmodified":1464053394,
+    "wof:name":"Wolf Range Co.",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "part",
+        "ovens-supplies"
+    ]
+},
+  "bbox": [
+    -85.779313,
+    38.268119,
+    -85.779313,
+    38.268119
+],
+  "geometry": {"coordinates":[-85.779313,38.268119],"type":"Point"}
+}

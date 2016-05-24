@@ -1,0 +1,68 @@
+{
+  "id": 840703285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.703373,38.253364,-85.703373,38.253364",
+    "geom:latitude":38.253364,
+    "geom:longitude":-85.703373,
+    "iso:country":"US",
+    "sg:address":"2232 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 7898",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OniQkKvFvUrKqyoL9058f_38.253364_-85.703373@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046170,
+    "wof:geomhash":"31e0c9dc2edfce6448612098ec49cb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":840703285
+        }
+    ],
+    "wof:id":840703285,
+    "wof:lastmodified":1464046170,
+    "wof:name":"Longshot Tavern",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.703373,
+    38.253364,
+    -85.703373,
+    38.253364
+],
+  "geometry": {"coordinates":[-85.703373,38.253364],"type":"Point"}
+}

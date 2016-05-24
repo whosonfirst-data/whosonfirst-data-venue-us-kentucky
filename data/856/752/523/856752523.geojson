@@ -1,0 +1,89 @@
+{
+  "id": 856752523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.553137,38.210248,-85.553137,38.210248",
+    "geom:latitude":38.210248,
+    "geom:longitude":-85.553137,
+    "iso:country":"US",
+    "sg:address":"2230 Ampere Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 254 0768",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "satellite",
+        "cable",
+        "tv",
+        "system",
+        "equipment"
+    ],
+    "sg:website":"http://www.hpts.tv",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33U8TgYwP1HCXJjVuIm1Dg_38.210248_-85.553137@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053852,
+    "wof:geomhash":"6df1212a2bf618afc49f3139b4e3d13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752523
+        }
+    ],
+    "wof:id":856752523,
+    "wof:lastmodified":1464053852,
+    "wof:name":"High Power Technical Services",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "satellite",
+        "cable",
+        "tv",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -85.553137,
+    38.210248,
+    -85.553137,
+    38.210248
+],
+  "geometry": {"coordinates":[-85.55313700000001,38.210248],"type":"Point"}
+}

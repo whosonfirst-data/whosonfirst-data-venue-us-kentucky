@@ -1,0 +1,74 @@
+{
+  "id": 840673443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.569348,37.820388,-87.569348,37.820388",
+    "geom:latitude":37.820388,
+    "geom:longitude":-87.569348,
+    "iso:country":"US",
+    "sg:address":"215 US Hwy 41",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3396",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.roystersmachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rm74QXz7LxKB1bGrxbCco_37.820388_-87.569348@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045399,
+    "wof:geomhash":"b23bcaffea42c5b3e43aee4206609c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840673443
+        }
+    ],
+    "wof:id":840673443,
+    "wof:lastmodified":1464045399,
+    "wof:name":"Royster Machine Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.569348,
+    37.820388,
+    -87.569348,
+    37.820388
+],
+  "geometry": {"coordinates":[-87.56934800000001,37.820388],"type":"Point"}
+}

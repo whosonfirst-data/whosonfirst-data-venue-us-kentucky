@@ -1,0 +1,71 @@
+{
+  "id": 840780665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.297565,37.675143,-82.297565,37.675143",
+    "geom:latitude":37.675143,
+    "geom:longitude":-82.297565,
+    "iso:country":"US",
+    "sg:address":"1624 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 0237",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58n4HSsRfx31D0brdHKh5n_37.675143_-82.297565@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047777,
+    "wof:geomhash":"9c0a4a463837b42cd524243e4b43b10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840780665
+        }
+    ],
+    "wof:id":840780665,
+    "wof:lastmodified":1464047777,
+    "wof:name":"Appalachian Monument",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -82.297565,
+    37.675143,
+    -82.297565,
+    37.675143
+],
+  "geometry": {"coordinates":[-82.29756500000001,37.675143],"type":"Point"}
+}

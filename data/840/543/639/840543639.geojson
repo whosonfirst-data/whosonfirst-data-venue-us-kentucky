@@ -1,0 +1,73 @@
+{
+  "id": 840543639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.905782,37.014094,-85.905782,37.014094",
+    "geom:latitude":37.014094,
+    "geom:longitude":-85.905782,
+    "iso:country":"US",
+    "sg:address":"1330 N Race St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 7679",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kc06PswmdQ0LolAX509rr_37.014094_-85.905782@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042317,
+    "wof:geomhash":"48b23267e6450f10e407f0e0b5b29138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840543639
+        }
+    ],
+    "wof:id":840543639,
+    "wof:lastmodified":1464042317,
+    "wof:name":"Southern Medical Lab Billing",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -85.905782,
+    37.014094,
+    -85.905782,
+    37.014094
+],
+  "geometry": {"coordinates":[-85.905782,37.014094],"type":"Point"}
+}

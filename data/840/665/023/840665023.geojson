@@ -1,0 +1,73 @@
+{
+  "id": 840665023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.54437,38.059404,-84.54437,38.059404",
+    "geom:latitude":38.059404,
+    "geom:longitude":-84.54437,
+    "iso:country":"US",
+    "sg:address":"705 Werne Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 231 9719",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "diaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85809473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b3okb87weXxhJTOd6eJ5i_38.059404_-84.544370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045211,
+    "wof:geomhash":"b1af6bbfe9cecd64c7007577214e9f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85809473,
+            "region_id":85688641,
+            "venue_id":840665023
+        }
+    ],
+    "wof:id":840665023,
+    "wof:lastmodified":1464045211,
+    "wof:name":"Wee Care Diaper Svc",
+    "wof:parent_id":85809473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diaper"
+    ]
+},
+  "bbox": [
+    -84.54437,
+    38.059404,
+    -84.54437,
+    38.059404
+],
+  "geometry": {"coordinates":[-84.54437,38.059404],"type":"Point"}
+}

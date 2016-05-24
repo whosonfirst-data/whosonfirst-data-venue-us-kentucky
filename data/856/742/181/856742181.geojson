@@ -1,0 +1,81 @@
+{
+  "id": 856742181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.685921,38.247139,-85.685921,38.247139",
+    "geom:latitude":38.247139,
+    "geom:longitude":-85.685921,
+    "iso:country":"US",
+    "sg:address":"2825 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WtdANmhbJDz7WkkljDfzl_38.247139_-85.685921@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053464,
+    "wof:geomhash":"75dcaa99a33d7c924ef3256e049d3648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":856742181
+        }
+    ],
+    "wof:id":856742181,
+    "wof:lastmodified":1464053464,
+    "wof:name":"USPS - United States Post Office - Southern Baptist Con Sta 3",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -85.685921,
+    38.247139,
+    -85.685921,
+    38.247139
+],
+  "geometry": {"coordinates":[-85.68592099999999,38.247139],"type":"Point"}
+}

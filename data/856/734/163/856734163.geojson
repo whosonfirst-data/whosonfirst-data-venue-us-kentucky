@@ -1,0 +1,72 @@
+{
+  "id": 856734163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565001,37.898478,-84.565001,37.898478",
+    "geom:latitude":37.898478,
+    "geom:longitude":-84.565001,
+    "iso:country":"US",
+    "sg:address":"100 Village Pkwy",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/201350-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 8188",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79NF1Aou373IveQkfliqYE_37.898478_-84.565001@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053151,
+    "wof:geomhash":"5813d0ee2d75e19c4cb791da83edb917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734163
+        }
+    ],
+    "wof:id":856734163,
+    "wof:lastmodified":1464053151,
+    "wof:name":"Sonic",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.565001,
+    37.898478,
+    -84.565001,
+    37.898478
+],
+  "geometry": {"coordinates":[-84.565001,37.898478],"type":"Point"}
+}

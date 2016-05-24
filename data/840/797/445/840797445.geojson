@@ -1,0 +1,71 @@
+{
+  "id": 840797445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560367,38.209895,-84.560367,38.209895",
+    "geom:latitude":38.209895,
+    "geom:longitude":-84.560367,
+    "iso:country":"US",
+    "sg:address":"112 W Main St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 5626",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JNq87KVmwB7TixOEqvYPB_38.209895_-84.560367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048140,
+    "wof:geomhash":"4f32b340861a300a1ba313fadbe8fe17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840797445
+        }
+    ],
+    "wof:id":840797445,
+    "wof:lastmodified":1464048140,
+    "wof:name":"Friendly's Pawn & Diamond Brkr",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -84.560367,
+    38.209895,
+    -84.560367,
+    38.209895
+],
+  "geometry": {"coordinates":[-84.560367,38.209895],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856736421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.432372,36.966599,-86.432372,36.966599",
+    "geom:latitude":36.966599,
+    "geom:longitude":-86.432372,
+    "iso:country":"US",
+    "sg:address":"1780 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/291114-double-dogs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9357",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25DqhKJtEPRAGHzJ8X2acb_36.966599_-86.432372@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053239,
+    "wof:geomhash":"b559fce0e60267a16c73c254c41b82b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736421
+        }
+    ],
+    "wof:id":856736421,
+    "wof:lastmodified":1464053239,
+    "wof:name":"Double Dogs",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -86.432372,
+    36.966599,
+    -86.432372,
+    36.966599
+],
+  "geometry": {"coordinates":[-86.432372,36.966599],"type":"Point"}
+}

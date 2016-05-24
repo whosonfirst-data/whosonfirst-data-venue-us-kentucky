@@ -1,0 +1,75 @@
+{
+  "id": 840591681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.830744,37.713177,-85.830744,37.713177",
+    "geom:latitude":37.713177,
+    "geom:longitude":-85.830744,
+    "iso:country":"US",
+    "sg:address":"1050 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 0591",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D35hKYJrV7vWFRIGPDgiL_37.713177_-85.830744@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043458,
+    "wof:geomhash":"57421d8a61a4158a637f79206774cf41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840591681
+        }
+    ],
+    "wof:id":840591681,
+    "wof:lastmodified":1464043458,
+    "wof:name":"Tobacco & More",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.830744,
+    37.713177,
+    -85.830744,
+    37.713177
+],
+  "geometry": {"coordinates":[-85.830744,37.713177],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856735135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720031,36.62086,-83.720031,36.62086",
+    "geom:latitude":36.62086,
+    "geom:longitude":-83.720031,
+    "iso:country":"US",
+    "sg:address":"1873 N 25th St",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/middlesborough/66168-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 806 248 5086",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D0N7eUAPvrB97P30qmYs4_36.620860_-83.720031@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053188,
+    "wof:geomhash":"30190d6d99f88e4e54e4e2e6b1f5ff92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856735135
+        }
+    ],
+    "wof:id":856735135,
+    "wof:lastmodified":1464053188,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.720031,
+    36.62086,
+    -83.720031,
+    36.62086
+],
+  "geometry": {"coordinates":[-83.72003100000001,36.62086],"type":"Point"}
+}

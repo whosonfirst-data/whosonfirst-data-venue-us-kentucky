@@ -1,0 +1,75 @@
+{
+  "id": 840832835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.31268,37.736725,-84.31268,37.736725",
+    "geom:latitude":37.736725,
+    "geom:longitude":-84.31268,
+    "iso:country":"US",
+    "sg:address":"509 Leighway Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1235",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dEOZdE2uTCpiqDHGn6WrZ_37.736725_-84.312680@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049061,
+    "wof:geomhash":"ac227bca261ef8b8e0740fa8c32115d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840832835
+        }
+    ],
+    "wof:id":840832835,
+    "wof:lastmodified":1464049061,
+    "wof:name":"WCBR",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -84.31268,
+    37.736725,
+    -84.31268,
+    37.736725
+],
+  "geometry": {"coordinates":[-84.31268,37.736725],"type":"Point"}
+}

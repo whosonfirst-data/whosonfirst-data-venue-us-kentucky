@@ -1,0 +1,71 @@
+{
+  "id": 840700955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433448,37.000912,-86.433448,37.000912",
+    "geom:latitude":37.000912,
+    "geom:longitude":-86.433448,
+    "iso:country":"US",
+    "sg:address":"201 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 2336",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nsGwHAS5IITV8E4brHp5c_37.000912_-86.433448@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046106,
+    "wof:geomhash":"e413773af588e0f6bbd85118fd8ad0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840700955
+        }
+    ],
+    "wof:id":840700955,
+    "wof:lastmodified":1464046106,
+    "wof:name":"Burnam & Son Mortuary Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -86.433448,
+    37.000912,
+    -86.433448,
+    37.000912
+],
+  "geometry": {"coordinates":[-86.433448,37.000912],"type":"Point"}
+}

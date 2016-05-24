@@ -1,0 +1,71 @@
+{
+  "id": 840801895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.442618,36.994904,-86.442618,36.994904",
+    "geom:latitude":36.994904,
+    "geom:longitude":-86.442618,
+    "iso:country":"US",
+    "sg:address":"300 E Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9185",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v82PQ5EgSVIymF7usTIuW_36.994904_-86.442618@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048239,
+    "wof:geomhash":"07cae159e40f42e4fe9d0d8cc0006894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840801895
+        }
+    ],
+    "wof:id":840801895,
+    "wof:lastmodified":1464048239,
+    "wof:name":"Larry L Kennedy Goldsmith",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -86.442618,
+    36.994904,
+    -86.442618,
+    36.994904
+],
+  "geometry": {"coordinates":[-86.442618,36.994904],"type":"Point"}
+}

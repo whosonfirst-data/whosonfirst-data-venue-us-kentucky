@@ -1,0 +1,73 @@
+{
+  "id": 840609559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42651,36.927371,-86.42651,36.927371",
+    "geom:latitude":36.927371,
+    "geom:longitude":-86.42651,
+    "iso:country":"US",
+    "sg:address":"1100 Three Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 1978",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ybm0p0GJvj6zWFNNXRnN1_36.927371_-86.426510@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043908,
+    "wof:geomhash":"c4eb7364b2963a605ff728b80e4fee15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840609559
+        }
+    ],
+    "wof:id":840609559,
+    "wof:lastmodified":1464043908,
+    "wof:name":"Flea Land",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -86.42651,
+    36.927371,
+    -86.42651,
+    36.927371
+],
+  "geometry": {"coordinates":[-86.42650999999999,36.927371],"type":"Point"}
+}

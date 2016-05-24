@@ -1,0 +1,71 @@
+{
+  "id": 856721103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437515,36.993343,-86.437515,36.993343",
+    "geom:latitude":36.993343,
+    "geom:longitude":-86.437515,
+    "iso:country":"US",
+    "sg:address":"737 Chestnut St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 3819",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02saprdFf037DJiuWinRkz_36.993343_-86.437515@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052638,
+    "wof:geomhash":"17e900438aaad77457dd6bb973f0416b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856721103
+        }
+    ],
+    "wof:id":856721103,
+    "wof:lastmodified":1464052638,
+    "wof:name":"Kentucky Consumer Advocate",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -86.437515,
+    36.993343,
+    -86.437515,
+    36.993343
+],
+  "geometry": {"coordinates":[-86.437515,36.993343],"type":"Point"}
+}

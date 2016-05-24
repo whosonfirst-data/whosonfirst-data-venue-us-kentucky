@@ -1,0 +1,71 @@
+{
+  "id": 840844427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580935,37.86086,-84.580935,37.86086",
+    "geom:latitude":37.86086,
+    "geom:longitude":-84.580935,
+    "iso:country":"US",
+    "sg:address":"1349 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 0476",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zXuHBeB5Cb2TB67I4XEfw_37.860860_-84.580935@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049319,
+    "wof:geomhash":"335a0e4f0c8f9e1af0badd04b39044df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840844427
+        }
+    ],
+    "wof:id":840844427,
+    "wof:lastmodified":1464049319,
+    "wof:name":"Bates Auto Sales",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.580935,
+    37.86086,
+    -84.580935,
+    37.86086
+],
+  "geometry": {"coordinates":[-84.580935,37.86086],"type":"Point"}
+}

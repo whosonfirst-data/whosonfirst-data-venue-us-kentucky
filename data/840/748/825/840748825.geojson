@@ -1,0 +1,73 @@
+{
+  "id": 840748825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528697,39.03918,-84.528697,39.03918",
+    "geom:latitude":39.03918,
+    "geom:longitude":-84.528697,
+    "iso:country":"US",
+    "sg:address":"347 Madison Pike",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 2848",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F3qK1R7AQyguAzuBAJJj5_39.039180_-84.528697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047069,
+    "wof:geomhash":"f10b0fe1303888ddceef9b9c8a41dd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840748825
+        }
+    ],
+    "wof:id":840748825,
+    "wof:lastmodified":1464047069,
+    "wof:name":"Rolling Hills Nursery",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -84.528697,
+    39.03918,
+    -84.528697,
+    39.03918
+],
+  "geometry": {"coordinates":[-84.52869699999999,39.03918],"type":"Point"}
+}

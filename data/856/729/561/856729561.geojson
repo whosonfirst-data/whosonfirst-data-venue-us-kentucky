@@ -1,0 +1,71 @@
+{
+  "id": 856729561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848895,37.703227,-85.848895,37.703227",
+    "geom:latitude":37.703227,
+    "geom:longitude":-85.848895,
+    "iso:country":"US",
+    "sg:address":"804 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3990",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z9i2C4gp1yqu6Jkos5fTI_37.703667_-85.848256@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052986,
+    "wof:geomhash":"6e52cc497b16f6104c9b2e4b308f61c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856729561
+        }
+    ],
+    "wof:id":856729561,
+    "wof:lastmodified":1464052986,
+    "wof:name":"Virgil T Price Dmd",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.848895,
+    37.703227,
+    -85.848895,
+    37.703227
+],
+  "geometry": {"coordinates":[-85.848895,37.703227],"type":"Point"}
+}

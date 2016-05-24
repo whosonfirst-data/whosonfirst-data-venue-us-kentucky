@@ -1,0 +1,76 @@
+{
+  "id": 856732659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.676202,38.216869,-85.676202,38.216869",
+    "geom:latitude":38.216869,
+    "geom:longitude":-85.676202,
+    "iso:country":"US",
+    "sg:address":"2902 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/4229-bardstown-road-fish-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 3317",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_736AjlBsN8XBMmCCBfmvYU_38.216869_-85.676202@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053097,
+    "wof:geomhash":"e00463921894feb1b44dbf82eedb942e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856732659
+        }
+    ],
+    "wof:id":856732659,
+    "wof:lastmodified":1464053097,
+    "wof:name":"Bardstown Road Fish Market",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.676202,
+    38.216869,
+    -85.676202,
+    38.216869
+],
+  "geometry": {"coordinates":[-85.676202,38.216869],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 856743545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759103,38.232327,-85.759103,38.232327",
+    "geom:latitude":38.232327,
+    "geom:longitude":-85.759103,
+    "iso:country":"US",
+    "sg:address":"1310 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 5083",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "historical"
+    ],
+    "sg:website":"http://www.filsonhistorical.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7duvmXB0ytQSZ3Dn3mcQGK_38.232327_-85.759103@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053514,
+    "wof:geomhash":"a767132028cf0e27bd85b696575edc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":856743545
+        }
+    ],
+    "wof:id":856743545,
+    "wof:lastmodified":1464053514,
+    "wof:name":"Filson Historical Society",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -85.759103,
+    38.232327,
+    -85.759103,
+    38.232327
+],
+  "geometry": {"coordinates":[-85.759103,38.232327],"type":"Point"}
+}

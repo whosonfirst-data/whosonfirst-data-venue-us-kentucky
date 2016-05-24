@@ -1,0 +1,99 @@
+{
+  "id": 856745121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775043,38.144793,-85.775043,38.144793",
+    "geom:latitude":38.144793,
+    "geom:longitude":-85.775043,
+    "iso:country":"US",
+    "sg:address":"5540 New Cut Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 9000",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "weight",
+        "consultant",
+        "program",
+        "fitness",
+        "physical"
+    ],
+    "sg:website":"http://www.curves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6og2AlA9HgU9nZ59SLsSaW_38.144793_-85.775043@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053568,
+    "wof:geomhash":"8fde137a3f6fc916dcea40cb3ed61e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745121
+        }
+    ],
+    "wof:id":856745121,
+    "wof:lastmodified":1464053568,
+    "wof:name":"Curves",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight",
+        "consultant",
+        "program",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.775043,
+    38.144793,
+    -85.775043,
+    38.144793
+],
+  "geometry": {"coordinates":[-85.775043,38.144793],"type":"Point"}
+}

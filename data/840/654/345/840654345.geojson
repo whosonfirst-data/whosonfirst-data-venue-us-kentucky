@@ -1,0 +1,75 @@
+{
+  "id": 840654345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.570045,37.831609,-87.570045,37.831609",
+    "geom:latitude":37.831609,
+    "geom:longitude":-87.570045,
+    "iso:country":"US",
+    "sg:address":"104 Franklin St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2932",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SYj92nzMbZbrxm3NxKDU6_37.831609_-87.570045@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044990,
+    "wof:geomhash":"ec05dff5f7877654bca08694f65146a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840654345
+        }
+    ],
+    "wof:id":840654345,
+    "wof:lastmodified":1464044990,
+    "wof:name":"Henderson Trim Shop",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -87.570045,
+    37.831609,
+    -87.570045,
+    37.831609
+],
+  "geometry": {"coordinates":[-87.57004499999999,37.831609],"type":"Point"}
+}

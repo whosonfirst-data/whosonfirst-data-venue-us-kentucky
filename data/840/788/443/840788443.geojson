@@ -1,0 +1,67 @@
+{
+  "id": 840788443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437011,36.976009,-86.437011,36.976009",
+    "geom:latitude":36.976009,
+    "geom:longitude":-86.437011,
+    "iso:country":"US",
+    "sg:address":"1401 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 8000",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:website":"www.nealturnerrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MfiVg66qj57zKpOai0DSj_36.976009_-86.437011@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047945,
+    "wof:geomhash":"966307a444502aa495d8310d29524aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840788443
+        }
+    ],
+    "wof:id":840788443,
+    "wof:lastmodified":1464047945,
+    "wof:name":"Neal Turner Realty",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.437011,
+    36.976009,
+    -86.437011,
+    36.976009
+],
+  "geometry": {"coordinates":[-86.437011,36.976009],"type":"Point"}
+}

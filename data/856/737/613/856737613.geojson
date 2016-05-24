@@ -1,0 +1,76 @@
+{
+  "id": 856737613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5206,38.001844,-84.5206,38.001844",
+    "geom:latitude":38.001844,
+    "geom:longitude":-84.5206,
+    "iso:country":"US",
+    "sg:address":"2467 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/83745-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 7272",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41IYmvaa3uqKUZEPgrARQc_38.002331_-84.519969@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053289,
+    "wof:geomhash":"113455dc220d3a41353434a4765f5855",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856737613
+        }
+    ],
+    "wof:id":856737613,
+    "wof:lastmodified":1464053289,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.5206,
+    38.001844,
+    -84.5206,
+    38.001844
+],
+  "geometry": {"coordinates":[-84.5206,38.001844],"type":"Point"}
+}

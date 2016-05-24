@@ -1,0 +1,76 @@
+{
+  "id": 856732845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.644235,38.251944,-85.644235,38.251944",
+    "geom:latitude":38.251944,
+    "geom:longitude":-85.644235,
+    "iso:country":"US",
+    "sg:address":"4123 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/83763-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 9999",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mOPH2NiuA6ZbcIRvY8pp_38.251944_-85.644235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053104,
+    "wof:geomhash":"8a3ca766c4ae6e13f71ca0d1a34b8891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732845
+        }
+    ],
+    "wof:id":856732845,
+    "wof:lastmodified":1464053104,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.644235,
+    38.251944,
+    -85.644235,
+    38.251944
+],
+  "geometry": {"coordinates":[-85.64423499999999,38.251944],"type":"Point"}
+}

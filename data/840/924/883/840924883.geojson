@@ -1,0 +1,71 @@
+{
+  "id": 840924883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58899,37.906822,-84.58899,37.906822",
+    "geom:latitude":37.906822,
+    "geom:longitude":-84.58899,
+    "iso:country":"US",
+    "sg:address":"1691 Keene Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 0410",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09efauEu3wt1RIB2MEDJiK_37.906822_-84.588990@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051136,
+    "wof:geomhash":"366ed713ba0db9b66526e077aec55585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840924883
+        }
+    ],
+    "wof:id":840924883,
+    "wof:lastmodified":1464051136,
+    "wof:name":"Foxtale Farm",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -84.58899,
+    37.906822,
+    -84.58899,
+    37.906822
+],
+  "geometry": {"coordinates":[-84.58899,37.906822],"type":"Point"}
+}

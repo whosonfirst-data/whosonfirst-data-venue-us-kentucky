@@ -1,0 +1,73 @@
+{
+  "id": 840806345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637446,38.328303,-85.637446,38.328303",
+    "geom:latitude":38.328303,
+    "geom:longitude":-85.637446,
+    "iso:country":"US",
+    "sg:address":"6313 River Rd",
+    "sg:city":"Prospect",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 228 5333",
+    "sg:postcode":"40059",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pk8h7izNM2ZPzX8j0Sxie_38.328303_-85.637446@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048323,
+    "wof:geomhash":"0e8928114ef916b137431710e1819760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840806345
+        }
+    ],
+    "wof:id":840806345,
+    "wof:lastmodified":1464048323,
+    "wof:name":"Willy B's Smokehouse",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.637446,
+    38.328303,
+    -85.637446,
+    38.328303
+],
+  "geometry": {"coordinates":[-85.637446,38.328303],"type":"Point"}
+}

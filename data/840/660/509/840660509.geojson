@@ -1,0 +1,71 @@
+{
+  "id": 840660509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.361014,37.565986,-84.361014,37.565986",
+    "geom:latitude":37.565986,
+    "geom:longitude":-84.361014,
+    "iso:country":"US",
+    "sg:address":"6680 State Hwy 21 E",
+    "sg:city":"Paint Lick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 0898",
+    "sg:postcode":"40461",
+    "sg:province":"KY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iZ3FPfzvDuHzliqHwzXwK_37.565986_-84.361014@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045118,
+    "wof:geomhash":"bf37ed20f62b17f41d1e07d4dd7e8702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840660509
+        }
+    ],
+    "wof:id":840660509,
+    "wof:lastmodified":1464045118,
+    "wof:name":"A Plus Commercial Cleaning",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.361014,
+    37.565986,
+    -84.361014,
+    37.565986
+],
+  "geometry": {"coordinates":[-84.361014,37.565986],"type":"Point"}
+}

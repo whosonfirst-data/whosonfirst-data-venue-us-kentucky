@@ -1,0 +1,75 @@
+{
+  "id": 840741897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.620878,37.077578,-88.620878,37.077578",
+    "geom:latitude":37.077578,
+    "geom:longitude":-88.620878,
+    "iso:country":"US",
+    "sg:address":"2005 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7604",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "care",
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48FgXFR2MFrVcQ3wC4Bwho_37.077578_-88.620878@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046931,
+    "wof:geomhash":"f46d7b9aab066352106f1624a931581f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840741897
+        }
+    ],
+    "wof:id":840741897,
+    "wof:lastmodified":1464046931,
+    "wof:name":"Paducah Active Day Ctr",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -88.620878,
+    37.077578,
+    -88.620878,
+    37.077578
+],
+  "geometry": {"coordinates":[-88.620878,37.077578],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840681697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.832794,37.709241,-85.832794,37.709241",
+    "geom:latitude":37.709241,
+    "geom:longitude":-85.832794,
+    "iso:country":"US",
+    "sg:address":"210 Commerce Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0755",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E71qT31A8VeQRuP7o2WVW_37.709241_-85.832794@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045615,
+    "wof:geomhash":"a4580381267affccc1662c13361a1ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840681697
+        }
+    ],
+    "wof:id":840681697,
+    "wof:lastmodified":1464045615,
+    "wof:name":"Shiva Enrichment Corp",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -85.832794,
+    37.709241,
+    -85.832794,
+    37.709241
+],
+  "geometry": {"coordinates":[-85.83279400000001,37.709241],"type":"Point"}
+}

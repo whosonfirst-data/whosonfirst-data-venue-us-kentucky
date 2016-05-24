@@ -1,0 +1,77 @@
+{
+  "id": 856718357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.610713,38.157929,-85.610713,38.157929",
+    "geom:latitude":38.157929,
+    "geom:longitude":-85.610713,
+    "iso:country":"US",
+    "sg:address":"6206 Meter Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 239 3295",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BJuSZUgZcb0bQG7Fs7iv6_38.157929_-85.610713@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052517,
+    "wof:geomhash":"d81125f39362a98eaee9ce3cb69ec7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856718357
+        }
+    ],
+    "wof:id":856718357,
+    "wof:lastmodified":1464052517,
+    "wof:name":"Accent Delivery Service",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.610713,
+    38.157929,
+    -85.610713,
+    38.157929
+],
+  "geometry": {"coordinates":[-85.610713,38.157929],"type":"Point"}
+}

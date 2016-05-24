@@ -1,0 +1,76 @@
+{
+  "id": 840740001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.696601,38.157083,-85.696601,38.157083",
+    "geom:latitude":38.157083,
+    "geom:longitude":-85.696601,
+    "iso:country":"US",
+    "sg:address":"3625 Fern Valley Rd",
+    "sg:city":"Okolona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 3381",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.franciscancommunities.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1biPDZk1YFxO4ynaBMyhSF_38.157083_-85.696601@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046895,
+    "wof:geomhash":"b2c51c50ec1d4a03262fa3ff4f76ee27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840740001
+        }
+    ],
+    "wof:id":840740001,
+    "wof:lastmodified":1464046895,
+    "wof:name":"Franciscan Health Care Ctr",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.696601,
+    38.157083,
+    -85.696601,
+    38.157083
+],
+  "geometry": {"coordinates":[-85.696601,38.157083],"type":"Point"}
+}

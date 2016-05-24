@@ -1,0 +1,73 @@
+{
+  "id": 856745201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761425,38.191047,-85.761425,38.191047",
+    "geom:latitude":38.191047,
+    "geom:longitude":-85.761425,
+    "iso:country":"US",
+    "sg:address":"4445 S 1st St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 238 2888",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surgery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cPikP2J8YAKkpzL7uzM4q_38.191047_-85.761425@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053571,
+    "wof:geomhash":"c1e904265d34f3f9c2d2964056a82ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":856745201
+        }
+    ],
+    "wof:id":856745201,
+    "wof:lastmodified":1464053571,
+    "wof:name":"Louisville Surgery Center",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgery"
+    ]
+},
+  "bbox": [
+    -85.761425,
+    38.191047,
+    -85.761425,
+    38.191047
+],
+  "geometry": {"coordinates":[-85.761425,38.191047],"type":"Point"}
+}

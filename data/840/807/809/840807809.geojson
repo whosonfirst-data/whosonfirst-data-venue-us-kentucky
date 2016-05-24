@@ -1,0 +1,71 @@
+{
+  "id": 840807809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.217146,38.211734,-85.217146,38.211734",
+    "geom:latitude":38.211734,
+    "geom:longitude":-85.217146,
+    "iso:country":"US",
+    "sg:address":"413 6th St",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 1881",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XPQJiopfCmdFdnLIOFB2w_38.211734_-85.217146@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048356,
+    "wof:geomhash":"76429fe3469b2a669ed9f559da9c822b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840807809
+        }
+    ],
+    "wof:id":840807809,
+    "wof:lastmodified":1464048356,
+    "wof:name":"Willowbank Garden Co",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.217146,
+    38.211734,
+    -85.217146,
+    38.211734
+],
+  "geometry": {"coordinates":[-85.217146,38.211734],"type":"Point"}
+}

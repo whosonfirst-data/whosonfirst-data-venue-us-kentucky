@@ -1,0 +1,75 @@
+{
+  "id": 856717097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491113,36.9474,-86.491113,36.9474",
+    "geom:latitude":36.9474,
+    "geom:longitude":-86.491113,
+    "iso:country":"US",
+    "sg:address":"2840 Pioneer Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3200",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05cL3CkVrtAXdKZaweYIuB_36.947400_-86.491113@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052472,
+    "wof:geomhash":"50fac56603b9ec8643dda591e37524f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":856717097
+        }
+    ],
+    "wof:id":856717097,
+    "wof:lastmodified":1464052472,
+    "wof:name":"Country Oven Bakery",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -86.491113,
+    36.9474,
+    -86.491113,
+    36.9474
+],
+  "geometry": {"coordinates":[-86.491113,36.9474],"type":"Point"}
+}

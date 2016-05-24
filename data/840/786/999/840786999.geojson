@@ -1,0 +1,71 @@
+{
+  "id": 840786999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.483372,36.966346,-86.483372,36.966346",
+    "geom:latitude":36.966346,
+    "geom:longitude":-86.483372,
+    "iso:country":"US",
+    "sg:address":"2472 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2263",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15eWQ26LShZYGMm57gezVu_36.966346_-86.483372@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047920,
+    "wof:geomhash":"7411d22a61c4e91548b86fd537ff06a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840786999
+        }
+    ],
+    "wof:id":840786999,
+    "wof:lastmodified":1464047920,
+    "wof:name":"Bunny Bread Co",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -86.483372,
+    36.966346,
+    -86.483372,
+    36.966346
+],
+  "geometry": {"coordinates":[-86.483372,36.966346],"type":"Point"}
+}

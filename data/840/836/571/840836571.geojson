@@ -1,0 +1,71 @@
+{
+  "id": 840836571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569898,37.035953,-88.569898,37.035953",
+    "geom:latitude":37.035953,
+    "geom:longitude":-88.569898,
+    "iso:country":"US",
+    "sg:address":"701 Oaks Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 0953",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V2krXmUHc1EMrUMaDQxfU_37.035953_-88.569898@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049140,
+    "wof:geomhash":"1448f0b542544fcdb74818229a4135a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840836571
+        }
+    ],
+    "wof:id":840836571,
+    "wof:lastmodified":1464049140,
+    "wof:name":"Reidland/Farley Fire Dept",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.569898,
+    37.035953,
+    -88.569898,
+    37.035953
+],
+  "geometry": {"coordinates":[-88.56989799999999,37.035953],"type":"Point"}
+}

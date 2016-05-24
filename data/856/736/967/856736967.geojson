@@ -1,0 +1,76 @@
+{
+  "id": 856736967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.622285,37.107113,-84.622285,37.107113",
+    "geom:latitude":37.107113,
+    "geom:longitude":-84.622285,
+    "iso:country":"US",
+    "sg:address":"849 N Highway 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/90110-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 7366",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JY1xzWjAmviDwqt1AL1GQ_37.107113_-84.622285@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053256,
+    "wof:geomhash":"5d6e05070e7eb1c051f36216c73fea48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736967
+        }
+    ],
+    "wof:id":856736967,
+    "wof:lastmodified":1464053256,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.622285,
+    37.107113,
+    -84.622285,
+    37.107113
+],
+  "geometry": {"coordinates":[-84.62228500000001,37.107113],"type":"Point"}
+}

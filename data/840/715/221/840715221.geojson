@@ -1,0 +1,77 @@
+{
+  "id": 840715221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.604558,37.088587,-84.604558,37.088587",
+    "geom:latitude":37.088587,
+    "geom:longitude":-84.604558,
+    "iso:country":"US",
+    "sg:address":"401 S Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 0512",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sNBfF41vcMoZC0UbiQo7k_37.088587_-84.604558@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046407,
+    "wof:geomhash":"6737dfde1cc7758a3e0d68431b758d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840715221
+        }
+    ],
+    "wof:id":840715221,
+    "wof:lastmodified":1464046407,
+    "wof:name":"Waits Hill",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -84.604558,
+    37.088587,
+    -84.604558,
+    37.088587
+],
+  "geometry": {"coordinates":[-84.604558,37.088587],"type":"Point"}
+}

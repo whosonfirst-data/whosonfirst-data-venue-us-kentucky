@@ -1,0 +1,100 @@
+{
+  "id": 856744953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.802685,38.154674,-85.802685,38.154674",
+    "geom:latitude":38.154674,
+    "geom:longitude":-85.802685,
+    "iso:country":"US",
+    "sg:address":"7321 Saint Andrews Church Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 0069",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "specialty",
+        "system",
+        "heating",
+        "contractor",
+        "air conditioning",
+        "sewer",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.csquared.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NUikSZzhFmkJfo28aFtFA_38.154674_-85.802685@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053562,
+    "wof:geomhash":"4b5b6b2d9877cd0fb1fadd7a939e0061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744953
+        }
+    ],
+    "wof:id":856744953,
+    "wof:lastmodified":1464053562,
+    "wof:name":"C Squared Inc",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "specialty",
+        "system",
+        "heating",
+        "contractor",
+        "air conditioning",
+        "sewer",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -85.802685,
+    38.154674,
+    -85.802685,
+    38.154674
+],
+  "geometry": {"coordinates":[-85.802685,38.154674],"type":"Point"}
+}

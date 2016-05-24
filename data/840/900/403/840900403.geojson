@@ -1,0 +1,69 @@
+{
+  "id": 840900403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.659632,37.85878,-84.659632,37.85878",
+    "geom:latitude":37.85878,
+    "geom:longitude":-84.659632,
+    "iso:country":"US",
+    "sg:address":"335 E Main St",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3535",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGVRTJRtA2IhlBDSSugZf_37.858780_-84.659632@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050506,
+    "wof:geomhash":"8b5895ae6897e06b3f1363e99dabd90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840900403
+        }
+    ],
+    "wof:id":840900403,
+    "wof:lastmodified":1464050506,
+    "wof:name":"Wilmore Police Dept",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.659632,
+    37.85878,
+    -84.659632,
+    37.85878
+],
+  "geometry": {"coordinates":[-84.659632,37.85878],"type":"Point"}
+}

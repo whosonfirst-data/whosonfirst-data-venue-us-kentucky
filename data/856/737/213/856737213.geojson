@@ -1,0 +1,74 @@
+{
+  "id": 856737213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.907295,37.179594,-85.907295,37.179594",
+    "geom:latitude":37.179594,
+    "geom:longitude":-85.907295,
+    "iso:country":"US",
+    "sg:address":"101 N Dixie St",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/horse-cave/120561-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 5554",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16sEQ35PY8KRjhtLeawSZs_37.179594_-85.907295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053271,
+    "wof:geomhash":"fb7b967daed1e0112d9aea1dca837416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":856737213
+        }
+    ],
+    "wof:id":856737213,
+    "wof:lastmodified":1464053271,
+    "wof:name":"Subway",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.907295,
+    37.179594,
+    -85.907295,
+    37.179594
+],
+  "geometry": {"coordinates":[-85.907295,37.179594],"type":"Point"}
+}

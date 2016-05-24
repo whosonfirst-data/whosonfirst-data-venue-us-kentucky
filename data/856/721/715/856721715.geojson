@@ -1,0 +1,69 @@
+{
+  "id": 856721715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.951725,37.650314,-84.951725,37.650314",
+    "geom:latitude":37.650314,
+    "geom:longitude":-84.951725,
+    "iso:country":"US",
+    "sg:address":"206 S Buell St",
+    "sg:city":"Perryville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 332 8361",
+    "sg:postcode":"40468",
+    "sg:province":"KY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OvghBx94q9mPFTBnaJkbG_37.650314_-84.951725@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052665,
+    "wof:geomhash":"3f8607dd7e612afaa07deaafbbc3646f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":856721715
+        }
+    ],
+    "wof:id":856721715,
+    "wof:lastmodified":1464052665,
+    "wof:name":"City Hall",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -84.951725,
+    37.650314,
+    -84.951725,
+    37.650314
+],
+  "geometry": {"coordinates":[-84.951725,37.650314],"type":"Point"}
+}

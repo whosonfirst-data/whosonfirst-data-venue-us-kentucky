@@ -1,0 +1,73 @@
+{
+  "id": 840880509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.736881,37.672202,-84.736881,37.672202",
+    "geom:latitude":37.672202,
+    "geom:longitude":-84.736881,
+    "iso:country":"US",
+    "sg:address":"575 Waterworks Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 1510",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "private",
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e5GQ18xltTiWnXEP0DggE_37.672202_-84.736881@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050084,
+    "wof:geomhash":"dd7709f822143f8ebf50be887fb6a1cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840880509
+        }
+    ],
+    "wof:id":840880509,
+    "wof:lastmodified":1464050084,
+    "wof:name":"Richard D Beach",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private",
+        "investigator"
+    ]
+},
+  "bbox": [
+    -84.736881,
+    37.672202,
+    -84.736881,
+    37.672202
+],
+  "geometry": {"coordinates":[-84.736881,37.672202],"type":"Point"}
+}

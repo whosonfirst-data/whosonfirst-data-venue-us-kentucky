@@ -1,0 +1,73 @@
+{
+  "id": 840651247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560509,39.016883,-84.560509,39.016883",
+    "geom:latitude":39.016883,
+    "geom:longitude":-84.560509,
+    "iso:country":"US",
+    "sg:address":"500 Thomas More Pkwy",
+    "sg:city":"Fort Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 291 5858",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947227,
+        102084469,
+        85847093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VVddFgTvDIlaEfdpSZaRL_39.016883_-84.560509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044915,
+    "wof:geomhash":"55426477b565320127926d974b487b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947227,
+            "neighbourhood_id":85847093,
+            "region_id":85688641,
+            "venue_id":840651247
+        }
+    ],
+    "wof:id":840651247,
+    "wof:lastmodified":1464044915,
+    "wof:name":"Towne Properties",
+    "wof:parent_id":85847093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.560509,
+    39.016883,
+    -84.560509,
+    39.016883
+],
+  "geometry": {"coordinates":[-84.560509,39.016883],"type":"Point"}
+}

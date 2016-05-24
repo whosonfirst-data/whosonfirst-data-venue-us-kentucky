@@ -1,0 +1,82 @@
+{
+  "id": 856741047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.731163,38.240294,-85.731163,38.240294",
+    "geom:latitude":38.240294,
+    "geom:longitude":-85.731163,
+    "iso:country":"US",
+    "sg:address":"901 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 690 5377",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rj6rPDdVI0kPHVTEwJdp4_38.240294_-85.731163@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053425,
+    "wof:geomhash":"23205287013be862f925a52185d5ec6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856741047
+        }
+    ],
+    "wof:id":856741047,
+    "wof:lastmodified":1464053425,
+    "wof:name":"Joe Davolas",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.731163,
+    38.240294,
+    -85.731163,
+    38.240294
+],
+  "geometry": {"coordinates":[-85.731163,38.240294],"type":"Point"}
+}

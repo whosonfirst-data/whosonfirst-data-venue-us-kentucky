@@ -1,0 +1,73 @@
+{
+  "id": 856698775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.896144,37.704378,-85.896144,37.704378",
+    "geom:latitude":37.704378,
+    "geom:longitude":-85.896144,
+    "iso:country":"US",
+    "sg:address":"61 Briarwood Cir",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6038",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u9y1XxWiitHLJBDxnH6He_37.704378_-85.896144@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052035,
+    "wof:geomhash":"f806a190c098365fff9eeecd872278a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856698775
+        }
+    ],
+    "wof:id":856698775,
+    "wof:lastmodified":1464052035,
+    "wof:name":"Douglas P Gebler MD",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.896144,
+    37.704378,
+    -85.896144,
+    37.704378
+],
+  "geometry": {"coordinates":[-85.89614400000001,37.704378],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856746041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729271,38.22279,-85.729271,38.22279",
+    "geom:latitude":38.22279,
+    "geom:longitude":-85.729271,
+    "iso:country":"US",
+    "sg:address":"1348 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 8100",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "ophthalmology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0reiQW1MToqACoMyaiE18L_38.222790_-85.729271@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053598,
+    "wof:geomhash":"631a4999575b9dc0ea5fdd5553821119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873427,
+            "region_id":85688641,
+            "venue_id":856746041
+        }
+    ],
+    "wof:id":856746041,
+    "wof:lastmodified":1464053598,
+    "wof:name":"Wandzilak, Theodore M MD",
+    "wof:parent_id":85873427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "ophthalmology"
+    ]
+},
+  "bbox": [
+    -85.729271,
+    38.22279,
+    -85.729271,
+    38.22279
+],
+  "geometry": {"coordinates":[-85.729271,38.22279],"type":"Point"}
+}

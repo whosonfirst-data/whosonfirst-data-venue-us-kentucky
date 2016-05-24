@@ -1,0 +1,68 @@
+{
+  "id": 840744881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.580425,38.243308,-85.580425,38.243308",
+    "geom:latitude":38.243308,
+    "geom:longitude":-85.580425,
+    "iso:country":"US",
+    "sg:address":"340 Whittington Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 9495",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79WkM3gD7CsDgaXNNUpb5h_38.243308_-85.580425@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046985,
+    "wof:geomhash":"a007cf0772dcb205449910cd42b4aa40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840744881
+        }
+    ],
+    "wof:id":840744881,
+    "wof:lastmodified":1464046985,
+    "wof:name":"Lone Star Steakhouse & Saloon",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.580425,
+    38.243308,
+    -85.580425,
+    38.243308
+],
+  "geometry": {"coordinates":[-85.58042500000001,38.243308],"type":"Point"}
+}

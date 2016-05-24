@@ -1,0 +1,71 @@
+{
+  "id": 840889921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576999,37.870217,-84.576999,37.870217",
+    "geom:latitude":37.870217,
+    "geom:longitude":-84.576999,
+    "iso:country":"US",
+    "sg:address":"716 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 8185",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0INpHZbxCJVxQILPCnwMIl_37.870217_-84.576999@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050282,
+    "wof:geomhash":"c3c59153b7db1ee29c352de1506291bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840889921
+        }
+    ],
+    "wof:id":840889921,
+    "wof:lastmodified":1464050282,
+    "wof:name":"Blair's Auto Sales",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.576999,
+    37.870217,
+    -84.576999,
+    37.870217
+],
+  "geometry": {"coordinates":[-84.576999,37.870217],"type":"Point"}
+}

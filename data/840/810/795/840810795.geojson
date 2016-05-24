@@ -1,0 +1,73 @@
+{
+  "id": 840810795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.607081,37.042013,-84.607081,37.042013",
+    "geom:latitude":37.042013,
+    "geom:longitude":-84.607081,
+    "iso:country":"US",
+    "sg:address":"276 Parkers Mill Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 9416",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "frame",
+        "straightening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BsiMaIuHYFCqreSovh0iW_37.042013_-84.607081@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048448,
+    "wof:geomhash":"6b20fff689e919c41dcacc565e450344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840810795
+        }
+    ],
+    "wof:id":840810795,
+    "wof:lastmodified":1464048448,
+    "wof:name":"Carters Auto Body & Frame",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "frame",
+        "straightening"
+    ]
+},
+  "bbox": [
+    -84.607081,
+    37.042013,
+    -84.607081,
+    37.042013
+],
+  "geometry": {"coordinates":[-84.60708099999999,37.042013],"type":"Point"}
+}

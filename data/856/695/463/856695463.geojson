@@ -1,0 +1,75 @@
+{
+  "id": 856695463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.788262,38.207753,-85.788262,38.207753",
+    "geom:latitude":38.207753,
+    "geom:longitude":-85.788262,
+    "iso:country":"US",
+    "sg:address":"2903 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 6600",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGmglLRhYX7w3MfS05Zlx_38.207753_-85.788262@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051971,
+    "wof:geomhash":"d662f666cfebd9e13789724583b24d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":856695463
+        }
+    ],
+    "wof:id":856695463,
+    "wof:lastmodified":1464051971,
+    "wof:name":"One Hour Electric",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.788262,
+    38.207753,
+    -85.788262,
+    38.207753
+],
+  "geometry": {"coordinates":[-85.788262,38.207753],"type":"Point"}
+}

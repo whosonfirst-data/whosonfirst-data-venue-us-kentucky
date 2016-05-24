@@ -1,0 +1,75 @@
+{
+  "id": 840707575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.934619,36.982659,-85.934619,36.982659",
+    "geom:latitude":36.982659,
+    "geom:longitude":-85.934619,
+    "iso:country":"US",
+    "sg:address":"410 Cavalry Dr",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 8831",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QqHF7eJtwpZE7Z19JY1Mx_36.982659_-85.934619@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046257,
+    "wof:geomhash":"17caca0f3ed7f46ccded9ab31ab5f180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840707575
+        }
+    ],
+    "wof:id":840707575,
+    "wof:lastmodified":1464046257,
+    "wof:name":"National Guard Recruiter",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -85.934619,
+    36.982659,
+    -85.934619,
+    36.982659
+],
+  "geometry": {"coordinates":[-85.934619,36.982659],"type":"Point"}
+}

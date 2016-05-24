@@ -1,0 +1,69 @@
+{
+  "id": 840751813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560231,36.990188,-84.560231,36.990188",
+    "geom:latitude":36.990188,
+    "geom:longitude":-84.560231,
+    "iso:country":"US",
+    "sg:address":"680 E Lakeshore Dr",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 4223",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wBWXo5qpyxTMISeLPEMi9_36.990188_-84.560231@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047144,
+    "wof:geomhash":"065c0d6af204d7b48d9a42c91b83cd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840751813
+        }
+    ],
+    "wof:id":840751813,
+    "wof:lastmodified":1464047144,
+    "wof:name":"Burnside Marina",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -84.560231,
+    36.990188,
+    -84.560231,
+    36.990188
+],
+  "geometry": {"coordinates":[-84.560231,36.990188],"type":"Point"}
+}

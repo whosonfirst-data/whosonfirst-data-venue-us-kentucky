@@ -1,0 +1,71 @@
+{
+  "id": 856719031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447801,36.991358,-86.447801,36.991358",
+    "geom:latitude":36.991358,
+    "geom:longitude":-86.447801,
+    "iso:country":"US",
+    "sg:address":"1240 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 0708",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QRUp149vRWaWEeZkYEhcx_36.991358_-86.447801@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052548,
+    "wof:geomhash":"534d1c5c93ecc8592511d58069ff8b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856719031
+        }
+    ],
+    "wof:id":856719031,
+    "wof:lastmodified":1464052548,
+    "wof:name":"Lemox Book Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.447801,
+    36.991358,
+    -86.447801,
+    36.991358
+],
+  "geometry": {"coordinates":[-86.447801,36.991358],"type":"Point"}
+}

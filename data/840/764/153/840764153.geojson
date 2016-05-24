@@ -1,0 +1,71 @@
+{
+  "id": 840764153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.834666,37.717337,-85.834666,37.717337",
+    "geom:latitude":37.717337,
+    "geom:longitude":-85.834666,
+    "iso:country":"US",
+    "sg:address":"1108 Regency Way",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 9440",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GXLkBklwKwdFJ97VxKEwI_37.717337_-85.834666@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047430,
+    "wof:geomhash":"11ed99234fcfb5614a0431484b8b16e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840764153
+        }
+    ],
+    "wof:id":840764153,
+    "wof:lastmodified":1464047430,
+    "wof:name":"Bluegrass Assisted Living",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    -85.834666,
+    37.717337,
+    -85.834666,
+    37.717337
+],
+  "geometry": {"coordinates":[-85.834666,37.717337],"type":"Point"}
+}

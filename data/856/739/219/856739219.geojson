@@ -1,0 +1,92 @@
+{
+  "id": 856739219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756818,38.245281,-85.756818,38.245281",
+    "geom:latitude":38.245281,
+    "geom:longitude":-85.756818,
+    "iso:country":"US",
+    "sg:address":"737 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 4181",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "architects'",
+        "consulting",
+        "management",
+        "builders'",
+        "engineer"
+    ],
+    "sg:website":"http://www.luckett-farley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m9TLgeL2pHwPInquJfhN8_38.245281_-85.756818@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053350,
+    "wof:geomhash":"268b553619b390e544d4c91a705a2b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":856739219
+        }
+    ],
+    "wof:id":856739219,
+    "wof:lastmodified":1464053350,
+    "wof:name":"Luckett & Farley Architects Engineers And Construction Managers Inc",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architects'",
+        "consulting",
+        "management",
+        "builders'",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.756818,
+    38.245281,
+    -85.756818,
+    38.245281
+],
+  "geometry": {"coordinates":[-85.756818,38.245281],"type":"Point"}
+}

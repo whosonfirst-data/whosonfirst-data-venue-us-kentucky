@@ -1,0 +1,65 @@
+{
+  "id": 856710725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.716925,38.062579,-84.716925,38.062579",
+    "geom:latitude":38.062579,
+    "geom:longitude":-84.716925,
+    "iso:country":"US",
+    "sg:address":"149 Fieldview Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 3241",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NoQe1EmTyFtZpwPdM27vm_38.062579_-84.716925@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052281,
+    "wof:geomhash":"9e25ad9f2740e7bea5b512e044db8e97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856710725
+        }
+    ],
+    "wof:id":856710725,
+    "wof:lastmodified":1464052281,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.716925,
+    38.062579,
+    -84.716925,
+    38.062579
+],
+  "geometry": {"coordinates":[-84.716925,38.062579],"type":"Point"}
+}

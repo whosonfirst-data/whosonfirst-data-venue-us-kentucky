@@ -1,0 +1,71 @@
+{
+  "id": 840899491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.754631,37.634908,-84.754631,37.634908",
+    "geom:latitude":37.634908,
+    "geom:longitude":-84.754631,
+    "iso:country":"US",
+    "sg:address":"471 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7467",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56frKnEkAk7UDJ0WcN0S7F_37.634908_-84.754631@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050479,
+    "wof:geomhash":"af7c5d5bb0b867e0553fba939443d839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840899491
+        }
+    ],
+    "wof:id":840899491,
+    "wof:lastmodified":1464050479,
+    "wof:name":"Elements Pottery",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -84.754631,
+    37.634908,
+    -84.754631,
+    37.634908
+],
+  "geometry": {"coordinates":[-84.754631,37.634908],"type":"Point"}
+}

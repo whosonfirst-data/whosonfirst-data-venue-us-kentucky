@@ -1,0 +1,73 @@
+{
+  "id": 856717469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626076,38.219501,-85.626076,38.219501",
+    "geom:latitude":38.219501,
+    "geom:longitude":-85.626076,
+    "iso:country":"US",
+    "sg:address":"3360 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 9130",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ft5wo8SMpRcKjYkwoFVFU_38.219501_-85.626076@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052485,
+    "wof:geomhash":"f21ced5f33903075e913133fafd866dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856717469
+        }
+    ],
+    "wof:id":856717469,
+    "wof:lastmodified":1464052485,
+    "wof:name":"Dryclean America",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.626076,
+    38.219501,
+    -85.626076,
+    38.219501
+],
+  "geometry": {"coordinates":[-85.626076,38.219501],"type":"Point"}
+}

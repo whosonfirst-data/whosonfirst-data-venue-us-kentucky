@@ -1,0 +1,71 @@
+{
+  "id": 840909781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755425,37.737696,-85.755425,37.737696",
+    "geom:latitude":37.737696,
+    "geom:longitude":-85.755425,
+    "iso:country":"US",
+    "sg:address":"427 Lincoln Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 1339",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6toHYpm4cpf65TIfMMCxyF_37.737696_-85.755425@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050718,
+    "wof:geomhash":"49610b97b73435c694df6cb53b2934be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840909781
+        }
+    ],
+    "wof:id":840909781,
+    "wof:lastmodified":1464050718,
+    "wof:name":"Ken Mar Investments LLC",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -85.755425,
+    37.737696,
+    -85.755425,
+    37.737696
+],
+  "geometry": {"coordinates":[-85.755425,37.737696],"type":"Point"}
+}

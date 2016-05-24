@@ -1,0 +1,71 @@
+{
+  "id": 840607283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.578108,37.043867,-88.578108,37.043867",
+    "geom:latitude":37.043867,
+    "geom:longitude":-88.578108,
+    "iso:country":"US",
+    "sg:address":"2709 Hovekamp Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 0093",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O7yyKgyC84HZLfuM9BPl2_37.043867_-88.578108@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043838,
+    "wof:geomhash":"81ea8a282163e4dd2b47018376fa41ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840607283
+        }
+    ],
+    "wof:id":840607283,
+    "wof:lastmodified":1464043838,
+    "wof:name":"Good Hair Days",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.578108,
+    37.043867,
+    -88.578108,
+    37.043867
+],
+  "geometry": {"coordinates":[-88.578108,37.043867],"type":"Point"}
+}

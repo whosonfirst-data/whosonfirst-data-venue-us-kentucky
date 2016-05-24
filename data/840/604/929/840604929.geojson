@@ -1,0 +1,75 @@
+{
+  "id": 840604929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754055,38.140319,-85.754055,38.140319",
+    "geom:latitude":38.140319,
+    "geom:longitude":-85.754055,
+    "iso:country":"US",
+    "sg:address":"7753 National Tpke",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 8000",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LJXI2LyInLpB777U81eAb_38.140319_-85.754055@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043777,
+    "wof:geomhash":"f42993da39c916876d112b745e6a2cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840604929
+        }
+    ],
+    "wof:id":840604929,
+    "wof:lastmodified":1464043777,
+    "wof:name":"Contracted Operations",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -85.754055,
+    38.140319,
+    -85.754055,
+    38.140319
+],
+  "geometry": {"coordinates":[-85.75405499999999,38.140319],"type":"Point"}
+}

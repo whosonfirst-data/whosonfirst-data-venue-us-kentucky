@@ -1,0 +1,73 @@
+{
+  "id": 840885565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.767155,38.161338,-85.767155,38.161338",
+    "geom:latitude":38.161338,
+    "geom:longitude":-85.767155,
+    "iso:country":"US",
+    "sg:address":"117 Seneca Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 8500",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPeQEYfI4pnyoGK08mGCt_38.161338_-85.767155@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050190,
+    "wof:geomhash":"0a1a8ef71dde3d6779e0daad0b660d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840885565
+        }
+    ],
+    "wof:id":840885565,
+    "wof:lastmodified":1464050190,
+    "wof:name":"Johns Remodeling",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -85.767155,
+    38.161338,
+    -85.767155,
+    38.161338
+],
+  "geometry": {"coordinates":[-85.767155,38.161338],"type":"Point"}
+}

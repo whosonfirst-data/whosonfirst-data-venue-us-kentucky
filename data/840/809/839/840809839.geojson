@@ -1,0 +1,83 @@
+{
+  "id": 840809839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.665025,38.203614,-85.665025,38.203614",
+    "geom:latitude":38.203614,
+    "geom:longitude":-85.665025,
+    "iso:country":"US",
+    "sg:address":"3501 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 5200",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZZNKTeit07m6AuR7I4h9a_38.203614_-85.665025@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048416,
+    "wof:geomhash":"776b0f551121a20ce74d7c62d9c7a9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840809839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840809839
+        }
+    ],
+    "wof:id":840809839,
+    "wof:lastmodified":1464048416,
+    "wof:name":"Mister Money USA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -85.665025,
+    38.203614,
+    -85.665025,
+    38.203614
+],
+  "geometry": {"coordinates":[-85.665025,38.203614],"type":"Point"}
+}

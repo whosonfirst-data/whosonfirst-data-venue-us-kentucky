@@ -1,0 +1,74 @@
+{
+  "id": 840935209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.596325,37.830711,-87.596325,37.830711",
+    "geom:latitude":37.830711,
+    "geom:longitude":-87.596325,
+    "iso:country":"US",
+    "sg:address":"537 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 830 8400",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.hendcac.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ElQdLPJOKO1HqVMYyeyDV_37.830711_-87.596325@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051349,
+    "wof:geomhash":"802a0b84444887713eeb2855351211b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840935209
+        }
+    ],
+    "wof:id":840935209,
+    "wof:lastmodified":1464051349,
+    "wof:name":"Henderson County Child-Victim",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -87.596325,
+    37.830711,
+    -87.596325,
+    37.830711
+],
+  "geometry": {"coordinates":[-87.59632499999999,37.830711],"type":"Point"}
+}

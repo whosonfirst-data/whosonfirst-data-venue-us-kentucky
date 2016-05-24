@@ -1,0 +1,75 @@
+{
+  "id": 856701217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446659,36.998948,-86.446659,36.998948",
+    "geom:latitude":36.998948,
+    "geom:longitude":-86.446659,
+    "iso:country":"US",
+    "sg:address":"118 W Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3848",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17khNG3i6d1HFZRnjTZVxa_36.998948_-86.446659@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052084,
+    "wof:geomhash":"ee627de174e3ef247ab71ff296e8644b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856701217
+        }
+    ],
+    "wof:id":856701217,
+    "wof:lastmodified":1464052084,
+    "wof:name":"Keowns Used Cars",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.446659,
+    36.998948,
+    -86.446659,
+    36.998948
+],
+  "geometry": {"coordinates":[-86.446659,36.998948],"type":"Point"}
+}

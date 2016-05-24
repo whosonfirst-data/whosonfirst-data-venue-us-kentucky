@@ -1,0 +1,71 @@
+{
+  "id": 840575929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435716,36.98513,-86.435716,36.98513",
+    "geom:latitude":36.98513,
+    "geom:longitude":-86.435716,
+    "iso:country":"US",
+    "sg:address":"925 E 10th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3366",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R2XJbo5RHYiVw4iiM7Y04_36.985130_-86.435716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043122,
+    "wof:geomhash":"d03ba69e13da1812e2e23da740a4c1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840575929
+        }
+    ],
+    "wof:id":840575929,
+    "wof:lastmodified":1464043122,
+    "wof:name":"Stinnett Dental Laboratory",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.435716,
+    36.98513,
+    -86.435716,
+    36.98513
+],
+  "geometry": {"coordinates":[-86.435716,36.98513],"type":"Point"}
+}

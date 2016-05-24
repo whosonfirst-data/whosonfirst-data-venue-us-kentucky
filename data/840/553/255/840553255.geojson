@@ -1,0 +1,84 @@
+{
+  "id": 840553255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.772279,37.63852,-84.772279,37.63852",
+    "geom:latitude":37.63852,
+    "geom:longitude":-84.772279,
+    "iso:country":"US",
+    "sg:address":"304 Fackler St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7117",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lining",
+        "barrel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aF8TOlZpWmFowoBndnfNE_37.638520_-84.772279@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042580,
+    "wof:geomhash":"c4f5702870e655219997fe69030d8eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840553255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840553255
+        }
+    ],
+    "wof:id":840553255,
+    "wof:lastmodified":1464042580,
+    "wof:name":"Rhino Linings Of Danville",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lining",
+        "barrel"
+    ]
+},
+  "bbox": [
+    -84.772279,
+    37.63852,
+    -84.772279,
+    37.63852
+],
+  "geometry": {"coordinates":[-84.772279,37.63852],"type":"Point"}
+}

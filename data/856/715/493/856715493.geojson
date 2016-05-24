@@ -1,0 +1,71 @@
+{
+  "id": 856715493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857636,37.701786,-85.857636,37.701786",
+    "geom:latitude":37.701786,
+    "geom:longitude":-85.857636,
+    "iso:country":"US",
+    "sg:address":"519 N Miles St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5992",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Vu57hGrmpqB4OlLQHLvo_37.701786_-85.857636@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052409,
+    "wof:geomhash":"b7bf7345c64f3fbae4a9f55cd953e011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856715493
+        }
+    ],
+    "wof:id":856715493,
+    "wof:lastmodified":1464052409,
+    "wof:name":"Communicare Regional Prvntn",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -85.857636,
+    37.701786,
+    -85.857636,
+    37.701786
+],
+  "geometry": {"coordinates":[-85.857636,37.701786],"type":"Point"}
+}

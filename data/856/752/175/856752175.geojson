@@ -1,0 +1,89 @@
+{
+  "id": 856752175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.558994,38.210376,-85.558994,38.210376",
+    "geom:latitude":38.210376,
+    "geom:longitude":-85.558994,
+    "iso:country":"US",
+    "sg:address":"2309 Watterson Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 2228",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wig",
+        "supply",
+        "accessory",
+        "hair",
+        "piece",
+        "replacement"
+    ],
+    "sg:website":"http://www.apollonow.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cgWPrh8AGRzwcDCB6XF0i_38.210376_-85.558994@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053839,
+    "wof:geomhash":"a4bce4e233ebe5b6fa32e7c283d6e55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752175
+        }
+    ],
+    "wof:id":856752175,
+    "wof:lastmodified":1464053839,
+    "wof:name":"Apollo Hair Systems",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wig",
+        "supply",
+        "accessory",
+        "hair",
+        "piece",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -85.558994,
+    38.210376,
+    -85.558994,
+    38.210376
+],
+  "geometry": {"coordinates":[-85.558994,38.210376],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840615999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.861036,37.67289,-85.861036,37.67289",
+    "geom:latitude":37.67289,
+    "geom:longitude":-85.861036,
+    "iso:country":"US",
+    "sg:address":"807 New Glendale Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7388",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0skSsTgOCFeC4SWiVbmYAS_37.672890_-85.861036@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044061,
+    "wof:geomhash":"9f13b202e9c4cb43cf75e1a6031b0f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840615999
+        }
+    ],
+    "wof:id":840615999,
+    "wof:lastmodified":1464044061,
+    "wof:name":"Townsend Tree Svc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -85.861036,
+    37.67289,
+    -85.861036,
+    37.67289
+],
+  "geometry": {"coordinates":[-85.861036,37.67289],"type":"Point"}
+}

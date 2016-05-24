@@ -1,0 +1,75 @@
+{
+  "id": 840890321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.654872,38.199305,-85.654872,38.199305",
+    "geom:latitude":38.199305,
+    "geom:longitude":-85.654872,
+    "iso:country":"US",
+    "sg:address":"3717 Youngwood Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 594 3317",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "photographer",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61PVafFn3z8lo6FwxErgfu_38.199305_-85.654872@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050292,
+    "wof:geomhash":"626b60c7ff93e5b038a5b8a1486e90e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840890321
+        }
+    ],
+    "wof:id":840890321,
+    "wof:lastmodified":1464050292,
+    "wof:name":"Robin's Photography",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -85.654872,
+    38.199305,
+    -85.654872,
+    38.199305
+],
+  "geometry": {"coordinates":[-85.654872,38.199305],"type":"Point"}
+}

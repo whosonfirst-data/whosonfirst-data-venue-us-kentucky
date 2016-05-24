@@ -1,0 +1,73 @@
+{
+  "id": 840573001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.296629,37.749344,-84.296629,37.749344",
+    "geom:latitude":37.749344,
+    "geom:longitude":-84.296629,
+    "iso:country":"US",
+    "sg:address":"316 W Irvine St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 9242",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rFeybzSBItOlUcwlh8omk_37.749344_-84.296629@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043064,
+    "wof:geomhash":"e801ef951c49ba300800a66fd3cf0218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840573001
+        }
+    ],
+    "wof:id":840573001,
+    "wof:lastmodified":1464043064,
+    "wof:name":"Richmond Police Child Abuse",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.296629,
+    37.749344,
+    -84.296629,
+    37.749344
+],
+  "geometry": {"coordinates":[-84.296629,37.749344],"type":"Point"}
+}

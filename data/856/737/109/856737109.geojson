@@ -1,0 +1,74 @@
+{
+  "id": 856737109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877835,37.689941,-85.877835,37.689941",
+    "geom:latitude":37.689941,
+    "geom:longitude":-85.877835,
+    "iso:country":"US",
+    "sg:address":"106 Lincoln Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/83722-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 5633",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WQKjhoKdEvwytjX1m6U35_37.689941_-85.877835@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053266,
+    "wof:geomhash":"b7bedbdea56f7a4384254c6232c1f271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856737109
+        }
+    ],
+    "wof:id":856737109,
+    "wof:lastmodified":1464053266,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.877835,
+    37.689941,
+    -85.877835,
+    37.689941
+],
+  "geometry": {"coordinates":[-85.877835,37.689941],"type":"Point"}
+}

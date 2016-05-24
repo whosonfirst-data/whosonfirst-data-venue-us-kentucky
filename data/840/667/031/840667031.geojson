@@ -1,0 +1,71 @@
+{
+  "id": 840667031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.249301,38.212379,-85.249301,38.212379",
+    "geom:latitude":38.212379,
+    "geom:longitude":-85.249301,
+    "iso:country":"US",
+    "sg:address":"1833 Midland Trl",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 647 5623",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Um4HYMHhOYn8qMKbl0bJ_38.212379_-85.249301@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045255,
+    "wof:geomhash":"82811d2b4d81208c2a5877fb7401d1d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840667031
+        }
+    ],
+    "wof:id":840667031,
+    "wof:lastmodified":1464045255,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.249301,
+    38.212379,
+    -85.249301,
+    38.212379
+],
+  "geometry": {"coordinates":[-85.249301,38.212379],"type":"Point"}
+}

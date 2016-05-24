@@ -1,0 +1,104 @@
+{
+  "id": 856746565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663189,38.19309,-85.663189,38.19309",
+    "geom:latitude":38.19309,
+    "geom:longitude":-85.663189,
+    "iso:country":"US",
+    "sg:address":"4061 Mccollum Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 6100",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hose",
+        "power",
+        "transmission",
+        "tubing-rubber",
+        "equipment",
+        "industrial"
+    ],
+    "sg:website":"http://www.indbelt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57256we2UuwIluvl6qjHlP_38.193090_-85.663189@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053616,
+    "wof:geomhash":"c7c8b5beb03676030e07d4293e9359cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746565
+        }
+    ],
+    "wof:id":856746565,
+    "wof:lastmodified":1464053616,
+    "wof:name":"Industrial Belting & Transmission Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hose",
+        "power",
+        "transmission",
+        "tubing-rubber",
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -85.663189,
+    38.19309,
+    -85.663189,
+    38.19309
+],
+  "geometry": {"coordinates":[-85.663189,38.19309],"type":"Point"}
+}

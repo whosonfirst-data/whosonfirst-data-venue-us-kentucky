@@ -1,0 +1,71 @@
+{
+  "id": 840587311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446427,36.990749,-86.446427,36.990749",
+    "geom:latitude":36.990749,
+    "geom:longitude":-86.446427,
+    "iso:country":"US",
+    "sg:address":"1225 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 7999",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cC7aa9gwrw0aNJvVC6I6r_36.990749_-86.446427@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043369,
+    "wof:geomhash":"5c204324eff02502012c2aeb6aee3bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840587311
+        }
+    ],
+    "wof:id":840587311,
+    "wof:lastmodified":1464043369,
+    "wof:name":"Carriage Hill Apartments",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.446427,
+    36.990749,
+    -86.446427,
+    36.990749
+],
+  "geometry": {"coordinates":[-86.446427,36.990749],"type":"Point"}
+}

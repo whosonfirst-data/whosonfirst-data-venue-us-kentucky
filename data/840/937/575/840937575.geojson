@@ -1,0 +1,73 @@
+{
+  "id": 840937575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.607341,38.211116,-84.607341,38.211116",
+    "geom:latitude":38.211116,
+    "geom:longitude":-84.607341,
+    "iso:country":"US",
+    "sg:address":"2129 Frankfort Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 6781",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bbfDIVlsSq37GZTnbXQdh_38.211116_-84.607341@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051401,
+    "wof:geomhash":"1dc3407312c8284da32b141bddda169f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840937575
+        }
+    ],
+    "wof:id":840937575,
+    "wof:lastmodified":1464051401,
+    "wof:name":"Boarding Facility",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -84.607341,
+    38.211116,
+    -84.607341,
+    38.211116
+],
+  "geometry": {"coordinates":[-84.60734100000001,38.211116],"type":"Point"}
+}

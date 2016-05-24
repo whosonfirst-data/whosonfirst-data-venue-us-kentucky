@@ -1,0 +1,71 @@
+{
+  "id": 840818793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.612086,37.812009,-87.612086,37.812009",
+    "geom:latitude":37.812009,
+    "geom:longitude":-87.612086,
+    "iso:country":"US",
+    "sg:address":"708 Arbor Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 1300",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7isiqG4bgVQXI7M8AWaoox_37.812009_-87.612086@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048716,
+    "wof:geomhash":"73da436cda19a0afeb33d1504f1a9855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840818793
+        }
+    ],
+    "wof:id":840818793,
+    "wof:lastmodified":1464048716,
+    "wof:name":"Cottage Of Henderson",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.612086,
+    37.812009,
+    -87.612086,
+    37.812009
+],
+  "geometry": {"coordinates":[-87.61208600000001,37.812009],"type":"Point"}
+}

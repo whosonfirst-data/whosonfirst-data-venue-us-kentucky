@@ -1,0 +1,85 @@
+{
+  "id": 856740293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741692,38.232071,-85.741692,38.232071",
+    "geom:latitude":38.232071,
+    "geom:longitude":-85.741692,
+    "iso:country":"US",
+    "sg:address":"1231 S Shelby St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 9632",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "distributor",
+        "materials-wholesale",
+        "rug",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.thefloorstoreky.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GfLkXN6t0S7AAJdJBYSLe_38.232071_-85.741692@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053394,
+    "wof:geomhash":"faa6264d8cab69bc797022ae1f009c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":856740293
+        }
+    ],
+    "wof:id":856740293,
+    "wof:lastmodified":1464053394,
+    "wof:name":"The Floor Store Inc",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "materials-wholesale",
+        "rug",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.741692,
+    38.232071,
+    -85.741692,
+    38.232071
+],
+  "geometry": {"coordinates":[-85.741692,38.232071],"type":"Point"}
+}

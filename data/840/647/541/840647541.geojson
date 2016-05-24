@@ -1,0 +1,68 @@
+{
+  "id": 840647541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500351,38.036361,-84.500351,38.036361",
+    "geom:latitude":38.036361,
+    "geom:longitude":-84.500351,
+    "iso:country":"US",
+    "sg:address":"320 Rose Ln",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 8566",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pg335jByjjfJdq51RvKBq_38.036361_-84.500351@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044832,
+    "wof:geomhash":"d3b32716d86c3e967bda220fdc314719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873035,
+            "region_id":85688641,
+            "venue_id":840647541
+        }
+    ],
+    "wof:id":840647541,
+    "wof:lastmodified":1464044832,
+    "wof:name":"Newman Center",
+    "wof:parent_id":85873035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.500351,
+    38.036361,
+    -84.500351,
+    38.036361
+],
+  "geometry": {"coordinates":[-84.50035099999999,38.036361],"type":"Point"}
+}

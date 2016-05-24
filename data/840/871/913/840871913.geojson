@@ -1,0 +1,79 @@
+{
+  "id": 840871913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763713,38.235402,-85.763713,38.235402",
+    "geom:latitude":38.235402,
+    "geom:longitude":-85.763713,
+    "iso:country":"US",
+    "sg:address":"1152 S 6th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 495 6000",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "booth",
+        "equipment",
+        "telephone",
+        "pay"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33kasQ0A6n4RrKva5mZgX4_38.235402_-85.763713@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049894,
+    "wof:geomhash":"11f7c50169bfc1951f9161e146338ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840871913
+        }
+    ],
+    "wof:id":840871913,
+    "wof:lastmodified":1464049894,
+    "wof:name":"QTC Inc",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "booth",
+        "equipment",
+        "telephone",
+        "pay"
+    ]
+},
+  "bbox": [
+    -85.763713,
+    38.235402,
+    -85.763713,
+    38.235402
+],
+  "geometry": {"coordinates":[-85.763713,38.235402],"type":"Point"}
+}

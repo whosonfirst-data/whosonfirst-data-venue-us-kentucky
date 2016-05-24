@@ -1,0 +1,80 @@
+{
+  "id": 856734505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528959,37.98072,-84.528959,37.98072",
+    "geom:latitude":37.98072,
+    "geom:longitude":-84.528959,
+    "iso:country":"US",
+    "sg:address":"4009 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/88640-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 271 9393",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85807491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_185aiNna1GgIafgameyqeP_37.980720_-84.528959@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053164,
+    "wof:geomhash":"464d16845f2e72cb2ea24d4ed6cf8088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85807491,
+            "region_id":85688641,
+            "venue_id":856734505
+        }
+    ],
+    "wof:id":856734505,
+    "wof:lastmodified":1464053164,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85807491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.528959,
+    37.98072,
+    -84.528959,
+    37.98072
+],
+  "geometry": {"coordinates":[-84.528959,37.98072],"type":"Point"}
+}

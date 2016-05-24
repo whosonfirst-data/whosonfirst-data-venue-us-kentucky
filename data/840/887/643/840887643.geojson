@@ -1,0 +1,73 @@
+{
+  "id": 840887643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439078,36.981479,-86.439078,36.981479",
+    "geom:latitude":36.981479,
+    "geom:longitude":-86.439078,
+    "iso:country":"US",
+    "sg:address":"1105 Broadway Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 780 0098",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0doUjyzt7teVXMRPujsE4Q_36.981479_-86.439078@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050233,
+    "wof:geomhash":"d4f2a480cf5428a78ef5bd949154b662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840887643
+        }
+    ],
+    "wof:id":840887643,
+    "wof:lastmodified":1464050233,
+    "wof:name":"Taylor Auto Sales",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.439078,
+    36.981479,
+    -86.439078,
+    36.981479
+],
+  "geometry": {"coordinates":[-86.43907799999999,36.981479],"type":"Point"}
+}

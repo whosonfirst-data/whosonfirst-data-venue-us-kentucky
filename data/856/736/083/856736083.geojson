@@ -1,0 +1,74 @@
+{
+  "id": 856736083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691711,37.075237,-88.691711,37.075237",
+    "geom:latitude":37.075237,
+    "geom:longitude":-88.691711,
+    "iso:country":"US",
+    "sg:address":"5141 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/64278-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5114",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AdgkWvNAcZ7Bv4Jsg3t9Q_37.075237_-88.691711@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053221,
+    "wof:geomhash":"482b5ecf7a298c2e75c3e43526e442eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736083
+        }
+    ],
+    "wof:id":856736083,
+    "wof:lastmodified":1464053221,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.691711,
+    37.075237,
+    -88.691711,
+    37.075237
+],
+  "geometry": {"coordinates":[-88.691711,37.075237],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856732753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.675177,38.254211,-85.675177,38.254211",
+    "geom:latitude":38.254211,
+    "geom:longitude":-85.675177,
+    "iso:country":"US",
+    "sg:address":"3204 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/54233-frankfort-avenue-beer-depot--smokehouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 3223",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3DgfNJIjz2rcq4Bpewo6_38.254211_-85.675177@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053100,
+    "wof:geomhash":"33a989bdb06647ba57527acd2ed2d7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":856732753
+        }
+    ],
+    "wof:id":856732753,
+    "wof:lastmodified":1464053100,
+    "wof:name":"Frankfort Avenue Beer Depot & Smokehouse",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.675177,
+    38.254211,
+    -85.675177,
+    38.254211
+],
+  "geometry": {"coordinates":[-85.67517700000001,38.254211],"type":"Point"}
+}

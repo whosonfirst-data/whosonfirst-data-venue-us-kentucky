@@ -1,0 +1,79 @@
+{
+  "id": 856761745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.514756,37.010393,-88.514756,37.010393",
+    "geom:latitude":37.010393,
+    "geom:longitude":-88.514756,
+    "iso:country":"US",
+    "sg:address":"6035 Kentucky Dam Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 2444",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXOQyEKWVNyLWsNHk74bF_37.010393_-88.514756@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054186,
+    "wof:geomhash":"de6908923f3e33243b37664aca2c1c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761745
+        }
+    ],
+    "wof:id":856761745,
+    "wof:lastmodified":1464054186,
+    "wof:name":"Family Medicine Associates Of Western Kentucky, P",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -88.514756,
+    37.010393,
+    -88.514756,
+    37.010393
+],
+  "geometry": {"coordinates":[-88.51475600000001,37.010393],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840719423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673512,38.007123,-85.673512,38.007123",
+    "geom:latitude":38.007123,
+    "geom:longitude":-85.673512,
+    "iso:country":"US",
+    "sg:address":"2820 State Hwy 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 0787",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eaom8BjLHhYyFJK1zFMwt_38.007123_-85.673512@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046499,
+    "wof:geomhash":"a6a3c3cfd78b88effb05fc110b039186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840719423
+        }
+    ],
+    "wof:id":840719423,
+    "wof:lastmodified":1464046499,
+    "wof:name":"K C Custom & Collision Ctr",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.673512,
+    38.007123,
+    -85.673512,
+    38.007123
+],
+  "geometry": {"coordinates":[-85.673512,38.007123],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840755407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.625536,37.075618,-88.625536,37.075618",
+    "geom:latitude":37.075618,
+    "geom:longitude":-88.625536,
+    "iso:country":"US",
+    "sg:address":"2400 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7534",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EOSRcVh0CWoTEec06keFo_37.075618_-88.625536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047224,
+    "wof:geomhash":"24fc7a3066572613a6aea9095e6ff1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840755407
+        }
+    ],
+    "wof:id":840755407,
+    "wof:lastmodified":1464047224,
+    "wof:name":"Pediatric Group Of Paducah",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.625536,
+    37.075618,
+    -88.625536,
+    37.075618
+],
+  "geometry": {"coordinates":[-88.625536,37.075618],"type":"Point"}
+}

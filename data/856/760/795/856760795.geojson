@@ -1,0 +1,80 @@
+{
+  "id": 856760795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.274053,37.60139,-82.274053,37.60139",
+    "geom:latitude":37.60139,
+    "geom:longitude":-82.274053,
+    "iso:country":"US",
+    "sg:address":"35 Jerry Bottom Rd",
+    "sg:city":"Huddy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 353 4878",
+    "sg:postcode":"41535",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "contractor",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZP6VbsjYC8YKG6qUVa69t_37.601390_-82.274053@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054152,
+    "wof:geomhash":"780cae8ed57e67516d326e8b606f9931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856760795
+        }
+    ],
+    "wof:id":856760795,
+    "wof:lastmodified":1464054152,
+    "wof:name":"Stacy's Lot Cleaning Service Inc",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "contractor",
+        "house"
+    ]
+},
+  "bbox": [
+    -82.274053,
+    37.60139,
+    -82.274053,
+    37.60139
+],
+  "geometry": {"coordinates":[-82.27405299999999,37.60139],"type":"Point"}
+}

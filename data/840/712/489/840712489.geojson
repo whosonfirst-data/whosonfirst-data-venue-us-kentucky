@@ -1,0 +1,73 @@
+{
+  "id": 840712489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.715564,38.175694,-85.715564,38.175694",
+    "geom:latitude":38.175694,
+    "geom:longitude":-85.715564,
+    "iso:country":"US",
+    "sg:address":"1127 Orchard Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 6011",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dOr2JNFdrzh8k81Zlh1TY_38.175694_-85.715564@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046352,
+    "wof:geomhash":"f01b31799222af4b4b472977178422e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840712489
+        }
+    ],
+    "wof:id":840712489,
+    "wof:lastmodified":1464046352,
+    "wof:name":"Edgewood Fire District",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.715564,
+    38.175694,
+    -85.715564,
+    38.175694
+],
+  "geometry": {"coordinates":[-85.715564,38.175694],"type":"Point"}
+}

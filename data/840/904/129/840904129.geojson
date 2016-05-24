@@ -1,0 +1,71 @@
+{
+  "id": 840904129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.584208,37.905388,-84.584208,37.905388",
+    "geom:latitude":37.905388,
+    "geom:longitude":-84.584208,
+    "iso:country":"US",
+    "sg:address":"229 Woodview Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 7441",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MtWjKubBIBzvbluuppnS5_37.905388_-84.584208@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050578,
+    "wof:geomhash":"bee549042db2fa20e4d9856f4235c388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840904129
+        }
+    ],
+    "wof:id":840904129,
+    "wof:lastmodified":1464050578,
+    "wof:name":"Burnside Homes",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -84.584208,
+    37.905388,
+    -84.584208,
+    37.905388
+],
+  "geometry": {"coordinates":[-84.584208,37.905388],"type":"Point"}
+}

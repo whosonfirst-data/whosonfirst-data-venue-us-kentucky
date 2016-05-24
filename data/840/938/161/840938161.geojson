@@ -1,0 +1,71 @@
+{
+  "id": 840938161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.355476,37.886508,-84.355476,37.886508",
+    "geom:latitude":37.886508,
+    "geom:longitude":-84.355476,
+    "iso:country":"US",
+    "sg:address":"108 Avawam Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 6605",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32J3vtSznenFk1Y9Ixejci_37.886508_-84.355476@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051410,
+    "wof:geomhash":"3203f235c876a38ade586579a793a7ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840938161
+        }
+    ],
+    "wof:id":840938161,
+    "wof:lastmodified":1464051410,
+    "wof:name":"Boone's Trace",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -84.355476,
+    37.886508,
+    -84.355476,
+    37.886508
+],
+  "geometry": {"coordinates":[-84.355476,37.886508],"type":"Point"}
+}

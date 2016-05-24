@@ -1,0 +1,71 @@
+{
+  "id": 840829341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.850896,37.702027,-85.850896,37.702027",
+    "geom:latitude":37.702027,
+    "geom:longitude":-85.850896,
+    "iso:country":"US",
+    "sg:address":"115 Patterson St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4342",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77DJM7warzZYn2yHnGjHqc_37.702027_-85.850896@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048992,
+    "wof:geomhash":"ba3d6683e16c00de1335888eeb4d665a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840829341
+        }
+    ],
+    "wof:id":840829341,
+    "wof:lastmodified":1464048992,
+    "wof:name":"Juliana Wise Jones & Assoc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraising"
+    ]
+},
+  "bbox": [
+    -85.850896,
+    37.702027,
+    -85.850896,
+    37.702027
+],
+  "geometry": {"coordinates":[-85.85089600000001,37.702027],"type":"Point"}
+}

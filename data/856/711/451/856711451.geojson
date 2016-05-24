@@ -1,0 +1,69 @@
+{
+  "id": 856711451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.777742,38.248472,-85.777742,38.248472",
+    "geom:latitude":38.248472,
+    "geom:longitude":-85.777742,
+    "iso:country":"US",
+    "sg:address":"1535 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 4622",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:website":"www.lul.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WB9XNwAPes6i1GSzGG2In_38.248472_-85.777742@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052295,
+    "wof:geomhash":"cb0d5a4915d1f3fe000aa4705a3595c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856711451
+        }
+    ],
+    "wof:id":856711451,
+    "wof:lastmodified":1464052295,
+    "wof:name":"Louisville Urban League",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.777742,
+    38.248472,
+    -85.777742,
+    38.248472
+],
+  "geometry": {"coordinates":[-85.777742,38.248472],"type":"Point"}
+}

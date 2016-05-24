@@ -1,0 +1,82 @@
+{
+  "id": 856736391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43444,36.970805,-86.43444,36.970805",
+    "geom:latitude":36.970805,
+    "geom:longitude":-86.43444,
+    "iso:country":"US",
+    "sg:address":"1660 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/229705-dooleys-bagels--deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3354",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43morAIqSdOb75FoZdG8um_36.970805_-86.434440@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053238,
+    "wof:geomhash":"359afaa821dcd8d6e97ad9a1528a195a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":856736391
+        }
+    ],
+    "wof:id":856736391,
+    "wof:lastmodified":1464053238,
+    "wof:name":"Dooley's Bagels & Deli",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -86.43444,
+    36.970805,
+    -86.43444,
+    36.970805
+],
+  "geometry": {"coordinates":[-86.43444,36.970805],"type":"Point"}
+}

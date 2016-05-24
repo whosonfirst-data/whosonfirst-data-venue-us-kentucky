@@ -1,0 +1,73 @@
+{
+  "id": 840776869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.618366,37.093056,-88.618366,37.093056",
+    "geom:latitude":37.093056,
+    "geom:longitude":-88.618366,
+    "iso:country":"US",
+    "sg:address":"1350 N 10th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8243",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ezHGpAOOD1jSvNsuhsz1N_37.093056_-88.618366@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047701,
+    "wof:geomhash":"1c3e7922b7d551301d85c2700f1d29b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840776869
+        }
+    ],
+    "wof:id":840776869,
+    "wof:lastmodified":1464047701,
+    "wof:name":"US Foodservice",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -88.618366,
+    37.093056,
+    -88.618366,
+    37.093056
+],
+  "geometry": {"coordinates":[-88.61836599999999,37.093056],"type":"Point"}
+}

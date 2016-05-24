@@ -1,0 +1,71 @@
+{
+  "id": 840823577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583948,37.848713,-87.583948,37.848713",
+    "geom:latitude":37.848713,
+    "geom:longitude":-87.583948,
+    "iso:country":"US",
+    "sg:address":"330 9th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3843",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5efGeQMWAd6Z981jZHavwY_37.848713_-87.583948@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048861,
+    "wof:geomhash":"43f7ca61a3466422a71e8c279c43dd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840823577
+        }
+    ],
+    "wof:id":840823577,
+    "wof:lastmodified":1464048861,
+    "wof:name":"Cutting Up Beauty & Tanning",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.583948,
+    37.848713,
+    -87.583948,
+    37.848713
+],
+  "geometry": {"coordinates":[-87.58394800000001,37.848713],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840805603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.634823,37.17894,-84.634823,37.17894",
+    "geom:latitude":37.17894,
+    "geom:longitude":-84.634823,
+    "iso:country":"US",
+    "sg:address":"823 Stanford St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3672",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p46Biogc92sD1f4rJDQ8A_37.178940_-84.634823@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048309,
+    "wof:geomhash":"7f57c5b2d6cd80dc114ea30cc232d4cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840805603
+        }
+    ],
+    "wof:id":840805603,
+    "wof:lastmodified":1464048309,
+    "wof:name":"Science Hill City Police",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.634823,
+    37.17894,
+    -84.634823,
+    37.17894
+],
+  "geometry": {"coordinates":[-84.634823,37.17894],"type":"Point"}
+}

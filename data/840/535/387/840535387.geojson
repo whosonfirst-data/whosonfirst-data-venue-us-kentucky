@@ -1,0 +1,75 @@
+{
+  "id": 840535387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.789419,38.178252,-85.789419,38.178252",
+    "geom:latitude":38.178252,
+    "geom:longitude":-85.789419,
+    "iso:country":"US",
+    "sg:address":"4333 Hazelwood Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 2424",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "elementary",
+        "catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tO7k7sEg0kRum4yFawPHJ_38.178252_-85.789419@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042101,
+    "wof:geomhash":"32734ce6c414792c8d20cea97efc5b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":840535387
+        }
+    ],
+    "wof:id":840535387,
+    "wof:lastmodified":1464042101,
+    "wof:name":"St Simon & Jude School",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "catholic"
+    ]
+},
+  "bbox": [
+    -85.789419,
+    38.178252,
+    -85.789419,
+    38.178252
+],
+  "geometry": {"coordinates":[-85.789419,38.178252],"type":"Point"}
+}

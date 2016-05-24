@@ -1,0 +1,95 @@
+{
+  "id": 856753539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518985,38.004612,-84.518985,38.004612",
+    "geom:latitude":38.004612,
+    "geom:longitude":-84.518985,
+    "iso:country":"US",
+    "sg:address":"2348 Nicholasville Rd Suite 140",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 329 9225",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "laser",
+        "correction",
+        "surgeons",
+        "ophthalmology",
+        "surgeon",
+        "vision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sAeQXq9QC3eIwqRILtnBc_38.004612_-84.518985@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053892,
+    "wof:geomhash":"5c9567fbc502f3b1eb13341a5a5f1b61",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856753539
+        }
+    ],
+    "wof:id":856753539,
+    "wof:lastmodified":1464053892,
+    "wof:name":"LasikPlus Eye Care",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "laser",
+        "correction",
+        "surgeons",
+        "ophthalmology",
+        "surgeon",
+        "vision"
+    ]
+},
+  "bbox": [
+    -84.518985,
+    38.004612,
+    -84.518985,
+    38.004612
+],
+  "geometry": {"coordinates":[-84.518985,38.004612],"type":"Point"}
+}

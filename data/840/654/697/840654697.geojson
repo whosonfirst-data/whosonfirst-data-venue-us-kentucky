@@ -1,0 +1,71 @@
+{
+  "id": 840654697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773044,39.01345,-84.773044,39.01345",
+    "geom:latitude":39.01345,
+    "geom:longitude":-84.773044,
+    "iso:country":"US",
+    "sg:address":"5946 Vice Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 7998",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqOxugZy4V2OzC3gdzGtQ_39.013450_-84.773044@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044996,
+    "wof:geomhash":"50d7924481fa3cd213391dad735f566b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840654697
+        }
+    ],
+    "wof:id":840654697,
+    "wof:lastmodified":1464044996,
+    "wof:name":"Air America",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.773044,
+    39.01345,
+    -84.773044,
+    39.01345
+],
+  "geometry": {"coordinates":[-84.773044,39.01345],"type":"Point"}
+}

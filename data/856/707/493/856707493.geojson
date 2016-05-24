@@ -1,0 +1,71 @@
+{
+  "id": 856707493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.103563,37.547222,-82.103563,37.547222",
+    "geom:latitude":37.547222,
+    "geom:longitude":-82.103563,
+    "iso:country":"US",
+    "sg:address":"47700 State Hwy 194 E",
+    "sg:city":"Majestic",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 3645",
+    "sg:postcode":"41547",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpVDOy7AFUGyfVVLb0jPT_37.547222_-82.103563@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052220,
+    "wof:geomhash":"6c576979a0d9e556a5524c1b18ac64cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856707493
+        }
+    ],
+    "wof:id":856707493,
+    "wof:lastmodified":1464052220,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -82.103563,
+    37.547222,
+    -82.103563,
+    37.547222
+],
+  "geometry": {"coordinates":[-82.10356299999999,37.547222],"type":"Point"}
+}

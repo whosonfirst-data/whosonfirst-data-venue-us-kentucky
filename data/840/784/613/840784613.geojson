@@ -1,0 +1,75 @@
+{
+  "id": 840784613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.373723,36.627343,-87.373723,36.627343",
+    "geom:latitude":36.627343,
+    "geom:longitude":-87.373723,
+    "iso:country":"US",
+    "sg:address":"1230 Tiny Town Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 503 9043",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85810067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mxQtNTUhrNMDDKhOc1GsK_36.627343_-87.373723@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047850,
+    "wof:geomhash":"903d256f46da6ef7af07818caaa3639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85810067,
+            "region_id":85688701,
+            "venue_id":840784613
+        }
+    ],
+    "wof:id":840784613,
+    "wof:lastmodified":1464047850,
+    "wof:name":"Hiller Plumbing",
+    "wof:parent_id":85810067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.373723,
+    36.627343,
+    -87.373723,
+    36.627343
+],
+  "geometry": {"coordinates":[-87.373723,36.627343],"type":"Point"}
+}

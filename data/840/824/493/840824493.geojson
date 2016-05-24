@@ -1,0 +1,73 @@
+{
+  "id": 840824493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652361,38.015358,-85.652361,38.015358",
+    "geom:latitude":38.015358,
+    "geom:longitude":-85.652361,
+    "iso:country":"US",
+    "sg:address":"386 Foster Ln",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4223",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_780OlMb0vYllLS1JCe8Itr_38.015358_-85.652361@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048881,
+    "wof:geomhash":"8d4998b6f6f07fbd1bb4e4b1fb4bfce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840824493
+        }
+    ],
+    "wof:id":840824493,
+    "wof:lastmodified":1464048881,
+    "wof:name":"Air-Craft Heating Air Cond",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.652361,
+    38.015358,
+    -85.652361,
+    38.015358
+],
+  "geometry": {"coordinates":[-85.652361,38.015358],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840570799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.631565,37.860852,-84.631565,37.860852",
+    "geom:latitude":37.860852,
+    "geom:longitude":-84.631565,
+    "iso:country":"US",
+    "sg:address":"3925 Frankfort-Ford Rd",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3227",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bSvAKUIfwSeRqqVoxLkN_37.860852_-84.631565@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043006,
+    "wof:geomhash":"e3e6177c2d3cc25eb74cb33d01f6eac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840570799
+        }
+    ],
+    "wof:id":840570799,
+    "wof:lastmodified":1464043006,
+    "wof:name":"Expert Estimating",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -84.631565,
+    37.860852,
+    -84.631565,
+    37.860852
+],
+  "geometry": {"coordinates":[-84.63156499999999,37.860852],"type":"Point"}
+}

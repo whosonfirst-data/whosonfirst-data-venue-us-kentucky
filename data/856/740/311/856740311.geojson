@@ -1,0 +1,97 @@
+{
+  "id": 856740311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.767287,38.243886,-85.767287,38.243886",
+    "geom:latitude":38.243886,
+    "geom:longitude":-85.767287,
+    "iso:country":"US",
+    "sg:address":"830 S 9th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Piercing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 8496",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "scooters-repairing",
+        "all-terrain",
+        "watercraft",
+        "scooters-parts",
+        "supply"
+    ],
+    "sg:website":"http://www.stationparkhonda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0knOJiGj375fQq1X0MD5L5_38.243886_-85.767287@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053395,
+    "wof:geomhash":"6ca29a8e08cedaad594970a250605a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":856740311
+        }
+    ],
+    "wof:id":856740311,
+    "wof:lastmodified":1464053395,
+    "wof:name":"Station Park Honda",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "all-terrain",
+        "watercraft",
+        "scooters-parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.767287,
+    38.243886,
+    -85.767287,
+    38.243886
+],
+  "geometry": {"coordinates":[-85.767287,38.243886],"type":"Point"}
+}

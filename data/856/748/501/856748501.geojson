@@ -1,0 +1,103 @@
+{
+  "id": 856748501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.51062,38.253941,-85.51062,38.253941",
+    "geom:latitude":38.253941,
+    "geom:longitude":-85.51062,
+    "iso:country":"US",
+    "sg:address":"13100 Aiken Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 0071",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management",
+        "warehouses-merchandise",
+        "records-storage",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "document",
+        "self",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lSR1AOc70rbQdLomNX7ZG_38.253941_-85.510620@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053693,
+    "wof:geomhash":"d6442a75e2c31e6f0a3970c980acc0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856748501
+        }
+    ],
+    "wof:id":856748501,
+    "wof:lastmodified":1464053693,
+    "wof:name":"Aiken Road Suburban East Ministorage",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "warehouses-merchandise",
+        "records-storage",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "document",
+        "self",
+        "boat"
+    ]
+},
+  "bbox": [
+    -85.51062,
+    38.253941,
+    -85.51062,
+    38.253941
+],
+  "geometry": {"coordinates":[-85.51062,38.253941],"type":"Point"}
+}

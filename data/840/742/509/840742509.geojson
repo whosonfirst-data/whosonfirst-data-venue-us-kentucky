@@ -1,0 +1,71 @@
+{
+  "id": 840742509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583856,37.846411,-87.583856,37.846411",
+    "geom:latitude":37.846411,
+    "geom:longitude":-87.583856,
+    "iso:country":"US",
+    "sg:address":"706 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 9193",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XOpBQBUfcevRUzp8T5YfQ_37.846411_-87.583856@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046942,
+    "wof:geomhash":"c677e8b5a812588059e9f162904bbea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840742509
+        }
+    ],
+    "wof:id":840742509,
+    "wof:lastmodified":1464046942,
+    "wof:name":"Henderson County Conservation",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -87.583856,
+    37.846411,
+    -87.583856,
+    37.846411
+],
+  "geometry": {"coordinates":[-87.583856,37.846411],"type":"Point"}
+}

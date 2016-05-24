@@ -1,0 +1,86 @@
+{
+  "id": 856739127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756848,38.254859,-85.756848,38.254859",
+    "geom:latitude":38.254859,
+    "geom:longitude":-85.756848,
+    "iso:country":"US",
+    "sg:address":"224 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 815 6600",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37no5I25iuK2yCqZX7JRn7_38.254859_-85.756848@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053347,
+    "wof:geomhash":"7e834b9fc8f70776d80bc7feb4c55fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856739127
+        }
+    ],
+    "wof:id":856739127,
+    "wof:lastmodified":1464053347,
+    "wof:name":"Ccpi",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -85.756848,
+    38.254859,
+    -85.756848,
+    38.254859
+],
+  "geometry": {"coordinates":[-85.75684800000001,38.254859],"type":"Point"}
+}

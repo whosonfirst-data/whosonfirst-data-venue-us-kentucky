@@ -1,0 +1,71 @@
+{
+  "id": 840543967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.737085,37.666225,-84.737085,37.666225",
+    "geom:latitude":37.666225,
+    "geom:longitude":-84.737085,
+    "iso:country":"US",
+    "sg:address":"2385 Lexington Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4401",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TuWMRzHjIttME20ZtlsFd_37.666225_-84.737085@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042329,
+    "wof:geomhash":"1af3ea11ff1c29ac6426ce50259df851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840543967
+        }
+    ],
+    "wof:id":840543967,
+    "wof:lastmodified":1464042329,
+    "wof:name":"Danville Animal Clinic",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.737085,
+    37.666225,
+    -84.737085,
+    37.666225
+],
+  "geometry": {"coordinates":[-84.73708499999999,37.666225],"type":"Point"}
+}

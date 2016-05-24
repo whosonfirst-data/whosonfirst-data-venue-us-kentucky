@@ -1,0 +1,73 @@
+{
+  "id": 840956119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.365785,36.96466,-86.365785,36.96466",
+    "geom:latitude":36.96466,
+    "geom:longitude":-86.365785,
+    "iso:country":"US",
+    "sg:address":"214 S B Thomas Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4976",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "refrigeration",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18L6TPznshzP7j2YHV2zXt_36.964660_-86.365785@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051763,
+    "wof:geomhash":"988af73b317f34e2c7cff2f006c7ae1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840956119
+        }
+    ],
+    "wof:id":840956119,
+    "wof:lastmodified":1464051763,
+    "wof:name":"Cline Refrigeration Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.365785,
+    36.96466,
+    -86.365785,
+    36.96466
+],
+  "geometry": {"coordinates":[-86.365785,36.96466],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840704457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.424773,36.928844,-86.424773,36.928844",
+    "geom:latitude":36.928844,
+    "geom:longitude":-86.424773,
+    "iso:country":"US",
+    "sg:address":"171 Sutherland Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2002",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aNTnpDXiFX6J9yJc2EKvg_36.928844_-86.424773@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046192,
+    "wof:geomhash":"29aab59c233966ec6b72b1f2c842fcab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840704457
+        }
+    ],
+    "wof:id":840704457,
+    "wof:lastmodified":1464046192,
+    "wof:name":"Ace Storage Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -86.424773,
+    36.928844,
+    -86.424773,
+    36.928844
+],
+  "geometry": {"coordinates":[-86.424773,36.928844],"type":"Point"}
+}

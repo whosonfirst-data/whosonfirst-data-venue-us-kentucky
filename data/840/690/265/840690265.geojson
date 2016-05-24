@@ -1,0 +1,73 @@
+{
+  "id": 840690265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.287097,37.744451,-84.287097,37.744451",
+    "geom:latitude":37.744451,
+    "geom:longitude":-84.287097,
+    "iso:country":"US",
+    "sg:address":"715 E Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1007",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68IlYQlU4B7DzF2JZEYskw_37.744451_-84.287097@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045823,
+    "wof:geomhash":"d8eacdd592904ddf1f1cfa8c6044cf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840690265
+        }
+    ],
+    "wof:id":840690265,
+    "wof:lastmodified":1464045823,
+    "wof:name":"Cash 4 Pawn",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -84.287097,
+    37.744451,
+    -84.287097,
+    37.744451
+],
+  "geometry": {"coordinates":[-84.287097,37.744451],"type":"Point"}
+}

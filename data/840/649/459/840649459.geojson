@@ -1,0 +1,73 @@
+{
+  "id": 840649459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.651354,37.083801,-88.651354,37.083801",
+    "geom:latitude":37.083801,
+    "geom:longitude":-88.651354,
+    "iso:country":"US",
+    "sg:address":"3239 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9609",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yBX3tEeaFcbXBy8AbU4hf_37.083801_-88.651354@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044871,
+    "wof:geomhash":"c65a84f108834362917e2e37d74252a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840649459
+        }
+    ],
+    "wof:id":840649459,
+    "wof:lastmodified":1464044871,
+    "wof:name":"Express Lube Inc",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -88.651354,
+    37.083801,
+    -88.651354,
+    37.083801
+],
+  "geometry": {"coordinates":[-88.651354,37.083801],"type":"Point"}
+}

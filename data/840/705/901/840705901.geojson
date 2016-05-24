@@ -1,0 +1,73 @@
+{
+  "id": 840705901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.948218,38.000299,-85.948218,38.000299",
+    "geom:latitude":38.000299,
+    "geom:longitude":-85.948218,
+    "iso:country":"US",
+    "sg:address":"508 Elm St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 4586",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85826355,
+        102084595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RQKICmvSZIeqhRCxXoENF_38.000299_-85.948218@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046222,
+    "wof:geomhash":"5afaf28ed82188495cf396fecd46fc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "neighbourhood_id":85826355,
+            "region_id":85688641,
+            "venue_id":840705901
+        }
+    ],
+    "wof:id":840705901,
+    "wof:lastmodified":1464046222,
+    "wof:name":"Westpoint Head Start",
+    "wof:parent_id":85826355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -85.948218,
+    38.000299,
+    -85.948218,
+    38.000299
+],
+  "geometry": {"coordinates":[-85.948218,38.000299],"type":"Point"}
+}

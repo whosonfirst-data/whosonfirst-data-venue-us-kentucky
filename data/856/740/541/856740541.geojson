@@ -1,0 +1,73 @@
+{
+  "id": 856740541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.750023,38.230991,-85.750023,38.230991",
+    "geom:latitude":38.230991,
+    "geom:longitude":-85.750023,
+    "iso:country":"US",
+    "sg:address":"400 E Ormsby Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 396 6450",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j61s9I3IzUNN7pE1ayAow_38.230991_-85.750023@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053408,
+    "wof:geomhash":"2d010ab65ab2cb85d6c8010ebf9ce548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":856740541
+        }
+    ],
+    "wof:id":856740541,
+    "wof:lastmodified":1464053408,
+    "wof:name":"David Kochera Electric",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.750023,
+    38.230991,
+    -85.750023,
+    38.230991
+],
+  "geometry": {"coordinates":[-85.750023,38.230991],"type":"Point"}
+}

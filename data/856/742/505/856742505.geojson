@@ -1,0 +1,68 @@
+{
+  "id": 856742505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636285,38.278106,-85.636285,38.278106",
+    "geom:latitude":38.278106,
+    "geom:longitude":-85.636285,
+    "iso:country":"US",
+    "sg:address":"4852 Brownsboro Ctr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 2670",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gdtaSVbU7rr0KhrdtULgM_38.278106_-85.636285@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053476,
+    "wof:geomhash":"e23b3e9be237ca6ed190202f24c91e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856742505
+        }
+    ],
+    "wof:id":856742505,
+    "wof:lastmodified":1464053476,
+    "wof:name":"Brownsboro Center Barber Shop",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.636285,
+    38.278106,
+    -85.636285,
+    38.278106
+],
+  "geometry": {"coordinates":[-85.636285,38.278106],"type":"Point"}
+}

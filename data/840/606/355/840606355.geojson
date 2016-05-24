@@ -1,0 +1,73 @@
+{
+  "id": 840606355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.776127,38.857877,-84.776127,38.857877",
+    "geom:latitude":38.857877,
+    "geom:longitude":-84.776127,
+    "iso:country":"US",
+    "sg:address":"14036 Boat Dock Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 384 1713",
+    "sg:postcode":"41091",
+    "sg:province":"KY",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75KDRzrPIwFAaPpkwfB4u3_38.857877_-84.776127@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043807,
+    "wof:geomhash":"c39d13b0cc53228acfe754a4d35d56db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840606355
+        }
+    ],
+    "wof:id":840606355,
+    "wof:lastmodified":1464043807,
+    "wof:name":"Big Bone Landing Marina",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.776127,
+    38.857877,
+    -84.776127,
+    38.857877
+],
+  "geometry": {"coordinates":[-84.776127,38.857877],"type":"Point"}
+}

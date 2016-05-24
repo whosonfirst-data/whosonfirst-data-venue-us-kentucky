@@ -1,0 +1,73 @@
+{
+  "id": 840945981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.809441,37.06661,-88.809441,37.06661",
+    "geom:latitude":37.06661,
+    "geom:longitude":-88.809441,
+    "iso:country":"US",
+    "sg:address":"3565 Kelley Rd",
+    "sg:city":"Kevil",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 488 3834",
+    "sg:postcode":"42053",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fThZ519TVbvH5JZaz3uX9_37.066610_-88.809441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051570,
+    "wof:geomhash":"a710790b70cd646888db78578363f186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840945981
+        }
+    ],
+    "wof:id":840945981,
+    "wof:lastmodified":1464051570,
+    "wof:name":"Cathey's Auto Repair",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.809441,
+    37.06661,
+    -88.809441,
+    37.06661
+],
+  "geometry": {"coordinates":[-88.80944100000001,37.06661],"type":"Point"}
+}

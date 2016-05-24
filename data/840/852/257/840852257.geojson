@@ -1,0 +1,71 @@
+{
+  "id": 840852257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576515,37.869994,-84.576515,37.869994",
+    "geom:latitude":37.869994,
+    "geom:longitude":-84.576515,
+    "iso:country":"US",
+    "sg:address":"104 Shannon Pkwy",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4425",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zMmS1DPxlRkMD1RfKo1C7_37.869994_-84.576515@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049492,
+    "wof:geomhash":"208a0d92da0c48032f1eb1aa058d564f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840852257
+        }
+    ],
+    "wof:id":840852257,
+    "wof:lastmodified":1464049492,
+    "wof:name":"C M Auto Repair",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.576515,
+    37.869994,
+    -84.576515,
+    37.869994
+],
+  "geometry": {"coordinates":[-84.576515,37.869994],"type":"Point"}
+}

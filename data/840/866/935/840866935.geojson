@@ -1,0 +1,74 @@
+{
+  "id": 840866935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.50597,36.991428,-86.50597,36.991428",
+    "geom:latitude":36.991428,
+    "geom:longitude":-86.50597,
+    "iso:country":"US",
+    "sg:address":"331 Brookwood Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2756",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "institution"
+    ],
+    "sg:website":"www.bellwood.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_269ZPlfQWEb5pD5ox3er0P_36.991428_-86.505970@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049795,
+    "wof:geomhash":"f039aefdb730042a0c335523b7a77378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840866935
+        }
+    ],
+    "wof:id":840866935,
+    "wof:lastmodified":1464049795,
+    "wof:name":"Bellwood Presbyterian Home",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "institution"
+    ]
+},
+  "bbox": [
+    -86.50597,
+    36.991428,
+    -86.50597,
+    36.991428
+],
+  "geometry": {"coordinates":[-86.50597,36.991428],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840783009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695056,37.082146,-88.695056,37.082146",
+    "geom:latitude":37.082146,
+    "geom:longitude":-88.695056,
+    "iso:country":"US",
+    "sg:address":"3566 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 0564",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZRGlsurZNoHglzAgwtd5d_37.082146_-88.695056@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047819,
+    "wof:geomhash":"35992635e09c377ff63b8e46eea162bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840783009
+        }
+    ],
+    "wof:id":840783009,
+    "wof:lastmodified":1464047819,
+    "wof:name":"Spirit Of Truth Ministries",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.695056,
+    37.082146,
+    -88.695056,
+    37.082146
+],
+  "geometry": {"coordinates":[-88.69505599999999,37.082146],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856700331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86453,37.712354,-85.86453,37.712354",
+    "geom:latitude":37.712354,
+    "geom:longitude":-85.86453,
+    "iso:country":"US",
+    "sg:address":"705 Freeman Lake Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 0775",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lDCgoC2JTHB9KyEdLPW7q_37.712354_-85.864530@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052062,
+    "wof:geomhash":"7187bd46ed7b2306f0644438eb738552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856700331
+        }
+    ],
+    "wof:id":856700331,
+    "wof:lastmodified":1464052062,
+    "wof:name":"Nautilus",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -85.86453,
+    37.712354,
+    -85.86453,
+    37.712354
+],
+  "geometry": {"coordinates":[-85.86453,37.712354],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 856761265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.672279,37.052361,-88.672279,37.052361",
+    "geom:latitude":37.052361,
+    "geom:longitude":-88.672279,
+    "iso:country":"US",
+    "sg:address":"100 Kiana Ct",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 0011",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "cancer",
+        "surgeons",
+        "hematology",
+        "blood",
+        "surgeon",
+        "treatment"
+    ],
+    "sg:website":"http://www.purchasecancergroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_431szrESIbf11rOE8fwed1_37.052361_-88.672279@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"791ecac2ff299eff67a5e7b23802a8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761265
+        }
+    ],
+    "wof:id":856761265,
+    "wof:lastmodified":1464054170,
+    "wof:name":"Purchase Cancer Group",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "cancer",
+        "surgeons",
+        "hematology",
+        "blood",
+        "surgeon",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -88.672279,
+    37.052361,
+    -88.672279,
+    37.052361
+],
+  "geometry": {"coordinates":[-88.672279,37.052361],"type":"Point"}
+}

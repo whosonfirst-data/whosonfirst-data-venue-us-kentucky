@@ -1,0 +1,73 @@
+{
+  "id": 840590449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.504159,36.983708,-86.504159,36.983708",
+    "geom:latitude":36.983708,
+    "geom:longitude":-86.504159,
+    "iso:country":"US",
+    "sg:address":"971 Brookwood Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3413",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LWLoZvYllRpE65qTRVxYt_36.983708_-86.504159@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043433,
+    "wof:geomhash":"f760e5d1df9edbeca61f2cdf65f105e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840590449
+        }
+    ],
+    "wof:id":840590449,
+    "wof:lastmodified":1464043433,
+    "wof:name":"All-State Mobile Home Trnsprtn",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -86.504159,
+    36.983708,
+    -86.504159,
+    36.983708
+],
+  "geometry": {"coordinates":[-86.504159,36.983708],"type":"Point"}
+}

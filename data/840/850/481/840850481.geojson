@@ -1,0 +1,73 @@
+{
+  "id": 840850481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43602,36.997432,-86.43602,36.997432",
+    "geom:latitude":36.997432,
+    "geom:longitude":-86.43602,
+    "iso:country":"US",
+    "sg:address":"460 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 529 2042",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nRoGfdG6y0V5EGf57I1gP_36.997432_-86.436020@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049449,
+    "wof:geomhash":"115f6583961ec5ed28dd5208acaf0f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840850481
+        }
+    ],
+    "wof:id":840850481,
+    "wof:lastmodified":1464049449,
+    "wof:name":"Hopkins Nursing Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -86.43602,
+    36.997432,
+    -86.43602,
+    36.997432
+],
+  "geometry": {"coordinates":[-86.43602,36.997432],"type":"Point"}
+}

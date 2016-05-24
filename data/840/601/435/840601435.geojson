@@ -1,0 +1,73 @@
+{
+  "id": 840601435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.588276,38.239425,-85.588276,38.239425",
+    "geom:latitude":38.239425,
+    "geom:longitude":-85.588276,
+    "iso:country":"US",
+    "sg:address":"9000 Hurstbourne Club Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 0094",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cemxbh2ayh6ZOJj48aGsj_38.239425_-85.588276@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043689,
+    "wof:geomhash":"b05e39ba1771d1565ea44c1b9874ab0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840601435
+        }
+    ],
+    "wof:id":840601435,
+    "wof:lastmodified":1464043689,
+    "wof:name":"Hurstbourne Country Club",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -85.588276,
+    38.239425,
+    -85.588276,
+    38.239425
+],
+  "geometry": {"coordinates":[-85.58827599999999,38.239425],"type":"Point"}
+}

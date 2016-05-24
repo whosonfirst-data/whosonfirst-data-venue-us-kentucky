@@ -1,0 +1,78 @@
+{
+  "id": 840830001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659845,38.165867,-85.659845,38.165867",
+    "geom:latitude":38.165867,
+    "geom:longitude":-85.659845,
+    "iso:country":"US",
+    "sg:address":"5670 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 961 0525",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stairway",
+        "moving",
+        "elevator"
+    ],
+    "sg:website":"www.thyssenkruppelevator.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25btYRQUHocASSiTrBvpCg_38.165867_-85.659845@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049007,
+    "wof:geomhash":"ba93a4093b8535985bc65bba85793056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840830001
+        }
+    ],
+    "wof:id":840830001,
+    "wof:lastmodified":1464049007,
+    "wof:name":"Thyssen Krupp Elevator",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stairway",
+        "moving",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -85.659845,
+    38.165867,
+    -85.659845,
+    38.165867
+],
+  "geometry": {"coordinates":[-85.659845,38.165867],"type":"Point"}
+}

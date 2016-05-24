@@ -1,0 +1,68 @@
+{
+  "id": 840743269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.77917,38.161618,-85.77917,38.161618",
+    "geom:latitude":38.161618,
+    "geom:longitude":-85.77917,
+    "iso:country":"US",
+    "sg:address":"801 W Kenwood Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 375 1888",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yQ0QJgxHg1Xr2GLPaZrzc_38.161618_-85.779170@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046955,
+    "wof:geomhash":"d7479962b59d8c12705bd7dc86eb8883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840743269
+        }
+    ],
+    "wof:id":840743269,
+    "wof:lastmodified":1464046955,
+    "wof:name":"Jimbo's Barbecue",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.77917,
+    38.161618,
+    -85.77917,
+    38.161618
+],
+  "geometry": {"coordinates":[-85.77916999999999,38.161618],"type":"Point"}
+}

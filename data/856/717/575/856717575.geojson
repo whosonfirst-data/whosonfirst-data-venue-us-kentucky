@@ -1,0 +1,71 @@
+{
+  "id": 856717575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435552,37.000552,-86.435552,37.000552",
+    "geom:latitude":37.000552,
+    "geom:longitude":-86.435552,
+    "iso:country":"US",
+    "sg:address":"225 E 3rd Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 3610",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VcoVViOcDXtWNsN7IeuBz_37.000552_-86.435552@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052489,
+    "wof:geomhash":"552e6a436102ce717e9e396f9f46b450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856717575
+        }
+    ],
+    "wof:id":856717575,
+    "wof:lastmodified":1464052489,
+    "wof:name":"Bowling Green Beautification",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -86.435552,
+    37.000552,
+    -86.435552,
+    37.000552
+],
+  "geometry": {"coordinates":[-86.435552,37.000552],"type":"Point"}
+}

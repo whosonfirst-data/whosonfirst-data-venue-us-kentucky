@@ -1,0 +1,75 @@
+{
+  "id": 840821561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.753457,38.238256,-85.753457,38.238256",
+    "geom:latitude":38.238256,
+    "geom:longitude":-85.753457,
+    "iso:country":"US",
+    "sg:address":"101 E Kentucky St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 1627",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DIXmOWDeC39Pdk2ZfqMIb_38.238256_-85.753457@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048795,
+    "wof:geomhash":"fc36f0914519ab543b6a60c4ac9762c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840821561
+        }
+    ],
+    "wof:id":840821561,
+    "wof:lastmodified":1464048795,
+    "wof:name":"Coulter Reporting LLC",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -85.753457,
+    38.238256,
+    -85.753457,
+    38.238256
+],
+  "geometry": {"coordinates":[-85.753457,38.238256],"type":"Point"}
+}

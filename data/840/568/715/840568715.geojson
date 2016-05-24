@@ -1,0 +1,75 @@
+{
+  "id": 840568715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65388,38.247588,-85.65388,38.247588",
+    "geom:latitude":38.247588,
+    "geom:longitude":-85.65388,
+    "iso:country":"US",
+    "sg:address":"3712 Grandview Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 0467",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "personal",
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fCGdkhFnbcJWruLz2BJMU_38.247588_-85.653880@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042945,
+    "wof:geomhash":"31a534ee98752e333903a3e5e220d896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840568715
+        }
+    ],
+    "wof:id":840568715,
+    "wof:lastmodified":1464042945,
+    "wof:name":"Nature's Harvest",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -85.65388,
+    38.247588,
+    -85.65388,
+    38.247588
+],
+  "geometry": {"coordinates":[-85.65388,38.247588],"type":"Point"}
+}

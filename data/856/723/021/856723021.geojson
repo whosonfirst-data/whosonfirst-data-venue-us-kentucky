@@ -1,0 +1,73 @@
+{
+  "id": 856723021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.570984,37.042383,-88.570984,37.042383",
+    "geom:latitude":37.042383,
+    "geom:longitude":-88.570984,
+    "iso:country":"US",
+    "sg:address":"3216 Hovekamp Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 2433",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rwn6mmOZ6PJ61Tn84ATNp_37.042383_-88.570984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052711,
+    "wof:geomhash":"8f2dc54a0fd6ade7096ead0c4d3a292c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856723021
+        }
+    ],
+    "wof:id":856723021,
+    "wof:lastmodified":1464052711,
+    "wof:name":"United Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.570984,
+    37.042383,
+    -88.570984,
+    37.042383
+],
+  "geometry": {"coordinates":[-88.570984,37.042383],"type":"Point"}
+}

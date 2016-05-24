@@ -1,0 +1,71 @@
+{
+  "id": 840545557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.524182,36.996887,-88.524182,36.996887",
+    "geom:latitude":36.996887,
+    "geom:longitude":-88.524182,
+    "iso:country":"US",
+    "sg:address":"24 Greenwood Pl",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8123",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZR1e465XV1Bbxl9JwRbm3_36.996887_-88.524182@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042386,
+    "wof:geomhash":"63aeedb3c3ca07e92ef40b7df5896377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840545557
+        }
+    ],
+    "wof:id":840545557,
+    "wof:lastmodified":1464042386,
+    "wof:name":"CFL Leasing Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -88.524182,
+    36.996887,
+    -88.524182,
+    36.996887
+],
+  "geometry": {"coordinates":[-88.524182,36.996887],"type":"Point"}
+}

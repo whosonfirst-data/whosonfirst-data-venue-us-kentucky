@@ -1,0 +1,72 @@
+{
+  "id": 856736961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.621635,37.066213,-84.621635,37.066213",
+    "geom:latitude":37.066213,
+    "geom:longitude":-84.621635,
+    "iso:country":"US",
+    "sg:address":"300 Sam Walton Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/120728-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 1569",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hdkEcpYOYmcAeiyuBukNU_37.066213_-84.621635@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053256,
+    "wof:geomhash":"8d3faf72efc1ef0d97ecd86637683e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856736961
+        }
+    ],
+    "wof:id":856736961,
+    "wof:lastmodified":1464053256,
+    "wof:name":"Subway",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.621635,
+    37.066213,
+    -84.621635,
+    37.066213
+],
+  "geometry": {"coordinates":[-84.621635,37.066213],"type":"Point"}
+}

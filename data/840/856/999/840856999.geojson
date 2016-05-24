@@ -1,0 +1,73 @@
+{
+  "id": 840856999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.828463,37.669902,-85.828463,37.669902",
+    "geom:latitude":37.669902,
+    "geom:longitude":-85.828463,
+    "iso:country":"US",
+    "sg:address":"988 Locust Grove Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2929",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21cXORe2sdwfeNQI6qfa51_37.669902_-85.828463@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049588,
+    "wof:geomhash":"18bfdbdef96db8396ae3112b01e07d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840856999
+        }
+    ],
+    "wof:id":840856999,
+    "wof:lastmodified":1464049588,
+    "wof:name":"Atteberry Excavating Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.828463,
+    37.669902,
+    -85.828463,
+    37.669902
+],
+  "geometry": {"coordinates":[-85.828463,37.669902],"type":"Point"}
+}

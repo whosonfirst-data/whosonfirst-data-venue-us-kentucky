@@ -1,0 +1,68 @@
+{
+  "id": 840682421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.789647,38.271003,-85.789647,38.271003",
+    "geom:latitude":38.271003,
+    "geom:longitude":-85.789647,
+    "iso:country":"US",
+    "sg:address":"2533 Portland Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 5061",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVLB0iq7XFmzqwxgrNA8G_38.271003_-85.789647@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045634,
+    "wof:geomhash":"c03b209e267bdd2a3d845ecf0d7e00b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":840682421
+        }
+    ],
+    "wof:id":840682421,
+    "wof:lastmodified":1464045634,
+    "wof:name":"Sandy's Florist & Bridal",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.789647,
+    38.271003,
+    -85.789647,
+    38.271003
+],
+  "geometry": {"coordinates":[-85.789647,38.271003],"type":"Point"}
+}

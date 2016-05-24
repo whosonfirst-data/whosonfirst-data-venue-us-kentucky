@@ -1,0 +1,71 @@
+{
+  "id": 856688491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567573,37.890989,-84.567573,37.890989",
+    "geom:latitude":37.890989,
+    "geom:longitude":-84.567573,
+    "iso:country":"US",
+    "sg:address":"218 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 5365",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E7AnDlcDqMpMolVqhGPST_37.890989_-84.567573@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051838,
+    "wof:geomhash":"d3707c1634d33f789ac4264f961e66a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856688491
+        }
+    ],
+    "wof:id":856688491,
+    "wof:lastmodified":1464051838,
+    "wof:name":"Alan's Car Wash",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.567573,
+    37.890989,
+    -84.567573,
+    37.890989
+],
+  "geometry": {"coordinates":[-84.567573,37.890989],"type":"Point"}
+}

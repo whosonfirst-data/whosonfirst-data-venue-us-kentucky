@@ -1,0 +1,71 @@
+{
+  "id": 840628165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.634048,37.805169,-87.634048,37.805169",
+    "geom:latitude":37.805169,
+    "geom:longitude":-87.634048,
+    "iso:country":"US",
+    "sg:address":"2250 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 1995",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07k88w7qQincUW3jra3JmM_37.805169_-87.634048@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044386,
+    "wof:geomhash":"fe5fc326306fe0bbe5597b78f050ce6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840628165
+        }
+    ],
+    "wof:id":840628165,
+    "wof:lastmodified":1464044386,
+    "wof:name":"More Stuff",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -87.634048,
+    37.805169,
+    -87.634048,
+    37.805169
+],
+  "geometry": {"coordinates":[-87.63404800000001,37.805169],"type":"Point"}
+}

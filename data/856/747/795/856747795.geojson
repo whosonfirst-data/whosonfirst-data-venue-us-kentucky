@@ -1,0 +1,87 @@
+{
+  "id": 856747795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.628219,38.211409,-85.628219,38.211409",
+    "geom:latitude":38.211409,
+    "geom:longitude":-85.628219,
+    "iso:country":"US",
+    "sg:address":"3120 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 258 8230",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ],
+    "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HKj0QfRAPTu6ynj9fncj6_38.211409_-85.628219@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053669,
+    "wof:geomhash":"fdd8e776e811b05e613d5f5528761569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747795
+        }
+    ],
+    "wof:id":856747795,
+    "wof:lastmodified":1464053669,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ]
+},
+  "bbox": [
+    -85.628219,
+    38.211409,
+    -85.628219,
+    38.211409
+],
+  "geometry": {"coordinates":[-85.628219,38.211409],"type":"Point"}
+}

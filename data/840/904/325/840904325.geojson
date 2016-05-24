@@ -1,0 +1,75 @@
+{
+  "id": 840904325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.32668,36.849479,-86.32668,36.849479",
+    "geom:latitude":36.849479,
+    "geom:longitude":-86.32668,
+    "iso:country":"US",
+    "sg:address":"440 Claypool-Boyce Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 791 4209",
+    "sg:postcode":"42122",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BZ2oFKRjBbG15tpjZSyQX_36.849479_-86.326680@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050581,
+    "wof:geomhash":"54700e52411f3ad09941a0502bacf5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840904325
+        }
+    ],
+    "wof:id":840904325,
+    "wof:lastmodified":1464050581,
+    "wof:name":"Premier Pet Sitting",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -86.32668,
+    36.849479,
+    -86.32668,
+    36.849479
+],
+  "geometry": {"coordinates":[-86.32668,36.849479],"type":"Point"}
+}

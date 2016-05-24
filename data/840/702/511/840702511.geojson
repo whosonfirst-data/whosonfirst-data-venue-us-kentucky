@@ -1,0 +1,71 @@
+{
+  "id": 840702511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.593108,37.84125,-87.593108,37.84125",
+    "geom:latitude":37.84125,
+    "geom:longitude":-87.593108,
+    "iso:country":"US",
+    "sg:address":"110 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 7532",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NcKG8I07aay5VuliOinfI_37.841250_-87.593108@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046155,
+    "wof:geomhash":"bc94dccf10a9b67eb9a88bf95ec8a68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840702511
+        }
+    ],
+    "wof:id":840702511,
+    "wof:lastmodified":1464046155,
+    "wof:name":"Methodist Hospital",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -87.593108,
+    37.84125,
+    -87.593108,
+    37.84125
+],
+  "geometry": {"coordinates":[-87.593108,37.84125],"type":"Point"}
+}

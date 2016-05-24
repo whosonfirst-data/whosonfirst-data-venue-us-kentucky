@@ -1,0 +1,75 @@
+{
+  "id": 840845039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281004,37.740916,-84.281004,37.740916",
+    "geom:latitude":37.740916,
+    "geom:longitude":-84.281004,
+    "iso:country":"US",
+    "sg:address":"1202 Race St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 0724",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A6495RToxGUX3wber8vt7_37.740916_-84.281004@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049331,
+    "wof:geomhash":"8c7d169f2bfdd9cedf91651bd35b2239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840845039
+        }
+    ],
+    "wof:id":840845039,
+    "wof:lastmodified":1464049331,
+    "wof:name":"K & M Snacks",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "snack"
+    ]
+},
+  "bbox": [
+    -84.281004,
+    37.740916,
+    -84.281004,
+    37.740916
+],
+  "geometry": {"coordinates":[-84.281004,37.740916],"type":"Point"}
+}

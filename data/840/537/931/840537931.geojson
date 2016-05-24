@@ -1,0 +1,69 @@
+{
+  "id": 840537931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.592418,37.878048,-84.592418,37.878048",
+    "geom:latitude":37.878048,
+    "geom:longitude":-84.592418,
+    "iso:country":"US",
+    "sg:address":"109 Wichita Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 7592",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75M8bRDuhr9vxxWZDhcRLM_37.878048_-84.592418@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042158,
+    "wof:geomhash":"1b7d724330ac73c8fdbd646eafa200b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840537931
+        }
+    ],
+    "wof:id":840537931,
+    "wof:lastmodified":1464042158,
+    "wof:name":"Westwood Square Apartments",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.592418,
+    37.878048,
+    -84.592418,
+    37.878048
+],
+  "geometry": {"coordinates":[-84.592418,37.878048],"type":"Point"}
+}

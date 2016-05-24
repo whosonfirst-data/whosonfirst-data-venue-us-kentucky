@@ -1,0 +1,71 @@
+{
+  "id": 856717723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616066,37.029212,-84.616066,37.029212",
+    "geom:latitude":37.029212,
+    "geom:longitude":-84.616066,
+    "iso:country":"US",
+    "sg:address":"134 Super Svc Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4364",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3FXVaVHFuaRc7S3TLL97_37.029212_-84.616066@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052494,
+    "wof:geomhash":"8de891066a6ea5390527ffb3482a1d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856717723
+        }
+    ],
+    "wof:id":856717723,
+    "wof:lastmodified":1464052494,
+    "wof:name":"Roy B's Auto Mart",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.616066,
+    37.029212,
+    -84.616066,
+    37.029212
+],
+  "geometry": {"coordinates":[-84.616066,37.029212],"type":"Point"}
+}

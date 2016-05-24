@@ -1,0 +1,75 @@
+{
+  "id": 840945019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.218697,37.62637,-82.218697,37.62637",
+    "geom:latitude":37.62637,
+    "geom:longitude":-82.218697,
+    "iso:country":"US",
+    "sg:address":"35 Stringtown Ct",
+    "sg:city":"Belfry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 4484",
+    "sg:postcode":"41514",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I7c9tLGiX0iaa7F4yqjEh_37.626370_-82.218697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051552,
+    "wof:geomhash":"60d26cad212ec363c96be3f5d16dd4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840945019
+        }
+    ],
+    "wof:id":840945019,
+    "wof:lastmodified":1464051552,
+    "wof:name":"Faith Trucking Inc",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.218697,
+    37.62637,
+    -82.218697,
+    37.62637
+],
+  "geometry": {"coordinates":[-82.21869700000001,37.62637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840589645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62157,37.032745,-84.62157,37.032745",
+    "geom:latitude":37.032745,
+    "geom:longitude":-84.62157,
+    "iso:country":"US",
+    "sg:address":"176 Enterprise Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 1707",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DEs333t66LnTvKCvl2LPp_37.032745_-84.621570@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043414,
+    "wof:geomhash":"aea97f4ed078179f42858c8ab62926d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840589645
+        }
+    ],
+    "wof:id":840589645,
+    "wof:lastmodified":1464043414,
+    "wof:name":"Playsmart Inc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [
+    -84.62157,
+    37.032745,
+    -84.62157,
+    37.032745
+],
+  "geometry": {"coordinates":[-84.62157000000001,37.032745],"type":"Point"}
+}

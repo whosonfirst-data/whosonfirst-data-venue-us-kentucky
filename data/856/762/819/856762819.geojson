@@ -1,0 +1,72 @@
+{
+  "id": 856762819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877883,37.715693,-85.877883,37.715693",
+    "geom:latitude":37.715693,
+    "geom:longitude":-85.877883,
+    "iso:country":"US",
+    "sg:address":"1105 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2076",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"http://www.elrodeoonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7auMadoT9ckArebeWVPLfw_37.715693_-85.877883@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054229,
+    "wof:geomhash":"c3ff03289a9aebf01e38d93f62f08be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762819
+        }
+    ],
+    "wof:id":856762819,
+    "wof:lastmodified":1464054229,
+    "wof:name":"El Rodeo Mexican Restaurant",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.877883,
+    37.715693,
+    -85.877883,
+    37.715693
+],
+  "geometry": {"coordinates":[-85.877883,37.715693],"type":"Point"}
+}

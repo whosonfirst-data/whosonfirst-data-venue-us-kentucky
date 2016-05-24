@@ -1,0 +1,73 @@
+{
+  "id": 840903375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.698407,38.122183,-85.698407,38.122183",
+    "geom:latitude":38.122183,
+    "geom:longitude":-85.698407,
+    "iso:country":"US",
+    "sg:address":"8903 Maple Creek Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 4404",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vywnxhLwTw50fFSbo6KnU_38.122183_-85.698407@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050565,
+    "wof:geomhash":"437565a7be454ab1f06c97b2b692564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840903375
+        }
+    ],
+    "wof:id":840903375,
+    "wof:lastmodified":1464050565,
+    "wof:name":"Commercial Breeden Painting",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -85.698407,
+    38.122183,
+    -85.698407,
+    38.122183
+],
+  "geometry": {"coordinates":[-85.698407,38.122183],"type":"Point"}
+}

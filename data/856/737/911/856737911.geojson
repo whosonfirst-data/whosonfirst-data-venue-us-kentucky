@@ -1,0 +1,74 @@
+{
+  "id": 856737911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422639,36.945466,-86.422639,36.945466",
+    "geom:latitude":36.945466,
+    "geom:longitude":-86.422639,
+    "iso:country":"US",
+    "sg:address":"2932 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/159295-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 9687",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lM6rMuc3pHkx7H4p4z369_36.945480_-86.422936@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053300,
+    "wof:geomhash":"1388791e6e1df837217cd122bf2993e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856737911
+        }
+    ],
+    "wof:id":856737911,
+    "wof:lastmodified":1464053300,
+    "wof:name":"Arby's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.422639,
+    36.945466,
+    -86.422639,
+    36.945466
+],
+  "geometry": {"coordinates":[-86.422639,36.945466],"type":"Point"}
+}

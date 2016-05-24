@@ -1,0 +1,78 @@
+{
+  "id": 840907469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880577,37.700538,-85.880577,37.700538",
+    "geom:latitude":37.700538,
+    "geom:longitude":-85.880577,
+    "iso:country":"US",
+    "sg:address":"580 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6982",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2geqbcCX9jL2NmrZAz1QPh_37.700538_-85.880577@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050648,
+    "wof:geomhash":"76f0e619964af758e4ad9093a5ffc89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840907469
+        }
+    ],
+    "wof:id":840907469,
+    "wof:lastmodified":1464050648,
+    "wof:name":"Commission For Children",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.880577,
+    37.700538,
+    -85.880577,
+    37.700538
+],
+  "geometry": {"coordinates":[-85.880577,37.700538],"type":"Point"}
+}

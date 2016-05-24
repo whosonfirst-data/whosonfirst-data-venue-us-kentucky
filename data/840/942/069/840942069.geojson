@@ -1,0 +1,75 @@
+{
+  "id": 840942069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.769586,37.052897,-88.769586,37.052897",
+    "geom:latitude":37.052897,
+    "geom:longitude":-88.769586,
+    "iso:country":"US",
+    "sg:address":"2912 Fisher Rd",
+    "sg:city":"West Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 744 6246",
+    "sg:postcode":"42086",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A5BUy3NB20OEQW22WtCNV_37.052897_-88.769586@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051486,
+    "wof:geomhash":"c85b7d826b1fc8b9778a25abe657a1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840942069
+        }
+    ],
+    "wof:id":840942069,
+    "wof:lastmodified":1464051486,
+    "wof:name":"Jim Farmer Trucking Inc",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.769586,
+    37.052897,
+    -88.769586,
+    37.052897
+],
+  "geometry": {"coordinates":[-88.769586,37.052897],"type":"Point"}
+}

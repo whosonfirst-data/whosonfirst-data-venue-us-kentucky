@@ -1,0 +1,73 @@
+{
+  "id": 840721719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.155544,37.02895,-86.155544,37.02895",
+    "geom:latitude":37.02895,
+    "geom:longitude":-86.155544,
+    "iso:country":"US",
+    "sg:address":"10259 Glasgow Rd",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 2093",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PrJktWGvkleJBXdI8614o_37.028950_-86.155544@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046544,
+    "wof:geomhash":"782cbab7713cd87875fb5b1fab6d5d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840721719
+        }
+    ],
+    "wof:id":840721719,
+    "wof:lastmodified":1464046544,
+    "wof:name":"C-Me Fence Co Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.155544,
+    37.02895,
+    -86.155544,
+    37.02895
+],
+  "geometry": {"coordinates":[-86.15554400000001,37.02895],"type":"Point"}
+}

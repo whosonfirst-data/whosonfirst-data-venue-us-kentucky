@@ -1,0 +1,73 @@
+{
+  "id": 840625721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.734002,37.656842,-84.734002,37.656842",
+    "geom:latitude":37.656842,
+    "geom:longitude":-84.734002,
+    "iso:country":"US",
+    "sg:address":"225 Kemper Ln",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 5861",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i0xOiGCr7YCONDj5EOJ13_37.656842_-84.734002@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044314,
+    "wof:geomhash":"751075871e956074d41a4f339d185f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840625721
+        }
+    ],
+    "wof:id":840625721,
+    "wof:lastmodified":1464044314,
+    "wof:name":"Danville Pediatrics",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.734002,
+    37.656842,
+    -84.734002,
+    37.656842
+],
+  "geometry": {"coordinates":[-84.734002,37.656842],"type":"Point"}
+}

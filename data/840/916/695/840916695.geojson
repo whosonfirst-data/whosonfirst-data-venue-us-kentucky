@@ -1,0 +1,71 @@
+{
+  "id": 840916695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.549243,37.864376,-87.549243,37.864376",
+    "geom:latitude":37.864376,
+    "geom:longitude":-87.549243,
+    "iso:country":"US",
+    "sg:address":"949 Pebble Creek Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 8918",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HQVNnYdCh0qcyB57SaoQk_37.864376_-87.549243@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050928,
+    "wof:geomhash":"ee9e6ad48a6f4d16f70f28084266ac1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840916695
+        }
+    ],
+    "wof:id":840916695,
+    "wof:lastmodified":1464050928,
+    "wof:name":"Pebble Creek Apartments",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.549243,
+    37.864376,
+    -87.549243,
+    37.864376
+],
+  "geometry": {"coordinates":[-87.549243,37.864376],"type":"Point"}
+}

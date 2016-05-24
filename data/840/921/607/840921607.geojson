@@ -1,0 +1,71 @@
+{
+  "id": 840921607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.575413,37.868564,-87.575413,37.868564",
+    "geom:latitude":37.868564,
+    "geom:longitude":-87.575413,
+    "iso:country":"US",
+    "sg:address":"201 Camero Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 2020",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7delsHtx1obF9XKcSJXzI1_37.868564_-87.575413@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051049,
+    "wof:geomhash":"3393bc098929857e2d25430d7c260eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840921607
+        }
+    ],
+    "wof:id":840921607,
+    "wof:lastmodified":1464051049,
+    "wof:name":"Electrolysis Clinic",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.575413,
+    37.868564,
+    -87.575413,
+    37.868564
+],
+  "geometry": {"coordinates":[-87.575413,37.868564],"type":"Point"}
+}

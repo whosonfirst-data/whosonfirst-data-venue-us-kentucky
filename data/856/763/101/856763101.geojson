@@ -1,0 +1,80 @@
+{
+  "id": 856763101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591714,37.840686,-87.591714,37.840686",
+    "geom:latitude":37.840686,
+    "geom:longitude":-87.591714,
+    "iso:country":"US",
+    "sg:address":"109 N. Main St.",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 761 6062",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "land-for-sale",
+        "ranches-for-sale",
+        "farms-for-sale",
+        "hunting-land-for-sale",
+        "timberland-for-sale"
+    ],
+    "sg:website":"http://www.landlister.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CEexU9TvqEOc5G9JwBYy1_37.840686_-87.591714@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464054239,
+    "wof:geomhash":"35ecfc3096e0fb03a2f2f043f2181326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856763101
+        }
+    ],
+    "wof:id":856763101,
+    "wof:lastmodified":1464054239,
+    "wof:name":"LandLister",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "land-for-sale",
+        "ranches-for-sale",
+        "farms-for-sale",
+        "hunting-land-for-sale",
+        "timberland-for-sale"
+    ]
+},
+  "bbox": [
+    -87.591714,
+    37.840686,
+    -87.591714,
+    37.840686
+],
+  "geometry": {"coordinates":[-87.591714,37.840686],"type":"Point"}
+}

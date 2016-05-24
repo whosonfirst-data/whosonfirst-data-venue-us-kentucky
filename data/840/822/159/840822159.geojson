@@ -1,0 +1,66 @@
+{
+  "id": 840822159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.572721,37.863867,-87.572721,37.863867",
+    "geom:latitude":37.863867,
+    "geom:longitude":-87.572721,
+    "iso:country":"US",
+    "sg:address":"501 Barrett Blvd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 5111",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mhP1DuYgBoqrkzbZMoUmW_37.863867_-87.572721@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048816,
+    "wof:geomhash":"9aa91d706b1953af5e6106a02be443b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840822159
+        }
+    ],
+    "wof:id":840822159,
+    "wof:lastmodified":1464048816,
+    "wof:name":"US Bank",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.572721,
+    37.863867,
+    -87.572721,
+    37.863867
+],
+  "geometry": {"coordinates":[-87.572721,37.863867],"type":"Point"}
+}

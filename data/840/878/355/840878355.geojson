@@ -1,0 +1,67 @@
+{
+  "id": 840878355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377207,38.403079,-85.377207,38.403079",
+    "geom:latitude":38.403079,
+    "geom:longitude":-85.377207,
+    "iso:country":"US",
+    "sg:address":"415 S 1st St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 6200",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:website":"www.pncbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mthO9Vv78Kh9YBagTpwPk_38.403079_-85.377207@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050045,
+    "wof:geomhash":"abf577ed04fda89deeb2c046d43205f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840878355
+        }
+    ],
+    "wof:id":840878355,
+    "wof:lastmodified":1464050045,
+    "wof:name":"Pnc Bank",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.377207,
+    38.403079,
+    -85.377207,
+    38.403079
+],
+  "geometry": {"coordinates":[-85.377207,38.403079],"type":"Point"}
+}

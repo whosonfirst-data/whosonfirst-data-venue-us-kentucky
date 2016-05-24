@@ -1,0 +1,77 @@
+{
+  "id": 856761811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.670868,37.02664,-88.670868,37.02664",
+    "geom:latitude":37.02664,
+    "geom:longitude":-88.670868,
+    "iso:country":"US",
+    "sg:address":"509 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 415 3525",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"http://www.harborfrieght.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w7cKQVXHFExgj4BWocQSw_37.026640_-88.670868@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054194,
+    "wof:geomhash":"566324fab06c9615caab667bffe136d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761811
+        }
+    ],
+    "wof:id":856761811,
+    "wof:lastmodified":1464054194,
+    "wof:name":"Harbor Freight Tools",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -88.670868,
+    37.02664,
+    -88.670868,
+    37.02664
+],
+  "geometry": {"coordinates":[-88.670868,37.02664],"type":"Point"}
+}

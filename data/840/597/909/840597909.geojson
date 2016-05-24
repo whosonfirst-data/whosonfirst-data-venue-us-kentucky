@@ -1,0 +1,71 @@
+{
+  "id": 840597909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881176,37.729921,-85.881176,37.729921",
+    "geom:latitude":37.729921,
+    "geom:longitude":-85.881176,
+    "iso:country":"US",
+    "sg:address":"100 Lowes Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5500",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b5EJlikYHboaUVeemxnix_37.729921_-85.881176@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043606,
+    "wof:geomhash":"9eb8ce5c88d6b5f4914633eb0c5daffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840597909
+        }
+    ],
+    "wof:id":840597909,
+    "wof:lastmodified":1464043606,
+    "wof:name":"Lowe's",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -85.881176,
+    37.729921,
+    -85.881176,
+    37.729921
+],
+  "geometry": {"coordinates":[-85.881176,37.729921],"type":"Point"}
+}

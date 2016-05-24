@@ -1,0 +1,73 @@
+{
+  "id": 856726231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.321562,37.553538,-84.321562,37.553538",
+    "geom:latitude":37.553538,
+    "geom:longitude":-84.321562,
+    "iso:country":"US",
+    "sg:address":"116 Dogwood Cir",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 8507",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lV6engQb8iAy9aVqpnFhe_37.553538_-84.321562@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052839,
+    "wof:geomhash":"be42a5002ab79cca2a49cf0ba500fe17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856726231
+        }
+    ],
+    "wof:id":856726231,
+    "wof:lastmodified":1464052839,
+    "wof:name":"Meade Plumbing Heating & AC",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.321562,
+    37.553538,
+    -84.321562,
+    37.553538
+],
+  "geometry": {"coordinates":[-84.321562,37.553538],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840572909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.505685,36.992498,-84.505685,36.992498",
+    "geom:latitude":36.992498,
+    "geom:longitude":-84.505685,
+    "iso:country":"US",
+    "sg:address":"625 Omega Park Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 9525",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLDnd8PDibca8vCDbm2lm_36.992498_-84.505685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043062,
+    "wof:geomhash":"83c6717936fb15b4626abb025a7bb0b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840572909
+        }
+    ],
+    "wof:id":840572909,
+    "wof:lastmodified":1464043062,
+    "wof:name":"Haynes Knob Volunteer Fire Dep",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.505685,
+    36.992498,
+    -84.505685,
+    36.992498
+],
+  "geometry": {"coordinates":[-84.505685,36.992498],"type":"Point"}
+}

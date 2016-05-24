@@ -1,0 +1,80 @@
+{
+  "id": 856754777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.628317,38.052335,-84.628317,38.052335",
+    "geom:latitude":38.052335,
+    "geom:longitude":-84.628317,
+    "iso:country":"US",
+    "sg:address":"4951 Jennie Kate Ln",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 226 9520",
+    "sg:postcode":"40510",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85857029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jF5D3pdB2Xkah4DgDD0s2_38.052335_-84.628317@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053936,
+    "wof:geomhash":"588f3e6709c89b26c0903ed62b704cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85857029,
+            "region_id":85688641,
+            "venue_id":856754777
+        }
+    ],
+    "wof:id":856754777,
+    "wof:lastmodified":1464053936,
+    "wof:name":"Swanns Nest",
+    "wof:parent_id":85857029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -84.628317,
+    38.052335,
+    -84.628317,
+    38.052335
+],
+  "geometry": {"coordinates":[-84.628317,38.052335],"type":"Point"}
+}

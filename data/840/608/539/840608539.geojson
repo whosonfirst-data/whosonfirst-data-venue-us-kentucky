@@ -1,0 +1,73 @@
+{
+  "id": 840608539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.621277,38.219702,-85.621277,38.219702",
+    "geom:latitude":38.219702,
+    "geom:longitude":-85.621277,
+    "iso:country":"US",
+    "sg:address":"4039 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 8466",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iVfmbUOeWUGj3MoJZTyuN_38.219702_-85.621277@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043877,
+    "wof:geomhash":"fb8007558943e2b93b86c8db8b5743ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840608539
+        }
+    ],
+    "wof:id":840608539,
+    "wof:lastmodified":1464043877,
+    "wof:name":"Sam Meyers Cleaners & Shirt",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.621277,
+    38.219702,
+    -85.621277,
+    38.219702
+],
+  "geometry": {"coordinates":[-85.62127700000001,38.219702],"type":"Point"}
+}

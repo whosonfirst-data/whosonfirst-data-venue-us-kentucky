@@ -1,0 +1,77 @@
+{
+  "id": 840558835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.779454,37.6393,-84.779454,37.6393",
+    "geom:latitude":37.6393,
+    "geom:longitude":-84.779454,
+    "iso:country":"US",
+    "sg:address":"610 Roy Arnold Blvd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Luggage & Leather Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 9001",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LFdXWyE7zLsWedXFA8k2j_37.639300_-84.779454@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042709,
+    "wof:geomhash":"2366f06da26d6d49c35160bbda055209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840558835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840558835
+        }
+    ],
+    "wof:id":840558835,
+    "wof:lastmodified":1464042709,
+    "wof:name":"Albright Leather",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.779454,
+    37.6393,
+    -84.779454,
+    37.6393
+],
+  "geometry": {"coordinates":[-84.779454,37.6393],"type":"Point"}
+}

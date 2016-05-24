@@ -1,0 +1,77 @@
+{
+  "id": 840607419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.785836,38.262501,-85.785836,38.262501",
+    "geom:latitude":38.262501,
+    "geom:longitude":-85.785836,
+    "iso:country":"US",
+    "sg:address":"2112 Duncan St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 1743",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vuPUQ7YKQenoeOftNTtlW_38.262501_-85.785836@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043844,
+    "wof:geomhash":"415721dc79c18fcebc9e90c2b74f64a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":840607419
+        }
+    ],
+    "wof:id":840607419,
+    "wof:lastmodified":1464043844,
+    "wof:name":"Speedway 9648",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.785836,
+    38.262501,
+    -85.785836,
+    38.262501
+],
+  "geometry": {"coordinates":[-85.785836,38.262501],"type":"Point"}
+}

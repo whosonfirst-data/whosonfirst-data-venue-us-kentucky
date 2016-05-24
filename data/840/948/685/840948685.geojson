@@ -1,0 +1,71 @@
+{
+  "id": 840948685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.72113,37.645611,-84.72113,37.645611",
+    "geom:latitude":37.645611,
+    "geom:longitude":-84.72113,
+    "iso:country":"US",
+    "sg:address":"805 Pecos Cir",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 516 8384",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ijnrrUZN4LRTQncCRwDuE_37.645611_-84.721130@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051620,
+    "wof:geomhash":"995cae1972c5762c79ac44e6f1f5db0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840948685
+        }
+    ],
+    "wof:id":840948685,
+    "wof:lastmodified":1464051620,
+    "wof:name":"Carney's Tree Svc",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -84.72113,
+    37.645611,
+    -84.72113,
+    37.645611
+],
+  "geometry": {"coordinates":[-84.72113,37.645611],"type":"Point"}
+}

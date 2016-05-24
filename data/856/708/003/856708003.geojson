@@ -1,0 +1,71 @@
+{
+  "id": 856708003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.786581,37.744558,-85.786581,37.744558",
+    "geom:latitude":37.744558,
+    "geom:longitude":-85.786581,
+    "iso:country":"US",
+    "sg:address":"276 Glendover Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5285",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73TfDs0w5e6FmnnEvQr49f_37.744558_-85.786581@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052229,
+    "wof:geomhash":"2b82e06a22767e5b76910afa6c5fe574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856708003
+        }
+    ],
+    "wof:id":856708003,
+    "wof:lastmodified":1464052229,
+    "wof:name":"Charles Pence Surveys",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -85.786581,
+    37.744558,
+    -85.786581,
+    37.744558
+],
+  "geometry": {"coordinates":[-85.786581,37.744558],"type":"Point"}
+}

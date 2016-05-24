@@ -1,0 +1,71 @@
+{
+  "id": 840746593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.716771,37.059807,-84.716771,37.059807",
+    "geom:latitude":37.059807,
+    "geom:longitude":-84.716771,
+    "iso:country":"US",
+    "sg:address":"124 Park Dr",
+    "sg:city":"Bronston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6498",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A3imPx1cHqX08tTmHICzo_37.059807_-84.716771@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047020,
+    "wof:geomhash":"3dae9c962eb3d98327d45c8136c2842e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840746593
+        }
+    ],
+    "wof:id":840746593,
+    "wof:lastmodified":1464047020,
+    "wof:name":"Tri-B Trucking Inc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.716771,
+    37.059807,
+    -84.716771,
+    37.059807
+],
+  "geometry": {"coordinates":[-84.71677099999999,37.059807],"type":"Point"}
+}

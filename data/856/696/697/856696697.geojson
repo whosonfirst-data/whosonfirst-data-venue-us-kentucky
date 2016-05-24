@@ -1,0 +1,75 @@
+{
+  "id": 856696697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.372112,36.550463,-87.372112,36.550463",
+    "geom:latitude":36.550463,
+    "geom:longitude":-87.372112,
+    "iso:country":"US",
+    "sg:address":"102 Susan St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 6608",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85836715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DknDPmADwmVNjRVWQgrnB_36.550463_-87.372112@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051993,
+    "wof:geomhash":"13116eb3c29852b2a983f4896aeb3915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85836715,
+            "region_id":85688701,
+            "venue_id":856696697
+        }
+    ],
+    "wof:id":856696697,
+    "wof:lastmodified":1464051993,
+    "wof:name":"Freedom Motors",
+    "wof:parent_id":85836715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.372112,
+    36.550463,
+    -87.372112,
+    36.550463
+],
+  "geometry": {"coordinates":[-87.372112,36.550463],"type":"Point"}
+}

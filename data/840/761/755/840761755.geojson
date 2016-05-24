@@ -1,0 +1,71 @@
+{
+  "id": 840761755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.414707,36.937255,-86.414707,36.937255",
+    "geom:latitude":36.937255,
+    "geom:longitude":-86.414707,
+    "iso:country":"US",
+    "sg:address":"255 Cumberland Trace Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 0055",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IBVu1sSrzL22fDpXH0GDN_36.937255_-86.414707@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047387,
+    "wof:geomhash":"5a7f66627fce2fa980ecf1cfca76e20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840761755
+        }
+    ],
+    "wof:id":840761755,
+    "wof:lastmodified":1464047387,
+    "wof:name":"Williams Development Co Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.414707,
+    36.937255,
+    -86.414707,
+    36.937255
+],
+  "geometry": {"coordinates":[-86.41470700000001,36.937255],"type":"Point"}
+}

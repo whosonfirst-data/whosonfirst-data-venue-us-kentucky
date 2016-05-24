@@ -1,0 +1,83 @@
+{
+  "id": 856737893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434212,36.970292,-86.434212,36.970292",
+    "geom:latitude":36.970292,
+    "geom:longitude":-86.434212,
+    "iso:country":"US",
+    "sg:address":"1680 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/92578-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 9260",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46d0aYeagkcg47ymK8kMbO_36.970170_-86.434115@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053299,
+    "wof:geomhash":"c115ea5ed26066cd01fa65161c6d9d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":856737893
+        }
+    ],
+    "wof:id":856737893,
+    "wof:lastmodified":1464053299,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -86.434212,
+    36.970292,
+    -86.434212,
+    36.970292
+],
+  "geometry": {"coordinates":[-86.434212,36.970292],"type":"Point"}
+}

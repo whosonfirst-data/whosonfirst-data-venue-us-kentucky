@@ -1,0 +1,71 @@
+{
+  "id": 840621957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.589674,37.839863,-87.589674,37.839863",
+    "geom:latitude":37.839863,
+    "geom:longitude":-87.589674,
+    "iso:country":"US",
+    "sg:address":"330 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 5447",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D9lUe1eJH3WXra8P0YHtO_37.839863_-87.589674@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044209,
+    "wof:geomhash":"0e0b36c140a58f06055af12eae01b338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840621957
+        }
+    ],
+    "wof:id":840621957,
+    "wof:lastmodified":1464044209,
+    "wof:name":"Branson Surveys",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -87.589674,
+    37.839863,
+    -87.589674,
+    37.839863
+],
+  "geometry": {"coordinates":[-87.589674,37.839863],"type":"Point"}
+}

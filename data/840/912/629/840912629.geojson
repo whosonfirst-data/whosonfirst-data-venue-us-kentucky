@@ -1,0 +1,68 @@
+{
+  "id": 840912629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.705234,38.250735,-85.705234,38.250735",
+    "geom:latitude":38.250735,
+    "geom:longitude":-85.705234,
+    "iso:country":"US",
+    "sg:address":"224 Albany Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 931 1721",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cXUdmL0Ih8ZtPySXijWh5_38.250735_-85.705234@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050808,
+    "wof:geomhash":"7a81d659d2733c8520f3934cd8f39d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":840912629
+        }
+    ],
+    "wof:id":840912629,
+    "wof:lastmodified":1464050808,
+    "wof:name":"Holly Justice",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.705234,
+    38.250735,
+    -85.705234,
+    38.250735
+],
+  "geometry": {"coordinates":[-85.705234,38.250735],"type":"Point"}
+}

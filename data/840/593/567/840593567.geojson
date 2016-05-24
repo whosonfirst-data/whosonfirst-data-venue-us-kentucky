@@ -1,0 +1,75 @@
+{
+  "id": 840593567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.490344,38.086172,-84.490344,38.086172",
+    "geom:latitude":38.086172,
+    "geom:longitude":-84.490344,
+    "iso:country":"US",
+    "sg:address":"1429 Newtown Pike",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 9169",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52quBmI2GLKLXgLzxXisGQ_38.086172_-84.490344@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043501,
+    "wof:geomhash":"4f3f96b6516b4df2194809a898484665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873019,
+            "region_id":85688641,
+            "venue_id":840593567
+        }
+    ],
+    "wof:id":840593567,
+    "wof:lastmodified":1464043501,
+    "wof:name":"Horse Research Ctr",
+    "wof:parent_id":85873019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.490344,
+    38.086172,
+    -84.490344,
+    38.086172
+],
+  "geometry": {"coordinates":[-84.49034399999999,38.086172],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856736945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618734,37.070553,-84.618734,37.070553",
+    "geom:latitude":37.070553,
+    "geom:longitude":-84.618734,
+    "iso:country":"US",
+    "sg:address":"3580 S Highway 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/101445-sonnys-bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 0198",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406SnV0rEnfkc3bE1X7c1A_37.070553_-84.618734@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053255,
+    "wof:geomhash":"f710cebfee121e3e2c90271c20b1051b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856736945
+        }
+    ],
+    "wof:id":856736945,
+    "wof:lastmodified":1464053255,
+    "wof:name":"Sonny's Bar-B-Q",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.618734,
+    37.070553,
+    -84.618734,
+    37.070553
+],
+  "geometry": {"coordinates":[-84.618734,37.070553],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840581727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.877186,37.681131,-85.877186,37.681131",
+    "geom:latitude":37.681131,
+    "geom:longitude":-85.877186,
+    "iso:country":"US",
+    "sg:address":"456 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 9447",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GNov1hmPFjWSr0wxvNrot_37.681131_-85.877186@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043248,
+    "wof:geomhash":"a13d2b5d5b26805af7c0cd8775f824ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840581727
+        }
+    ],
+    "wof:id":840581727,
+    "wof:lastmodified":1464043248,
+    "wof:name":"Burley Boys Tobacco Outlet",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.877186,
+    37.681131,
+    -85.877186,
+    37.681131
+],
+  "geometry": {"coordinates":[-85.87718599999999,37.681131],"type":"Point"}
+}

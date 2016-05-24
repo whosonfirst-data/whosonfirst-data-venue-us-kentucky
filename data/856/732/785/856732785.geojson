@@ -1,0 +1,76 @@
+{
+  "id": 856732785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.63679,38.235336,-85.63679,38.235336",
+    "geom:latitude":38.235336,
+    "geom:longitude":-85.63679,
+    "iso:country":"US",
+    "sg:address":"1021 Dupont Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/120617-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 7498",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OL9Uji6C1dLfh5UV8WEYM_38.235336_-85.636790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053102,
+    "wof:geomhash":"e62b47e4a30070414b55cd9e21f9bff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732785
+        }
+    ],
+    "wof:id":856732785,
+    "wof:lastmodified":1464053102,
+    "wof:name":"Subway",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.63679,
+    38.235336,
+    -85.63679,
+    38.235336
+],
+  "geometry": {"coordinates":[-85.63679,38.235336],"type":"Point"}
+}

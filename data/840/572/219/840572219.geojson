@@ -1,0 +1,74 @@
+{
+  "id": 840572219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477129,36.949636,-86.477129,36.949636",
+    "geom:latitude":36.949636,
+    "geom:longitude":-86.477129,
+    "iso:country":"US",
+    "sg:address":"3219 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0012",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baptist",
+        "church"
+    ],
+    "sg:website":"www.hillvue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V41Z8ODA8h0HaIfkwS7o7_36.949636_-86.477129@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043040,
+    "wof:geomhash":"1dc8ae789f7c17ca4ad23b4673831cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840572219
+        }
+    ],
+    "wof:id":840572219,
+    "wof:lastmodified":1464043040,
+    "wof:name":"Hillvue Heights Baptist Church",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -86.477129,
+    36.949636,
+    -86.477129,
+    36.949636
+],
+  "geometry": {"coordinates":[-86.47712900000001,36.949636],"type":"Point"}
+}

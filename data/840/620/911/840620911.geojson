@@ -1,0 +1,84 @@
+{
+  "id": 840620911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.657482,38.200644,-85.657482,38.200644",
+    "geom:latitude":38.200644,
+    "geom:longitude":-85.657482,
+    "iso:country":"US",
+    "sg:address":"2221 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 8664",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.dollartree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WyjhfTiyymlJ8I7QvVkE1_38.200644_-85.657482@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044185,
+    "wof:geomhash":"0d2afabeef222d22e4ec844acc1008fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840620911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840620911
+        }
+    ],
+    "wof:id":840620911,
+    "wof:lastmodified":1464044185,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.657482,
+    38.200644,
+    -85.657482,
+    38.200644
+],
+  "geometry": {"coordinates":[-85.657482,38.200644],"type":"Point"}
+}

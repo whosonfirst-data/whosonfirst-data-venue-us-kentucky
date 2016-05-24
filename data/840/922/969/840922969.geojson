@@ -1,0 +1,75 @@
+{
+  "id": 840922969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709924,38.171859,-85.709924,38.171859",
+    "geom:latitude":38.171859,
+    "geom:longitude":-85.709924,
+    "iso:country":"US",
+    "sg:address":"5212 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 2420",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H9tDs9wG5FFMx2KDfzgdB_38.171859_-85.709924@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051080,
+    "wof:geomhash":"252dbc5f0925592d924ac7ebc0fbb80f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840922969
+        }
+    ],
+    "wof:id":840922969,
+    "wof:lastmodified":1464051080,
+    "wof:name":"Preston Auto Svc Ctr",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.709924,
+    38.171859,
+    -85.709924,
+    38.171859
+],
+  "geometry": {"coordinates":[-85.709924,38.171859],"type":"Point"}
+}

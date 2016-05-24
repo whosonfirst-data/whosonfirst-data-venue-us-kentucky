@@ -1,0 +1,73 @@
+{
+  "id": 840541291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.748606,37.083507,-88.748606,37.083507",
+    "geom:latitude":37.083507,
+    "geom:longitude":-88.748606,
+    "iso:country":"US",
+    "sg:address":"7995 Vance Ln",
+    "sg:city":"West Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 3887",
+    "sg:postcode":"42086",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ERtNHl8K12EqIjw3MVYhd_37.083507_-88.748606@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042253,
+    "wof:geomhash":"e3300463e2ba94e6cd047be70296b460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840541291
+        }
+    ],
+    "wof:id":840541291,
+    "wof:lastmodified":1464042253,
+    "wof:name":"Cockrell Industries Inc",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.748606,
+    37.083507,
+    -88.748606,
+    37.083507
+],
+  "geometry": {"coordinates":[-88.748606,37.083507],"type":"Point"}
+}

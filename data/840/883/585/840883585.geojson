@@ -1,0 +1,72 @@
+{
+  "id": 840883585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480735,37.019197,-86.480735,37.019197",
+    "geom:latitude":37.019197,
+    "geom:longitude":-86.480735,
+    "iso:country":"US",
+    "sg:address":"2335 Barren River Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9944",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.scottmurphydaniel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XhQTYPcPmMTADrk80vPNa_37.019197_-86.480735@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050147,
+    "wof:geomhash":"751f023deff259b6ecf1495be09125e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840883585
+        }
+    ],
+    "wof:id":840883585,
+    "wof:lastmodified":1464050147,
+    "wof:name":"Scott & Murphy Inc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.480735,
+    37.019197,
+    -86.480735,
+    37.019197
+],
+  "geometry": {"coordinates":[-86.480735,37.019197],"type":"Point"}
+}

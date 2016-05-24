@@ -1,0 +1,73 @@
+{
+  "id": 840754525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759491,37.986526,-85.759491,37.986526",
+    "geom:latitude":37.986526,
+    "geom:longitude":-85.759491,
+    "iso:country":"US",
+    "sg:address":"360 Kings Lake Dr",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 8140",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dA3Gtv4HJz4v43Os60q9h_37.986526_-85.759491@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047210,
+    "wof:geomhash":"bd2cd708efc2ada6c4fcb60fb8cae25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840754525
+        }
+    ],
+    "wof:id":840754525,
+    "wof:lastmodified":1464047210,
+    "wof:name":"Braun's M & M Trucking",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.759491,
+    37.986526,
+    -85.759491,
+    37.986526
+],
+  "geometry": {"coordinates":[-85.759491,37.986526],"type":"Point"}
+}

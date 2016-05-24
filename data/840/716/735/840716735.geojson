@@ -1,0 +1,75 @@
+{
+  "id": 840716735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65362,38.19543,-85.65362,38.19543",
+    "geom:latitude":38.19543,
+    "geom:longitude":-85.65362,
+    "iso:country":"US",
+    "sg:address":"3824 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 1888",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hh9j57BQrRDJcty0bblvY_38.195430_-85.653620@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046434,
+    "wof:geomhash":"10c21fa73604450509840d44af15119b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840716735
+        }
+    ],
+    "wof:id":840716735,
+    "wof:lastmodified":1464046434,
+    "wof:name":"A Place In Time Consignments",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -85.65362,
+    38.19543,
+    -85.65362,
+    38.19543
+],
+  "geometry": {"coordinates":[-85.65362,38.19543],"type":"Point"}
+}

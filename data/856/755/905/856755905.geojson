@@ -1,0 +1,73 @@
+{
+  "id": 856755905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773102,39.0354,-84.773102,39.0354",
+    "geom:latitude":39.0354,
+    "geom:longitude":-84.773102,
+    "iso:country":"US",
+    "sg:address":"4035 Easton Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 0016",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hZS5lw0WseDYnSOBXzjrA_39.035400_-84.773102@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053975,
+    "wof:geomhash":"d99d1352c7970f0f5b225fde7a7a9778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856755905
+        }
+    ],
+    "wof:id":856755905,
+    "wof:lastmodified":1464053975,
+    "wof:name":"Airway Pet Resort",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.773102,
+    39.0354,
+    -84.773102,
+    39.0354
+],
+  "geometry": {"coordinates":[-84.77310199999999,39.0354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840795383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.861125,37.693143,-85.861125,37.693143",
+    "geom:latitude":37.693143,
+    "geom:longitude":-85.861125,
+    "iso:country":"US",
+    "sg:address":"218 Helm St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2173",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vPc0gqxL3TLpo4bDknbnP_37.693143_-85.861125@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048086,
+    "wof:geomhash":"e600a1cb992f77e6d407704e197fde4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840795383
+        }
+    ],
+    "wof:id":840795383,
+    "wof:lastmodified":1464048086,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -85.861125,
+    37.693143,
+    -85.861125,
+    37.693143
+],
+  "geometry": {"coordinates":[-85.861125,37.693143],"type":"Point"}
+}

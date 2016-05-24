@@ -1,0 +1,72 @@
+{
+  "id": 840912871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583958,37.837569,-87.583958,37.837569",
+    "geom:latitude":37.837569,
+    "geom:longitude":-87.583958,
+    "iso:country":"US",
+    "sg:address":"716 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 5222",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.affordablesmiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j7VH0D9hOKoNZ7se7wXDW_37.837569_-87.583958@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050817,
+    "wof:geomhash":"67107506f8d9b4a1cc1de4fd4c83dc4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840912871
+        }
+    ],
+    "wof:id":840912871,
+    "wof:lastmodified":1464050817,
+    "wof:name":"Audubon Dental Ctr",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.583958,
+    37.837569,
+    -87.583958,
+    37.837569
+],
+  "geometry": {"coordinates":[-87.583958,37.837569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840882347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.597124,37.900358,-84.597124,37.900358",
+    "geom:latitude":37.900358,
+    "geom:longitude":-84.597124,
+    "iso:country":"US",
+    "sg:address":"113 Quarter Mile Way",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 312 4560",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wGUmTc6ecoV8m7IZHUYoo_37.900358_-84.597124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050118,
+    "wof:geomhash":"20a99641d4de3540ba86ef26560d740a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840882347
+        }
+    ],
+    "wof:id":840882347,
+    "wof:lastmodified":1464050118,
+    "wof:name":"Derby Tile Co",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.597124,
+    37.900358,
+    -84.597124,
+    37.900358
+],
+  "geometry": {"coordinates":[-84.59712399999999,37.900358],"type":"Point"}
+}

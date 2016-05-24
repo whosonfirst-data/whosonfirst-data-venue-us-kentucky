@@ -1,0 +1,73 @@
+{
+  "id": 840861525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512373,36.915303,-86.512373,36.915303",
+    "geom:latitude":36.915303,
+    "geom:longitude":-86.512373,
+    "iso:country":"US",
+    "sg:address":"252 Bowie Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 7281",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DdhSd4jTqb1trqfuTgwnh_36.915303_-86.512373@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049682,
+    "wof:geomhash":"028f05ca03f3847365e6ef8f5ff2b3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840861525
+        }
+    ],
+    "wof:id":840861525,
+    "wof:lastmodified":1464049682,
+    "wof:name":"Highland Mc Connell",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -86.512373,
+    36.915303,
+    -86.512373,
+    36.915303
+],
+  "geometry": {"coordinates":[-86.512373,36.915303],"type":"Point"}
+}

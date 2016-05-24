@@ -1,0 +1,74 @@
+{
+  "id": 856737907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42509,36.950094,-86.42509,36.950094",
+    "geom:latitude":36.950094,
+    "geom:longitude":-86.42509,
+    "iso:country":"US",
+    "sg:address":"2625 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/72414-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8282",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LnGxAsWzoZSnV7uu7E739_36.950377_-86.425193@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053299,
+    "wof:geomhash":"968cabe34f8338f325be110899e12291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856737907
+        }
+    ],
+    "wof:id":856737907,
+    "wof:lastmodified":1464053299,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.42509,
+    36.950094,
+    -86.42509,
+    36.950094
+],
+  "geometry": {"coordinates":[-86.42509,36.950094],"type":"Point"}
+}

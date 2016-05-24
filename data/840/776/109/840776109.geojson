@@ -1,0 +1,68 @@
+{
+  "id": 840776109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.541367,38.953163,-84.541367,38.953163",
+    "geom:latitude":38.953163,
+    "geom:longitude":-84.541367,
+    "iso:country":"US",
+    "sg:address":"5106 Madison Pike",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 3908",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RpNocWRTGmk37dvXpH6qr_38.953163_-84.541367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047687,
+    "wof:geomhash":"beec60d99bb79e979e988b0f82498c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":840776109
+        }
+    ],
+    "wof:id":840776109,
+    "wof:lastmodified":1464047687,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.541367,
+    38.953163,
+    -84.541367,
+    38.953163
+],
+  "geometry": {"coordinates":[-84.54136699999999,38.953163],"type":"Point"}
+}

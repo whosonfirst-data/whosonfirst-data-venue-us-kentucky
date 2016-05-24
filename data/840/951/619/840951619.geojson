@@ -1,0 +1,71 @@
+{
+  "id": 840951619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.463061,37.001189,-86.463061,37.001189",
+    "geom:latitude":37.001189,
+    "geom:longitude":-86.463061,
+    "iso:country":"US",
+    "sg:address":"414 Trent Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4154",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_658N7TIUgoADIdnl4yj65e_37.001189_-86.463061@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051682,
+    "wof:geomhash":"a53c0c7b7e0b6e3b9eabc05390f6c6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840951619
+        }
+    ],
+    "wof:id":840951619,
+    "wof:lastmodified":1464051682,
+    "wof:name":"Garden Apartments",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.463061,
+    37.001189,
+    -86.463061,
+    37.001189
+],
+  "geometry": {"coordinates":[-86.463061,37.001189],"type":"Point"}
+}

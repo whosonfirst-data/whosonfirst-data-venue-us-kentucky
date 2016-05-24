@@ -1,0 +1,73 @@
+{
+  "id": 840716913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564761,39.008005,-84.564761,39.008005",
+    "geom:latitude":39.008005,
+    "geom:longitude":-84.564761,
+    "iso:country":"US",
+    "sg:address":"201 Medical Village Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 344 3230",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "behavioral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mlauxdXwW3jgBMjF5YmLG_39.008005_-84.564761@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046438,
+    "wof:geomhash":"6feff3ddb4593dc5c97fb074f2eb3e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":840716913
+        }
+    ],
+    "wof:id":840716913,
+    "wof:lastmodified":1464046438,
+    "wof:name":"MCB Behavioral Health Pllc",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "behavioral"
+    ]
+},
+  "bbox": [
+    -84.564761,
+    39.008005,
+    -84.564761,
+    39.008005
+],
+  "geometry": {"coordinates":[-84.564761,39.008005],"type":"Point"}
+}

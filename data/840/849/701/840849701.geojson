@@ -1,0 +1,75 @@
+{
+  "id": 840849701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.711329,38.209135,-85.711329,38.209135",
+    "geom:latitude":38.209135,
+    "geom:longitude":-85.711329,
+    "iso:country":"US",
+    "sg:address":"3783 Illinois Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 8140",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0csc2ko1fiqcChFNfyVhXC_38.209135_-85.711329@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049431,
+    "wof:geomhash":"490bb79a65cfc9209fe099a96ea0b0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873417,
+            "region_id":85688641,
+            "venue_id":840849701
+        }
+    ],
+    "wof:id":840849701,
+    "wof:lastmodified":1464049431,
+    "wof:name":"Louisville Tennis Ctr",
+    "wof:parent_id":85873417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -85.711329,
+    38.209135,
+    -85.711329,
+    38.209135
+],
+  "geometry": {"coordinates":[-85.71132900000001,38.209135],"type":"Point"}
+}

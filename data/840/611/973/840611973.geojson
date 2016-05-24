@@ -1,0 +1,66 @@
+{
+  "id": 840611973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.737855,37.034407,-88.737855,37.034407",
+    "geom:latitude":37.034407,
+    "geom:longitude":-88.737855,
+    "iso:country":"US",
+    "sg:address":"7655 US Hwy 62",
+    "sg:city":"Cunningham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 674 5525",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7idEM9oWlHkIfMAJkOjKyO_37.034407_-88.737855@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043965,
+    "wof:geomhash":"0e6f610b230afa73bb9a3d7dfe729c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840611973
+        }
+    ],
+    "wof:id":840611973,
+    "wof:lastmodified":1464043965,
+    "wof:name":"West Kentucky Motocross",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.737855,
+    37.034407,
+    -88.737855,
+    37.034407
+],
+  "geometry": {"coordinates":[-88.737855,37.034407],"type":"Point"}
+}

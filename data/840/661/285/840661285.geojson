@@ -1,0 +1,75 @@
+{
+  "id": 840661285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.567317,37.035568,-88.567317,37.035568",
+    "geom:latitude":37.035568,
+    "geom:longitude":-88.567317,
+    "iso:country":"US",
+    "sg:address":"705 Milliken Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7375",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jVsJC2vzsYyMdq2bqnLRz_37.035568_-88.567317@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045131,
+    "wof:geomhash":"1d666e509771e33d42a35877a6642cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840661285
+        }
+    ],
+    "wof:id":840661285,
+    "wof:lastmodified":1464045131,
+    "wof:name":"Bob Hicks Body Shop",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -88.567317,
+    37.035568,
+    -88.567317,
+    37.035568
+],
+  "geometry": {"coordinates":[-88.567317,37.035568],"type":"Point"}
+}

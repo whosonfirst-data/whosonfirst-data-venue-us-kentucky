@@ -1,0 +1,71 @@
+{
+  "id": 840757597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7692,37.284239,-85.7692,37.284239",
+    "geom:latitude":37.284239,
+    "geom:longitude":-85.7692,
+    "iso:country":"US",
+    "sg:address":"2635 N Jackson Hwy",
+    "sg:city":"Canmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 528 5023",
+    "sg:postcode":"42722",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IwF5ysp5NlbJNPXXZpL2u_37.284239_-85.769200@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047274,
+    "wof:geomhash":"47abbbcf33a5096822e539a59e132254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840757597
+        }
+    ],
+    "wof:id":840757597,
+    "wof:lastmodified":1464047274,
+    "wof:name":"Willie Wells Transmissions",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.7692,
+    37.284239,
+    -85.7692,
+    37.284239
+],
+  "geometry": {"coordinates":[-85.7692,37.284239],"type":"Point"}
+}

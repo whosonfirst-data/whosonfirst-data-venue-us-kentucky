@@ -1,0 +1,69 @@
+{
+  "id": 840676415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.57277,37.87833,-84.57277,37.87833",
+    "geom:latitude":37.87833,
+    "geom:longitude":-84.57277,
+    "iso:country":"US",
+    "sg:address":"212 Elm St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 1384",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dRS2pfGQbu3TRLcEbljpW_37.878330_-84.572770@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045473,
+    "wof:geomhash":"744a8bacce10c02b6600c0b731972dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840676415
+        }
+    ],
+    "wof:id":840676415,
+    "wof:lastmodified":1464045473,
+    "wof:name":"Guffy Remodling",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.57277,
+    37.87833,
+    -84.57277,
+    37.87833
+],
+  "geometry": {"coordinates":[-84.57277000000001,37.87833],"type":"Point"}
+}

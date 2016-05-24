@@ -1,0 +1,71 @@
+{
+  "id": 840720489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.365249,37.022444,-86.365249,37.022444",
+    "geom:latitude":37.022444,
+    "geom:longitude":-86.365249,
+    "iso:country":"US",
+    "sg:address":"252 Moorman Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5326",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05QvVDa5RTb26fnFJ36NTG_37.022444_-86.365249@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046519,
+    "wof:geomhash":"6a878e2e5866d39a2ea1d52d7477548b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840720489
+        }
+    ],
+    "wof:id":840720489,
+    "wof:lastmodified":1464046519,
+    "wof:name":"Sandreia's Cleaning Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.365249,
+    37.022444,
+    -86.365249,
+    37.022444
+],
+  "geometry": {"coordinates":[-86.36524900000001,37.022444],"type":"Point"}
+}

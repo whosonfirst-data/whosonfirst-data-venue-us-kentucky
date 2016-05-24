@@ -1,0 +1,71 @@
+{
+  "id": 840888327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423509,36.934589,-86.423509,36.934589",
+    "geom:latitude":36.934589,
+    "geom:longitude":-86.423509,
+    "iso:country":"US",
+    "sg:address":"3255 Spring Hollow Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0600",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgduZEl2t6LgHCtNCfYP7_36.934589_-86.423509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050245,
+    "wof:geomhash":"c43e64529ac6c51c9ac2ad17872a86ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840888327
+        }
+    ],
+    "wof:id":840888327,
+    "wof:lastmodified":1464050245,
+    "wof:name":"Sowders Co Designers-Builders",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.423509,
+    36.934589,
+    -86.423509,
+    36.934589
+],
+  "geometry": {"coordinates":[-86.423509,36.934589],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856736125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.554226,37.046188,-88.554226,37.046188",
+    "geom:latitude":37.046188,
+    "geom:longitude":-88.554226,
+    "iso:country":"US",
+    "sg:address":"3709 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/83785-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7272",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZS488w5OmVeplEae5vVF4_37.046188_-88.554226@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053223,
+    "wof:geomhash":"9b2af55dd433ea18c5a1109b92fc6044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856736125
+        }
+    ],
+    "wof:id":856736125,
+    "wof:lastmodified":1464053223,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.554226,
+    37.046188,
+    -88.554226,
+    37.046188
+],
+  "geometry": {"coordinates":[-88.554226,37.046188],"type":"Point"}
+}

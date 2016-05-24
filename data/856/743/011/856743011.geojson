@@ -1,0 +1,77 @@
+{
+  "id": 856743011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634048,38.231998,-85.634048,38.231998",
+    "geom:latitude":38.231998,
+    "geom:longitude":-85.634048,
+    "iso:country":"US",
+    "sg:address":"1115 Dupont Cir",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 1455",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67ral5yPuGMGhfpkqhquac_38.231998_-85.634048@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053495,
+    "wof:geomhash":"3cd222b9f6be58a8b524513537e19517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856743011
+        }
+    ],
+    "wof:id":856743011,
+    "wof:lastmodified":1464053495,
+    "wof:name":"Diagnostic Medical Imaging Associates PSC & Breast Center",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -85.634048,
+    38.231998,
+    -85.634048,
+    38.231998
+],
+  "geometry": {"coordinates":[-85.63404800000001,38.231998],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840951377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.34735,37.528947,-82.34735,37.528947",
+    "geom:latitude":37.528947,
+    "geom:longitude":-82.34735,
+    "iso:country":"US",
+    "sg:address":"1232 Meathouse Rd",
+    "sg:city":"Canada",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 353 9333",
+    "sg:postcode":"41539",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tyLx1FzH5136hQsc2KZ8Z_37.528947_-82.347350@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051677,
+    "wof:geomhash":"206a600b2f01c531f468fb25785e67ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840951377
+        }
+    ],
+    "wof:id":840951377,
+    "wof:lastmodified":1464051677,
+    "wof:name":"Mitchell Case Trucking",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.34735,
+    37.528947,
+    -82.34735,
+    37.528947
+],
+  "geometry": {"coordinates":[-82.34735000000001,37.528947],"type":"Point"}
+}

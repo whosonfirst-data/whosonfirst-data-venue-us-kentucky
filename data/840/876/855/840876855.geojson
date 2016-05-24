@@ -1,0 +1,75 @@
+{
+  "id": 840876855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.893265,37.191042,-85.893265,37.191042",
+    "geom:latitude":37.191042,
+    "geom:longitude":-85.893265,
+    "iso:country":"US",
+    "sg:address":"5442 S Dixie Hwy",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 4827",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O8uEDRF5sj3pGqpzzUOiT_37.191042_-85.893265@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049990,
+    "wof:geomhash":"7bc6d685dfc610dfe1221b5cebe3fa55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840876855
+        }
+    ],
+    "wof:id":840876855,
+    "wof:lastmodified":1464049990,
+    "wof:name":"Davidson Auto Body",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.893265,
+    37.191042,
+    -85.893265,
+    37.191042
+],
+  "geometry": {"coordinates":[-85.893265,37.191042],"type":"Point"}
+}

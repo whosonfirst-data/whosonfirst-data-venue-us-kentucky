@@ -1,0 +1,73 @@
+{
+  "id": 856746055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.730026,38.218079,-85.730026,38.218079",
+    "geom:latitude":38.218079,
+    "geom:longitude":-85.730026,
+    "iso:country":"US",
+    "sg:address":"1023 Parkway Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 2597",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85803931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UyKMeID9GqS8arNllitKv_38.218079_-85.730026@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053599,
+    "wof:geomhash":"a231e97fb29622fd98c9d4f14547d4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85803931,
+            "region_id":85688641,
+            "venue_id":856746055
+        }
+    ],
+    "wof:id":856746055,
+    "wof:lastmodified":1464053599,
+    "wof:name":"Mike Winters' Electric Inc",
+    "wof:parent_id":85803931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.730026,
+    38.218079,
+    -85.730026,
+    38.218079
+],
+  "geometry": {"coordinates":[-85.730026,38.218079],"type":"Point"}
+}

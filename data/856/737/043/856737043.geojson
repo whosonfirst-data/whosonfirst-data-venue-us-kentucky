@@ -1,0 +1,76 @@
+{
+  "id": 856737043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.872945,37.706943,-85.872945,37.706943",
+    "geom:latitude":37.706943,
+    "geom:longitude":-85.872945,
+    "iso:country":"US",
+    "sg:address":"806 N Dixie Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/173601-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7307",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IKHFXNXeS0W4jz0fc93Mc_37.706943_-85.872945@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053259,
+    "wof:geomhash":"0373e0bfef5818318019b4a11edf5ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737043
+        }
+    ],
+    "wof:id":856737043,
+    "wof:lastmodified":1464053259,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.872945,
+    37.706943,
+    -85.872945,
+    37.706943
+],
+  "geometry": {"coordinates":[-85.872945,37.706943],"type":"Point"}
+}

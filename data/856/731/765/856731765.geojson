@@ -1,0 +1,75 @@
+{
+  "id": 856731765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.746338,38.252701,-85.746338,38.252701",
+    "geom:latitude":38.252701,
+    "geom:longitude":-85.746338,
+    "iso:country":"US",
+    "sg:address":"401 E Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 3332",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Swzj1IHE3Be85bqQOxLz_38.252612_-85.745770@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053064,
+    "wof:geomhash":"b9b866738654cae544d7afa9bcd989c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":856731765
+        }
+    ],
+    "wof:id":856731765,
+    "wof:lastmodified":1464053064,
+    "wof:name":"Kremer's Smoke Shoppe",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar"
+    ]
+},
+  "bbox": [
+    -85.746338,
+    38.252701,
+    -85.746338,
+    38.252701
+],
+  "geometry": {"coordinates":[-85.74633799999999,38.252701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840554059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.549972,37.673398,-87.549972,37.673398",
+    "geom:latitude":37.673398,
+    "geom:longitude":-87.549972,
+    "iso:country":"US",
+    "sg:address":"8089 State Hwy 416",
+    "sg:city":"Robards",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 521 7028",
+    "sg:postcode":"42452",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70pgORoqJ1pGTzZbKBA0QO_37.673398_-87.549972@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042604,
+    "wof:geomhash":"56cd3d2df8d1e9e42b6b053ab28cf20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840554059
+        }
+    ],
+    "wof:id":840554059,
+    "wof:lastmodified":1464042604,
+    "wof:name":"Robards Baptist Church",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.549972,
+    37.673398,
+    -87.549972,
+    37.673398
+],
+  "geometry": {"coordinates":[-87.549972,37.673398],"type":"Point"}
+}

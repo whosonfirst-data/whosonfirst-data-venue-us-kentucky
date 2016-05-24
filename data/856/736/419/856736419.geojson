@@ -1,0 +1,74 @@
+{
+  "id": 856736419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423876,36.948272,-86.423876,36.948272",
+    "geom:latitude":36.948272,
+    "geom:longitude":-86.423876,
+    "iso:country":"US",
+    "sg:address":"2738 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/120457-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1212",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QmvDOwauRB3qqtEjyhucM_36.948272_-86.423876@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053239,
+    "wof:geomhash":"f66edfefe290c3209ed980ea4998817c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736419
+        }
+    ],
+    "wof:id":856736419,
+    "wof:lastmodified":1464053239,
+    "wof:name":"Subway",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.423876,
+    36.948272,
+    -86.423876,
+    36.948272
+],
+  "geometry": {"coordinates":[-86.42387600000001,36.948272],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840717385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.923176,37.007478,-85.923176,37.007478",
+    "geom:latitude":37.007478,
+    "geom:longitude":-85.923176,
+    "iso:country":"US",
+    "sg:address":"105 Smith Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 2937",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rf1GNYgtPjLVr9m67o1MH_37.007478_-85.923176@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046447,
+    "wof:geomhash":"2ffb7a02b2b34161e6696ff669a9bd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840717385
+        }
+    ],
+    "wof:id":840717385,
+    "wof:lastmodified":1464046447,
+    "wof:name":"Jerry's Auto Sales",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.923176,
+    37.007478,
+    -85.923176,
+    37.007478
+],
+  "geometry": {"coordinates":[-85.923176,37.007478],"type":"Point"}
+}

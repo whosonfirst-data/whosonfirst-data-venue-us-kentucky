@@ -1,0 +1,73 @@
+{
+  "id": 840828341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583519,37.850546,-87.583519,37.850546",
+    "geom:latitude":37.850546,
+    "geom:longitude":-87.583519,
+    "iso:country":"US",
+    "sg:address":"1023 N Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0838",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bez5uOupmrOExxWdpDZNB_37.850546_-87.583519@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048970,
+    "wof:geomhash":"17fcdbb4fa9228436daf8263ab4b744b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840828341
+        }
+    ],
+    "wof:id":840828341,
+    "wof:lastmodified":1464048970,
+    "wof:name":"O'Nan & Rashidian",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.583519,
+    37.850546,
+    -87.583519,
+    37.850546
+],
+  "geometry": {"coordinates":[-87.583519,37.850546],"type":"Point"}
+}

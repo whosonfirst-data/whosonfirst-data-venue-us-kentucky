@@ -1,0 +1,83 @@
+{
+  "id": 840549127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678972,38.186376,-85.678972,38.186376",
+    "geom:latitude":38.186376,
+    "geom:longitude":-85.678972,
+    "iso:country":"US",
+    "sg:address":"4500 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 1264",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "logistics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FyymVKXHvrnppP4pKx2v5_38.186376_-85.678972@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042489,
+    "wof:geomhash":"1f45be007f104f5adc9280b6ff45c4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840549127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840549127
+        }
+    ],
+    "wof:id":840549127,
+    "wof:lastmodified":1464042489,
+    "wof:name":"TNT Logistics North America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logistics"
+    ]
+},
+  "bbox": [
+    -85.678972,
+    38.186376,
+    -85.678972,
+    38.186376
+],
+  "geometry": {"coordinates":[-85.678972,38.186376],"type":"Point"}
+}

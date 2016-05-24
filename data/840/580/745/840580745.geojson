@@ -1,0 +1,81 @@
+{
+  "id": 840580745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.778605,37.646291,-84.778605,37.646291",
+    "geom:latitude":37.646291,
+    "geom:longitude":-84.778605,
+    "iso:country":"US",
+    "sg:address":"517 W Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 5370",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JgyLuVbIiOZi1vXM53AyK_37.646291_-84.778605@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043223,
+    "wof:geomhash":"3ccb4716e6f701ab687f9aeb5d134f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840580745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840580745
+        }
+    ],
+    "wof:id":840580745,
+    "wof:lastmodified":1464043223,
+    "wof:name":"Centre Shoppes Hallmark",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.778605,
+    37.646291,
+    -84.778605,
+    37.646291
+],
+  "geometry": {"coordinates":[-84.778605,37.646291],"type":"Point"}
+}

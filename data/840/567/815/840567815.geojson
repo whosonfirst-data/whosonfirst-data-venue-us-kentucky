@@ -1,0 +1,73 @@
+{
+  "id": 840567815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.728428,38.236632,-85.728428,38.236632",
+    "geom:latitude":38.236632,
+    "geom:longitude":-85.728428,
+    "iso:country":"US",
+    "sg:address":"996 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 6621",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VKFTQHciU3xwDYco6jf2J_38.236632_-85.728428@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042925,
+    "wof:geomhash":"d128148a39e1dadd0278fa2e9478f5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":840567815
+        }
+    ],
+    "wof:id":840567815,
+    "wof:lastmodified":1464042925,
+    "wof:name":"Bill's Auto Svc",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.728428,
+    38.236632,
+    -85.728428,
+    38.236632
+],
+  "geometry": {"coordinates":[-85.72842799999999,38.236632],"type":"Point"}
+}

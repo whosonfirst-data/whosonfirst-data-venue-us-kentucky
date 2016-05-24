@@ -1,0 +1,71 @@
+{
+  "id": 856762853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.825568,37.649178,-85.825568,37.649178",
+    "geom:latitude":37.649178,
+    "geom:longitude":-85.825568,
+    "iso:country":"US",
+    "sg:address":"2029 Hodgenville Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1837",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hsywy3BtYGcZEXLAigVjO_37.649178_-85.825568@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054230,
+    "wof:geomhash":"dd61bc393e730a52d6359929cf70b1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856762853
+        }
+    ],
+    "wof:id":856762853,
+    "wof:lastmodified":1464054230,
+    "wof:name":"Waddell Plumbing",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -85.825568,
+    37.649178,
+    -85.825568,
+    37.649178
+],
+  "geometry": {"coordinates":[-85.825568,37.649178],"type":"Point"}
+}

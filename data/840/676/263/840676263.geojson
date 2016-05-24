@@ -1,0 +1,71 @@
+{
+  "id": 840676263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.873699,37.607142,-84.873699,37.607142",
+    "geom:latitude":37.607142,
+    "geom:longitude":-84.873699,
+    "iso:country":"US",
+    "sg:address":"6865 Lebanon Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 9613",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3leqip2uh1pBjbRuE5EcMB_37.607142_-84.873699@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045470,
+    "wof:geomhash":"ceee3e6c1be7a2c38d6c5aed095e4cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840676263
+        }
+    ],
+    "wof:id":840676263,
+    "wof:lastmodified":1464045470,
+    "wof:name":"B & M Smith Garage",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.873699,
+    37.607142,
+    -84.873699,
+    37.607142
+],
+  "geometry": {"coordinates":[-84.873699,37.607142],"type":"Point"}
+}

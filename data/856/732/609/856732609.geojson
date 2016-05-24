@@ -1,0 +1,74 @@
+{
+  "id": 856732609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725749,38.242148,-85.725749,38.242148",
+    "geom:latitude":38.242148,
+    "geom:longitude":-85.725749,
+    "iso:country":"US",
+    "sg:address":"919 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/4341-jupiter-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 7733",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24AhcTevSm5keYpbhw14TH_38.242148_-85.725749@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053096,
+    "wof:geomhash":"48bb4dd9a0de3a9f3211fe1e4515a0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856732609
+        }
+    ],
+    "wof:id":856732609,
+    "wof:lastmodified":1464053096,
+    "wof:name":"Jupiter Grill",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.725749,
+    38.242148,
+    -85.725749,
+    38.242148
+],
+  "geometry": {"coordinates":[-85.72574899999999,38.242148],"type":"Point"}
+}

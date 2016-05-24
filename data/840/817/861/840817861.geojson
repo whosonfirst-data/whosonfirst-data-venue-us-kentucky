@@ -1,0 +1,68 @@
+{
+  "id": 840817861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501716,38.057735,-84.501716,38.057735",
+    "geom:latitude":38.057735,
+    "geom:longitude":-84.501716,
+    "iso:country":"US",
+    "sg:address":"330 Newtown Pike",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 4096",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wahBW26MR0HRtoM44hKPY_38.057735_-84.501716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048690,
+    "wof:geomhash":"45a78084d00af62f0065954edb4eaa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873079,
+            "region_id":85688641,
+            "venue_id":840817861
+        }
+    ],
+    "wof:id":840817861,
+    "wof:lastmodified":1464048690,
+    "wof:name":"On The Move Commercial Svcs",
+    "wof:parent_id":85873079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.501716,
+    38.057735,
+    -84.501716,
+    38.057735
+],
+  "geometry": {"coordinates":[-84.501716,38.057735],"type":"Point"}
+}

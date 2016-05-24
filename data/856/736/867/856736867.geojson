@@ -1,0 +1,74 @@
+{
+  "id": 856736867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.554517,37.825699,-87.554517,37.825699",
+    "geom:latitude":37.825699,
+    "geom:longitude":-87.554517,
+    "iso:country":"US",
+    "sg:address":"177 N Gardenmile Rd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/henderson/120556-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 7827",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IXW0VUWl8ud1dRPzlEfUb_37.825699_-87.554517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053253,
+    "wof:geomhash":"0983852ecca8e0c4161a2754f5bc60b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856736867
+        }
+    ],
+    "wof:id":856736867,
+    "wof:lastmodified":1464053253,
+    "wof:name":"Subway",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.554517,
+    37.825699,
+    -87.554517,
+    37.825699
+],
+  "geometry": {"coordinates":[-87.554517,37.825699],"type":"Point"}
+}

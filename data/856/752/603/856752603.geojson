@@ -1,0 +1,85 @@
+{
+  "id": 856752603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.510406,38.186829,-85.510406,38.186829",
+    "geom:latitude":38.186829,
+    "geom:longitude":-85.510406,
+    "iso:country":"US",
+    "sg:address":"3701 Hopewell Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 365 1278",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brew",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vz8sGRyRicpvDzbfW4B5b_38.186829_-85.510406@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053854,
+    "wof:geomhash":"11d09911d8de9a993f30abee9af8d32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752603
+        }
+    ],
+    "wof:id":856752603,
+    "wof:lastmodified":1464053854,
+    "wof:name":"Gts Sports Pub",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -85.510406,
+    38.186829,
+    -85.510406,
+    38.186829
+],
+  "geometry": {"coordinates":[-85.510406,38.186829],"type":"Point"}
+}

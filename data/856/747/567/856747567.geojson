@@ -1,0 +1,86 @@
+{
+  "id": 856747567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626361,38.198108,-85.626361,38.198108",
+    "geom:latitude":38.198108,
+    "geom:longitude":-85.626361,
+    "iso:country":"US",
+    "sg:address":"4432 Woodgate Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 5777",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transfer",
+        "broker",
+        "agent",
+        "bond",
+        "stock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MxekLUuigRuxQ8V2HFWdU_38.198108_-85.626361@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053661,
+    "wof:geomhash":"59107e8f69e03fd55a4d09c4465b6bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747567
+        }
+    ],
+    "wof:id":856747567,
+    "wof:lastmodified":1464053661,
+    "wof:name":"Sammons Securities Co",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transfer",
+        "broker",
+        "agent",
+        "bond",
+        "stock"
+    ]
+},
+  "bbox": [
+    -85.626361,
+    38.198108,
+    -85.626361,
+    38.198108
+],
+  "geometry": {"coordinates":[-85.626361,38.198108],"type":"Point"}
+}

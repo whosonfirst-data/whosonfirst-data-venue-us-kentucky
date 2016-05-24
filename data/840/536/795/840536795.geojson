@@ -1,0 +1,84 @@
+{
+  "id": 840536795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.810942,38.269327,-85.810942,38.269327",
+    "geom:latitude":38.269327,
+    "geom:longitude":-85.810942,
+    "iso:country":"US",
+    "sg:address":"3601 Parker Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 5502",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "disposal",
+        "waste",
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AjPpwDm5T0lSakM42DUqM_38.269327_-85.810942@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042131,
+    "wof:geomhash":"5df29bc5c003aa35f8b12995579fabcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840536795
+        }
+    ],
+    "wof:id":840536795,
+    "wof:lastmodified":1464042131,
+    "wof:name":"Midwest Environmental Services",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste",
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.810942,
+    38.269327,
+    -85.810942,
+    38.269327
+],
+  "geometry": {"coordinates":[-85.810942,38.269327],"type":"Point"}
+}

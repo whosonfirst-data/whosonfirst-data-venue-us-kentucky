@@ -1,0 +1,71 @@
+{
+  "id": 840579747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.76332,37.641287,-84.76332,37.641287",
+    "geom:latitude":37.641287,
+    "geom:longitude":-84.76332,
+    "iso:country":"US",
+    "sg:address":"210 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 8673",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315CljQvUPk8BxuuUUJdr8_37.641287_-84.763320@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043199,
+    "wof:geomhash":"f1ab3f8fed16bc7414746194157a2826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840579747
+        }
+    ],
+    "wof:id":840579747,
+    "wof:lastmodified":1464043199,
+    "wof:name":"Central Ky Land Surveying",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -84.76332,
+    37.641287,
+    -84.76332,
+    37.641287
+],
+  "geometry": {"coordinates":[-84.76331999999999,37.641287],"type":"Point"}
+}

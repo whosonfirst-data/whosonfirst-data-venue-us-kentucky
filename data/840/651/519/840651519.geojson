@@ -1,0 +1,69 @@
+{
+  "id": 840651519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.823952,37.629434,-84.823952,37.629434",
+    "geom:latitude":37.629434,
+    "geom:longitude":-84.823952,
+    "iso:country":"US",
+    "sg:address":"58 Corporate Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7023",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qUn8x6EX36Tui6ZslQ3ol_37.629434_-84.823952@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044920,
+    "wof:geomhash":"b38bdfb934d44f4a54b2b761c3eb1730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840651519
+        }
+    ],
+    "wof:id":840651519,
+    "wof:lastmodified":1464044920,
+    "wof:name":"Hobart Corp",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -84.823952,
+    37.629434,
+    -84.823952,
+    37.629434
+],
+  "geometry": {"coordinates":[-84.82395200000001,37.629434],"type":"Point"}
+}

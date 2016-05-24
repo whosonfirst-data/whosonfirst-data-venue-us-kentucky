@@ -1,0 +1,71 @@
+{
+  "id": 840745255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.701897,36.763685,-83.701897,36.763685",
+    "geom:latitude":36.763685,
+    "geom:longitude":-83.701897,
+    "iso:country":"US",
+    "sg:address":"507 Kentucky Ave",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 2373",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EGFNQCN315aUBDYCUH3vm_36.763685_-83.701897@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046992,
+    "wof:geomhash":"f77ef9e6dd8d49df0bdaed7cda8d82b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840745255
+        }
+    ],
+    "wof:id":840745255,
+    "wof:lastmodified":1464046992,
+    "wof:name":"First Presbyterian Church",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -83.701897,
+    36.763685,
+    -83.701897,
+    36.763685
+],
+  "geometry": {"coordinates":[-83.701897,36.763685],"type":"Point"}
+}

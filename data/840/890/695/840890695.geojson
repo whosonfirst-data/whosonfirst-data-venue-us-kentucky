@@ -1,0 +1,73 @@
+{
+  "id": 840890695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751397,38.193976,-85.751397,38.193976",
+    "geom:latitude":38.193976,
+    "geom:longitude":-85.751397,
+    "iso:country":"US",
+    "sg:address":"468 Huron Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 6551",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Akvb9oIU0PmnHXdUz6r9x_38.193976_-85.751397@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050299,
+    "wof:geomhash":"3f56a9c5caaea4ae637bd82c06f07847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873389,
+            "region_id":85688641,
+            "venue_id":840890695
+        }
+    ],
+    "wof:id":840890695,
+    "wof:lastmodified":1464050299,
+    "wof:name":"Mercy Ambulance Svc",
+    "wof:parent_id":85873389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.751397,
+    38.193976,
+    -85.751397,
+    38.193976
+],
+  "geometry": {"coordinates":[-85.751397,38.193976],"type":"Point"}
+}

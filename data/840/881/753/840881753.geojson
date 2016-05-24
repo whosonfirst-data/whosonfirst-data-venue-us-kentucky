@@ -1,0 +1,77 @@
+{
+  "id": 840881753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.479298,38.266838,-85.479298,38.266838",
+    "geom:latitude":38.266838,
+    "geom:longitude":-85.479298,
+    "iso:country":"US",
+    "sg:address":"2015 Fairway Vista Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 5760",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "aluminum",
+        "primary",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SH8Q9jYqGiT8BUQjA9LXS_38.266838_-85.479298@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050108,
+    "wof:geomhash":"d77bf111f6ae547033ded565ba3e971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840881753
+        }
+    ],
+    "wof:id":840881753,
+    "wof:lastmodified":1464050108,
+    "wof:name":"Reynolds Metals Company",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aluminum",
+        "primary",
+        "producer"
+    ]
+},
+  "bbox": [
+    -85.479298,
+    38.266838,
+    -85.479298,
+    38.266838
+],
+  "geometry": {"coordinates":[-85.479298,38.266838],"type":"Point"}
+}

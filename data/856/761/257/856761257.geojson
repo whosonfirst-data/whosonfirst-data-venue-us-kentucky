@@ -1,0 +1,69 @@
+{
+  "id": 856761257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.703514,37.107328,-88.703514,37.107328",
+    "geom:latitude":37.107328,
+    "geom:longitude":-88.703514,
+    "iso:country":"US",
+    "sg:address":"5075 Meredith Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6060",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g4LItFArUK1DijUIj6XJU_37.107328_-88.703514@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"df9ae6d1536e90e273be011053103a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856761257
+        }
+    ],
+    "wof:id":856761257,
+    "wof:lastmodified":1464054170,
+    "wof:name":"Matheny Electric Service",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -88.703514,
+    37.107328,
+    -88.703514,
+    37.107328
+],
+  "geometry": {"coordinates":[-88.703514,37.107328],"type":"Point"}
+}

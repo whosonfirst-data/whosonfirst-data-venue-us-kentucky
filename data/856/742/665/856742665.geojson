@@ -1,0 +1,75 @@
+{
+  "id": 856742665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651053,38.25044,-85.651053,38.25044",
+    "geom:latitude":38.25044,
+    "geom:longitude":-85.651053,
+    "iso:country":"US",
+    "sg:address":"3945 Nanz Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 1800",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CYXGCkylXXkfwClTBLNl4_38.250440_-85.651053@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053482,
+    "wof:geomhash":"8424207e4c98acc05eedcf71864d0183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856742665
+        }
+    ],
+    "wof:id":856742665,
+    "wof:lastmodified":1464053482,
+    "wof:name":"Schaper's Salon",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -85.651053,
+    38.25044,
+    -85.651053,
+    38.25044
+],
+  "geometry": {"coordinates":[-85.651053,38.25044],"type":"Point"}
+}

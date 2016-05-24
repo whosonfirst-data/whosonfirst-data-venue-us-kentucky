@@ -1,0 +1,73 @@
+{
+  "id": 840717751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.592433,37.84242,-87.592433,37.84242",
+    "geom:latitude":37.84242,
+    "geom:longitude":-87.592433,
+    "iso:country":"US",
+    "sg:address":"212 N Water St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 5313",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HT6o51RnfrjPS7RzWg0tK_37.842420_-87.592433@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046454,
+    "wof:geomhash":"5321051c0e32c3d7b8770ff32481d34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840717751
+        }
+    ],
+    "wof:id":840717751,
+    "wof:lastmodified":1464046454,
+    "wof:name":"Unemployment Division",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -87.592433,
+    37.84242,
+    -87.592433,
+    37.84242
+],
+  "geometry": {"coordinates":[-87.592433,37.84242],"type":"Point"}
+}

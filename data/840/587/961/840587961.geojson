@@ -1,0 +1,77 @@
+{
+  "id": 840587961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800944,38.27196,-85.800944,38.27196",
+    "geom:latitude":38.27196,
+    "geom:longitude":-85.800944,
+    "iso:country":"US",
+    "sg:address":"3210 Gilligan St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 2480",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aGaeP9r1SrK6XeSA34cwM_38.271960_-85.800944@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043379,
+    "wof:geomhash":"9b5968ce37def8e42973f81a2ab5ba51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":840587961
+        }
+    ],
+    "wof:id":840587961,
+    "wof:lastmodified":1464043379,
+    "wof:name":"Clary's Auto Parts",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "used"
+    ]
+},
+  "bbox": [
+    -85.800944,
+    38.27196,
+    -85.800944,
+    38.27196
+],
+  "geometry": {"coordinates":[-85.800944,38.27196],"type":"Point"}
+}

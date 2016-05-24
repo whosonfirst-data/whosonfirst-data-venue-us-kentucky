@@ -1,0 +1,71 @@
+{
+  "id": 840943465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.631567,37.094603,-88.631567,37.094603",
+    "geom:latitude":37.094603,
+    "geom:longitude":-88.631567,
+    "iso:country":"US",
+    "sg:address":"1115 N H C Mathis Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9494",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y4SuFR9sYazGKIkH0bcoO_37.094603_-88.631567@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051523,
+    "wof:geomhash":"21ae6dd7cb9bc07b1b19a35a452e1fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840943465
+        }
+    ],
+    "wof:id":840943465,
+    "wof:lastmodified":1464051523,
+    "wof:name":"Enterprise Medical",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.631567,
+    37.094603,
+    -88.631567,
+    37.094603
+],
+  "geometry": {"coordinates":[-88.631567,37.094603],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840741285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.769133,37.648702,-84.769133,37.648702",
+    "geom:latitude":37.648702,
+    "geom:longitude":-84.769133,
+    "iso:country":"US",
+    "sg:address":"102 E Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 0833",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VfpZrcrxvSdMuJ6uGNEYP_37.648702_-84.769133@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046918,
+    "wof:geomhash":"1863cb26132efc9493444941d307419b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840741285
+        }
+    ],
+    "wof:id":840741285,
+    "wof:lastmodified":1464046918,
+    "wof:name":"Charles Campbell MD",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.769133,
+    37.648702,
+    -84.769133,
+    37.648702
+],
+  "geometry": {"coordinates":[-84.769133,37.648702],"type":"Point"}
+}

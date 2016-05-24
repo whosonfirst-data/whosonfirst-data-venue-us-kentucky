@@ -1,0 +1,74 @@
+{
+  "id": 856724503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.432158,37.001842,-86.432158,37.001842",
+    "geom:latitude":37.001842,
+    "geom:longitude":-86.432158,
+    "iso:country":"US",
+    "sg:address":"107 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2912",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "sg:website":"www.fleetpride.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nTuvMgm0opf8Z1aCiBbRR_37.001842_-86.432158@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052771,
+    "wof:geomhash":"46c3aac02b687b8e2086a0ef088a4b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856724503
+        }
+    ],
+    "wof:id":856724503,
+    "wof:lastmodified":1464052771,
+    "wof:name":"Fleet Pride Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.432158,
+    37.001842,
+    -86.432158,
+    37.001842
+],
+  "geometry": {"coordinates":[-86.432158,37.001842],"type":"Point"}
+}

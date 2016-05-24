@@ -1,0 +1,73 @@
+{
+  "id": 840583871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.879048,36.430327,-88.879048,36.430327",
+    "geom:latitude":36.430327,
+    "geom:longitude":-88.879048,
+    "iso:country":"US",
+    "sg:address":"8570 Wolf Creek Rd",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 1677",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TIciDZcq9t8Fm99Shi6mE_36.430327_-88.879048@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043289,
+    "wof:geomhash":"256859ceb1719cde56929426920ed160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840583871
+        }
+    ],
+    "wof:id":840583871,
+    "wof:lastmodified":1464043289,
+    "wof:name":"Wolfcreek Farm",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -88.879048,
+    36.430327,
+    -88.879048,
+    36.430327
+],
+  "geometry": {"coordinates":[-88.879048,36.430327],"type":"Point"}
+}

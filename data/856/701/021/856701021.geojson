@@ -1,0 +1,83 @@
+{
+  "id": 856701021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.802725,37.654575,-84.802725,37.654575",
+    "geom:latitude":37.654575,
+    "geom:longitude":-84.802725,
+    "iso:country":"US",
+    "sg:address":"101 Citation Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3046",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eHg6dPCNbY8ikwrLGarQa_37.654575_-84.802725@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052080,
+    "wof:geomhash":"89a473bbb05f3c66e0db70cef0a6a334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":856701021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856701021
+        }
+    ],
+    "wof:id":856701021,
+    "wof:lastmodified":1464052080,
+    "wof:name":"US Army Reserve Training",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -84.802725,
+    37.654575,
+    -84.802725,
+    37.654575
+],
+  "geometry": {"coordinates":[-84.802725,37.654575],"type":"Point"}
+}

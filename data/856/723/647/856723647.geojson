@@ -1,0 +1,71 @@
+{
+  "id": 856723647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58314,37.063764,-88.58314,37.063764",
+    "geom:latitude":37.063764,
+    "geom:longitude":-88.58314,
+    "iso:country":"US",
+    "sg:address":"300 Hayes Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8711",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DfDLDKBZySHPfBpD1lr6g_37.063764_-88.583140@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052733,
+    "wof:geomhash":"4e292560e464d0335f398d39efcb4de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856723647
+        }
+    ],
+    "wof:id":856723647,
+    "wof:lastmodified":1464052733,
+    "wof:name":"Carter's Transmission Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -88.58314,
+    37.063764,
+    -88.58314,
+    37.063764
+],
+  "geometry": {"coordinates":[-88.58314,37.063764],"type":"Point"}
+}

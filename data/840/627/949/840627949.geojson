@@ -1,0 +1,75 @@
+{
+  "id": 840627949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.749039,38.249106,-85.749039,38.249106",
+    "geom:latitude":38.249106,
+    "geom:longitude":-85.749039,
+    "iso:country":"US",
+    "sg:address":"201 Abraham Flexner Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 581 1951",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cc1WKe3LkMnYJiOP1y74u_38.249106_-85.749039@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044378,
+    "wof:geomhash":"1c595380faf99e39df3f2502efd5f223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":840627949
+        }
+    ],
+    "wof:id":840627949,
+    "wof:lastmodified":1464044378,
+    "wof:name":"Heart Specialists",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.749039,
+    38.249106,
+    -85.749039,
+    38.249106
+],
+  "geometry": {"coordinates":[-85.749039,38.249106],"type":"Point"}
+}

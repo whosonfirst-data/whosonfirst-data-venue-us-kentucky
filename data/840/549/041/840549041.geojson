@@ -1,0 +1,69 @@
+{
+  "id": 840549041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.73471,38.050579,-84.73471,38.050579",
+    "geom:latitude":38.050579,
+    "geom:longitude":-84.73471,
+    "iso:country":"US",
+    "sg:address":"101 Woodlawn Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 9733",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4onYt21ptSp8kjwBzGhCnc_38.050579_-84.734710@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042487,
+    "wof:geomhash":"36a090be1f2132ddd4e3a83722b310ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840549041
+        }
+    ],
+    "wof:id":840549041,
+    "wof:lastmodified":1464042487,
+    "wof:name":"Seasonal Comfort",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.73471,
+    38.050579,
+    -84.73471,
+    38.050579
+],
+  "geometry": {"coordinates":[-84.73471000000001,38.050579],"type":"Point"}
+}

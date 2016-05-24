@@ -1,0 +1,68 @@
+{
+  "id": 840833015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.89987,37.001082,-85.89987,37.001082",
+    "geom:latitude":37.001082,
+    "geom:longitude":-85.89987,
+    "iso:country":"US",
+    "sg:address":"125 Park Ave",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 4991",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ek3ChrFK06bPVh7KxX6ZB_37.001082_-85.899870@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049065,
+    "wof:geomhash":"5536bcdbf1a485eeace045e8f2f7b0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840833015
+        }
+    ],
+    "wof:id":840833015,
+    "wof:lastmodified":1464049065,
+    "wof:name":"Auto Insurance Network",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.89987,
+    37.001082,
+    -85.89987,
+    37.001082
+],
+  "geometry": {"coordinates":[-85.89987000000001,37.001082],"type":"Point"}
+}

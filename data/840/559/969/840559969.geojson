@@ -1,0 +1,73 @@
+{
+  "id": 840559969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.743663,38.246169,-85.743663,38.246169",
+    "geom:latitude":38.246169,
+    "geom:longitude":-85.743663,
+    "iso:country":"US",
+    "sg:address":"519 E Gray St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 3922",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cO8cXfO1zz7e5p2GdiFI6_38.246169_-85.743663@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042736,
+    "wof:geomhash":"f60e36a54261b1ca276d6495f7d52979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":840559969
+        }
+    ],
+    "wof:id":840559969,
+    "wof:lastmodified":1464042736,
+    "wof:name":"Green Street Baptist Church",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.743663,
+    38.246169,
+    -85.743663,
+    38.246169
+],
+  "geometry": {"coordinates":[-85.743663,38.246169],"type":"Point"}
+}

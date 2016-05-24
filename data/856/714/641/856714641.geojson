@@ -1,0 +1,85 @@
+{
+  "id": 856714641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663583,38.194238,-85.663583,38.194238",
+    "geom:latitude":38.194238,
+    "geom:longitude":-85.663583,
+    "iso:country":"US",
+    "sg:address":"3502 Bashford Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 1105",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JI6hiIlNx5m1oafccBuYv_38.194238_-85.663583@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052378,
+    "wof:geomhash":"4c85161f0af92aab8fc17e405156cb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856714641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856714641
+        }
+    ],
+    "wof:id":856714641,
+    "wof:lastmodified":1464052378,
+    "wof:name":"Bashford Avenue Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.663583,
+    38.194238,
+    -85.663583,
+    38.194238
+],
+  "geometry": {"coordinates":[-85.663583,38.194238],"type":"Point"}
+}

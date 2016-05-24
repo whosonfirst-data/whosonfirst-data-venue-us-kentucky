@@ -1,0 +1,67 @@
+{
+  "id": 840761525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880853,37.729284,-85.880853,37.729284",
+    "geom:latitude":37.729284,
+    "geom:longitude":-85.880853,
+    "iso:country":"US",
+    "sg:address":"1631 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6402",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22kmpwSWrQ2hoKN8soBPTI_37.729284_-85.880853@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047381,
+    "wof:geomhash":"2d37775f9c71bb76dfd502d39856e004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840761525
+        }
+    ],
+    "wof:id":840761525,
+    "wof:lastmodified":1464047381,
+    "wof:name":"Target",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.880853,
+    37.729284,
+    -85.880853,
+    37.729284
+],
+  "geometry": {"coordinates":[-85.880853,37.729284],"type":"Point"}
+}

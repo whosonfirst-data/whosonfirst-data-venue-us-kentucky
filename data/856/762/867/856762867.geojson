@@ -1,0 +1,66 @@
+{
+  "id": 856762867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.770684,37.741608,-85.770684,37.741608",
+    "geom:latitude":37.741608,
+    "geom:longitude":-85.770684,
+    "iso:country":"US",
+    "sg:address":"6085 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5679",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PXy72Utsq1IpH5tbDV2Ev_37.741608_-85.770684@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054230,
+    "wof:geomhash":"3c446cf38046e2ee028d61951b09c587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762867
+        }
+    ],
+    "wof:id":856762867,
+    "wof:lastmodified":1464054230,
+    "wof:name":"In & Out Market",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.770684,
+    37.741608,
+    -85.770684,
+    37.741608
+],
+  "geometry": {"coordinates":[-85.770684,37.741608],"type":"Point"}
+}

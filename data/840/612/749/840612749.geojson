@@ -1,0 +1,71 @@
+{
+  "id": 840612749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.589683,37.890621,-84.589683,37.890621",
+    "geom:latitude":37.890621,
+    "geom:longitude":-84.589683,
+    "iso:country":"US",
+    "sg:address":"260 Wilson Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4611",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tgMkY06aQpBDxMWn0SRKN_37.890621_-84.589683@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043988,
+    "wof:geomhash":"d55834370ed3f144625045889a4e728e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840612749
+        }
+    ],
+    "wof:id":840612749,
+    "wof:lastmodified":1464043988,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -84.589683,
+    37.890621,
+    -84.589683,
+    37.890621
+],
+  "geometry": {"coordinates":[-84.58968299999999,37.890621],"type":"Point"}
+}

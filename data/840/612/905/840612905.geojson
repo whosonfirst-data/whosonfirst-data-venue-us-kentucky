@@ -1,0 +1,71 @@
+{
+  "id": 840612905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.999777,36.966352,-82.999777,36.966352",
+    "geom:latitude":36.966352,
+    "geom:longitude":-82.999777,
+    "iso:country":"US",
+    "sg:address":"1077 College Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 5100",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XVhBmrLeR2GcwqrbcZzx0_36.966352_-82.999777@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043990,
+    "wof:geomhash":"ac13b40adab11d7c34672501f745064a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840612905
+        }
+    ],
+    "wof:id":840612905,
+    "wof:lastmodified":1464043990,
+    "wof:name":"Cumberland Housing Bldg",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -82.999777,
+    36.966352,
+    -82.999777,
+    36.966352
+],
+  "geometry": {"coordinates":[-82.99977699999999,36.966352],"type":"Point"}
+}

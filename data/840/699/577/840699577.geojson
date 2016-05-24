@@ -1,0 +1,71 @@
+{
+  "id": 840699577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.584567,37.881131,-84.584567,37.881131",
+    "geom:latitude":37.881131,
+    "geom:longitude":-84.584567,
+    "iso:country":"US",
+    "sg:address":"701 W Maple St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4022",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wgnbMFQfpYgSVGb14tYCO_37.881131_-84.584567@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046076,
+    "wof:geomhash":"e001ebb69b8e80f82bc199f18b8dde4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840699577
+        }
+    ],
+    "wof:id":840699577,
+    "wof:lastmodified":1464046076,
+    "wof:name":"Hospice Thrift Store",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -84.584567,
+    37.881131,
+    -84.584567,
+    37.881131
+],
+  "geometry": {"coordinates":[-84.58456700000001,37.881131],"type":"Point"}
+}

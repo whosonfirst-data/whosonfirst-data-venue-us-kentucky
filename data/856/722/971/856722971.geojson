@@ -1,0 +1,73 @@
+{
+  "id": 856722971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.8152,37.66959,-85.8152,37.66959",
+    "geom:latitude":37.66959,
+    "geom:longitude":-85.8152,
+    "iso:country":"US",
+    "sg:address":"140 Nancy Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6564",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BEOA5HOXBW4oec7kveS9b_37.669590_-85.815200@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052710,
+    "wof:geomhash":"81baba219581fa3684d7c2acf15b49b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856722971
+        }
+    ],
+    "wof:id":856722971,
+    "wof:lastmodified":1464052710,
+    "wof:name":"Adler Electric",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.8152,
+    37.66959,
+    -85.8152,
+    37.66959
+],
+  "geometry": {"coordinates":[-85.8152,37.66959],"type":"Point"}
+}

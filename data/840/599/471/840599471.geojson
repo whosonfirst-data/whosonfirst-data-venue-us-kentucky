@@ -1,0 +1,73 @@
+{
+  "id": 840599471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.577911,38.204279,-85.577911,38.204279",
+    "geom:latitude":38.204279,
+    "geom:longitude":-85.577911,
+    "iso:country":"US",
+    "sg:address":"9604 Taylorsville Rd",
+    "sg:city":"Jeffersontown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 267 9405",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j3O4VfVqXOj8Fw49bYotn_38.204279_-85.577911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043649,
+    "wof:geomhash":"ef64627a4bc2c60e2beaade36a11eded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840599471
+        }
+    ],
+    "wof:id":840599471,
+    "wof:lastmodified":1464043649,
+    "wof:name":"Dryclean America",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.577911,
+    38.204279,
+    -85.577911,
+    38.204279
+],
+  "geometry": {"coordinates":[-85.577911,38.204279],"type":"Point"}
+}

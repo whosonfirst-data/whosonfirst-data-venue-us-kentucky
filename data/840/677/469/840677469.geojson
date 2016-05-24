@@ -1,0 +1,73 @@
+{
+  "id": 840677469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.955436,36.987374,-85.955436,36.987374",
+    "geom:latitude":36.987374,
+    "geom:longitude":-85.955436,
+    "iso:country":"US",
+    "sg:address":"705 Glen Garry Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 678 4283",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QB9F2fBvo5INrl9aV6LRJ_36.987374_-85.955436@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045502,
+    "wof:geomhash":"b6ce5437493689692dcfef6b8a636576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840677469
+        }
+    ],
+    "wof:id":840677469,
+    "wof:lastmodified":1464045502,
+    "wof:name":"Glasgow Sewage Treatment",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -85.955436,
+    36.987374,
+    -85.955436,
+    36.987374
+],
+  "geometry": {"coordinates":[-85.95543600000001,36.987374],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840763529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.419783,37.005122,-86.419783,37.005122",
+    "geom:latitude":37.005122,
+    "geom:longitude":-86.419783,
+    "iso:country":"US",
+    "sg:address":"1502 Old Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 0666",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SxooTaoe1Jlf0Z7zVsDPQ_37.005122_-86.419783@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047419,
+    "wof:geomhash":"785e945d74b1ef6d95670bdc7cd81d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840763529
+        }
+    ],
+    "wof:id":840763529,
+    "wof:lastmodified":1464047419,
+    "wof:name":"Bluegrass Transmissions",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.419783,
+    37.005122,
+    -86.419783,
+    37.005122
+],
+  "geometry": {"coordinates":[-86.419783,37.005122],"type":"Point"}
+}

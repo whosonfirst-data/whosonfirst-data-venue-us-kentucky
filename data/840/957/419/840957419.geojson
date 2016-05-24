@@ -1,0 +1,84 @@
+{
+  "id": 840957419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.763303,37.620177,-84.763303,37.620177",
+    "geom:latitude":37.620177,
+    "geom:longitude":-84.763303,
+    "iso:country":"US",
+    "sg:address":"111 Daniel Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 0916",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j9k6la3QQKITFzPPzbieR_37.620177_-84.763303@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051786,
+    "wof:geomhash":"24010080921120216d44fe34461a595d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840957419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840957419
+        }
+    ],
+    "wof:id":840957419,
+    "wof:lastmodified":1464051786,
+    "wof:name":"Danville Dermatology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.763303,
+    37.620177,
+    -84.763303,
+    37.620177
+],
+  "geometry": {"coordinates":[-84.76330299999999,37.620177],"type":"Point"}
+}

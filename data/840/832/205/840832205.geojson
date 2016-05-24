@@ -1,0 +1,68 @@
+{
+  "id": 840832205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636118,38.213802,-85.636118,38.213802",
+    "geom:latitude":38.213802,
+    "geom:longitude":-85.636118,
+    "iso:country":"US",
+    "sg:address":"3101 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 485 1811",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sACaEgR4SnWE5jxivZPl4_38.213802_-85.636118@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049047,
+    "wof:geomhash":"0ba148f76195f7619ffe64dde9cfa80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840832205
+        }
+    ],
+    "wof:id":840832205,
+    "wof:lastmodified":1464049047,
+    "wof:name":"Mama Rosa",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.636118,
+    38.213802,
+    -85.636118,
+    38.213802
+],
+  "geometry": {"coordinates":[-85.636118,38.213802],"type":"Point"}
+}

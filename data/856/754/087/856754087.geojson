@@ -1,0 +1,68 @@
+{
+  "id": 856754087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.46703,38.047487,-84.46703,38.047487",
+    "geom:latitude":38.047487,
+    "geom:longitude":-84.46703,
+    "iso:country":"US",
+    "sg:address":"870 Floyd Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 9721",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UNQYaEFvv3KxRt0HowpxD_38.047487_-84.467030@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053911,
+    "wof:geomhash":"b6b0f5b0c9aaf1ecea576ec4424cb833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":856754087
+        }
+    ],
+    "wof:id":856754087,
+    "wof:lastmodified":1464053911,
+    "wof:name":"A & S Auto Repair",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46703,
+    38.047487,
+    -84.46703,
+    38.047487
+],
+  "geometry": {"coordinates":[-84.46702999999999,38.047487],"type":"Point"}
+}

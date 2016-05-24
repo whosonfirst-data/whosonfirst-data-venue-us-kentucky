@@ -1,0 +1,75 @@
+{
+  "id": 840754381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.624464,37.056191,-84.624464,37.056191",
+    "geom:latitude":37.056191,
+    "geom:longitude":-84.624464,
+    "iso:country":"US",
+    "sg:address":"4231 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 0198",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XyMeH8vrfSjt6vTiuq4tz_37.056191_-84.624464@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047208,
+    "wof:geomhash":"003d0fe1bf494bad5b68c5ddd60d9eab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840754381
+        }
+    ],
+    "wof:id":840754381,
+    "wof:lastmodified":1464047208,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.624464,
+    37.056191,
+    -84.624464,
+    37.056191
+],
+  "geometry": {"coordinates":[-84.624464,37.056191],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840828503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570588,37.886072,-84.570588,37.886072",
+    "geom:latitude":37.886072,
+    "geom:longitude":-84.570588,
+    "iso:country":"US",
+    "sg:address":"510 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9944",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvlqSdNSmRNjuqf4f2eUM_37.886072_-84.570588@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048973,
+    "wof:geomhash":"91b700d8dfee68658747a60097b3e97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840828503
+        }
+    ],
+    "wof:id":840828503,
+    "wof:lastmodified":1464048973,
+    "wof:name":"Police Dept-Records",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.570588,
+    37.886072,
+    -84.570588,
+    37.886072
+],
+  "geometry": {"coordinates":[-84.570588,37.886072],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840700055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.619178,37.02928,-84.619178,37.02928",
+    "geom:latitude":37.02928,
+    "geom:longitude":-84.619178,
+    "iso:country":"US",
+    "sg:address":"635 Enterprise Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4867",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wEr0AXPZ8siFAPtsJ2BS5_37.029280_-84.619178@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046086,
+    "wof:geomhash":"9194c5407999f5eb0209254ce7c137c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840700055
+        }
+    ],
+    "wof:id":840700055,
+    "wof:lastmodified":1464046086,
+    "wof:name":"U-Rental Storage",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.619178,
+    37.02928,
+    -84.619178,
+    37.02928
+],
+  "geometry": {"coordinates":[-84.61917800000001,37.02928],"type":"Point"}
+}

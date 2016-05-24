@@ -1,0 +1,73 @@
+{
+  "id": 840632365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480106,38.0583,-84.480106,38.0583",
+    "geom:latitude":38.0583,
+    "geom:longitude":-84.480106,
+    "iso:country":"US",
+    "sg:address":"817 N Limestone St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 231 1270",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HPCawEIaRU4gOLfahSqzf_38.058300_-84.480106@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044496,
+    "wof:geomhash":"1f3765fbda0422a33a738a49809e3936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873025,
+            "region_id":85688641,
+            "venue_id":840632365
+        }
+    ],
+    "wof:id":840632365,
+    "wof:lastmodified":1464044496,
+    "wof:name":"West End Baptist Church",
+    "wof:parent_id":85873025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.480106,
+    38.0583,
+    -84.480106,
+    38.0583
+],
+  "geometry": {"coordinates":[-84.48010600000001,38.0583],"type":"Point"}
+}

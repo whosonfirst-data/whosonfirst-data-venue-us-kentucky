@@ -1,0 +1,71 @@
+{
+  "id": 840919269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.6638,37.084372,-84.6638,37.084372",
+    "geom:latitude":37.084372,
+    "geom:longitude":-84.6638,
+    "iso:country":"US",
+    "sg:address":"2878 State Hwy 80",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4178",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FDhetorDp4rJLHvsAZ38B_37.084372_-84.663800@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050975,
+    "wof:geomhash":"09fcb1139ac52691685c5f2a1d008b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840919269
+        }
+    ],
+    "wof:id":840919269,
+    "wof:lastmodified":1464050975,
+    "wof:name":"Boats-N-Storage",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.6638,
+    37.084372,
+    -84.6638,
+    37.084372
+],
+  "geometry": {"coordinates":[-84.66379999999999,37.084372],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840808811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.575978,37.872389,-84.575978,37.872389",
+    "geom:latitude":37.872389,
+    "geom:longitude":-84.575978,
+    "iso:country":"US",
+    "sg:address":"670 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 4551",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mc7I2NNz5PPqb1DMlI7Cd_37.872389_-84.575978@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048378,
+    "wof:geomhash":"c160e146ca7b463becc0191f9977f5a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840808811
+        }
+    ],
+    "wof:id":840808811,
+    "wof:lastmodified":1464048378,
+    "wof:name":"Tee's Pro-Wash",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.575978,
+    37.872389,
+    -84.575978,
+    37.872389
+],
+  "geometry": {"coordinates":[-84.57597800000001,37.872389],"type":"Point"}
+}

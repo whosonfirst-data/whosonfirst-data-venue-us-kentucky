@@ -1,0 +1,67 @@
+{
+  "id": 840637565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.887174,37.734661,-85.887174,37.734661",
+    "geom:latitude":37.734661,
+    "geom:longitude":-85.887174,
+    "iso:country":"US",
+    "sg:address":"1811 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 9929",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"www.staples.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FrutCQVs8pB9MvukjzRSQ_37.734661_-85.887174@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044630,
+    "wof:geomhash":"55fc18c81be823c5c6ca1d36d0ea065a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840637565
+        }
+    ],
+    "wof:id":840637565,
+    "wof:lastmodified":1464044630,
+    "wof:name":"Staples The Office Superstore",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.887174,
+    37.734661,
+    -85.887174,
+    37.734661
+],
+  "geometry": {"coordinates":[-85.887174,37.734661],"type":"Point"}
+}

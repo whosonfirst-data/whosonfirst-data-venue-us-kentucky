@@ -1,0 +1,78 @@
+{
+  "id": 856732805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.654317,38.252852,-85.654317,38.252852",
+    "geom:latitude":38.252852,
+    "geom:longitude":-85.654317,
+    "iso:country":"US",
+    "sg:address":"3925 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/136624-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 4228",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ktnJ1d1BWgpiPonK2KikD_38.252852_-85.654317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053102,
+    "wof:geomhash":"9ca175d791b491a29e017600ae0f60e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856732805
+        }
+    ],
+    "wof:id":856732805,
+    "wof:lastmodified":1464053102,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.654317,
+    38.252852,
+    -85.654317,
+    38.252852
+],
+  "geometry": {"coordinates":[-85.65431700000001,38.252852],"type":"Point"}
+}

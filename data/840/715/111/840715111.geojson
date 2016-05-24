@@ -1,0 +1,75 @@
+{
+  "id": 840715111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.783304,38.27019,-85.783304,38.27019",
+    "geom:latitude":38.27019,
+    "geom:longitude":-85.783304,
+    "iso:country":"US",
+    "sg:address":"617 Carter St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 9304",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J2fc8y9wZBjZdLPQKOgBo_38.270190_-85.783304@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046405,
+    "wof:geomhash":"b07bcfaa1cdfc27d3ec8a43e47d5abf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":840715111
+        }
+    ],
+    "wof:id":840715111,
+    "wof:lastmodified":1464046405,
+    "wof:name":"Unique Thrift Stores",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -85.783304,
+    38.27019,
+    -85.783304,
+    38.27019
+],
+  "geometry": {"coordinates":[-85.783304,38.27019],"type":"Point"}
+}

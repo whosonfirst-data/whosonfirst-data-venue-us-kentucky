@@ -1,0 +1,71 @@
+{
+  "id": 840534745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725515,38.003985,-85.725515,38.003985",
+    "geom:latitude":38.003985,
+    "geom:longitude":-85.725515,
+    "iso:country":"US",
+    "sg:address":"130 Landmark Ct",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 2671",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tq4SmxpE45gZPUvcoYCjq_38.003985_-85.725515@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042089,
+    "wof:geomhash":"8427d237b68bee953912be477c2f7318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840534745
+        }
+    ],
+    "wof:id":840534745,
+    "wof:lastmodified":1464042089,
+    "wof:name":"Shepherdsville Village Apt",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.725515,
+    38.003985,
+    -85.725515,
+    38.003985
+],
+  "geometry": {"coordinates":[-85.725515,38.003985],"type":"Point"}
+}

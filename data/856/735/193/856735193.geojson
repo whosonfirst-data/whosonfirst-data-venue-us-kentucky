@@ -1,0 +1,74 @@
+{
+  "id": 856735193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.512033,39.084401,-84.512033,39.084401",
+    "geom:latitude":39.084401,
+    "geom:longitude":-84.512033,
+    "iso:country":"US",
+    "sg:address":"100 W 6th St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/209599-tickets-sports-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 431 1839",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FZGr5T0D1iU8jnVgf5TUj_39.084401_-84.512033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053190,
+    "wof:geomhash":"7ea7b9d8073f78252ed7e6888f69f3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856735193
+        }
+    ],
+    "wof:id":856735193,
+    "wof:lastmodified":1464053190,
+    "wof:name":"Tickets Sports Cafe",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.512033,
+    39.084401,
+    -84.512033,
+    39.084401
+],
+  "geometry": {"coordinates":[-84.512033,39.084401],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856733475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.57682,38.239074,-85.57682,38.239074",
+    "geom:latitude":38.239074,
+    "geom:longitude":-85.57682,
+    "iso:country":"US",
+    "sg:address":"617 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/98406-carrabbas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 412 2218",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O4t5XJuQfJpscdGDt4t7U_38.239074_-85.576820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053126,
+    "wof:geomhash":"342a66872114eac7a352def479dd5f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856733475
+        }
+    ],
+    "wof:id":856733475,
+    "wof:lastmodified":1464053126,
+    "wof:name":"Carrabba's",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.57682,
+    38.239074,
+    -85.57682,
+    38.239074
+],
+  "geometry": {"coordinates":[-85.57682,38.239074],"type":"Point"}
+}

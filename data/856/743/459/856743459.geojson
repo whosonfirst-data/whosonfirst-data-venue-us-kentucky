@@ -1,0 +1,86 @@
+{
+  "id": 856743459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763172,38.229016,-85.763172,38.229016",
+    "geom:latitude":38.229016,
+    "geom:longitude":-85.763172,
+    "iso:country":"US",
+    "sg:address":"1402 Saint James Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 5023",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attraction",
+        "historical"
+    ],
+    "sg:website":"http://www.conradcaldwell.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WcT3yAEzS6mw74aKAKutw_38.229016_-85.763172@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053510,
+    "wof:geomhash":"5a40e04e01c008cf344e751f78e48277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866959,
+            "region_id":85688641,
+            "venue_id":856743459
+        }
+    ],
+    "wof:id":856743459,
+    "wof:lastmodified":1464053510,
+    "wof:name":"Conrad-Caldwell House Museum",
+    "wof:parent_id":85866959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "historical"
+    ]
+},
+  "bbox": [
+    -85.763172,
+    38.229016,
+    -85.763172,
+    38.229016
+],
+  "geometry": {"coordinates":[-85.763172,38.229016],"type":"Point"}
+}

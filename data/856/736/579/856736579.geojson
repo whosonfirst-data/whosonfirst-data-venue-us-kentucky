@@ -1,0 +1,73 @@
+{
+  "id": 856736579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209664,37.044334,-86.209664,37.044334",
+    "geom:latitude":37.044334,
+    "geom:longitude":-86.209664,
+    "iso:country":"US",
+    "sg:address":"625 S Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/smiths-grove/186969-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34dNdoymxjLkhpwF203Qps_37.044334_-86.209664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053244,
+    "wof:geomhash":"2715fd76eec191c5afafafc973dd80e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856736579
+        }
+    ],
+    "wof:id":856736579,
+    "wof:lastmodified":1464053244,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.209664,
+    37.044334,
+    -86.209664,
+    37.044334
+],
+  "geometry": {"coordinates":[-86.209664,37.044334],"type":"Point"}
+}

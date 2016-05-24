@@ -1,0 +1,81 @@
+{
+  "id": 856762765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.870667,37.706585,-85.870667,37.706585",
+    "geom:latitude":37.706585,
+    "geom:longitude":-85.870667,
+    "iso:country":"US",
+    "sg:address":"100 Helmwood Plaza Dr B",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4050",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JsjsSKq69Ddbun99tdNI7_37.706585_-85.870667@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054227,
+    "wof:geomhash":"c6940d909f4504c720d9bc240e75cd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762765
+        }
+    ],
+    "wof:id":856762765,
+    "wof:lastmodified":1464054227,
+    "wof:name":"Paul Gerard Md",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.870667,
+    37.706585,
+    -85.870667,
+    37.706585
+],
+  "geometry": {"coordinates":[-85.870667,37.706585],"type":"Point"}
+}

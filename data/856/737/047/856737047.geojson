@@ -1,0 +1,74 @@
+{
+  "id": 856737047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833148,37.714286,-85.833148,37.714286",
+    "geom:latitude":37.714286,
+    "geom:longitude":-85.833148,
+    "iso:country":"US",
+    "sg:address":"105 Buffalo Creek Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/176024-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0369",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r5Xi8hQxWAzfD5chzI73i_37.714286_-85.833148@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053259,
+    "wof:geomhash":"2fb171fb11bf1bd6108d68729bf61dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737047
+        }
+    ],
+    "wof:id":856737047,
+    "wof:lastmodified":1464053259,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.833148,
+    37.714286,
+    -85.833148,
+    37.714286
+],
+  "geometry": {"coordinates":[-85.83314799999999,37.714286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856712501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.81702,38.150788,-85.81702,38.150788",
+    "geom:latitude":38.150788,
+    "geom:longitude":-85.81702,
+    "iso:country":"US",
+    "sg:address":"7739 Brookview Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 937 7296",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3saFEERznWEgwhW6Lut8oD_38.150788_-85.817020@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052315,
+    "wof:geomhash":"2e3777405527080e4f3f0f679064ab91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856712501
+        }
+    ],
+    "wof:id":856712501,
+    "wof:lastmodified":1464052315,
+    "wof:name":"Brookview Apartments",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.81702,
+    38.150788,
+    -85.81702,
+    38.150788
+],
+  "geometry": {"coordinates":[-85.81702,38.150788],"type":"Point"}
+}

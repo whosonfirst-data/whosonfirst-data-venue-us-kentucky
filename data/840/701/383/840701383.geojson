@@ -1,0 +1,69 @@
+{
+  "id": 840701383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.623688,37.051101,-84.623688,37.051101",
+    "geom:latitude":37.051101,
+    "geom:longitude":-84.623688,
+    "iso:country":"US",
+    "sg:address":"123 Stigall Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4033",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ACU9QAcTjG6nKpdFyqz9L_37.051101_-84.623688@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046115,
+    "wof:geomhash":"d92543fda89f686f701ac5734f17a91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840701383
+        }
+    ],
+    "wof:id":840701383,
+    "wof:lastmodified":1464046115,
+    "wof:name":"Pulaski County Hazamat",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -84.623688,
+    37.051101,
+    -84.623688,
+    37.051101
+],
+  "geometry": {"coordinates":[-84.623688,37.051101],"type":"Point"}
+}

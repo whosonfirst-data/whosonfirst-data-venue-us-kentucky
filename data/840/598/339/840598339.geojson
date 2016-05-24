@@ -1,0 +1,73 @@
+{
+  "id": 840598339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441225,37.002299,-86.441225,37.002299",
+    "geom:latitude":37.002299,
+    "geom:longitude":-86.441225,
+    "iso:country":"US",
+    "sg:address":"177 Graham Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2381",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P7fIPQAOCCXJuoRJNfFxV_37.002299_-86.441225@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043618,
+    "wof:geomhash":"a6e0670fd48256e3e0a9062e958d85a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840598339
+        }
+    ],
+    "wof:id":840598339,
+    "wof:lastmodified":1464043618,
+    "wof:name":"Area Agency On Aging",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -86.441225,
+    37.002299,
+    -86.441225,
+    37.002299
+],
+  "geometry": {"coordinates":[-86.441225,37.002299],"type":"Point"}
+}

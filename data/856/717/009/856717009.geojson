@@ -1,0 +1,75 @@
+{
+  "id": 856717009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.731728,38.199804,-85.731728,38.199804",
+    "geom:latitude":38.199804,
+    "geom:longitude":-85.731728,
+    "iso:country":"US",
+    "sg:address":"1207 Hart Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 9087",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fBUWy9ffPlMRDmtJV0UeS_38.199804_-85.731728@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052469,
+    "wof:geomhash":"17dab9cfffe2efa2e407c60bb62df152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856717009
+        }
+    ],
+    "wof:id":856717009,
+    "wof:lastmodified":1464052469,
+    "wof:name":"MUSCL",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.731728,
+    38.199804,
+    -85.731728,
+    38.199804
+],
+  "geometry": {"coordinates":[-85.731728,38.199804],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840554647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758839,38.181889,-85.758839,38.181889",
+    "geom:latitude":38.181889,
+    "geom:longitude":-85.758839,
+    "iso:country":"US",
+    "sg:address":"100 Francis Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 6711",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mkX0alFjQNCgFkUNsuW1m_38.181889_-85.758839@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042620,
+    "wof:geomhash":"33bd89d18cb16f70e922861bf1d477b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":840554647
+        }
+    ],
+    "wof:id":840554647,
+    "wof:lastmodified":1464042620,
+    "wof:name":"Bronner Realty",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.758839,
+    38.181889,
+    -85.758839,
+    38.181889
+],
+  "geometry": {"coordinates":[-85.75883899999999,38.181889],"type":"Point"}
+}

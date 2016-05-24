@@ -1,0 +1,72 @@
+{
+  "id": 840551029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.564471,37.052524,-88.564471,37.052524",
+    "geom:latitude":37.052524,
+    "geom:longitude":-88.564471,
+    "iso:country":"US",
+    "sg:address":"3470 Wayne Sullivan Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 5450",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.cornerhomecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7987nobF5BRI1rT7ZBmYQZ_37.052524_-88.564471@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042535,
+    "wof:geomhash":"f17253aac49d9fcbe959099d6281d4c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840551029
+        }
+    ],
+    "wof:id":840551029,
+    "wof:lastmodified":1464042535,
+    "wof:name":"Corner Home Care/Option Care",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -88.564471,
+    37.052524,
+    -88.564471,
+    37.052524
+],
+  "geometry": {"coordinates":[-88.564471,37.052524],"type":"Point"}
+}

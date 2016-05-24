@@ -1,0 +1,68 @@
+{
+  "id": 840756423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741153,38.212348,-85.741153,38.212348",
+    "geom:latitude":38.212348,
+    "geom:longitude":-85.741153,
+    "iso:country":"US",
+    "sg:address":"2508 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 8322",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qqiVjVz0Nrg7WPvYbJ4eP_38.212348_-85.741153@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047251,
+    "wof:geomhash":"b81c1b65846f3a4852ce7b2dbd1a1b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":840756423
+        }
+    ],
+    "wof:id":840756423,
+    "wof:lastmodified":1464047251,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.741153,
+    38.212348,
+    -85.741153,
+    38.212348
+],
+  "geometry": {"coordinates":[-85.741153,38.212348],"type":"Point"}
+}

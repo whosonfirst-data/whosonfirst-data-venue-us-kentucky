@@ -1,0 +1,93 @@
+{
+  "id": 856743041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631041,38.234945,-85.631041,38.234945",
+    "geom:latitude":38.234945,
+    "geom:longitude":-85.631041,
+    "iso:country":"US",
+    "sg:address":"4130 Dutchmans Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 1794",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "injury",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "sport"
+    ],
+    "sg:website":"http://www.louortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Emsbe7Xtwtw1Wyn82rQ7Y_38.234945_-85.631041@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053496,
+    "wof:geomhash":"46fc05c8af1368dcd8df4426a7c23d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856743041
+        }
+    ],
+    "wof:id":856743041,
+    "wof:lastmodified":1464053496,
+    "wof:name":"Louisville Orthopedic Clinic And Sports Rehabilitation Center PSC",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "injury",
+        "surgeons",
+        "orthopedics",
+        "treatment",
+        "medicine",
+        "surgeon",
+        "sport"
+    ]
+},
+  "bbox": [
+    -85.631041,
+    38.234945,
+    -85.631041,
+    38.234945
+],
+  "geometry": {"coordinates":[-85.631041,38.234945],"type":"Point"}
+}

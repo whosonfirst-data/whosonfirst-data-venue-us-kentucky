@@ -1,0 +1,83 @@
+{
+  "id": 856746705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661266,38.195946,-85.661266,38.195946",
+    "geom:latitude":38.195946,
+    "geom:longitude":-85.661266,
+    "iso:country":"US",
+    "sg:address":"2106 Old Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 4416",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mothproofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B8SaEoItvJBEADJjkx8SZ_38.195946_-85.661266@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053621,
+    "wof:geomhash":"f490a04718e010f3fbc8ebfe8a26f5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746705
+        }
+    ],
+    "wof:id":856746705,
+    "wof:lastmodified":1464053621,
+    "wof:name":"Ipm Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mothproofing"
+    ]
+},
+  "bbox": [
+    -85.661266,
+    38.195946,
+    -85.661266,
+    38.195946
+],
+  "geometry": {"coordinates":[-85.661266,38.195946],"type":"Point"}
+}

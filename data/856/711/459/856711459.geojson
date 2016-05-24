@@ -1,0 +1,73 @@
+{
+  "id": 856711459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.420422,36.952351,-86.420422,36.952351",
+    "geom:latitude":36.952351,
+    "geom:longitude":-86.420422,
+    "iso:country":"US",
+    "sg:address":"989 Pedigo Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 8304",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w7zlXw9p3tPAOiJWiRMxk_36.952351_-86.420422@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052295,
+    "wof:geomhash":"cb64362f2fa27b2c659123cca46eebaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856711459
+        }
+    ],
+    "wof:id":856711459,
+    "wof:lastmodified":1464052295,
+    "wof:name":"Jeff's Plumbing",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.420422,
+    36.952351,
+    -86.420422,
+    36.952351
+],
+  "geometry": {"coordinates":[-86.420422,36.952351],"type":"Point"}
+}

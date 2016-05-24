@@ -1,0 +1,73 @@
+{
+  "id": 840739129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283325,37.588262,-84.283325,37.588262",
+    "geom:latitude":37.588262,
+    "geom:longitude":-84.283325,
+    "iso:country":"US",
+    "sg:address":"301 Melody Ln",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 9112",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "squad",
+        "rescue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WUStgvjhnaHzWCl60O8oK_37.588262_-84.283325@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046882,
+    "wof:geomhash":"6ceaf8fe9bf19d10c33d13f48eed9ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840739129
+        }
+    ],
+    "wof:id":840739129,
+    "wof:lastmodified":1464046882,
+    "wof:name":"Berea Rescue Squad",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "squad",
+        "rescue"
+    ]
+},
+  "bbox": [
+    -84.283325,
+    37.588262,
+    -84.283325,
+    37.588262
+],
+  "geometry": {"coordinates":[-84.283325,37.588262],"type":"Point"}
+}

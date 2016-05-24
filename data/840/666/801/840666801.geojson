@@ -1,0 +1,75 @@
+{
+  "id": 840666801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560952,38.222428,-85.560952,38.222428",
+    "geom:latitude":38.222428,
+    "geom:longitude":-85.560952,
+    "iso:country":"US",
+    "sg:address":"10100 Bluegrass Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 671 2020",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AUzeN7xexvBTp4jDFQdEg_38.222428_-85.560952@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045251,
+    "wof:geomhash":"daa1ec94a8da5a8ea76094a95772f630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840666801
+        }
+    ],
+    "wof:id":840666801,
+    "wof:lastmodified":1464045251,
+    "wof:name":"Optical Dynamics Corp",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.560952,
+    38.222428,
+    -85.560952,
+    38.222428
+],
+  "geometry": {"coordinates":[-85.560952,38.222428],"type":"Point"}
+}

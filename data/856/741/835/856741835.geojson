@@ -1,0 +1,74 @@
+{
+  "id": 856741835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.714363,38.249797,-85.714363,38.249797",
+    "geom:latitude":38.249797,
+    "geom:longitude":-85.714363,
+    "iso:country":"US",
+    "sg:address":"2115 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 0900",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:website":"http://www.kyanags.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fmZ0nl0xkqJiMieY1CE2O_38.249797_-85.714363@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053452,
+    "wof:geomhash":"48f4c4304a7d1c78d1300cec829b9eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":856741835
+        }
+    ],
+    "wof:id":856741835,
+    "wof:lastmodified":1464053452,
+    "wof:name":"Girl Scouts",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.714363,
+    38.249797,
+    -85.714363,
+    38.249797
+],
+  "geometry": {"coordinates":[-85.71436300000001,38.249797],"type":"Point"}
+}

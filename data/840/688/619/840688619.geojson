@@ -1,0 +1,73 @@
+{
+  "id": 840688619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899098,37.759662,-85.899098,37.759662",
+    "geom:latitude":37.759662,
+    "geom:longitude":-85.899098,
+    "iso:country":"US",
+    "sg:address":"5001 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 735 1848",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Meq4DSiTge7CQea2xlCRZ_37.759662_-85.899098@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045788,
+    "wof:geomhash":"4d90315466fb9aa0ffeed4e92f0dabc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840688619
+        }
+    ],
+    "wof:id":840688619,
+    "wof:lastmodified":1464045788,
+    "wof:name":"Tony Andretta's Shively South",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.899098,
+    37.759662,
+    -85.899098,
+    37.759662
+],
+  "geometry": {"coordinates":[-85.899098,37.759662],"type":"Point"}
+}

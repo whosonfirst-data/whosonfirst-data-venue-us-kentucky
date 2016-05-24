@@ -1,0 +1,73 @@
+{
+  "id": 840616447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627886,37.132482,-84.627886,37.132482",
+    "geom:latitude":37.132482,
+    "geom:longitude":-84.627886,
+    "iso:country":"US",
+    "sg:address":"775 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 0075",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FBZcXYf4D1FAO1jDhr9bS_37.132482_-84.627886@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044072,
+    "wof:geomhash":"ccfe6cf1bd59f6312fe03cd399449074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840616447
+        }
+    ],
+    "wof:id":840616447,
+    "wof:lastmodified":1464044072,
+    "wof:name":"Animal Attractions",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.627886,
+    37.132482,
+    -84.627886,
+    37.132482
+],
+  "geometry": {"coordinates":[-84.627886,37.132482],"type":"Point"}
+}

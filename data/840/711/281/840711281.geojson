@@ -1,0 +1,73 @@
+{
+  "id": 840711281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569149,37.043132,-88.569149,37.043132",
+    "geom:latitude":37.043132,
+    "geom:longitude":-88.569149,
+    "iso:country":"US",
+    "sg:address":"309 Oaks Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9296",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63mRmCAClfhC8qBuYZTrbo_37.043132_-88.569149@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046327,
+    "wof:geomhash":"d1227ab30de8007dda4cc9fb827f4a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840711281
+        }
+    ],
+    "wof:id":840711281,
+    "wof:lastmodified":1464046327,
+    "wof:name":"Campbell's Used Cars",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.569149,
+    37.043132,
+    -88.569149,
+    37.043132
+],
+  "geometry": {"coordinates":[-88.569149,37.043132],"type":"Point"}
+}

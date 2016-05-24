@@ -1,0 +1,73 @@
+{
+  "id": 856714359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.528336,38.247513,-85.528336,38.247513",
+    "geom:latitude":38.247513,
+    "geom:longitude":-85.528336,
+    "iso:country":"US",
+    "sg:address":"305 Middletown Park Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 253 0008",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VhztEWWQg7zdL5oqi732d_38.247513_-85.528336@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052369,
+    "wof:geomhash":"4ceef72c84932b0b9a63534a11abfca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856714359
+        }
+    ],
+    "wof:id":856714359,
+    "wof:lastmodified":1464052369,
+    "wof:name":"Hurstbourne Lane Fmly Dentstry",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.528336,
+    38.247513,
+    -85.528336,
+    38.247513
+],
+  "geometry": {"coordinates":[-85.528336,38.247513],"type":"Point"}
+}

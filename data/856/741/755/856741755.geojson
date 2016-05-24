@@ -1,0 +1,92 @@
+{
+  "id": 856741755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725327,38.25779,-85.725327,38.25779",
+    "geom:latitude":38.25779,
+    "geom:longitude":-85.725327,
+    "iso:country":"US",
+    "sg:address":"114 Adams St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 650 8826",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "religious",
+        "day",
+        "interest"
+    ],
+    "sg:website":"http://www.sjosephcatholic.org/preschool.shtml",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VFyIxSTJhttSTlvKD7s4P_38.257790_-85.725327@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053449,
+    "wof:geomhash":"3213cdc9fb249724ce259f8c5ca4a48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":856741755
+        }
+    ],
+    "wof:id":856741755,
+    "wof:lastmodified":1464053449,
+    "wof:name":"St. Joseph's Parish Preschool",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "religious",
+        "day",
+        "interest"
+    ]
+},
+  "bbox": [
+    -85.725327,
+    38.25779,
+    -85.725327,
+    38.25779
+],
+  "geometry": {"coordinates":[-85.72532699999999,38.25779],"type":"Point"}
+}

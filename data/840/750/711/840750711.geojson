@@ -1,0 +1,71 @@
+{
+  "id": 840750711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879514,37.718675,-85.879514,37.718675",
+    "geom:latitude":37.718675,
+    "geom:longitude":-85.879514,
+    "iso:country":"US",
+    "sg:address":"1201 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3326",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FyWL02YqHIBVNBJpb6Tyx_37.718675_-85.879514@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047121,
+    "wof:geomhash":"8c9e6d467b62c3849feda123d23f4ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840750711
+        }
+    ],
+    "wof:id":840750711,
+    "wof:lastmodified":1464047121,
+    "wof:name":"Cardinal Carriers",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.879514,
+    37.718675,
+    -85.879514,
+    37.718675
+],
+  "geometry": {"coordinates":[-85.879514,37.718675],"type":"Point"}
+}

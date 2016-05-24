@@ -1,0 +1,73 @@
+{
+  "id": 840707351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.386958,36.63714,-87.386958,36.63714",
+    "geom:latitude":36.63714,
+    "geom:longitude":-87.386958,
+    "iso:country":"US",
+    "sg:address":"3390 Allen Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 3114",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85851205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IKH4ul4EhhY942JDywCEB_36.637140_-87.386958@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046252,
+    "wof:geomhash":"cae74a0beab239dd14831e96292755ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85851205,
+            "region_id":85688701,
+            "venue_id":840707351
+        }
+    ],
+    "wof:id":840707351,
+    "wof:lastmodified":1464046252,
+    "wof:name":"Miller Maintenance Co",
+    "wof:parent_id":85851205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -87.386958,
+    36.63714,
+    -87.386958,
+    36.63714
+],
+  "geometry": {"coordinates":[-87.38695800000001,36.63714],"type":"Point"}
+}

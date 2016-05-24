@@ -1,0 +1,75 @@
+{
+  "id": 840807555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.807019,38.172801,-85.807019,38.172801",
+    "geom:latitude":38.172801,
+    "geom:longitude":-85.807019,
+    "iso:country":"US",
+    "sg:address":"900 Gagel Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 5827",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vKjJ0MFemKf3ZmzawuOqC_38.172801_-85.807019@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048351,
+    "wof:geomhash":"76fb02369e51a47e7ea550f763377a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":840807555
+        }
+    ],
+    "wof:id":840807555,
+    "wof:lastmodified":1464048351,
+    "wof:name":"Georgetown Manor Nursing",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.807019,
+    38.172801,
+    -85.807019,
+    38.172801
+],
+  "geometry": {"coordinates":[-85.807019,38.172801],"type":"Point"}
+}

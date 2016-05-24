@@ -1,0 +1,73 @@
+{
+  "id": 856740557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.780235,38.256397,-85.780235,38.256397",
+    "geom:latitude":38.256397,
+    "geom:longitude":-85.780235,
+    "iso:country":"US",
+    "sg:address":"1805 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 568 0084",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GK4ShsmjGNSLBLkvRCB7U_38.256397_-85.780235@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053409,
+    "wof:geomhash":"ca4c20cf7163e1e7b80daf77e312fe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856740557
+        }
+    ],
+    "wof:id":856740557,
+    "wof:lastmodified":1464053409,
+    "wof:name":"Visions Hair & Nail Salon",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.780235,
+    38.256397,
+    -85.780235,
+    38.256397
+],
+  "geometry": {"coordinates":[-85.780235,38.256397],"type":"Point"}
+}

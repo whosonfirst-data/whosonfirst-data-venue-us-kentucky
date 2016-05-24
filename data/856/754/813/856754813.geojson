@@ -1,0 +1,105 @@
+{
+  "id": 856754813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.533173,38.072201,-84.533173,38.072201",
+    "geom:latitude":38.072201,
+    "geom:longitude":-84.533173,
+    "iso:country":"US",
+    "sg:address":"2025 Leestown Rd Ste C",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 4582",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.upsscs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85833499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zsuF24WmE8WHcwmcWALsw_38.072201_-84.533173@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053938,
+    "wof:geomhash":"1c7206215c859aae6496e5e30acd7436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85833499,
+            "region_id":85688641,
+            "venue_id":856754813
+        }
+    ],
+    "wof:id":856754813,
+    "wof:lastmodified":1464053938,
+    "wof:name":"Ups",
+    "wof:parent_id":85833499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -84.533173,
+    38.072201,
+    -84.533173,
+    38.072201
+],
+  "geometry": {"coordinates":[-84.53317300000001,38.072201],"type":"Point"}
+}

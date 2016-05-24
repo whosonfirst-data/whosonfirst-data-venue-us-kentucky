@@ -1,0 +1,71 @@
+{
+  "id": 840939583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.858449,37.69329,-85.858449,37.69329",
+    "geom:latitude":37.69329,
+    "geom:longitude":-85.858449,
+    "iso:country":"US",
+    "sg:address":"112 Dixie Hwy W",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4478",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dmUgnPDBrqYURMqf5Nhgd_37.693290_-85.858449@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051437,
+    "wof:geomhash":"54dfd7bed665457e086caded8892e33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840939583
+        }
+    ],
+    "wof:id":840939583,
+    "wof:lastmodified":1464051437,
+    "wof:name":"Web Guys Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -85.858449,
+    37.69329,
+    -85.858449,
+    37.69329
+],
+  "geometry": {"coordinates":[-85.85844899999999,37.69329],"type":"Point"}
+}

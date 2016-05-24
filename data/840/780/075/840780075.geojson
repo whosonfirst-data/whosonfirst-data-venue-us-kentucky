@@ -1,0 +1,66 @@
+{
+  "id": 840780075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.826584,37.715213,-85.826584,37.715213",
+    "geom:latitude":37.715213,
+    "geom:longitude":-85.826584,
+    "iso:country":"US",
+    "sg:address":"2018 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0369",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lm79nqjPmQH40ubvm11ba_37.715213_-85.826584@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047767,
+    "wof:geomhash":"14f39603dd02d5d9bd56d20d21ce351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840780075
+        }
+    ],
+    "wof:id":840780075,
+    "wof:lastmodified":1464047767,
+    "wof:name":"KFC",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.826584,
+    37.715213,
+    -85.826584,
+    37.715213
+],
+  "geometry": {"coordinates":[-85.826584,37.715213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840695837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.652054,38.196522,-85.652054,38.196522",
+    "geom:latitude":38.196522,
+    "geom:longitude":-85.652054,
+    "iso:country":"US",
+    "sg:address":"2206 Bradford Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 1184",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NogpCUpK9MRLJI0yuLpIG_38.196522_-85.652054@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045969,
+    "wof:geomhash":"79fb8c22e1f4a3911a402d78b4c395ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840695837
+        }
+    ],
+    "wof:id":840695837,
+    "wof:lastmodified":1464045969,
+    "wof:name":"Rogers Brake Plus",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -85.652054,
+    38.196522,
+    -85.652054,
+    38.196522
+],
+  "geometry": {"coordinates":[-85.65205400000001,38.196522],"type":"Point"}
+}

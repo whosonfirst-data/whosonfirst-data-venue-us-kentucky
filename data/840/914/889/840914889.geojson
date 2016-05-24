@@ -1,0 +1,73 @@
+{
+  "id": 840914889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.295753,37.589036,-82.295753,37.589036",
+    "geom:latitude":37.589036,
+    "geom:longitude":-82.295753,
+    "iso:country":"US",
+    "sg:address":"1387 Coburn Hollow",
+    "sg:city":"Huddy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 353 4896",
+    "sg:postcode":"41535",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VsWALKBceNW5zwnwJl34V_37.589036_-82.295753@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050869,
+    "wof:geomhash":"487ec709a4a4aa1d2b7492f5aca15490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840914889
+        }
+    ],
+    "wof:id":840914889,
+    "wof:lastmodified":1464050869,
+    "wof:name":"T Circle E Trucking",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.295753,
+    37.589036,
+    -82.295753,
+    37.589036
+],
+  "geometry": {"coordinates":[-82.295753,37.589036],"type":"Point"}
+}

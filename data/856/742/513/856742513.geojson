@@ -1,0 +1,86 @@
+{
+  "id": 856742513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643951,38.238071,-85.643951,38.238071",
+    "geom:latitude":38.238071,
+    "geom:longitude":-85.643951,
+    "iso:country":"US",
+    "sg:address":"900 Milford Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 2541",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PTjcJUe0tCtk7roZM6npg_38.238071_-85.643951@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053476,
+    "wof:geomhash":"1ae8eb0d7db5b3b6a67af47d03d57d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742513
+        }
+    ],
+    "wof:id":856742513,
+    "wof:lastmodified":1464053476,
+    "wof:name":"Jamestown Apartments",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -85.643951,
+    38.238071,
+    -85.643951,
+    38.238071
+],
+  "geometry": {"coordinates":[-85.643951,38.238071],"type":"Point"}
+}

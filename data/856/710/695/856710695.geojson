@@ -1,0 +1,75 @@
+{
+  "id": 856710695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.259472,37.639237,-82.259472,37.639237",
+    "geom:latitude":37.639237,
+    "geom:longitude":-82.259472,
+    "iso:country":"US",
+    "sg:address":"43 Coleman Rd",
+    "sg:city":"Belfry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 8308",
+    "sg:postcode":"41514",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zyvW5iI17e7x7gJVHLz0X_37.639237_-82.259472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052280,
+    "wof:geomhash":"ebfc9487dd5235926f05a17d419251a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856710695
+        }
+    ],
+    "wof:id":856710695,
+    "wof:lastmodified":1464052280,
+    "wof:name":"Butch's Auto Body Specialties",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.259472,
+    37.639237,
+    -82.259472,
+    37.639237
+],
+  "geometry": {"coordinates":[-82.259472,37.639237],"type":"Point"}
+}

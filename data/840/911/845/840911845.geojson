@@ -1,0 +1,68 @@
+{
+  "id": 840911845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642196,38.220749,-85.642196,38.220749",
+    "geom:latitude":38.220749,
+    "geom:longitude":-85.642196,
+    "iso:country":"US",
+    "sg:address":"3730 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 3920",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IEaBaGsCd1eAiGX7VyNHu_38.220749_-85.642196@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050782,
+    "wof:geomhash":"8bb79059aff580a57629718a6ccad6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840911845
+        }
+    ],
+    "wof:id":840911845,
+    "wof:lastmodified":1464050782,
+    "wof:name":"Hair Domaine",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.642196,
+    38.220749,
+    -85.642196,
+    38.220749
+],
+  "geometry": {"coordinates":[-85.642196,38.220749],"type":"Point"}
+}

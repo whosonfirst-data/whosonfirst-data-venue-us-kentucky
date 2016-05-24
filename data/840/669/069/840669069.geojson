@@ -1,0 +1,69 @@
+{
+  "id": 840669069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596336,37.871921,-84.596336,37.871921",
+    "geom:latitude":37.871921,
+    "geom:longitude":-84.596336,
+    "iso:country":"US",
+    "sg:address":"617 Edgewood Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2297",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bD7yoOVEXn2Ffu4LvC6iJ_37.871921_-84.596336@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045292,
+    "wof:geomhash":"287a5e2352b6a18e2681eaf7f1bebc7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840669069
+        }
+    ],
+    "wof:id":840669069,
+    "wof:lastmodified":1464045292,
+    "wof:name":"Lisa A Kochis DDS",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.596336,
+    37.871921,
+    -84.596336,
+    37.871921
+],
+  "geometry": {"coordinates":[-84.59633599999999,37.871921],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856722511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754141,38.140598,-85.754141,38.140598",
+    "geom:latitude":38.140598,
+    "geom:longitude":-85.754141,
+    "iso:country":"US",
+    "sg:address":"7821 National Tpke",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 1052",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W6yPqA5D3Bgo6pT1XLOXj_38.140598_-85.754141@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052694,
+    "wof:geomhash":"fc5ab7311e1177372f2571f26e892ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856722511
+        }
+    ],
+    "wof:id":856722511,
+    "wof:lastmodified":1464052694,
+    "wof:name":"Unicco Integrated Facilities",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.754141,
+    38.140598,
+    -85.754141,
+    38.140598
+],
+  "geometry": {"coordinates":[-85.754141,38.140598],"type":"Point"}
+}

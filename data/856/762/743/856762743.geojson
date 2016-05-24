@@ -1,0 +1,78 @@
+{
+  "id": 856762743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848935,37.680803,-85.848935,37.680803",
+    "geom:latitude":37.680803,
+    "geom:longitude":-85.848935,
+    "iso:country":"US",
+    "sg:address":"642 E Dixie Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6139",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tmiseo9o35VAsljulQl2E_37.680803_-85.848935@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054226,
+    "wof:geomhash":"ca998aa34c48c03e81e0fd20557bedff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856762743
+        }
+    ],
+    "wof:id":856762743,
+    "wof:lastmodified":1464054226,
+    "wof:name":"Kentucky Cardinal Inn",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.848935,
+    37.680803,
+    -85.848935,
+    37.680803
+],
+  "geometry": {"coordinates":[-85.848935,37.680803],"type":"Point"}
+}

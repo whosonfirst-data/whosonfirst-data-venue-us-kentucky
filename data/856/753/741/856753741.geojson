@@ -1,0 +1,80 @@
+{
+  "id": 856753741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513562,38.020013,-84.513562,38.020013",
+    "geom:latitude":38.020013,
+    "geom:longitude":-84.513562,
+    "iso:country":"US",
+    "sg:address":"1720 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 5887",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "cardiology"
+    ],
+    "sg:website":"http://www.lexingtoncardio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85848073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZG0dFfKDiy3nmnR3zZlYd_38.020013_-84.513562@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053899,
+    "wof:geomhash":"ad9c134bcd7ca58f80c48ea2df2fcee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85848073,
+            "region_id":85688641,
+            "venue_id":856753741
+        }
+    ],
+    "wof:id":856753741,
+    "wof:lastmodified":1464053899,
+    "wof:name":"Lexington Cardiology Consultants",
+    "wof:parent_id":85848073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "cardiology"
+    ]
+},
+  "bbox": [
+    -84.513562,
+    38.020013,
+    -84.513562,
+    38.020013
+],
+  "geometry": {"coordinates":[-84.51356199999999,38.020013],"type":"Point"}
+}

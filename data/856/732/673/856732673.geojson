@@ -1,0 +1,84 @@
+{
+  "id": 856732673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672438,38.212602,-85.672438,38.212602",
+    "geom:latitude":38.212602,
+    "geom:longitude":-85.672438,
+    "iso:country":"US",
+    "sg:address":"3290 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/163424-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 4124",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TwEDgLWdyZtcXBhyC6Nye_38.212602_-85.672438@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053098,
+    "wof:geomhash":"ee36a8aeedcfb619f3a1f1c8418d7ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856732673
+        }
+    ],
+    "wof:id":856732673,
+    "wof:lastmodified":1464053098,
+    "wof:name":"Rally's",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.672438,
+    38.212602,
+    -85.672438,
+    38.212602
+],
+  "geometry": {"coordinates":[-85.672438,38.212602],"type":"Point"}
+}

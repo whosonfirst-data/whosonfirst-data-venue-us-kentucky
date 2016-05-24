@@ -1,0 +1,68 @@
+{
+  "id": 840870101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912514,36.996191,-85.912514,36.996191",
+    "geom:latitude":36.996191,
+    "geom:longitude":-85.912514,
+    "iso:country":"US",
+    "sg:address":"141 N Public Sq",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 659 0599",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mK2dg9DgQmclKfnJeIXxz_36.996191_-85.912514@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049855,
+    "wof:geomhash":"85e69f1a87181da027ea2b3255d3bb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840870101
+        }
+    ],
+    "wof:id":840870101,
+    "wof:lastmodified":1464049855,
+    "wof:name":"Landers Realty",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.912514,
+    36.996191,
+    -85.912514,
+    36.996191
+],
+  "geometry": {"coordinates":[-85.912514,36.996191],"type":"Point"}
+}

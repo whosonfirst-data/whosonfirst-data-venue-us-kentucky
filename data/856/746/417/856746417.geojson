@@ -1,0 +1,85 @@
+{
+  "id": 856746417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.680939,38.185437,-85.680939,38.185437",
+    "geom:latitude":38.185437,
+    "geom:longitude":-85.680939,
+    "iso:country":"US",
+    "sg:address":"4235 Produce Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 810 6921",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "resale",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dW8gNZ3s6OwYPLqXy0Jej_38.185437_-85.680939@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053610,
+    "wof:geomhash":"03adac55ad9e08c26fb840a1d9787641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746417
+        }
+    ],
+    "wof:id":856746417,
+    "wof:lastmodified":1464053610,
+    "wof:name":"Hangar Five Shirt Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resale",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.680939,
+    38.185437,
+    -85.680939,
+    38.185437
+],
+  "geometry": {"coordinates":[-85.680939,38.185437],"type":"Point"}
+}

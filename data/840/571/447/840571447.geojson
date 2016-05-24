@@ -1,0 +1,68 @@
+{
+  "id": 840571447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551919,39.048259,-84.551919,39.048259",
+    "geom:latitude":39.048259,
+    "geom:longitude":-84.551919,
+    "iso:country":"US",
+    "sg:address":"2184 Dixie Hwy",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 3200",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58QUOgsyYnXjs8w4upm52S_39.048259_-84.551919@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043022,
+    "wof:geomhash":"0e558daeda7edfef546b8250ab224549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840571447
+        }
+    ],
+    "wof:id":840571447,
+    "wof:lastmodified":1464043022,
+    "wof:name":"Victoria's Station",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.551919,
+    39.048259,
+    -84.551919,
+    39.048259
+],
+  "geometry": {"coordinates":[-84.551919,39.048259],"type":"Point"}
+}

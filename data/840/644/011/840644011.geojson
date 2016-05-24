@@ -1,0 +1,71 @@
+{
+  "id": 840644011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438237,36.980125,-86.438237,36.980125",
+    "geom:latitude":36.980125,
+    "geom:longitude":-86.438237,
+    "iso:country":"US",
+    "sg:address":"1220 Broadway Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 6889",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74yryOJU05gFhGm0oXA20B_36.980125_-86.438237@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044764,
+    "wof:geomhash":"d2aface0ab0e46144cd94d10686aa66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840644011
+        }
+    ],
+    "wof:id":840644011,
+    "wof:lastmodified":1464044764,
+    "wof:name":"Speedway",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.438237,
+    36.980125,
+    -86.438237,
+    36.980125
+],
+  "geometry": {"coordinates":[-86.438237,36.980125],"type":"Point"}
+}

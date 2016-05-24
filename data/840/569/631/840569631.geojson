@@ -1,0 +1,68 @@
+{
+  "id": 840569631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.64437,38.256652,-85.64437,38.256652",
+    "geom:latitude":38.256652,
+    "geom:longitude":-85.64437,
+    "iso:country":"US",
+    "sg:address":"155 Thierman Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 9922",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20IZcbWFUluRhxHkT6iAAx_38.256652_-85.644370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042972,
+    "wof:geomhash":"03ee7eb357e48a4bdc65b2f074354f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840569631
+        }
+    ],
+    "wof:id":840569631,
+    "wof:lastmodified":1464042972,
+    "wof:name":"Skelton Co Realtors",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.64437,
+    38.256652,
+    -85.64437,
+    38.256652
+],
+  "geometry": {"coordinates":[-85.64437,38.256652],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840603821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275768,37.563514,-84.275768,37.563514",
+    "geom:latitude":37.563514,
+    "geom:longitude":-84.275768,
+    "iso:country":"US",
+    "sg:address":"115 Terri Ave",
+    "sg:city":"Stanford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 854 5001",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gE6HH14O7x5QBKjFwFVRL_37.563514_-84.275768@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043749,
+    "wof:geomhash":"796ef901a3adf22272f66f4b3fa8b38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840603821
+        }
+    ],
+    "wof:id":840603821,
+    "wof:lastmodified":1464043749,
+    "wof:name":"Watts Brothers Cable Constr",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.275768,
+    37.563514,
+    -84.275768,
+    37.563514
+],
+  "geometry": {"coordinates":[-84.275768,37.563514],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856747021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.698442,38.159491,-85.698442,38.159491",
+    "geom:latitude":38.159491,
+    "geom:longitude":-85.698442,
+    "iso:country":"US",
+    "sg:address":"6310 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 6000",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "skating",
+        "equipment",
+        "rinks-ice",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzlKTPpTPWAnb2yTuoHrF_38.159491_-85.698442@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053632,
+    "wof:geomhash":"597017912f822963d1a8275db81619fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856747021
+        }
+    ],
+    "wof:id":856747021,
+    "wof:lastmodified":1464053632,
+    "wof:name":"Skate World",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "equipment",
+        "rinks-ice",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.698442,
+    38.159491,
+    -85.698442,
+    38.159491
+],
+  "geometry": {"coordinates":[-85.698442,38.159491],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840952243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.607753,37.197541,-84.607753,37.197541",
+    "geom:latitude":37.197541,
+    "geom:longitude":-84.607753,
+    "iso:country":"US",
+    "sg:address":"2580 Heaton Ford Rd",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 4410",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LgGfA2r6ypJcUnALlOzWD_37.197541_-84.607753@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051692,
+    "wof:geomhash":"d556b3bb1157855dfbc138686cc88afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840952243
+        }
+    ],
+    "wof:id":840952243,
+    "wof:lastmodified":1464051692,
+    "wof:name":"Price Backhoe Svc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.607753,
+    37.197541,
+    -84.607753,
+    37.197541
+],
+  "geometry": {"coordinates":[-84.607753,37.197541],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856732485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757099,38.253417,-85.757099,38.253417",
+    "geom:latitude":38.253417,
+    "geom:longitude":-85.757099,
+    "iso:country":"US",
+    "sg:address":"412 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/36125-the-pub-louisville/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 7782",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "british"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HozSu0MiUPFLR0BimDn5x_38.253417_-85.757099@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053091,
+    "wof:geomhash":"c5ba90799a0e4056899889df5581f48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732485
+        }
+    ],
+    "wof:id":856732485,
+    "wof:lastmodified":1464053091,
+    "wof:name":"The Pub Louisville",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "british"
+    ]
+},
+  "bbox": [
+    -85.757099,
+    38.253417,
+    -85.757099,
+    38.253417
+],
+  "geometry": {"coordinates":[-85.757099,38.253417],"type":"Point"}
+}

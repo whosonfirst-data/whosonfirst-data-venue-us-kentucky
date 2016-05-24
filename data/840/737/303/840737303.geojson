@@ -1,0 +1,82 @@
+{
+  "id": 840737303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.7758,37.64482,-84.7758,37.64482",
+    "geom:latitude":37.64482,
+    "geom:longitude":-84.7758,
+    "iso:country":"US",
+    "sg:address":"416 W Walnut St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 6181",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y8lH9FZVddP0W5dc0lYgZ_37.644820_-84.775800@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046841,
+    "wof:geomhash":"27ac1ccf1be1a3d1e3229d2a09f28d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840737303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840737303
+        }
+    ],
+    "wof:id":840737303,
+    "wof:lastmodified":1464046841,
+    "wof:name":"Gentle Dental Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.7758,
+    37.64482,
+    -84.7758,
+    37.64482
+],
+  "geometry": {"coordinates":[-84.7758,37.64482],"type":"Point"}
+}

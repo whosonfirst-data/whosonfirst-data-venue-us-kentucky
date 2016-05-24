@@ -1,0 +1,73 @@
+{
+  "id": 856703123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.811493,38.112714,-85.811493,38.112714",
+    "geom:latitude":38.112714,
+    "geom:longitude":-85.811493,
+    "iso:country":"US",
+    "sg:address":"2610 Lamborne Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 933 1597",
+    "sg:postcode":"40272",
+    "sg:province":"KY",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KThlwEJnEFaPXa6mQZ6wL_38.112714_-85.811493@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052130,
+    "wof:geomhash":"ecf44ac6984140a0d3cc435ded3c938a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856703123
+        }
+    ],
+    "wof:id":856703123,
+    "wof:lastmodified":1464052130,
+    "wof:name":"Jeffries Cleaning Services Unl",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.811493,
+    38.112714,
+    -85.811493,
+    38.112714
+],
+  "geometry": {"coordinates":[-85.811493,38.112714],"type":"Point"}
+}

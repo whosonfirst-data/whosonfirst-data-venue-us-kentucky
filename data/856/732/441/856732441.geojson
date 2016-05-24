@@ -1,0 +1,74 @@
+{
+  "id": 856732441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7571,38.253411,-85.7571,38.253411",
+    "geom:latitude":38.253411,
+    "geom:longitude":-85.7571,
+    "iso:country":"US",
+    "sg:address":"415 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/36118-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 3577",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MYkuu3iWiGCGFfxPMir3l_38.253411_-85.757100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053090,
+    "wof:geomhash":"0cfb5f0cddcf7aa48f11f8e21f333b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732441
+        }
+    ],
+    "wof:id":856732441,
+    "wof:lastmodified":1464053090,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.7571,
+    38.253411,
+    -85.7571,
+    38.253411
+],
+  "geometry": {"coordinates":[-85.75709999999999,38.253411],"type":"Point"}
+}

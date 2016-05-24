@@ -1,0 +1,73 @@
+{
+  "id": 840778917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851984,37.687381,-85.851984,37.687381",
+    "geom:latitude":37.687381,
+    "geom:longitude":-85.851984,
+    "iso:country":"US",
+    "sg:address":"508 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3367",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WuRMCWkyjKCxwSc8GGLRW_37.687381_-85.851984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047737,
+    "wof:geomhash":"d918ffde1606bf93da50fbf376872e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840778917
+        }
+    ],
+    "wof:id":840778917,
+    "wof:lastmodified":1464047737,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.851984,
+    37.687381,
+    -85.851984,
+    37.687381
+],
+  "geometry": {"coordinates":[-85.851984,37.687381],"type":"Point"}
+}

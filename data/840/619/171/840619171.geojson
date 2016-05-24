@@ -1,0 +1,71 @@
+{
+  "id": 840619171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627132,37.90683,-84.627132,37.90683",
+    "geom:latitude":37.90683,
+    "geom:longitude":-84.627132,
+    "iso:country":"US",
+    "sg:address":"113 Barkley Ests",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2229",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56kYcyyVdTfnnDaF10TTPP_37.906830_-84.627132@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044146,
+    "wof:geomhash":"719777b4d370e3b138f8538d76aca95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840619171
+        }
+    ],
+    "wof:id":840619171,
+    "wof:lastmodified":1464044146,
+    "wof:name":"John Carroll Electric",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.627132,
+    37.90683,
+    -84.627132,
+    37.90683
+],
+  "geometry": {"coordinates":[-84.627132,37.90683],"type":"Point"}
+}

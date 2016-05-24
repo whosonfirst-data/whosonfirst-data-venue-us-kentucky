@@ -1,0 +1,75 @@
+{
+  "id": 840694837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.634086,38.224199,-85.634086,38.224199",
+    "geom:latitude":38.224199,
+    "geom:longitude":-85.634086,
+    "iso:country":"US",
+    "sg:address":"2934 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 3671",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xXafVRUg7HukIbzm6Tv72_38.224199_-85.634086@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045943,
+    "wof:geomhash":"126da799a09377b00364776376b308d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840694837
+        }
+    ],
+    "wof:id":840694837,
+    "wof:lastmodified":1464045943,
+    "wof:name":"William S French MD",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.634086,
+    38.224199,
+    -85.634086,
+    38.224199
+],
+  "geometry": {"coordinates":[-85.634086,38.224199],"type":"Point"}
+}

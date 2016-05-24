@@ -1,0 +1,73 @@
+{
+  "id": 840790063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.911503,36.995818,-85.911503,36.995818",
+    "geom:latitude":36.995818,
+    "geom:longitude":-85.911503,
+    "iso:country":"US",
+    "sg:address":"129 E Main St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9800",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EmnPlaTG8AhcSFxP7kOse_36.995818_-85.911503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047980,
+    "wof:geomhash":"d873699aae3cad67d2f6a5d9ae07c42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840790063
+        }
+    ],
+    "wof:id":840790063,
+    "wof:lastmodified":1464047980,
+    "wof:name":"Cobbler",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -85.911503,
+    36.995818,
+    -85.911503,
+    36.995818
+],
+  "geometry": {"coordinates":[-85.911503,36.995818],"type":"Point"}
+}

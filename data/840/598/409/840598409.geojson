@@ -1,0 +1,71 @@
+{
+  "id": 840598409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.837508,37.711869,-85.837508,37.711869",
+    "geom:latitude":37.711869,
+    "geom:longitude":-85.837508,
+    "iso:country":"US",
+    "sg:address":"3030 Dolphin Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5708",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12mijhqA5wqXHLVjkbR7LW_37.711869_-85.837508@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043619,
+    "wof:geomhash":"a605b404bdd443268ffe9425a3e1db70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840598409
+        }
+    ],
+    "wof:id":840598409,
+    "wof:lastmodified":1464043619,
+    "wof:name":"Elizabethtown Laundry Co Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.837508,
+    37.711869,
+    -85.837508,
+    37.711869
+],
+  "geometry": {"coordinates":[-85.837508,37.711869],"type":"Point"}
+}

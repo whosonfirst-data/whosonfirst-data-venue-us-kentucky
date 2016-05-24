@@ -1,0 +1,74 @@
+{
+  "id": 856736383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421568,36.942935,-86.421568,36.942935",
+    "geom:latitude":36.942935,
+    "geom:longitude":-86.421568,
+    "iso:country":"US",
+    "sg:address":"3080 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/186770-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9838",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PkKtZ8NL5Y3LmruhnCTxK_36.942935_-86.421568@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053237,
+    "wof:geomhash":"00003c75bf7ed2f83730c1a04f9417c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736383
+        }
+    ],
+    "wof:id":856736383,
+    "wof:lastmodified":1464053237,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.421568,
+    36.942935,
+    -86.421568,
+    36.942935
+],
+  "geometry": {"coordinates":[-86.42156799999999,36.942935],"type":"Point"}
+}

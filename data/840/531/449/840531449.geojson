@@ -1,0 +1,75 @@
+{
+  "id": 840531449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.575095,37.83417,-87.575095,37.83417",
+    "geom:latitude":37.83417,
+    "geom:longitude":-87.575095,
+    "iso:country":"US",
+    "sg:address":"203 Heilman Ave",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1700",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X477dponq2Mk5tHeScaij_37.834170_-87.575095@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042001,
+    "wof:geomhash":"f77ea154ca60941d3dfd80ead8f7d62d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840531449
+        }
+    ],
+    "wof:id":840531449,
+    "wof:lastmodified":1464042001,
+    "wof:name":"Bob's Muffler",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -87.575095,
+    37.83417,
+    -87.575095,
+    37.83417
+],
+  "geometry": {"coordinates":[-87.575095,37.83417],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840564385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485296,36.974563,-86.485296,36.974563",
+    "geom:latitude":36.974563,
+    "geom:longitude":-86.485296,
+    "iso:country":"US",
+    "sg:address":"380 Veterans Memorial Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8430",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.faith-methodist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r3Wl9PCaVkhx9shwoVjuV_36.974563_-86.485296@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042831,
+    "wof:geomhash":"e05da35754470f2a24ab09b5058aaebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840564385
+        }
+    ],
+    "wof:id":840564385,
+    "wof:lastmodified":1464042831,
+    "wof:name":"Faith United Methodist Church",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.485296,
+    36.974563,
+    -86.485296,
+    36.974563
+],
+  "geometry": {"coordinates":[-86.48529600000001,36.974563],"type":"Point"}
+}

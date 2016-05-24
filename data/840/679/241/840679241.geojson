@@ -1,0 +1,73 @@
+{
+  "id": 840679241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572115,39.022447,-84.572115,39.022447",
+    "geom:latitude":39.022447,
+    "geom:longitude":-84.572115,
+    "iso:country":"US",
+    "sg:address":"220 Thomas More Pkwy",
+    "sg:city":"Crestview Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 341 3012",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f62exZUdYOhb1fkfDKYrb_39.022447_-84.572115@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045550,
+    "wof:geomhash":"02f7e3ea6a3607135afe56a5450211a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":840679241
+        }
+    ],
+    "wof:id":840679241,
+    "wof:lastmodified":1464045550,
+    "wof:name":"Haas & Wehrman",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.572115,
+    39.022447,
+    -84.572115,
+    39.022447
+],
+  "geometry": {"coordinates":[-84.572115,39.022447],"type":"Point"}
+}

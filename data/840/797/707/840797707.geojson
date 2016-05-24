@@ -1,0 +1,71 @@
+{
+  "id": 840797707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.386929,36.96366,-86.386929,36.96366",
+    "geom:latitude":36.96366,
+    "geom:longitude":-86.386929,
+    "iso:country":"US",
+    "sg:address":"1270 Shaker Mill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 0295",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85835757,
+        102084479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D5CfBpu2wBRYRM2AyMOLt_36.963660_-86.386929@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048145,
+    "wof:geomhash":"2f2e6821756df7a4b48df0beea5d39e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "neighbourhood_id":85835757,
+            "region_id":85688641,
+            "venue_id":840797707
+        }
+    ],
+    "wof:id":840797707,
+    "wof:lastmodified":1464048145,
+    "wof:name":"Jeff's Electrical Svc Inc",
+    "wof:parent_id":85835757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.386929,
+    36.96366,
+    -86.386929,
+    36.96366
+],
+  "geometry": {"coordinates":[-86.38692899999999,36.96366],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856750043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.591057,38.2654,-85.591057,38.2654",
+    "geom:latitude":38.2654,
+    "geom:longitude":-85.591057,
+    "iso:country":"US",
+    "sg:address":"8805 Furlong Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 2866",
+    "sg:postcode":"40242",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ],
+    "sg:website":"http://www.avon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ava21rLvlJiOWVzkwuXF2_38.265400_-85.591057@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053750,
+    "wof:geomhash":"0009825616280d2949b2898fd5e33dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856750043
+        }
+    ],
+    "wof:id":856750043,
+    "wof:lastmodified":1464053750,
+    "wof:name":"Avon Independent Sales Rep",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -85.591057,
+    38.2654,
+    -85.591057,
+    38.2654
+],
+  "geometry": {"coordinates":[-85.59105700000001,38.2654],"type":"Point"}
+}

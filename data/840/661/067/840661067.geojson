@@ -1,0 +1,71 @@
+{
+  "id": 840661067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436829,36.983587,-86.436829,36.983587",
+    "geom:latitude":36.983587,
+    "geom:longitude":-86.436829,
+    "iso:country":"US",
+    "sg:address":"1064 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3610",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BR3YF4uptmIkNxtARiTT2_36.983587_-86.436829@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045128,
+    "wof:geomhash":"240190f89fc4f1c9c95cd322b42624fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840661067
+        }
+    ],
+    "wof:id":840661067,
+    "wof:lastmodified":1464045128,
+    "wof:name":"Ronald L Yaeger DDS",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.436829,
+    36.983587,
+    -86.436829,
+    36.983587
+],
+  "geometry": {"coordinates":[-86.436829,36.983587],"type":"Point"}
+}

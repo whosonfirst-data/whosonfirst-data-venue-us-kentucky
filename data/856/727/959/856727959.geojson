@@ -1,0 +1,73 @@
+{
+  "id": 856727959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58428,37.059981,-88.58428,37.059981",
+    "geom:latitude":37.059981,
+    "geom:longitude":-88.58428,
+    "iso:country":"US",
+    "sg:address":"2150 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 2620",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NfFdFUBPHBN7YLTTDqs84_37.060065_-88.584239@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052926,
+    "wof:geomhash":"8cfee98e241d86fea8ef80ed7ad791e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856727959
+        }
+    ],
+    "wof:id":856727959,
+    "wof:lastmodified":1464052926,
+    "wof:name":"Carter's Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -88.58428,
+    37.059981,
+    -88.58428,
+    37.059981
+],
+  "geometry": {"coordinates":[-88.58428000000001,37.059981],"type":"Point"}
+}

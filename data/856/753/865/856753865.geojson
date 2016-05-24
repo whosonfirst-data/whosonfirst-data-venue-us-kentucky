@@ -1,0 +1,81 @@
+{
+  "id": 856753865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521111,38.03521,-84.521111,38.03521",
+    "geom:latitude":38.03521,
+    "geom:longitude":-84.521111,
+    "iso:country":"US",
+    "sg:address":"1221 S Broadway",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 258 4000",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://lexingtonclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_342nSRteVG6ufWB7Yg4l1D_38.035210_-84.521111@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053902,
+    "wof:geomhash":"61f021b7f274b3db5344c5a3c9a5ae84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873495,
+            "region_id":85688641,
+            "venue_id":856753865
+        }
+    ],
+    "wof:id":856753865,
+    "wof:lastmodified":1464053902,
+    "wof:name":"Lexington Clinic Main Office",
+    "wof:parent_id":85873495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.521111,
+    38.03521,
+    -84.521111,
+    38.03521
+],
+  "geometry": {"coordinates":[-84.521111,38.03521],"type":"Point"}
+}

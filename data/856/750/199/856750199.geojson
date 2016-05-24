@@ -1,0 +1,82 @@
+{
+  "id": 856750199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.536102,38.24823,-85.536102,38.24823",
+    "geom:latitude":38.24823,
+    "geom:longitude":-85.536102,
+    "iso:country":"US",
+    "sg:address":"11901 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 5559",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JhoWRBkfbvNJFX85wMJMI_38.248230_-85.536102@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053759,
+    "wof:geomhash":"898c3e99fc31c35032ffbf03d6793fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750199
+        }
+    ],
+    "wof:id":856750199,
+    "wof:lastmodified":1464053759,
+    "wof:name":"Healing Hands Physical Therapy",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.536102,
+    38.24823,
+    -85.536102,
+    38.24823
+],
+  "geometry": {"coordinates":[-85.536102,38.24823],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856751063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.809887,38.122749,-85.809887,38.122749",
+    "geom:latitude":38.122749,
+    "geom:longitude":-85.809887,
+    "iso:country":"US",
+    "sg:address":"9011 Split Rail Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 384 8664",
+    "sg:postcode":"40272",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "services-commercial",
+        "tours-operators",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R4TbySPuNI2hDc4mcmqrB_38.122749_-85.809887@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053794,
+    "wof:geomhash":"d3fe33dfc65f54890785cb92666ddb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856751063
+        }
+    ],
+    "wof:id":856751063,
+    "wof:lastmodified":1464053794,
+    "wof:name":"JFF Tours",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial",
+        "tours-operators",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -85.809887,
+    38.122749,
+    -85.809887,
+    38.122749
+],
+  "geometry": {"coordinates":[-85.809887,38.122749],"type":"Point"}
+}

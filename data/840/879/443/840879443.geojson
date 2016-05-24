@@ -1,0 +1,71 @@
+{
+  "id": 840879443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.638401,37.067947,-88.638401,37.067947",
+    "geom:latitude":37.067947,
+    "geom:longitude":-88.638401,
+    "iso:country":"US",
+    "sg:address":"250 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9348",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iMTsFNgHpRZ5XtafPujDr_37.067947_-88.638401@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050065,
+    "wof:geomhash":"4afa83aa5ac66fc78ce36d1ef63f32e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840879443
+        }
+    ],
+    "wof:id":840879443,
+    "wof:lastmodified":1464050065,
+    "wof:name":"Stephen E Clymer DDS",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.638401,
+    37.067947,
+    -88.638401,
+    37.067947
+],
+  "geometry": {"coordinates":[-88.638401,37.067947],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840571913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.868146,37.702988,-85.868146,37.702988",
+    "geom:latitude":37.702988,
+    "geom:longitude":-85.868146,
+    "iso:country":"US",
+    "sg:address":"110 Village Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 0728",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RMLzEFMHA3cF97cwEbl4v_37.702988_-85.868146@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043030,
+    "wof:geomhash":"a8491c5f7b04b20091abae86211bf84c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840571913
+        }
+    ],
+    "wof:id":840571913,
+    "wof:lastmodified":1464043030,
+    "wof:name":"JP Interventions Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.868146,
+    37.702988,
+    -85.868146,
+    37.702988
+],
+  "geometry": {"coordinates":[-85.868146,37.702988],"type":"Point"}
+}

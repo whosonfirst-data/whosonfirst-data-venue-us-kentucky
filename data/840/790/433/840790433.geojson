@@ -1,0 +1,69 @@
+{
+  "id": 840790433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580756,37.877545,-84.580756,37.877545",
+    "geom:latitude":37.877545,
+    "geom:longitude":-84.580756,
+    "iso:country":"US",
+    "sg:address":"113 Johnson Ave",
+    "sg:city":"Sadieville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 857 9055",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KDGRk0zHkKDUROPld5Hyf_37.877545_-84.580756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047986,
+    "wof:geomhash":"39dd2f78897f9a5df730c9e27bf4e55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840790433
+        }
+    ],
+    "wof:id":840790433,
+    "wof:lastmodified":1464047986,
+    "wof:name":"City of Sadieville",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -84.580756,
+    37.877545,
+    -84.580756,
+    37.877545
+],
+  "geometry": {"coordinates":[-84.58075599999999,37.877545],"type":"Point"}
+}

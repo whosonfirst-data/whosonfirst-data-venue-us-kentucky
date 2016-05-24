@@ -1,0 +1,75 @@
+{
+  "id": 840793127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29317,37.745924,-84.29317,37.745924",
+    "geom:latitude":37.745924,
+    "geom:longitude":-84.29317,
+    "iso:country":"US",
+    "sg:address":"221 E Water St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 4429",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xjqtBJPf3o21b0G8jcHzN_37.745924_-84.293170@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048045,
+    "wof:geomhash":"7d5b31d66c828c4c3176f83ebaab8c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840793127
+        }
+    ],
+    "wof:id":840793127,
+    "wof:lastmodified":1464048045,
+    "wof:name":"Manhattan Club",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -84.29317,
+    37.745924,
+    -84.29317,
+    37.745924
+],
+  "geometry": {"coordinates":[-84.29317,37.745924],"type":"Point"}
+}

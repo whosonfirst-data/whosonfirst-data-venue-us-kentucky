@@ -1,0 +1,80 @@
+{
+  "id": 856743823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.774034,38.236261,-85.774034,38.236261",
+    "geom:latitude":38.236261,
+    "geom:longitude":-85.774034,
+    "iso:country":"US",
+    "sg:address":"1226 W Oak St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 6307",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r9hvEDyVSpNpBy0XMihEV_38.236261_-85.774034@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053523,
+    "wof:geomhash":"a285df72bb3ee526672ae3a67ca1beb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856743823
+        }
+    ],
+    "wof:id":856743823,
+    "wof:lastmodified":1464053523,
+    "wof:name":"St William Church",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [
+    -85.774034,
+    38.236261,
+    -85.774034,
+    38.236261
+],
+  "geometry": {"coordinates":[-85.774034,38.236261],"type":"Point"}
+}

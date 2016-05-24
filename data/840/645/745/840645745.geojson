@@ -1,0 +1,71 @@
+{
+  "id": 840645745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899822,37.682435,-85.899822,37.682435",
+    "geom:latitude":37.682435,
+    "geom:longitude":-85.899822,
+    "iso:country":"US",
+    "sg:address":"310 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3565",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k2wudK1JW8YZinsVhWAh2_37.682435_-85.899822@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044796,
+    "wof:geomhash":"54ec360813657b12bf58cc09314b7108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840645745
+        }
+    ],
+    "wof:id":840645745,
+    "wof:lastmodified":1464044796,
+    "wof:name":"Rock Of Ages Memorials",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -85.899822,
+    37.682435,
+    -85.899822,
+    37.682435
+],
+  "geometry": {"coordinates":[-85.899822,37.682435],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856731919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696666,37.078926,-88.696666,37.078926",
+    "geom:latitude":37.078926,
+    "geom:longitude":-88.696666,
+    "iso:country":"US",
+    "sg:address":"3351 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8559",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GJyBGMrvZEjCyEAm05pZ4_37.079193_-88.696626@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053069,
+    "wof:geomhash":"d0390ba0dcb18a1bd2075a37e509e04d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856731919
+        }
+    ],
+    "wof:id":856731919,
+    "wof:lastmodified":1464053069,
+    "wof:name":"Brewer Electrical",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.696666,
+    37.078926,
+    -88.696666,
+    37.078926
+],
+  "geometry": {"coordinates":[-88.69666599999999,37.078926],"type":"Point"}
+}

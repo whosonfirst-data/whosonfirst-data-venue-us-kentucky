@@ -1,0 +1,66 @@
+{
+  "id": 840617705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.291534,37.639881,-82.291534,37.639881",
+    "geom:latitude":37.639881,
+    "geom:longitude":-82.291534,
+    "iso:country":"US",
+    "sg:address":"1320 Forest Hills Rd",
+    "sg:city":"Forest Hills",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 7460",
+    "sg:postcode":"41527",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lLqHMTsV5DWVcXHxcTyfH_37.639881_-82.291534@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044113,
+    "wof:geomhash":"e943c16ad7f2d2c3a398aeedc915a04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840617705
+        }
+    ],
+    "wof:id":840617705,
+    "wof:lastmodified":1464044113,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.291534,
+    37.639881,
+    -82.291534,
+    37.639881
+],
+  "geometry": {"coordinates":[-82.291534,37.639881],"type":"Point"}
+}

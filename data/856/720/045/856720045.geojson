@@ -1,0 +1,71 @@
+{
+  "id": 856720045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582096,37.887859,-84.582096,37.887859",
+    "geom:latitude":37.887859,
+    "geom:longitude":-84.582096,
+    "iso:country":"US",
+    "sg:address":"125 Etter Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 806 0559",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sales",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H0osntuEvTtO6fIQUh5Wd_37.887859_-84.582096@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052593,
+    "wof:geomhash":"6bdc69914f721f33b29fdb169b68bda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856720045
+        }
+    ],
+    "wof:id":856720045,
+    "wof:lastmodified":1464052593,
+    "wof:name":"Preferred Trailer Sales LLC",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -84.582096,
+    37.887859,
+    -84.582096,
+    37.887859
+],
+  "geometry": {"coordinates":[-84.58209600000001,37.887859],"type":"Point"}
+}

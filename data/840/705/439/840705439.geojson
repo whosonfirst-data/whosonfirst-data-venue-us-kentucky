@@ -1,0 +1,71 @@
+{
+  "id": 840705439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.284974,37.670599,-82.284974,37.670599",
+    "geom:latitude":37.670599,
+    "geom:longitude":-82.284974,
+    "iso:country":"US",
+    "sg:address":"534 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 4750",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TmKAi9oiXUzLTZaxzzcAc_37.670599_-82.284974@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046214,
+    "wof:geomhash":"1ec3fb913287fbcf4e936157635cd369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840705439
+        }
+    ],
+    "wof:id":840705439,
+    "wof:lastmodified":1464046214,
+    "wof:name":"Nick A England Jr DDS",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.284974,
+    37.670599,
+    -82.284974,
+    37.670599
+],
+  "geometry": {"coordinates":[-82.28497400000001,37.670599],"type":"Point"}
+}

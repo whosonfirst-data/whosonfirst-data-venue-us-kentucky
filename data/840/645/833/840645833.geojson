@@ -1,0 +1,72 @@
+{
+  "id": 840645833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.741278,38.005783,-85.741278,38.005783",
+    "geom:latitude":38.005783,
+    "geom:longitude":-85.741278,
+    "iso:country":"US",
+    "sg:address":"240 Raymond Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 1497",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "foster"
+    ],
+    "sg:website":"www.newhopehomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zfULGpOas6j7zjPdVF9zB_38.005783_-85.741278@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044798,
+    "wof:geomhash":"e418cf562c24ade619a8f5dc1b98e77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840645833
+        }
+    ],
+    "wof:id":840645833,
+    "wof:lastmodified":1464044798,
+    "wof:name":"New Hope Foster Home Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -85.741278,
+    38.005783,
+    -85.741278,
+    38.005783
+],
+  "geometry": {"coordinates":[-85.74127799999999,38.005783],"type":"Point"}
+}

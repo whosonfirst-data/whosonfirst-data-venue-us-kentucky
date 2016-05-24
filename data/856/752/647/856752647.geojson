@@ -1,0 +1,72 @@
+{
+  "id": 856752647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56067,38.182114,-84.56067,38.182114",
+    "geom:latitude":38.182114,
+    "geom:longitude":-84.56067,
+    "iso:country":"US",
+    "sg:address":"1280 Lexington Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 0173",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.umc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oeYfNgzJHj2ZqfrxJLZ0v_38.182114_-84.560670@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053856,
+    "wof:geomhash":"cb1443369787a9e1d6a7a4f165c504c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856752647
+        }
+    ],
+    "wof:id":856752647,
+    "wof:lastmodified":1464053856,
+    "wof:name":"First United Methodist Church",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.56067,
+    38.182114,
+    -84.56067,
+    38.182114
+],
+  "geometry": {"coordinates":[-84.56067,38.182114],"type":"Point"}
+}

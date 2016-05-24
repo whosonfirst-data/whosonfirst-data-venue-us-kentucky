@@ -1,0 +1,68 @@
+{
+  "id": 840594769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282758,37.737248,-84.282758,37.737248",
+    "geom:latitude":37.737248,
+    "geom:longitude":-84.282758,
+    "iso:country":"US",
+    "sg:address":"128 Boggs Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 1738",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yoc915TdX7CRCi1Gxbvxi_37.737248_-84.282758@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043534,
+    "wof:geomhash":"d0d2287fdbbb86e06d138df45a07589c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840594769
+        }
+    ],
+    "wof:id":840594769,
+    "wof:lastmodified":1464043534,
+    "wof:name":"Madison School of Dance",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.282758,
+    37.737248,
+    -84.282758,
+    37.737248
+],
+  "geometry": {"coordinates":[-84.282758,37.737248],"type":"Point"}
+}

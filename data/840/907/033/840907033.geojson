@@ -1,0 +1,71 @@
+{
+  "id": 840907033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.632214,37.03459,-84.632214,37.03459",
+    "geom:latitude":37.03459,
+    "geom:longitude":-84.632214,
+    "iso:country":"US",
+    "sg:address":"4017 Madira Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 8238",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TTYrCI1xt78yodBaWl3Cr_37.034590_-84.632214@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050637,
+    "wof:geomhash":"0182700be58ad8e83e41ac529925180d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840907033
+        }
+    ],
+    "wof:id":840907033,
+    "wof:lastmodified":1464050637,
+    "wof:name":"ACI Excavating & Hauling",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.632214,
+    37.03459,
+    -84.632214,
+    37.03459
+],
+  "geometry": {"coordinates":[-84.632214,37.03459],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840671493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441754,36.993814,-86.441754,36.993814",
+    "geom:latitude":36.993814,
+    "geom:longitude":-86.441754,
+    "iso:country":"US",
+    "sg:address":"917 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0954",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YpPL5exfcxBOoNzfGUbmB_36.993814_-86.441754@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045346,
+    "wof:geomhash":"0cd2e0dc1bc2b8905603d4493e37ce3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840671493
+        }
+    ],
+    "wof:id":840671493,
+    "wof:lastmodified":1464045346,
+    "wof:name":"Coffman & Kirwan",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -86.441754,
+    36.993814,
+    -86.441754,
+    36.993814
+],
+  "geometry": {"coordinates":[-86.441754,36.993814],"type":"Point"}
+}

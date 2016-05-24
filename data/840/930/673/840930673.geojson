@@ -1,0 +1,73 @@
+{
+  "id": 840930673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.497642,38.046086,-84.497642,38.046086",
+    "geom:latitude":38.046086,
+    "geom:longitude":-84.497642,
+    "iso:country":"US",
+    "sg:address":"109 S Limestone St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 253 3192",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QOsrOBhkHj92ofy3k3hBG_38.046086_-84.497642@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051263,
+    "wof:geomhash":"274744f57850e22e78257a5b0112b2d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840930673
+        }
+    ],
+    "wof:id":840930673,
+    "wof:lastmodified":1464051263,
+    "wof:name":"Sam's Hot Dog Stand",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -84.497642,
+    38.046086,
+    -84.497642,
+    38.046086
+],
+  "geometry": {"coordinates":[-84.497642,38.046086],"type":"Point"}
+}

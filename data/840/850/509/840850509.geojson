@@ -1,0 +1,71 @@
+{
+  "id": 840850509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437,36.975811,-86.437,36.975811",
+    "geom:latitude":36.975811,
+    "geom:longitude":-86.437,
+    "iso:country":"US",
+    "sg:address":"1411 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 6000",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QvIwjQw8SDeQLKXNPrcHO_36.975811_-86.437000@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049450,
+    "wof:geomhash":"ac54be457f99a2b89e86f111351281f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840850509
+        }
+    ],
+    "wof:id":840850509,
+    "wof:lastmodified":1464049450,
+    "wof:name":"Eagle Investments",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.437,
+    36.975811,
+    -86.437,
+    36.975811
+],
+  "geometry": {"coordinates":[-86.437,36.975811],"type":"Point"}
+}

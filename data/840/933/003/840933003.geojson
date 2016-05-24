@@ -1,0 +1,73 @@
+{
+  "id": 840933003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.478174,37.015247,-86.478174,37.015247",
+    "geom:latitude":37.015247,
+    "geom:longitude":-86.478174,
+    "iso:country":"US",
+    "sg:address":"2195 Barren River Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 0030",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ScGivMl1gCZqKv31DN6O3_37.015247_-86.478174@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051306,
+    "wof:geomhash":"b8cc7edf5512fbaf9a78ebef5cd14a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840933003
+        }
+    ],
+    "wof:id":840933003,
+    "wof:lastmodified":1464051306,
+    "wof:name":"IMI",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -86.478174,
+    37.015247,
+    -86.478174,
+    37.015247
+],
+  "geometry": {"coordinates":[-86.478174,37.015247],"type":"Point"}
+}

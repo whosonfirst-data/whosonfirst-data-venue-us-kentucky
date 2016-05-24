@@ -1,0 +1,73 @@
+{
+  "id": 840552169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.523302,38.244992,-85.523302,38.244992",
+    "geom:latitude":38.244992,
+    "geom:longitude":-85.523302,
+    "iso:country":"US",
+    "sg:address":"12599 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 9662",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ld680ZCdOYB4RB9wpgsfV_38.244992_-85.523302@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042560,
+    "wof:geomhash":"55adb73f01165632849ce780f7aa9018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840552169
+        }
+    ],
+    "wof:id":840552169,
+    "wof:lastmodified":1464042560,
+    "wof:name":"Wells Fargo Financial Accptnce",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -85.523302,
+    38.244992,
+    -85.523302,
+    38.244992
+],
+  "geometry": {"coordinates":[-85.523302,38.244992],"type":"Point"}
+}

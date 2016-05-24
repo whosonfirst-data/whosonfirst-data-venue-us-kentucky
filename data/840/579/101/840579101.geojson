@@ -1,0 +1,73 @@
+{
+  "id": 840579101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.286975,37.591996,-84.286975,37.591996",
+    "geom:latitude":37.591996,
+    "geom:longitude":-84.286975,
+    "iso:country":"US",
+    "sg:address":"109 Oakwood Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 2383",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qv9dO0krszssGlvuOfGgu_37.591996_-84.286975@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043184,
+    "wof:geomhash":"c402315198d4e5384f1696095b36d6fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840579101
+        }
+    ],
+    "wof:id":840579101,
+    "wof:lastmodified":1464043184,
+    "wof:name":"South Madison Family Resource",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -84.286975,
+    37.591996,
+    -84.286975,
+    37.591996
+],
+  "geometry": {"coordinates":[-84.286975,37.591996],"type":"Point"}
+}

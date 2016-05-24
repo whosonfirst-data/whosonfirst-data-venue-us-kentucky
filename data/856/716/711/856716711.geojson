@@ -1,0 +1,71 @@
+{
+  "id": 856716711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.632914,37.076348,-88.632914,37.076348",
+    "geom:latitude":37.076348,
+    "geom:longitude":-88.632914,
+    "iso:country":"US",
+    "sg:address":"308 Joe Clifton Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9305",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRy3omW19K9J7NV2ZHxK7_37.076348_-88.632914@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052458,
+    "wof:geomhash":"b81ea3739f35929667385ce5425006c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856716711
+        }
+    ],
+    "wof:id":856716711,
+    "wof:lastmodified":1464052458,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -88.632914,
+    37.076348,
+    -88.632914,
+    37.076348
+],
+  "geometry": {"coordinates":[-88.632914,37.076348],"type":"Point"}
+}

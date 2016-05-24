@@ -1,0 +1,83 @@
+{
+  "id": 856744723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701456,38.186873,-85.701456,38.186873",
+    "geom:latitude":38.186873,
+    "geom:longitude":-85.701456,
+    "iso:country":"US",
+    "sg:address":"4516 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 9467",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lFKt013Y79QNwqYcovRtw_38.186873_-85.701456@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053554,
+    "wof:geomhash":"67d7d253af2dedf4d10f51aa95da9c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744723
+        }
+    ],
+    "wof:id":856744723,
+    "wof:lastmodified":1464053554,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -85.701456,
+    38.186873,
+    -85.701456,
+    38.186873
+],
+  "geometry": {"coordinates":[-85.70145599999999,38.186873],"type":"Point"}
+}

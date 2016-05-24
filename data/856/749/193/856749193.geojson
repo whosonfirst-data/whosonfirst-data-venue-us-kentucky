@@ -1,0 +1,79 @@
+{
+  "id": 856749193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617978,38.140011,-85.617978,38.140011",
+    "geom:latitude":38.140011,
+    "geom:longitude":-85.617978,
+    "iso:country":"US",
+    "sg:address":"7711 Fegenbush Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 239 7711",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.highviewbaptist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3ixDA1MQKxPVS9KKETpc_38.140011_-85.617978@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053722,
+    "wof:geomhash":"68c389561c4dd7c0a4bc12054c50b09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856749193
+        }
+    ],
+    "wof:id":856749193,
+    "wof:lastmodified":1464053722,
+    "wof:name":"Highview Baptist Church",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -85.617978,
+    38.140011,
+    -85.617978,
+    38.140011
+],
+  "geometry": {"coordinates":[-85.61797799999999,38.140011],"type":"Point"}
+}

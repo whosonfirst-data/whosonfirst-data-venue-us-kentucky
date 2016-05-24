@@ -1,0 +1,69 @@
+{
+  "id": 856761139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.664546,37.083299,-88.664546,37.083299",
+    "geom:latitude":37.083299,
+    "geom:longitude":-88.664546,
+    "iso:country":"US",
+    "sg:address":"3700 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 488 3148",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IDgU6QvShGBvUUvtekkw0_37.083299_-88.664546@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054165,
+    "wof:geomhash":"17169b6ac4c7130e52235f505a0f9001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856761139
+        }
+    ],
+    "wof:id":856761139,
+    "wof:lastmodified":1464054165,
+    "wof:name":"Wayncath Apts",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.664546,
+    37.083299,
+    -88.664546,
+    37.083299
+],
+  "geometry": {"coordinates":[-88.664546,37.083299],"type":"Point"}
+}

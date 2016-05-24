@@ -1,0 +1,85 @@
+{
+  "id": 856761071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.668867,37.076045,-88.668867,37.076045",
+    "geom:latitude":37.076045,
+    "geom:longitude":-88.668867,
+    "iso:country":"US",
+    "sg:address":"1224 Friedman Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 933 1255",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking",
+        "public",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t7FJFGIdCgI0fzRFmm0FA_37.076045_-88.668867@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054162,
+    "wof:geomhash":"fb92510bebb489ac6957d9c78ed5627d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761071
+        }
+    ],
+    "wof:id":856761071,
+    "wof:lastmodified":1464054162,
+    "wof:name":"River Transportation Svc",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "public",
+        "provider"
+    ]
+},
+  "bbox": [
+    -88.668867,
+    37.076045,
+    -88.668867,
+    37.076045
+],
+  "geometry": {"coordinates":[-88.66886700000001,37.076045],"type":"Point"}
+}

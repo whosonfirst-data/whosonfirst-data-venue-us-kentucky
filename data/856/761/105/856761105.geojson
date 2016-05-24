@@ -1,0 +1,71 @@
+{
+  "id": 856761105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639717,37.08049,-88.639717,37.08049",
+    "geom:latitude":37.08049,
+    "geom:longitude":-88.639717,
+    "iso:country":"US",
+    "sg:address":"801 Mcguire Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5160",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fZgRUR0bzsFxIBihWF8Hb_37.080490_-88.639717@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054164,
+    "wof:geomhash":"2fa6ac04d3961b44e6e9323ef0c7f2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761105
+        }
+    ],
+    "wof:id":856761105,
+    "wof:lastmodified":1464054164,
+    "wof:name":"Dudley Courts",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.639717,
+    37.08049,
+    -88.639717,
+    37.08049
+],
+  "geometry": {"coordinates":[-88.639717,37.08049],"type":"Point"}
+}

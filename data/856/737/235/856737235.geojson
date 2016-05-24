@@ -1,0 +1,74 @@
+{
+  "id": 856737235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.898257,37.279568,-85.898257,37.279568",
+    "geom:latitude":37.279568,
+    "geom:longitude":-85.898257,
+    "iso:country":"US",
+    "sg:address":"1199 Main St",
+    "sg:city":"Munfordville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/munfordville/201402-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 524 7070",
+    "sg:postcode":"42765",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CPGkOXs5c6oNKL1SSxPvE_37.279568_-85.898257@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053271,
+    "wof:geomhash":"b80b100f874b8de217561e5239f74188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":856737235
+        }
+    ],
+    "wof:id":856737235,
+    "wof:lastmodified":1464053271,
+    "wof:name":"Sonic",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.898257,
+    37.279568,
+    -85.898257,
+    37.279568
+],
+  "geometry": {"coordinates":[-85.898257,37.279568],"type":"Point"}
+}

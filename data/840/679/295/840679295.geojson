@@ -1,0 +1,77 @@
+{
+  "id": 840679295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.434945,38.054899,-84.434945,38.054899",
+    "geom:latitude":38.054899,
+    "geom:longitude":-84.434945,
+    "iso:country":"US",
+    "sg:address":"2002 Memphis Ct",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 294 7704",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85817017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1knFgxkwpZu7wFbdufSIOD_38.054899_-84.434945@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045551,
+    "wof:geomhash":"d56f641a43890631b4a9ac80d375a564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85817017,
+            "region_id":85688641,
+            "venue_id":840679295
+        }
+    ],
+    "wof:id":840679295,
+    "wof:lastmodified":1464045551,
+    "wof:name":"Electrical Surplus",
+    "wof:parent_id":85817017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.434945,
+    38.054899,
+    -84.434945,
+    38.054899
+],
+  "geometry": {"coordinates":[-84.434945,38.054899],"type":"Point"}
+}

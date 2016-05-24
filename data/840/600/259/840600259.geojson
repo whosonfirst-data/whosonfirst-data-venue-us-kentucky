@@ -1,0 +1,75 @@
+{
+  "id": 840600259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860943,37.710735,-85.860943,37.710735",
+    "geom:latitude":37.710735,
+    "geom:longitude":-85.860943,
+    "iso:country":"US",
+    "sg:address":"611 Sunrise Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6627",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LEQJG6iTmMgt3QqlcXvD1_37.710735_-85.860943@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043667,
+    "wof:geomhash":"5c998c24373d99d2ea7d4389547ce20d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840600259
+        }
+    ],
+    "wof:id":840600259,
+    "wof:lastmodified":1464043667,
+    "wof:name":"William Meador",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -85.860943,
+    37.710735,
+    -85.860943,
+    37.710735
+],
+  "geometry": {"coordinates":[-85.86094300000001,37.710735],"type":"Point"}
+}

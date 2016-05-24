@@ -1,0 +1,71 @@
+{
+  "id": 840568637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137144,37.495148,-82.137144,37.495148",
+    "geom:latitude":37.495148,
+    "geom:longitude":-82.137144,
+    "iso:country":"US",
+    "sg:address":"48 Phillips Branch Rd",
+    "sg:city":"Jamboree",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 3477",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVXMfRGTIeKt5M646BgB2_37.495148_-82.137144@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042943,
+    "wof:geomhash":"578fd4392f1bbe4a41717351fd929ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840568637
+        }
+    ],
+    "wof:id":840568637,
+    "wof:lastmodified":1464042943,
+    "wof:name":"East Kentucky Healthcare",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -82.137144,
+    37.495148,
+    -82.137144,
+    37.495148
+],
+  "geometry": {"coordinates":[-82.13714400000001,37.495148],"type":"Point"}
+}

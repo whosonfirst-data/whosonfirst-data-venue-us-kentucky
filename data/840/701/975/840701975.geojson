@@ -1,0 +1,71 @@
+{
+  "id": 840701975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.712887,36.607282,-83.712887,36.607282",
+    "geom:latitude":36.607282,
+    "geom:longitude":-83.712887,
+    "iso:country":"US",
+    "sg:address":"1915 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 3958",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zCIdRqDoDUrSkAn8gPpIM_36.607282_-83.712887@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046146,
+    "wof:geomhash":"c4fcb13d84a5922860c6939c4531aaff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840701975
+        }
+    ],
+    "wof:id":840701975,
+    "wof:lastmodified":1464046146,
+    "wof:name":"Avenue Cafe",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -83.712887,
+    36.607282,
+    -83.712887,
+    36.607282
+],
+  "geometry": {"coordinates":[-83.71288699999999,36.607282],"type":"Point"}
+}

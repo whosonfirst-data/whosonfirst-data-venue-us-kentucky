@@ -1,0 +1,74 @@
+{
+  "id": 856746753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689346,38.180645,-85.689346,38.180645",
+    "geom:latitude":38.180645,
+    "geom:longitude":-85.689346,
+    "iso:country":"US",
+    "sg:address":"3899 Produce Rd Ste 113",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 810 5600",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.csxt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5orkIPyWKLe2DCQnu5TX0r_38.180645_-85.689346@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053622,
+    "wof:geomhash":"ccfc17af578150e3a3b4967e68d2bf39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856746753
+        }
+    ],
+    "wof:id":856746753,
+    "wof:lastmodified":1464053622,
+    "wof:name":"Csx",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -85.689346,
+    38.180645,
+    -85.689346,
+    38.180645
+],
+  "geometry": {"coordinates":[-85.689346,38.180645],"type":"Point"}
+}

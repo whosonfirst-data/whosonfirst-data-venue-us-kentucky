@@ -1,0 +1,71 @@
+{
+  "id": 840906899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.570476,37.862052,-87.570476,37.862052",
+    "geom:latitude":37.862052,
+    "geom:longitude":-87.570476,
+    "iso:country":"US",
+    "sg:address":"616 Barrett Blvd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4534",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k02sTzOu8OBWoexcqkeDl_37.862052_-87.570476@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050635,
+    "wof:geomhash":"62e16d047d62ae0b78f40259b6c4e786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840906899
+        }
+    ],
+    "wof:id":840906899,
+    "wof:lastmodified":1464050635,
+    "wof:name":"Steven E Todd DDS",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.570476,
+    37.862052,
+    -87.570476,
+    37.862052
+],
+  "geometry": {"coordinates":[-87.570476,37.862052],"type":"Point"}
+}

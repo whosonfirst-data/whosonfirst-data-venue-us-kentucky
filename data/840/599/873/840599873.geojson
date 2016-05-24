@@ -1,0 +1,71 @@
+{
+  "id": 840599873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42464,37.012927,-86.42464,37.012927",
+    "geom:latitude":37.012927,
+    "geom:longitude":-86.42464,
+    "iso:country":"US",
+    "sg:address":"315 Beech Bend Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5773",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FfZRVj7LSBrNXXb0TPGaF_37.012927_-86.424640@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043659,
+    "wof:geomhash":"8bbfe6043788dc48be7baa6041ae7a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840599873
+        }
+    ],
+    "wof:id":840599873,
+    "wof:lastmodified":1464043659,
+    "wof:name":"River Bend Antique Mall",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -86.42464,
+    37.012927,
+    -86.42464,
+    37.012927
+],
+  "geometry": {"coordinates":[-86.42464,37.012927],"type":"Point"}
+}

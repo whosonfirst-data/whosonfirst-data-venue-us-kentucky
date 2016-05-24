@@ -1,0 +1,80 @@
+{
+  "id": 856761235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.639546,37.09492,-88.639546,37.09492",
+    "geom:latitude":37.09492,
+    "geom:longitude":-88.639546,
+    "iso:country":"US",
+    "sg:address":"2605 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8326",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "improvement",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54AAuXc9akoDNW1J3FMzQn_37.094920_-88.639546@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054169,
+    "wof:geomhash":"88a234d5eb2605d0bf90277205467a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761235
+        }
+    ],
+    "wof:id":856761235,
+    "wof:lastmodified":1464054169,
+    "wof:name":"Chambers Roofing Co",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "improvement",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.639546,
+    37.09492,
+    -88.639546,
+    37.09492
+],
+  "geometry": {"coordinates":[-88.639546,37.09492],"type":"Point"}
+}

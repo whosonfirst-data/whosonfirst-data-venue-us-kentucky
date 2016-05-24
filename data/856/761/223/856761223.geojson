@@ -1,0 +1,67 @@
+{
+  "id": 856761223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698026,37.070659,-88.698026,37.070659",
+    "geom:latitude":37.070659,
+    "geom:longitude":-88.698026,
+    "iso:country":"US",
+    "sg:address":"2777 W Park Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 5725",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"http://www.paducahbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XRAGNMyvEBzbRsHER9Yb9_37.070659_-88.698026@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054168,
+    "wof:geomhash":"f9ce58937c77d3faf991e4710cab36fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761223
+        }
+    ],
+    "wof:id":856761223,
+    "wof:lastmodified":1464054168,
+    "wof:name":"Paducah Bank & Trust Co The",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.698026,
+    37.070659,
+    -88.698026,
+    37.070659
+],
+  "geometry": {"coordinates":[-88.698026,37.070659],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840553459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.602618,38.259458,-85.602618,38.259458",
+    "geom:latitude":38.259458,
+    "geom:longitude":-85.602618,
+    "iso:country":"US",
+    "sg:address":"8153 New Lagrange Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 3451",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TIDvtWPwQHJhLkcLPyaNm_38.259458_-85.602618@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042583,
+    "wof:geomhash":"b8ebbea7eea054eaacdfdc35122db66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840553459
+        }
+    ],
+    "wof:id":840553459,
+    "wof:lastmodified":1464042583,
+    "wof:name":"Michael S Sumner DDS",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.602618,
+    38.259458,
+    -85.602618,
+    38.259458
+],
+  "geometry": {"coordinates":[-85.60261800000001,38.259458],"type":"Point"}
+}

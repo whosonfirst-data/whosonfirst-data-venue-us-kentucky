@@ -1,0 +1,73 @@
+{
+  "id": 840544071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.256435,37.679025,-84.256435,37.679025",
+    "geom:latitude":37.679025,
+    "geom:longitude":-84.256435,
+    "iso:country":"US",
+    "sg:address":"3008 Kingston Hwy",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 0624",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5quy4DJcHbbgjhacwIxBEj_37.679025_-84.256435@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042332,
+    "wof:geomhash":"646e243b7118bfba341ca020ae6e386b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840544071
+        }
+    ],
+    "wof:id":840544071,
+    "wof:lastmodified":1464042332,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.256435,
+    37.679025,
+    -84.256435,
+    37.679025
+],
+  "geometry": {"coordinates":[-84.256435,37.679025],"type":"Point"}
+}

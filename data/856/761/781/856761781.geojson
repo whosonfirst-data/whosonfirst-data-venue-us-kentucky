@@ -1,0 +1,80 @@
+{
+  "id": 856761781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64077,37.037121,-88.64077,37.037121",
+    "geom:latitude":37.037121,
+    "geom:longitude":-88.64077,
+    "iso:country":"US",
+    "sg:address":"100 Lake Pointe Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 7451",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nzvIiSEGf5R0so4kbnx5Y_37.037121_-88.640770@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054193,
+    "wof:geomhash":"0bc283ffb0aeae531a8cc1fa208d9457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761781
+        }
+    ],
+    "wof:id":856761781,
+    "wof:lastmodified":1464054193,
+    "wof:name":"Home Garden Party Suzanne Ja",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.64077,
+    37.037121,
+    -88.64077,
+    37.037121
+],
+  "geometry": {"coordinates":[-88.64077,37.037121],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840533721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.843997,37.706053,-85.843997,37.706053",
+    "geom:latitude":37.706053,
+    "geom:longitude":-85.843997,
+    "iso:country":"US",
+    "sg:address":"1040 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2277",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o34voeQtB1cNpAU8Ke22s_37.706053_-85.843997@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042068,
+    "wof:geomhash":"a8e9c0f3a6ac61cf68b13b374ce38f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840533721
+        }
+    ],
+    "wof:id":840533721,
+    "wof:lastmodified":1464042068,
+    "wof:name":"Speedway Superamerica LLC",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.843997,
+    37.706053,
+    -85.843997,
+    37.706053
+],
+  "geometry": {"coordinates":[-85.843997,37.706053],"type":"Point"}
+}

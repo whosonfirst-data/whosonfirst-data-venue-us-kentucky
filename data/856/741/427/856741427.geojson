@@ -1,0 +1,87 @@
+{
+  "id": 856741427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.649949,38.226212,-85.649949,38.226212",
+    "geom:latitude":38.226212,
+    "geom:longitude":-85.649949,
+    "iso:country":"US",
+    "sg:address":"3650 Dutchmans Ln Ofc",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 7795",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.fceinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vwuuQtWMgYAlIBxS5T7wP_38.226212_-85.649949@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053438,
+    "wof:geomhash":"f24f9f833e9971af482acb64ae0943ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873371,
+            "region_id":85688641,
+            "venue_id":856741427
+        }
+    ],
+    "wof:id":856741427,
+    "wof:lastmodified":1464053438,
+    "wof:name":"Shalom Towers Apts",
+    "wof:parent_id":85873371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -85.649949,
+    38.226212,
+    -85.649949,
+    38.226212
+],
+  "geometry": {"coordinates":[-85.64994900000001,38.226212],"type":"Point"}
+}

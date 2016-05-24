@@ -1,0 +1,73 @@
+{
+  "id": 840670019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580905,37.860956,-84.580905,37.860956",
+    "geom:latitude":37.860956,
+    "geom:longitude":-84.580905,
+    "iso:country":"US",
+    "sg:address":"1337 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2620",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_251q4vJFaDCMfNGIs5oN0t_37.860956_-84.580905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045308,
+    "wof:geomhash":"abd8fade7f7e10247f01473e2ff4ae6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840670019
+        }
+    ],
+    "wof:id":840670019,
+    "wof:lastmodified":1464045308,
+    "wof:name":"Ron Eldridge Excavating Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.580905,
+    37.860956,
+    -84.580905,
+    37.860956
+],
+  "geometry": {"coordinates":[-84.580905,37.860956],"type":"Point"}
+}

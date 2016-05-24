@@ -1,0 +1,75 @@
+{
+  "id": 840867151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.487267,37.990645,-84.487267,37.990645",
+    "geom:latitude":37.990645,
+    "geom:longitude":-84.487267,
+    "iso:country":"US",
+    "sg:address":"1117 Gainesway Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 272 4442",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "sg:tags":[
+        "street",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85820975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fYEomquJ9x78eobY4W2Qu_37.990645_-84.487267@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049800,
+    "wof:geomhash":"d43eb022ebe0a99ce3e9a7319f0d0970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85820975,
+            "region_id":85688641,
+            "venue_id":840867151
+        }
+    ],
+    "wof:id":840867151,
+    "wof:lastmodified":1464049800,
+    "wof:name":"Lainhart Trucking & Paving",
+    "wof:parent_id":85820975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "street",
+        "highway"
+    ]
+},
+  "bbox": [
+    -84.487267,
+    37.990645,
+    -84.487267,
+    37.990645
+],
+  "geometry": {"coordinates":[-84.487267,37.990645],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840889607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.760971,37.654091,-84.760971,37.654091",
+    "geom:latitude":37.654091,
+    "geom:longitude":-84.760971,
+    "iso:country":"US",
+    "sg:address":"407 Ohara Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 6704",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Luxwn4pOT4nekWJxw6pD1_37.654091_-84.760971@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050274,
+    "wof:geomhash":"d5b91d071d9a255b0440d3f5766b6f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840889607
+        }
+    ],
+    "wof:id":840889607,
+    "wof:lastmodified":1464050274,
+    "wof:name":"Wiley Electric Contractor",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.760971,
+    37.654091,
+    -84.760971,
+    37.654091
+],
+  "geometry": {"coordinates":[-84.760971,37.654091],"type":"Point"}
+}

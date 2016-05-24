@@ -1,0 +1,71 @@
+{
+  "id": 840660883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.542865,36.916542,-86.542865,36.916542",
+    "geom:latitude":36.916542,
+    "geom:longitude":-86.542865,
+    "iso:country":"US",
+    "sg:address":"1160 Murphy Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 0439",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QFn3Skxp9zXJQJMd1iek2_36.916542_-86.542865@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045125,
+    "wof:geomhash":"9224cb22b24719af347cf226ccdf9e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840660883
+        }
+    ],
+    "wof:id":840660883,
+    "wof:lastmodified":1464045125,
+    "wof:name":"Omega Billing Solutions",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -86.542865,
+    36.916542,
+    -86.542865,
+    36.916542
+],
+  "geometry": {"coordinates":[-86.54286500000001,36.916542],"type":"Point"}
+}

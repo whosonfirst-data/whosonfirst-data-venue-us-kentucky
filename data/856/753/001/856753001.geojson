@@ -1,0 +1,75 @@
+{
+  "id": 856753001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.711063,38.026045,-84.711063,38.026045",
+    "geom:latitude":38.026045,
+    "geom:longitude":-84.711063,
+    "iso:country":"US",
+    "sg:address":"1058 Dry Ridge Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 1123",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yD0BioGZ0wWoDlgsALLlH_38.026045_-84.711063@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053868,
+    "wof:geomhash":"123f024fc4afe3ac3ac57a75eb9e0ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856753001
+        }
+    ],
+    "wof:id":856753001,
+    "wof:lastmodified":1464053868,
+    "wof:name":"Noble Racing Inc",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "engines-rebuild",
+        "exchange",
+        "rebuilding"
+    ]
+},
+  "bbox": [
+    -84.711063,
+    38.026045,
+    -84.711063,
+    38.026045
+],
+  "geometry": {"coordinates":[-84.711063,38.026045],"type":"Point"}
+}

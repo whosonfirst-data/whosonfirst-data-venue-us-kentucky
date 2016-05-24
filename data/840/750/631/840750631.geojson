@@ -1,0 +1,68 @@
+{
+  "id": 840750631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.906465,36.998028,-85.906465,36.998028",
+    "geom:latitude":36.998028,
+    "geom:longitude":-85.906465,
+    "iso:country":"US",
+    "sg:address":"201 Columbia Ave",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 8859",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WF06ZETLYSks853T9vFly_36.998028_-85.906465@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047120,
+    "wof:geomhash":"035f94017a02f266d4da0ad8c9157392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840750631
+        }
+    ],
+    "wof:id":840750631,
+    "wof:lastmodified":1464047120,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.906465,
+    36.998028,
+    -85.906465,
+    36.998028
+],
+  "geometry": {"coordinates":[-85.906465,36.998028],"type":"Point"}
+}

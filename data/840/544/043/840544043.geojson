@@ -1,0 +1,73 @@
+{
+  "id": 840544043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284311,37.731142,-84.284311,37.731142",
+    "geom:latitude":37.731142,
+    "geom:longitude":-84.284311,
+    "iso:country":"US",
+    "sg:address":"699 Eastern Byp",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 2404",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VyXH4DlDXsTvC51bzguwD_37.731142_-84.284311@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042331,
+    "wof:geomhash":"e39404238b3228dd5f37537f036575f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840544043
+        }
+    ],
+    "wof:id":840544043,
+    "wof:lastmodified":1464042331,
+    "wof:name":"State Police",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -84.284311,
+    37.731142,
+    -84.284311,
+    37.731142
+],
+  "geometry": {"coordinates":[-84.284311,37.731142],"type":"Point"}
+}

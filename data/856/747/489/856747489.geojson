@@ -1,0 +1,86 @@
+{
+  "id": 856747489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.594801,38.200452,-85.594801,38.200452",
+    "geom:latitude":38.200452,
+    "geom:longitude":-85.594801,
+    "iso:country":"US",
+    "sg:address":"3203 Glenstone Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 235 4545",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trainer",
+        "consultant",
+        "program",
+        "physical",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VTNgzp0nJ2PYG8KjviovB_38.200452_-85.594801@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053658,
+    "wof:geomhash":"0d971cb1ee31cf7fbd20895af11bb017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747489
+        }
+    ],
+    "wof:id":856747489,
+    "wof:lastmodified":1464053658,
+    "wof:name":"Advantage Fitness",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "consultant",
+        "program",
+        "physical",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -85.594801,
+    38.200452,
+    -85.594801,
+    38.200452
+],
+  "geometry": {"coordinates":[-85.594801,38.200452],"type":"Point"}
+}

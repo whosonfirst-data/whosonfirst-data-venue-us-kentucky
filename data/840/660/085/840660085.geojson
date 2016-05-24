@@ -1,0 +1,75 @@
+{
+  "id": 840660085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.703188,38.244661,-85.703188,38.244661",
+    "geom:latitude":38.244661,
+    "geom:longitude":-85.703188,
+    "iso:country":"US",
+    "sg:address":"2511 Grinstead Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 5828",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FOcJTDHnWThEeJDLyKEi9_38.244661_-85.703188@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045106,
+    "wof:geomhash":"d944b0ffa936ce833775fb299c241521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":840660085
+        }
+    ],
+    "wof:id":840660085,
+    "wof:lastmodified":1464045106,
+    "wof:name":"Ed Morris Automotive",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.703188,
+    38.244661,
+    -85.703188,
+    38.244661
+],
+  "geometry": {"coordinates":[-85.703188,38.244661],"type":"Point"}
+}

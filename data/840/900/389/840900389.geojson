@@ -1,0 +1,66 @@
+{
+  "id": 840900389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.853946,37.688663,-85.853946,37.688663",
+    "geom:latitude":37.688663,
+    "geom:longitude":-85.853946,
+    "iso:country":"US",
+    "sg:address":"424 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5355",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HRiab0V8T3Xk9uFZTgZrN_37.688663_-85.853946@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050506,
+    "wof:geomhash":"c78ee1f77cd30d717a34cc97bba6c51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840900389
+        }
+    ],
+    "wof:id":840900389,
+    "wof:lastmodified":1464050506,
+    "wof:name":"Montessori Childrens Ctr",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.853946,
+    37.688663,
+    -85.853946,
+    37.688663
+],
+  "geometry": {"coordinates":[-85.85394599999999,37.688663],"type":"Point"}
+}

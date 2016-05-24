@@ -1,0 +1,106 @@
+{
+  "id": 856748865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.509206,38.242534,-85.509206,38.242534",
+    "geom:latitude":38.242534,
+    "geom:longitude":-85.509206,
+    "iso:country":"US",
+    "sg:address":"13210 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1019",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "cable",
+        "supply",
+        "satellite",
+        "telephone",
+        "equipment",
+        "cellular"
+    ],
+    "sg:website":"http://www.cellularadvantage.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jxBkwS784etGvo0dwwSot_38.242534_-85.509206@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053705,
+    "wof:geomhash":"ab343d7d7ba2a8b409783d6da80ff6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856748865
+        }
+    ],
+    "wof:id":856748865,
+    "wof:lastmodified":1464053705,
+    "wof:name":"AT&T Authorized Retailer Cellular Advantage",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "cable",
+        "supply",
+        "satellite",
+        "telephone",
+        "equipment",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.509206,
+    38.242534,
+    -85.509206,
+    38.242534
+],
+  "geometry": {"coordinates":[-85.50920600000001,38.242534],"type":"Point"}
+}

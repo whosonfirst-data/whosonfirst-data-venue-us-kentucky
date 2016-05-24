@@ -1,0 +1,73 @@
+{
+  "id": 856719267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86148,37.69147,-85.86148,37.69147",
+    "geom:latitude":37.69147,
+    "geom:longitude":-85.86148,
+    "iso:country":"US",
+    "sg:address":"113 College St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2100",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O6EgAYXfApixMOxN8hX1U_37.691470_-85.861480@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052556,
+    "wof:geomhash":"3a55344ebf0628524952cf7429e613aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856719267
+        }
+    ],
+    "wof:id":856719267,
+    "wof:lastmodified":1464052556,
+    "wof:name":"Westwillow Storage & Garages",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.86148,
+    37.69147,
+    -85.86148,
+    37.69147
+],
+  "geometry": {"coordinates":[-85.86148,37.69147],"type":"Point"}
+}

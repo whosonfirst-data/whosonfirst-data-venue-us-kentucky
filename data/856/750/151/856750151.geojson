@@ -1,0 +1,75 @@
+{
+  "id": 856750151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.529523,38.232545,-85.529523,38.232545",
+    "geom:latitude":38.232545,
+    "geom:longitude":-85.529523,
+    "iso:country":"US",
+    "sg:address":"12204 Brookgreen Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Auto Racetrack",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 3180",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35XnvLGqybClnKgQE0Cx0H_38.232545_-85.529523@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053754,
+    "wof:geomhash":"29a3bc1bf6001ef38e19246f28a313ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750151
+        }
+    ],
+    "wof:id":856750151,
+    "wof:lastmodified":1464053754,
+    "wof:name":"Elders Pilot Car Service",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "pilot"
+    ]
+},
+  "bbox": [
+    -85.529523,
+    38.232545,
+    -85.529523,
+    38.232545
+],
+  "geometry": {"coordinates":[-85.529523,38.232545],"type":"Point"}
+}

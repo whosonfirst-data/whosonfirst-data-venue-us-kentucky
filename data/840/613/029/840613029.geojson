@@ -1,0 +1,75 @@
+{
+  "id": 840613029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740362,38.231397,-85.740362,38.231397",
+    "geom:latitude":38.231397,
+    "geom:longitude":-85.740362,
+    "iso:country":"US",
+    "sg:address":"1242 Logan St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 0545",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qiwySY0zVSLAuSZEGFCut_38.231397_-85.740362@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043997,
+    "wof:geomhash":"a1be5f62520a323e4cb727b4decd94fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":840613029
+        }
+    ],
+    "wof:id":840613029,
+    "wof:lastmodified":1464043997,
+    "wof:name":"Welding Equipment Co",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "welding"
+    ]
+},
+  "bbox": [
+    -85.740362,
+    38.231397,
+    -85.740362,
+    38.231397
+],
+  "geometry": {"coordinates":[-85.740362,38.231397],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840708707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572151,37.86574,-84.572151,37.86574",
+    "geom:latitude":37.86574,
+    "geom:longitude":-84.572151,
+    "iso:country":"US",
+    "sg:address":"119 Lynnwood Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3205",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NUmaQDP7JJSZNqcE7Bs0_37.865740_-84.572151@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046277,
+    "wof:geomhash":"d96cc116dcae9c796683ab50d1a26ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840708707
+        }
+    ],
+    "wof:id":840708707,
+    "wof:lastmodified":1464046277,
+    "wof:name":"Service Plus Heating & AC",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.572151,
+    37.86574,
+    -84.572151,
+    37.86574
+],
+  "geometry": {"coordinates":[-84.57215100000001,37.86574],"type":"Point"}
+}

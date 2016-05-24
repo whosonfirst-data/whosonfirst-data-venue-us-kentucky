@@ -1,0 +1,72 @@
+{
+  "id": 856734153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565032,37.904204,-84.565032,37.904204",
+    "geom:latitude":37.904204,
+    "geom:longitude":-84.565032,
+    "iso:country":"US",
+    "sg:address":"110 Retail Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/100090-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 8122",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kHzZFpLwPxQyI4hnvV6ep_37.904204_-84.565032@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053150,
+    "wof:geomhash":"59f37d307e9594cc2dc86bb848698698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734153
+        }
+    ],
+    "wof:id":856734153,
+    "wof:lastmodified":1464053150,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.565032,
+    37.904204,
+    -84.565032,
+    37.904204
+],
+  "geometry": {"coordinates":[-84.565032,37.904204],"type":"Point"}
+}

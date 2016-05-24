@@ -1,0 +1,71 @@
+{
+  "id": 840661795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418438,36.929019,-86.418438,36.929019",
+    "geom:latitude":36.929019,
+    "geom:longitude":-86.418438,
+    "iso:country":"US",
+    "sg:address":"1914 Mel Browning St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 2404",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jKI86k8uBu59lh7aSUOf5_36.929019_-86.418438@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045143,
+    "wof:geomhash":"54fe6cf8bea7b2cca2dea9921f2425ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840661795
+        }
+    ],
+    "wof:id":840661795,
+    "wof:lastmodified":1464045143,
+    "wof:name":"Jim Walter Homes Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.418438,
+    36.929019,
+    -86.418438,
+    36.929019
+],
+  "geometry": {"coordinates":[-86.41843799999999,36.929019],"type":"Point"}
+}

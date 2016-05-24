@@ -1,0 +1,86 @@
+{
+  "id": 856739225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757637,38.250235,-85.757637,38.250235",
+    "geom:latitude":38.250235,
+    "geom:longitude":-85.757637,
+    "iso:country":"US",
+    "sg:address":"540 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 0397",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wig",
+        "hair",
+        "piece",
+        "apparel",
+        "women's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NTBwMZFKm9YKZs74Cxd0T_38.250235_-85.757637@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053350,
+    "wof:geomhash":"736556e6f7c43a91cef3809cd5f0457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":856739225
+        }
+    ],
+    "wof:id":856739225,
+    "wof:lastmodified":1464053350,
+    "wof:name":"Wig Shop",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wig",
+        "hair",
+        "piece",
+        "apparel",
+        "women's"
+    ]
+},
+  "bbox": [
+    -85.757637,
+    38.250235,
+    -85.757637,
+    38.250235
+],
+  "geometry": {"coordinates":[-85.757637,38.250235],"type":"Point"}
+}

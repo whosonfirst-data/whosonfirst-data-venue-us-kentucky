@@ -1,0 +1,77 @@
+{
+  "id": 840594589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775751,38.161607,-85.775751,38.161607",
+    "geom:latitude":38.161607,
+    "geom:longitude":-85.775751,
+    "iso:country":"US",
+    "sg:address":"511 W Kenwood Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 2171",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_655RbhU1w1P3K4yygavTad_38.161607_-85.775751@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043530,
+    "wof:geomhash":"ec9a6a107bf1e8106539809d09748f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840594589
+        }
+    ],
+    "wof:id":840594589,
+    "wof:lastmodified":1464043530,
+    "wof:name":"Cher's Pet Grooming",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.775751,
+    38.161607,
+    -85.775751,
+    38.161607
+],
+  "geometry": {"coordinates":[-85.775751,38.161607],"type":"Point"}
+}

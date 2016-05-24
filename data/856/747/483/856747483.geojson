@@ -1,0 +1,95 @@
+{
+  "id": 856747483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635444,38.2173,-85.635444,38.2173",
+    "geom:latitude":38.2173,
+    "geom:longitude":-85.635444,
+    "iso:country":"US",
+    "sg:address":"3526 Deibel Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 6019",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "caterer",
+        "party",
+        "banquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lgaipxrgEXNWfaHnaMaoK_38.217300_-85.635444@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053658,
+    "wof:geomhash":"ce5d3ea2c4d178141a49029ce0350352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747483
+        }
+    ],
+    "wof:id":856747483,
+    "wof:lastmodified":1464053658,
+    "wof:name":"Derby Cty Caterers",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "caterer",
+        "party",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -85.635444,
+    38.2173,
+    -85.635444,
+    38.2173
+],
+  "geometry": {"coordinates":[-85.63544400000001,38.2173],"type":"Point"}
+}

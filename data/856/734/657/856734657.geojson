@@ -1,0 +1,80 @@
+{
+  "id": 856734657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499216,38.04834,-84.499216,38.04834",
+    "geom:latitude":38.04834,
+    "geom:longitude":-84.499216,
+    "iso:country":"US",
+    "sg:address":"325 W Main St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/17751-la-gourmet-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 253 5247",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "calzones",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0udGOrDCeA7abYFF5G2xRZ_38.048340_-84.499216@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053169,
+    "wof:geomhash":"ffbe33d7c52f7b7256ddb66b95ad5f36",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":856734657
+        }
+    ],
+    "wof:id":856734657,
+    "wof:lastmodified":1464053169,
+    "wof:name":"La Gourmet Pizza",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calzones",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.499216,
+    38.04834,
+    -84.499216,
+    38.04834
+],
+  "geometry": {"coordinates":[-84.499216,38.04834],"type":"Point"}
+}

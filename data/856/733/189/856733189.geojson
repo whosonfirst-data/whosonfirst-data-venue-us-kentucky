@@ -1,0 +1,86 @@
+{
+  "id": 856733189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.662182,38.200079,-85.662182,38.200079",
+    "geom:latitude":38.200079,
+    "geom:longitude":-85.662182,
+    "iso:country":"US",
+    "sg:address":"3601 Buechel Byp",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/79677-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 6065",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wBqmovpLpwWgulzyGQIc0_38.200079_-85.662182@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053116,
+    "wof:geomhash":"017f240caeee284bd67adba7b6276f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856733189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856733189
+        }
+    ],
+    "wof:id":856733189,
+    "wof:lastmodified":1464053116,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.662182,
+    38.200079,
+    -85.662182,
+    38.200079
+],
+  "geometry": {"coordinates":[-85.662182,38.200079],"type":"Point"}
+}

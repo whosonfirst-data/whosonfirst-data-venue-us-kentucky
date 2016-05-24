@@ -1,0 +1,73 @@
+{
+  "id": 856726103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.507782,38.242295,-85.507782,38.242295",
+    "geom:latitude":38.242295,
+    "geom:longitude":-85.507782,
+    "iso:country":"US",
+    "sg:address":"13320 Shelbyville Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 8494",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E5sMEIHLOBICM6Tc99hx0_38.242295_-85.507782@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052835,
+    "wof:geomhash":"db0688100dc2b64833ecae5af49d8021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856726103
+        }
+    ],
+    "wof:id":856726103,
+    "wof:lastmodified":1464052835,
+    "wof:name":"Family Care Dentistry",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.507782,
+    38.242295,
+    -85.507782,
+    38.242295
+],
+  "geometry": {"coordinates":[-85.50778200000001,38.242295],"type":"Point"}
+}

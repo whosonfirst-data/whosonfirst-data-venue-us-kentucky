@@ -1,0 +1,75 @@
+{
+  "id": 856760743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.527649,37.487008,-82.527649,37.487008",
+    "geom:latitude":37.487008,
+    "geom:longitude":-82.527649,
+    "iso:country":"US",
+    "sg:address":"173 Redale Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 9442",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ny1WCSyF4Be9tEkfyrjY9_37.487008_-82.527649@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054150,
+    "wof:geomhash":"af68a389098db33ebcfca72ca57f2add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856760743
+        }
+    ],
+    "wof:id":856760743,
+    "wof:lastmodified":1464054150,
+    "wof:name":"Pikeville City Of",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -82.527649,
+    37.487008,
+    -82.527649,
+    37.487008
+],
+  "geometry": {"coordinates":[-82.527649,37.487008],"type":"Point"}
+}

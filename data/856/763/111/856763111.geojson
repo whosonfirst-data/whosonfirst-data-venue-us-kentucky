@@ -1,0 +1,83 @@
+{
+  "id": 856763111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.539941,39.054819,-84.539941,39.054819",
+    "geom:latitude":39.054819,
+    "geom:longitude":-84.539941,
+    "iso:country":"US",
+    "sg:address":"30 Augusta Ave.",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "travel",
+        "vacation",
+        "group-buying",
+        "flash-sales",
+        "deals",
+        "hotel"
+    ],
+    "sg:website":"http://trippodeals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lb74iYMJK7Qn5TeA7Tdpq_39.054819_-84.539941@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464054240,
+    "wof:geomhash":"b0943409ddd22f7acf1e84d9e4cfe6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":856763111
+        }
+    ],
+    "wof:id":856763111,
+    "wof:lastmodified":1464054240,
+    "wof:name":"Trippo",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "vacation",
+        "group-buying",
+        "flash-sales",
+        "deals",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -84.539941,
+    39.054819,
+    -84.539941,
+    39.054819
+],
+  "geometry": {"coordinates":[-84.539941,39.054819],"type":"Point"}
+}

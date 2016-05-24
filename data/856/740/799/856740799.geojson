@@ -1,0 +1,88 @@
+{
+  "id": 856740799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.732368,38.241879,-85.732368,38.241879",
+    "geom:latitude":38.241879,
+    "geom:longitude":-85.732368,
+    "iso:country":"US",
+    "sg:address":"801 Barret Ave Ste 107",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 2004",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R17kcuyYk7fhNLvHYJHWO_38.241879_-85.732368@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053417,
+    "wof:geomhash":"55526a6166200482c37e278cf497dc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":856740799
+        }
+    ],
+    "wof:id":856740799,
+    "wof:lastmodified":1464053417,
+    "wof:name":"Rakutt John P Dds",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -85.732368,
+    38.241879,
+    -85.732368,
+    38.241879
+],
+  "geometry": {"coordinates":[-85.73236799999999,38.241879],"type":"Point"}
+}

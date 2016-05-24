@@ -1,0 +1,71 @@
+{
+  "id": 840726655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690952,37.096842,-88.690952,37.096842",
+    "geom:latitude":37.096842,
+    "geom:longitude":-88.690952,
+    "iso:country":"US",
+    "sg:address":"5353 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8822",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fPEqpQmklSkRinnb5gggD_37.096842_-88.690952@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046648,
+    "wof:geomhash":"d32e23ce6eec2fcfd58a0f610a6d52d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840726655
+        }
+    ],
+    "wof:id":840726655,
+    "wof:lastmodified":1464046648,
+    "wof:name":"Ellis & Sons Tire Repair",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.690952,
+    37.096842,
+    -88.690952,
+    37.096842
+],
+  "geometry": {"coordinates":[-88.690952,37.096842],"type":"Point"}
+}

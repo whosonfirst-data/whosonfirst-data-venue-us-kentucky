@@ -1,0 +1,69 @@
+{
+  "id": 840767331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578686,37.865909,-84.578686,37.865909",
+    "geom:latitude":37.865909,
+    "geom:longitude":-84.578686,
+    "iso:country":"US",
+    "sg:address":"958 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 3933",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "driveway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pkD7q9f2GbsamOIH2Va25_37.865909_-84.578686@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047513,
+    "wof:geomhash":"9e859b24de33124f1d0e2503dacdb0a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840767331
+        }
+    ],
+    "wof:id":840767331,
+    "wof:lastmodified":1464047513,
+    "wof:name":"T & K Sealing",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driveway"
+    ]
+},
+  "bbox": [
+    -84.578686,
+    37.865909,
+    -84.578686,
+    37.865909
+],
+  "geometry": {"coordinates":[-84.578686,37.865909],"type":"Point"}
+}

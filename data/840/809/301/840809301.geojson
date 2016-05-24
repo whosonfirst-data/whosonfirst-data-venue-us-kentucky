@@ -1,0 +1,73 @@
+{
+  "id": 840809301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.575832,36.933891,-86.575832,36.933891",
+    "geom:latitude":36.933891,
+    "geom:longitude":-86.575832,
+    "iso:country":"US",
+    "sg:address":"1840 Browning Rd",
+    "sg:city":"Rockfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2712",
+    "sg:postcode":"42274",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RPJI0vk99RUKdoSZIkwxf_36.933891_-86.575832@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048394,
+    "wof:geomhash":"2dfc8f86f64135ffbfcdf39634a9b136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840809301
+        }
+    ],
+    "wof:id":840809301,
+    "wof:lastmodified":1464048394,
+    "wof:name":"Gregory Electric Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.575832,
+    36.933891,
+    -86.575832,
+    36.933891
+],
+  "geometry": {"coordinates":[-86.57583200000001,36.933891],"type":"Point"}
+}

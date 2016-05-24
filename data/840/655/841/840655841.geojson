@@ -1,0 +1,71 @@
+{
+  "id": 840655841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438365,36.992638,-86.438365,36.992638",
+    "geom:latitude":36.992638,
+    "geom:longitude":-86.438365,
+    "iso:country":"US",
+    "sg:address":"804 Chestnut St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1117",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jMuvha2eBF9qQ63fXmUvN_36.992638_-86.438365@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045019,
+    "wof:geomhash":"102ddaa5f8d5ecb3c8990de35a876436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840655841
+        }
+    ],
+    "wof:id":840655841,
+    "wof:lastmodified":1464045019,
+    "wof:name":"Avery & Smallwood",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -86.438365,
+    36.992638,
+    -86.438365,
+    36.992638
+],
+  "geometry": {"coordinates":[-86.438365,36.992638],"type":"Point"}
+}

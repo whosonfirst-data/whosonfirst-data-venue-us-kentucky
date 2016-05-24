@@ -1,0 +1,88 @@
+{
+  "id": 856747621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.597504,38.210831,-85.597504,38.210831",
+    "geom:latitude":38.210831,
+    "geom:longitude":-85.597504,
+    "iso:country":"US",
+    "sg:address":"2801 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 2779",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "equipment-renting"
+    ],
+    "sg:website":"http://www.cort.com/furniture",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QXfnBwQT2RZYiYaoPVdbe_38.210831_-85.597504@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053663,
+    "wof:geomhash":"98b37d8e7f736d83b8518412d77823f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747621
+        }
+    ],
+    "wof:id":856747621,
+    "wof:lastmodified":1464053663,
+    "wof:name":"CORT Furniture Rental and Clearance Center",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "equipment-renting"
+    ]
+},
+  "bbox": [
+    -85.597504,
+    38.210831,
+    -85.597504,
+    38.210831
+],
+  "geometry": {"coordinates":[-85.597504,38.210831],"type":"Point"}
+}

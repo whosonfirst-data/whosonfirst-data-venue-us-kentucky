@@ -1,0 +1,73 @@
+{
+  "id": 840576431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.693116,38.219811,-85.693116,38.219811",
+    "geom:latitude":38.219811,
+    "geom:longitude":-85.693116,
+    "iso:country":"US",
+    "sg:address":"2508 Blvd Napoleon",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 4672",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwgxsJn5E7Ixg5pi2R0pw_38.219811_-85.693116@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043131,
+    "wof:geomhash":"921ad5cee4300d0fb3efcfede6763901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873367,
+            "region_id":85688641,
+            "venue_id":840576431
+        }
+    ],
+    "wof:id":840576431,
+    "wof:lastmodified":1464043131,
+    "wof:name":"Gingerbread House",
+    "wof:parent_id":85873367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -85.693116,
+    38.219811,
+    -85.693116,
+    38.219811
+],
+  "geometry": {"coordinates":[-85.693116,38.219811],"type":"Point"}
+}

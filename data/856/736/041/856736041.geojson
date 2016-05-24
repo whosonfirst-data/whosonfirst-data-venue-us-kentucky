@@ -1,0 +1,72 @@
+{
+  "id": 856736041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691108,37.096864,-88.691108,37.096864",
+    "geom:latitude":37.096864,
+    "geom:longitude":-88.691108,
+    "iso:country":"US",
+    "sg:address":"5353 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/120688-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5863",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N7qetoNqrjDdicDFEIxsw_37.096864_-88.691108@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053219,
+    "wof:geomhash":"06a67b191788ea46b909d2629b32d6f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856736041
+        }
+    ],
+    "wof:id":856736041,
+    "wof:lastmodified":1464053219,
+    "wof:name":"Subway",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.691108,
+    37.096864,
+    -88.691108,
+    37.096864
+],
+  "geometry": {"coordinates":[-88.691108,37.096864],"type":"Point"}
+}

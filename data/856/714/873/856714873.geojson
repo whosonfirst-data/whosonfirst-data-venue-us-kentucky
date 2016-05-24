@@ -1,0 +1,78 @@
+{
+  "id": 856714873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.636042,37.081302,-88.636042,37.081302",
+    "geom:latitude":37.081302,
+    "geom:longitude":-88.636042,
+    "iso:country":"US",
+    "sg:address":"858 Joe Clifton Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 6361",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SizX08Gdi4oBYYLXhyLVq_37.081302_-88.636042@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052386,
+    "wof:geomhash":"bee7cc0634ee407939f58a97a8d41299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856714873
+        }
+    ],
+    "wof:id":856714873,
+    "wof:lastmodified":1464052386,
+    "wof:name":"B S Beauty Supply",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -88.636042,
+    37.081302,
+    -88.636042,
+    37.081302
+],
+  "geometry": {"coordinates":[-88.636042,37.081302],"type":"Point"}
+}

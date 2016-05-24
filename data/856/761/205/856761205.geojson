@@ -1,0 +1,85 @@
+{
+  "id": 856761205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.634232,37.083405,-88.634232,37.083405",
+    "geom:latitude":37.083405,
+    "geom:longitude":-88.634232,
+    "iso:country":"US",
+    "sg:address":"2025 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6624",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "automobile",
+        "part",
+        "brake",
+        "tire"
+    ],
+    "sg:website":"http://www.vanzanttire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YVimlJEd4OK8p1dt8T3Kb_37.083405_-88.634232@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054168,
+    "wof:geomhash":"fb9896812d8839af57fa62f6974394fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761205
+        }
+    ],
+    "wof:id":856761205,
+    "wof:lastmodified":1464054168,
+    "wof:name":"Vanzant's Wheels And Tires",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automobile",
+        "part",
+        "brake",
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.634232,
+    37.083405,
+    -88.634232,
+    37.083405
+],
+  "geometry": {"coordinates":[-88.634232,37.083405],"type":"Point"}
+}

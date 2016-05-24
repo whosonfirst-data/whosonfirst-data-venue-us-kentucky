@@ -1,0 +1,72 @@
+{
+  "id": 856734155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564339,37.903533,-84.564339,37.903533",
+    "geom:latitude":37.903533,
+    "geom:longitude":-84.564339,
+    "iso:country":"US",
+    "sg:address":"109 N Plaza Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/101443-sonnys-bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 0021",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oBwOyLu7Czywn26E4EePW_37.903533_-84.564339@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053150,
+    "wof:geomhash":"5f78b50d472ad001fc166ba43ea8f84a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734155
+        }
+    ],
+    "wof:id":856734155,
+    "wof:lastmodified":1464053150,
+    "wof:name":"Sonny's Bar-B-Q",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.564339,
+    37.903533,
+    -84.564339,
+    37.903533
+],
+  "geometry": {"coordinates":[-84.564339,37.903533],"type":"Point"}
+}

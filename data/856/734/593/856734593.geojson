@@ -1,0 +1,78 @@
+{
+  "id": 856734593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.46876,38.069931,-84.46876,38.069931",
+    "geom:latitude":38.069931,
+    "geom:longitude":-84.46876,
+    "iso:country":"US",
+    "sg:address":"1719 N Broadway",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/90087-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 294 7766",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85854561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SMBmTj3c60DQlVruK1O9t_38.069931_-84.468760@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053168,
+    "wof:geomhash":"8c66d868bd82587b53bfbcecd59c3846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85854561,
+            "region_id":85688641,
+            "venue_id":856734593
+        }
+    ],
+    "wof:id":856734593,
+    "wof:lastmodified":1464053168,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85854561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.46876,
+    38.069931,
+    -84.46876,
+    38.069931
+],
+  "geometry": {"coordinates":[-84.46876,38.069931],"type":"Point"}
+}

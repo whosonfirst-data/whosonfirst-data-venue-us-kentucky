@@ -1,0 +1,75 @@
+{
+  "id": 840613831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282633,37.739025,-84.282633,37.739025",
+    "geom:latitude":37.739025,
+    "geom:longitude":-84.282633,
+    "iso:country":"US",
+    "sg:address":"401 Big Hill Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1810",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q1B6t9PUgifJqoycsGjbq_37.739025_-84.282633@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044015,
+    "wof:geomhash":"53d493d5771b195ecb5bfd07af9a3065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840613831
+        }
+    ],
+    "wof:id":840613831,
+    "wof:lastmodified":1464044015,
+    "wof:name":"Payne's Rental",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -84.282633,
+    37.739025,
+    -84.282633,
+    37.739025
+],
+  "geometry": {"coordinates":[-84.282633,37.739025],"type":"Point"}
+}

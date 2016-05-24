@@ -1,0 +1,73 @@
+{
+  "id": 840629219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62814,37.131497,-84.62814,37.131497",
+    "geom:latitude":37.131497,
+    "geom:longitude":-84.62814,
+    "iso:country":"US",
+    "sg:address":"811 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 0722",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zS83z5nIBYirrJun7GgM6_37.131497_-84.628140@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044418,
+    "wof:geomhash":"513753cb0fc9fef9496e16345996ed81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840629219
+        }
+    ],
+    "wof:id":840629219,
+    "wof:lastmodified":1464044418,
+    "wof:name":"Northside Carwash",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.62814,
+    37.131497,
+    -84.62814,
+    37.131497
+],
+  "geometry": {"coordinates":[-84.62814,37.131497],"type":"Point"}
+}

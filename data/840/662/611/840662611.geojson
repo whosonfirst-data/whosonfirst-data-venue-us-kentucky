@@ -1,0 +1,71 @@
+{
+  "id": 840662611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.560828,37.864814,-87.560828,37.864814",
+    "geom:latitude":37.864814,
+    "geom:longitude":-87.560828,
+    "iso:country":"US",
+    "sg:address":"2428 Anne Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0746",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54pU6coBZls7caID7BtNbx_37.864814_-87.560828@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045157,
+    "wof:geomhash":"bcc20aff25c0ca8ad3470f20e57b17c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840662611
+        }
+    ],
+    "wof:id":840662611,
+    "wof:lastmodified":1464045157,
+    "wof:name":"Air Tech Auto Touch Up of",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -87.560828,
+    37.864814,
+    -87.560828,
+    37.864814
+],
+  "geometry": {"coordinates":[-87.560828,37.864814],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840695081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.63852,36.941935,-84.63852,36.941935",
+    "geom:latitude":36.941935,
+    "geom:longitude":-84.63852,
+    "iso:country":"US",
+    "sg:address":"401 State Hwy 790",
+    "sg:city":"Bronston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6591",
+    "sg:postcode":"42518",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WQpDUtdlXDtNuRQR7j9eD_36.941935_-84.638520@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045949,
+    "wof:geomhash":"94d656f5655705e00bec7f6acf294dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840695081
+        }
+    ],
+    "wof:id":840695081,
+    "wof:lastmodified":1464045949,
+    "wof:name":"First Baptist Church Bronston",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.63852,
+    36.941935,
+    -84.63852,
+    36.941935
+],
+  "geometry": {"coordinates":[-84.63852,36.941935],"type":"Point"}
+}

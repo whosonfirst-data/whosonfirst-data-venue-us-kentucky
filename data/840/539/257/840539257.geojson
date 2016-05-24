@@ -1,0 +1,75 @@
+{
+  "id": 840539257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.504075,37.008131,-88.504075,37.008131",
+    "geom:latitude":37.008131,
+    "geom:longitude":-88.504075,
+    "iso:country":"US",
+    "sg:address":"6445 Old Calvert City Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 4712",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7URfLngyDGRN5rbPc62mNJ_37.008131_-88.504075@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042196,
+    "wof:geomhash":"32a45a5215e49f0fd81072e7d5cdd7a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840539257
+        }
+    ],
+    "wof:id":840539257,
+    "wof:lastmodified":1464042196,
+    "wof:name":"Legacy Kennel",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -88.504075,
+    37.008131,
+    -88.504075,
+    37.008131
+],
+  "geometry": {"coordinates":[-88.504075,37.008131],"type":"Point"}
+}

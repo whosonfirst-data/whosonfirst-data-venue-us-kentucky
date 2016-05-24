@@ -1,0 +1,71 @@
+{
+  "id": 840940449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443906,36.994046,-86.443906,36.994046",
+    "geom:latitude":36.994046,
+    "geom:longitude":-86.443906,
+    "iso:country":"US",
+    "sg:address":"1001 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 7028",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l0pyNCAf5c7QUgZpENUmz_36.994046_-86.443906@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051456,
+    "wof:geomhash":"1bd601539149e329dcafb1781de0af22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840940449
+        }
+    ],
+    "wof:id":840940449,
+    "wof:lastmodified":1464051456,
+    "wof:name":"Warren County Justice Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.443906,
+    36.994046,
+    -86.443906,
+    36.994046
+],
+  "geometry": {"coordinates":[-86.443906,36.994046],"type":"Point"}
+}

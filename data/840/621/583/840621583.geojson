@@ -1,0 +1,74 @@
+{
+  "id": 840621583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421853,36.988378,-86.421853,36.988378",
+    "geom:latitude":36.988378,
+    "geom:longitude":-86.421853,
+    "iso:country":"US",
+    "sg:address":"500 Eastwood Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7867",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.eastwoodbc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ruu5x52q18n26yXxTAXh_36.988378_-86.421853@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044203,
+    "wof:geomhash":"2344ea0636a3bff5b9cbc29475957377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840621583
+        }
+    ],
+    "wof:id":840621583,
+    "wof:lastmodified":1464044203,
+    "wof:name":"Eastwood Baptist Church",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.421853,
+    36.988378,
+    -86.421853,
+    36.988378
+],
+  "geometry": {"coordinates":[-86.421853,36.988378],"type":"Point"}
+}

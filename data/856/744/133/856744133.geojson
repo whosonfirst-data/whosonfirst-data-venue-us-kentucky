@@ -1,0 +1,74 @@
+{
+  "id": 856744133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.816275,38.23279,-85.816275,38.23279",
+    "geom:latitude":38.23279,
+    "geom:longitude":-85.816275,
+    "iso:country":"US",
+    "sg:address":"3621 Southern Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 6598",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "recreation"
+    ],
+    "sg:website":"http://www.thehealingplace.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SlT8NL8Y1SLS9l4fdY9VZ_38.232790_-85.816275@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053533,
+    "wof:geomhash":"72574e94ed0238ac97c2c091a20b47c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":856744133
+        }
+    ],
+    "wof:id":856744133,
+    "wof:lastmodified":1464053533,
+    "wof:name":"Southwick Community Center",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -85.816275,
+    38.23279,
+    -85.816275,
+    38.23279
+],
+  "geometry": {"coordinates":[-85.816275,38.23279],"type":"Point"}
+}

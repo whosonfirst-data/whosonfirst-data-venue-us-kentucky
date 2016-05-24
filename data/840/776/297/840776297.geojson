@@ -1,0 +1,75 @@
+{
+  "id": 840776297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.767993,37.644309,-84.767993,37.644309",
+    "geom:latitude":37.644309,
+    "geom:longitude":-84.767993,
+    "iso:country":"US",
+    "sg:address":"234 E Walnut St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4454",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HNP24y2UHhPoQzrPeNzGJ_37.644309_-84.767993@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047690,
+    "wof:geomhash":"054688d7e4e54ccb52dd5a501fa74f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840776297
+        }
+    ],
+    "wof:id":840776297,
+    "wof:lastmodified":1464047690,
+    "wof:name":"Morley's Wheel Svc",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -84.767993,
+    37.644309,
+    -84.767993,
+    37.644309
+],
+  "geometry": {"coordinates":[-84.767993,37.644309],"type":"Point"}
+}

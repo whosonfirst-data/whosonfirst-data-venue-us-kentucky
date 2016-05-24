@@ -1,0 +1,73 @@
+{
+  "id": 840920331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.599398,37.832308,-87.599398,37.832308",
+    "geom:latitude":37.832308,
+    "geom:longitude":-87.599398,
+    "iso:country":"US",
+    "sg:address":"655 S Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9802",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kW82skIKqKSMmepnHeKxT_37.832308_-87.599398@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050997,
+    "wof:geomhash":"e93c6c9c1844897f0f4a6cddae1a1048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840920331
+        }
+    ],
+    "wof:id":840920331,
+    "wof:lastmodified":1464050997,
+    "wof:name":"Henderson Cnty Water District",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -87.599398,
+    37.832308,
+    -87.599398,
+    37.832308
+],
+  "geometry": {"coordinates":[-87.59939799999999,37.832308],"type":"Point"}
+}

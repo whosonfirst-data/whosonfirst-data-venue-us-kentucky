@@ -1,0 +1,73 @@
+{
+  "id": 840580117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.385124,37.018122,-86.385124,37.018122",
+    "geom:latitude":37.018122,
+    "geom:longitude":-86.385124,
+    "iso:country":"US",
+    "sg:address":"609 N Graham St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3139",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IEUlm2FTux1pGb0HBcHrw_37.018122_-86.385124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043209,
+    "wof:geomhash":"74dc42dc29c2a2a363e533fe6729cd6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840580117
+        }
+    ],
+    "wof:id":840580117,
+    "wof:lastmodified":1464043209,
+    "wof:name":"Aqua Treat Of Kentucky",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -86.385124,
+    37.018122,
+    -86.385124,
+    37.018122
+],
+  "geometry": {"coordinates":[-86.385124,37.018122],"type":"Point"}
+}

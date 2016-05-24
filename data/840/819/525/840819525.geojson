@@ -1,0 +1,73 @@
+{
+  "id": 840819525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523139,38.040271,-84.523139,38.040271",
+    "geom:latitude":38.040271,
+    "geom:longitude":-84.523139,
+    "iso:country":"US",
+    "sg:address":"1141 Red Mile Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 323 6824",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45l5i1vkM5ulY0PP03n5nZ_38.040271_-84.523139@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048739,
+    "wof:geomhash":"99b619806edf34689ffb9e3fbe9aee35",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840819525
+        }
+    ],
+    "wof:id":840819525,
+    "wof:lastmodified":1464048739,
+    "wof:name":"Health Management Resources",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.523139,
+    38.040271,
+    -84.523139,
+    38.040271
+],
+  "geometry": {"coordinates":[-84.523139,38.040271],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840882419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508072,39.089016,-84.508072,39.089016",
+    "geom:latitude":39.089016,
+    "geom:longitude":-84.508072,
+    "iso:country":"US",
+    "sg:address":"240 Greenup St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 431 7020",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uKTLB5Xh6pNSHqnqMLEsm_39.089016_-84.508072@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050119,
+    "wof:geomhash":"73e05339cb9e7a0b1e4658286565f9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":840882419
+        }
+    ],
+    "wof:id":840882419,
+    "wof:lastmodified":1464050119,
+    "wof:name":"Roebling Row",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.508072,
+    39.089016,
+    -84.508072,
+    39.089016
+],
+  "geometry": {"coordinates":[-84.508072,39.089016],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840649241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.79337,38.202048,-85.79337,38.202048",
+    "geom:latitude":38.202048,
+    "geom:longitude":-85.79337,
+    "iso:country":"US",
+    "sg:address":"3501 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 5311",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.jeffharveyautosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EqZw6J4Ani9BhwE6xU9JS_38.202048_-85.793370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044867,
+    "wof:geomhash":"4b7fc08d86242bb528286f30181b06cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840649241
+        }
+    ],
+    "wof:id":840649241,
+    "wof:lastmodified":1464044867,
+    "wof:name":"Jeff Harvey Auto Sales",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.79337,
+    38.202048,
+    -85.79337,
+    38.202048
+],
+  "geometry": {"coordinates":[-85.79337,38.202048],"type":"Point"}
+}

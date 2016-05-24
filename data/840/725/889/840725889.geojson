@@ -1,0 +1,73 @@
+{
+  "id": 840725889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294386,37.75481,-84.294386,37.75481",
+    "geom:latitude":37.75481,
+    "geom:longitude":-84.294386,
+    "iso:country":"US",
+    "sg:address":"727 N 3rd St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 8454",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_013AODRg9ZQnf0sdKdPaAc_37.754810_-84.294386@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046634,
+    "wof:geomhash":"f8c07b82a6aa749c04baa49d9b91288b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840725889
+        }
+    ],
+    "wof:id":840725889,
+    "wof:lastmodified":1464046634,
+    "wof:name":"Jones & Ritchie",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -84.294386,
+    37.75481,
+    -84.294386,
+    37.75481
+],
+  "geometry": {"coordinates":[-84.294386,37.75481],"type":"Point"}
+}

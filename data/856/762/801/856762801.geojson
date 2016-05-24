@@ -1,0 +1,71 @@
+{
+  "id": 856762801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883691,37.746119,-85.883691,37.746119",
+    "geom:latitude":37.746119,
+    "geom:longitude":-85.883691,
+    "iso:country":"US",
+    "sg:address":"307 Linda Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0338",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yR2fdh5ZrHP56bmd0C9gg_37.746119_-85.883691@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"6d2b463aef81bbc9a81385b8634f5a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762801
+        }
+    ],
+    "wof:id":856762801,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Rons Gospel & More",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.883691,
+    37.746119,
+    -85.883691,
+    37.746119
+],
+  "geometry": {"coordinates":[-85.883691,37.746119],"type":"Point"}
+}

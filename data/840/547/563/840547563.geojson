@@ -1,0 +1,76 @@
+{
+  "id": 840547563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626851,38.181205,-85.626851,38.181205",
+    "geom:latitude":38.181205,
+    "geom:longitude":-85.626851,
+    "iso:country":"US",
+    "sg:address":"4400 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 495 7805",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.sevencounties.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jp8sgnKxkxndsKQHFeqRU_38.181205_-85.626851@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042446,
+    "wof:geomhash":"5da494ffb2138a2d5cf16b07a875bfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840547563
+        }
+    ],
+    "wof:id":840547563,
+    "wof:lastmodified":1464042446,
+    "wof:name":"Severn County Svc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.626851,
+    38.181205,
+    -85.626851,
+    38.181205
+],
+  "geometry": {"coordinates":[-85.626851,38.181205],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840631399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.311935,36.617207,-88.311935,36.617207",
+    "geom:latitude":36.617207,
+    "geom:longitude":-88.311935,
+    "iso:country":"US",
+    "sg:address":"1008 Chestnut St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 3314",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GWpmJvU651vDe1aduTS7J_36.617207_-88.311935@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044473,
+    "wof:geomhash":"0bbaa10c7e6f59e229dd8841b6758b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840631399
+        }
+    ],
+    "wof:id":840631399,
+    "wof:lastmodified":1464044473,
+    "wof:name":"Cheri Theatres",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.311935,
+    36.617207,
+    -88.311935,
+    36.617207
+],
+  "geometry": {"coordinates":[-88.31193500000001,36.617207],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840728051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.303626,37.817908,-84.303626,37.817908",
+    "geom:latitude":37.817908,
+    "geom:longitude":-84.303626,
+    "iso:country":"US",
+    "sg:address":"105 Sycamore Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 1851",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O8Z66NLoCRNpSzx30zcSM_37.817908_-84.303626@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046672,
+    "wof:geomhash":"6d725ab3b71ae2e5eb2a078206c9f8c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840728051
+        }
+    ],
+    "wof:id":840728051,
+    "wof:lastmodified":1464046672,
+    "wof:name":"McKinney Siding",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.303626,
+    37.817908,
+    -84.303626,
+    37.817908
+],
+  "geometry": {"coordinates":[-84.30362599999999,37.817908],"type":"Point"}
+}

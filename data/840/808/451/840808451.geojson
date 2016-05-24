@@ -1,0 +1,71 @@
+{
+  "id": 840808451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.615613,37.072062,-84.615613,37.072062",
+    "geom:latitude":37.072062,
+    "geom:longitude":-84.615613,
+    "iso:country":"US",
+    "sg:address":"106 Gover St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 8331",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0916yVKlU4egp3DUaLNXN7_37.072062_-84.615613@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048369,
+    "wof:geomhash":"62cea88bfd130c2720ed96fd04d647ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840808451
+        }
+    ],
+    "wof:id":840808451,
+    "wof:lastmodified":1464048369,
+    "wof:name":"Somerset Nursing & Rehab Clnc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -84.615613,
+    37.072062,
+    -84.615613,
+    37.072062
+],
+  "geometry": {"coordinates":[-84.615613,37.072062],"type":"Point"}
+}

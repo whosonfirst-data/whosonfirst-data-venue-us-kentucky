@@ -1,0 +1,71 @@
+{
+  "id": 840805035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.628658,37.044975,-88.628658,37.044975",
+    "geom:latitude":37.044975,
+    "geom:longitude":-88.628658,
+    "iso:country":"US",
+    "sg:address":"130 Azalea Cir",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 4370",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lxYf85Y369rF4OlL13FdW_37.044975_-88.628658@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048300,
+    "wof:geomhash":"3db2be0b2cb8702729d201bb8767d8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840805035
+        }
+    ],
+    "wof:id":840805035,
+    "wof:lastmodified":1464048300,
+    "wof:name":"West Kentucky Mental Health",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -88.628658,
+    37.044975,
+    -88.628658,
+    37.044975
+],
+  "geometry": {"coordinates":[-88.628658,37.044975],"type":"Point"}
+}

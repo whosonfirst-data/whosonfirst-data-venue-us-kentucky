@@ -1,0 +1,74 @@
+{
+  "id": 840675955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.608518,37.100927,-84.608518,37.100927",
+    "geom:latitude":37.100927,
+    "geom:longitude":-84.608518,
+    "iso:country":"US",
+    "sg:address":"611 N Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 9922",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "sg:website":"www.rennerdbi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BGTRMtVvEnjQ3nEuRr34j_37.100927_-84.608518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045463,
+    "wof:geomhash":"fffc5402794b8bad69b3bcd60d9bb405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840675955
+        }
+    ],
+    "wof:id":840675955,
+    "wof:lastmodified":1464045463,
+    "wof:name":"Renner Drilling & Blasting",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.608518,
+    37.100927,
+    -84.608518,
+    37.100927
+],
+  "geometry": {"coordinates":[-84.608518,37.100927],"type":"Point"}
+}

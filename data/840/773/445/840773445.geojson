@@ -1,0 +1,67 @@
+{
+  "id": 840773445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86172,37.703314,-85.86172,37.703314",
+    "geom:latitude":37.703314,
+    "geom:longitude":-85.86172,
+    "iso:country":"US",
+    "sg:address":"323 Morningside Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6343",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"www.etown.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KKXoy4gIli9AeQikEaMvR_37.703314_-85.861720@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047640,
+    "wof:geomhash":"0356102d15aab74165a4561105498bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840773445
+        }
+    ],
+    "wof:id":840773445,
+    "wof:lastmodified":1464047640,
+    "wof:name":"T K Stone Junior High",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86172,
+    37.703314,
+    -85.86172,
+    37.703314
+],
+  "geometry": {"coordinates":[-85.86172000000001,37.703314],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840807453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.752503,37.655561,-84.752503,37.655561",
+    "geom:latitude":37.655561,
+    "geom:longitude":-84.752503,
+    "iso:country":"US",
+    "sg:address":"1085 E Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7677",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947155,
+        102085579,
+        85822743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D936wrfpe0cYfMdULbg1u_37.655561_-84.752503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048349,
+    "wof:geomhash":"15c6209bf662570470626174ea95549d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85822743,
+            "region_id":85688641,
+            "venue_id":840807453
+        }
+    ],
+    "wof:id":840807453,
+    "wof:lastmodified":1464048349,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85822743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.752503,
+    37.655561,
+    -84.752503,
+    37.655561
+],
+  "geometry": {"coordinates":[-84.752503,37.655561],"type":"Point"}
+}

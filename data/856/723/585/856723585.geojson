@@ -1,0 +1,71 @@
+{
+  "id": 856723585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.585578,37.842958,-87.585578,37.842958",
+    "geom:latitude":37.842958,
+    "geom:longitude":-87.585578,
+    "iso:country":"US",
+    "sg:address":"438 5th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 1944",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zPtUXGBPbkSoHauaGDrJL_37.842958_-87.585578@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052731,
+    "wof:geomhash":"e41fdbb61a9dbe3d6ee2e47be15f013d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856723585
+        }
+    ],
+    "wof:id":856723585,
+    "wof:lastmodified":1464052731,
+    "wof:name":"Casey's Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -87.585578,
+    37.842958,
+    -87.585578,
+    37.842958
+],
+  "geometry": {"coordinates":[-87.585578,37.842958],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840536503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444056,36.991994,-86.444056,36.991994",
+    "geom:latitude":36.991994,
+    "geom:longitude":-86.444056,
+    "iso:country":"US",
+    "sg:address":"415 E 11th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1362",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2npAMfwDkC88yBEg8NgwV0_36.991994_-86.444056@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042126,
+    "wof:geomhash":"89bcca7eaef6254f78d38e9be5e1ae56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840536503
+        }
+    ],
+    "wof:id":840536503,
+    "wof:lastmodified":1464042126,
+    "wof:name":"Big B Cleaners",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.444056,
+    36.991994,
+    -86.444056,
+    36.991994
+],
+  "geometry": {"coordinates":[-86.444056,36.991994],"type":"Point"}
+}

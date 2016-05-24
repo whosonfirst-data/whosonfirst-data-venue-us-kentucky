@@ -1,0 +1,73 @@
+{
+  "id": 840675217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423286,36.990681,-86.423286,36.990681",
+    "geom:latitude":36.990681,
+    "geom:longitude":-86.423286,
+    "iso:country":"US",
+    "sg:address":"1132 Fairview Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8983",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IpjkoAJYVKjaob9t5I7nc_36.990681_-86.423286@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045450,
+    "wof:geomhash":"2c2d87c20740440e79cef22388fd867a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840675217
+        }
+    ],
+    "wof:id":840675217,
+    "wof:lastmodified":1464045450,
+    "wof:name":"Village Green Apartments",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.423286,
+    36.990681,
+    -86.423286,
+    36.990681
+],
+  "geometry": {"coordinates":[-86.423286,36.990681],"type":"Point"}
+}

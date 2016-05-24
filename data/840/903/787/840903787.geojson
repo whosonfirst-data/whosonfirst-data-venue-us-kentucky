@@ -1,0 +1,72 @@
+{
+  "id": 840903787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.69436,37.074275,-88.69436,37.074275",
+    "geom:latitude":37.074275,
+    "geom:longitude":-88.69436,
+    "iso:country":"US",
+    "sg:address":"5176 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 441 7000",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.lowes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dRfe5mYJqGR5teM3eha1T_37.074275_-88.694360@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050572,
+    "wof:geomhash":"f92f30a47b324f412572d7152470171a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840903787
+        }
+    ],
+    "wof:id":840903787,
+    "wof:lastmodified":1464050572,
+    "wof:name":"Lowe's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -88.69436,
+    37.074275,
+    -88.69436,
+    37.074275
+],
+  "geometry": {"coordinates":[-88.69436,37.074275],"type":"Point"}
+}

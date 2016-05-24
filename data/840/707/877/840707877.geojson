@@ -1,0 +1,76 @@
+{
+  "id": 840707877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477864,36.970891,-86.477864,36.970891",
+    "geom:latitude":36.970891,
+    "geom:longitude":-86.477864,
+    "iso:country":"US",
+    "sg:address":"2341 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 8164",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dXQIXV5tfGCJ1h1Waf7hr_36.970891_-86.477864@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046262,
+    "wof:geomhash":"12f9b64b46d559581a7fa4c5c83492c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840707877
+        }
+    ],
+    "wof:id":840707877,
+    "wof:lastmodified":1464046262,
+    "wof:name":"Hot Spot Tanning Salon",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -86.477864,
+    36.970891,
+    -86.477864,
+    36.970891
+],
+  "geometry": {"coordinates":[-86.477864,36.970891],"type":"Point"}
+}

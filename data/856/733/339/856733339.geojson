@@ -1,0 +1,74 @@
+{
+  "id": 856733339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58554,38.21805,-85.58554,38.21805",
+    "geom:latitude":38.21805,
+    "geom:longitude":-85.58554,
+    "iso:country":"US",
+    "sg:address":"1890 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/35524-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 6870",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PZQfUU6x5HpW0p4kG9Nkj_38.218050_-85.585540@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053121,
+    "wof:geomhash":"3ae92cdc3441967113da94e233b7fc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856733339
+        }
+    ],
+    "wof:id":856733339,
+    "wof:lastmodified":1464053121,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.58554,
+    38.21805,
+    -85.58554,
+    38.21805
+],
+  "geometry": {"coordinates":[-85.58553999999999,38.21805],"type":"Point"}
+}

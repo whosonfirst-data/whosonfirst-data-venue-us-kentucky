@@ -1,0 +1,71 @@
+{
+  "id": 840600595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.325881,37.827102,-84.325881,37.827102",
+    "geom:latitude":37.827102,
+    "geom:longitude":-84.325881,
+    "iso:country":"US",
+    "sg:address":"2945 Lexington Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 9881",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HuXq7hqNUEN4aQpPW0MFq_37.827102_-84.325881@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043674,
+    "wof:geomhash":"1c7d88a19b4ac50a9873528fb68ba39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840600595
+        }
+    ],
+    "wof:id":840600595,
+    "wof:lastmodified":1464043674,
+    "wof:name":"Madison Baptist Church",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.325881,
+    37.827102,
+    -84.325881,
+    37.827102
+],
+  "geometry": {"coordinates":[-84.325881,37.827102],"type":"Point"}
+}

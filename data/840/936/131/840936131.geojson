@@ -1,0 +1,75 @@
+{
+  "id": 840936131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.599544,38.209727,-85.599544,38.209727",
+    "geom:latitude":38.209727,
+    "geom:longitude":-85.599544,
+    "iso:country":"US",
+    "sg:address":"2831 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 7373",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cle4YHsQRK5k27qfAq7s6_38.209727_-85.599544@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051368,
+    "wof:geomhash":"8e9a6720d247e373452bdea18aa4b730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840936131
+        }
+    ],
+    "wof:id":840936131,
+    "wof:lastmodified":1464051368,
+    "wof:name":"Skin & Laser Treatment Ctr",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.599544,
+    38.209727,
+    -85.599544,
+    38.209727
+],
+  "geometry": {"coordinates":[-85.59954399999999,38.209727],"type":"Point"}
+}

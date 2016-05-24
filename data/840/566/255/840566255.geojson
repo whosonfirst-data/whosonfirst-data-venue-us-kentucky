@@ -1,0 +1,73 @@
+{
+  "id": 840566255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.502222,38.058058,-84.502222,38.058058",
+    "geom:latitude":38.058058,
+    "geom:longitude":-84.502222,
+    "iso:country":"US",
+    "sg:address":"708 W 3rd St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 231 8294",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71DZy9Fx4WcTbeu9s0f4Tg_38.058058_-84.502222@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042880,
+    "wof:geomhash":"0d506c03aa78fcb1b35a5be398c60207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873021,
+            "region_id":85688641,
+            "venue_id":840566255
+        }
+    ],
+    "wof:id":840566255,
+    "wof:lastmodified":1464042880,
+    "wof:name":"Yellow Cab Co",
+    "wof:parent_id":85873021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.502222,
+    38.058058,
+    -84.502222,
+    38.058058
+],
+  "geometry": {"coordinates":[-84.502222,38.058058],"type":"Point"}
+}

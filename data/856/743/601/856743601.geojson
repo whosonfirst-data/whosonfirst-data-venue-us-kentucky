@@ -1,0 +1,94 @@
+{
+  "id": 856743601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.734309,38.153295,-85.734309,38.153295",
+    "geom:latitude":38.153295,
+    "geom:longitude":-85.734309,
+    "iso:country":"US",
+    "sg:address":"8001 Crittenden Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 364 7989",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "industrial",
+        "system",
+        "specialty",
+        "builder",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mQM1dx5pRorGxMPqb0pXP_38.153295_-85.734309@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053516,
+    "wof:geomhash":"28aaedcf11aa37d5b7b5f20f32ea5f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856743601
+        }
+    ],
+    "wof:id":856743601,
+    "wof:lastmodified":1464053516,
+    "wof:name":"Ben Hur Construction",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "system",
+        "specialty",
+        "builder",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -85.734309,
+    38.153295,
+    -85.734309,
+    38.153295
+],
+  "geometry": {"coordinates":[-85.734309,38.153295],"type":"Point"}
+}

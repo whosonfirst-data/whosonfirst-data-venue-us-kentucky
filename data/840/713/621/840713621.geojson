@@ -1,0 +1,73 @@
+{
+  "id": 840713621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.778232,37.26794,-85.778232,37.26794",
+    "geom:latitude":37.26794,
+    "geom:longitude":-85.778232,
+    "iso:country":"US",
+    "sg:address":"1164 N Jackson Hwy",
+    "sg:city":"Hardyville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 528 3023",
+    "sg:postcode":"42746",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LlAc5JQnDJXG2brEPIJ4F_37.267940_-85.778232@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046377,
+    "wof:geomhash":"4c093624fc6d25e70d668ac59d8acf9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840713621
+        }
+    ],
+    "wof:id":840713621,
+    "wof:lastmodified":1464046377,
+    "wof:name":"Bar-V Farm",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.778232,
+    37.26794,
+    -85.778232,
+    37.26794
+],
+  "geometry": {"coordinates":[-85.778232,37.26794],"type":"Point"}
+}

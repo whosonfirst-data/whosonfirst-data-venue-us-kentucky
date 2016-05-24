@@ -1,0 +1,69 @@
+{
+  "id": 840590295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.961229,37.971255,-85.961229,37.971255",
+    "geom:latitude":37.971255,
+    "geom:longitude":-85.961229,
+    "iso:country":"US",
+    "sg:address":"23355 Louisville Nashville Tpke",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 0002",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85826355,
+        102084595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sabw6lnEqfo92xST8NXNh_37.971255_-85.961229@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043429,
+    "wof:geomhash":"f291d472281d45076f297b05ca3b89b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "neighbourhood_id":85826355,
+            "region_id":85688641,
+            "venue_id":840590295
+        }
+    ],
+    "wof:id":840590295,
+    "wof:lastmodified":1464043429,
+    "wof:name":"Creative Iron Fabricators",
+    "wof:parent_id":85826355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -85.961229,
+    37.971255,
+    -85.961229,
+    37.971255
+],
+  "geometry": {"coordinates":[-85.961229,37.971255],"type":"Point"}
+}

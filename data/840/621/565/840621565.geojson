@@ -1,0 +1,74 @@
+{
+  "id": 840621565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.56931,37.053401,-88.56931,37.053401",
+    "geom:latitude":37.053401,
+    "geom:longitude":-88.56931,
+    "iso:country":"US",
+    "sg:address":"3215 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7800",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.ebgames.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f4zXBT55hLKWrSV41a6ut_37.053401_-88.569310@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044203,
+    "wof:geomhash":"1d2ca0e393ba56b9061ee5d5b1d4feff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840621565
+        }
+    ],
+    "wof:id":840621565,
+    "wof:lastmodified":1464044203,
+    "wof:name":"EB Games",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -88.56931,
+    37.053401,
+    -88.56931,
+    37.053401
+],
+  "geometry": {"coordinates":[-88.56931,37.053401],"type":"Point"}
+}

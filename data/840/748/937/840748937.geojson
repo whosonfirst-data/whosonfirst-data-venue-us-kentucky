@@ -1,0 +1,72 @@
+{
+  "id": 840748937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421449,36.953984,-86.421449,36.953984",
+    "geom:latitude":36.953984,
+    "geom:longitude":-86.421449,
+    "iso:country":"US",
+    "sg:address":"2515 Petty Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9896",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engine"
+    ],
+    "sg:website":"www.dieselhelp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UTXX8zlw0YFGY5yVASF3T_36.953984_-86.421449@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047072,
+    "wof:geomhash":"e8ea7a6dbd89db7b28c90b32c54e4509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840748937
+        }
+    ],
+    "wof:id":840748937,
+    "wof:lastmodified":1464047072,
+    "wof:name":"Wickliff Diesel Svc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -86.421449,
+    36.953984,
+    -86.421449,
+    36.953984
+],
+  "geometry": {"coordinates":[-86.421449,36.953984],"type":"Point"}
+}

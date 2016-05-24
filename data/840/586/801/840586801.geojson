@@ -1,0 +1,73 @@
+{
+  "id": 840586801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633219,38.03161,-85.633219,38.03161",
+    "geom:latitude":38.03161,
+    "geom:longitude":-85.633219,
+    "iso:country":"US",
+    "sg:address":"3200 Bells Mill Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 4040",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kFPy6e8ETW48HKG1FdmHv_38.031610_-85.633219@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043356,
+    "wof:geomhash":"b0146efde9b18af316d6fd51fa650c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840586801
+        }
+    ],
+    "wof:id":840586801,
+    "wof:lastmodified":1464043356,
+    "wof:name":"Bowen Cabt Co Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.633219,
+    38.03161,
+    -85.633219,
+    38.03161
+],
+  "geometry": {"coordinates":[-85.633219,38.03161],"type":"Point"}
+}

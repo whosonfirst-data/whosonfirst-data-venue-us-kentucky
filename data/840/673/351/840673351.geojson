@@ -1,0 +1,75 @@
+{
+  "id": 840673351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.587945,38.21717,-85.587945,38.21717",
+    "geom:latitude":38.21717,
+    "geom:longitude":-85.587945,
+    "iso:country":"US",
+    "sg:address":"2052 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 495 2199",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HePJqwyKQQ7GHyQrJDI7i_38.217170_-85.587945@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045396,
+    "wof:geomhash":"68aca92e1ad2bb325975645d51cb8849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840673351
+        }
+    ],
+    "wof:id":840673351,
+    "wof:lastmodified":1464045396,
+    "wof:name":"Music Go Round",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -85.587945,
+    38.21717,
+    -85.587945,
+    38.21717
+],
+  "geometry": {"coordinates":[-85.587945,38.21717],"type":"Point"}
+}

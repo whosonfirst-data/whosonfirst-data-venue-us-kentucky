@@ -1,0 +1,75 @@
+{
+  "id": 840808515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.760278,38.249799,-85.760278,38.249799",
+    "geom:latitude":38.249799,
+    "geom:longitude":-85.760278,
+    "iso:country":"US",
+    "sg:address":"526 Armory Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 582 1147",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PsKZJcgSUH7ICWag1vsmZ_38.249799_-85.760278@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048371,
+    "wof:geomhash":"1d29efb74b0286de06df5cc3151d3fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840808515
+        }
+    ],
+    "wof:id":840808515,
+    "wof:lastmodified":1464048371,
+    "wof:name":"Uunet",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -85.760278,
+    38.249799,
+    -85.760278,
+    38.249799
+],
+  "geometry": {"coordinates":[-85.760278,38.249799],"type":"Point"}
+}

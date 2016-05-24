@@ -1,0 +1,73 @@
+{
+  "id": 840597393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422883,36.945357,-86.422883,36.945357",
+    "geom:latitude":36.945357,
+    "geom:longitude":-86.422883,
+    "iso:country":"US",
+    "sg:address":"2940 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9555",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jTajTioNfHjOCriLbwqlH_36.945357_-86.422883@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043592,
+    "wof:geomhash":"ee1f36782eb6e7bbba29a3849180f17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840597393
+        }
+    ],
+    "wof:id":840597393,
+    "wof:lastmodified":1464043592,
+    "wof:name":"Green Page Motor Co",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.422883,
+    36.945357,
+    -86.422883,
+    36.945357
+],
+  "geometry": {"coordinates":[-86.422883,36.945357],"type":"Point"}
+}

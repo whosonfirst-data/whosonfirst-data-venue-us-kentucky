@@ -1,0 +1,79 @@
+{
+  "id": 856729757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702444,38.245074,-85.702444,38.245074",
+    "geom:latitude":38.245074,
+    "geom:longitude":-85.702444,
+    "iso:country":"US",
+    "sg:address":"2509 Grinstead Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 1521",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "food",
+        "store",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BIVPQjf5180vAedKnkTZO_38.244842_-85.702919@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052993,
+    "wof:geomhash":"342e442d3e06122717d42e3edeb21c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":856729757
+        }
+    ],
+    "wof:id":856729757,
+    "wof:lastmodified":1464052993,
+    "wof:name":"Pets Galore",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "store",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.702444,
+    38.245074,
+    -85.702444,
+    38.245074
+],
+  "geometry": {"coordinates":[-85.702444,38.245074],"type":"Point"}
+}

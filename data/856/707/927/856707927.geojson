@@ -1,0 +1,71 @@
+{
+  "id": 856707927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.451985,36.94928,-86.451985,36.94928",
+    "geom:latitude":36.94928,
+    "geom:longitude":-86.451985,
+    "iso:country":"US",
+    "sg:address":"2802 Garrett Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 535 0343",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0fFGsM7Pqn1PNW3AcC2x_36.949280_-86.451985@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052228,
+    "wof:geomhash":"e5cd3a9879081f99c5e3bc0220637d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856707927
+        }
+    ],
+    "wof:id":856707927,
+    "wof:lastmodified":1464052228,
+    "wof:name":"Team Environment",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -86.451985,
+    36.94928,
+    -86.451985,
+    36.94928
+],
+  "geometry": {"coordinates":[-86.45198499999999,36.94928],"type":"Point"}
+}

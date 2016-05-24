@@ -1,0 +1,72 @@
+{
+  "id": 856734207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.733874,38.062757,-84.733874,38.062757",
+    "geom:latitude":38.062757,
+    "geom:longitude":-84.733874,
+    "iso:country":"US",
+    "sg:address":"198 Frankfort St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/versailles/161437-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 3079",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tL4hOXwp6dYtw632gA7bT_38.062757_-84.733874@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053153,
+    "wof:geomhash":"1210e4d3d4bb670fcbb11f1808e08d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856734207
+        }
+    ],
+    "wof:id":856734207,
+    "wof:lastmodified":1464053153,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.733874,
+    38.062757,
+    -84.733874,
+    38.062757
+],
+  "geometry": {"coordinates":[-84.733874,38.062757],"type":"Point"}
+}

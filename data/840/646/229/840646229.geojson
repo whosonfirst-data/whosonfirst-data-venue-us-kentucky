@@ -1,0 +1,66 @@
+{
+  "id": 840646229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.876505,37.709261,-85.876505,37.709261",
+    "geom:latitude":37.709261,
+    "geom:longitude":-85.876505,
+    "iso:country":"US",
+    "sg:address":"908 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2157",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aH7vc8EsXbLfY9r2KIKWu_37.709261_-85.876505@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044805,
+    "wof:geomhash":"9ab1bc2263d70732d17250a8e5d23e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840646229
+        }
+    ],
+    "wof:id":840646229,
+    "wof:lastmodified":1464044805,
+    "wof:name":"Jeff's Prescription Shop",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.876505,
+    37.709261,
+    -85.876505,
+    37.709261
+],
+  "geometry": {"coordinates":[-85.87650499999999,37.709261],"type":"Point"}
+}

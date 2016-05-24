@@ -1,0 +1,74 @@
+{
+  "id": 856735249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572272,39.043383,-84.572272,39.043383",
+    "geom:latitude":39.043383,
+    "geom:longitude":-84.572272,
+    "iso:country":"US",
+    "sg:address":"400 Buttermilk Pike",
+    "sg:city":"Ft Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/18978-montgomery-inn-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 344 5333",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hNexkijxTm0bpBmqXKDTJ_39.043383_-84.572272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053192,
+    "wof:geomhash":"9be64de2923dc9feabd9c411ea90a073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":856735249
+        }
+    ],
+    "wof:id":856735249,
+    "wof:lastmodified":1464053192,
+    "wof:name":"Montgomery Inn Restaurant",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.572272,
+    39.043383,
+    -84.572272,
+    39.043383
+],
+  "geometry": {"coordinates":[-84.572272,39.043383],"type":"Point"}
+}

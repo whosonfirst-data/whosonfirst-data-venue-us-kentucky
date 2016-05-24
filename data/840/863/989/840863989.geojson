@@ -1,0 +1,73 @@
+{
+  "id": 840863989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.474938,38.321797,-85.474938,38.321797",
+    "geom:latitude":38.321797,
+    "geom:longitude":-85.474938,
+    "iso:country":"US",
+    "sg:address":"6628 W Hwy 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 1210",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tsq7a6503Q58PmmNGU4ez_38.321797_-85.474938@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049733,
+    "wof:geomhash":"3e85736397b7a743b5b33abcd1b0e15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840863989
+        }
+    ],
+    "wof:id":840863989,
+    "wof:lastmodified":1464049733,
+    "wof:name":"Brown's Bootery & Shoe Repair",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -85.474938,
+    38.321797,
+    -85.474938,
+    38.321797
+],
+  "geometry": {"coordinates":[-85.47493799999999,38.321797],"type":"Point"}
+}

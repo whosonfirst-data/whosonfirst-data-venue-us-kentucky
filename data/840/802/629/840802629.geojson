@@ -1,0 +1,71 @@
+{
+  "id": 840802629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421602,36.954385,-86.421602,36.954385",
+    "geom:latitude":36.954385,
+    "geom:longitude":-86.421602,
+    "iso:country":"US",
+    "sg:address":"1061 Lovers Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 4826",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L55rzvNAitYqdrs4LXeIN_36.954385_-86.421602@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048257,
+    "wof:geomhash":"81090f9a7cc4078dbbe13507add7802d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840802629
+        }
+    ],
+    "wof:id":840802629,
+    "wof:lastmodified":1464048257,
+    "wof:name":"Danny E Smith",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -86.421602,
+    36.954385,
+    -86.421602,
+    36.954385
+],
+  "geometry": {"coordinates":[-86.42160199999999,36.954385],"type":"Point"}
+}

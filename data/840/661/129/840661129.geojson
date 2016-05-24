@@ -1,0 +1,73 @@
+{
+  "id": 840661129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284132,37.654256,-84.284132,37.654256",
+    "geom:latitude":37.654256,
+    "geom:longitude":-84.284132,
+    "iso:country":"US",
+    "sg:address":"303 Jessica Cir",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 5004",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13j08ZDSmQii809BTqeqrn_37.654256_-84.284132@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045129,
+    "wof:geomhash":"866b869e9b58f4b3324ad466c6aa1e74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840661129
+        }
+    ],
+    "wof:id":840661129,
+    "wof:lastmodified":1464045129,
+    "wof:name":"Renfro Masonry Inc",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.284132,
+    37.654256,
+    -84.284132,
+    37.654256
+],
+  "geometry": {"coordinates":[-84.284132,37.654256],"type":"Point"}
+}

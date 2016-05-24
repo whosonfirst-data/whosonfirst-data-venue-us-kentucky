@@ -1,0 +1,69 @@
+{
+  "id": 840633267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580913,36.954981,-84.580913,36.954981",
+    "geom:latitude":36.954981,
+    "geom:longitude":-84.580913,
+    "iso:country":"US",
+    "sg:address":"10279 US Hwy 27",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6080",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WIOEqDc3mac8VPzz7Ffun_36.954981_-84.580913@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044519,
+    "wof:geomhash":"858adb0933cac215cdba97e09dffec48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840633267
+        }
+    ],
+    "wof:id":840633267,
+    "wof:lastmodified":1464044519,
+    "wof:name":"Lake Cumberland Auction",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -84.580913,
+    36.954981,
+    -84.580913,
+    36.954981
+],
+  "geometry": {"coordinates":[-84.580913,36.954981],"type":"Point"}
+}

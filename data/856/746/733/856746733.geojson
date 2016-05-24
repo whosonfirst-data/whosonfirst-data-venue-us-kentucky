@@ -1,0 +1,74 @@
+{
+  "id": 856746733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.649732,38.191356,-85.649732,38.191356",
+    "geom:latitude":38.191356,
+    "geom:longitude":-85.649732,
+    "iso:country":"US",
+    "sg:address":"2118 Bruce Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 4191",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"http://www.yourheritageelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bdnMCc7ekDBtrorTZL0rv_38.191356_-85.649732@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053622,
+    "wof:geomhash":"0f13f20132677fc111417fa19b271534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746733
+        }
+    ],
+    "wof:id":856746733,
+    "wof:lastmodified":1464053622,
+    "wof:name":"Heritage Electric Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.649732,
+    38.191356,
+    -85.649732,
+    38.191356
+],
+  "geometry": {"coordinates":[-85.649732,38.191356],"type":"Point"}
+}

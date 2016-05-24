@@ -1,0 +1,68 @@
+{
+  "id": 840642581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764798,38.237232,-85.764798,38.237232",
+    "geom:latitude":38.237232,
+    "geom:longitude":-85.764798,
+    "iso:country":"US",
+    "sg:address":"1100 S 7th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 2253",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zEvcVfEygtG7PQCowx05f_38.237232_-85.764798@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044732,
+    "wof:geomhash":"32e38e517a02508b4874506a971bd220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840642581
+        }
+    ],
+    "wof:id":840642581,
+    "wof:lastmodified":1464044732,
+    "wof:name":"Let Them Eat Cake",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.764798,
+    38.237232,
+    -85.764798,
+    38.237232
+],
+  "geometry": {"coordinates":[-85.764798,38.237232],"type":"Point"}
+}

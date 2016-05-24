@@ -1,0 +1,77 @@
+{
+  "id": 840640531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.315287,36.604513,-88.315287,36.604513",
+    "geom:latitude":36.604513,
+    "geom:longitude":-88.315287,
+    "iso:country":"US",
+    "sg:address":"408 S 12th St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 762 0054",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AsYwK7POhhisSJ5nD2PxU_36.604513_-88.315287@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044685,
+    "wof:geomhash":"9846e758dd95ddcb12f114693b64ca94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840640531
+        }
+    ],
+    "wof:id":840640531,
+    "wof:lastmodified":1464044685,
+    "wof:name":"Paw Prints",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -88.315287,
+    36.604513,
+    -88.315287,
+    36.604513
+],
+  "geometry": {"coordinates":[-88.315287,36.604513],"type":"Point"}
+}

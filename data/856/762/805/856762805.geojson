@@ -1,0 +1,71 @@
+{
+  "id": 856762805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.847707,37.703913,-85.847707,37.703913",
+    "geom:latitude":37.703913,
+    "geom:longitude":-85.847707,
+    "iso:country":"US",
+    "sg:address":"824 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4090",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N7mvQmRjohtaAGEMOiCfb_37.703913_-85.847707@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"bb0397ba022d35c3bc2d583b2ff38e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762805
+        }
+    ],
+    "wof:id":856762805,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Silver Palace Chinese Restaurant",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -85.847707,
+    37.703913,
+    -85.847707,
+    37.703913
+],
+  "geometry": {"coordinates":[-85.847707,37.703913],"type":"Point"}
+}

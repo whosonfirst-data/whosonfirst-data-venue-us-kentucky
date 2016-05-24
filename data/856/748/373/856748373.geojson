@@ -1,0 +1,73 @@
+{
+  "id": 856748373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661522,38.303799,-85.661522,38.303799",
+    "geom:latitude":38.303799,
+    "geom:longitude":-85.661522,
+    "iso:country":"US",
+    "sg:address":"4701 River Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 9473",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vGrY2HzUOWv4WnG4pEFZo_38.303799_-85.661522@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053688,
+    "wof:geomhash":"44a585661d75c66942bb6a19b899e133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856748373
+        }
+    ],
+    "wof:id":856748373,
+    "wof:lastmodified":1464053688,
+    "wof:name":"River Valley Club",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -85.661522,
+    38.303799,
+    -85.661522,
+    38.303799
+],
+  "geometry": {"coordinates":[-85.66152200000001,38.303799],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856732229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.364199,38.403718,-85.364199,38.403718",
+    "geom:latitude":38.403718,
+    "geom:longitude":-85.364199,
+    "iso:country":"US",
+    "sg:address":"1004 Grange Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/la-grange/120569-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 4691",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b5HPadeDFu4PpIAoOqT3C_38.403718_-85.364199@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053081,
+    "wof:geomhash":"ce187367ff242f19adf2c0b23a7d0c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856732229
+        }
+    ],
+    "wof:id":856732229,
+    "wof:lastmodified":1464053081,
+    "wof:name":"Subway",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.364199,
+    38.403718,
+    -85.364199,
+    38.403718
+],
+  "geometry": {"coordinates":[-85.364199,38.403718],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840860725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.663529,38.252931,-85.663529,38.252931",
+    "geom:latitude":38.252931,
+    "geom:longitude":-85.663529,
+    "iso:country":"US",
+    "sg:address":"114 Cornell Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 5909",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pChjScrmgIM6VS9diXdra_38.252931_-85.663529@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049668,
+    "wof:geomhash":"cfd2ad30aba79b129eb6ca6f9e8efdaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840860725
+        }
+    ],
+    "wof:id":840860725,
+    "wof:lastmodified":1464049668,
+    "wof:name":"Bingham Trailer Rental",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -85.663529,
+    38.252931,
+    -85.663529,
+    38.252931
+],
+  "geometry": {"coordinates":[-85.663529,38.252931],"type":"Point"}
+}

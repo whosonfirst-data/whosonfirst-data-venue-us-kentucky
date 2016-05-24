@@ -1,0 +1,79 @@
+{
+  "id": 856754921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.554445,38.020584,-84.554445,38.020584",
+    "geom:latitude":38.020584,
+    "geom:longitude":-84.554445,
+    "iso:country":"US",
+    "sg:address":"1050 Monarch St Ste 100",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 224 8833",
+    "sg:postcode":"40513",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"http://www.thegibsoncompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7doeraaLJF2XIP9sro3OxV_38.020584_-84.554445@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053942,
+    "wof:geomhash":"ba5226a61c5d8662ec8f16f45ff82384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826825,
+            "region_id":85688641,
+            "venue_id":856754921
+        }
+    ],
+    "wof:id":856754921,
+    "wof:lastmodified":1464053942,
+    "wof:name":"The Gibson Company",
+    "wof:parent_id":85826825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -84.554445,
+    38.020584,
+    -84.554445,
+    38.020584
+],
+  "geometry": {"coordinates":[-84.554445,38.020584],"type":"Point"}
+}

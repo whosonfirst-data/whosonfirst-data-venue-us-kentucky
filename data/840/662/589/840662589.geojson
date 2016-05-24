@@ -1,0 +1,72 @@
+{
+  "id": 840662589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441906,36.992033,-86.441906,36.992033",
+    "geom:latitude":36.992033,
+    "geom:longitude":-86.441906,
+    "iso:country":"US",
+    "sg:address":"1003 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4707",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.bgpres.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ohlCoG4pQ8O8heic6ROgF_36.992033_-86.441906@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045156,
+    "wof:geomhash":"edec86746b3c33597db40c49b706603f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840662589
+        }
+    ],
+    "wof:id":840662589,
+    "wof:lastmodified":1464045156,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.441906,
+    36.992033,
+    -86.441906,
+    36.992033
+],
+  "geometry": {"coordinates":[-86.441906,36.992033],"type":"Point"}
+}

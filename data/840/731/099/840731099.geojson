@@ -1,0 +1,83 @@
+{
+  "id": 840731099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725729,38.157686,-85.725729,38.157686",
+    "geom:latitude":38.157686,
+    "geom:longitude":-85.725729,
+    "iso:country":"US",
+    "sg:address":"2000 Fern Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 6944",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "logistics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijypdOarSjJcwIX1tV8rG_38.157686_-85.725729@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046724,
+    "wof:geomhash":"2fb288d09d9d8f54f705ee72d6b9e9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840731099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840731099
+        }
+    ],
+    "wof:id":840731099,
+    "wof:lastmodified":1464046724,
+    "wof:name":"Penske Logistics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logistics"
+    ]
+},
+  "bbox": [
+    -85.725729,
+    38.157686,
+    -85.725729,
+    38.157686
+],
+  "geometry": {"coordinates":[-85.725729,38.157686],"type":"Point"}
+}

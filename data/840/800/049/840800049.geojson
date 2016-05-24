@@ -1,0 +1,73 @@
+{
+  "id": 840800049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.89248,37.745774,-85.89248,37.745774",
+    "geom:latitude":37.745774,
+    "geom:longitude":-85.89248,
+    "iso:country":"US",
+    "sg:address":"2101 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4117",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67SMwSG3kOWrMgsU1l9bOK_37.745774_-85.892480@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048201,
+    "wof:geomhash":"1c17cfac1465f9067e1569c15ce00248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840800049
+        }
+    ],
+    "wof:id":840800049,
+    "wof:lastmodified":1464048201,
+    "wof:name":"E'Town Distributing Co",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.89248,
+    37.745774,
+    -85.89248,
+    37.745774
+],
+  "geometry": {"coordinates":[-85.89248000000001,37.745774],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840742779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.207629,37.052647,-86.207629,37.052647",
+    "geom:latitude":37.052647,
+    "geom:longitude":-86.207629,
+    "iso:country":"US",
+    "sg:address":"108 E 1st St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 9313",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f2ur4oIT6cFS3JV12X9q7_37.052647_-86.207629@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046946,
+    "wof:geomhash":"2ead374ad729eec97c73977032cb098b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840742779
+        }
+    ],
+    "wof:id":840742779,
+    "wof:lastmodified":1464046946,
+    "wof:name":"Old Bank Antiques",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -86.207629,
+    37.052647,
+    -86.207629,
+    37.052647
+],
+  "geometry": {"coordinates":[-86.207629,37.052647],"type":"Point"}
+}

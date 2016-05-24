@@ -1,0 +1,71 @@
+{
+  "id": 856691743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.602084,37.823016,-87.602084,37.823016",
+    "geom:latitude":37.823016,
+    "geom:longitude":-87.602084,
+    "iso:country":"US",
+    "sg:address":"505 Sand Ln",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 7751",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WV17J4nv8Aq6PVuh9rSHK_37.823016_-87.602084@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051902,
+    "wof:geomhash":"4865f979ceb51861338952450080c60e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856691743
+        }
+    ],
+    "wof:id":856691743,
+    "wof:lastmodified":1464051902,
+    "wof:name":"Westgate Gardens Apartments",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.602084,
+    37.823016,
+    -87.602084,
+    37.823016
+],
+  "geometry": {"coordinates":[-87.602084,37.823016],"type":"Point"}
+}

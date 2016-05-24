@@ -1,0 +1,73 @@
+{
+  "id": 856755309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.71386,36.605892,-83.71386,36.605892",
+    "geom:latitude":36.605892,
+    "geom:longitude":-83.71386,
+    "iso:country":"US",
+    "sg:address":"116 E Chester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 8309",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "k-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VVfhUfn2rER1uqHRGEGJI_36.605892_-83.713860@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053957,
+    "wof:geomhash":"3db00a7b8bf3235e8907641795ea72d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856755309
+        }
+    ],
+    "wof:id":856755309,
+    "wof:lastmodified":1464053957,
+    "wof:name":"St Julians School",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [
+    -83.71386,
+    36.605892,
+    -83.71386,
+    36.605892
+],
+  "geometry": {"coordinates":[-83.71386,36.605892],"type":"Point"}
+}

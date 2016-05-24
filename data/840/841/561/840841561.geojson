@@ -1,0 +1,74 @@
+{
+  "id": 840841561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.730717,38.239655,-85.730717,38.239655",
+    "geom:latitude":38.239655,
+    "geom:longitude":-85.730717,
+    "iso:country":"US",
+    "sg:address":"933 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 5055",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "sg:website":"www.euroantiquemarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67slpCTEnM4IhvlIH3WgNd_38.239655_-85.730717@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049263,
+    "wof:geomhash":"26b786ac5deb0bab3e3ca34368021e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":840841561
+        }
+    ],
+    "wof:id":840841561,
+    "wof:lastmodified":1464049263,
+    "wof:name":"European Antique Market",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -85.730717,
+    38.239655,
+    -85.730717,
+    38.239655
+],
+  "geometry": {"coordinates":[-85.730717,38.239655],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856720805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.589935,37.890082,-84.589935,37.890082",
+    "geom:latitude":37.890082,
+    "geom:longitude":-84.589935,
+    "iso:country":"US",
+    "sg:address":"242 Wilson Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 3625",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K3ErukDu1wnYBQ1lYohmh_37.890082_-84.589935@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052626,
+    "wof:geomhash":"75bd545a3b4e4983c654da8ca4ee5cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856720805
+        }
+    ],
+    "wof:id":856720805,
+    "wof:lastmodified":1464052626,
+    "wof:name":"Front Row Auto Sales",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.589935,
+    37.890082,
+    -84.589935,
+    37.890082
+],
+  "geometry": {"coordinates":[-84.589935,37.890082],"type":"Point"}
+}

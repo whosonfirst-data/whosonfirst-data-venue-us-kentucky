@@ -1,0 +1,73 @@
+{
+  "id": 840854955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.86542,37.686253,-85.86542,37.686253",
+    "geom:latitude":37.686253,
+    "geom:longitude":-85.86542,
+    "iso:country":"US",
+    "sg:address":"503 Franklin Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7912",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BdYymnfOvlsqRdbTQqFMF_37.686253_-85.865420@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049544,
+    "wof:geomhash":"32a19e15d442635b364336239cfc932a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840854955
+        }
+    ],
+    "wof:id":840854955,
+    "wof:lastmodified":1464049544,
+    "wof:name":"Mobile DJ",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -85.86542,
+    37.686253,
+    -85.86542,
+    37.686253
+],
+  "geometry": {"coordinates":[-85.86542,37.686253],"type":"Point"}
+}

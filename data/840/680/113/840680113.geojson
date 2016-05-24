@@ -1,0 +1,73 @@
+{
+  "id": 840680113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.621263,38.151092,-85.621263,38.151092",
+    "geom:latitude":38.151092,
+    "geom:longitude":-85.621263,
+    "iso:country":"US",
+    "sg:address":"7404 Switch Bark Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 231 2226",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MTYFdD25n6uio9UxlX5kN_38.151092_-85.621263@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045573,
+    "wof:geomhash":"97e6271335fb5c6fc6eadc22aba754ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840680113
+        }
+    ],
+    "wof:id":840680113,
+    "wof:lastmodified":1464045573,
+    "wof:name":"Wild Hair Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.621263,
+    38.151092,
+    -85.621263,
+    38.151092
+],
+  "geometry": {"coordinates":[-85.621263,38.151092],"type":"Point"}
+}

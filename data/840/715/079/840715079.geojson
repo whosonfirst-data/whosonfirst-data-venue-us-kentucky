@@ -1,0 +1,68 @@
+{
+  "id": 840715079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.31347,36.611558,-88.31347,36.611558",
+    "geom:latitude":36.611558,
+    "geom:longitude":-88.31347,
+    "iso:country":"US",
+    "sg:address":"1007 Walnut St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 5705",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2etMCiPO3hn6pzuBh2uMgA_36.611558_-88.313470@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046404,
+    "wof:geomhash":"da0cdb4de8d6a9858ee4101a5f801009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840715079
+        }
+    ],
+    "wof:id":840715079,
+    "wof:lastmodified":1464046404,
+    "wof:name":"J&D Small Engine Repair",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.31347,
+    36.611558,
+    -88.31347,
+    36.611558
+],
+  "geometry": {"coordinates":[-88.31347,36.611558],"type":"Point"}
+}

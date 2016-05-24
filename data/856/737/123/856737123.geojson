@@ -1,0 +1,74 @@
+{
+  "id": 856737123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.864845,37.716284,-85.864845,37.716284",
+    "geom:latitude":37.716284,
+    "geom:longitude":-85.864845,
+    "iso:country":"US",
+    "sg:address":"916 Lakeside Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/83725-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 5638",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yG4AWO8n6qfZo1fLPJ8uD_37.716284_-85.864845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053267,
+    "wof:geomhash":"38015d8bd38e8f283e72a84a08542018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737123
+        }
+    ],
+    "wof:id":856737123,
+    "wof:lastmodified":1464053267,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.864845,
+    37.716284,
+    -85.864845,
+    37.716284
+],
+  "geometry": {"coordinates":[-85.864845,37.716284],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840634361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.433428,38.184008,-83.433428,38.184008",
+    "geom:latitude":38.184008,
+    "geom:longitude":-83.433428,
+    "iso:country":"US",
+    "sg:address":"291 E Main St",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 784 6458",
+    "sg:postcode":"40351",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946999,
+        102084549,
+        85807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOjliDYeUzfJnCNeu0Yp3_38.184008_-83.433428@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044553,
+    "wof:geomhash":"c1b7951725cb5015ccee8e42d3f34847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084549,
+            "locality_id":85946999,
+            "neighbourhood_id":85807011,
+            "region_id":85688641,
+            "venue_id":840634361
+        }
+    ],
+    "wof:id":840634361,
+    "wof:lastmodified":1464044553,
+    "wof:name":"Kentucky Cancer Program",
+    "wof:parent_id":85807011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "program",
+        "referral"
+    ]
+},
+  "bbox": [
+    -83.433428,
+    38.184008,
+    -83.433428,
+    38.184008
+],
+  "geometry": {"coordinates":[-83.43342800000001,38.184008],"type":"Point"}
+}

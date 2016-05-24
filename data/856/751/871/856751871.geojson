@@ -1,0 +1,93 @@
+{
+  "id": 856751871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.561598,38.216042,-85.561598,38.216042",
+    "geom:latitude":38.216042,
+    "geom:longitude":-85.561598,
+    "iso:country":"US",
+    "sg:address":"2107 Production Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 671 8250",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fiber",
+        "materials-wholesale",
+        "material",
+        "packaging",
+        "boxes-corrugated",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fza5mCXGdXbf2k4agjmo0_38.216042_-85.561598@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053828,
+    "wof:geomhash":"92414a2d7bb5bd41a2a5f12b82970c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856751871
+        }
+    ],
+    "wof:id":856751871,
+    "wof:lastmodified":1464053828,
+    "wof:name":"Simpak International",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fiber",
+        "materials-wholesale",
+        "material",
+        "packaging",
+        "boxes-corrugated",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.561598,
+    38.216042,
+    -85.561598,
+    38.216042
+],
+  "geometry": {"coordinates":[-85.561598,38.216042],"type":"Point"}
+}

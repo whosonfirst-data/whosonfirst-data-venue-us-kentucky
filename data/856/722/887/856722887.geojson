@@ -1,0 +1,73 @@
+{
+  "id": 856722887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.621348,38.134147,-85.621348,38.134147",
+    "geom:latitude":38.134147,
+    "geom:longitude":-85.621348,
+    "iso:country":"US",
+    "sg:address":"7910 Cortland Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 314 7406",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YoNIghO360EM6tJ7SrynC_38.134147_-85.621348@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052707,
+    "wof:geomhash":"7120d7c3f588fc08741d76831e89790a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856722887
+        }
+    ],
+    "wof:id":856722887,
+    "wof:lastmodified":1464052707,
+    "wof:name":"Samuel M Zwenger",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.621348,
+    38.134147,
+    -85.621348,
+    38.134147
+],
+  "geometry": {"coordinates":[-85.621348,38.134147],"type":"Point"}
+}

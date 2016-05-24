@@ -1,0 +1,83 @@
+{
+  "id": 856748595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.575384,38.2637,-85.575384,38.2637",
+    "geom:latitude":38.2637,
+    "geom:longitude":-85.575384,
+    "iso:country":"US",
+    "sg:address":"9520 Ormsby Station Rd # 100",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 2055",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "farm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64sYNMdmhvuaDZfSzeGjhS_38.263700_-85.575384@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053696,
+    "wof:geomhash":"974532a3f063c5b15f89b5590eb9bf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856748595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748595
+        }
+    ],
+    "wof:id":856748595,
+    "wof:lastmodified":1464053696,
+    "wof:name":"State Farm Service Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm"
+    ]
+},
+  "bbox": [
+    -85.575384,
+    38.2637,
+    -85.575384,
+    38.2637
+],
+  "geometry": {"coordinates":[-85.575384,38.2637],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856711553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.76708,38.177236,-85.76708,38.177236",
+    "geom:latitude":38.177236,
+    "geom:longitude":-85.76708,
+    "iso:country":"US",
+    "sg:address":"4816 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 933 1080",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bEmclsYZhsdpnHK2Z3a04_38.177236_-85.767080@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052297,
+    "wof:geomhash":"c0efed3a54fe1152ba0705527471a459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":856711553
+        }
+    ],
+    "wof:id":856711553,
+    "wof:lastmodified":1464052297,
+    "wof:name":"Willies Italian Food LLC",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.76708,
+    38.177236,
+    -85.76708,
+    38.177236
+],
+  "geometry": {"coordinates":[-85.76708000000001,38.177236],"type":"Point"}
+}

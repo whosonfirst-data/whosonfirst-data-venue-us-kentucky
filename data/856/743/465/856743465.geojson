@@ -1,0 +1,90 @@
+{
+  "id": 856743465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.760456,38.234157,-85.760456,38.234157",
+    "geom:latitude":38.234157,
+    "geom:longitude":-85.760456,
+    "iso:country":"US",
+    "sg:address":"1235 S 4th Street",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 727 0280",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant",
+        "management",
+        "relocation",
+        "condominium"
+    ],
+    "sg:website":"http://dondriskell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpCNQuCTCaTGvZ7Zimblm_38.234157_-85.760456@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053510,
+    "wof:geomhash":"82629c4d6a7f09f9402dc4b8a75a6b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":856743465
+        }
+    ],
+    "wof:id":856743465,
+    "wof:lastmodified":1464053510,
+    "wof:name":"Catalyst Realty and Property management",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "management",
+        "relocation",
+        "condominium"
+    ]
+},
+  "bbox": [
+    -85.760456,
+    38.234157,
+    -85.760456,
+    38.234157
+],
+  "geometry": {"coordinates":[-85.760456,38.234157],"type":"Point"}
+}

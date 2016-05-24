@@ -1,0 +1,74 @@
+{
+  "id": 840862445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65561,38.156098,-85.65561,38.156098",
+    "geom:latitude":38.156098,
+    "geom:longitude":-85.65561,
+    "iso:country":"US",
+    "sg:address":"5613 Fern Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 9969",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "courier"
+    ],
+    "sg:website":"www.beelinecourier.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27yTI0fh2ZQwm8eeOwURKt_38.156098_-85.655610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049705,
+    "wof:geomhash":"f596d717844099ce3de932cc063708aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840862445
+        }
+    ],
+    "wof:id":840862445,
+    "wof:lastmodified":1464049705,
+    "wof:name":"Bee Line Courier Svc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -85.65561,
+    38.156098,
+    -85.65561,
+    38.156098
+],
+  "geometry": {"coordinates":[-85.65561,38.156098],"type":"Point"}
+}

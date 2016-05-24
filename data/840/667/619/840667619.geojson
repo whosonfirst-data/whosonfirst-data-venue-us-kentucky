@@ -1,0 +1,71 @@
+{
+  "id": 840667619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883127,37.704497,-85.883127,37.704497",
+    "geom:latitude":37.704497,
+    "geom:longitude":-85.883127,
+    "iso:country":"US",
+    "sg:address":"649 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 1333",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3brV9NLl9cQIUxUjjN9jk8_37.704497_-85.883127@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045264,
+    "wof:geomhash":"bdc8ed0b624010545361854aa66a5f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840667619
+        }
+    ],
+    "wof:id":840667619,
+    "wof:lastmodified":1464045264,
+    "wof:name":"Cedar Ridge Apartments",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.883127,
+    37.704497,
+    -85.883127,
+    37.704497
+],
+  "geometry": {"coordinates":[-85.883127,37.704497],"type":"Point"}
+}

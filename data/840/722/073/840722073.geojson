@@ -1,0 +1,73 @@
+{
+  "id": 840722073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.243932,36.958672,-86.243932,36.958672",
+    "geom:latitude":36.958672,
+    "geom:longitude":-86.243932,
+    "iso:country":"US",
+    "sg:address":"3477 Iron Bridge Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 4833",
+    "sg:postcode":"42159",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nwoeO8MZd79raEmVIUSIk_36.958672_-86.243932@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046550,
+    "wof:geomhash":"21838e0484d91ed6e701a317825e6f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840722073
+        }
+    ],
+    "wof:id":840722073,
+    "wof:lastmodified":1464046550,
+    "wof:name":"Ace Plumbing",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.243932,
+    36.958672,
+    -86.243932,
+    36.958672
+],
+  "geometry": {"coordinates":[-86.243932,36.958672],"type":"Point"}
+}

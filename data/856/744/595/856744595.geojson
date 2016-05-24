@@ -1,0 +1,92 @@
+{
+  "id": 856744595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.727943,38.157669,-85.727943,38.157669",
+    "geom:latitude":38.157669,
+    "geom:longitude":-85.727943,
+    "iso:country":"US",
+    "sg:address":"2001 Fern Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 380 3748",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "small",
+        "appliance",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sUr4jqRkASeM8lMHQWhsr_38.157669_-85.727943@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053550,
+    "wof:geomhash":"7990d309de86448884c68c59ac247de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856744595
+        }
+    ],
+    "wof:id":856744595,
+    "wof:lastmodified":1464053550,
+    "wof:name":"De Walt/Porter-Cable/Delta Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "appliance",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -85.727943,
+    38.157669,
+    -85.727943,
+    38.157669
+],
+  "geometry": {"coordinates":[-85.727943,38.157669],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840802285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.882851,37.725093,-85.882851,37.725093",
+    "geom:latitude":37.725093,
+    "geom:longitude":-85.882851,
+    "iso:country":"US",
+    "sg:address":"1502 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 1667",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PAk7Zr5dlHdGAcxE0A8nu_37.725093_-85.882851@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048250,
+    "wof:geomhash":"4ff86af3fff5fe5b513a02fa3f9cfee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840802285
+        }
+    ],
+    "wof:id":840802285,
+    "wof:lastmodified":1464048250,
+    "wof:name":"Hawkins Drive Mini Storage",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.882851,
+    37.725093,
+    -85.882851,
+    37.725093
+],
+  "geometry": {"coordinates":[-85.882851,37.725093],"type":"Point"}
+}

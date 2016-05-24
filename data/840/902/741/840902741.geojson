@@ -1,0 +1,71 @@
+{
+  "id": 840902741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43677,36.99131,-86.43677,36.99131",
+    "geom:latitude":36.99131,
+    "geom:longitude":-86.43677,
+    "iso:country":"US",
+    "sg:address":"800 Park St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 1470",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VeRyZpfLqxVrGf8Cu7uNq_36.991310_-86.436770@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050553,
+    "wof:geomhash":"a072f48908ad810b92e7e425d26e8997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840902741
+        }
+    ],
+    "wof:id":840902741,
+    "wof:lastmodified":1464050553,
+    "wof:name":"Hillcrest Credit Agency",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -86.43677,
+    36.99131,
+    -86.43677,
+    36.99131
+],
+  "geometry": {"coordinates":[-86.43677,36.99131],"type":"Point"}
+}

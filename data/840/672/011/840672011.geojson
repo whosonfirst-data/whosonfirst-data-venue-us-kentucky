@@ -1,0 +1,73 @@
+{
+  "id": 840672011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444499,36.978159,-86.444499,36.978159",
+    "geom:latitude":36.978159,
+    "geom:longitude":-86.444499,
+    "iso:country":"US",
+    "sg:address":"1522 Nutwood St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 7240",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67GWVuthLyz7bCRqilCsv7_36.978159_-86.444499@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045364,
+    "wof:geomhash":"497e55147c26770194fbca8bb3758814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840672011
+        }
+    ],
+    "wof:id":840672011,
+    "wof:lastmodified":1464045364,
+    "wof:name":"Orion Cleaning",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.444499,
+    36.978159,
+    -86.444499,
+    36.978159
+],
+  "geometry": {"coordinates":[-86.44449899999999,36.978159],"type":"Point"}
+}

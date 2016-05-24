@@ -1,0 +1,71 @@
+{
+  "id": 840540805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.873477,37.742084,-85.873477,37.742084",
+    "geom:latitude":37.742084,
+    "geom:longitude":-85.873477,
+    "iso:country":"US",
+    "sg:address":"300 Chestnut St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6194",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CxLkExuID9haVsRRWiTUE_37.742084_-85.873477@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042244,
+    "wof:geomhash":"1de0d48a641a3d2dc6578456f9a28d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840540805
+        }
+    ],
+    "wof:id":840540805,
+    "wof:lastmodified":1464042244,
+    "wof:name":"Ross & Ross",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -85.873477,
+    37.742084,
+    -85.873477,
+    37.742084
+],
+  "geometry": {"coordinates":[-85.87347699999999,37.742084],"type":"Point"}
+}

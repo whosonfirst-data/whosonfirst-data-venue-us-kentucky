@@ -1,0 +1,68 @@
+{
+  "id": 840877149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.76978,38.250342,-85.76978,38.250342",
+    "geom:latitude":38.250342,
+    "geom:longitude":-85.76978,
+    "iso:country":"US",
+    "sg:address":"1115 W Chestnut St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 485 8232",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PQOLam5zJBloe77OdSTKf_38.250342_-85.769780@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050004,
+    "wof:geomhash":"8124e07cf58a02c8538938fb09c32e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840877149
+        }
+    ],
+    "wof:id":840877149,
+    "wof:lastmodified":1464050004,
+    "wof:name":"Coleridge Taylor Elem School",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76978,
+    38.250342,
+    -85.76978,
+    38.250342
+],
+  "geometry": {"coordinates":[-85.76978,38.250342],"type":"Point"}
+}

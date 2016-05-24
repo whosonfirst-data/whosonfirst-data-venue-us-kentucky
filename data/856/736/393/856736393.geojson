@@ -1,0 +1,76 @@
+{
+  "id": 856736393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.416295,36.932645,-86.416295,36.932645",
+    "geom:latitude":36.932645,
+    "geom:longitude":-86.416295,
+    "iso:country":"US",
+    "sg:address":"3901 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/66113-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1000",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QAWpxeMwVgZMuFNm1N727_36.932645_-86.416295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053238,
+    "wof:geomhash":"108b769875e38d44bda86929bf7cc88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736393
+        }
+    ],
+    "wof:id":856736393,
+    "wof:lastmodified":1464053238,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.416295,
+    36.932645,
+    -86.416295,
+    36.932645
+],
+  "geometry": {"coordinates":[-86.41629500000001,36.932645],"type":"Point"}
+}

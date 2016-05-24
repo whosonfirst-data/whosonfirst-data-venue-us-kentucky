@@ -1,0 +1,75 @@
+{
+  "id": 840937875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.455716,37.823676,-85.455716,37.823676",
+    "geom:latitude":37.823676,
+    "geom:longitude":-85.455716,
+    "iso:country":"US",
+    "sg:address":"102 S Salem Dr",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 349 6707",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SdB5adbZhnhpPmS63qSpf_37.823676_-85.455716@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051406,
+    "wof:geomhash":"a5b80db2512a655835983fa1b9758e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840937875
+        }
+    ],
+    "wof:id":840937875,
+    "wof:lastmodified":1464051406,
+    "wof:name":"Bardstown Auto Mart",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.455716,
+    37.823676,
+    -85.455716,
+    37.823676
+],
+  "geometry": {"coordinates":[-85.455716,37.823676],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840957275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68979,38.144152,-85.68979,38.144152",
+    "geom:latitude":38.144152,
+    "geom:longitude":-85.68979,
+    "iso:country":"US",
+    "sg:address":"7415 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 2592",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gn1YC5Ik8Bnklmxx6cefc_38.144152_-85.689790@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051784,
+    "wof:geomhash":"0c3fb593a547b70a70d6dab5b26e021a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840957275
+        }
+    ],
+    "wof:id":840957275,
+    "wof:lastmodified":1464051784,
+    "wof:name":"American Bootworks",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.68979,
+    38.144152,
+    -85.68979,
+    38.144152
+],
+  "geometry": {"coordinates":[-85.68979,38.144152],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 856743667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752623,38.175155,-85.752623,38.175155",
+    "geom:latitude":38.175155,
+    "geom:longitude":-85.752623,
+    "iso:country":"US",
+    "sg:address":"405 Maclean Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 2455",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "siding",
+        "materials-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5swALnS7DnTKM5UX8w55Ur_38.175155_-85.752623@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053518,
+    "wof:geomhash":"9fe2dc88c786c51c81d38863fa8f5734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":856743667
+        }
+    ],
+    "wof:id":856743667,
+    "wof:lastmodified":1464053518,
+    "wof:name":"Alside Supply Center",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "materials-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.752623,
+    38.175155,
+    -85.752623,
+    38.175155
+],
+  "geometry": {"coordinates":[-85.752623,38.175155],"type":"Point"}
+}

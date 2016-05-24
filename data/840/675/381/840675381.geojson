@@ -1,0 +1,73 @@
+{
+  "id": 840675381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.710552,37.735675,-87.710552,37.735675",
+    "geom:latitude":37.735675,
+    "geom:longitude":-87.710552,
+    "iso:country":"US",
+    "sg:address":"330 9th St",
+    "sg:city":"Corydon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 860 7363",
+    "sg:postcode":"42406",
+    "sg:province":"KY",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iq4BXk6ydar2wQ0Q42FKx_37.735675_-87.710552@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045453,
+    "wof:geomhash":"676e7ec598305c139cd49ab7dd9871bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840675381
+        }
+    ],
+    "wof:id":840675381,
+    "wof:lastmodified":1464045453,
+    "wof:name":"Cornerstone Masonry",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.710552,
+    37.735675,
+    -87.710552,
+    37.735675
+],
+  "geometry": {"coordinates":[-87.71055200000001,37.735675],"type":"Point"}
+}

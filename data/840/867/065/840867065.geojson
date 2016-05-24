@@ -1,0 +1,75 @@
+{
+  "id": 840867065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.508175,36.990796,-88.508175,36.990796",
+    "geom:latitude":36.990796,
+    "geom:longitude":-88.508175,
+    "iso:country":"US",
+    "sg:address":"7050 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 6753",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D5z78jMCvoSSXt69WONhj_36.990796_-88.508175@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049798,
+    "wof:geomhash":"db0820e7acb93b3243589b1abff48de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840867065
+        }
+    ],
+    "wof:id":840867065,
+    "wof:lastmodified":1464049798,
+    "wof:name":"Southern Pride Truck Stop",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -88.508175,
+    36.990796,
+    -88.508175,
+    36.990796
+],
+  "geometry": {"coordinates":[-88.50817499999999,36.990796],"type":"Point"}
+}

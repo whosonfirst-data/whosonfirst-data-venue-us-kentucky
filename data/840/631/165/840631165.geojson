@@ -1,0 +1,75 @@
+{
+  "id": 840631165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.141752,37.740721,-84.141752,37.740721",
+    "geom:latitude":37.740721,
+    "geom:longitude":-84.141752,
+    "iso:country":"US",
+    "sg:address":"3324 Irvine Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 369 3133",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fabricator",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g1rjz1HnB2fb4ouDGMdlN_37.740721_-84.141752@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044469,
+    "wof:geomhash":"8c1384552dc1728739be2a314dd96728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840631165
+        }
+    ],
+    "wof:id":840631165,
+    "wof:lastmodified":1464044469,
+    "wof:name":"Metcalf Metal",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "metal"
+    ]
+},
+  "bbox": [
+    -84.141752,
+    37.740721,
+    -84.141752,
+    37.740721
+],
+  "geometry": {"coordinates":[-84.141752,37.740721],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 856750651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.499759,38.237934,-85.499759,38.237934",
+    "geom:latitude":38.237934,
+    "geom:longitude":-85.499759,
+    "iso:country":"US",
+    "sg:address":"14225 Academy Ridge Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 254 2469",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "tool",
+        "machine",
+        "part",
+        "tools-repairing",
+        "rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d7Y8VNS98RsOuBHVSbDra_38.237934_-85.499759@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053781,
+    "wof:geomhash":"3e357c77f39e320dde77bd87daef1513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750651
+        }
+    ],
+    "wof:id":856750651,
+    "wof:lastmodified":1464053781,
+    "wof:name":"Aguilera Construction & Framin",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "tool",
+        "machine",
+        "part",
+        "tools-repairing",
+        "rebuild"
+    ]
+},
+  "bbox": [
+    -85.499759,
+    38.237934,
+    -85.499759,
+    38.237934
+],
+  "geometry": {"coordinates":[-85.499759,38.237934],"type":"Point"}
+}

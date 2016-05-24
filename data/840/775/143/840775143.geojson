@@ -1,0 +1,75 @@
+{
+  "id": 840775143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625361,37.972299,-85.625361,37.972299",
+    "geom:latitude":37.972299,
+    "geom:longitude":-85.625361,
+    "iso:country":"US",
+    "sg:address":"1990 Deatsville Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 2241",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eTeW2CX3aqywBAvF24Esn_37.972299_-85.625361@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047669,
+    "wof:geomhash":"b540dba64d9d6468405a4058806bbf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840775143
+        }
+    ],
+    "wof:id":840775143,
+    "wof:lastmodified":1464047669,
+    "wof:name":"Pop's Water Svc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -85.625361,
+    37.972299,
+    -85.625361,
+    37.972299
+],
+  "geometry": {"coordinates":[-85.625361,37.972299],"type":"Point"}
+}

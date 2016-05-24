@@ -1,0 +1,75 @@
+{
+  "id": 840576779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.43255,37.837523,-87.43255,37.837523",
+    "geom:latitude":37.837523,
+    "geom:longitude":-87.43255,
+    "iso:country":"US",
+    "sg:address":"9100 Farley Rd",
+    "sg:city":"Spottsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 6039",
+    "sg:postcode":"42458",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B4GMAFMjEYlHUAO88NExP_37.837523_-87.432550@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043137,
+    "wof:geomhash":"9b9435b627ff48958db947bd5f11a430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840576779
+        }
+    ],
+    "wof:id":840576779,
+    "wof:lastmodified":1464043137,
+    "wof:name":"Greenriver Trucking Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.43255,
+    37.837523,
+    -87.43255,
+    37.837523
+],
+  "geometry": {"coordinates":[-87.43255000000001,37.837523],"type":"Point"}
+}

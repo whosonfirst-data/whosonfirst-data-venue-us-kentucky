@@ -1,0 +1,73 @@
+{
+  "id": 840798553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288544,37.768073,-84.288544,37.768073",
+    "geom:latitude":37.768073,
+    "geom:longitude":-84.288544,
+    "iso:country":"US",
+    "sg:address":"806 Sam Christopher Ct",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 8881",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QMCkhtbp5q6KxAhPtd78z_37.768073_-84.288544@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048171,
+    "wof:geomhash":"5056a7114d0b85deb7836d32ce914c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840798553
+        }
+    ],
+    "wof:id":840798553,
+    "wof:lastmodified":1464048171,
+    "wof:name":"Blue Star Construction",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -84.288544,
+    37.768073,
+    -84.288544,
+    37.768073
+],
+  "geometry": {"coordinates":[-84.288544,37.768073],"type":"Point"}
+}

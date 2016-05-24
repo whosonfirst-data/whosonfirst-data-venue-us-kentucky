@@ -1,0 +1,71 @@
+{
+  "id": 840902907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881582,37.723413,-85.881582,37.723413",
+    "geom:latitude":37.723413,
+    "geom:longitude":-85.881582,
+    "iso:country":"US",
+    "sg:address":"1401 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 2273",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gBsll7xK9Pqr75xUlPkm2_37.723413_-85.881582@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050556,
+    "wof:geomhash":"64707671a91161201edd0302cc3936ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840902907
+        }
+    ],
+    "wof:id":840902907,
+    "wof:lastmodified":1464050556,
+    "wof:name":"Caretenders",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -85.881582,
+    37.723413,
+    -85.881582,
+    37.723413
+],
+  "geometry": {"coordinates":[-85.88158199999999,37.723413],"type":"Point"}
+}

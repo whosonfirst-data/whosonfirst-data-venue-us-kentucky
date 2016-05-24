@@ -1,0 +1,71 @@
+{
+  "id": 840851989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.683477,37.191534,-84.683477,37.191534",
+    "geom:latitude":37.191534,
+    "geom:longitude":-84.683477,
+    "iso:country":"US",
+    "sg:address":"147 Tolley Ln",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3257",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y45JbTRixBhITqanR2CIk_37.191534_-84.683477@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049487,
+    "wof:geomhash":"44c88b321c61869d2235d3f58d801bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840851989
+        }
+    ],
+    "wof:id":840851989,
+    "wof:lastmodified":1464049487,
+    "wof:name":"Tolleys Appliance Repair",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -84.683477,
+    37.191534,
+    -84.683477,
+    37.191534
+],
+  "geometry": {"coordinates":[-84.683477,37.191534],"type":"Point"}
+}

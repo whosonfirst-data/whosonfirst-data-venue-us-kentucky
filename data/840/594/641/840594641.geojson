@@ -1,0 +1,71 @@
+{
+  "id": 840594641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690206,37.092396,-88.690206,37.092396",
+    "geom:latitude":37.092396,
+    "geom:longitude":-88.690206,
+    "iso:country":"US",
+    "sg:address":"4060 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7065",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dSSXqVW8gDtRzo1dxhj2t_37.092396_-88.690206@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043532,
+    "wof:geomhash":"e4e69fa7e206266ce396b2419687d485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840594641
+        }
+    ],
+    "wof:id":840594641,
+    "wof:lastmodified":1464043532,
+    "wof:name":"I-24 Self Storage",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.690206,
+    37.092396,
+    -88.690206,
+    37.092396
+],
+  "geometry": {"coordinates":[-88.690206,37.092396],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856741699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704628,38.2307,-85.704628,38.2307",
+    "geom:latitude":38.2307,
+    "geom:longitude":-85.704628,
+    "iso:country":"US",
+    "sg:address":"1602 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 384 5114",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "resale",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nNTpjgsvB668tmO0EQuut_38.230700_-85.704628@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053447,
+    "wof:geomhash":"e269e691ed69d37aee0cc1b9f5751444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856741699
+        }
+    ],
+    "wof:id":856741699,
+    "wof:lastmodified":1464053447,
+    "wof:name":"Cherry Bomb Inc",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resale",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.704628,
+    38.2307,
+    -85.704628,
+    38.2307
+],
+  "geometry": {"coordinates":[-85.704628,38.2307],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 856746317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.692019,38.195889,-85.692019,38.195889",
+    "geom:latitude":38.195889,
+    "geom:longitude":-85.692019,
+    "iso:country":"US",
+    "sg:address":"4451 Robards Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 8700",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "aluminum"
+    ],
+    "sg:website":"http://www.novelis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TGn45mkna1AjmpsrDNLFZ_38.195889_-85.692019@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053607,
+    "wof:geomhash":"bda1c60c44ffd6c3e0895160ee307907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856746317
+        }
+    ],
+    "wof:id":856746317,
+    "wof:lastmodified":1464053607,
+    "wof:name":"Novelis Corporation",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "aluminum"
+    ]
+},
+  "bbox": [
+    -85.692019,
+    38.195889,
+    -85.692019,
+    38.195889
+],
+  "geometry": {"coordinates":[-85.692019,38.195889],"type":"Point"}
+}

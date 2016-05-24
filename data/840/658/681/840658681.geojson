@@ -1,0 +1,82 @@
+{
+  "id": 840658681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.776199,37.641333,-84.776199,37.641333",
+    "geom:latitude":37.641333,
+    "geom:longitude":-84.776199,
+    "iso:country":"US",
+    "sg:address":"600 Russell St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 1977",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VEtaeySwBJZLQ2HDjWdin_37.641333_-84.776199@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045078,
+    "wof:geomhash":"bf0aac575f46f57922d185270c721581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840658681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840658681
+        }
+    ],
+    "wof:id":840658681,
+    "wof:lastmodified":1464045078,
+    "wof:name":"Yates Transmission Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.776199,
+    37.641333,
+    -84.776199,
+    37.641333
+],
+  "geometry": {"coordinates":[-84.77619900000001,37.641333],"type":"Point"}
+}

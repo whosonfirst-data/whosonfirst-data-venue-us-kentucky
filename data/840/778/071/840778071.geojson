@@ -1,0 +1,71 @@
+{
+  "id": 840778071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.58184,37.057139,-88.58184,37.057139",
+    "geom:latitude":37.057139,
+    "geom:longitude":-88.58184,
+    "iso:country":"US",
+    "sg:address":"2229 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 7744",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EwtpyGoYsTHDUNnP1yDBE_37.057139_-88.581840@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047720,
+    "wof:geomhash":"260b075bd510b2c80bb775e0ee527865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840778071
+        }
+    ],
+    "wof:id":840778071,
+    "wof:lastmodified":1464047720,
+    "wof:name":"Speedys Auto Repair & Recover",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -88.58184,
+    37.057139,
+    -88.58184,
+    37.057139
+],
+  "geometry": {"coordinates":[-88.58184,37.057139],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840898247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.272868,37.753817,-84.272868,37.753817",
+    "geom:latitude":37.753817,
+    "geom:longitude":-84.272868,
+    "iso:country":"US",
+    "sg:address":"108 Richmond Green Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 4006",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "retirement",
+        "hotel",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DKhScbE2Er2bvQ54IEfsD_37.753817_-84.272868@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050455,
+    "wof:geomhash":"42c9c8cf2fa2feb375a817dcfb97fecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840898247
+        }
+    ],
+    "wof:id":840898247,
+    "wof:lastmodified":1464050455,
+    "wof:name":"Richmond Green Apartments",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retirement",
+        "hotel",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.272868,
+    37.753817,
+    -84.272868,
+    37.753817
+],
+  "geometry": {"coordinates":[-84.272868,37.753817],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840565119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572956,39.009663,-84.572956,39.009663",
+    "geom:latitude":39.009663,
+    "geom:longitude":-84.572956,
+    "iso:country":"US",
+    "sg:address":"3134 Bernard Dr",
+    "sg:city":"Edgewood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 0084",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kUT3ohCiD6naayWunVdKv_39.009663_-84.572956@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042853,
+    "wof:geomhash":"d3b3196983364acfe6c10a59f8cddfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":840565119
+        }
+    ],
+    "wof:id":840565119,
+    "wof:lastmodified":1464042853,
+    "wof:name":"Roenker Engineering Inc",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -84.572956,
+    39.009663,
+    -84.572956,
+    39.009663
+],
+  "geometry": {"coordinates":[-84.572956,39.009663],"type":"Point"}
+}

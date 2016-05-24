@@ -1,0 +1,72 @@
+{
+  "id": 840762183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.945247,37.656403,-85.945247,37.656403",
+    "geom:latitude":37.656403,
+    "geom:longitude":-85.945247,
+    "iso:country":"US",
+    "sg:address":"1011 E Main St",
+    "sg:city":"Cecilia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 862 3265",
+    "sg:postcode":"42724",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.wilsonmdi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zpdqCym62VqImBFj1WWUj_37.656403_-85.945247@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047393,
+    "wof:geomhash":"9ab81a147afb41526cb6176ba4f4302d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840762183
+        }
+    ],
+    "wof:id":840762183,
+    "wof:lastmodified":1464047393,
+    "wof:name":"Wilson Manufacturing & Design",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -85.945247,
+    37.656403,
+    -85.945247,
+    37.656403
+],
+  "geometry": {"coordinates":[-85.94524699999999,37.656403],"type":"Point"}
+}

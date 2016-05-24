@@ -1,0 +1,75 @@
+{
+  "id": 840768991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.623572,38.250337,-85.623572,38.250337",
+    "geom:latitude":38.250337,
+    "geom:longitude":-85.623572,
+    "iso:country":"US",
+    "sg:address":"5029 Shelbyville Rd",
+    "sg:city":"St Matthews",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 259 9577",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KhBhUCMv3w9glK382G0wt_38.250337_-85.623572@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047550,
+    "wof:geomhash":"73bf5174caa08ed63191243c991d7e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840768991
+        }
+    ],
+    "wof:id":840768991,
+    "wof:lastmodified":1464047550,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.623572,
+    38.250337,
+    -85.623572,
+    38.250337
+],
+  "geometry": {"coordinates":[-85.623572,38.250337],"type":"Point"}
+}

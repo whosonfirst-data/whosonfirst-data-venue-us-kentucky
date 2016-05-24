@@ -1,0 +1,73 @@
+{
+  "id": 840638447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.817795,37.719638,-85.817795,37.719638",
+    "geom:latitude":37.719638,
+    "geom:longitude":-85.817795,
+    "iso:country":"US",
+    "sg:address":"2885 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 7235",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_751DNc69MBL4ymB3ItwcfO_37.719638_-85.817795@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044646,
+    "wof:geomhash":"d92e431fde12e4aa53a468f39ac0284b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840638447
+        }
+    ],
+    "wof:id":840638447,
+    "wof:lastmodified":1464044646,
+    "wof:name":"Harold Lewis Auto Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.817795,
+    37.719638,
+    -85.817795,
+    37.719638
+],
+  "geometry": {"coordinates":[-85.817795,37.719638],"type":"Point"}
+}

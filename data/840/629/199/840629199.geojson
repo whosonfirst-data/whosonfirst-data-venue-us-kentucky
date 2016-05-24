@@ -1,0 +1,71 @@
+{
+  "id": 840629199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439365,36.995396,-86.439365,36.995396",
+    "geom:latitude":36.995396,
+    "geom:longitude":-86.439365,
+    "iso:country":"US",
+    "sg:address":"723 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3825",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69np0WW4GPsD2t01fBzfwr_36.995396_-86.439365@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044418,
+    "wof:geomhash":"3f22577dc5763ca2557ec3be7508e69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840629199
+        }
+    ],
+    "wof:id":840629199,
+    "wof:lastmodified":1464044418,
+    "wof:name":"D J's Upholstery",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -86.439365,
+    36.995396,
+    -86.439365,
+    36.995396
+],
+  "geometry": {"coordinates":[-86.439365,36.995396],"type":"Point"}
+}

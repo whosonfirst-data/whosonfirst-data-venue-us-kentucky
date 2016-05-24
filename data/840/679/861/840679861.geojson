@@ -1,0 +1,73 @@
+{
+  "id": 840679861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571142,37.869195,-87.571142,37.869195",
+    "geom:latitude":37.869195,
+    "geom:longitude":-87.571142,
+    "iso:country":"US",
+    "sg:address":"2301 US Hwy 41",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 3514",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MV6t9w1lDeGI5rGAK3ZKG_37.869195_-87.571142@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045565,
+    "wof:geomhash":"0fcfbf8936a842113b9381ccf40e601f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840679861
+        }
+    ],
+    "wof:id":840679861,
+    "wof:lastmodified":1464045565,
+    "wof:name":"Quality Automotive",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -87.571142,
+    37.869195,
+    -87.571142,
+    37.869195
+],
+  "geometry": {"coordinates":[-87.57114199999999,37.869195],"type":"Point"}
+}

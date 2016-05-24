@@ -1,0 +1,73 @@
+{
+  "id": 840595245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.828504,38.98495,-84.828504,38.98495",
+    "geom:latitude":38.98495,
+    "geom:longitude":-84.828504,
+    "iso:country":"US",
+    "sg:address":"6391 Main St",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 728 2912",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NdQZM0egah0uidwnUfut3_38.984950_-84.828504@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043543,
+    "wof:geomhash":"010590b7d25bd69bb0ba5f19a31acb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840595245
+        }
+    ],
+    "wof:id":840595245,
+    "wof:lastmodified":1464043543,
+    "wof:name":"Ole Country Inn",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -84.828504,
+    38.98495,
+    -84.828504,
+    38.98495
+],
+  "geometry": {"coordinates":[-84.828504,38.98495],"type":"Point"}
+}

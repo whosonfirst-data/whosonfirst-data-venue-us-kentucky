@@ -1,0 +1,73 @@
+{
+  "id": 840546851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305807,37.567134,-84.305807,37.567134",
+    "geom:latitude":37.567134,
+    "geom:longitude":-84.305807,
+    "iso:country":"US",
+    "sg:address":"135 Mount Vernon Rd",
+    "sg:city":"Mt Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 256 4441",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wdo4IlYxGCWx1vzRGD4no_37.567134_-84.305807@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042428,
+    "wof:geomhash":"ba849c388e495d521ee16a9f4c712606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840546851
+        }
+    ],
+    "wof:id":840546851,
+    "wof:lastmodified":1464042428,
+    "wof:name":"Water Works Plant",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -84.305807,
+    37.567134,
+    -84.305807,
+    37.567134
+],
+  "geometry": {"coordinates":[-84.305807,37.567134],"type":"Point"}
+}

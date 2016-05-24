@@ -1,0 +1,71 @@
+{
+  "id": 840752893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.847059,37.726535,-85.847059,37.726535",
+    "geom:latitude":37.726535,
+    "geom:longitude":-85.847059,
+    "iso:country":"US",
+    "sg:address":"1905 N Miles St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6940",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qqPtVbyAsG5IF46U9Iz1X_37.726535_-85.847059@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047169,
+    "wof:geomhash":"d4bb539485f6369682ff0632bce4a18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840752893
+        }
+    ],
+    "wof:id":840752893,
+    "wof:lastmodified":1464047169,
+    "wof:name":"Calvary Assembly Of God",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.847059,
+    37.726535,
+    -85.847059,
+    37.726535
+],
+  "geometry": {"coordinates":[-85.847059,37.726535],"type":"Point"}
+}

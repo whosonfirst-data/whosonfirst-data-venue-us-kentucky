@@ -1,0 +1,73 @@
+{
+  "id": 840679203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.498245,38.24711,-85.498245,38.24711",
+    "geom:latitude":38.24711,
+    "geom:longitude":-85.498245,
+    "iso:country":"US",
+    "sg:address":"14005 Old Station Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 6811",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6peIq97BWqkUQr0FzDMhHV_38.247110_-85.498245@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045549,
+    "wof:geomhash":"49c2c4518745203b1c316e43bc77a5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840679203
+        }
+    ],
+    "wof:id":840679203,
+    "wof:lastmodified":1464045549,
+    "wof:name":"Chenoweth Woods Apartments",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.498245,
+    38.24711,
+    -85.498245,
+    38.24711
+],
+  "geometry": {"coordinates":[-85.498245,38.24711],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840695323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.803391,37.653849,-84.803391,37.653849",
+    "geom:latitude":37.653849,
+    "geom:longitude":-84.803391,
+    "iso:country":"US",
+    "sg:address":"1181 Ben Ali Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 6735",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dnPWH3Ua2U2F5lDleMieZ_37.653849_-84.803391@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045955,
+    "wof:geomhash":"66c5f5113d3ce49f4ecb41c50882745a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840695323
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840695323
+        }
+    ],
+    "wof:id":840695323,
+    "wof:lastmodified":1464045955,
+    "wof:name":"Annie's Loft",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -84.803391,
+    37.653849,
+    -84.803391,
+    37.653849
+],
+  "geometry": {"coordinates":[-84.803391,37.653849],"type":"Point"}
+}

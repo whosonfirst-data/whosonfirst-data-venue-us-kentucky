@@ -1,0 +1,71 @@
+{
+  "id": 840921873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433472,36.984745,-86.433472,36.984745",
+    "geom:latitude":36.984745,
+    "geom:longitude":-86.433472,
+    "iso:country":"US",
+    "sg:address":"901 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7155",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eZrpESjnjyPdhqrBeVIDu_36.984745_-86.433472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051058,
+    "wof:geomhash":"fe81b1233a2bd4064aae6ade78dea008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840921873
+        }
+    ],
+    "wof:id":840921873,
+    "wof:lastmodified":1464051058,
+    "wof:name":"Great American Donut Shop",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -86.433472,
+    36.984745,
+    -86.433472,
+    36.984745
+],
+  "geometry": {"coordinates":[-86.43347199999999,36.984745],"type":"Point"}
+}

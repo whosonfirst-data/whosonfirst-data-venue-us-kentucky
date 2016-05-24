@@ -1,0 +1,71 @@
+{
+  "id": 840596873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.598872,37.0942,-84.598872,37.0942",
+    "geom:latitude":37.0942,
+    "geom:longitude":-84.598872,
+    "iso:country":"US",
+    "sg:address":"423 E Mount Vernon St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 0695",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54xkmHf5R1tLIXbXt347On_37.094200_-84.598872@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043579,
+    "wof:geomhash":"e9af64f62a0cb4d81580222ea301b22f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840596873
+        }
+    ],
+    "wof:id":840596873,
+    "wof:lastmodified":1464043579,
+    "wof:name":"Pulaski Home Inspections LLC",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.598872,
+    37.0942,
+    -84.598872,
+    37.0942
+],
+  "geometry": {"coordinates":[-84.598872,37.0942],"type":"Point"}
+}

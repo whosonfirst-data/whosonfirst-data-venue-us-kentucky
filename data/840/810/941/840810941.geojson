@@ -1,0 +1,77 @@
+{
+  "id": 840810941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718748,38.180326,-85.718748,38.180326",
+    "geom:latitude":38.180326,
+    "geom:longitude":-85.718748,
+    "iso:country":"US",
+    "sg:address":"4612 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 2214",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rAJswtF5ZgH3WB8nzd9hO_38.180326_-85.718748@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048457,
+    "wof:geomhash":"cc8318e58798eebe296781fce96b0dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840810941
+        }
+    ],
+    "wof:id":840810941,
+    "wof:lastmodified":1464048457,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -85.718748,
+    38.180326,
+    -85.718748,
+    38.180326
+],
+  "geometry": {"coordinates":[-85.71874800000001,38.180326],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840932877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.616503,38.248371,-85.616503,38.248371",
+    "geom:latitude":38.248371,
+    "geom:longitude":-85.616503,
+    "iso:country":"US",
+    "sg:address":"100 Oxmoor Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 8048",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hFHleKgiHGwA1s0eOY8nU_38.248371_-85.616503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051304,
+    "wof:geomhash":"69fe013332443fb8f830841d4be08d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840932877
+        }
+    ],
+    "wof:id":840932877,
+    "wof:lastmodified":1464051304,
+    "wof:name":"Neil Huffman Auto Group",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.616503,
+    38.248371,
+    -85.616503,
+    38.248371
+],
+  "geometry": {"coordinates":[-85.61650299999999,38.248371],"type":"Point"}
+}

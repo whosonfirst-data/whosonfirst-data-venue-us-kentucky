@@ -1,0 +1,75 @@
+{
+  "id": 856762367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.359898,36.875448,-86.359898,36.875448",
+    "geom:latitude":36.875448,
+    "geom:longitude":-86.359898,
+    "iso:country":"US",
+    "sg:address":"105 Cottontail Cir",
+    "sg:city":"Alvaton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 4578",
+    "sg:postcode":"42122",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wSOdzxcDPLpMAW2xysIDT_36.875448_-86.359898@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054213,
+    "wof:geomhash":"ffb7e1a0e4dcbb6ed6ef462c6c2330ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856762367
+        }
+    ],
+    "wof:id":856762367,
+    "wof:lastmodified":1464054213,
+    "wof:name":"Owens Plumbing",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -86.359898,
+    36.875448,
+    -86.359898,
+    36.875448
+],
+  "geometry": {"coordinates":[-86.359898,36.875448],"type":"Point"}
+}

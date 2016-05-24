@@ -1,0 +1,80 @@
+{
+  "id": 856730917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751619,38.255886,-85.751619,38.255886",
+    "geom:latitude":38.255886,
+    "geom:longitude":-85.751619,
+    "iso:country":"US",
+    "sg:address":"110 S 1st St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 6514",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ],
+    "sg:website":"http://www.marine-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XC6jaEHFKZe07J71d85y9_38.255678_-85.751705@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053035,
+    "wof:geomhash":"2cdada6975a599cc308161631220a03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856730917
+        }
+    ],
+    "wof:id":856730917,
+    "wof:lastmodified":1464053035,
+    "wof:name":"Marine Electric Company",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.751619,
+    38.255886,
+    -85.751619,
+    38.255886
+],
+  "geometry": {"coordinates":[-85.75161900000001,38.255886],"type":"Point"}
+}

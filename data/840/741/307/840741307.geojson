@@ -1,0 +1,71 @@
+{
+  "id": 840741307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.757903,37.635134,-84.757903,37.635134",
+    "geom:latitude":37.635134,
+    "geom:longitude":-84.757903,
+    "iso:country":"US",
+    "sg:address":"104 McClure Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 8181",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5crpVELaShgNjw5ZPB93IO_37.635134_-84.757903@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046920,
+    "wof:geomhash":"85b082f0a2d2a4b29140d2a771b34451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840741307
+        }
+    ],
+    "wof:id":840741307,
+    "wof:lastmodified":1464046920,
+    "wof:name":"Village Apartments",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.757903,
+    37.635134,
+    -84.757903,
+    37.635134
+],
+  "geometry": {"coordinates":[-84.757903,37.635134],"type":"Point"}
+}

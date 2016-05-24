@@ -1,0 +1,74 @@
+{
+  "id": 840784643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.862805,37.674418,-85.862805,37.674418",
+    "geom:latitude":37.674418,
+    "geom:longitude":-85.862805,
+    "iso:country":"US",
+    "sg:address":"270 McCamish Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6151",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "sg:website":"www.irvmat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6to43YM2E0jl0PMLNkmFCq_37.674418_-85.862805@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047850,
+    "wof:geomhash":"7d0d0b699892b672ee279464e07e0415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840784643
+        }
+    ],
+    "wof:id":840784643,
+    "wof:lastmodified":1464047850,
+    "wof:name":"Irving Materials Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -85.862805,
+    37.674418,
+    -85.862805,
+    37.674418
+],
+  "geometry": {"coordinates":[-85.86280499999999,37.674418],"type":"Point"}
+}

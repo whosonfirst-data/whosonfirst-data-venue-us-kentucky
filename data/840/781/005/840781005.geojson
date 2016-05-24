@@ -1,0 +1,68 @@
+{
+  "id": 840781005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.292894,37.764593,-84.292894,37.764593",
+    "geom:latitude":37.764593,
+    "geom:longitude":-84.292894,
+    "iso:country":"US",
+    "sg:address":"1054 Raintree Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 1678",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12wOKJ51OQaV9WLwHiSjZE_37.764593_-84.292894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047783,
+    "wof:geomhash":"ac781fb01c2fce21a6dd17defd128254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840781005
+        }
+    ],
+    "wof:id":840781005,
+    "wof:lastmodified":1464047783,
+    "wof:name":"Gapco Logistics",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.292894,
+    37.764593,
+    -84.292894,
+    37.764593
+],
+  "geometry": {"coordinates":[-84.292894,37.764593],"type":"Point"}
+}

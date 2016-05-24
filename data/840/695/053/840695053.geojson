@@ -1,0 +1,71 @@
+{
+  "id": 840695053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.712991,36.60727,-83.712991,36.60727",
+    "geom:latitude":36.60727,
+    "geom:longitude":-83.712991,
+    "iso:country":"US",
+    "sg:address":"1923 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 8356",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NUoqqRJfEob9G7bF29u7p_36.607270_-83.712991@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045948,
+    "wof:geomhash":"fadf2a73752942948f8c3aff70e703b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840695053
+        }
+    ],
+    "wof:id":840695053,
+    "wof:lastmodified":1464045948,
+    "wof:name":"Chuck's Construction Inc",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.712991,
+    36.60727,
+    -83.712991,
+    36.60727
+],
+  "geometry": {"coordinates":[-83.712991,36.60727],"type":"Point"}
+}

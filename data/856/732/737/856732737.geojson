@@ -1,0 +1,76 @@
+{
+  "id": 856732737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704461,38.253405,-85.704461,38.253405",
+    "geom:latitude":38.253405,
+    "geom:longitude":-85.704461,
+    "iso:country":"US",
+    "sg:address":"2255 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/54196-bourbons-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 8838",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DvDjfZIg3oqUBJ7s0POOl_38.253405_-85.704461@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053100,
+    "wof:geomhash":"635c03157465a4ecdf721c94ca1718e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":856732737
+        }
+    ],
+    "wof:id":856732737,
+    "wof:lastmodified":1464053100,
+    "wof:name":"Bourbons Bistro",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -85.704461,
+    38.253405,
+    -85.704461,
+    38.253405
+],
+  "geometry": {"coordinates":[-85.70446099999999,38.253405],"type":"Point"}
+}

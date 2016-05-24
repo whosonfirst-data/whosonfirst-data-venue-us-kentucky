@@ -1,0 +1,71 @@
+{
+  "id": 840742451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.501247,36.933288,-86.501247,36.933288",
+    "geom:latitude":36.933288,
+    "geom:longitude":-86.501247,
+    "iso:country":"US",
+    "sg:address":"385 Southwood Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 5400",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "detergent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upCYupcoL2ggW735AWj1j_36.933288_-86.501247@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046941,
+    "wof:geomhash":"ee5d954ed7fc51674162f9dc1422ff98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840742451
+        }
+    ],
+    "wof:id":840742451,
+    "wof:lastmodified":1464046941,
+    "wof:name":"Huish Detergent",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detergent"
+    ]
+},
+  "bbox": [
+    -86.501247,
+    36.933288,
+    -86.501247,
+    36.933288
+],
+  "geometry": {"coordinates":[-86.50124700000001,36.933288],"type":"Point"}
+}

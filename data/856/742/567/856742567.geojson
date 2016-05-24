@@ -1,0 +1,99 @@
+{
+  "id": 856742567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638813,38.232265,-85.638813,38.232265",
+    "geom:latitude":38.232265,
+    "geom:longitude":-85.638813,
+    "iso:country":"US",
+    "sg:address":"992 Breckenridge Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 8606",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sale",
+        "dvds-rental",
+        "magazine",
+        "tape",
+        "video",
+        "store"
+    ],
+    "sg:website":"http://www.booksamillion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x2sJMU76CZf5rvMPGyJd6_38.232265_-85.638813@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053479,
+    "wof:geomhash":"05ac1ed3364f6b12caba972e1d2dae26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873371,
+            "region_id":85688641,
+            "venue_id":856742567
+        }
+    ],
+    "wof:id":856742567,
+    "wof:lastmodified":1464053479,
+    "wof:name":"Books-A-Million",
+    "wof:parent_id":85873371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sale",
+        "dvds-rental",
+        "magazine",
+        "tape",
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.638813,
+    38.232265,
+    -85.638813,
+    38.232265
+],
+  "geometry": {"coordinates":[-85.638813,38.232265],"type":"Point"}
+}

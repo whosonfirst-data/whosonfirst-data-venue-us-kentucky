@@ -1,0 +1,75 @@
+{
+  "id": 840779461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.335292,37.736308,-84.335292,37.736308",
+    "geom:latitude":37.736308,
+    "geom:longitude":-84.335292,
+    "iso:country":"US",
+    "sg:address":"1238 Barnes Mill Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 9171",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k9N4hbfy4akA5WYWuJskL_37.736308_-84.335292@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047755,
+    "wof:geomhash":"382c1444ee2f43868974161c7cce196d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840779461
+        }
+    ],
+    "wof:id":840779461,
+    "wof:lastmodified":1464047755,
+    "wof:name":"Richmond Gymnastics Ctr",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -84.335292,
+    37.736308,
+    -84.335292,
+    37.736308
+],
+  "geometry": {"coordinates":[-84.335292,37.736308],"type":"Point"}
+}

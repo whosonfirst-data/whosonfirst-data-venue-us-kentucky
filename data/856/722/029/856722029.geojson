@@ -1,0 +1,71 @@
+{
+  "id": 856722029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.761703,38.999549,-84.761703,38.999549",
+    "geom:latitude":38.999549,
+    "geom:longitude":-84.761703,
+    "iso:country":"US",
+    "sg:address":"3655 Possum Path Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 9307",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15W6vMArjgauuyicTWfvfE_38.999549_-84.761703@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052676,
+    "wof:geomhash":"ffbd1d514ec221b6dfc1d2d1b250d4bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856722029
+        }
+    ],
+    "wof:id":856722029,
+    "wof:lastmodified":1464052676,
+    "wof:name":"Moonlite Hunting & Fishing",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -84.761703,
+    38.999549,
+    -84.761703,
+    38.999549
+],
+  "geometry": {"coordinates":[-84.761703,38.999549],"type":"Point"}
+}

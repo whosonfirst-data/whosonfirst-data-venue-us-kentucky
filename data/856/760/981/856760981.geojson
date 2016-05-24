@@ -1,0 +1,73 @@
+{
+  "id": 856760981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.652153,37.076494,-88.652153,37.076494",
+    "geom:latitude":37.076494,
+    "geom:longitude":-88.652153,
+    "iso:country":"US",
+    "sg:address":"757 N 36th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6883",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12OdzLx94xcSxSxSpxscKy_37.076494_-88.652153@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054159,
+    "wof:geomhash":"f2093ebcacd6b3b87801377193e2ec67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856760981
+        }
+    ],
+    "wof:id":856760981,
+    "wof:lastmodified":1464054159,
+    "wof:name":"Primary Service Coordinator",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -88.652153,
+    37.076494,
+    -88.652153,
+    37.076494
+],
+  "geometry": {"coordinates":[-88.652153,37.076494],"type":"Point"}
+}

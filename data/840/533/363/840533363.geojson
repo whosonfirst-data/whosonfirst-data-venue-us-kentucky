@@ -1,0 +1,80 @@
+{
+  "id": 840533363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709619,37.928526,-85.709619,37.928526",
+    "geom:latitude":37.928526,
+    "geom:longitude":-85.709619,
+    "iso:country":"US",
+    "sg:address":"5313 Beech Grove Rd",
+    "sg:city":"Lebanon Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 9709",
+    "sg:postcode":"40150",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "conservation",
+        "erosion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vKYc2peVntX0XxdD3eaXH_37.928526_-85.709619@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042055,
+    "wof:geomhash":"6c979bb8e7d20cfc4f08593e968f6462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840533363
+        }
+    ],
+    "wof:id":840533363,
+    "wof:lastmodified":1464042055,
+    "wof:name":"Bluegrass Erosion Control Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "conservation",
+        "erosion"
+    ]
+},
+  "bbox": [
+    -85.709619,
+    37.928526,
+    -85.709619,
+    37.928526
+],
+  "geometry": {"coordinates":[-85.709619,37.928526],"type":"Point"}
+}

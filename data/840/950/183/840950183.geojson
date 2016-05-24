@@ -1,0 +1,73 @@
+{
+  "id": 840950183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.555436,37.344625,-84.555436,37.344625",
+    "geom:latitude":37.344625,
+    "geom:longitude":-84.555436,
+    "iso:country":"US",
+    "sg:address":"1135 Jim Weaver Rd",
+    "sg:city":"Crab Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 379 2951",
+    "sg:postcode":"40419",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53DpDv5rIOZ17EBU8Tj4YW_37.344625_-84.555436@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051653,
+    "wof:geomhash":"78df2af130cfd52fc95b379194341a82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840950183
+        }
+    ],
+    "wof:id":840950183,
+    "wof:lastmodified":1464051653,
+    "wof:name":"Middleton Auto Sales",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.555436,
+    37.344625,
+    -84.555436,
+    37.344625
+],
+  "geometry": {"coordinates":[-84.555436,37.344625],"type":"Point"}
+}

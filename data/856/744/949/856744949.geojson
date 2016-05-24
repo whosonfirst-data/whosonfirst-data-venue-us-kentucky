@@ -1,0 +1,105 @@
+{
+  "id": 856744949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754806,38.126172,-85.754806,38.126172",
+    "geom:latitude":38.126172,
+    "geom:longitude":-85.754806,
+    "iso:country":"US",
+    "sg:address":"617 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 2321",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management",
+        "grading",
+        "consultant",
+        "contractor",
+        "government-county",
+        "parish",
+        "legislator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lTizZ89ISeRYexTcOnytN_38.126172_-85.754806@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053562,
+    "wof:geomhash":"4cf0da03ed26a5765bd0f29a4a584639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744949
+        }
+    ],
+    "wof:id":856744949,
+    "wof:lastmodified":1464053562,
+    "wof:name":"Louisville Metro Public Works",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "grading",
+        "consultant",
+        "contractor",
+        "government-county",
+        "parish",
+        "legislator"
+    ]
+},
+  "bbox": [
+    -85.754806,
+    38.126172,
+    -85.754806,
+    38.126172
+],
+  "geometry": {"coordinates":[-85.754806,38.126172],"type":"Point"}
+}

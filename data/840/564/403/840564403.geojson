@@ -1,0 +1,67 @@
+{
+  "id": 840564403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839631,37.718114,-85.839631,37.718114",
+    "geom:latitude":37.718114,
+    "geom:longitude":-85.839631,
+    "iso:country":"US",
+    "sg:address":"2908 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 6600",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"www.scbetown.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XflRdKTt2qU1uDDMfWB5e_37.718114_-85.839631@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042832,
+    "wof:geomhash":"c4232a14470eea51e3e0c29ee2e7d4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840564403
+        }
+    ],
+    "wof:id":840564403,
+    "wof:lastmodified":1464042832,
+    "wof:name":"South Central Bank",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.839631,
+    37.718114,
+    -85.839631,
+    37.718114
+],
+  "geometry": {"coordinates":[-85.839631,37.718114],"type":"Point"}
+}

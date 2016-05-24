@@ -1,0 +1,73 @@
+{
+  "id": 840572237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.845717,37.704957,-85.845717,37.704957",
+    "geom:latitude":37.704957,
+    "geom:longitude":-85.845717,
+    "iso:country":"US",
+    "sg:address":"911 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 1706",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XOJld1GpDLtlIwOh0CfDe_37.704957_-85.845717@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043041,
+    "wof:geomhash":"c2af79d831d50b531d0bfd1292dc8824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840572237
+        }
+    ],
+    "wof:id":840572237,
+    "wof:lastmodified":1464043041,
+    "wof:name":"Lincoln Trail Home Builders",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.845717,
+    37.704957,
+    -85.845717,
+    37.704957
+],
+  "geometry": {"coordinates":[-85.84571699999999,37.704957],"type":"Point"}
+}

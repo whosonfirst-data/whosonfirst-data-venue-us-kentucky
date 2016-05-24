@@ -1,0 +1,74 @@
+{
+  "id": 856734141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566327,37.893788,-84.566327,37.893788",
+    "geom:latitude":37.893788,
+    "geom:longitude":-84.566327,
+    "iso:country":"US",
+    "sg:address":"112 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/90106-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9990",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J4vrNk6Rryf07e30GG9ST_37.893788_-84.566327@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053150,
+    "wof:geomhash":"543c03afc56059d6824f10f917a6e320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734141
+        }
+    ],
+    "wof:id":856734141,
+    "wof:lastmodified":1464053150,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.566327,
+    37.893788,
+    -84.566327,
+    37.893788
+],
+  "geometry": {"coordinates":[-84.566327,37.893788],"type":"Point"}
+}

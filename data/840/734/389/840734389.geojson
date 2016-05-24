@@ -1,0 +1,75 @@
+{
+  "id": 840734389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.686624,38.176356,-85.686624,38.176356",
+    "geom:latitude":38.176356,
+    "geom:longitude":-85.686624,
+    "iso:country":"US",
+    "sg:address":"4009 Contractors Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 8074",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DuSaZBqMh6xLmfoEvYBg7_38.176356_-85.686624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046790,
+    "wof:geomhash":"d1ea54aeb9e07e01ecafc81b1c310d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840734389
+        }
+    ],
+    "wof:id":840734389,
+    "wof:lastmodified":1464046790,
+    "wof:name":"Drexler's Auto Svc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.686624,
+    38.176356,
+    -85.686624,
+    38.176356
+],
+  "geometry": {"coordinates":[-85.68662399999999,38.176356],"type":"Point"}
+}

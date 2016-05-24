@@ -1,0 +1,73 @@
+{
+  "id": 840818233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517057,38.009572,-84.517057,38.009572",
+    "geom:latitude":38.009572,
+    "geom:longitude":-84.517057,
+    "iso:country":"US",
+    "sg:address":"2160 Nicholasville Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 4713",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FTsCe5GLeLISAuAGZHAhg_38.009572_-84.517057@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048703,
+    "wof:geomhash":"937476fc4cd6c0059e923fab274a9b5a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840818233
+        }
+    ],
+    "wof:id":840818233,
+    "wof:lastmodified":1464048703,
+    "wof:name":"Zandale Terrace Apartments",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.517057,
+    38.009572,
+    -84.517057,
+    38.009572
+],
+  "geometry": {"coordinates":[-84.51705699999999,38.009572],"type":"Point"}
+}

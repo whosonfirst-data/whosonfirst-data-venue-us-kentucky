@@ -1,0 +1,79 @@
+{
+  "id": 840644317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.53577,38.173016,-84.53577,38.173016",
+    "geom:latitude":38.173016,
+    "geom:longitude":-84.53577,
+    "iso:country":"US",
+    "sg:address":"599 Lisle Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 570 9200",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "horse",
+        "local",
+        "transporting",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDF05kiBAUSk64kMpVxTn_38.173016_-84.535770@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044770,
+    "wof:geomhash":"c6be833fd03bd678d50fc2670fdbd393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840644317
+        }
+    ],
+    "wof:id":840644317,
+    "wof:lastmodified":1464044770,
+    "wof:name":"Morrissey's Horse Pullmans",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "horse",
+        "local",
+        "transporting",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.53577,
+    38.173016,
+    -84.53577,
+    38.173016
+],
+  "geometry": {"coordinates":[-84.53577,38.173016],"type":"Point"}
+}

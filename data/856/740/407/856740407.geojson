@@ -1,0 +1,73 @@
+{
+  "id": 856740407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.777244,38.257485,-85.777244,38.257485",
+    "geom:latitude":38.257485,
+    "geom:longitude":-85.777244,
+    "iso:country":"US",
+    "sg:address":"1636 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 4428",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FvvXcU8c5Qbl6oT4K7XN1_38.257485_-85.777244@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053403,
+    "wof:geomhash":"dafa837700dcfacbe0cea881daa509ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856740407
+        }
+    ],
+    "wof:id":856740407,
+    "wof:lastmodified":1464053403,
+    "wof:name":"Willman Plumbing",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -85.777244,
+    38.257485,
+    -85.777244,
+    38.257485
+],
+  "geometry": {"coordinates":[-85.777244,38.257485],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840753363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.437394,36.993442,-86.437394,36.993442",
+    "geom:latitude":36.993442,
+    "geom:longitude":-86.437394,
+    "iso:country":"US",
+    "sg:address":"725 Chestnut St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8100",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "psychologist",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78cdpqRfiFsuztkyodI0bi_36.993442_-86.437394@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047180,
+    "wof:geomhash":"f9e58c99f1fe53a2c6d5627f418b5cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840753363
+        }
+    ],
+    "wof:id":840753363,
+    "wof:lastmodified":1464047180,
+    "wof:name":"Holly A Wortman Psyd",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.437394,
+    36.993442,
+    -86.437394,
+    36.993442
+],
+  "geometry": {"coordinates":[-86.437394,36.993442],"type":"Point"}
+}

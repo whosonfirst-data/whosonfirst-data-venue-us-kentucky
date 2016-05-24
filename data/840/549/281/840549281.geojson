@@ -1,0 +1,73 @@
+{
+  "id": 840549281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.645304,37.072821,-88.645304,37.072821",
+    "geom:latitude":37.072821,
+    "geom:longitude":-88.645304,
+    "iso:country":"US",
+    "sg:address":"443 W Jefferson St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7561",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fAPhpeKVlqp8lNAGc4tvU_37.072821_-88.645304@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042493,
+    "wof:geomhash":"abad0fbc20a7b001351394cf0742dc7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840549281
+        }
+    ],
+    "wof:id":840549281,
+    "wof:lastmodified":1464042493,
+    "wof:name":"Smith & Assoc Court Reporters",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -88.645304,
+    37.072821,
+    -88.645304,
+    37.072821
+],
+  "geometry": {"coordinates":[-88.645304,37.072821],"type":"Point"}
+}

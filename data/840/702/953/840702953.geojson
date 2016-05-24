@@ -1,0 +1,71 @@
+{
+  "id": 840702953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.400266,36.938119,-86.400266,36.938119",
+    "geom:latitude":36.938119,
+    "geom:longitude":-86.400266,
+    "iso:country":"US",
+    "sg:address":"168 Bent Creek Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3394",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52fAbbbvdYF2jVG42LSwox_36.938119_-86.400266@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046163,
+    "wof:geomhash":"f310d355887374cc1daeff583c16e236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840702953
+        }
+    ],
+    "wof:id":840702953,
+    "wof:lastmodified":1464046163,
+    "wof:name":"Afst L L C",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -86.400266,
+    36.938119,
+    -86.400266,
+    36.938119
+],
+  "geometry": {"coordinates":[-86.400266,36.938119],"type":"Point"}
+}

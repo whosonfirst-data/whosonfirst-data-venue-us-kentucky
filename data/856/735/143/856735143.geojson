@@ -1,0 +1,73 @@
+{
+  "id": 856735143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.7027,36.764018,-83.7027,36.764018",
+    "geom:latitude":36.764018,
+    "geom:longitude":-83.7027,
+    "iso:country":"US",
+    "sg:address":"630 W Kentucky Ave",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pineville/186950-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s7PuGYtcol52I5IPluuDD_36.764018_-83.702700@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053189,
+    "wof:geomhash":"09b803c5eed92dbe4b1ce66bea0c63de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856735143
+        }
+    ],
+    "wof:id":856735143,
+    "wof:lastmodified":1464053189,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.7027,
+    36.764018,
+    -83.7027,
+    36.764018
+],
+  "geometry": {"coordinates":[-83.70269999999999,36.764018],"type":"Point"}
+}

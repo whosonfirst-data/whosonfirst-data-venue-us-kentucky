@@ -1,0 +1,77 @@
+{
+  "id": 856706259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844179,37.676567,-85.844179,37.676567",
+    "geom:latitude":37.676567,
+    "geom:longitude":-85.844179,
+    "iso:country":"US",
+    "sg:address":"1003 Hawkins Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2256",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bN3S11gwTaHeyaOu2TAYB_37.676567_-85.844179@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052191,
+    "wof:geomhash":"ddd42009d46836e3d870345efc23d47b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856706259
+        }
+    ],
+    "wof:id":856706259,
+    "wof:lastmodified":1464052191,
+    "wof:name":"Hub City Casting Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.844179,
+    37.676567,
+    -85.844179,
+    37.676567
+],
+  "geometry": {"coordinates":[-85.844179,37.676567],"type":"Point"}
+}

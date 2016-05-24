@@ -1,0 +1,72 @@
+{
+  "id": 856761429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.663483,37.04731,-88.663483,37.04731",
+    "geom:latitude":37.04731,
+    "geom:longitude":-88.663483,
+    "iso:country":"US",
+    "sg:address":"301 Iroquois Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 5760",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.foxharborapartments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOmdFPFzfqKDyKTAsLMlI_37.047310_-88.663483@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054176,
+    "wof:geomhash":"71d5e3d3f05513b7c69315c248a03993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761429
+        }
+    ],
+    "wof:id":856761429,
+    "wof:lastmodified":1464054176,
+    "wof:name":"Fox Harbor Apartments",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.663483,
+    37.04731,
+    -88.663483,
+    37.04731
+],
+  "geometry": {"coordinates":[-88.663483,37.04731],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840804433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582189,37.887332,-84.582189,37.887332",
+    "geom:latitude":37.887332,
+    "geom:longitude":-84.582189,
+    "iso:country":"US",
+    "sg:address":"220 Stephens Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 6011",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "wire",
+        "fabricated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ip0vAbQmf4h2TJIhweZfz_37.887332_-84.582189@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048289,
+    "wof:geomhash":"b849974c15651b8d097e3b8bd6f76b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840804433
+        }
+    ],
+    "wof:id":840804433,
+    "wof:lastmodified":1464048289,
+    "wof:name":"Adcom Wire Co",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wire",
+        "fabricated"
+    ]
+},
+  "bbox": [
+    -84.582189,
+    37.887332,
+    -84.582189,
+    37.887332
+],
+  "geometry": {"coordinates":[-84.582189,37.887332],"type":"Point"}
+}

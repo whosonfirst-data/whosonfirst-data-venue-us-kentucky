@@ -1,0 +1,71 @@
+{
+  "id": 840843929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580772,37.860879,-84.580772,37.860879",
+    "geom:latitude":37.860879,
+    "geom:longitude":-84.580772,
+    "iso:country":"US",
+    "sg:address":"1340 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 1484",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pFeZL6yMprYg3Eily3gGB_37.860879_-84.580772@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049310,
+    "wof:geomhash":"254198fc202998642690380514511db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840843929
+        }
+    ],
+    "wof:id":840843929,
+    "wof:lastmodified":1464049310,
+    "wof:name":"H & R Dry Wall",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.580772,
+    37.860879,
+    -84.580772,
+    37.860879
+],
+  "geometry": {"coordinates":[-84.580772,37.860879],"type":"Point"}
+}

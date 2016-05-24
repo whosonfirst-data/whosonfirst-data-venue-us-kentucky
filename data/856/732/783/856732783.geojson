@@ -1,0 +1,76 @@
+{
+  "id": 856732783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.697894,38.278511,-85.697894,38.278511",
+    "geom:latitude":38.278511,
+    "geom:longitude":-85.697894,
+    "iso:country":"US",
+    "sg:address":"3021 River Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-northeast/4346-king-fish-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 0544",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85803401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z18qib54nqxj5SQ2weQ5R_38.278511_-85.697894@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053102,
+    "wof:geomhash":"4644afc1c7f471dc959b2d4b801022e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85803401,
+            "region_id":85688641,
+            "venue_id":856732783
+        }
+    ],
+    "wof:id":856732783,
+    "wof:lastmodified":1464053102,
+    "wof:name":"King Fish Restaurant",
+    "wof:parent_id":85803401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.697894,
+    38.278511,
+    -85.697894,
+    38.278511
+],
+  "geometry": {"coordinates":[-85.69789400000001,38.278511],"type":"Point"}
+}

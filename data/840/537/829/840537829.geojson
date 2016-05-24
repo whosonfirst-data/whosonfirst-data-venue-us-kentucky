@@ -1,0 +1,73 @@
+{
+  "id": 840537829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.352028,37.869507,-84.352028,37.869507",
+    "geom:latitude":37.869507,
+    "geom:longitude":-84.352028,
+    "iso:country":"US",
+    "sg:address":"780 N Ridge Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 9122",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JBVrplfv7MnS9PRz8z6zS_37.869507_-84.352028@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042155,
+    "wof:geomhash":"e8db6736900c7366ae628fc11ef7500e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840537829
+        }
+    ],
+    "wof:id":840537829,
+    "wof:lastmodified":1464042155,
+    "wof:name":"Rock Corp",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.352028,
+    37.869507,
+    -84.352028,
+    37.869507
+],
+  "geometry": {"coordinates":[-84.352028,37.869507],"type":"Point"}
+}

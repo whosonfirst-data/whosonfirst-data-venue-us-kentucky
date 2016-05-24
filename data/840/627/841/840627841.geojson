@@ -1,0 +1,73 @@
+{
+  "id": 840627841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.720099,36.611391,-83.720099,36.611391",
+    "geom:latitude":36.611391,
+    "geom:longitude":-83.720099,
+    "iso:country":"US",
+    "sg:address":"424 Englewood Rd",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6014",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gSVNtXotVTVBbatzMfkOu_36.611391_-83.720099@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044375,
+    "wof:geomhash":"f05bc695e4d27999ea4f187ac3ebb32b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840627841
+        }
+    ],
+    "wof:id":840627841,
+    "wof:lastmodified":1464044375,
+    "wof:name":"R R Evans Foundation Inc",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -83.720099,
+    36.611391,
+    -83.720099,
+    36.611391
+],
+  "geometry": {"coordinates":[-83.720099,36.611391],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840776515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492678,38.091602,-84.492678,38.091602",
+    "geom:latitude":38.091602,
+    "geom:longitude":-84.492678,
+    "iso:country":"US",
+    "sg:address":"1525 Bull Lea Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 8500",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.strand.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32HBSyA79bQbSjUGpRQRiQ_38.091602_-84.492678@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047694,
+    "wof:geomhash":"81de56b913ce009b9563dda6c1b756dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873019,
+            "region_id":85688641,
+            "venue_id":840776515
+        }
+    ],
+    "wof:id":840776515,
+    "wof:lastmodified":1464047694,
+    "wof:name":"Strand Associates",
+    "wof:parent_id":85873019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -84.492678,
+    38.091602,
+    -84.492678,
+    38.091602
+],
+  "geometry": {"coordinates":[-84.492678,38.091602],"type":"Point"}
+}

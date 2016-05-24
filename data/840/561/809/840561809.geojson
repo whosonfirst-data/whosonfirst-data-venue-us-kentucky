@@ -1,0 +1,68 @@
+{
+  "id": 840561809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659692,38.154295,-85.659692,38.154295",
+    "geom:latitude":38.154295,
+    "geom:longitude":-85.659692,
+    "iso:country":"US",
+    "sg:address":"6501 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 3505",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dkREx2H5qvuvJa2IgSPL7_38.154295_-85.659692@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042775,
+    "wof:geomhash":"92453fdde708ea998475407891a5f58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840561809
+        }
+    ],
+    "wof:id":840561809,
+    "wof:lastmodified":1464042775,
+    "wof:name":"Wash & Tan Coin Laundry",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.659692,
+    38.154295,
+    -85.659692,
+    38.154295
+],
+  "geometry": {"coordinates":[-85.65969200000001,38.154295],"type":"Point"}
+}

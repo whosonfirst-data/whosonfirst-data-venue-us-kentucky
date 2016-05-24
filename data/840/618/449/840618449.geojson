@@ -1,0 +1,73 @@
+{
+  "id": 840618449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443887,36.990427,-86.443887,36.990427",
+    "geom:latitude":36.990427,
+    "geom:longitude":-86.443887,
+    "iso:country":"US",
+    "sg:address":"1150 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 487 5891",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JSIjU9T3OQ02J1BtaQO1v_36.990427_-86.443887@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044130,
+    "wof:geomhash":"d3f94cf2ad3a710b3f4a53721b180c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840618449
+        }
+    ],
+    "wof:id":840618449,
+    "wof:lastmodified":1464044130,
+    "wof:name":"Froedge Machine & Supl",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.443887,
+    36.990427,
+    -86.443887,
+    36.990427
+],
+  "geometry": {"coordinates":[-86.443887,36.990427],"type":"Point"}
+}

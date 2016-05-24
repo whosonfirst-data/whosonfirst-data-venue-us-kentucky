@@ -1,0 +1,95 @@
+{
+  "id": 856744267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.794952,38.272861,-85.794952,38.272861",
+    "geom:latitude":38.272861,
+    "geom:longitude":-85.794952,
+    "iso:country":"US",
+    "sg:address":"2901 Portland Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 4972",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "yard",
+        "mowers-sharpening",
+        "tools-renting",
+        "saw",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85842879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oWKRnymdJrbAzn9Wcylgr_38.272861_-85.794952@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053538,
+    "wof:geomhash":"17561ecceb9deee17ca9ef894c3cf920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85842879,
+            "region_id":85688641,
+            "venue_id":856744267
+        }
+    ],
+    "wof:id":856744267,
+    "wof:lastmodified":1464053538,
+    "wof:name":"Ol' Kentucky Rentals",
+    "wof:parent_id":85842879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "yard",
+        "mowers-sharpening",
+        "tools-renting",
+        "saw",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.794952,
+    38.272861,
+    -85.794952,
+    38.272861
+],
+  "geometry": {"coordinates":[-85.79495199999999,38.272861],"type":"Point"}
+}

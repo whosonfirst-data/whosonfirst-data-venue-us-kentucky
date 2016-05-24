@@ -1,0 +1,76 @@
+{
+  "id": 856732789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.644808,38.26142,-85.644808,38.26142",
+    "geom:latitude":38.26142,
+    "geom:longitude":-85.644808,
+    "iso:country":"US",
+    "sg:address":"392 Westport Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-northeast/209537-carolina-shrimp/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 8947",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20tcwXMvIZxy936MqRTOIz_38.261420_-85.644808@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053102,
+    "wof:geomhash":"29db4f6b27d5f27b10de4e1208835ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732789
+        }
+    ],
+    "wof:id":856732789,
+    "wof:lastmodified":1464053102,
+    "wof:name":"Carolina Shrimp",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.644808,
+    38.26142,
+    -85.644808,
+    38.26142
+],
+  "geometry": {"coordinates":[-85.644808,38.26142],"type":"Point"}
+}

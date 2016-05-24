@@ -1,0 +1,75 @@
+{
+  "id": 840760165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.696563,37.008443,-88.696563,37.008443",
+    "geom:latitude":37.008443,
+    "geom:longitude":-88.696563,
+    "iso:country":"US",
+    "sg:address":"1645 Shallow Creek Cir",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 2426",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UxsyqPbJvGV7k9pvJ7n2D_37.008443_-88.696563@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047346,
+    "wof:geomhash":"594a2818fb3e1197449e3762994d5a94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840760165
+        }
+    ],
+    "wof:id":840760165,
+    "wof:lastmodified":1464047346,
+    "wof:name":"Bluegrass Lawn Care",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -88.696563,
+    37.008443,
+    -88.696563,
+    37.008443
+],
+  "geometry": {"coordinates":[-88.696563,37.008443],"type":"Point"}
+}

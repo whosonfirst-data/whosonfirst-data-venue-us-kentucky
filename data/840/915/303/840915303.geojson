@@ -1,0 +1,73 @@
+{
+  "id": 840915303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.428319,38.182441,-83.428319,38.182441",
+    "geom:latitude":38.182441,
+    "geom:longitude":-83.428319,
+    "iso:country":"US",
+    "sg:address":"170 Triplett St",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 784 4503",
+    "sg:postcode":"40351",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946999,
+        102084549,
+        85807011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_185c7eXbcEUp8QVmUm0hKj_38.182441_-83.428319@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050877,
+    "wof:geomhash":"301272dd20ff58ba063c075a0f2429c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084549,
+            "locality_id":85946999,
+            "neighbourhood_id":85807011,
+            "region_id":85688641,
+            "venue_id":840915303
+        }
+    ],
+    "wof:id":840915303,
+    "wof:lastmodified":1464050877,
+    "wof:name":"Morehead City Garage",
+    "wof:parent_id":85807011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -83.428319,
+    38.182441,
+    -83.428319,
+    38.182441
+],
+  "geometry": {"coordinates":[-83.428319,38.182441],"type":"Point"}
+}

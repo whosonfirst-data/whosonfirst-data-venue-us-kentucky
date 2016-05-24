@@ -1,0 +1,80 @@
+{
+  "id": 856759895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.449203,39.054901,-84.449203,39.054901",
+    "geom:latitude":39.054901,
+    "geom:longitude":-84.449203,
+    "iso:country":"US",
+    "sg:address":"1513 Alexandria Pike",
+    "sg:city":"Fort Thomas",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 781 8863",
+    "sg:postcode":"41075",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808861,
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tw0U35j64cO3RcwCP8pvG_39.054901_-84.449203@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054118,
+    "wof:geomhash":"3285574a77db005da86c761d89e93825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85808861,
+            "region_id":85688485,
+            "venue_id":856759895
+        }
+    ],
+    "wof:id":856759895,
+    "wof:lastmodified":1464054118,
+    "wof:name":"Master Tech Auto Care",
+    "wof:parent_id":85808861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.449203,
+    39.054901,
+    -84.449203,
+    39.054901
+],
+  "geometry": {"coordinates":[-84.449203,39.054901],"type":"Point"}
+}

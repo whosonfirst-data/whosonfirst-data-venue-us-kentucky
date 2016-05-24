@@ -1,0 +1,72 @@
+{
+  "id": 856734217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.716992,38.051272,-84.716992,38.051272",
+    "geom:latitude":38.051272,
+    "geom:longitude":-84.716992,
+    "iso:country":"US",
+    "sg:address":"458 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/versailles/120744-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 1040",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gIHIySef8ZZqgh46OVofe_38.051272_-84.716992@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053153,
+    "wof:geomhash":"dca99e5f6d1062bfeda0070aae04fd99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856734217
+        }
+    ],
+    "wof:id":856734217,
+    "wof:lastmodified":1464053153,
+    "wof:name":"Subway",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.716992,
+    38.051272,
+    -84.716992,
+    38.051272
+],
+  "geometry": {"coordinates":[-84.716992,38.051272],"type":"Point"}
+}

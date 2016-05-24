@@ -1,0 +1,71 @@
+{
+  "id": 840955029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209588,37.044435,-86.209588,37.044435",
+    "geom:latitude":37.044435,
+    "geom:longitude":-86.209588,
+    "iso:country":"US",
+    "sg:address":"612 S Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 2272",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fJUC8NYEEPS3I8eYMFOuR_37.044435_-86.209588@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051745,
+    "wof:geomhash":"f437823c195a1bf2bc57181330989564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840955029
+        }
+    ],
+    "wof:id":840955029,
+    "wof:lastmodified":1464051745,
+    "wof:name":"Smiths Grove Antiques",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -86.209588,
+    37.044435,
+    -86.209588,
+    37.044435
+],
+  "geometry": {"coordinates":[-86.209588,37.044435],"type":"Point"}
+}

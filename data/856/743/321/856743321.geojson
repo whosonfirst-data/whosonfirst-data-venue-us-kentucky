@@ -1,0 +1,85 @@
+{
+  "id": 856743321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.758182,38.218947,-85.758182,38.218947",
+    "geom:latitude":38.218947,
+    "geom:longitude":-85.758182,
+    "iso:country":"US",
+    "sg:address":"108 W Brandeis Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 852 6664",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eygrcIUzkXKV5856e2eRz_38.218947_-85.758182@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053506,
+    "wof:geomhash":"a8b792f9af93cff51b512da8d7dc79d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856743321
+        }
+    ],
+    "wof:id":856743321,
+    "wof:lastmodified":1464053506,
+    "wof:name":"Gheens Science Hall & Rauch",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -85.758182,
+    38.218947,
+    -85.758182,
+    38.218947
+],
+  "geometry": {"coordinates":[-85.75818200000001,38.218947],"type":"Point"}
+}

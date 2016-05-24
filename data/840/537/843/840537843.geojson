@@ -1,0 +1,71 @@
+{
+  "id": 840537843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.764719,37.642777,-84.764719,37.642777",
+    "geom:latitude":37.642777,
+    "geom:longitude":-84.764719,
+    "iso:country":"US",
+    "sg:address":"170 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 1240",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p2Dx94u2IOzFYDkbvmxIc_37.642777_-84.764719@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042155,
+    "wof:geomhash":"ac388dc58e5b08a18748a228b81fa666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840537843
+        }
+    ],
+    "wof:id":840537843,
+    "wof:lastmodified":1464042155,
+    "wof:name":"Danville Wastewater Sewer Plnt",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.764719,
+    37.642777,
+    -84.764719,
+    37.642777
+],
+  "geometry": {"coordinates":[-84.764719,37.642777],"type":"Point"}
+}

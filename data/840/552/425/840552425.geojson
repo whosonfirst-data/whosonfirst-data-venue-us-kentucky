@@ -1,0 +1,75 @@
+{
+  "id": 840552425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.844668,37.732308,-85.844668,37.732308",
+    "geom:latitude":37.732308,
+    "geom:longitude":-85.844668,
+    "iso:country":"US",
+    "sg:address":"2408 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0200",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PYbAdqjUN6ZeBAunoUwqG_37.732308_-85.844668@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042565,
+    "wof:geomhash":"a6d2dec6c63a80dabea8e7c2f9f4ba95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840552425
+        }
+    ],
+    "wof:id":840552425,
+    "wof:lastmodified":1464042565,
+    "wof:name":"Auto Glass Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -85.844668,
+    37.732308,
+    -85.844668,
+    37.732308
+],
+  "geometry": {"coordinates":[-85.844668,37.732308],"type":"Point"}
+}

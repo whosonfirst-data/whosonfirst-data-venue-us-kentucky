@@ -1,0 +1,75 @@
+{
+  "id": 840595097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.366959,38.400291,-85.366959,38.400291",
+    "geom:latitude":38.400291,
+    "geom:longitude":-85.366959,
+    "iso:country":"US",
+    "sg:address":"1710 Grange Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 0093",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instrument",
+        "scientific",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iT8xOZVL7k7tRXqHIw2ML_38.400291_-85.366959@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043541,
+    "wof:geomhash":"a694833e7e36cd1de23891c3b9cbe20f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840595097
+        }
+    ],
+    "wof:id":840595097,
+    "wof:lastmodified":1464043541,
+    "wof:name":"Rheotek",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "scientific",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -85.366959,
+    38.400291,
+    -85.366959,
+    38.400291
+],
+  "geometry": {"coordinates":[-85.36695899999999,38.400291],"type":"Point"}
+}

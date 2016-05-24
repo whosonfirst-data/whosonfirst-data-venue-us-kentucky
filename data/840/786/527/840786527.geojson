@@ -1,0 +1,71 @@
+{
+  "id": 840786527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627797,37.018429,-84.627797,37.018429",
+    "geom:latitude":37.018429,
+    "geom:longitude":-84.627797,
+    "iso:country":"US",
+    "sg:address":"5895 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 7107",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TsRtlK1GKEE1hiEbNAJrf_37.018429_-84.627797@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047911,
+    "wof:geomhash":"627d1fb647b7f046a6243120443bd3d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840786527
+        }
+    ],
+    "wof:id":840786527,
+    "wof:lastmodified":1464047911,
+    "wof:name":"Car-Toon Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.627797,
+    37.018429,
+    -84.627797,
+    37.018429
+],
+  "geometry": {"coordinates":[-84.627797,37.018429],"type":"Point"}
+}

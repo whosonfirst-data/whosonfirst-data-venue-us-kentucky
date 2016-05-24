@@ -1,0 +1,73 @@
+{
+  "id": 856741001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.736157,38.237295,-85.736157,38.237295",
+    "geom:latitude":38.237295,
+    "geom:longitude":-85.736157,
+    "iso:country":"US",
+    "sg:address":"1018 Highland Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 8041",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tile-contractors"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HmFpw9ixy6WEga7RGYa6k_38.237295_-85.736157@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053424,
+    "wof:geomhash":"39d00d217ae91b9e1fa49175b19e1635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":856741001
+        }
+    ],
+    "wof:id":856741001,
+    "wof:lastmodified":1464053424,
+    "wof:name":"All About Tile",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile-contractors"
+    ]
+},
+  "bbox": [
+    -85.736157,
+    38.237295,
+    -85.736157,
+    38.237295
+],
+  "geometry": {"coordinates":[-85.73615700000001,38.237295],"type":"Point"}
+}

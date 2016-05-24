@@ -1,0 +1,74 @@
+{
+  "id": 856732511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757108,38.253375,-85.757108,38.253375",
+    "geom:latitude":38.253375,
+    "geom:longitude":-85.757108,
+    "iso:country":"US",
+    "sg:address":"427 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/36110-lucky-strike-lanes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 560 1400",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M2ZeSLnyeqT8CZNAvT0np_38.253375_-85.757108@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053092,
+    "wof:geomhash":"c876ee416a4777db729c847cae97e1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732511
+        }
+    ],
+    "wof:id":856732511,
+    "wof:lastmodified":1464053092,
+    "wof:name":"Lucky Strike Lanes",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.757108,
+    38.253375,
+    -85.757108,
+    38.253375
+],
+  "geometry": {"coordinates":[-85.757108,38.253375],"type":"Point"}
+}

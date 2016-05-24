@@ -1,0 +1,71 @@
+{
+  "id": 840738185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.606159,37.088895,-84.606159,37.088895",
+    "geom:latitude":37.088895,
+    "geom:longitude":-84.606159,
+    "iso:country":"US",
+    "sg:address":"120 Cundiff Sq",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 7304",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BZcOSwcDNFCdpD4mocfbD_37.088895_-84.606159@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046859,
+    "wof:geomhash":"2993cfcd370b0518505a0307fb1e2aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840738185
+        }
+    ],
+    "wof:id":840738185,
+    "wof:lastmodified":1464046859,
+    "wof:name":"Adanta Group Behavioral Health",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -84.606159,
+    37.088895,
+    -84.606159,
+    37.088895
+],
+  "geometry": {"coordinates":[-84.60615900000001,37.088895],"type":"Point"}
+}

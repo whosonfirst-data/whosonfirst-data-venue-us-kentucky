@@ -1,0 +1,95 @@
+{
+  "id": 856742199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.686482,38.254135,-85.686482,38.254135",
+    "geom:latitude":38.254135,
+    "geom:longitude":-85.686482,
+    "iso:country":"US",
+    "sg:address":"110 Crescent Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 0230",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "designer",
+        "consultant",
+        "system",
+        "integration",
+        "engineer",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mFyKxOU62ifqOc1zojclz_38.254135_-85.686482@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053465,
+    "wof:geomhash":"c7147e337497eadd7b392704ad011ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":856742199
+        }
+    ],
+    "wof:id":856742199,
+    "wof:lastmodified":1464053465,
+    "wof:name":"Computer Horizons Corp.",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "designer",
+        "consultant",
+        "system",
+        "integration",
+        "engineer",
+        "software"
+    ]
+},
+  "bbox": [
+    -85.686482,
+    38.254135,
+    -85.686482,
+    38.254135
+],
+  "geometry": {"coordinates":[-85.686482,38.254135],"type":"Point"}
+}

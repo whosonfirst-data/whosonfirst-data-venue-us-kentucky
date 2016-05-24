@@ -1,0 +1,68 @@
+{
+  "id": 840882845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.638431,38.20891,-85.638431,38.20891",
+    "geom:latitude":38.20891,
+    "geom:longitude":-85.638431,
+    "iso:country":"US",
+    "sg:address":"3705 Klondike Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 6420",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BSgheezfbr6T4hkqyHRBj_38.208910_-85.638431@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050130,
+    "wof:geomhash":"33a8187a2974e1ac5533634f111ca520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840882845
+        }
+    ],
+    "wof:id":840882845,
+    "wof:lastmodified":1464050130,
+    "wof:name":"My Lucky Liquor",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.638431,
+    38.20891,
+    -85.638431,
+    38.20891
+],
+  "geometry": {"coordinates":[-85.638431,38.20891],"type":"Point"}
+}

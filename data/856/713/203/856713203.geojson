@@ -1,0 +1,71 @@
+{
+  "id": 856713203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.705548,36.607868,-83.705548,36.607868",
+    "geom:latitude":36.607868,
+    "geom:longitude":-83.705548,
+    "iso:country":"US",
+    "sg:address":"1403 E Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6303",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HcyqExhXJOYpjehQLCRNn_36.607868_-83.705548@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052329,
+    "wof:geomhash":"0f393a7e5912be0685435c00eab920c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856713203
+        }
+    ],
+    "wof:id":856713203,
+    "wof:lastmodified":1464052329,
+    "wof:name":"Appalachian Financial Svc",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -83.705548,
+    36.607868,
+    -83.705548,
+    36.607868
+],
+  "geometry": {"coordinates":[-83.70554799999999,36.607868],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840806795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.344823,38.363373,-85.344823,38.363373",
+    "geom:latitude":38.363373,
+    "geom:longitude":-85.344823,
+    "iso:country":"US",
+    "sg:address":"4612 Grand Dell Dr",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 0544",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Et4g6bZl0OMyUGtLG0qvs_38.363373_-85.344823@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048335,
+    "wof:geomhash":"3f32819de10891c59a549a4f43c5d570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840806795
+        }
+    ],
+    "wof:id":840806795,
+    "wof:lastmodified":1464048335,
+    "wof:name":"Campbell Soup",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.344823,
+    38.363373,
+    -85.344823,
+    38.363373
+],
+  "geometry": {"coordinates":[-85.34482300000001,38.363373],"type":"Point"}
+}

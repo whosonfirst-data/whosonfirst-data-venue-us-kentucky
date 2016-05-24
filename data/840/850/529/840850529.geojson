@@ -1,0 +1,71 @@
+{
+  "id": 840850529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.339655,36.843147,-86.339655,36.843147",
+    "geom:latitude":36.843147,
+    "geom:longitude":-86.339655,
+    "iso:country":"US",
+    "sg:address":"581 Kirby Poe Rd",
+    "sg:city":"Alvaton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 1709",
+    "sg:postcode":"42122",
+    "sg:province":"KY",
+    "sg:tags":[
+        "butchering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fHxK0yPvoFub8CL0NJImD_36.843147_-86.339655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049451,
+    "wof:geomhash":"fe324cec36e888c5a5ab59a261d8e7b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840850529
+        }
+    ],
+    "wof:id":840850529,
+    "wof:lastmodified":1464049451,
+    "wof:name":"Kirby & Poe Meat Processors",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butchering"
+    ]
+},
+  "bbox": [
+    -86.339655,
+    36.843147,
+    -86.339655,
+    36.843147
+],
+  "geometry": {"coordinates":[-86.33965499999999,36.843147],"type":"Point"}
+}

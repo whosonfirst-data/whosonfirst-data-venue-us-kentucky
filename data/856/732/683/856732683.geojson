@@ -1,0 +1,82 @@
+{
+  "id": 856732683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.707264,38.231444,-85.707264,38.231444",
+    "geom:latitude":38.231444,
+    "geom:longitude":-85.707264,
+    "iso:country":"US",
+    "sg:address":"1538 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/4469-seviche/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 473 8560",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_509P28YX2ogdUeUvoaVdKt_38.231444_-85.707264@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053098,
+    "wof:geomhash":"ff7af898676d7033ed7825ce706811e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856732683
+        }
+    ],
+    "wof:id":856732683,
+    "wof:lastmodified":1464053098,
+    "wof:name":"Seviche",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -85.707264,
+    38.231444,
+    -85.707264,
+    38.231444
+],
+  "geometry": {"coordinates":[-85.707264,38.231444],"type":"Point"}
+}

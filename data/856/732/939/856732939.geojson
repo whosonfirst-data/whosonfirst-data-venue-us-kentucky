@@ -1,0 +1,84 @@
+{
+  "id": 856732939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.790473,38.228349,-85.790473,38.228349",
+    "geom:latitude":38.228349,
+    "geom:longitude":-85.790473,
+    "iso:country":"US",
+    "sg:address":"1800 W Hill St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-west/163426-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 6454",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IlvXA2uH6v7WGl5gNDAOA_38.228349_-85.790473@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053107,
+    "wof:geomhash":"9c97d34b59bc371f782ff1bfe8edefbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":856732939
+        }
+    ],
+    "wof:id":856732939,
+    "wof:lastmodified":1464053107,
+    "wof:name":"Rally's",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.790473,
+    38.228349,
+    -85.790473,
+    38.228349
+],
+  "geometry": {"coordinates":[-85.79047300000001,38.228349],"type":"Point"}
+}

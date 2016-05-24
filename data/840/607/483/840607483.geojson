@@ -1,0 +1,73 @@
+{
+  "id": 840607483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62816,36.975008,-84.62816,36.975008",
+    "geom:latitude":36.975008,
+    "geom:longitude":-84.62816,
+    "iso:country":"US",
+    "sg:address":"52 Stable Ln",
+    "sg:city":"Bronston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 4488",
+    "sg:postcode":"42518",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F35ucmFnnqSXVs7UVGZD1_36.975008_-84.628160@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043846,
+    "wof:geomhash":"f5e4d1ce61e26a675ab98e05cebeca43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840607483
+        }
+    ],
+    "wof:id":840607483,
+    "wof:lastmodified":1464043846,
+    "wof:name":"Keeney Trucking & Excavating",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.62816,
+    36.975008,
+    -84.62816,
+    36.975008
+],
+  "geometry": {"coordinates":[-84.62815999999999,36.975008],"type":"Point"}
+}

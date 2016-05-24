@@ -1,0 +1,73 @@
+{
+  "id": 840754257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.484548,36.963058,-86.484548,36.963058",
+    "geom:latitude":36.963058,
+    "geom:longitude":-86.484548,
+    "iso:country":"US",
+    "sg:address":"151 Turner Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3319",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kPAt1WUAOPbeUUSjvhR9D_36.963058_-86.484548@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047203,
+    "wof:geomhash":"80c8cebe677feddac0eaf3f7a2b7ed75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840754257
+        }
+    ],
+    "wof:id":840754257,
+    "wof:lastmodified":1464047203,
+    "wof:name":"Hill's Pet Nutrition Inc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -86.484548,
+    36.963058,
+    -86.484548,
+    36.963058
+],
+  "geometry": {"coordinates":[-86.484548,36.963058],"type":"Point"}
+}

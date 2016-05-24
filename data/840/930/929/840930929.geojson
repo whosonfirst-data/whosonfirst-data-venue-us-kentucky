@@ -1,0 +1,71 @@
+{
+  "id": 840930929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.536096,37.877893,-87.536096,37.877893",
+    "geom:latitude":37.877893,
+    "geom:longitude":-87.536096,
+    "iso:country":"US",
+    "sg:address":"920 Bellewood Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0522",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zzHbUfQSQgulTsSeuFOBW_37.877893_-87.536096@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051269,
+    "wof:geomhash":"271148ec04c248a374d76686c099ab98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840930929
+        }
+    ],
+    "wof:id":840930929,
+    "wof:lastmodified":1464051269,
+    "wof:name":"Colonial Motel",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -87.536096,
+    37.877893,
+    -87.536096,
+    37.877893
+],
+  "geometry": {"coordinates":[-87.536096,37.877893],"type":"Point"}
+}

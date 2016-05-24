@@ -1,0 +1,75 @@
+{
+  "id": 840887441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.584105,37.05702,-88.584105,37.05702",
+    "geom:latitude":37.05702,
+    "geom:longitude":-88.584105,
+    "iso:country":"US",
+    "sg:address":"2170 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9186",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I3CtDJFPGB8bE4GJ1zfqI_37.057020_-88.584105@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050229,
+    "wof:geomhash":"f012cb6557cad023d2eb9730a4cc93c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840887441
+        }
+    ],
+    "wof:id":840887441,
+    "wof:lastmodified":1464050229,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -88.584105,
+    37.05702,
+    -88.584105,
+    37.05702
+],
+  "geometry": {"coordinates":[-88.58410499999999,37.05702],"type":"Point"}
+}

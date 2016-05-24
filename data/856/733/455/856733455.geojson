@@ -1,0 +1,74 @@
+{
+  "id": 856733455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.628209,38.284215,-85.628209,38.284215",
+    "geom:latitude":38.284215,
+    "geom:longitude":-85.628209,
+    "iso:country":"US",
+    "sg:address":"2311 Lime Kiln Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-northeast/75574-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 327 8443",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oFzFqMcMTy3uWV9ipXPbf_38.284215_-85.628209@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053125,
+    "wof:geomhash":"6a21741f8e7463468470bc4dc2bf6e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856733455
+        }
+    ],
+    "wof:id":856733455,
+    "wof:lastmodified":1464053125,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.628209,
+    38.284215,
+    -85.628209,
+    38.284215
+],
+  "geometry": {"coordinates":[-85.628209,38.284215],"type":"Point"}
+}

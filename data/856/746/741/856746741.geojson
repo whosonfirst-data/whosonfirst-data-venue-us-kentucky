@@ -1,0 +1,88 @@
+{
+  "id": 856746741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65963,38.183655,-85.65963,38.183655",
+    "geom:latitude":38.183655,
+    "geom:longitude":-85.65963,
+    "iso:country":"US",
+    "sg:address":"4620 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 3231",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "steel",
+        "warehouse",
+        "distributor",
+        "metal-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01V6I2tTNBmIa5n6z52oF7_38.183655_-85.659630@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053622,
+    "wof:geomhash":"6edf6f5386feb1893bc3ab6191ffe572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746741
+        }
+    ],
+    "wof:id":856746741,
+    "wof:lastmodified":1464053622,
+    "wof:name":"Metal Supermarkets",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse",
+        "distributor",
+        "metal-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.65963,
+    38.183655,
+    -85.65963,
+    38.183655
+],
+  "geometry": {"coordinates":[-85.65963000000001,38.183655],"type":"Point"}
+}

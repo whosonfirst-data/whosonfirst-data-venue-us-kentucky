@@ -1,0 +1,71 @@
+{
+  "id": 840807065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.765801,37.645421,-84.765801,37.645421",
+    "geom:latitude":37.645421,
+    "geom:longitude":-84.765801,
+    "iso:country":"US",
+    "sg:address":"300 E Main St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3892",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DLRzsYpS4YXuJaBHBTHwu_37.645421_-84.765801@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048341,
+    "wof:geomhash":"a07be98eeaee01da2100539391af67b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840807065
+        }
+    ],
+    "wof:id":840807065,
+    "wof:lastmodified":1464048341,
+    "wof:name":"Bell Refrigeration & Air Cond",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.765801,
+    37.645421,
+    -84.765801,
+    37.645421
+],
+  "geometry": {"coordinates":[-84.765801,37.645421],"type":"Point"}
+}

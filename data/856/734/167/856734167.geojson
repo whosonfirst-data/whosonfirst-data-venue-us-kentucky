@@ -1,0 +1,72 @@
+{
+  "id": 856734167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566205,37.896418,-84.566205,37.896418",
+    "geom:latitude":37.896418,
+    "geom:longitude":-84.566205,
+    "iso:country":"US",
+    "sg:address":"964 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/87491-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4000",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZoXwgko1CJvZr1hezb1Pt_37.896418_-84.566205@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053151,
+    "wof:geomhash":"b68a799ea6e1d7991538ab68364fdb64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734167
+        }
+    ],
+    "wof:id":856734167,
+    "wof:lastmodified":1464053151,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.566205,
+    37.896418,
+    -84.566205,
+    37.896418
+],
+  "geometry": {"coordinates":[-84.566205,37.896418],"type":"Point"}
+}

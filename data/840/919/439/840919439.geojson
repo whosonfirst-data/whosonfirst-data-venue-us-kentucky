@@ -1,0 +1,72 @@
+{
+  "id": 840919439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.583378,37.097584,-84.583378,37.097584",
+    "geom:latitude":37.097584,
+    "geom:longitude":-84.583378,
+    "iso:country":"US",
+    "sg:address":"30 Roberts St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 0169",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.reiconst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X1rlkSiXqpDyyjUXnRhUL_37.097584_-84.583378@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050979,
+    "wof:geomhash":"63b9c1b3d8cf39a8e7a5534bb92b9334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840919439
+        }
+    ],
+    "wof:id":840919439,
+    "wof:lastmodified":1464050979,
+    "wof:name":"Roberts Enterprises Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.583378,
+    37.097584,
+    -84.583378,
+    37.097584
+],
+  "geometry": {"coordinates":[-84.583378,37.097584],"type":"Point"}
+}

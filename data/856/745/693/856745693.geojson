@@ -1,0 +1,85 @@
+{
+  "id": 856745693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.787491,38.209019,-85.787491,38.209019",
+    "geom:latitude":38.209019,
+    "geom:longitude":-85.787491,
+    "iso:country":"US",
+    "sg:address":"2900 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 1916",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30DLqbAwZA8EXZz1tSHUOs_38.209019_-85.787491@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053587,
+    "wof:geomhash":"612328284f96982ccd3e0f1353aab997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":856745693
+        }
+    ],
+    "wof:id":856745693,
+    "wof:lastmodified":1464053587,
+    "wof:name":"Continuum Transportation Service",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "provider"
+    ]
+},
+  "bbox": [
+    -85.787491,
+    38.209019,
+    -85.787491,
+    38.209019
+],
+  "geometry": {"coordinates":[-85.787491,38.209019],"type":"Point"}
+}

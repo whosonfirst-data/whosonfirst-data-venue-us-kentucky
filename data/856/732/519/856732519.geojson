@@ -1,0 +1,78 @@
+{
+  "id": 856732519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757417,38.251234,-85.757417,38.251234",
+    "geom:latitude":38.251234,
+    "geom:longitude":-85.757417,
+    "iso:country":"US",
+    "sg:address":"411 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/173489-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 8357",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lWh2g2Vt4uZ7cZGgdQsGa_38.251234_-85.757417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053093,
+    "wof:geomhash":"61f3b62536111d2cccaf5423ad97f635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856732519
+        }
+    ],
+    "wof:id":856732519,
+    "wof:lastmodified":1464053093,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.757417,
+    38.251234,
+    -85.757417,
+    38.251234
+],
+  "geometry": {"coordinates":[-85.757417,38.251234],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840658799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.399447,37.563847,-83.399447,37.563847",
+    "geom:latitude":37.563847,
+    "geom:longitude":-83.399447,
+    "iso:country":"US",
+    "sg:address":"726 State Hwy 15",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 666 2411",
+    "sg:postcode":"41339",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946791,
+        102085543,
+        85840361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g8VIzxY8Ye9bp0P2401vf_37.563847_-83.399447@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045080,
+    "wof:geomhash":"bf29826e629e119d0725b63ad7abc6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085543,
+            "locality_id":85946791,
+            "neighbourhood_id":85840361,
+            "region_id":85688641,
+            "venue_id":840658799
+        }
+    ],
+    "wof:id":840658799,
+    "wof:lastmodified":1464045080,
+    "wof:name":"Eastern Kentucky Employment",
+    "wof:parent_id":85840361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.399447,
+    37.563847,
+    -83.399447,
+    37.563847
+],
+  "geometry": {"coordinates":[-83.399447,37.563847],"type":"Point"}
+}

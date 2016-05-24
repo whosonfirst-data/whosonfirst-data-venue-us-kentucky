@@ -1,0 +1,76 @@
+{
+  "id": 840898883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.84004,37.728987,-85.84004,37.728987",
+    "geom:latitude":37.728987,
+    "geom:longitude":-85.84004,
+    "iso:country":"US",
+    "sg:address":"2600 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2076",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yWkf1hTWnrLCcCkvJSh0n_37.728987_-85.840040@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050468,
+    "wof:geomhash":"94f1c95ae20c1353c2f36cc449b16750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840898883
+        }
+    ],
+    "wof:id":840898883,
+    "wof:lastmodified":1464050468,
+    "wof:name":"Overall Appraisal Service",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.84004,
+    37.728987,
+    -85.84004,
+    37.728987
+],
+  "geometry": {"coordinates":[-85.84004,37.728987],"type":"Point"}
+}

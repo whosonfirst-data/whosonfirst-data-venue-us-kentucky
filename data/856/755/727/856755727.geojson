@@ -1,0 +1,71 @@
+{
+  "id": 856755727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.743202,39.039799,-84.743202,39.039799",
+    "geom:latitude":39.039799,
+    "geom:longitude":-84.743202,
+    "iso:country":"US",
+    "sg:address":"2979 Fawn Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 0478",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hKUfVeA6bYNgvPiKK7Aoo_39.039799_-84.743202@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053970,
+    "wof:geomhash":"f74f13c3805578642974d69c9795dd87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856755727
+        }
+    ],
+    "wof:id":856755727,
+    "wof:lastmodified":1464053970,
+    "wof:name":"Fischer Group the-Fischer Homes",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.743202,
+    39.039799,
+    -84.743202,
+    39.039799
+],
+  "geometry": {"coordinates":[-84.743202,39.039799],"type":"Point"}
+}

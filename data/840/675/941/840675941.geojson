@@ -1,0 +1,71 @@
+{
+  "id": 840675941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.981909,37.73727,-85.981909,37.73727",
+    "geom:latitude":37.73727,
+    "geom:longitude":-85.981909,
+    "iso:country":"US",
+    "sg:address":"954 Rineyville School Rd",
+    "sg:city":"Rineyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5478",
+    "sg:postcode":"40162",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74R7Q5itpUZ98hUQYpauV4_37.737270_-85.981909@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045463,
+    "wof:geomhash":"1a05a7596b951f5dc77965dfe89b7635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840675941
+        }
+    ],
+    "wof:id":840675941,
+    "wof:lastmodified":1464045463,
+    "wof:name":"Ed Cecil Construction",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.981909,
+    37.73727,
+    -85.981909,
+    37.73727
+],
+  "geometry": {"coordinates":[-85.981909,37.73727],"type":"Point"}
+}

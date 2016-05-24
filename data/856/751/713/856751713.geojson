@@ -1,0 +1,87 @@
+{
+  "id": 856751713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.55165,38.204992,-85.55165,38.204992",
+    "geom:latitude":38.204992,
+    "geom:longitude":-85.55165,
+    "iso:country":"US",
+    "sg:address":"11206 Ampere Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 263 5450",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "industrial",
+        "refrigeration",
+        "equipment-commercial",
+        "ice",
+        "machines-repair"
+    ],
+    "sg:website":"http://www.acfservicesco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xOBTISh8UrkyXq4mRpBA1_38.204992_-85.551650@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053817,
+    "wof:geomhash":"a95207e2e7ca61f43b2c17199113ff2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856751713
+        }
+    ],
+    "wof:id":856751713,
+    "wof:lastmodified":1464053817,
+    "wof:name":"ACF Services Company",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "refrigeration",
+        "equipment-commercial",
+        "ice",
+        "machines-repair"
+    ]
+},
+  "bbox": [
+    -85.55165,
+    38.204992,
+    -85.55165,
+    38.204992
+],
+  "geometry": {"coordinates":[-85.55165,38.204992],"type":"Point"}
+}

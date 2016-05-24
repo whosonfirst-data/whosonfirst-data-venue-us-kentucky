@@ -1,0 +1,71 @@
+{
+  "id": 840692321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.71978,38.051602,-84.71978,38.051602",
+    "geom:latitude":38.051602,
+    "geom:longitude":-84.71978,
+    "iso:country":"US",
+    "sg:address":"416 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 7031",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qx8LG9WKLZBdGnFMewjEk_38.051602_-84.719780@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045869,
+    "wof:geomhash":"8f282b1bd663489de2d398d96d4a7f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840692321
+        }
+    ],
+    "wof:id":840692321,
+    "wof:lastmodified":1464045869,
+    "wof:name":"Dynasty Motors",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.71978,
+    38.051602,
+    -84.71978,
+    38.051602
+],
+  "geometry": {"coordinates":[-84.71978,38.051602],"type":"Point"}
+}

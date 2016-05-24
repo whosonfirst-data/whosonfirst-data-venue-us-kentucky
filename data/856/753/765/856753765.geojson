@@ -1,0 +1,73 @@
+{
+  "id": 856753765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.534439,38.050431,-84.534439,38.050431",
+    "geom:latitude":38.050431,
+    "geom:longitude":-84.534439,
+    "iso:country":"US",
+    "sg:address":"118 Garrett Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 533 0903",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85809473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48iJH9TjZWTTTVnLICibMs_38.050431_-84.534439@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053899,
+    "wof:geomhash":"4b14e35601dea454687873a5ebcc47ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85809473,
+            "region_id":85688641,
+            "venue_id":856753765
+        }
+    ],
+    "wof:id":856753765,
+    "wof:lastmodified":1464053899,
+    "wof:name":"John's Trees",
+    "wof:parent_id":85809473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -84.534439,
+    38.050431,
+    -84.534439,
+    38.050431
+],
+  "geometry": {"coordinates":[-84.53443900000001,38.050431],"type":"Point"}
+}

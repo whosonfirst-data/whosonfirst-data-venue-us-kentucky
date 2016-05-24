@@ -1,0 +1,73 @@
+{
+  "id": 840645851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.993555,36.974752,-82.993555,36.974752",
+    "geom:latitude":36.974752,
+    "geom:longitude":-82.993555,
+    "iso:country":"US",
+    "sg:address":"503 W Main St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 4438",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6REMv5F3YhpvqHZRQSUwQN_36.974752_-82.993555@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044798,
+    "wof:geomhash":"664ad246b9223fdcf7d2ddb294dd632a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840645851
+        }
+    ],
+    "wof:id":840645851,
+    "wof:lastmodified":1464044798,
+    "wof:name":"Freeman Construction",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.993555,
+    36.974752,
+    -82.993555,
+    36.974752
+],
+  "geometry": {"coordinates":[-82.993555,36.974752],"type":"Point"}
+}

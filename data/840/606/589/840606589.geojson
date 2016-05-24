@@ -1,0 +1,82 @@
+{
+  "id": 840606589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.778911,37.642718,-84.778911,37.642718",
+    "geom:latitude":37.642718,
+    "geom:longitude":-84.778911,
+    "iso:country":"US",
+    "sg:address":"406 Grant St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2850",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fhy2baV2DzAmcaQvnHpgb_37.642718_-84.778911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043815,
+    "wof:geomhash":"6718b6e4949b8a8c59eb8dd48cdfc5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840606589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840606589
+        }
+    ],
+    "wof:id":840606589,
+    "wof:lastmodified":1464043815,
+    "wof:name":"David M Bastin Painting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.778911,
+    37.642718,
+    -84.778911,
+    37.642718
+],
+  "geometry": {"coordinates":[-84.77891099999999,37.642718],"type":"Point"}
+}

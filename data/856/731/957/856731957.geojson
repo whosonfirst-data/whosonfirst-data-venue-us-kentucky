@@ -1,0 +1,77 @@
+{
+  "id": 856731957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.70235,38.264092,-85.70235,38.264092",
+    "geom:latitude":38.264092,
+    "geom:longitude":-85.70235,
+    "iso:country":"US",
+    "sg:address":"2706 Audley Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 0242",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "piano",
+        "restoration",
+        "organ-tuning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iKN1vzkPwJ74eLkL8j7dY_38.264362_-85.701659@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053070,
+    "wof:geomhash":"5c0b029d12a909f4382c6f0bed9dd150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873385,
+            "region_id":85688641,
+            "venue_id":856731957
+        }
+    ],
+    "wof:id":856731957,
+    "wof:lastmodified":1464053070,
+    "wof:name":"Barbara's Piano Tuning",
+    "wof:parent_id":85873385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "restoration",
+        "organ-tuning"
+    ]
+},
+  "bbox": [
+    -85.70235,
+    38.264092,
+    -85.70235,
+    38.264092
+],
+  "geometry": {"coordinates":[-85.70235,38.264092],"type":"Point"}
+}

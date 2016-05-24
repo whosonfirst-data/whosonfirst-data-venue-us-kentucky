@@ -1,0 +1,71 @@
+{
+  "id": 840553661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.766019,37.643803,-84.766019,37.643803",
+    "geom:latitude":37.643803,
+    "geom:longitude":-84.766019,
+    "iso:country":"US",
+    "sg:address":"124 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3044",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15iiLmXEu15H657QMvTys0_37.643803_-84.766019@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042590,
+    "wof:geomhash":"6a51e57ad066cd382437c1e72d9bc315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840553661
+        }
+    ],
+    "wof:id":840553661,
+    "wof:lastmodified":1464042590,
+    "wof:name":"Craig Bell Appliance & Refrig",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.766019,
+    37.643803,
+    -84.766019,
+    37.643803
+],
+  "geometry": {"coordinates":[-84.766019,37.643803],"type":"Point"}
+}

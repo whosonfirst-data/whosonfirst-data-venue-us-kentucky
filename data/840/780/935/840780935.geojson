@@ -1,0 +1,71 @@
+{
+  "id": 840780935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888372,37.742182,-85.888372,37.742182",
+    "geom:latitude":37.742182,
+    "geom:longitude":-85.888372,
+    "iso:country":"US",
+    "sg:address":"2021 Pleasant View Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 8000",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6voQTqHdBIFGbvZGz8HUVq_37.742182_-85.888372@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047782,
+    "wof:geomhash":"0666c909e04d37ab69838a3741b82a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840780935
+        }
+    ],
+    "wof:id":840780935,
+    "wof:lastmodified":1464047782,
+    "wof:name":"M M C",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.888372,
+    37.742182,
+    -85.888372,
+    37.742182
+],
+  "geometry": {"coordinates":[-85.888372,37.742182],"type":"Point"}
+}

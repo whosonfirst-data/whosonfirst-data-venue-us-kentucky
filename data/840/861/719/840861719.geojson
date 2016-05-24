@@ -1,0 +1,75 @@
+{
+  "id": 840861719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.585548,36.89784,-86.585548,36.89784",
+    "geom:latitude":36.89784,
+    "geom:longitude":-86.585548,
+    "iso:country":"US",
+    "sg:address":"528 W Bogle Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9161",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DPxcxsosKIhFHYqM4flZh_36.897840_-86.585548@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049688,
+    "wof:geomhash":"fb5ceae86e1712c1b20eea3e7feb3c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840861719
+        }
+    ],
+    "wof:id":840861719,
+    "wof:lastmodified":1464049688,
+    "wof:name":"Charlie's Satellite Systems",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -86.585548,
+    36.89784,
+    -86.585548,
+    36.89784
+],
+  "geometry": {"coordinates":[-86.585548,36.89784],"type":"Point"}
+}

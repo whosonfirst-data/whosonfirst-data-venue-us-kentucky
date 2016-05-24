@@ -1,0 +1,73 @@
+{
+  "id": 840885641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.570726,37.829502,-87.570726,37.829502",
+    "geom:latitude":37.829502,
+    "geom:longitude":-87.570726,
+    "iso:country":"US",
+    "sg:address":"1717 Franklin Ave",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 0280",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54FUhfoZNKU7ev6UyTqZhq_37.829502_-87.570726@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050192,
+    "wof:geomhash":"fe32f1f1d5094610a831f15585849aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840885641
+        }
+    ],
+    "wof:id":840885641,
+    "wof:lastmodified":1464050192,
+    "wof:name":"Skateway USA",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -87.570726,
+    37.829502,
+    -87.570726,
+    37.829502
+],
+  "geometry": {"coordinates":[-87.57072599999999,37.829502],"type":"Point"}
+}

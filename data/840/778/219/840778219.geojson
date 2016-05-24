@@ -1,0 +1,75 @@
+{
+  "id": 840778219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.675947,38.215836,-85.675947,38.215836",
+    "geom:latitude":38.215836,
+    "geom:longitude":-85.675947,
+    "iso:country":"US",
+    "sg:address":"2132 Lancashire Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 817 0622",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19NaPRMDWZD5MunK6rCfbW_38.215836_-85.675947@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047723,
+    "wof:geomhash":"acf2a42c10d91384cd5ed0d5b279de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":840778219
+        }
+    ],
+    "wof:id":840778219,
+    "wof:lastmodified":1464047723,
+    "wof:name":"U S Dumpsters",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.675947,
+    38.215836,
+    -85.675947,
+    38.215836
+],
+  "geometry": {"coordinates":[-85.67594699999999,38.215836],"type":"Point"}
+}

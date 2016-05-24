@@ -1,0 +1,72 @@
+{
+  "id": 856728613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.652701,39.07348,-84.652701,39.07348",
+    "geom:latitude":39.07348,
+    "geom:longitude":-84.652701,
+    "iso:country":"US",
+    "sg:address":"579 Petersburg Rd",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 6200",
+    "sg:postcode":"41048",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102528187,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nTaui6KUvuIcbAdl7S9G2_39.073453_-84.652972@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052953,
+    "wof:geomhash":"1635ceed34dd0b9bd21d8171235244ab",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528187,
+            "country_id":85633793,
+            "region_id":85688641,
+            "venue_id":856728613
+        }
+    ],
+    "wof:id":856728613,
+    "wof:lastmodified":1464052953,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102528187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.652701,
+    39.07348,
+    -84.652701,
+    39.07348
+],
+  "geometry": {"coordinates":[-84.65270099999999,39.07348],"type":"Point"}
+}

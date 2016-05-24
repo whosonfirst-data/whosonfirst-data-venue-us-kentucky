@@ -1,0 +1,81 @@
+{
+  "id": 840605235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.780216,37.649588,-84.780216,37.649588",
+    "geom:latitude":37.649588,
+    "geom:longitude":-84.780216,
+    "iso:country":"US",
+    "sg:address":"717 W Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4443",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SC0yyt5g7h6cEFURTcoTo_37.649588_-84.780216@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043784,
+    "wof:geomhash":"3491d76a91753765fe23a55a26cd9918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840605235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840605235
+        }
+    ],
+    "wof:id":840605235,
+    "wof:lastmodified":1464043784,
+    "wof:name":"Danville Boyle County Taxi Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.780216,
+    37.649588,
+    -84.780216,
+    37.649588
+],
+  "geometry": {"coordinates":[-84.780216,37.649588],"type":"Point"}
+}

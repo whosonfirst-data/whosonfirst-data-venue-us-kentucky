@@ -1,0 +1,71 @@
+{
+  "id": 856715349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.634608,37.179288,-84.634608,37.179288",
+    "geom:latitude":37.179288,
+    "geom:longitude":-84.634608,
+    "iso:country":"US",
+    "sg:address":"801 Stanford St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 3577",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ExJRsaJSa70T3ABQE5J3s_37.179288_-84.634608@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052404,
+    "wof:geomhash":"d961828100ee596993777740bad851f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856715349
+        }
+    ],
+    "wof:id":856715349,
+    "wof:lastmodified":1464052404,
+    "wof:name":"Science Hill United Methodist",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.634608,
+    37.179288,
+    -84.634608,
+    37.179288
+],
+  "geometry": {"coordinates":[-84.634608,37.179288],"type":"Point"}
+}

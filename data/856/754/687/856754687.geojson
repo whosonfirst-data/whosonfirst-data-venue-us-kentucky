@@ -1,0 +1,80 @@
+{
+  "id": 856754687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417307,38.021948,-84.417307,38.021948",
+    "geom:latitude":38.021948,
+    "geom:longitude":-84.417307,
+    "iso:country":"US",
+    "sg:address":"1945 Pavillon Way",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 263 9776",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wnLFJSQo1B2ACFZTQ5yPU_38.021948_-84.417307@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053933,
+    "wof:geomhash":"fa78800660e90e5365cb5651760fd6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":856754687
+        }
+    ],
+    "wof:id":856754687,
+    "wof:lastmodified":1464053933,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.417307,
+    38.021948,
+    -84.417307,
+    38.021948
+],
+  "geometry": {"coordinates":[-84.41730699999999,38.021948],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840750419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.626285,37.837297,-84.626285,37.837297",
+    "geom:latitude":37.837297,
+    "geom:longitude":-84.626285,
+    "iso:country":"US",
+    "sg:address":"2286 Bethel Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 983 5424",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pc1xQASIZhHXd0ORtNzdh_37.837297_-84.626285@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047111,
+    "wof:geomhash":"b3b3794e582b4a4dd7e4362bd8350b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840750419
+        }
+    ],
+    "wof:id":840750419,
+    "wof:lastmodified":1464047111,
+    "wof:name":"Pet Companions Country Inn",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.626285,
+    37.837297,
+    -84.626285,
+    37.837297
+],
+  "geometry": {"coordinates":[-84.626285,37.837297],"type":"Point"}
+}

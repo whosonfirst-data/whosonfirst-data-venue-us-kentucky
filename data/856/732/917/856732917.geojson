@@ -1,0 +1,75 @@
+{
+  "id": 856732917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755042,38.214618,-85.755042,38.214618",
+    "geom:latitude":38.214618,
+    "geom:longitude":-85.755042,
+    "iso:country":"US",
+    "sg:address":"301 E Warnock St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/186875-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SEjtPnBTSn02CfvkIBwcd_38.214618_-85.755042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053107,
+    "wof:geomhash":"5b8bce76c2f5162fb4d6c59eefd9a973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873425,
+            "region_id":85688641,
+            "venue_id":856732917
+        }
+    ],
+    "wof:id":856732917,
+    "wof:lastmodified":1464053107,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85873425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.755042,
+    38.214618,
+    -85.755042,
+    38.214618
+],
+  "geometry": {"coordinates":[-85.755042,38.214618],"type":"Point"}
+}

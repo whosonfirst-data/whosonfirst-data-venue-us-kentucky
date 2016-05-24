@@ -1,0 +1,75 @@
+{
+  "id": 840666469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.744304,38.229161,-85.744304,38.229161",
+    "geom:latitude":38.229161,
+    "geom:longitude":-85.744304,
+    "iso:country":"US",
+    "sg:address":"629 Bergman St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 638 1700",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IXjkQ7OTzBb59siF9Xxxs_38.229161_-85.744304@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045244,
+    "wof:geomhash":"226e8ee3a16b8e7574a271c5390e7534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873409,
+            "region_id":85688641,
+            "venue_id":840666469
+        }
+    ],
+    "wof:id":840666469,
+    "wof:lastmodified":1464045244,
+    "wof:name":"Seko Air Freight",
+    "wof:parent_id":85873409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.744304,
+    38.229161,
+    -85.744304,
+    38.229161
+],
+  "geometry": {"coordinates":[-85.744304,38.229161],"type":"Point"}
+}

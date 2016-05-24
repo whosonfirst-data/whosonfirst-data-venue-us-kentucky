@@ -1,0 +1,75 @@
+{
+  "id": 856729871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698483,37.083705,-88.698483,37.083705",
+    "geom:latitude":37.083705,
+    "geom:longitude":-88.698483,
+    "iso:country":"US",
+    "sg:address":"3540 Stanley Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 5084",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HORe56QHN67CKdu9TEsRq_37.083981_-88.698281@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052997,
+    "wof:geomhash":"4f82872834346e488a68898693b921a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856729871
+        }
+    ],
+    "wof:id":856729871,
+    "wof:lastmodified":1464052997,
+    "wof:name":"Graves Lawn Care",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.698483,
+    37.083705,
+    -88.698483,
+    37.083705
+],
+  "geometry": {"coordinates":[-88.698483,37.083705],"type":"Point"}
+}

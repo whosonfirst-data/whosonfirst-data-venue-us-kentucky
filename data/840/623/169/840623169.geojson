@@ -1,0 +1,73 @@
+{
+  "id": 840623169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757775,38.239524,-85.757775,38.239524",
+    "geom:latitude":38.239524,
+    "geom:longitude":-85.757775,
+    "iso:country":"US",
+    "sg:address":"927 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 1688",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hwWnsPVC69xM0D99lQS5v_38.239524_-85.757775@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044244,
+    "wof:geomhash":"c037985b25981da0ee701084ba7a3cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840623169
+        }
+    ],
+    "wof:id":840623169,
+    "wof:lastmodified":1464044244,
+    "wof:name":"Logisticare",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.757775,
+    38.239524,
+    -85.757775,
+    38.239524
+],
+  "geometry": {"coordinates":[-85.757775,38.239524],"type":"Point"}
+}

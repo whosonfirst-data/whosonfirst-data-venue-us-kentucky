@@ -1,0 +1,75 @@
+{
+  "id": 840641197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.575389,38.247568,-85.575389,38.247568",
+    "geom:latitude":38.247568,
+    "geom:longitude":-85.575389,
+    "iso:country":"US",
+    "sg:address":"106 Daventry Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 6122",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZxwdMTYEfBLGtaZ2UMgho_38.247568_-85.575389@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044704,
+    "wof:geomhash":"e5359a0ff5b049b3062a175ed4cbbfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840641197
+        }
+    ],
+    "wof:id":840641197,
+    "wof:lastmodified":1464044704,
+    "wof:name":"Shelbyville Road Medical Clnc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.575389,
+    38.247568,
+    -85.575389,
+    38.247568
+],
+  "geometry": {"coordinates":[-85.575389,38.247568],"type":"Point"}
+}

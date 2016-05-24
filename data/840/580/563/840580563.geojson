@@ -1,0 +1,73 @@
+{
+  "id": 840580563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.915259,37.686257,-85.915259,37.686257",
+    "geom:latitude":37.686257,
+    "geom:longitude":-85.915259,
+    "iso:country":"US",
+    "sg:address":"300 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4906",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YtwkwMVF3VGSNoeBbrE2X_37.686257_-85.915259@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043219,
+    "wof:geomhash":"6283de99327ef21eb92861fb9382d2af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840580563
+        }
+    ],
+    "wof:id":840580563,
+    "wof:lastmodified":1464043219,
+    "wof:name":"Ambrake",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.915259,
+    37.686257,
+    -85.915259,
+    37.686257
+],
+  "geometry": {"coordinates":[-85.91525900000001,37.686257],"type":"Point"}
+}

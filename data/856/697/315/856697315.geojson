@@ -1,0 +1,71 @@
+{
+  "id": 856697315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.618578,37.073055,-84.618578,37.073055",
+    "geom:latitude":37.073055,
+    "geom:longitude":-84.618578,
+    "iso:country":"US",
+    "sg:address":"3471 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2010",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XxLMN30dRAk5IeV9VxCDn_37.073055_-84.618578@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052004,
+    "wof:geomhash":"0e147e49c6a76538f57d209d7bd72b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856697315
+        }
+    ],
+    "wof:id":856697315,
+    "wof:lastmodified":1464052004,
+    "wof:name":"Whitaker Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.618578,
+    37.073055,
+    -84.618578,
+    37.073055
+],
+  "geometry": {"coordinates":[-84.618578,37.073055],"type":"Point"}
+}

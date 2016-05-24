@@ -1,0 +1,74 @@
+{
+  "id": 856736339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.442178,36.993565,-86.442178,36.993565",
+    "geom:latitude":36.993565,
+    "geom:longitude":-86.442178,
+    "iso:country":"US",
+    "sg:address":"401 Park Row",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/120453-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 4144",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDoex8ZhLDVuzIcqSBrEN_36.993565_-86.442178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"a0ef1814b7d34c76c89be7a56acfe6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736339
+        }
+    ],
+    "wof:id":856736339,
+    "wof:lastmodified":1464053236,
+    "wof:name":"Subway",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.442178,
+    36.993565,
+    -86.442178,
+    36.993565
+],
+  "geometry": {"coordinates":[-86.442178,36.993565],"type":"Point"}
+}

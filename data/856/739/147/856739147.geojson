@@ -1,0 +1,105 @@
+{
+  "id": 856739147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.765385,38.25755,-85.765385,38.25755",
+    "geom:latitude":38.25755,
+    "geom:longitude":-85.765385,
+    "iso:country":"US",
+    "sg:address":"930 W Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 6941",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heater",
+        "plumber",
+        "system",
+        "specialty",
+        "water",
+        "heating",
+        "contractor",
+        "air conditioning",
+        "sewer"
+    ],
+    "sg:website":"http://www.rouck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sx5esEME86tLCK4WE9Dbc_38.257550_-85.765385@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053348,
+    "wof:geomhash":"74e21678e40609b474120cdbf9f61e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873435,
+            "region_id":85688641,
+            "venue_id":856739147
+        }
+    ],
+    "wof:id":856739147,
+    "wof:lastmodified":1464053348,
+    "wof:name":"Rouck Plumbing Co Inc",
+    "wof:parent_id":85873435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heater",
+        "plumber",
+        "system",
+        "specialty",
+        "water",
+        "heating",
+        "contractor",
+        "air conditioning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -85.765385,
+    38.25755,
+    -85.765385,
+    38.25755
+],
+  "geometry": {"coordinates":[-85.76538499999999,38.25755],"type":"Point"}
+}

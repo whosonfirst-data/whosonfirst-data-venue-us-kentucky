@@ -1,0 +1,80 @@
+{
+  "id": 856738813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.728576,37.996624,-85.728576,37.996624",
+    "geom:latitude":37.996624,
+    "geom:longitude":-85.728576,
+    "iso:country":"US",
+    "sg:address":"183 Tara Cir",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 957 3773",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XNUs5StJCk7W1PrNYr27t_37.996624_-85.728576@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053335,
+    "wof:geomhash":"6624b2278d6f9809c40c45fa6a440c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856738813
+        }
+    ],
+    "wof:id":856738813,
+    "wof:lastmodified":1464053335,
+    "wof:name":"Quality Home Improvement",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.728576,
+    37.996624,
+    -85.728576,
+    37.996624
+],
+  "geometry": {"coordinates":[-85.728576,37.996624],"type":"Point"}
+}

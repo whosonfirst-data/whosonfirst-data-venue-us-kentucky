@@ -1,0 +1,74 @@
+{
+  "id": 856733971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.559752,38.209946,-84.559752,38.209946",
+    "geom:latitude":38.209946,
+    "geom:longitude":-84.559752,
+    "iso:country":"US",
+    "sg:address":"100 E Main St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/georgetown/120532-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 867 0900",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KBjlFE1bXvLkoKqBQZToM_38.209946_-84.559752@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053144,
+    "wof:geomhash":"fce7c3525ac3c6b9acbd8460e3a430c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856733971
+        }
+    ],
+    "wof:id":856733971,
+    "wof:lastmodified":1464053144,
+    "wof:name":"Subway",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.559752,
+    38.209946,
+    -84.559752,
+    38.209946
+],
+  "geometry": {"coordinates":[-84.559752,38.209946],"type":"Point"}
+}

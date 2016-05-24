@@ -1,0 +1,73 @@
+{
+  "id": 840804497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.790984,38.25753,-85.790984,38.25753",
+    "geom:latitude":38.25753,
+    "geom:longitude":-85.790984,
+    "iso:country":"US",
+    "sg:address":"2310 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 8183",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FhkRrkhdxIob3nbGUpsAE_38.257530_-85.790984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048291,
+    "wof:geomhash":"af03028942cff0d0b954269866555049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840804497
+        }
+    ],
+    "wof:id":840804497,
+    "wof:lastmodified":1464048291,
+    "wof:name":"House Of Rose",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -85.790984,
+    38.25753,
+    -85.790984,
+    38.25753
+],
+  "geometry": {"coordinates":[-85.79098399999999,38.25753],"type":"Point"}
+}

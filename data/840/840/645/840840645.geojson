@@ -1,0 +1,68 @@
+{
+  "id": 840840645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.748981,38.254322,-85.748981,38.254322",
+    "geom:latitude":38.254322,
+    "geom:longitude":-85.748981,
+    "iso:country":"US",
+    "sg:address":"252 E Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 581 1222",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yp6Vngrf90TZqfbYvuNTv_38.254322_-85.748981@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049232,
+    "wof:geomhash":"b76021765d14e0ab06b9dba281981fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873387,
+            "region_id":85688641,
+            "venue_id":840840645
+        }
+    ],
+    "wof:id":840840645,
+    "wof:lastmodified":1464049232,
+    "wof:name":"Oscar Brown's South Beach Sta",
+    "wof:parent_id":85873387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.748981,
+    38.254322,
+    -85.748981,
+    38.254322
+],
+  "geometry": {"coordinates":[-85.748981,38.254322],"type":"Point"}
+}

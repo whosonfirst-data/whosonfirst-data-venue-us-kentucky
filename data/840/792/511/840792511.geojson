@@ -1,0 +1,68 @@
+{
+  "id": 840792511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.433444,36.627223,-87.433444,36.627223",
+    "geom:latitude":36.627223,
+    "geom:longitude":-87.433444,
+    "iso:country":"US",
+    "sg:address":"2853 Fort Campbell Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 431 4264",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85806179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kcCoLCBrGBMlyhfiwZ6JJ_36.627223_-87.433444@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048031,
+    "wof:geomhash":"002f0adbb3a34b38e2ee39c7477828a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85806179,
+            "region_id":85688701,
+            "venue_id":840792511
+        }
+    ],
+    "wof:id":840792511,
+    "wof:lastmodified":1464048031,
+    "wof:name":"Wash House Laundry",
+    "wof:parent_id":85806179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.433444,
+    36.627223,
+    -87.433444,
+    36.627223
+],
+  "geometry": {"coordinates":[-87.43344399999999,36.627223],"type":"Point"}
+}

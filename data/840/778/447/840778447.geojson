@@ -1,0 +1,75 @@
+{
+  "id": 840778447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.693191,38.198667,-85.693191,38.198667",
+    "geom:latitude":38.198667,
+    "geom:longitude":-85.693191,
+    "iso:country":"US",
+    "sg:address":"1450 Gardiner Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 2211",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "mailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20zHivWZs5Ty9eX7Skk4UW_38.198667_-85.693191@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047729,
+    "wof:geomhash":"e58a350a7ab464063c7158f8217e6a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":840778447
+        }
+    ],
+    "wof:id":840778447,
+    "wof:lastmodified":1464047729,
+    "wof:name":"Mailtronix",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mailing"
+    ]
+},
+  "bbox": [
+    -85.693191,
+    38.198667,
+    -85.693191,
+    38.198667
+],
+  "geometry": {"coordinates":[-85.693191,38.198667],"type":"Point"}
+}

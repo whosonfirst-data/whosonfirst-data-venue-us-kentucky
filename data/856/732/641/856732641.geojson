@@ -1,0 +1,76 @@
+{
+  "id": 856732641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701808,38.228937,-85.701808,38.228937",
+    "geom:latitude":38.228937,
+    "geom:longitude":-85.701808,
+    "iso:country":"US",
+    "sg:address":"1767 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/82554-snappy-tomato-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 8191",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nbb3KtIY7rjniR3oWp9NH_38.228937_-85.701808@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053097,
+    "wof:geomhash":"af423b631710a444ed9ac7e820eb3530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856732641
+        }
+    ],
+    "wof:id":856732641,
+    "wof:lastmodified":1464053097,
+    "wof:name":"Snappy Tomato Pizza",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.701808,
+    38.228937,
+    -85.701808,
+    38.228937
+],
+  "geometry": {"coordinates":[-85.701808,38.228937],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 856752967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.668499,38.044676,-84.668499,38.044676",
+    "geom:latitude":38.044676,
+    "geom:longitude":-84.668499,
+    "iso:country":"US",
+    "sg:address":"3405 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 901 2471",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "part",
+        "used",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.kainford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uBBvkA0HheArpl79ZDJqD_38.044676_-84.668499@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053867,
+    "wof:geomhash":"0737a18fbe8c2cd5e7eda7662c27affc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752967
+        }
+    ],
+    "wof:id":856752967,
+    "wof:lastmodified":1464053867,
+    "wof:name":"Jack Kain Ford",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "part",
+        "used",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [
+    -84.668499,
+    38.044676,
+    -84.668499,
+    38.044676
+],
+  "geometry": {"coordinates":[-84.668499,38.044676],"type":"Point"}
+}

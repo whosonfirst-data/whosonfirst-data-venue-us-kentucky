@@ -1,0 +1,83 @@
+{
+  "id": 856759839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4506,39.060398,-84.4506,39.060398",
+    "geom:latitude":39.060398,
+    "geom:longitude":-84.4506,
+    "iso:country":"US",
+    "sg:address":"1437 S Fort Thomas Ave",
+    "sg:city":"Fort Thomas",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 781 1814",
+    "sg:postcode":"41075",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trainer",
+        "day"
+    ],
+    "sg:website":"www.myy.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808861,
+        102191575,
+        404523793,
+        85633793,
+        101712203,
+        102083687,
+        85688485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IUl4Tk0xYOuvvqbA4lLu7_39.060398_-84.450600@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054116,
+    "wof:geomhash":"635660e9b8c3ba57ce4098d6769ce09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85808861,
+            "region_id":85688485,
+            "venue_id":856759839
+        }
+    ],
+    "wof:id":856759839,
+    "wof:lastmodified":1464054116,
+    "wof:name":"YMCA of Greater Cincinnati",
+    "wof:parent_id":85808861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.4506,
+    39.060398,
+    -84.4506,
+    39.060398
+],
+  "geometry": {"coordinates":[-84.45059999999999,39.060398],"type":"Point"}
+}

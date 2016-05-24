@@ -1,0 +1,73 @@
+{
+  "id": 840552275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.677601,38.234347,-85.677601,38.234347",
+    "geom:latitude":38.234347,
+    "geom:longitude":-85.677601,
+    "iso:country":"US",
+    "sg:address":"2911 Seneca Park Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 2717",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tAvsITSimqOXDKI1g8qJu_38.234347_-85.677601@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042563,
+    "wof:geomhash":"7daa0f3c30c53b8e7840d8d4e7f0565f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873375,
+            "region_id":85688641,
+            "venue_id":840552275
+        }
+    ],
+    "wof:id":840552275,
+    "wof:lastmodified":1464042563,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85873375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.677601,
+    38.234347,
+    -85.677601,
+    38.234347
+],
+  "geometry": {"coordinates":[-85.677601,38.234347],"type":"Point"}
+}

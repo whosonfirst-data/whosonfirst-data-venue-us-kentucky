@@ -1,0 +1,73 @@
+{
+  "id": 840626035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421293,36.941648,-86.421293,36.941648",
+    "geom:latitude":36.941648,
+    "geom:longitude":-86.421293,
+    "iso:country":"US",
+    "sg:address":"3179 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 6811",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y3uKZGr6H60rJemL6Mot2_36.941648_-86.421293@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044323,
+    "wof:geomhash":"1762449d30efc8223f9d21fe7f7ceb62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840626035
+        }
+    ],
+    "wof:id":840626035,
+    "wof:lastmodified":1464044323,
+    "wof:name":"Greenwood Service Ctr",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.421293,
+    36.941648,
+    -86.421293,
+    36.941648
+],
+  "geometry": {"coordinates":[-86.42129300000001,36.941648],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840582605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278023,37.590999,-84.278023,37.590999",
+    "geom:latitude":37.590999,
+    "geom:longitude":-84.278023,
+    "iso:country":"US",
+    "sg:address":"106 Elkin St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 9076",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PudphZwItmChJSlJZbaRF_37.590999_-84.278023@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043267,
+    "wof:geomhash":"7200cfc6b164b90c7e8c90112772b948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840582605
+        }
+    ],
+    "wof:id":840582605,
+    "wof:lastmodified":1464043267,
+    "wof:name":"Hembree Builders",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -84.278023,
+    37.590999,
+    -84.278023,
+    37.590999
+],
+  "geometry": {"coordinates":[-84.278023,37.590999],"type":"Point"}
+}

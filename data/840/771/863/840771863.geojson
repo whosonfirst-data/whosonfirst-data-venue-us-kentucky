@@ -1,0 +1,71 @@
+{
+  "id": 840771863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.36156,38.378399,-85.36156,38.378399",
+    "geom:latitude":38.378399,
+    "geom:longitude":-85.36156,
+    "iso:country":"US",
+    "sg:address":"1305 Sunset Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 8279",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5myjQSuPXWCTXIm4kHFGKG_38.378399_-85.361560@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047609,
+    "wof:geomhash":"0aff78d88e94a787d2f60359178d6d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840771863
+        }
+    ],
+    "wof:id":840771863,
+    "wof:lastmodified":1464047609,
+    "wof:name":"Carver Homes LLC",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -85.36156,
+    38.378399,
+    -85.36156,
+    38.378399
+],
+  "geometry": {"coordinates":[-85.36156,38.378399],"type":"Point"}
+}

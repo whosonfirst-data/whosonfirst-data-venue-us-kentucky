@@ -1,0 +1,71 @@
+{
+  "id": 840627925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.590353,37.861389,-84.590353,37.861389",
+    "geom:latitude":37.861389,
+    "geom:longitude":-84.590353,
+    "iso:country":"US",
+    "sg:address":"312 Savannah Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 3777",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HrobMCbTOk9Virb7On86e_37.861389_-84.590353@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044377,
+    "wof:geomhash":"bb72c8ac083c3522166670c408fc3661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840627925
+        }
+    ],
+    "wof:id":840627925,
+    "wof:lastmodified":1464044377,
+    "wof:name":"Feathers N Fun",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.590353,
+    37.861389,
+    -84.590353,
+    37.861389
+],
+  "geometry": {"coordinates":[-84.59035299999999,37.861389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840785029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.394255,38.392653,-85.394255,38.392653",
+    "geom:latitude":38.392653,
+    "geom:longitude":-85.394255,
+    "iso:country":"US",
+    "sg:address":"2402 Allen Ln",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1973",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "die",
+        "cutting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dI03jTGavUAxSBnE9iNpJ_38.392653_-85.394255@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047857,
+    "wof:geomhash":"2d7429ac6885a30daa1571b57604a391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840785029
+        }
+    ],
+    "wof:id":840785029,
+    "wof:lastmodified":1464047857,
+    "wof:name":"Kentucky Kutters Inc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "cutting"
+    ]
+},
+  "bbox": [
+    -85.394255,
+    38.392653,
+    -85.394255,
+    38.392653
+],
+  "geometry": {"coordinates":[-85.394255,38.392653],"type":"Point"}
+}

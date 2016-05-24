@@ -1,0 +1,93 @@
+{
+  "id": 856752287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.537712,38.207202,-85.537712,38.207202",
+    "geom:latitude":38.207202,
+    "geom:longitude":-85.537712,
+    "iso:country":"US",
+    "sg:address":"11876 Capital Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 0139",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "home",
+        "estimate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sn6vTYbOZ7pjSvKZiVY5R_38.207202_-85.537712@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053843,
+    "wof:geomhash":"59c79039aba6dd2fec9203dc9a979aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752287
+        }
+    ],
+    "wof:id":856752287,
+    "wof:lastmodified":1464053843,
+    "wof:name":"Shelcon Construction Company",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "home",
+        "estimate"
+    ]
+},
+  "bbox": [
+    -85.537712,
+    38.207202,
+    -85.537712,
+    38.207202
+],
+  "geometry": {"coordinates":[-85.537712,38.207202],"type":"Point"}
+}

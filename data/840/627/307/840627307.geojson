@@ -1,0 +1,71 @@
+{
+  "id": 840627307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614466,37.119651,-84.614466,37.119651",
+    "geom:latitude":37.119651,
+    "geom:longitude":-84.614466,
+    "iso:country":"US",
+    "sg:address":"2305 State Hwy 1247",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 2518",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ImhdUlCRD4fHUBs3BrND8_37.119651_-84.614466@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044363,
+    "wof:geomhash":"1a72192b31b088c2853df53e53bbb5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840627307
+        }
+    ],
+    "wof:id":840627307,
+    "wof:lastmodified":1464044363,
+    "wof:name":"Elvie's Beauty Salon",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.614466,
+    37.119651,
+    -84.614466,
+    37.119651
+],
+  "geometry": {"coordinates":[-84.61446599999999,37.119651],"type":"Point"}
+}

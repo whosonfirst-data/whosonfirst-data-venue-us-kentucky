@@ -1,0 +1,71 @@
+{
+  "id": 840834635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294649,37.569706,-84.294649,37.569706",
+    "geom:latitude":37.569706,
+    "geom:longitude":-84.294649,
+    "iso:country":"US",
+    "sg:address":"108 Parkway St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 4391",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34WpmTKooZgHUogoIriL0g_37.569706_-84.294649@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049104,
+    "wof:geomhash":"eb3ef4932fbdb93632c9f5572fd5cede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840834635
+        }
+    ],
+    "wof:id":840834635,
+    "wof:lastmodified":1464049104,
+    "wof:name":"Berea City Sewer Commission",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.294649,
+    37.569706,
+    -84.294649,
+    37.569706
+],
+  "geometry": {"coordinates":[-84.29464900000001,37.569706],"type":"Point"}
+}

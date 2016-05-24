@@ -1,0 +1,68 @@
+{
+  "id": 856739625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.76339,38.246441,-85.76339,38.246441",
+    "geom:latitude":38.246441,
+    "geom:longitude":-85.76339,
+    "iso:country":"US",
+    "sg:address":"701 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 1676",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MpkSlByafI02yFZ2mwj3G_38.246441_-85.763390@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053364,
+    "wof:geomhash":"94cc5d67aacd9f8e0c41ca68739cd934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":856739625
+        }
+    ],
+    "wof:id":856739625,
+    "wof:lastmodified":1464053364,
+    "wof:name":"American Nail",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76339,
+    38.246441,
+    -85.76339,
+    38.246441
+],
+  "geometry": {"coordinates":[-85.76339,38.246441],"type":"Point"}
+}

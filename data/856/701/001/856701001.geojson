@@ -1,0 +1,69 @@
+{
+  "id": 856701001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662328,37.860757,-84.662328,37.860757",
+    "geom:latitude":37.860757,
+    "geom:longitude":-84.662328,
+    "iso:country":"US",
+    "sg:address":"102 E Main St",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3135",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K5hh8X2TvaxNIg4uSWsQs_37.860757_-84.662328@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052079,
+    "wof:geomhash":"caef00a789555f6099c1d27c2a4e8fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856701001
+        }
+    ],
+    "wof:id":856701001,
+    "wof:lastmodified":1464052079,
+    "wof:name":"Fitch's IGA Grocery",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.662328,
+    37.860757,
+    -84.662328,
+    37.860757
+],
+  "geometry": {"coordinates":[-84.662328,37.860757],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840810629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.535791,38.244747,-85.535791,38.244747",
+    "geom:latitude":38.244747,
+    "geom:longitude":-85.535791,
+    "iso:country":"US",
+    "sg:address":"11718 Old Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 5857",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cb3WmtctGdySToj2qFSoD_38.244747_-85.535791@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048442,
+    "wof:geomhash":"e13141da8aca02315fd8252b85c40caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840810629
+        }
+    ],
+    "wof:id":840810629,
+    "wof:lastmodified":1464048442,
+    "wof:name":"Jim's Barber Shop",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.535791,
+    38.244747,
+    -85.535791,
+    38.244747
+],
+  "geometry": {"coordinates":[-85.535791,38.244747],"type":"Point"}
+}

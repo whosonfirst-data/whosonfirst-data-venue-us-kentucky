@@ -1,0 +1,73 @@
+{
+  "id": 840733869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59181,37.865195,-84.59181,37.865195",
+    "geom:latitude":37.865195,
+    "geom:longitude":-84.59181,
+    "iso:country":"US",
+    "sg:address":"284 Biloxi Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2873",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a2KHHKVIwX8ZWiur8zQUV_37.865195_-84.591810@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046779,
+    "wof:geomhash":"05c796a23e89531bf160f968b3228d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840733869
+        }
+    ],
+    "wof:id":840733869,
+    "wof:lastmodified":1464046779,
+    "wof:name":"Curtis Benge Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.59181,
+    37.865195,
+    -84.59181,
+    37.865195
+],
+  "geometry": {"coordinates":[-84.59181,37.865195],"type":"Point"}
+}

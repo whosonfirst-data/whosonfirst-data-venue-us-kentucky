@@ -1,0 +1,71 @@
+{
+  "id": 856702507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.69365,37.0575,-88.69365,37.0575",
+    "geom:latitude":37.0575,
+    "geom:longitude":-88.69365,
+    "iso:country":"US",
+    "sg:address":"2110 Holt Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 4634",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lhkh3c9DTxGx1Yutss0x2_37.057500_-88.693650@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052119,
+    "wof:geomhash":"beca53f770972e28d15ff3da1aa1619b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856702507
+        }
+    ],
+    "wof:id":856702507,
+    "wof:lastmodified":1464052119,
+    "wof:name":"Twelve Oaks Baptist Church",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -88.69365,
+    37.0575,
+    -88.69365,
+    37.0575
+],
+  "geometry": {"coordinates":[-88.69365000000001,37.0575],"type":"Point"}
+}

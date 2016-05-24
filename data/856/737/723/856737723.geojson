@@ -1,0 +1,79 @@
+{
+  "id": 856737723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.510973,39.089626,-84.510973,39.089626",
+    "geom:latitude":39.089626,
+    "geom:longitude":-84.510973,
+    "iso:country":"US",
+    "sg:address":"50 E Rivercenter Blvd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/16813-behle-street-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 291 4100",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85873129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SI68AOtmax5suBakHWPIb_39.089836_-84.510427@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053293,
+    "wof:geomhash":"bb2524e79fa6f0d81a0ee14192f32635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85873129,
+            "region_id":85688641,
+            "venue_id":856737723
+        }
+    ],
+    "wof:id":856737723,
+    "wof:lastmodified":1464053293,
+    "wof:name":"Behle Street Cafe",
+    "wof:parent_id":85873129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.510973,
+    39.089626,
+    -84.510973,
+    39.089626
+],
+  "geometry": {"coordinates":[-84.51097300000001,39.089626],"type":"Point"}
+}

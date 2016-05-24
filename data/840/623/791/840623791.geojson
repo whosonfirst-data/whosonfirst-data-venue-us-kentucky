@@ -1,0 +1,71 @@
+{
+  "id": 840623791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.816922,37.253365,-85.816922,37.253365",
+    "geom:latitude":37.253365,
+    "geom:longitude":-85.816922,
+    "iso:country":"US",
+    "sg:address":"2821 Shady Lane Church Rd",
+    "sg:city":"Munfordville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 528 2424",
+    "sg:postcode":"42765",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rXEDy0RG1FVkuvj21W6UI_37.253365_-85.816922@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044262,
+    "wof:geomhash":"27e7d89693fe09d03786b0c98c577bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840623791
+        }
+    ],
+    "wof:id":840623791,
+    "wof:lastmodified":1464044262,
+    "wof:name":"Merediths Frame & Restoration",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.816922,
+    37.253365,
+    -85.816922,
+    37.253365
+],
+  "geometry": {"coordinates":[-85.81692200000001,37.253365],"type":"Point"}
+}

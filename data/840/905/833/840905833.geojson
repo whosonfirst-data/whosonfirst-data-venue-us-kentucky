@@ -1,0 +1,75 @@
+{
+  "id": 840905833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.562408,37.047343,-88.562408,37.047343",
+    "geom:latitude":37.047343,
+    "geom:longitude":-88.562408,
+    "iso:country":"US",
+    "sg:address":"510 Florida St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5362",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kw9D6gz7Wl7XaWC9MyS39_37.047343_-88.562408@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050609,
+    "wof:geomhash":"f2eb4a90c5e3ff9b5094ce0d42efa3d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840905833
+        }
+    ],
+    "wof:id":840905833,
+    "wof:lastmodified":1464050609,
+    "wof:name":"Mack's Body Shop",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -88.562408,
+    37.047343,
+    -88.562408,
+    37.047343
+],
+  "geometry": {"coordinates":[-88.562408,37.047343],"type":"Point"}
+}

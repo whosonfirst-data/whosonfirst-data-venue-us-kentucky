@@ -1,0 +1,71 @@
+{
+  "id": 840808657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444598,36.934241,-86.444598,36.934241",
+    "geom:latitude":36.934241,
+    "geom:longitude":-86.444598,
+    "iso:country":"US",
+    "sg:address":"1528 Neptune Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 202 2979",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cTBoUQqJqi1FUQn65DuMa_36.934241_-86.444598@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048375,
+    "wof:geomhash":"2b843c32bbb2a08066e61893324eb34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840808657
+        }
+    ],
+    "wof:id":840808657,
+    "wof:lastmodified":1464048375,
+    "wof:name":"Ameri Dream Home Inspection",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -86.444598,
+    36.934241,
+    -86.444598,
+    36.934241
+],
+  "geometry": {"coordinates":[-86.444598,36.934241],"type":"Point"}
+}

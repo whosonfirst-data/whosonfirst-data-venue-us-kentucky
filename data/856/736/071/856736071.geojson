@@ -1,0 +1,76 @@
+{
+  "id": 856736071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.691633,37.075261,-88.691633,37.075261",
+    "geom:latitude":37.075261,
+    "geom:longitude":-88.691633,
+    "iso:country":"US",
+    "sg:address":"5139 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/173571-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 7622",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VM3jmhDgEL6jMBghanKbP_37.075261_-88.691633@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053221,
+    "wof:geomhash":"452c0e710d60cbf08fd3aadb1ab9d6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736071
+        }
+    ],
+    "wof:id":856736071,
+    "wof:lastmodified":1464053221,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -88.691633,
+    37.075261,
+    -88.691633,
+    37.075261
+],
+  "geometry": {"coordinates":[-88.691633,37.075261],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840901201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658114,38.256259,-85.658114,38.256259",
+    "geom:latitude":38.256259,
+    "geom:longitude":-85.658114,
+    "iso:country":"US",
+    "sg:address":"143 Chenoweth Ln",
+    "sg:city":"St Matthews",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 6232",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UpIDhVSLtRypcWRJT2oUo_38.256259_-85.658114@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050523,
+    "wof:geomhash":"89c6a145aef0d287f40c1b12233f67fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840901201
+        }
+    ],
+    "wof:id":840901201,
+    "wof:lastmodified":1464050523,
+    "wof:name":"Art Studio Smythe",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -85.658114,
+    38.256259,
+    -85.658114,
+    38.256259
+],
+  "geometry": {"coordinates":[-85.658114,38.256259],"type":"Point"}
+}

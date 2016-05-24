@@ -1,0 +1,79 @@
+{
+  "id": 840674731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.665509,38.195043,-85.665509,38.195043",
+    "geom:latitude":38.195043,
+    "geom:longitude":-85.665509,
+    "iso:country":"US",
+    "sg:address":"1918 Hikes Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 473 2400",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:website":"www.statefarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VJaq6PUrBBWIf2vRDRMNW_38.195043_-85.665509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045438,
+    "wof:geomhash":"c9ae7bb282ce2b7b85b6455887f3a1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840674731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840674731
+        }
+    ],
+    "wof:id":840674731,
+    "wof:lastmodified":1464045438,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.665509,
+    38.195043,
+    -85.665509,
+    38.195043
+],
+  "geometry": {"coordinates":[-85.665509,38.195043],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840932683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800655,38.159177,-85.800655,38.159177",
+    "geom:latitude":38.159177,
+    "geom:longitude":-85.800655,
+    "iso:country":"US",
+    "sg:address":"2714 Holly Park Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 8837",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "townhouses"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33s88Hstro7AtDOkx6rWPv_38.159177_-85.800655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051301,
+    "wof:geomhash":"eb01744688eba6513f66c9e212ce82eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840932683
+        }
+    ],
+    "wof:id":840932683,
+    "wof:lastmodified":1464051301,
+    "wof:name":"Holly Park Townhouses",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "townhouses"
+    ]
+},
+  "bbox": [
+    -85.800655,
+    38.159177,
+    -85.800655,
+    38.159177
+],
+  "geometry": {"coordinates":[-85.80065500000001,38.159177],"type":"Point"}
+}

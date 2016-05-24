@@ -1,0 +1,76 @@
+{
+  "id": 856737419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764683,38.157913,-85.764683,38.157913",
+    "geom:latitude":38.157913,
+    "geom:longitude":-85.764683,
+    "iso:country":"US",
+    "sg:address":"6902 Southside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-south/83769-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 2120",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E7H0uOopzagZLPbPV3TKz_38.157824_-85.764741@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053280,
+    "wof:geomhash":"e299da465cb4606255a1819cddd27535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856737419
+        }
+    ],
+    "wof:id":856737419,
+    "wof:lastmodified":1464053280,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.764683,
+    38.157913,
+    -85.764683,
+    38.157913
+],
+  "geometry": {"coordinates":[-85.76468300000001,38.157913],"type":"Point"}
+}

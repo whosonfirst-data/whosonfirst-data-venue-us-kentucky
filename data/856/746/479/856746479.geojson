@@ -1,0 +1,95 @@
+{
+  "id": 856746479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.653388,38.195972,-85.653388,38.195972",
+    "geom:latitude":38.195972,
+    "geom:longitude":-85.653388,
+    "iso:country":"US",
+    "sg:address":"2206 Bradford Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 762 1794",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "shop",
+        "equipment",
+        "air conditioning",
+        "painting",
+        "repairing",
+        "service-equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o1J0enY1yrplntBC7oWsu_38.195972_-85.653388@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053612,
+    "wof:geomhash":"bfd02681016887ca9de59198229e055b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746479
+        }
+    ],
+    "wof:id":856746479,
+    "wof:lastmodified":1464053612,
+    "wof:name":"Coric Auto Repair",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "equipment",
+        "air conditioning",
+        "painting",
+        "repairing",
+        "service-equipment"
+    ]
+},
+  "bbox": [
+    -85.653388,
+    38.195972,
+    -85.653388,
+    38.195972
+],
+  "geometry": {"coordinates":[-85.65338800000001,38.195972],"type":"Point"}
+}

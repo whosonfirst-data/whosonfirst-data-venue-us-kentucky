@@ -1,0 +1,73 @@
+{
+  "id": 856710083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579438,38.24661,-85.579438,38.24661",
+    "geom:latitude":38.24661,
+    "geom:longitude":-85.579438,
+    "iso:country":"US",
+    "sg:address":"9300 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 412 0522",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eIOrWGZ2PmRzWfxQsLeuM_38.246610_-85.579438@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052269,
+    "wof:geomhash":"36048e4cee08dc333cc9258d7dd44363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856710083
+        }
+    ],
+    "wof:id":856710083,
+    "wof:lastmodified":1464052269,
+    "wof:name":"Main Billing Account",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -85.579438,
+    38.24661,
+    -85.579438,
+    38.24661
+],
+  "geometry": {"coordinates":[-85.579438,38.24661],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840706907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.692875,38.222871,-85.692875,38.222871",
+    "geom:latitude":38.222871,
+    "geom:longitude":-85.692875,
+    "iso:country":"US",
+    "sg:address":"2234 Dundee Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 3030",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qPf2t9Qom886vNfHI45zX_38.222871_-85.692875@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046245,
+    "wof:geomhash":"90763e5ec588f0cebb70227661377c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":840706907
+        }
+    ],
+    "wof:id":840706907,
+    "wof:lastmodified":1464046245,
+    "wof:name":"Computer Concepts LTD",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -85.692875,
+    38.222871,
+    -85.692875,
+    38.222871
+],
+  "geometry": {"coordinates":[-85.692875,38.222871],"type":"Point"}
+}

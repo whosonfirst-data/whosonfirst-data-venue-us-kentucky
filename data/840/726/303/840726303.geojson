@@ -1,0 +1,68 @@
+{
+  "id": 840726303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.485029,38.033069,-84.485029,38.033069",
+    "geom:latitude":38.033069,
+    "geom:longitude":-84.485029,
+    "iso:country":"US",
+    "sg:address":"101 S Hanover Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 269 5638",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e2FnlCSRu0ax6bs7E6nib_38.033069_-84.485029@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046642,
+    "wof:geomhash":"6491e44186d032e8ce4fb74f47e09273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873061,
+            "region_id":85688641,
+            "venue_id":840726303
+        }
+    ],
+    "wof:id":840726303,
+    "wof:lastmodified":1464046642,
+    "wof:name":"Banahan Real Estate",
+    "wof:parent_id":85873061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.485029,
+    38.033069,
+    -84.485029,
+    38.033069
+],
+  "geometry": {"coordinates":[-84.485029,38.033069],"type":"Point"}
+}

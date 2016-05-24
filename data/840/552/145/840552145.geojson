@@ -1,0 +1,77 @@
+{
+  "id": 840552145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579241,38.242652,-85.579241,38.242652",
+    "geom:latitude":38.242652,
+    "geom:longitude":-85.579241,
+    "iso:country":"US",
+    "sg:address":"307 Whittington Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 429 9010",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vmY17mDxw3MZMS5XWprmR_38.242652_-85.579241@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042559,
+    "wof:geomhash":"224d2e80dc411e0a61de9c30fbf34bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840552145
+        }
+    ],
+    "wof:id":840552145,
+    "wof:lastmodified":1464042559,
+    "wof:name":"Twins Professinal Pet Grooming",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.579241,
+    38.242652,
+    -85.579241,
+    38.242652
+],
+  "geometry": {"coordinates":[-85.579241,38.242652],"type":"Point"}
+}

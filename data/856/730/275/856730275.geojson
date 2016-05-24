@@ -1,0 +1,73 @@
+{
+  "id": 856730275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.583738,37.05934,-88.583738,37.05934",
+    "geom:latitude":37.05934,
+    "geom:longitude":-88.583738,
+    "iso:country":"US",
+    "sg:address":"2193 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 5351",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "part"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zt59ool16E9xbhxt3NTFl_37.059304_-88.583828@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053012,
+    "wof:geomhash":"d3fa47e991d977641bbb84c632714216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856730275
+        }
+    ],
+    "wof:id":856730275,
+    "wof:lastmodified":1464053012,
+    "wof:name":"Carquest Auto Parts",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part"
+    ]
+},
+  "bbox": [
+    -88.583738,
+    37.05934,
+    -88.583738,
+    37.05934
+],
+  "geometry": {"coordinates":[-88.583738,37.05934],"type":"Point"}
+}

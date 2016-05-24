@@ -1,0 +1,71 @@
+{
+  "id": 856726661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.622073,37.008093,-84.622073,37.008093",
+    "geom:latitude":37.008093,
+    "geom:longitude":-84.622073,
+    "iso:country":"US",
+    "sg:address":"6440 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 3861",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73xTXxrKT5EGwGkXI6W9i9_37.008093_-84.622073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052856,
+    "wof:geomhash":"2b2709c72ae64db844b3ba7c5f5444c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856726661
+        }
+    ],
+    "wof:id":856726661,
+    "wof:lastmodified":1464052856,
+    "wof:name":"Tomlison Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.622073,
+    37.008093,
+    -84.622073,
+    37.008093
+],
+  "geometry": {"coordinates":[-84.622073,37.008093],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856702183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.761998,37.649877,-84.761998,37.649877",
+    "geom:latitude":37.649877,
+    "geom:longitude":-84.761998,
+    "iso:country":"US",
+    "sg:address":"554 E Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 6654",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ATbooBTkEztJWlWgTQOHy_37.649877_-84.761998@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052112,
+    "wof:geomhash":"f335a7c7471060118a7e244877756a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856702183
+        }
+    ],
+    "wof:id":856702183,
+    "wof:lastmodified":1464052112,
+    "wof:name":"Allen's Service & Towing",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.761998,
+    37.649877,
+    -84.761998,
+    37.649877
+],
+  "geometry": {"coordinates":[-84.76199800000001,37.649877],"type":"Point"}
+}

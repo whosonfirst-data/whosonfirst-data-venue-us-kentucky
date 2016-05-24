@@ -1,0 +1,71 @@
+{
+  "id": 840942109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.584493,37.83935,-87.584493,37.83935",
+    "geom:latitude":37.83935,
+    "geom:longitude":-87.584493,
+    "iso:country":"US",
+    "sg:address":"627 3rd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9791",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60L72kJ2ciQPt2RDAOUtc7_37.839350_-87.584493@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051487,
+    "wof:geomhash":"457df90bdf867adb51e83bb08ce6a34e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840942109
+        }
+    ],
+    "wof:id":840942109,
+    "wof:lastmodified":1464051487,
+    "wof:name":"Pike Trucking",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.584493,
+    37.83935,
+    -87.584493,
+    37.83935
+],
+  "geometry": {"coordinates":[-87.58449299999999,37.83935],"type":"Point"}
+}

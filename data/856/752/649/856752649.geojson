@@ -1,0 +1,95 @@
+{
+  "id": 856752649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.557174,38.183159,-84.557174,38.183159",
+    "geom:latitude":38.183159,
+    "geom:longitude":-84.557174,
+    "iso:country":"US",
+    "sg:address":"143 Southgate Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 5986",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "delivery",
+        "balloon",
+        "balloons-retail",
+        "decorator"
+    ],
+    "sg:website":"http://www.georgetownflowers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c7918eqBg31QxXFkMaj2B_38.183159_-84.557174@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053856,
+    "wof:geomhash":"55dd1d626952840232b9e00c4ea77c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856752649
+        }
+    ],
+    "wof:id":856752649,
+    "wof:lastmodified":1464053856,
+    "wof:name":"Georgetown Flowers & Gifts",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delivery",
+        "balloon",
+        "balloons-retail",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -84.557174,
+    38.183159,
+    -84.557174,
+    38.183159
+],
+  "geometry": {"coordinates":[-84.557174,38.183159],"type":"Point"}
+}

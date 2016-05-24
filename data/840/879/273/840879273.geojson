@@ -1,0 +1,74 @@
+{
+  "id": 840879273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.554452,38.207953,-84.554452,38.207953",
+    "geom:latitude":38.207953,
+    "geom:longitude":-84.554452,
+    "iso:country":"US",
+    "sg:address":"400 E College St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 8009",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.georgetowncollege.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5StB0wGqg3zgFZR5liFvVc_38.207953_-84.554452@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050062,
+    "wof:geomhash":"56ae3bbe8d1799f9fdbbf1849bbe41c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840879273
+        }
+    ],
+    "wof:id":840879273,
+    "wof:lastmodified":1464050062,
+    "wof:name":"Georgetown College",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -84.554452,
+    38.207953,
+    -84.554452,
+    38.207953
+],
+  "geometry": {"coordinates":[-84.554452,38.207953],"type":"Point"}
+}

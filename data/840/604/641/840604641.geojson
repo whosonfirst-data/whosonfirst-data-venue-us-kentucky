@@ -1,0 +1,73 @@
+{
+  "id": 840604641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752562,38.228707,-85.752562,38.228707",
+    "geom:latitude":38.228707,
+    "geom:longitude":-85.752562,
+    "iso:country":"US",
+    "sg:address":"1379 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 6216",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concession"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pqdQ7zDw7o6hMFaExZYn9_38.228707_-85.752562@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043771,
+    "wof:geomhash":"477bf43dc0c3b568a7563886bd951a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840604641
+        }
+    ],
+    "wof:id":840604641,
+    "wof:lastmodified":1464043771,
+    "wof:name":"E & J Concessions",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concession"
+    ]
+},
+  "bbox": [
+    -85.752562,
+    38.228707,
+    -85.752562,
+    38.228707
+],
+  "geometry": {"coordinates":[-85.752562,38.228707],"type":"Point"}
+}

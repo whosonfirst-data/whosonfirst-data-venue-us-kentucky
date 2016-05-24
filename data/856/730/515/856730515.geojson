@@ -1,0 +1,80 @@
+{
+  "id": 856730515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752534,38.22633,-85.752534,38.22633",
+    "geom:latitude":38.22633,
+    "geom:longitude":-85.752534,
+    "iso:country":"US",
+    "sg:address":"314 E Burnett Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 6000",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "metal",
+        "work",
+        "sheet",
+        "air"
+    ],
+    "sg:website":"http://www.kadco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gblChcC6F6VnJUc4q8HI6_38.226276_-85.752714@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053020,
+    "wof:geomhash":"e6db369fdfc36ebcccdf132b6eb40aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866959,
+            "region_id":85688641,
+            "venue_id":856730515
+        }
+    ],
+    "wof:id":856730515,
+    "wof:lastmodified":1464053020,
+    "wof:name":"Acme Furnace Supply",
+    "wof:parent_id":85866959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal",
+        "work",
+        "sheet",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.752534,
+    38.22633,
+    -85.752534,
+    38.22633
+],
+  "geometry": {"coordinates":[-85.752534,38.22633],"type":"Point"}
+}

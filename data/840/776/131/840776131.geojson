@@ -1,0 +1,73 @@
+{
+  "id": 840776131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.392105,36.573772,-87.392105,36.573772",
+    "geom:latitude":36.573772,
+    "geom:longitude":-87.392105,
+    "iso:country":"US",
+    "sg:address":"900 Ryan Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 320 7045",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85810067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7835crL2N6f74iqJqeX5nf_36.573772_-87.392105@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047688,
+    "wof:geomhash":"aa0cdf6a9afb6dacb4d6a2b38487a454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85810067,
+            "region_id":85688701,
+            "venue_id":840776131
+        }
+    ],
+    "wof:id":840776131,
+    "wof:lastmodified":1464047688,
+    "wof:name":"B S Touch of Class",
+    "wof:parent_id":85810067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -87.392105,
+    36.573772,
+    -87.392105,
+    36.573772
+],
+  "geometry": {"coordinates":[-87.392105,36.573772],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840683977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739812,36.605188,-83.739812,36.605188",
+    "geom:latitude":36.605188,
+    "geom:longitude":-83.739812,
+    "iso:country":"US",
+    "sg:address":"3602 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6999",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OiVTvKtSLqovR0hUSuOBO_36.605188_-83.739812@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045668,
+    "wof:geomhash":"ac0b0291dff94ad6ab1784d42293635e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840683977
+        }
+    ],
+    "wof:id":840683977,
+    "wof:lastmodified":1464045668,
+    "wof:name":"Sunrise Pediatrics PLLC",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.739812,
+    36.605188,
+    -83.739812,
+    36.605188
+],
+  "geometry": {"coordinates":[-83.739812,36.605188],"type":"Point"}
+}

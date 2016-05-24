@@ -1,0 +1,72 @@
+{
+  "id": 840630135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694282,36.760986,-83.694282,36.760986",
+    "geom:latitude":36.760986,
+    "geom:longitude":-83.694282,
+    "iso:country":"US",
+    "sg:address":"106 Cherry St",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 2045",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director"
+    ],
+    "sg:website":"www.arnettsteele.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56uhdmVwfHc3EPiMbdq10O_36.760986_-83.694282@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044439,
+    "wof:geomhash":"acbf147b93a0fbb494abb2a517e3e20f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840630135
+        }
+    ],
+    "wof:id":840630135,
+    "wof:lastmodified":1464044439,
+    "wof:name":"Arnett & Steele Funeral Home",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -83.694282,
+    36.760986,
+    -83.694282,
+    36.760986
+],
+  "geometry": {"coordinates":[-83.694282,36.760986],"type":"Point"}
+}

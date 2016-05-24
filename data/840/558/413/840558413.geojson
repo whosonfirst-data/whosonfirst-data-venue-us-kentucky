@@ -1,0 +1,75 @@
+{
+  "id": 840558413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429393,36.988437,-86.429393,36.988437",
+    "geom:latitude":36.988437,
+    "geom:longitude":-86.429393,
+    "iso:country":"US",
+    "sg:address":"661 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 2305",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15L8XRsUKodhJdFPLHvkyY_36.988437_-86.429393@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042702,
+    "wof:geomhash":"411499ea2d0bf388a28e39af9942a5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840558413
+        }
+    ],
+    "wof:id":840558413,
+    "wof:lastmodified":1464042702,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -86.429393,
+    36.988437,
+    -86.429393,
+    36.988437
+],
+  "geometry": {"coordinates":[-86.429393,36.988437],"type":"Point"}
+}

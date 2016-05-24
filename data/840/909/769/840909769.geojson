@@ -1,0 +1,75 @@
+{
+  "id": 840909769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.693953,38.221017,-85.693953,38.221017",
+    "geom:latitude":38.221017,
+    "geom:longitude":-85.693953,
+    "iso:country":"US",
+    "sg:address":"2307 Blvd Napoleon",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 6078",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aw5DHcA6NkE35EU6BbmkR_38.221017_-85.693953@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050717,
+    "wof:geomhash":"6fde79472165c6a71e9d66b13db974a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":840909769
+        }
+    ],
+    "wof:id":840909769,
+    "wof:lastmodified":1464050717,
+    "wof:name":"Napoleon Holdings Inc",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -85.693953,
+    38.221017,
+    -85.693953,
+    38.221017
+],
+  "geometry": {"coordinates":[-85.69395299999999,38.221017],"type":"Point"}
+}

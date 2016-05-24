@@ -1,0 +1,68 @@
+{
+  "id": 840592309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.295951,37.746431,-84.295951,37.746431",
+    "geom:latitude":37.746431,
+    "geom:longitude":-84.295951,
+    "iso:country":"US",
+    "sg:address":"298 S 2nd St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 5343",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69EwC5C8tafOc9hbpHcero_37.746431_-84.295951@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043474,
+    "wof:geomhash":"b65135d38899329cb41f3c0d771b701e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840592309
+        }
+    ],
+    "wof:id":840592309,
+    "wof:lastmodified":1464043474,
+    "wof:name":"Colonel's Corner",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.295951,
+    37.746431,
+    -84.295951,
+    37.746431
+],
+  "geometry": {"coordinates":[-84.295951,37.746431],"type":"Point"}
+}

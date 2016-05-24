@@ -1,0 +1,82 @@
+{
+  "id": 840804947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.357241,37.705802,-84.357241,37.705802",
+    "geom:latitude":37.705802,
+    "geom:longitude":-84.357241,
+    "iso:country":"US",
+    "sg:address":"235 Taylors Fork Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1881",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operation",
+        "charter",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RMzwCq7s7yOe61JkfmLQF_37.705802_-84.357241@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048298,
+    "wof:geomhash":"17c7f36c68a8d5ae8c5a0d7fddda9afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840804947
+        }
+    ],
+    "wof:id":840804947,
+    "wof:lastmodified":1464048298,
+    "wof:name":"Wilgreen Boat Dock",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "charter",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.357241,
+    37.705802,
+    -84.357241,
+    37.705802
+],
+  "geometry": {"coordinates":[-84.357241,37.705802],"type":"Point"}
+}

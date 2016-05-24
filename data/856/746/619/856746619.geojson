@@ -1,0 +1,73 @@
+{
+  "id": 856746619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660427,38.176868,-85.660427,38.176868",
+    "geom:latitude":38.176868,
+    "geom:longitude":-85.660427,
+    "iso:country":"US",
+    "sg:address":"5406 Armsmere Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 742 5800",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50uBJKgdNKmuJFBQPTj065_38.176868_-85.660427@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053617,
+    "wof:geomhash":"4cebce7ad1247e78a0d8b82b7c54fa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746619
+        }
+    ],
+    "wof:id":856746619,
+    "wof:lastmodified":1464053617,
+    "wof:name":"Good Fun",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -85.660427,
+    38.176868,
+    -85.660427,
+    38.176868
+],
+  "geometry": {"coordinates":[-85.660427,38.176868],"type":"Point"}
+}

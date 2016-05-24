@@ -1,0 +1,71 @@
+{
+  "id": 840759239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.870709,37.698047,-85.870709,37.698047",
+    "geom:latitude":37.698047,
+    "geom:longitude":-85.870709,
+    "iso:country":"US",
+    "sg:address":"510 Pennsylvania Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 9045",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P1KUc0utg7L9vpN0OVCRz_37.698047_-85.870709@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047314,
+    "wof:geomhash":"6096b73cdd7060f9bb6074f20d07493f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840759239
+        }
+    ],
+    "wof:id":840759239,
+    "wof:lastmodified":1464047314,
+    "wof:name":"Sun Dance Rehabilitation",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -85.870709,
+    37.698047,
+    -85.870709,
+    37.698047
+],
+  "geometry": {"coordinates":[-85.87070900000001,37.698047],"type":"Point"}
+}

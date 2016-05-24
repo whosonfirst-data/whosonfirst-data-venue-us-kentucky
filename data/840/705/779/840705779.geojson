@@ -1,0 +1,71 @@
+{
+  "id": 840705779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.903089,37.6781,-85.903089,37.6781",
+    "geom:latitude":37.6781,
+    "geom:longitude":-85.903089,
+    "iso:country":"US",
+    "sg:address":"1210 Western St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5336",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nursing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77XCw1kNhhXdsDIksOkzVT_37.678100_-85.903089@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046220,
+    "wof:geomhash":"a0f61406f3a9450b39ac4afad8122346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840705779
+        }
+    ],
+    "wof:id":840705779,
+    "wof:lastmodified":1464046220,
+    "wof:name":"Laura Deneen",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing"
+    ]
+},
+  "bbox": [
+    -85.903089,
+    37.6781,
+    -85.903089,
+    37.6781
+],
+  "geometry": {"coordinates":[-85.90308899999999,37.6781],"type":"Point"}
+}

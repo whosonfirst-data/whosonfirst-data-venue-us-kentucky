@@ -1,0 +1,71 @@
+{
+  "id": 840915115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.706003,37.05601,-84.706003,37.05601",
+    "geom:latitude":37.05601,
+    "geom:longitude":-84.706003,
+    "iso:country":"US",
+    "sg:address":"271 Todd Rd",
+    "sg:city":"Nancy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 636 6542",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z86yxEdr3dh9wrAWvtEsB_37.056010_-84.706003@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050873,
+    "wof:geomhash":"436647cf16005c9c86f1a4fd4469e007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840915115
+        }
+    ],
+    "wof:id":840915115,
+    "wof:lastmodified":1464050873,
+    "wof:name":"Quality Roofing",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.706003,
+    37.05601,
+    -84.706003,
+    37.05601
+],
+  "geometry": {"coordinates":[-84.706003,37.05601],"type":"Point"}
+}

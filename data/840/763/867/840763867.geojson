@@ -1,0 +1,71 @@
+{
+  "id": 840763867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614181,36.991922,-84.614181,36.991922",
+    "geom:latitude":36.991922,
+    "geom:longitude":-84.614181,
+    "iso:country":"US",
+    "sg:address":"36 Fairlawn Ave",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6540",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transporting",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ARb08dZhIP8hFX1ZUBxIj_36.991922_-84.614181@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047425,
+    "wof:geomhash":"8cc8a3b876c003f0e20aa65f661e3150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840763867
+        }
+    ],
+    "wof:id":840763867,
+    "wof:lastmodified":1464047425,
+    "wof:name":"Boat Transport",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporting",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.614181,
+    36.991922,
+    -84.614181,
+    36.991922
+],
+  "geometry": {"coordinates":[-84.614181,36.991922],"type":"Point"}
+}

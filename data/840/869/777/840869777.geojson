@@ -1,0 +1,71 @@
+{
+  "id": 840869777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.653574,37.083836,-88.653574,37.083836",
+    "geom:latitude":37.083836,
+    "geom:longitude":-88.653574,
+    "iso:country":"US",
+    "sg:address":"3315 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0151",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qd2UKAMD1mqE5QFVooJzo_37.083836_-88.653574@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049850,
+    "wof:geomhash":"46ada6dc064410f05456c664ca31b0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840869777
+        }
+    ],
+    "wof:id":840869777,
+    "wof:lastmodified":1464049850,
+    "wof:name":"Precision Transmission",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -88.653574,
+    37.083836,
+    -88.653574,
+    37.083836
+],
+  "geometry": {"coordinates":[-88.65357400000001,37.083836],"type":"Point"}
+}

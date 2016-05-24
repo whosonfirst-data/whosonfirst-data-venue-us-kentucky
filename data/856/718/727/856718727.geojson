@@ -1,0 +1,68 @@
+{
+  "id": 856718727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.788008,38.182375,-85.788008,38.182375",
+    "geom:latitude":38.182375,
+    "geom:longitude":-85.788008,
+    "iso:country":"US",
+    "sg:address":"4114 Hazelwood Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 8401",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6odjGU61IM85HiBzzWblyL_38.182375_-85.788008@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052537,
+    "wof:geomhash":"7f7fb958c6945a4fe1fc1116ad2722df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824429,
+            "region_id":85688641,
+            "venue_id":856718727
+        }
+    ],
+    "wof:id":856718727,
+    "wof:lastmodified":1464052537,
+    "wof:name":"Short Stop Food Mart",
+    "wof:parent_id":85824429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.788008,
+    38.182375,
+    -85.788008,
+    38.182375
+],
+  "geometry": {"coordinates":[-85.788008,38.182375],"type":"Point"}
+}

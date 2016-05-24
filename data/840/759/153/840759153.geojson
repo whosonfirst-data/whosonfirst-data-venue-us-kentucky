@@ -1,0 +1,71 @@
+{
+  "id": 840759153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.854851,37.649735,-84.854851,37.649735",
+    "geom:latitude":37.649735,
+    "geom:longitude":-84.854851,
+    "iso:country":"US",
+    "sg:address":"4873 Perryville Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3770",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAR61tFifr4drBLtwWGbG_37.649735_-84.854851@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047312,
+    "wof:geomhash":"6487e640df98899de168086689dd7597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840759153
+        }
+    ],
+    "wof:id":840759153,
+    "wof:lastmodified":1464047312,
+    "wof:name":"Thomas Rankin",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.854851,
+    37.649735,
+    -84.854851,
+    37.649735
+],
+  "geometry": {"coordinates":[-84.854851,37.649735],"type":"Point"}
+}

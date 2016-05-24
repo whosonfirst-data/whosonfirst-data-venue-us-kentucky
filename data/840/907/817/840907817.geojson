@@ -1,0 +1,71 @@
+{
+  "id": 840907817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.456535,37.566759,-82.456535,37.566759",
+    "geom:latitude":37.566759,
+    "geom:longitude":-82.456535,
+    "iso:country":"US",
+    "sg:address":"8094 Meta Hwy",
+    "sg:city":"Meta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 631 1826",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M1kNXl7W1vS8Htf3KGzA7_37.566759_-82.456535@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050658,
+    "wof:geomhash":"ec02029762155dee38533cef253a91ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840907817
+        }
+    ],
+    "wof:id":840907817,
+    "wof:lastmodified":1464050658,
+    "wof:name":"Johns Creek Volunteer Fire Dpt",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.456535,
+    37.566759,
+    -82.456535,
+    37.566759
+],
+  "geometry": {"coordinates":[-82.456535,37.566759],"type":"Point"}
+}

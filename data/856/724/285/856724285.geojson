@@ -1,0 +1,73 @@
+{
+  "id": 856724285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.741239,39.077596,-84.741239,39.077596",
+    "geom:latitude":39.077596,
+    "geom:longitude":-84.741239,
+    "iso:country":"US",
+    "sg:address":"3169 Petersburg Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 866 9601",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k3ZfVlRiNYd1jlffFN2bH_39.077596_-84.741239@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052765,
+    "wof:geomhash":"78f378cffa17446547a3e636ce20431b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":856724285
+        }
+    ],
+    "wof:id":856724285,
+    "wof:lastmodified":1464052765,
+    "wof:name":"Heritage Roofing",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.741239,
+    39.077596,
+    -84.741239,
+    39.077596
+],
+  "geometry": {"coordinates":[-84.74123899999999,39.077596],"type":"Point"}
+}

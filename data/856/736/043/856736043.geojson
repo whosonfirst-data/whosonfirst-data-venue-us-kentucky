@@ -1,0 +1,74 @@
+{
+  "id": 856736043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690778,37.068939,-88.690778,37.068939",
+    "geom:latitude":37.068939,
+    "geom:longitude":-88.690778,
+    "iso:country":"US",
+    "sg:address":"2351 New Holt Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/120690-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 534 9397",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h5gctQWs8cWvZ1o2mpEsU_37.068939_-88.690778@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053220,
+    "wof:geomhash":"f88cb26a0fe92268aab771a9820d9bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736043
+        }
+    ],
+    "wof:id":856736043,
+    "wof:lastmodified":1464053220,
+    "wof:name":"Subway",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.690778,
+    37.068939,
+    -88.690778,
+    37.068939
+],
+  "geometry": {"coordinates":[-88.69077799999999,37.068939],"type":"Point"}
+}

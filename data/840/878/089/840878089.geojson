@@ -1,0 +1,73 @@
+{
+  "id": 840878089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.686985,38.104809,-85.686985,38.104809",
+    "geom:latitude":38.104809,
+    "geom:longitude":-85.686985,
+    "iso:country":"US",
+    "sg:address":"4211 Jim Hawkins Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 6028",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h4cq5HpQ3nBl99VhbUxBK_38.104809_-85.686985@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050035,
+    "wof:geomhash":"69ab26c59b4e3237e2115878fdd0366c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840878089
+        }
+    ],
+    "wof:id":840878089,
+    "wof:lastmodified":1464050035,
+    "wof:name":"St Luke Catholic Church",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.686985,
+    38.104809,
+    -85.686985,
+    38.104809
+],
+  "geometry": {"coordinates":[-85.68698500000001,38.104809],"type":"Point"}
+}

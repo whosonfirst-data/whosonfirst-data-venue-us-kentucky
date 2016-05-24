@@ -1,0 +1,71 @@
+{
+  "id": 856762835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.831968,37.711031,-85.831968,37.711031",
+    "geom:latitude":37.711031,
+    "geom:longitude":-85.831968,
+    "iso:country":"US",
+    "sg:address":"1043 Executive Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3030",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jP7DsyJwR7Gte7D3LrhbD_37.711031_-85.831968@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054229,
+    "wof:geomhash":"615843ff1791bb3566327767ef40ea60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762835
+        }
+    ],
+    "wof:id":856762835,
+    "wof:lastmodified":1464054229,
+    "wof:name":"Best Western Atrium Gardens",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.831968,
+    37.711031,
+    -85.831968,
+    37.711031
+],
+  "geometry": {"coordinates":[-85.831968,37.711031],"type":"Point"}
+}

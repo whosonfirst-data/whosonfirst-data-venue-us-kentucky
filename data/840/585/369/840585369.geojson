@@ -1,0 +1,75 @@
+{
+  "id": 840585369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.494659,38.0499,-84.494659,38.0499",
+    "geom:latitude":38.0499,
+    "geom:longitude":-84.494659,
+    "iso:country":"US",
+    "sg:address":"201 Mechanic St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 281 2103",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SnxmzDsd8Uze4UBu8kQAB_38.049900_-84.494659@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043326,
+    "wof:geomhash":"fa60499aa7b8631c036dd2aa3108d54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873067,
+            "region_id":85688641,
+            "venue_id":840585369
+        }
+    ],
+    "wof:id":840585369,
+    "wof:lastmodified":1464043326,
+    "wof:name":"Gratz Park Clinic",
+    "wof:parent_id":85873067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -84.494659,
+    38.0499,
+    -84.494659,
+    38.0499
+],
+  "geometry": {"coordinates":[-84.494659,38.0499],"type":"Point"}
+}

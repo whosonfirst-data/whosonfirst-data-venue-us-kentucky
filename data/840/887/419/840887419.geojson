@@ -1,0 +1,75 @@
+{
+  "id": 840887419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551878,38.209481,-85.551878,38.209481",
+    "geom:latitude":38.209481,
+    "geom:longitude":-85.551878,
+    "iso:country":"US",
+    "sg:address":"11121 Plantside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 0817",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dDySDcKtywbBpc9jBYe7y_38.209481_-85.551878@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050228,
+    "wof:geomhash":"859fbd6c3d9a8af590f28a31f4cb002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840887419
+        }
+    ],
+    "wof:id":840887419,
+    "wof:lastmodified":1464050228,
+    "wof:name":"Kelsey Concrete Pumping",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -85.551878,
+    38.209481,
+    -85.551878,
+    38.209481
+],
+  "geometry": {"coordinates":[-85.551878,38.209481],"type":"Point"}
+}

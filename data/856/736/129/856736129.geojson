@@ -1,0 +1,74 @@
+{
+  "id": 856736129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55708,37.046739,-88.55708,37.046739",
+    "geom:latitude":37.046739,
+    "geom:longitude":-88.55708,
+    "iso:country":"US",
+    "sg:address":"3480 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/186940-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8005",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67yU1VcD9yOuylEbM42QCH_37.046739_-88.557080@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053223,
+    "wof:geomhash":"07270d07b8c333256d54357ef1ebc3fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856736129
+        }
+    ],
+    "wof:id":856736129,
+    "wof:lastmodified":1464053223,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.55708,
+    37.046739,
+    -88.55708,
+    37.046739
+],
+  "geometry": {"coordinates":[-88.55708,37.046739],"type":"Point"}
+}

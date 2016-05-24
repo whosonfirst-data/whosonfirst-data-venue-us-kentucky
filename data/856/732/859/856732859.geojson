@@ -1,0 +1,76 @@
+{
+  "id": 856732859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.661904,38.251338,-85.661904,38.251338",
+    "geom:latitude":38.251338,
+    "geom:longitude":-85.661904,
+    "iso:country":"US",
+    "sg:address":"3624 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/54246-the-fishery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 1188",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38kuCziaLVT1C4ekQfWhqZ_38.251338_-85.661904@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053104,
+    "wof:geomhash":"fac021c84c43b71553355058c2831e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856732859
+        }
+    ],
+    "wof:id":856732859,
+    "wof:lastmodified":1464053104,
+    "wof:name":"The Fishery",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.661904,
+    38.251338,
+    -85.661904,
+    38.251338
+],
+  "geometry": {"coordinates":[-85.66190400000001,38.251338],"type":"Point"}
+}

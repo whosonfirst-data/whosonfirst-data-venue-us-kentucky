@@ -1,0 +1,77 @@
+{
+  "id": 840948013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.784187,38.220467,-85.784187,38.220467",
+    "geom:latitude":38.220467,
+    "geom:longitude":-85.784187,
+    "iso:country":"US",
+    "sg:address":"1620 Bernheim Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 0008",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "recycling",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eubDSgbQc98Kw4LV0ovZz_38.220467_-85.784187@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051608,
+    "wof:geomhash":"2f9c1090715f29c31bfbd959c45f5c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873363,
+            "region_id":85688641,
+            "venue_id":840948013
+        }
+    ],
+    "wof:id":840948013,
+    "wof:lastmodified":1464051608,
+    "wof:name":"Parallel Products",
+    "wof:parent_id":85873363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "recycling",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.784187,
+    38.220467,
+    -85.784187,
+    38.220467
+],
+  "geometry": {"coordinates":[-85.784187,38.220467],"type":"Point"}
+}

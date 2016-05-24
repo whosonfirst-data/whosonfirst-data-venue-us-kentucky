@@ -1,0 +1,74 @@
+{
+  "id": 856733901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579746,38.205307,-85.579746,38.205307",
+    "geom:latitude":38.205307,
+    "geom:longitude":-85.579746,
+    "iso:country":"US",
+    "sg:address":"9606 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/35516-los-aztecas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 297 8003",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ofX4lICaeKPKozeoK58FN_38.205307_-85.579746@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053141,
+    "wof:geomhash":"d7b3de42ee3ac22e38948aee9db07b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856733901
+        }
+    ],
+    "wof:id":856733901,
+    "wof:lastmodified":1464053141,
+    "wof:name":"Los Azteca's",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.579746,
+    38.205307,
+    -85.579746,
+    38.205307
+],
+  "geometry": {"coordinates":[-85.579746,38.205307],"type":"Point"}
+}

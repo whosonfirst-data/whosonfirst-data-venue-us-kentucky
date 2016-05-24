@@ -1,0 +1,71 @@
+{
+  "id": 840589729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.613777,37.096244,-84.613777,37.096244",
+    "geom:latitude":37.096244,
+    "geom:longitude":-84.613777,
+    "iso:country":"US",
+    "sg:address":"105 Park Ave",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 1401",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Be1SJkVfKFbGByIRq4nhq_37.096244_-84.613777@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043417,
+    "wof:geomhash":"483efde16ac5433a44f82b4b6dc9dc05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840589729
+        }
+    ],
+    "wof:id":840589729,
+    "wof:lastmodified":1464043417,
+    "wof:name":"Duvall Properties Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.613777,
+    37.096244,
+    -84.613777,
+    37.096244
+],
+  "geometry": {"coordinates":[-84.613777,37.096244],"type":"Point"}
+}

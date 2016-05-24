@@ -1,0 +1,73 @@
+{
+  "id": 840953249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.451536,37.817678,-87.451536,37.817678",
+    "geom:latitude":37.817678,
+    "geom:longitude":-87.451536,
+    "iso:country":"US",
+    "sg:address":"5845 Hatchett Mill Rd",
+    "sg:city":"Spottsville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0774",
+    "sg:postcode":"42458",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jbFHkwSrVeWNGxglKZaQ6_37.817678_-87.451536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051714,
+    "wof:geomhash":"9634a0ab02affd1f2f28bdb30d97d2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840953249
+        }
+    ],
+    "wof:id":840953249,
+    "wof:lastmodified":1464051714,
+    "wof:name":"Mattingly Auto Sales",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.451536,
+    37.817678,
+    -87.451536,
+    37.817678
+],
+  "geometry": {"coordinates":[-87.451536,37.817678],"type":"Point"}
+}

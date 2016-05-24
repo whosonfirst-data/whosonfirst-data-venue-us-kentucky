@@ -1,0 +1,68 @@
+{
+  "id": 840660649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.452993,38.232068,-85.452993,38.232068",
+    "geom:latitude":38.232068,
+    "geom:longitude":-85.452993,
+    "iso:country":"US",
+    "sg:address":"16201 Eastwood Cut Off Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 254 7220",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HKUYQfrPjCKirIzLjJYkQ_38.232068_-85.452993@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045121,
+    "wof:geomhash":"b90073c9cee744eb20fd4329cc66d8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840660649
+        }
+    ],
+    "wof:id":840660649,
+    "wof:lastmodified":1464045121,
+    "wof:name":"Figaro's Pizzeria",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.452993,
+    38.232068,
+    -85.452993,
+    38.232068
+],
+  "geometry": {"coordinates":[-85.45299300000001,38.232068],"type":"Point"}
+}

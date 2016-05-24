@@ -1,0 +1,72 @@
+{
+  "id": 840932809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.901161,37.17461,-85.901161,37.17461",
+    "geom:latitude":37.17461,
+    "geom:longitude":-85.901161,
+    "iso:country":"US",
+    "sg:address":"307 Comer Ave",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 1521",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "programming"
+    ],
+    "sg:website":"www.smcomputerservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lrNnBE8RHnvFUyho0EJjv_37.174610_-85.901161@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051303,
+    "wof:geomhash":"c7f2c957bb29095a04c674a7128ad2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840932809
+        }
+    ],
+    "wof:id":840932809,
+    "wof:lastmodified":1464051303,
+    "wof:name":"S & M Computer Svc",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -85.901161,
+    37.17461,
+    -85.901161,
+    37.17461
+],
+  "geometry": {"coordinates":[-85.901161,37.17461],"type":"Point"}
+}

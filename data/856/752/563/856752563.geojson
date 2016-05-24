@@ -1,0 +1,77 @@
+{
+  "id": 856752563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.560121,38.213159,-85.560121,38.213159",
+    "geom:latitude":38.213159,
+    "geom:longitude":-85.560121,
+    "iso:country":"US",
+    "sg:address":"10501 Bunsen Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 9836",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tank",
+        "system",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NAqohAuXkfPpMgYVdlr48_38.213159_-85.560121@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053853,
+    "wof:geomhash":"f16b470427276303accc5bb1645298e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752563
+        }
+    ],
+    "wof:id":856752563,
+    "wof:lastmodified":1464053853,
+    "wof:name":"Kentuckiana Comfort",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "system",
+        "septic"
+    ]
+},
+  "bbox": [
+    -85.560121,
+    38.213159,
+    -85.560121,
+    38.213159
+],
+  "geometry": {"coordinates":[-85.560121,38.213159],"type":"Point"}
+}

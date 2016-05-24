@@ -1,0 +1,75 @@
+{
+  "id": 856762841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866867,37.692982,-85.866867,37.692982",
+    "geom:latitude":37.692982,
+    "geom:longitude":-85.866867,
+    "iso:country":"US",
+    "sg:address":"402 College St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 776 3912",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garage",
+        "opener",
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FwprwLKbqW2J5012PG850_37.692982_-85.866867@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054229,
+    "wof:geomhash":"4304e8db58695e5cdb1771e767dfee0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856762841
+        }
+    ],
+    "wof:id":856762841,
+    "wof:lastmodified":1464054229,
+    "wof:name":"Elizabethtown Overhead Garage Doors",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "opener",
+        "door"
+    ]
+},
+  "bbox": [
+    -85.866867,
+    37.692982,
+    -85.866867,
+    37.692982
+],
+  "geometry": {"coordinates":[-85.866867,37.692982],"type":"Point"}
+}

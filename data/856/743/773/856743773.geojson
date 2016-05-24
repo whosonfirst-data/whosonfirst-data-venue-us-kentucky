@@ -1,0 +1,83 @@
+{
+  "id": 856743773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.781332,38.220107,-85.781332,38.220107",
+    "geom:latitude":38.220107,
+    "geom:longitude":-85.781332,
+    "iso:country":"US",
+    "sg:address":"1505 Bernheim Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 3307",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory",
+        "manufacturer",
+        "chemicals-wholesale"
+    ],
+    "sg:website":"http://www.preiser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_331tqipz2m1Pe7u3GnleMz_38.220107_-85.781332@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053522,
+    "wof:geomhash":"f2fb0c14422a56a5129135fa8ef77613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873363,
+            "region_id":85688641,
+            "venue_id":856743773
+        }
+    ],
+    "wof:id":856743773,
+    "wof:lastmodified":1464053522,
+    "wof:name":"Preiser Scientific Inc",
+    "wof:parent_id":85873363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "manufacturer",
+        "chemicals-wholesale"
+    ]
+},
+  "bbox": [
+    -85.781332,
+    38.220107,
+    -85.781332,
+    38.220107
+],
+  "geometry": {"coordinates":[-85.78133200000001,38.220107],"type":"Point"}
+}

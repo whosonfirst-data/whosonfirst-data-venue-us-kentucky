@@ -1,0 +1,75 @@
+{
+  "id": 840759619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.477356,38.207087,-84.477356,38.207087",
+    "geom:latitude":38.207087,
+    "geom:longitude":-84.477356,
+    "iso:country":"US",
+    "sg:address":"138 Stone Rd",
+    "sg:city":"Morehead",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 784 3001",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nMVSMHgkvaFxnUPi4RUZv_38.207087_-84.477356@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047324,
+    "wof:geomhash":"a9e44c2ed92bf66ce2cfdc4741601c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840759619
+        }
+    ],
+    "wof:id":840759619,
+    "wof:lastmodified":1464047324,
+    "wof:name":"Fast Lane Discount Tobacco",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.477356,
+    38.207087,
+    -84.477356,
+    38.207087
+],
+  "geometry": {"coordinates":[-84.477356,38.207087],"type":"Point"}
+}

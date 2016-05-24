@@ -1,0 +1,73 @@
+{
+  "id": 840674087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.316202,37.584029,-84.316202,37.584029",
+    "geom:latitude":37.584029,
+    "geom:longitude":-84.316202,
+    "iso:country":"US",
+    "sg:address":"225 Elkmont Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 0032",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TvtOlRDYq2tfiQkx25ctf_37.584029_-84.316202@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045421,
+    "wof:geomhash":"e0e22a8051eb95b494adcde9c414b1b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840674087
+        }
+    ],
+    "wof:id":840674087,
+    "wof:lastmodified":1464045421,
+    "wof:name":"Frontz Lock & Key",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.316202,
+    37.584029,
+    -84.316202,
+    37.584029
+],
+  "geometry": {"coordinates":[-84.316202,37.584029],"type":"Point"}
+}

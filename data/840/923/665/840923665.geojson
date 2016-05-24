@@ -1,0 +1,71 @@
+{
+  "id": 840923665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.543409,37.770318,-87.543409,37.770318",
+    "geom:latitude":37.770318,
+    "geom:longitude":-87.543409,
+    "iso:country":"US",
+    "sg:address":"9980 State Hwy 136",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3789",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JUwlQtRPTt3VQHoABgBNM_37.770318_-87.543409@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051094,
+    "wof:geomhash":"f69cbeacb01203f18cc8cec46e265b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840923665
+        }
+    ],
+    "wof:id":840923665,
+    "wof:lastmodified":1464051094,
+    "wof:name":"Bellfield Baptist Church",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -87.543409,
+    37.770318,
+    -87.543409,
+    37.770318
+],
+  "geometry": {"coordinates":[-87.543409,37.770318],"type":"Point"}
+}

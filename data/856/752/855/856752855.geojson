@@ -1,0 +1,82 @@
+{
+  "id": 856752855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.598351,37.872551,-84.598351,37.872551",
+    "geom:latitude":37.872551,
+    "geom:longitude":-84.598351,
+    "iso:country":"US",
+    "sg:address":"701 Edgewood Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 8025",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocers-wholesale",
+        "super"
+    ],
+    "sg:website":"http://save-a-lot.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dU1KTrJAEGgXktvWFl0hv_37.872551_-84.598351@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053863,
+    "wof:geomhash":"78d94e33db5e6af75613a24e9fbc038d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752855
+        }
+    ],
+    "wof:id":856752855,
+    "wof:lastmodified":1464053863,
+    "wof:name":"Nicholasville Sav-A-Lot",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale",
+        "super"
+    ]
+},
+  "bbox": [
+    -84.598351,
+    37.872551,
+    -84.598351,
+    37.872551
+],
+  "geometry": {"coordinates":[-84.59835099999999,37.872551],"type":"Point"}
+}

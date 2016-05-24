@@ -1,0 +1,71 @@
+{
+  "id": 840731915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441794,36.951795,-86.441794,36.951795",
+    "geom:latitude":36.951795,
+    "geom:longitude":-86.441794,
+    "iso:country":"US",
+    "sg:address":"1495 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3560",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2lOS5OfPSc9UkQpK6h2h_36.951795_-86.441794@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046743,
+    "wof:geomhash":"229f1890702550ce28ac8e7426af991c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840731915
+        }
+    ],
+    "wof:id":840731915,
+    "wof:lastmodified":1464046743,
+    "wof:name":"PPG Porter Paints",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating"
+    ]
+},
+  "bbox": [
+    -86.441794,
+    36.951795,
+    -86.441794,
+    36.951795
+],
+  "geometry": {"coordinates":[-86.441794,36.951795],"type":"Point"}
+}

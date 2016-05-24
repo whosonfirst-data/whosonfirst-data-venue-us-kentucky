@@ -1,0 +1,68 @@
+{
+  "id": 840694791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.285699,37.767157,-84.285699,37.767157",
+    "geom:latitude":37.767157,
+    "geom:longitude":-84.285699,
+    "iso:country":"US",
+    "sg:address":"201 Pleasure Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 1602",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ezXq0gn0fmNJ30ttuN9HB_37.767157_-84.285699@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045941,
+    "wof:geomhash":"42e302ec56f031dea3b5d2c8c265648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840694791
+        }
+    ],
+    "wof:id":840694791,
+    "wof:lastmodified":1464045941,
+    "wof:name":"Allstate",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.285699,
+    37.767157,
+    -84.285699,
+    37.767157
+],
+  "geometry": {"coordinates":[-84.28569899999999,37.767157],"type":"Point"}
+}

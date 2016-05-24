@@ -1,0 +1,71 @@
+{
+  "id": 840809409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.579116,37.865293,-84.579116,37.865293",
+    "geom:latitude":37.865293,
+    "geom:longitude":-84.579116,
+    "iso:country":"US",
+    "sg:address":"977 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 0333",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kq41xPRIg9oEcI2kJ0Cpp_37.865293_-84.579116@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048398,
+    "wof:geomhash":"f3c44513cb6c9cdf1648a26ea41ec205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840809409
+        }
+    ],
+    "wof:id":840809409,
+    "wof:lastmodified":1464048398,
+    "wof:name":"Physical Therapy-Nicholasville",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.579116,
+    37.865293,
+    -84.579116,
+    37.865293
+],
+  "geometry": {"coordinates":[-84.579116,37.865293],"type":"Point"}
+}

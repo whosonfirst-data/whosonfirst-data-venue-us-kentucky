@@ -1,0 +1,72 @@
+{
+  "id": 840902507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.851053,37.647715,-85.851053,37.647715",
+    "geom:latitude":37.647715,
+    "geom:longitude":-85.851053,
+    "iso:country":"US",
+    "sg:address":"34 Dee St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6645",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.newhopecchurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2syqd26IzFqahF8VdzISWn_37.647715_-85.851053@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050549,
+    "wof:geomhash":"7334de489886ff48e765b85aa343274c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840902507
+        }
+    ],
+    "wof:id":840902507,
+    "wof:lastmodified":1464050549,
+    "wof:name":"New Hope Community Church",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.851053,
+    37.647715,
+    -85.851053,
+    37.647715
+],
+  "geometry": {"coordinates":[-85.85105299999999,37.647715],"type":"Point"}
+}

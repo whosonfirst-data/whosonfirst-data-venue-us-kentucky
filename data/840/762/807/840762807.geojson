@@ -1,0 +1,73 @@
+{
+  "id": 840762807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.562617,38.222426,-85.562617,38.222426",
+    "geom:latitude":38.222426,
+    "geom:longitude":-85.562617,
+    "iso:country":"US",
+    "sg:address":"10378 Bluegrass Pkwy",
+    "sg:city":"Jeffersontown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 8155",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xnWtzDN7ZHy1n989LzNWV_38.222426_-85.562617@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047404,
+    "wof:geomhash":"137f50df6310ba965eecf78e826db8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840762807
+        }
+    ],
+    "wof:id":840762807,
+    "wof:lastmodified":1464047404,
+    "wof:name":"Dishman's Upholstery",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -85.562617,
+    38.222426,
+    -85.562617,
+    38.222426
+],
+  "geometry": {"coordinates":[-85.562617,38.222426],"type":"Point"}
+}

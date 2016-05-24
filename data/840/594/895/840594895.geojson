@@ -1,0 +1,71 @@
+{
+  "id": 840594895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.813244,37.696998,-85.813244,37.696998",
+    "geom:latitude":37.696998,
+    "geom:longitude":-85.813244,
+    "iso:country":"US",
+    "sg:address":"2838 Springfield Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4484",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bIOnpH6QhdCo97C81Srjj_37.696998_-85.813244@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043537,
+    "wof:geomhash":"aefd25cd1eb3d31f16f1584ce87859cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840594895
+        }
+    ],
+    "wof:id":840594895,
+    "wof:lastmodified":1464043537,
+    "wof:name":"Banks Tree Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -85.813244,
+    37.696998,
+    -85.813244,
+    37.696998
+],
+  "geometry": {"coordinates":[-85.813244,37.696998],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 840645515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773007,37.649081,-84.773007,37.649081",
+    "geom:latitude":37.649081,
+    "geom:longitude":-84.773007,
+    "iso:country":"US",
+    "sg:address":"339 W Lexington Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 9153",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ssijHKWDlAnQdWHfyldJm_37.649081_-84.773007@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044791,
+    "wof:geomhash":"24324cca7b23dbd0f5f7cf2789af5b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840645515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840645515
+        }
+    ],
+    "wof:id":840645515,
+    "wof:lastmodified":1464044791,
+    "wof:name":"Martha Farmer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -84.773007,
+    37.649081,
+    -84.773007,
+    37.649081
+],
+  "geometry": {"coordinates":[-84.77300700000001,37.649081],"type":"Point"}
+}

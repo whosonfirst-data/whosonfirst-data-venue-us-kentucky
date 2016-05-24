@@ -1,0 +1,69 @@
+{
+  "id": 840612957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572241,37.882477,-84.572241,37.882477",
+    "geom:latitude":37.882477,
+    "geom:longitude":-84.572241,
+    "iso:country":"US",
+    "sg:address":"325 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 9100",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oUcpmg8LbePQOhaudtPCO_37.882477_-84.572241@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043996,
+    "wof:geomhash":"2d16d19bd3322bf16a909f20e558507b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840612957
+        }
+    ],
+    "wof:id":840612957,
+    "wof:lastmodified":1464043996,
+    "wof:name":"Carey's Towing & Recovery",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.572241,
+    37.882477,
+    -84.572241,
+    37.882477
+],
+  "geometry": {"coordinates":[-84.57224100000001,37.882477],"type":"Point"}
+}

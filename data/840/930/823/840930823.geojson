@@ -1,0 +1,73 @@
+{
+  "id": 840930823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435636,36.997851,-86.435636,36.997851",
+    "geom:latitude":36.997851,
+    "geom:longitude":-86.435636,
+    "iso:country":"US",
+    "sg:address":"425 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3187",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s2noLJoxK1PoXouHwXo1W_36.997851_-86.435636@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051266,
+    "wof:geomhash":"97d0bba627e48c798d2fcbcd183208de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840930823
+        }
+    ],
+    "wof:id":840930823,
+    "wof:lastmodified":1464051266,
+    "wof:name":"Moore Plumbing & Heating Co",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.435636,
+    36.997851,
+    -86.435636,
+    36.997851
+],
+  "geometry": {"coordinates":[-86.435636,36.997851],"type":"Point"}
+}

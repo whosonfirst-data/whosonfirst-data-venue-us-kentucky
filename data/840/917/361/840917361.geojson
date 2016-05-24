@@ -1,0 +1,71 @@
+{
+  "id": 840917361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527532,36.974364,-84.527532,36.974364",
+    "geom:latitude":36.974364,
+    "geom:longitude":-84.527532,
+    "iso:country":"US",
+    "sg:address":"64 Eagle Dr",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 6282",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35rmvuG627mmRztAm7TBEi_36.974364_-84.527532@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050941,
+    "wof:geomhash":"0b078d1d462df342f269ac690cdb53fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840917361
+        }
+    ],
+    "wof:id":840917361,
+    "wof:lastmodified":1464050941,
+    "wof:name":"G R Schrodt MD",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.527532,
+    36.974364,
+    -84.527532,
+    36.974364
+],
+  "geometry": {"coordinates":[-84.52753199999999,36.974364],"type":"Point"}
+}

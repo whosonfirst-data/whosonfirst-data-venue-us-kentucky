@@ -1,0 +1,88 @@
+{
+  "id": 856747713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.597008,38.21368,-85.597008,38.21368",
+    "geom:latitude":38.21368,
+    "geom:longitude":-85.597008,
+    "iso:country":"US",
+    "sg:address":"2307 Greene Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 9594",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "laboratories-pathological",
+        "laboratory",
+        "surgeon",
+        "pathology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rx5IVEgBkpMgqWQI2Bshv_38.213680_-85.597008@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053666,
+    "wof:geomhash":"2f7d824d276179e06d19a1d5ab18935b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747713
+        }
+    ],
+    "wof:id":856747713,
+    "wof:lastmodified":1464053666,
+    "wof:name":"Clinical Pathology",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "laboratories-pathological",
+        "laboratory",
+        "surgeon",
+        "pathology"
+    ]
+},
+  "bbox": [
+    -85.597008,
+    38.21368,
+    -85.597008,
+    38.21368
+],
+  "geometry": {"coordinates":[-85.597008,38.21368],"type":"Point"}
+}

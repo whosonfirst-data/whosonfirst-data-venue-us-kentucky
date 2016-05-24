@@ -1,0 +1,71 @@
+{
+  "id": 840717199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.599449,37.091998,-84.599449,37.091998",
+    "geom:latitude":37.091998,
+    "geom:longitude":-84.599449,
+    "iso:country":"US",
+    "sg:address":"120 Crawford Ave",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 5947",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MGOzXtI1yD07NFSP2hu5A_37.091998_-84.599449@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046444,
+    "wof:geomhash":"5bcd2d1908c485867f054ccc7a8d240f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840717199
+        }
+    ],
+    "wof:id":840717199,
+    "wof:lastmodified":1464046444,
+    "wof:name":"First Church Of The Nazarene",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.599449,
+    37.091998,
+    -84.599449,
+    37.091998
+],
+  "geometry": {"coordinates":[-84.59944900000001,37.091998],"type":"Point"}
+}

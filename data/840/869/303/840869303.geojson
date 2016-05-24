@@ -1,0 +1,73 @@
+{
+  "id": 840869303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689568,38.114477,-85.689568,38.114477",
+    "geom:latitude":38.114477,
+    "geom:longitude":-85.689568,
+    "iso:country":"US",
+    "sg:address":"9310 Blue Lick Rd",
+    "sg:city":"Okolona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 1684",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ILHpvI1I5grWACMaL4ZYc_38.114477_-85.689568@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049841,
+    "wof:geomhash":"d26615935a0158aad67d5db3f794bdf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840869303
+        }
+    ],
+    "wof:id":840869303,
+    "wof:lastmodified":1464049841,
+    "wof:name":"Maze One Hour Cleaners",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -85.689568,
+    38.114477,
+    -85.689568,
+    38.114477
+],
+  "geometry": {"coordinates":[-85.68956799999999,38.114477],"type":"Point"}
+}

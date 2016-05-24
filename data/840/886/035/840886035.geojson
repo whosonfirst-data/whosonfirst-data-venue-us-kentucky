@@ -1,0 +1,73 @@
+{
+  "id": 840886035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.700547,37.053305,-88.700547,37.053305",
+    "geom:latitude":37.053305,
+    "geom:longitude":-88.700547,
+    "iso:country":"US",
+    "sg:address":"6463 Stinespring Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 5549",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SUqYDdep2VATFWeG3OcUe_37.053305_-88.700547@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050200,
+    "wof:geomhash":"29351c51a2839255ec6908bc2900efb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840886035
+        }
+    ],
+    "wof:id":840886035,
+    "wof:lastmodified":1464050200,
+    "wof:name":"David Wilson Construction",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.700547,
+    37.053305,
+    -88.700547,
+    37.053305
+],
+  "geometry": {"coordinates":[-88.700547,37.053305],"type":"Point"}
+}

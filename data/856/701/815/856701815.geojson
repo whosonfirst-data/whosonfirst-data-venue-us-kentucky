@@ -1,0 +1,71 @@
+{
+  "id": 856701815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.585203,37.847738,-87.585203,37.847738",
+    "geom:latitude":37.847738,
+    "geom:longitude":-87.585203,
+    "iso:country":"US",
+    "sg:address":"801 N Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 2555",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z4ulgOoEfFJFsP53ScNx2_37.847738_-87.585203@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052101,
+    "wof:geomhash":"ebdd66c3e06c5bbeba14cdb47eeec91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856701815
+        }
+    ],
+    "wof:id":856701815,
+    "wof:lastmodified":1464052101,
+    "wof:name":"James C Ellis DDS",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.585203,
+    37.847738,
+    -87.585203,
+    37.847738
+],
+  "geometry": {"coordinates":[-87.58520300000001,37.847738],"type":"Point"}
+}

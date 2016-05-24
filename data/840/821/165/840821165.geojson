@@ -1,0 +1,71 @@
+{
+  "id": 840821165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512918,36.897346,-86.512918,36.897346",
+    "geom:latitude":36.897346,
+    "geom:longitude":-86.512918,
+    "iso:country":"US",
+    "sg:address":"287 Cal Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 1901",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ONTd7yUDXT4jbKtL2XqHf_36.897346_-86.512918@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048781,
+    "wof:geomhash":"aa14df22ce9b8c711dff337bffdf966e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840821165
+        }
+    ],
+    "wof:id":840821165,
+    "wof:lastmodified":1464048781,
+    "wof:name":"Taylor Home Service",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -86.512918,
+    36.897346,
+    -86.512918,
+    36.897346
+],
+  "geometry": {"coordinates":[-86.512918,36.897346],"type":"Point"}
+}

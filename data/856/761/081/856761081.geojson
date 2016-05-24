@@ -1,0 +1,79 @@
+{
+  "id": 856761081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.661615,37.083929,-88.661615,37.083929",
+    "geom:latitude":37.083929,
+    "geom:longitude":-88.661615,
+    "iso:country":"US",
+    "sg:address":"125 County Park Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6699",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "customizing",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qLTBslAFV75B7i5p02B81_37.083929_-88.661615@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054162,
+    "wof:geomhash":"6ed926711aa1744880a0314b145d7d4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761081
+        }
+    ],
+    "wof:id":856761081,
+    "wof:lastmodified":1464054162,
+    "wof:name":"Jason's Body Shop",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "customizing",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -88.661615,
+    37.083929,
+    -88.661615,
+    37.083929
+],
+  "geometry": {"coordinates":[-88.661615,37.083929],"type":"Point"}
+}

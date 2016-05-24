@@ -1,0 +1,73 @@
+{
+  "id": 840900709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.546957,37.995419,-84.546957,37.995419",
+    "geom:latitude":37.995419,
+    "geom:longitude":-84.546957,
+    "iso:country":"US",
+    "sg:address":"3344 Partner Pl",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 219 1111",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85835011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vCbby9eijrCnyH7L95wGI_37.995419_-84.546957@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050512,
+    "wof:geomhash":"4a558456052580be22bed01a3139396e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85835011,
+            "region_id":85688641,
+            "venue_id":840900709
+        }
+    ],
+    "wof:id":840900709,
+    "wof:lastmodified":1464050512,
+    "wof:name":"Lucky Nail",
+    "wof:parent_id":85835011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -84.546957,
+    37.995419,
+    -84.546957,
+    37.995419
+],
+  "geometry": {"coordinates":[-84.54695700000001,37.995419],"type":"Point"}
+}

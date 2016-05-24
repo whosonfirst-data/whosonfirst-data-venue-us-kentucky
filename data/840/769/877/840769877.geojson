@@ -1,0 +1,73 @@
+{
+  "id": 840769877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636543,38.234976,-85.636543,38.234976",
+    "geom:latitude":38.234976,
+    "geom:longitude":-85.636543,
+    "iso:country":"US",
+    "sg:address":"902 Dupont Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 2777",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xf7uxSh1AJ3vJtkmNkcPE_38.234976_-85.636543@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047567,
+    "wof:geomhash":"7a8af84fb9fc618f47e6c0fe409602bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840769877
+        }
+    ],
+    "wof:id":840769877,
+    "wof:lastmodified":1464047567,
+    "wof:name":"Dillons Steakhouse",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.636543,
+    38.234976,
+    -85.636543,
+    38.234976
+],
+  "geometry": {"coordinates":[-85.636543,38.234976],"type":"Point"}
+}

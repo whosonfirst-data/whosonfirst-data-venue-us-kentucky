@@ -1,0 +1,75 @@
+{
+  "id": 856749521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673565,38.103296,-85.673565,38.103296",
+    "geom:latitude":38.103296,
+    "geom:longitude":-85.673565,
+    "iso:country":"US",
+    "sg:address":"5207 Commerce Crossings Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 7878",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W8Z9P6eVZDRzfddzZOWpl_38.103296_-85.673565@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053733,
+    "wof:geomhash":"1da61631c6b06da45c6081c40b2d22a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":856749521
+        }
+    ],
+    "wof:id":856749521,
+    "wof:lastmodified":1464053733,
+    "wof:name":"Norris M. Langford, Jr., P.S.C.",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.673565,
+    38.103296,
+    -85.673565,
+    38.103296
+],
+  "geometry": {"coordinates":[-85.673565,38.103296],"type":"Point"}
+}

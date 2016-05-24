@@ -1,0 +1,71 @@
+{
+  "id": 840945603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.620954,37.077372,-88.620954,37.077372",
+    "geom:latitude":37.077372,
+    "geom:longitude":-88.620954,
+    "iso:country":"US",
+    "sg:address":"2018 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9099",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MiL2SOxavD5c0SY511B9P_37.077372_-88.620954@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051563,
+    "wof:geomhash":"bb73906601f649ceaf0d8af1354a1202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840945603
+        }
+    ],
+    "wof:id":840945603,
+    "wof:lastmodified":1464051563,
+    "wof:name":"Broadway Dental Care",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.620954,
+    37.077372,
+    -88.620954,
+    37.077372
+],
+  "geometry": {"coordinates":[-88.620954,37.077372],"type":"Point"}
+}

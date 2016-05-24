@@ -1,0 +1,69 @@
+{
+  "id": 840725057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.654276,37.882185,-84.654276,37.882185",
+    "geom:latitude":37.882185,
+    "geom:longitude":-84.654276,
+    "iso:country":"US",
+    "sg:address":"112 Bicknell Ln",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3089",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YfxlW38j0UvfoAM6tXS7s_37.882185_-84.654276@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046617,
+    "wof:geomhash":"2f4fcb1f735e3686592fc96156c3e170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840725057
+        }
+    ],
+    "wof:id":840725057,
+    "wof:lastmodified":1464046617,
+    "wof:name":"Stephen Grinstead Trucking Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.654276,
+    37.882185,
+    -84.654276,
+    37.882185
+],
+  "geometry": {"coordinates":[-84.654276,37.882185],"type":"Point"}
+}

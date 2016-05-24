@@ -1,0 +1,71 @@
+{
+  "id": 840639023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635364,38.017413,-85.635364,38.017413",
+    "geom:latitude":38.017413,
+    "geom:longitude":-85.635364,
+    "iso:country":"US",
+    "sg:address":"4877 State Hwy 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 8635",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UHKvjvl4CsArwlwjRH0ds_38.017413_-85.635364@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044659,
+    "wof:geomhash":"1671cbd71ff28667cbfcc457ea3eed8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840639023
+        }
+    ],
+    "wof:id":840639023,
+    "wof:lastmodified":1464044659,
+    "wof:name":"Country Corner Greenhouse",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -85.635364,
+    38.017413,
+    -85.635364,
+    38.017413
+],
+  "geometry": {"coordinates":[-85.635364,38.017413],"type":"Point"}
+}

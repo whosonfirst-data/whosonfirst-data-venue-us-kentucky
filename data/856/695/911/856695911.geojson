@@ -1,0 +1,71 @@
+{
+  "id": 856695911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796851,37.728986,-85.796851,37.728986",
+    "geom:latitude":37.728986,
+    "geom:longitude":-85.796851,
+    "iso:country":"US",
+    "sg:address":"4356 Bardstown Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 9047",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53VIjSTJC5rBX3rdbodv2Q_37.728986_-85.796851@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051979,
+    "wof:geomhash":"d59b7c19ed8eee88d5f0c4ad7dbd8bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856695911
+        }
+    ],
+    "wof:id":856695911,
+    "wof:lastmodified":1464051979,
+    "wof:name":"Bluegrass Commercial Tire",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.796851,
+    37.728986,
+    -85.796851,
+    37.728986
+],
+  "geometry": {"coordinates":[-85.796851,37.728986],"type":"Point"}
+}

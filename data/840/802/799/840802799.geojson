@@ -1,0 +1,71 @@
+{
+  "id": 840802799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.20815,37.053654,-86.20815,37.053654",
+    "geom:latitude":37.053654,
+    "geom:longitude":-86.20815,
+    "iso:country":"US",
+    "sg:address":"135 N Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 9100",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trqRvSdb0IJIvBHntEUTj_37.053654_-86.208150@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048259,
+    "wof:geomhash":"37baed7f681bbb30898562d15195a627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840802799
+        }
+    ],
+    "wof:id":840802799,
+    "wof:lastmodified":1464048259,
+    "wof:name":"Village Grove Antiques",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -86.20815,
+    37.053654,
+    -86.20815,
+    37.053654
+],
+  "geometry": {"coordinates":[-86.20815,37.053654],"type":"Point"}
+}

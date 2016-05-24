@@ -1,0 +1,71 @@
+{
+  "id": 840802593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.402533,38.33811,-85.402533,38.33811",
+    "geom:latitude":38.33811,
+    "geom:longitude":-85.402533,
+    "iso:country":"US",
+    "sg:address":"5502 Montfort Ln",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 2592",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SoS6DbIongYv7laqG05wu_38.338110_-85.402533@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048256,
+    "wof:geomhash":"c1897f64cdbb59fadc9ae1133fbe10af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840802593
+        }
+    ],
+    "wof:id":840802593,
+    "wof:lastmodified":1464048256,
+    "wof:name":"Bath & Tile Concepts LLC",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.402533,
+    38.33811,
+    -85.402533,
+    38.33811
+],
+  "geometry": {"coordinates":[-85.40253300000001,38.33811],"type":"Point"}
+}

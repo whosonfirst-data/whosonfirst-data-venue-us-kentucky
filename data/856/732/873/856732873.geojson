@@ -1,0 +1,74 @@
+{
+  "id": 856732873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625382,38.250358,-85.625382,38.250358",
+    "geom:latitude":38.250358,
+    "geom:longitude":-85.625382,
+    "iso:country":"US",
+    "sg:address":"4910 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/208556-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 6084",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5URZaDZXlOzHxKqQbhqvqx_38.250358_-85.625382@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053105,
+    "wof:geomhash":"d955827a1da8c7aebbd3b28d1a333704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732873
+        }
+    ],
+    "wof:id":856732873,
+    "wof:lastmodified":1464053105,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.625382,
+    38.250358,
+    -85.625382,
+    38.250358
+],
+  "geometry": {"coordinates":[-85.625382,38.250358],"type":"Point"}
+}

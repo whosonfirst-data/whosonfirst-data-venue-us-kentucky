@@ -1,0 +1,84 @@
+{
+  "id": 856752979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.676923,38.053764,-84.676923,38.053764",
+    "geom:latitude":38.053764,
+    "geom:longitude":-84.676923,
+    "iso:country":"US",
+    "sg:address":"590 Versailles Ctr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 8224",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72AFdKn0Hvn9YnCd8CiAet_38.053764_-84.676923@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053867,
+    "wof:geomhash":"09575dc23aa5aefbc66716c4e49fac56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856752979
+        }
+    ],
+    "wof:id":856752979,
+    "wof:lastmodified":1464053867,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.676923,
+    38.053764,
+    -84.676923,
+    38.053764
+],
+  "geometry": {"coordinates":[-84.676923,38.053764],"type":"Point"}
+}

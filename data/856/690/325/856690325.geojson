@@ -1,0 +1,73 @@
+{
+  "id": 856690325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.780664,38.236774,-85.780664,38.236774",
+    "geom:latitude":38.236774,
+    "geom:longitude":-85.780664,
+    "iso:country":"US",
+    "sg:address":"1514 W Oak St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 638 6950",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19RTgXdmzLzE93Cvr7PVwK_38.236774_-85.780664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051874,
+    "wof:geomhash":"7bf728af695dc9da98d33be6e0c2c30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":856690325
+        }
+    ],
+    "wof:id":856690325,
+    "wof:lastmodified":1464051874,
+    "wof:name":"A Tire Shop",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.780664,
+    38.236774,
+    -85.780664,
+    38.236774
+],
+  "geometry": {"coordinates":[-85.780664,38.236774],"type":"Point"}
+}

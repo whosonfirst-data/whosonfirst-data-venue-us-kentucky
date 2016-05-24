@@ -1,0 +1,74 @@
+{
+  "id": 840677885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761205,38.257049,-85.761205,38.257049",
+    "geom:latitude":38.257049,
+    "geom:longitude":-85.761205,
+    "iso:country":"US",
+    "sg:address":"620 W Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 1700",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counselor"
+    ],
+    "sg:website":"www.doeanderson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pxgajMFCMz4OZMUFPBY3f_38.257049_-85.761205@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045518,
+    "wof:geomhash":"80529ca26eda45b26a8252660da6eab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873435,
+            "region_id":85688641,
+            "venue_id":840677885
+        }
+    ],
+    "wof:id":840677885,
+    "wof:lastmodified":1464045518,
+    "wof:name":"Doe Anderson Inc",
+    "wof:parent_id":85873435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -85.761205,
+    38.257049,
+    -85.761205,
+    38.257049
+],
+  "geometry": {"coordinates":[-85.761205,38.257049],"type":"Point"}
+}

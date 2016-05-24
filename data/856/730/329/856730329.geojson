@@ -1,0 +1,72 @@
+{
+  "id": 856730329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.624161,37.07362,-88.624161,37.07362",
+    "geom:latitude":37.07362,
+    "geom:longitude":-88.624161,
+    "iso:country":"US",
+    "sg:address":"2400 Washington St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 5650",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"www.paducah.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54EwJsaUr7Cveh5xWgGsAz_37.073633_-88.624203@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053014,
+    "wof:geomhash":"fc217d761e15a059221ec9989596a596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856730329
+        }
+    ],
+    "wof:id":856730329,
+    "wof:lastmodified":1464053014,
+    "wof:name":"Paducah Tilghman High School",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -88.624161,
+    37.07362,
+    -88.624161,
+    37.07362
+],
+  "geometry": {"coordinates":[-88.624161,37.07362],"type":"Point"}
+}

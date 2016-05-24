@@ -1,0 +1,75 @@
+{
+  "id": 840533527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880201,37.720585,-85.880201,37.720585",
+    "geom:latitude":37.720585,
+    "geom:longitude":-85.880201,
+    "iso:country":"US",
+    "sg:address":"1309 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6874",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wp2BWcTp20p5hLTgNZhGh_37.720585_-85.880201@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042061,
+    "wof:geomhash":"a199abc310a052bf0e752e9f814f024a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840533527
+        }
+    ],
+    "wof:id":840533527,
+    "wof:lastmodified":1464042061,
+    "wof:name":"Diamond Auto Detailing Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -85.880201,
+    37.720585,
+    -85.880201,
+    37.720585
+],
+  "geometry": {"coordinates":[-85.880201,37.720585],"type":"Point"}
+}

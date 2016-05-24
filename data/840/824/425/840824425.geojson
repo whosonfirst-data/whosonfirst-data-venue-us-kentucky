@@ -1,0 +1,75 @@
+{
+  "id": 840824425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.478127,38.23513,-85.478127,38.23513",
+    "geom:latitude":38.23513,
+    "geom:longitude":-85.478127,
+    "iso:country":"US",
+    "sg:address":"209 Burleigh Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 5052",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "communications",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RhwWCLr6W5hPx5pZNvjSu_38.235130_-85.478127@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048880,
+    "wof:geomhash":"4245503b77c235ef576b47342705a49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840824425
+        }
+    ],
+    "wof:id":840824425,
+    "wof:lastmodified":1464048880,
+    "wof:name":"Commsult",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.478127,
+    38.23513,
+    -85.478127,
+    38.23513
+],
+  "geometry": {"coordinates":[-85.478127,38.23513],"type":"Point"}
+}

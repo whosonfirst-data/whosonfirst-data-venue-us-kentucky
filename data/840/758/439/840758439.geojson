@@ -1,0 +1,71 @@
+{
+  "id": 840758439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.652358,37.034214,-84.652358,37.034214",
+    "geom:latitude":37.034214,
+    "geom:longitude":-84.652358,
+    "iso:country":"US",
+    "sg:address":"913 Winding Ridge Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2665",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Os0TzeTSIm9yH7N6FFk1_37.034214_-84.652358@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047300,
+    "wof:geomhash":"2dd79549c73e083b141f1ba08a0f5307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840758439
+        }
+    ],
+    "wof:id":840758439,
+    "wof:lastmodified":1464047300,
+    "wof:name":"Rds Electric Inc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.652358,
+    37.034214,
+    -84.652358,
+    37.034214
+],
+  "geometry": {"coordinates":[-84.65235800000001,37.034214],"type":"Point"}
+}

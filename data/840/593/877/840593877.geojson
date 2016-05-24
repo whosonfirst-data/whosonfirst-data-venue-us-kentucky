@@ -1,0 +1,73 @@
+{
+  "id": 840593877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.902283,37.766195,-85.902283,37.766195",
+    "geom:latitude":37.766195,
+    "geom:longitude":-85.902283,
+    "iso:country":"US",
+    "sg:address":"5511 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8383",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PoaBN6ig04IT8fEfa3ldm_37.766195_-85.902283@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043510,
+    "wof:geomhash":"af53ee74b7064814a101f23d77a45672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840593877
+        }
+    ],
+    "wof:id":840593877,
+    "wof:lastmodified":1464043510,
+    "wof:name":"Busy Hands Ceramic Studio",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -85.902283,
+    37.766195,
+    -85.902283,
+    37.766195
+],
+  "geometry": {"coordinates":[-85.902283,37.766195],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840531291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.442597,38.37986,-85.442597,38.37986",
+    "geom:latitude":38.37986,
+    "geom:longitude":-85.442597,
+    "iso:country":"US",
+    "sg:address":"4532 Old Lagrange Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 5311",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NONhYQQTFt2A2UFq3Qf9i_38.379860_-85.442597@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464041995,
+    "wof:geomhash":"744a71628f348cf5c8539ac625cc5dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840531291
+        }
+    ],
+    "wof:id":840531291,
+    "wof:lastmodified":1464041995,
+    "wof:name":"Bill Mudd Electric Co",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.442597,
+    38.37986,
+    -85.442597,
+    38.37986
+],
+  "geometry": {"coordinates":[-85.44259700000001,38.37986],"type":"Point"}
+}

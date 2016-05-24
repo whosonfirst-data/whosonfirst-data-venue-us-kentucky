@@ -1,0 +1,75 @@
+{
+  "id": 840580739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.558853,38.210157,-85.558853,38.210157",
+    "geom:latitude":38.210157,
+    "geom:longitude":-85.558853,
+    "iso:country":"US",
+    "sg:address":"2129 Watterson Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 8847",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TwCVHnstGexbxzxYHwZzo_38.210157_-85.558853@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043223,
+    "wof:geomhash":"ee73c03a18caa23fa284973762988241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840580739
+        }
+    ],
+    "wof:id":840580739,
+    "wof:lastmodified":1464043223,
+    "wof:name":"World Radon Control Systems",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -85.558853,
+    38.210157,
+    -85.558853,
+    38.210157
+],
+  "geometry": {"coordinates":[-85.558853,38.210157],"type":"Point"}
+}

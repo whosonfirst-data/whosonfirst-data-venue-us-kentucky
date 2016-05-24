@@ -1,0 +1,75 @@
+{
+  "id": 840887287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779124,38.161727,-85.779124,38.161727",
+    "geom:latitude":38.161727,
+    "geom:longitude":-85.779124,
+    "iso:country":"US",
+    "sg:address":"5105 New Cut Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 5838",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48CTwnbsLml9S6svvqfI5A_38.161727_-85.779124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050226,
+    "wof:geomhash":"1645ba767b5fd0f43516418c324a75ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840887287
+        }
+    ],
+    "wof:id":840887287,
+    "wof:lastmodified":1464050226,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.779124,
+    38.161727,
+    -85.779124,
+    38.161727
+],
+  "geometry": {"coordinates":[-85.779124,38.161727],"type":"Point"}
+}

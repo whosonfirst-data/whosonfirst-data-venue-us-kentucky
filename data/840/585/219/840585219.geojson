@@ -1,0 +1,73 @@
+{
+  "id": 840585219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.442727,38.3752,-85.442727,38.3752",
+    "geom:latitude":38.3752,
+    "geom:longitude":-85.442727,
+    "iso:country":"US",
+    "sg:address":"4706 Old Lagrange Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1139",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CaxW9Yuy700r7DwVo7Bhs_38.375200_-85.442727@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043322,
+    "wof:geomhash":"ec7e73c1a185a17874a013bac24702fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840585219
+        }
+    ],
+    "wof:id":840585219,
+    "wof:lastmodified":1464043322,
+    "wof:name":"Mike Mudd Electric Svc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.442727,
+    38.3752,
+    -85.442727,
+    38.3752
+],
+  "geometry": {"coordinates":[-85.442727,38.3752],"type":"Point"}
+}

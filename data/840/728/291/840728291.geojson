@@ -1,0 +1,73 @@
+{
+  "id": 840728291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433756,36.944437,-86.433756,36.944437",
+    "geom:latitude":36.944437,
+    "geom:longitude":-86.433756,
+    "iso:country":"US",
+    "sg:address":"2950 N Mill Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9550",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LU14eRH0S9YW69UJKvbx9_36.944437_-86.433756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046676,
+    "wof:geomhash":"e4daa82c56ecb1c124fed02f29f6a85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840728291
+        }
+    ],
+    "wof:id":840728291,
+    "wof:lastmodified":1464046676,
+    "wof:name":"Beacon Construction",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.433756,
+    36.944437,
+    -86.433756,
+    36.944437
+],
+  "geometry": {"coordinates":[-86.433756,36.944437],"type":"Point"}
+}

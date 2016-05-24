@@ -1,0 +1,73 @@
+{
+  "id": 840771565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.755969,38.993636,-84.755969,38.993636",
+    "geom:latitude":38.993636,
+    "geom:longitude":-84.755969,
+    "iso:country":"US",
+    "sg:address":"7354 E Bend Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 7072",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75jAt33YyjFEzncMxe8ROA_38.993636_-84.755969@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047605,
+    "wof:geomhash":"66489f7d18ff44820c4c647bd00173a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840771565
+        }
+    ],
+    "wof:id":840771565,
+    "wof:lastmodified":1464047605,
+    "wof:name":"Bills Professional Painting",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.755969,
+    38.993636,
+    -84.755969,
+    38.993636
+],
+  "geometry": {"coordinates":[-84.75596899999999,38.993636],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840667945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.856566,37.689156,-85.856566,37.689156",
+    "geom:latitude":37.689156,
+    "geom:longitude":-85.856566,
+    "iso:country":"US",
+    "sg:address":"121 Nicholas St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 9888",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "packaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y2tIGLu7K0QDiLWIj0Gur_37.689156_-85.856566@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045270,
+    "wof:geomhash":"ca75d7ddefda3e9c715520e5d55fc6c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840667945
+        }
+    ],
+    "wof:id":840667945,
+    "wof:lastmodified":1464045270,
+    "wof:name":"E-Town Packaging Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging"
+    ]
+},
+  "bbox": [
+    -85.856566,
+    37.689156,
+    -85.856566,
+    37.689156
+],
+  "geometry": {"coordinates":[-85.856566,37.689156],"type":"Point"}
+}

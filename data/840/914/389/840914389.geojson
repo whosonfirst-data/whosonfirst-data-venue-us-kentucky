@@ -1,0 +1,71 @@
+{
+  "id": 840914389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.30575,37.562573,-84.30575,37.562573",
+    "geom:latitude":37.562573,
+    "geom:longitude":-84.30575,
+    "iso:country":"US",
+    "sg:address":"273 Mount Vernon Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 9249",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WSAUR2zNk9Jlrvd98nuUx_37.562573_-84.305750@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050859,
+    "wof:geomhash":"ab250a8b5ad5bd747f53fe3c12acbe42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840914389
+        }
+    ],
+    "wof:id":840914389,
+    "wof:lastmodified":1464050859,
+    "wof:name":"Liberty Avenue Baptist Church",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.30575,
+    37.562573,
+    -84.30575,
+    37.562573
+],
+  "geometry": {"coordinates":[-84.30575,37.562573],"type":"Point"}
+}

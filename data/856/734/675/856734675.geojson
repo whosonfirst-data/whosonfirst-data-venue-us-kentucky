@@ -1,0 +1,76 @@
+{
+  "id": 856734675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.519119,38.050881,-84.519119,38.050881",
+    "geom:latitude":38.050881,
+    "geom:longitude":-84.519119,
+    "iso:country":"US",
+    "sg:address":"1201 Versailles Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/120591-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 389 9484",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NYfDI0LMwl0eFiYkmttvK_38.050881_-84.519119@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053170,
+    "wof:geomhash":"87456080c1bb3c2fa787f9964fd324fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873027,
+            "region_id":85688641,
+            "venue_id":856734675
+        }
+    ],
+    "wof:id":856734675,
+    "wof:lastmodified":1464053170,
+    "wof:name":"Subway",
+    "wof:parent_id":85873027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.519119,
+    38.050881,
+    -84.519119,
+    38.050881
+],
+  "geometry": {"coordinates":[-84.519119,38.050881],"type":"Point"}
+}

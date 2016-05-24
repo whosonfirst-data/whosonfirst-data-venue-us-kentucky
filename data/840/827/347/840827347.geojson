@@ -1,0 +1,66 @@
+{
+  "id": 840827347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439779,36.950779,-86.439779,36.950779",
+    "geom:latitude":36.950779,
+    "geom:longitude":-86.439779,
+    "iso:country":"US",
+    "sg:address":"1651 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 0000",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qcgUgAYIDMc9jatypQCnu_36.950779_-86.439779@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048949,
+    "wof:geomhash":"86a295503d0908660bb5fb3c4e6f2539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840827347
+        }
+    ],
+    "wof:id":840827347,
+    "wof:lastmodified":1464048949,
+    "wof:name":"Zaxby's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.439779,
+    36.950779,
+    -86.439779,
+    36.950779
+],
+  "geometry": {"coordinates":[-86.439779,36.950779],"type":"Point"}
+}

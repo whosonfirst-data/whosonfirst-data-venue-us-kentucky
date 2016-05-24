@@ -1,0 +1,71 @@
+{
+  "id": 840811557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.431925,38.337613,-85.431925,38.337613",
+    "geom:latitude":38.337613,
+    "geom:longitude":-85.431925,
+    "iso:country":"US",
+    "sg:address":"4400 State Hwy 22",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 8023",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wk1d1R2ArCGhhlhlLMFpX_38.337613_-85.431925@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048477,
+    "wof:geomhash":"fbf1063b9e79079f4c1c57a8dd0e0df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840811557
+        }
+    ],
+    "wof:id":840811557,
+    "wof:lastmodified":1464048477,
+    "wof:name":"Harold W Baker PSC",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.431925,
+    38.337613,
+    -85.431925,
+    38.337613
+],
+  "geometry": {"coordinates":[-85.43192500000001,38.337613],"type":"Point"}
+}

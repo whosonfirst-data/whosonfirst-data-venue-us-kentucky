@@ -1,0 +1,68 @@
+{
+  "id": 840610497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.295154,37.747803,-84.295154,37.747803",
+    "geom:latitude":37.747803,
+    "geom:longitude":-84.295154,
+    "iso:country":"US",
+    "sg:address":"239 W Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 4755",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RZrqwWb0FQWJYYccyc6sk_37.747803_-84.295154@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043930,
+    "wof:geomhash":"6ca90fc27caebfde25507697981c2dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840610497
+        }
+    ],
+    "wof:id":840610497,
+    "wof:lastmodified":1464043930,
+    "wof:name":"Rose Barn Theatre",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.295154,
+    37.747803,
+    -84.295154,
+    37.747803
+],
+  "geometry": {"coordinates":[-84.295154,37.747803],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840849857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.712819,38.205536,-85.712819,38.205536",
+    "geom:latitude":38.205536,
+    "geom:longitude":-85.712819,
+    "iso:country":"US",
+    "sg:address":"1007 Trevilian Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 3307",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tH1FUsZV6TOvUJ5Ss0Psj_38.205536_-85.712819@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049434,
+    "wof:geomhash":"988ffa59f2b655de448a4b2b78a525fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873417,
+            "region_id":85688641,
+            "venue_id":840849857
+        }
+    ],
+    "wof:id":840849857,
+    "wof:lastmodified":1464049434,
+    "wof:name":"Family Practice Dentistry",
+    "wof:parent_id":85873417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.712819,
+    38.205536,
+    -85.712819,
+    38.205536
+],
+  "geometry": {"coordinates":[-85.712819,38.205536],"type":"Point"}
+}

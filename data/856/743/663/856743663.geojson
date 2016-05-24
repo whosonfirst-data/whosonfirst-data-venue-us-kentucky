@@ -1,0 +1,79 @@
+{
+  "id": 856743663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754916,38.19969,-85.754916,38.19969",
+    "geom:latitude":38.19969,
+    "geom:longitude":-85.754916,
+    "iso:country":"US",
+    "sg:address":"343 Farmington Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 3451",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbLAv9eGexmEFsth63InG_38.199690_-85.754916@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053518,
+    "wof:geomhash":"77c30b85e615e6540a4a023b206d9b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856743663
+        }
+    ],
+    "wof:id":856743663,
+    "wof:lastmodified":1464053518,
+    "wof:name":"Mid-City Body Shop",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -85.754916,
+    38.19969,
+    -85.754916,
+    38.19969
+],
+  "geometry": {"coordinates":[-85.75491599999999,38.19969],"type":"Point"}
+}

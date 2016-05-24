@@ -1,0 +1,76 @@
+{
+  "id": 856761157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684277,37.077479,-88.684277,37.077479",
+    "geom:latitude":37.077479,
+    "geom:longitude":-88.684277,
+    "iso:country":"US",
+    "sg:address":"5006 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 7200",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CFnInaSG0s0oqVKlLaYry_37.077479_-88.684277@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054166,
+    "wof:geomhash":"41429ef53588074429a89e3fb6720f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856761157
+        }
+    ],
+    "wof:id":856761157,
+    "wof:lastmodified":1464054166,
+    "wof:name":"Pear Tree Inn Paducah",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -88.684277,
+    37.077479,
+    -88.684277,
+    37.077479
+],
+  "geometry": {"coordinates":[-88.68427699999999,37.077479],"type":"Point"}
+}

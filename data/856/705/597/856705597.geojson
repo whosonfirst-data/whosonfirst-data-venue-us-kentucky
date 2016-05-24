@@ -1,0 +1,75 @@
+{
+  "id": 856705597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.470472,37.98208,-84.470472,37.98208",
+    "geom:latitude":37.98208,
+    "geom:longitude":-84.470472,
+    "iso:country":"US",
+    "sg:address":"3576 Pimlico Pkwy",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 272 0608",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3csQfZAjMZvZKJoeRPBAHT_37.982080_-84.470472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052180,
+    "wof:geomhash":"09e0ba2e35919575abfe832a5b84dea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873051,
+            "region_id":85688641,
+            "venue_id":856705597
+        }
+    ],
+    "wof:id":856705597,
+    "wof:lastmodified":1464052180,
+    "wof:name":"Pimlico Manor",
+    "wof:parent_id":85873051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -84.470472,
+    37.98208,
+    -84.470472,
+    37.98208
+],
+  "geometry": {"coordinates":[-84.470472,37.98208],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840554009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.631363,37.086644,-84.631363,37.086644",
+    "geom:latitude":37.086644,
+    "geom:longitude":-84.631363,
+    "iso:country":"US",
+    "sg:address":"300 Hail Knob Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 4315",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "detention",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01mNnZr7XFqIboYRSnTtKU_37.086644_-84.631363@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042603,
+    "wof:geomhash":"57a8e9af69c32e631789ce5a2107c0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840554009
+        }
+    ],
+    "wof:id":840554009,
+    "wof:lastmodified":1464042603,
+    "wof:name":"Pulaski County Detention Ctr",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detention",
+        "center"
+    ]
+},
+  "bbox": [
+    -84.631363,
+    37.086644,
+    -84.631363,
+    37.086644
+],
+  "geometry": {"coordinates":[-84.63136299999999,37.086644],"type":"Point"}
+}

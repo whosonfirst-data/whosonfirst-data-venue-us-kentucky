@@ -1,0 +1,71 @@
+{
+  "id": 840589295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435968,36.983868,-86.435968,36.983868",
+    "geom:latitude":36.983868,
+    "geom:longitude":-86.435968,
+    "iso:country":"US",
+    "sg:address":"1030 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 7187",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O1gkxmxdj2ibOnUyXmDPc_36.983868_-86.435968@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043407,
+    "wof:geomhash":"c7dc91b75c647f6ccfea50c5f3150809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840589295
+        }
+    ],
+    "wof:id":840589295,
+    "wof:lastmodified":1464043407,
+    "wof:name":"Thomas Compton DDS",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.435968,
+    36.983868,
+    -86.435968,
+    36.983868
+],
+  "geometry": {"coordinates":[-86.435968,36.983868],"type":"Point"}
+}

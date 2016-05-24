@@ -1,0 +1,82 @@
+{
+  "id": 856760997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.677635,37.104723,-88.677635,37.104723",
+    "geom:latitude":37.104723,
+    "geom:longitude":-88.677635,
+    "iso:country":"US",
+    "sg:address":"4550 Noble Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 9030",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ngu7vc6CXV1e8IQbwyUiL_37.104723_-88.677635@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054159,
+    "wof:geomhash":"f453e1d2426d304cc176291c6d704853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856760997
+        }
+    ],
+    "wof:id":856760997,
+    "wof:lastmodified":1464054159,
+    "wof:name":"Ellifson's Elite Colors",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -88.677635,
+    37.104723,
+    -88.677635,
+    37.104723
+],
+  "geometry": {"coordinates":[-88.677635,37.104723],"type":"Point"}
+}

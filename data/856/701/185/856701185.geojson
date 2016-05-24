@@ -1,0 +1,74 @@
+{
+  "id": 856701185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.405217,36.913329,-86.405217,36.913329",
+    "geom:latitude":36.913329,
+    "geom:longitude":-86.405217,
+    "iso:country":"US",
+    "sg:address":"6060 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0123",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.mlelectrical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4avAxf4JUVg9fG2X8lzS7O_36.913329_-86.405217@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052083,
+    "wof:geomhash":"c6e3477b110873cbb912fd1321c64eb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856701185
+        }
+    ],
+    "wof:id":856701185,
+    "wof:lastmodified":1464052083,
+    "wof:name":"M & L Electrical Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.405217,
+    36.913329,
+    -86.405217,
+    36.913329
+],
+  "geometry": {"coordinates":[-86.40521699999999,36.913329],"type":"Point"}
+}

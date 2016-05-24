@@ -1,0 +1,68 @@
+{
+  "id": 840859081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.812722,38.261637,-85.812722,38.261637",
+    "geom:latitude":38.261637,
+    "geom:longitude":-85.812722,
+    "iso:country":"US",
+    "sg:address":"3815 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 3521",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ao2u984XzXQFF2CBK9qBN_38.261637_-85.812722@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049638,
+    "wof:geomhash":"ec45532eea23c54b6ec4c48036f105ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840859081
+        }
+    ],
+    "wof:id":840859081,
+    "wof:lastmodified":1464049638,
+    "wof:name":"Shawnee Homestyle Coin Laundry",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.812722,
+    38.261637,
+    -85.812722,
+    38.261637
+],
+  "geometry": {"coordinates":[-85.81272199999999,38.261637],"type":"Point"}
+}

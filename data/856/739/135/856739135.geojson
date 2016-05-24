@@ -1,0 +1,73 @@
+{
+  "id": 856739135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755695,38.253667,-85.755695,38.253667",
+    "geom:latitude":38.253667,
+    "geom:longitude":-85.755695,
+    "iso:country":"US",
+    "sg:address":"320 W JEFFERSON ST",
+    "sg:city":"LOUISVILLE",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://louisville.hyatt.com/hyatt/hotels/index.jsp?src=agn_tig_hhc_lk_ntntlyellowpages_sdfrl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_582Wiv2tlYC9QuDtZ8bG0T_38.253667_-85.755695@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053347,
+    "wof:geomhash":"4832e21a9c98ebeacb5277642f467fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856739135
+        }
+    ],
+    "wof:id":856739135,
+    "wof:lastmodified":1464053347,
+    "wof:name":"Hyatt Regency Louisville",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.755695,
+    38.253667,
+    -85.755695,
+    38.253667
+],
+  "geometry": {"coordinates":[-85.755695,38.253667],"type":"Point"}
+}

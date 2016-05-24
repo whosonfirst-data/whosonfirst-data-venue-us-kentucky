@@ -1,0 +1,69 @@
+{
+  "id": 840721673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.600423,36.989508,-84.600423,36.989508",
+    "geom:latitude":36.989508,
+    "geom:longitude":-84.600423,
+    "iso:country":"US",
+    "sg:address":"7984 US Hwy 27",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 4120",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IgW1tBxvrtciRjf9HaJoH_36.989508_-84.600423@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046543,
+    "wof:geomhash":"69c31321b93c3ca705900b668eae4057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840721673
+        }
+    ],
+    "wof:id":840721673,
+    "wof:lastmodified":1464046543,
+    "wof:name":"Food Stop Inc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.600423,
+    36.989508,
+    -84.600423,
+    36.989508
+],
+  "geometry": {"coordinates":[-84.60042300000001,36.989508],"type":"Point"}
+}

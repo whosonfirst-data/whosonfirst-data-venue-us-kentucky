@@ -1,0 +1,73 @@
+{
+  "id": 840821191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.186424,37.488643,-82.186424,37.488643",
+    "geom:latitude":37.488643,
+    "geom:longitude":-82.186424,
+    "iso:country":"US",
+    "sg:address":"11260 Phelps 632 Rd",
+    "sg:city":"Freeburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 8010",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LsuwNdDtj5VQmKjOmZnLn_37.488643_-82.186424@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048782,
+    "wof:geomhash":"736cdcc4501eda67e7cb34afc575e0c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840821191
+        }
+    ],
+    "wof:id":840821191,
+    "wof:lastmodified":1464048782,
+    "wof:name":"Jeff's Speed & Custom",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.186424,
+    37.488643,
+    -82.186424,
+    37.488643
+],
+  "geometry": {"coordinates":[-82.186424,37.488643],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840810833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.497383,38.259323,-85.497383,38.259323",
+    "geom:latitude":38.259323,
+    "geom:longitude":-85.497383,
+    "iso:country":"US",
+    "sg:address":"13703 Aiken Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 254 0701",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "sg:website":"www.custompoolky.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29eyG1jt1DRorWYwRrmfxu_38.259323_-85.497383@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048452,
+    "wof:geomhash":"b704c4ffd2a814b68b22258f5c2edead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840810833
+        }
+    ],
+    "wof:id":840810833,
+    "wof:lastmodified":1464048452,
+    "wof:name":"Custom Pool",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -85.497383,
+    38.259323,
+    -85.497383,
+    38.259323
+],
+  "geometry": {"coordinates":[-85.497383,38.259323],"type":"Point"}
+}

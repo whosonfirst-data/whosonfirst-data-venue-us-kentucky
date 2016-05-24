@@ -1,0 +1,71 @@
+{
+  "id": 840832399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.731907,37.762833,-85.731907,37.762833",
+    "geom:latitude":37.762833,
+    "geom:longitude":-85.731907,
+    "iso:country":"US",
+    "sg:address":"275 Mountain View Estates Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 8121",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03apiZNHhYVwZEs1luXoaZ_37.762833_-85.731907@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049050,
+    "wof:geomhash":"9ac5118fca9a77119d6dd9d097c08fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840832399
+        }
+    ],
+    "wof:id":840832399,
+    "wof:lastmodified":1464049050,
+    "wof:name":"Greenwell Custom Wood Int",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.731907,
+    37.762833,
+    -85.731907,
+    37.762833
+],
+  "geometry": {"coordinates":[-85.73190700000001,37.762833],"type":"Point"}
+}

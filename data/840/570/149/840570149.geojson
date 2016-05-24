@@ -1,0 +1,67 @@
+{
+  "id": 840570149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.931549,37.153832,-85.931549,37.153832",
+    "geom:latitude":37.153832,
+    "geom:longitude":-85.931549,
+    "iso:country":"US",
+    "sg:address":"2276 S Dixie St",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 773 2828",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:website":"www.caverna.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hyw8wp1x7tyLcwKjbOfZK_37.153832_-85.931549@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042989,
+    "wof:geomhash":"87b023918e46adc7c88d2ccc6d053e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840570149
+        }
+    ],
+    "wof:id":840570149,
+    "wof:lastmodified":1464042989,
+    "wof:name":"Caverna High School",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.931549,
+    37.153832,
+    -85.931549,
+    37.153832
+],
+  "geometry": {"coordinates":[-85.931549,37.153832],"type":"Point"}
+}

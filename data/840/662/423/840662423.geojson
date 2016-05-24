@@ -1,0 +1,73 @@
+{
+  "id": 840662423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500433,38.048117,-84.500433,38.048117",
+    "geom:latitude":38.048117,
+    "geom:longitude":-84.500433,
+    "iso:country":"US",
+    "sg:address":"333 W Vine St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 455 8822",
+    "sg:postcode":"40507",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524721,
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hiU1tc995zFZBvMO1sm21_38.048117_-84.500433@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045154,
+    "wof:geomhash":"04fdcd4f2489a5926fb08477c95bc796",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524721,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "region_id":85688641,
+            "venue_id":840662423
+        }
+    ],
+    "wof:id":840662423,
+    "wof:lastmodified":1464045154,
+    "wof:name":"NAMI Resources Co",
+    "wof:parent_id":102524721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -84.500433,
+    38.048117,
+    -84.500433,
+    38.048117
+],
+  "geometry": {"coordinates":[-84.500433,38.048117],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840912541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.867273,37.699307,-85.867273,37.699307",
+    "geom:latitude":37.699307,
+    "geom:longitude":-85.867273,
+    "iso:country":"US",
+    "sg:address":"428 Washington St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5499",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zs3pubIJqa7cbdR6IsvTw_37.699307_-85.867273@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050805,
+    "wof:geomhash":"afbe509fd582793b45aa1c00071c484c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840912541
+        }
+    ],
+    "wof:id":840912541,
+    "wof:lastmodified":1464050805,
+    "wof:name":"Heartland Catering",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -85.867273,
+    37.699307,
+    -85.867273,
+    37.699307
+],
+  "geometry": {"coordinates":[-85.867273,37.699307],"type":"Point"}
+}

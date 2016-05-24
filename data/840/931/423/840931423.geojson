@@ -1,0 +1,71 @@
+{
+  "id": 840931423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.613027,37.885782,-84.613027,37.885782",
+    "geom:latitude":37.885782,
+    "geom:longitude":-84.613027,
+    "iso:country":"US",
+    "sg:address":"1801 Wilmore Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 533 1294",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53w5qQR7rbRDZUbujrKlE1_37.885782_-84.613027@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051278,
+    "wof:geomhash":"89d96ce6adc315517d8c2598d7e0ddfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840931423
+        }
+    ],
+    "wof:id":840931423,
+    "wof:lastmodified":1464051278,
+    "wof:name":"Tim's Plumbing",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.613027,
+    37.885782,
+    -84.613027,
+    37.885782
+],
+  "geometry": {"coordinates":[-84.613027,37.885782],"type":"Point"}
+}

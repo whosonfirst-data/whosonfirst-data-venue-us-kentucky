@@ -1,0 +1,71 @@
+{
+  "id": 840948047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423302,36.945998,-86.423302,36.945998",
+    "geom:latitude":36.945998,
+    "geom:longitude":-86.423302,
+    "iso:country":"US",
+    "sg:address":"1950 Cave Mill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3427",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77fc9ZmiWeqqDw7vO0ctlh_36.945998_-86.423302@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051608,
+    "wof:geomhash":"a29b56b4d5e908be35d5457c114e988f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840948047
+        }
+    ],
+    "wof:id":840948047,
+    "wof:lastmodified":1464051608,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.423302,
+    36.945998,
+    -86.423302,
+    36.945998
+],
+  "geometry": {"coordinates":[-86.42330200000001,36.945998],"type":"Point"}
+}

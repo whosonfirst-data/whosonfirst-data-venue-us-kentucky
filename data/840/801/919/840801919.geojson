@@ -1,0 +1,73 @@
+{
+  "id": 840801919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.476004,38.319521,-85.476004,38.319521",
+    "geom:latitude":38.319521,
+    "geom:longitude":-85.476004,
+    "iso:country":"US",
+    "sg:address":"7403 Lark Rd",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 9387",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Th2FZbvb3HHofIEy5mS9_38.319521_-85.476004@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048240,
+    "wof:geomhash":"0f09d245363530080a308ced2dddbe8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840801919
+        }
+    ],
+    "wof:id":840801919,
+    "wof:lastmodified":1464048240,
+    "wof:name":"William H Jolley Plumbing Co",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.476004,
+    38.319521,
+    -85.476004,
+    38.319521
+],
+  "geometry": {"coordinates":[-85.476004,38.319521],"type":"Point"}
+}

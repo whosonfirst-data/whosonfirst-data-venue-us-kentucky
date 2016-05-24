@@ -1,0 +1,71 @@
+{
+  "id": 840585291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.854094,37.770372,-85.854094,37.770372",
+    "geom:latitude":37.770372,
+    "geom:longitude":-85.854094,
+    "iso:country":"US",
+    "sg:address":"100 Woodsway Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 268 0655",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jNDe7mIuNCyVIQ3rpqV8d_37.770372_-85.854094@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043324,
+    "wof:geomhash":"d5af1457f2876c007c870032e86ddfbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840585291
+        }
+    ],
+    "wof:id":840585291,
+    "wof:lastmodified":1464043324,
+    "wof:name":"Scott J Hopkins",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.854094,
+    37.770372,
+    -85.854094,
+    37.770372
+],
+  "geometry": {"coordinates":[-85.854094,37.770372],"type":"Point"}
+}

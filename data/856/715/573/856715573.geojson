@@ -1,0 +1,72 @@
+{
+  "id": 856715573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.628515,37.074327,-88.628515,37.074327",
+    "geom:latitude":37.074327,
+    "geom:longitude":-88.628515,
+    "iso:country":"US",
+    "sg:address":"2620 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3561",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital"
+    ],
+    "sg:website":"www.stonelang.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PC13KJ2FquS7PZdnN1dM9_37.074327_-88.628515@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052413,
+    "wof:geomhash":"ac92de58f1bd241d9430313461c5ca5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856715573
+        }
+    ],
+    "wof:id":856715573,
+    "wof:lastmodified":1464052413,
+    "wof:name":"Stone-Lang Co",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -88.628515,
+    37.074327,
+    -88.628515,
+    37.074327
+],
+  "geometry": {"coordinates":[-88.62851499999999,37.074327],"type":"Point"}
+}

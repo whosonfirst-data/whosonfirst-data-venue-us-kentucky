@@ -1,0 +1,72 @@
+{
+  "id": 840679291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.575129,37.061028,-88.575129,37.061028",
+    "geom:latitude":37.061028,
+    "geom:longitude":-88.575129,
+    "iso:country":"US",
+    "sg:address":"2623 Wayne Sullivan Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9726",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.computer-source.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rHRkzaJggpFklq57NyOqr_37.061028_-88.575129@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045551,
+    "wof:geomhash":"dc0fc1071aab6c0aa4e3a379b83ad987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840679291
+        }
+    ],
+    "wof:id":840679291,
+    "wof:lastmodified":1464045551,
+    "wof:name":"Computer Source Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -88.575129,
+    37.061028,
+    -88.575129,
+    37.061028
+],
+  "geometry": {"coordinates":[-88.575129,37.061028],"type":"Point"}
+}

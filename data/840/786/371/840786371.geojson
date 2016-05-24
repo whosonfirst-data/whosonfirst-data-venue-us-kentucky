@@ -1,0 +1,73 @@
+{
+  "id": 840786371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.883187,37.720463,-85.883187,37.720463",
+    "geom:latitude":37.720463,
+    "geom:longitude":-85.883187,
+    "iso:country":"US",
+    "sg:address":"1239 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 1559",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BpNPV1JEZPLGLRDwRuJMS_37.720463_-85.883187@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047908,
+    "wof:geomhash":"04adab9c624323f4db2df4444e1eba2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840786371
+        }
+    ],
+    "wof:id":840786371,
+    "wof:lastmodified":1464047908,
+    "wof:name":"Neurosurgical Institute Of Ky",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.883187,
+    37.720463,
+    -85.883187,
+    37.720463
+],
+  "geometry": {"coordinates":[-85.88318700000001,37.720463],"type":"Point"}
+}

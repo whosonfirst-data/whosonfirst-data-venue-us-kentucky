@@ -1,0 +1,71 @@
+{
+  "id": 840760643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571349,37.83216,-87.571349,37.83216",
+    "geom:latitude":37.83216,
+    "geom:longitude":-87.571349,
+    "iso:country":"US",
+    "sg:address":"1624 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 0293",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vlZbbdjlrLrUUU1h9Juqr_37.832160_-87.571349@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047359,
+    "wof:geomhash":"558f359e63123bd6b878710ffd79f69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840760643
+        }
+    ],
+    "wof:id":840760643,
+    "wof:lastmodified":1464047359,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -87.571349,
+    37.83216,
+    -87.571349,
+    37.83216
+],
+  "geometry": {"coordinates":[-87.571349,37.83216],"type":"Point"}
+}

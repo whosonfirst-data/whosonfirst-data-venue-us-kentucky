@@ -1,0 +1,75 @@
+{
+  "id": 840605789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.595914,38.308888,-85.595914,38.308888",
+    "geom:latitude":38.308888,
+    "geom:longitude":-85.595914,
+    "iso:country":"US",
+    "sg:address":"4231 Telovi Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 4137",
+    "sg:postcode":"40241",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65xgWFSG2v1oft7gFDJ6NS_38.308888_-85.595914@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043794,
+    "wof:geomhash":"d409692321082ae9f8e40c39b87b001f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":840605789
+        }
+    ],
+    "wof:id":840605789,
+    "wof:lastmodified":1464043794,
+    "wof:name":"O'Mary Brothers Plumbing",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.595914,
+    38.308888,
+    -85.595914,
+    38.308888
+],
+  "geometry": {"coordinates":[-85.59591399999999,38.308888],"type":"Point"}
+}

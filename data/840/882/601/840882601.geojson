@@ -1,0 +1,69 @@
+{
+  "id": 840882601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.65521,37.86908,-84.65521,37.86908",
+    "geom:latitude":37.86908,
+    "geom:longitude":-84.65521,
+    "iso:country":"US",
+    "sg:address":"202 Epworth Dr",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 4682",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2caEdbodKaDfSZwaTLHbIC_37.869080_-84.655210@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050122,
+    "wof:geomhash":"88a8bf3c50d20750611ac13f247d7a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840882601
+        }
+    ],
+    "wof:id":840882601,
+    "wof:lastmodified":1464050122,
+    "wof:name":"Asbury Heights Apartments",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.65521,
+    37.86908,
+    -84.65521,
+    37.86908
+],
+  "geometry": {"coordinates":[-84.65521,37.86908],"type":"Point"}
+}

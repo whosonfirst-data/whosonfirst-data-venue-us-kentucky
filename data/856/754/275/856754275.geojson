@@ -1,0 +1,69 @@
+{
+  "id": 856754275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.503898,38.046071,-84.503898,38.046071",
+    "geom:latitude":38.046071,
+    "geom:longitude":-84.503898,
+    "iso:country":"US",
+    "sg:address":"355 S Broadway Fl 3",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 257 2965",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:website":"http://www.mc.uky.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z9cDjPLi4HLDNseL270Of_38.046071_-84.503898@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053919,
+    "wof:geomhash":"16d8813c8e81803f60f41f31c13b375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873063,
+            "region_id":85688641,
+            "venue_id":856754275
+        }
+    ],
+    "wof:id":856754275,
+    "wof:lastmodified":1464053919,
+    "wof:name":"Engineering Library",
+    "wof:parent_id":85873063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.503898,
+    38.046071,
+    -84.503898,
+    38.046071
+],
+  "geometry": {"coordinates":[-84.50389800000001,38.046071],"type":"Point"}
+}

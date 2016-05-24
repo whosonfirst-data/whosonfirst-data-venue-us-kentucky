@@ -1,0 +1,88 @@
+{
+  "id": 840786119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.488624,36.953773,-86.488624,36.953773",
+    "geom:latitude":36.953773,
+    "geom:longitude":-86.488624,
+    "iso:country":"US",
+    "sg:address":"2779 Pioneer Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2668",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27cHn3kd9GmjHwP425qHMg_36.953773_-86.488624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047903,
+    "wof:geomhash":"e02046d48aabea00e6753b3413a80740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840786119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840786119
+        }
+    ],
+    "wof:id":840786119,
+    "wof:lastmodified":1464047903,
+    "wof:name":"Greenwood Refrigeration Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.488624,
+    36.953773,
+    -86.488624,
+    36.953773
+],
+  "geometry": {"coordinates":[-86.488624,36.953773],"type":"Point"}
+}

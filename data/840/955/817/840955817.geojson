@@ -1,0 +1,71 @@
+{
+  "id": 840955817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42964,36.990804,-86.42964,36.990804",
+    "geom:latitude":36.990804,
+    "geom:longitude":-86.42964,
+    "iso:country":"US",
+    "sg:address":"890 Fairview Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6844",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VCWjiR0H6j0ASOsoibJv7_36.990804_-86.429640@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051758,
+    "wof:geomhash":"b7bfc4a01c0d46acebd27be58a150e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840955817
+        }
+    ],
+    "wof:id":840955817,
+    "wof:lastmodified":1464051758,
+    "wof:name":"Royal Arms Apartments",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.42964,
+    36.990804,
+    -86.42964,
+    36.990804
+],
+  "geometry": {"coordinates":[-86.42964000000001,36.990804],"type":"Point"}
+}

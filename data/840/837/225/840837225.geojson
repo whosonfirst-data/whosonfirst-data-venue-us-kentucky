@@ -1,0 +1,73 @@
+{
+  "id": 840837225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.362426,37.518096,-82.362426,37.518096",
+    "geom:latitude":37.518096,
+    "geom:longitude":-82.362426,
+    "iso:country":"US",
+    "sg:address":"8151 State Hwy 194 E",
+    "sg:city":"Kimper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 631 4207",
+    "sg:postcode":"41539",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tjTzoOwMNLHPUeoBnfuZ1_37.518096_-82.362426@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049153,
+    "wof:geomhash":"46d1917e7655dab14d03e55788cf6b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840837225
+        }
+    ],
+    "wof:id":840837225,
+    "wof:lastmodified":1464049153,
+    "wof:name":"Kimper Family Resource",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -82.362426,
+    37.518096,
+    -82.362426,
+    37.518096
+],
+  "geometry": {"coordinates":[-82.362426,37.518096],"type":"Point"}
+}

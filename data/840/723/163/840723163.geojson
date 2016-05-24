@@ -1,0 +1,71 @@
+{
+  "id": 840723163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.724073,38.042904,-84.724073,38.042904",
+    "geom:latitude":38.042904,
+    "geom:longitude":-84.724073,
+    "iso:country":"US",
+    "sg:address":"429 Duell Dr",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 6407",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qflFmPkZ0wnJz3YJmR15q_38.042904_-84.724073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046573,
+    "wof:geomhash":"01008dafb9f1735a4e5eec41e7b5cf6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840723163
+        }
+    ],
+    "wof:id":840723163,
+    "wof:lastmodified":1464046573,
+    "wof:name":"Jones Residential Roofing",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.724073,
+    38.042904,
+    -84.724073,
+    38.042904
+],
+  "geometry": {"coordinates":[-84.724073,38.042904],"type":"Point"}
+}

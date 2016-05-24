@@ -1,0 +1,83 @@
+{
+  "id": 856748001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579048,38.242401,-85.579048,38.242401",
+    "geom:latitude":38.242401,
+    "geom:longitude":-85.579048,
+    "iso:country":"US",
+    "sg:address":"9000 Wessex Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 420 1100",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "equipment",
+        "copy"
+    ],
+    "sg:website":"http://www.xerox.com/office/ypp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MCZ7EpXhtVIfZnUoNetpS_38.242401_-85.579048@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053676,
+    "wof:geomhash":"cf383ce590f1d719d0e04c464e92932f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748001
+        }
+    ],
+    "wof:id":856748001,
+    "wof:lastmodified":1464053676,
+    "wof:name":"XEROX CORPORATION - Local Sales",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "equipment",
+        "copy"
+    ]
+},
+  "bbox": [
+    -85.579048,
+    38.242401,
+    -85.579048,
+    38.242401
+],
+  "geometry": {"coordinates":[-85.579048,38.242401],"type":"Point"}
+}

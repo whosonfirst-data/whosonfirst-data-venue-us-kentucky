@@ -1,0 +1,73 @@
+{
+  "id": 840610799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.841518,37.707652,-85.841518,37.707652",
+    "geom:latitude":37.707652,
+    "geom:longitude":-85.841518,
+    "iso:country":"US",
+    "sg:address":"950 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 9949",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qY9aaMZNOu764IsvOmHt7_37.707652_-85.841518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043937,
+    "wof:geomhash":"d9fc49381c2c3b6a3abcf065deb63bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840610799
+        }
+    ],
+    "wof:id":840610799,
+    "wof:lastmodified":1464043937,
+    "wof:name":"Chuck Foushee Custom Home Bldr",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.841518,
+    37.707652,
+    -85.841518,
+    37.707652
+],
+  "geometry": {"coordinates":[-85.84151799999999,37.707652],"type":"Point"}
+}

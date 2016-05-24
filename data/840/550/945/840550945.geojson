@@ -1,0 +1,73 @@
+{
+  "id": 840550945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.598686,37.870736,-84.598686,37.870736",
+    "geom:latitude":37.870736,
+    "geom:longitude":-84.598686,
+    "iso:country":"US",
+    "sg:address":"132 Hendren Way",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 1666",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21fGARQgVV28r9mOY3Q3y1_37.870736_-84.598686@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042534,
+    "wof:geomhash":"a492c43e0d87cb9e17478db63f3f0bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840550945
+        }
+    ],
+    "wof:id":840550945,
+    "wof:lastmodified":1464042534,
+    "wof:name":"Estes Automotive",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.598686,
+    37.870736,
+    -84.598686,
+    37.870736
+],
+  "geometry": {"coordinates":[-84.598686,37.870736],"type":"Point"}
+}

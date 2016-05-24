@@ -1,0 +1,83 @@
+{
+  "id": 856745133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.754189,38.146809,-85.754189,38.146809",
+    "geom:latitude":38.146809,
+    "geom:longitude":-85.754189,
+    "iso:country":"US",
+    "sg:address":"6921 Recovery Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 364 1930",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rubbish",
+        "toilets-portable",
+        "removal"
+    ],
+    "sg:website":"http://www.all-starwaste.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74GLUlZB9ayQBABcFNbjII_38.146809_-85.754189@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053568,
+    "wof:geomhash":"5a039ae4aa773358e2ed8b768cfce4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856745133
+        }
+    ],
+    "wof:id":856745133,
+    "wof:lastmodified":1464053568,
+    "wof:name":"All Star Waste Disposal",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "toilets-portable",
+        "removal"
+    ]
+},
+  "bbox": [
+    -85.754189,
+    38.146809,
+    -85.754189,
+    38.146809
+],
+  "geometry": {"coordinates":[-85.754189,38.146809],"type":"Point"}
+}

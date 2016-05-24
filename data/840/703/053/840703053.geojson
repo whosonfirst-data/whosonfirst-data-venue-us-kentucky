@@ -1,0 +1,71 @@
+{
+  "id": 840703053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.85766,37.69285,-85.85766,37.69285",
+    "geom:latitude":37.69285,
+    "geom:longitude":-85.85766,
+    "iso:country":"US",
+    "sg:address":"107 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 9096",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kgBkzlMhzoOOg1Gumby6l_37.692850_-85.857660@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046165,
+    "wof:geomhash":"6e29ac4f93a92179f7e74a2b2b92b469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840703053
+        }
+    ],
+    "wof:id":840703053,
+    "wof:lastmodified":1464046165,
+    "wof:name":"Kentucky Alternative Program",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -85.85766,
+    37.69285,
+    -85.85766,
+    37.69285
+],
+  "geometry": {"coordinates":[-85.85766,37.69285],"type":"Point"}
+}

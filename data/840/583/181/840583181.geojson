@@ -1,0 +1,73 @@
+{
+  "id": 840583181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.581532,38.220274,-85.581532,38.220274",
+    "geom:latitude":38.220274,
+    "geom:longitude":-85.581532,
+    "iso:country":"US",
+    "sg:address":"1800 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 0754",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qChKI8AKyApY7ejIUJcg6_38.220274_-85.581532@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043277,
+    "wof:geomhash":"aa0d5354700ee1dcb96a3c69eff5d634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840583181
+        }
+    ],
+    "wof:id":840583181,
+    "wof:lastmodified":1464043277,
+    "wof:name":"Shoppers Village",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -85.581532,
+    38.220274,
+    -85.581532,
+    38.220274
+],
+  "geometry": {"coordinates":[-85.581532,38.220274],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856691863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.649702,37.87652,-84.649702,37.87652",
+    "geom:latitude":37.87652,
+    "geom:longitude":-84.649702,
+    "iso:country":"US",
+    "sg:address":"1470 Lexington Rd",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3647",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "furnishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X9pcrviADQa2oWQsApnPC_37.876520_-84.649702@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051904,
+    "wof:geomhash":"64f05977baf261170cc2055a136943d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856691863
+        }
+    ],
+    "wof:id":856691863,
+    "wof:lastmodified":1464051904,
+    "wof:name":"Triple J Tack",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -84.649702,
+    37.87652,
+    -84.649702,
+    37.87652
+],
+  "geometry": {"coordinates":[-84.649702,37.87652],"type":"Point"}
+}

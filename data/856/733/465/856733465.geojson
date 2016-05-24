@@ -1,0 +1,76 @@
+{
+  "id": 856733465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.615046,38.269548,-85.615046,38.269548",
+    "geom:latitude":38.269548,
+    "geom:longitude":-85.615046,
+    "iso:country":"US",
+    "sg:address":"1321 Herr Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-northeast/280140-indigo-joes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 423 1633",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLjR26yE8xV3iJB9ttBbe_38.269548_-85.615046@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053125,
+    "wof:geomhash":"421f695c3dee92faabf1134202c02f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856733465
+        }
+    ],
+    "wof:id":856733465,
+    "wof:lastmodified":1464053125,
+    "wof:name":"Indigo Joe's",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -85.615046,
+    38.269548,
+    -85.615046,
+    38.269548
+],
+  "geometry": {"coordinates":[-85.61504600000001,38.269548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840780335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.381007,38.407115,-85.381007,38.407115",
+    "geom:latitude":38.407115,
+    "geom:longitude":-85.381007,
+    "iso:country":"US",
+    "sg:address":"205 N 3rd Ave",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 7000",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iLJImMGVTE9qDsNu9Pmvu_38.407115_-85.381007@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047772,
+    "wof:geomhash":"36144173e7df6a8f6ae3cc4a4325cf3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840780335
+        }
+    ],
+    "wof:id":840780335,
+    "wof:lastmodified":1464047772,
+    "wof:name":"Village Groomer",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.381007,
+    38.407115,
+    -85.381007,
+    38.407115
+],
+  "geometry": {"coordinates":[-85.381007,38.407115],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856762771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.881088,37.762314,-85.881088,37.762314",
+    "geom:latitude":37.762314,
+    "geom:longitude":-85.881088,
+    "iso:country":"US",
+    "sg:address":"2549 Chatsworth Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 7882",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cBGiAVBDSfGXsezSY8vS7_37.762314_-85.881088@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054227,
+    "wof:geomhash":"0b01197f57240df4962b92276eeba24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762771
+        }
+    ],
+    "wof:id":856762771,
+    "wof:lastmodified":1464054227,
+    "wof:name":"Bearno's Pizza",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.881088,
+    37.762314,
+    -85.881088,
+    37.762314
+],
+  "geometry": {"coordinates":[-85.88108800000001,37.762314],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840906181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.379633,38.409592,-85.379633,38.409592",
+    "geom:latitude":38.409592,
+    "geom:longitude":-85.379633,
+    "iso:country":"US",
+    "sg:address":"300 N 1st Ave",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 1347",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ol7HYNOAuMB8FvBPgfpOi_38.409592_-85.379633@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050616,
+    "wof:geomhash":"07832ddb85dba07a046531176ad40701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840906181
+        }
+    ],
+    "wof:id":840906181,
+    "wof:lastmodified":1464050616,
+    "wof:name":"Bio-Consult Inc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.379633,
+    38.409592,
+    -85.379633,
+    38.409592
+],
+  "geometry": {"coordinates":[-85.379633,38.409592],"type":"Point"}
+}

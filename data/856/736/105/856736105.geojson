@@ -1,0 +1,75 @@
+{
+  "id": 856736105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.686432,37.079248,-88.686432,37.079248",
+    "geom:latitude":37.079248,
+    "geom:longitude":-88.686432,
+    "iso:country":"US",
+    "sg:address":"5101 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/235950-mr-smoothie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FhDwh9g83paOazSQGId0r_37.079248_-88.686432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053222,
+    "wof:geomhash":"060fad4c3ff6427b78cbdc3c5740ce57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736105
+        }
+    ],
+    "wof:id":856736105,
+    "wof:lastmodified":1464053222,
+    "wof:name":"Mr. Smoothie",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.686432,
+    37.079248,
+    -88.686432,
+    37.079248
+],
+  "geometry": {"coordinates":[-88.686432,37.079248],"type":"Point"}
+}

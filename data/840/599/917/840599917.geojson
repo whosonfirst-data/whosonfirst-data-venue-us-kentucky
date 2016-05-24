@@ -1,0 +1,75 @@
+{
+  "id": 840599917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.559642,39.006218,-84.559642,39.006218",
+    "geom:latitude":39.006218,
+    "geom:longitude":-84.559642,
+    "iso:country":"US",
+    "sg:address":"531 Dudley Pike",
+    "sg:city":"Edgewood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 0664",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M0CbydzZo4NiIE8GasnhX_39.006218_-84.559642@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043661,
+    "wof:geomhash":"76e741c6a8f4ec87abd8ce63818d2409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":840599917
+        }
+    ],
+    "wof:id":840599917,
+    "wof:lastmodified":1464043661,
+    "wof:name":"Fleck's Heating & Air Cond",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.559642,
+    39.006218,
+    -84.559642,
+    39.006218
+],
+  "geometry": {"coordinates":[-84.559642,39.006218],"type":"Point"}
+}

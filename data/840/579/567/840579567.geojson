@@ -1,0 +1,71 @@
+{
+  "id": 840579567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.450123,37.002047,-86.450123,37.002047",
+    "geom:latitude":37.002047,
+    "geom:longitude":-86.450123,
+    "iso:country":"US",
+    "sg:address":"523 W Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 8001",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JlRxDaQ8Iw2vthnmNjwtj_37.002047_-86.450123@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043196,
+    "wof:geomhash":"6d544f9d3b145deb4ceab6f291489cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840579567
+        }
+    ],
+    "wof:id":840579567,
+    "wof:lastmodified":1464043196,
+    "wof:name":"Billie's Beauty Shop",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.450123,
+    37.002047,
+    -86.450123,
+    37.002047
+],
+  "geometry": {"coordinates":[-86.450123,37.002047],"type":"Point"}
+}

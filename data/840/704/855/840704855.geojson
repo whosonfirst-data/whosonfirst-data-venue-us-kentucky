@@ -1,0 +1,73 @@
+{
+  "id": 840704855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.448015,36.994742,-86.448015,36.994742",
+    "geom:latitude":36.994742,
+    "geom:longitude":-86.448015,
+    "iso:country":"US",
+    "sg:address":"1133 Adams St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5353",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Lq3YvCIitcXLhN3EaoBU_36.994742_-86.448015@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046199,
+    "wof:geomhash":"919ebe48fdd5ca862caa3755e4e0740f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840704855
+        }
+    ],
+    "wof:id":840704855,
+    "wof:lastmodified":1464046199,
+    "wof:name":"CASA Of Warren County Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -86.448015,
+    36.994742,
+    -86.448015,
+    36.994742
+],
+  "geometry": {"coordinates":[-86.448015,36.994742],"type":"Point"}
+}

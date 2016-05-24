@@ -1,0 +1,76 @@
+{
+  "id": 856732243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377233,38.400929,-85.377233,38.400929",
+    "geom:latitude":38.400929,
+    "geom:longitude":-85.377233,
+    "iso:country":"US",
+    "sg:address":"604 Crystal Pl",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/la-grange/66155-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 2202",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TVI2JfbCLWLM5ZT5QVMiL_38.400929_-85.377233@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053082,
+    "wof:geomhash":"6b1f21333e9a9d57afac9d5f34e1fcf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856732243
+        }
+    ],
+    "wof:id":856732243,
+    "wof:lastmodified":1464053082,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.377233,
+    38.400929,
+    -85.377233,
+    38.400929
+],
+  "geometry": {"coordinates":[-85.377233,38.400929],"type":"Point"}
+}

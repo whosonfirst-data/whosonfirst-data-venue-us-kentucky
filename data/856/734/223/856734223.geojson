@@ -1,0 +1,72 @@
+{
+  "id": 856734223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.718494,38.051294,-84.718494,38.051294",
+    "geom:latitude":38.051294,
+    "geom:longitude":-84.718494,
+    "iso:country":"US",
+    "sg:address":"432 Lexington Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/versailles/83711-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 9898",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SckciSNcjdfSZEuTO4Mxn_38.051294_-84.718494@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053153,
+    "wof:geomhash":"38d995bdb7f03940f7b0d993c69f7e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":856734223
+        }
+    ],
+    "wof:id":856734223,
+    "wof:lastmodified":1464053153,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.718494,
+    38.051294,
+    -84.718494,
+    38.051294
+],
+  "geometry": {"coordinates":[-84.71849400000001,38.051294],"type":"Point"}
+}

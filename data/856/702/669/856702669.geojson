@@ -1,0 +1,75 @@
+{
+  "id": 856702669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443445,36.980181,-86.443445,36.980181",
+    "geom:latitude":36.980181,
+    "geom:longitude":-86.443445,
+    "iso:country":"US",
+    "sg:address":"1439 Magnolia St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5050",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FA7pyZPwIxbdcguK5LVV3_36.980181_-86.443445@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052122,
+    "wof:geomhash":"16a67c55a5fab342839b17eb5614ea9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":856702669
+        }
+    ],
+    "wof:id":856702669,
+    "wof:lastmodified":1464052122,
+    "wof:name":"Pregnancy Support Ctr",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -86.443445,
+    36.980181,
+    -86.443445,
+    36.980181
+],
+  "geometry": {"coordinates":[-86.443445,36.980181],"type":"Point"}
+}

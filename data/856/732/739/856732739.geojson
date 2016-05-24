@@ -1,0 +1,74 @@
+{
+  "id": 856732739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702207,38.253468,-85.702207,38.253468",
+    "geom:latitude":38.253468,
+    "geom:longitude":-85.702207,
+    "iso:country":"US",
+    "sg:address":"2319 Frankfort Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/4440-the-irish-rover/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 3544",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85811423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPQcFvCq9HeSoYg2h1N1r_38.253468_-85.702207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053100,
+    "wof:geomhash":"02163f59321531250f609b4356898df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85811423,
+            "region_id":85688641,
+            "venue_id":856732739
+        }
+    ],
+    "wof:id":856732739,
+    "wof:lastmodified":1464053100,
+    "wof:name":"The Irish Rover",
+    "wof:parent_id":85811423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -85.702207,
+    38.253468,
+    -85.702207,
+    38.253468
+],
+  "geometry": {"coordinates":[-85.702207,38.253468],"type":"Point"}
+}

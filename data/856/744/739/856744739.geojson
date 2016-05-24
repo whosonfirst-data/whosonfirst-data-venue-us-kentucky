@@ -1,0 +1,108 @@
+{
+  "id": 856744739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.717941,38.189911,-85.717941,38.189911",
+    "geom:latitude":38.189911,
+    "geom:longitude":-85.717941,
+    "iso:country":"US",
+    "sg:address":"1311 Durrett Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 2611",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "dog",
+        "cat",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.realpagessites.com/audubon",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YBtX65K2lEvXuimnHZnAF_38.189911_-85.717941@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053555,
+    "wof:geomhash":"b85a83f0e430977a69df9e455341f6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744739
+        }
+    ],
+    "wof:id":856744739,
+    "wof:lastmodified":1464053555,
+    "wof:name":"Audubon Animal Medical Center",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "dog",
+        "cat",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -85.717941,
+    38.189911,
+    -85.717941,
+    38.189911
+],
+  "geometry": {"coordinates":[-85.717941,38.189911],"type":"Point"}
+}

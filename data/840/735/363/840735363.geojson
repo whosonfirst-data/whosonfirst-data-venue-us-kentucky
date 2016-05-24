@@ -1,0 +1,75 @@
+{
+  "id": 840735363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.565441,38.271015,-85.565441,38.271015",
+    "geom:latitude":38.271015,
+    "geom:longitude":-85.565441,
+    "iso:country":"US",
+    "sg:address":"806 Granite Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 3508",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GnVPucOYi3pLPwDnMLcEZ_38.271015_-85.565441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046808,
+    "wof:geomhash":"08f90c75993654d4654696495b837dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840735363
+        }
+    ],
+    "wof:id":840735363,
+    "wof:lastmodified":1464046808,
+    "wof:name":"Slate Run Apartments",
+    "wof:parent_id":85866953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.565441,
+    38.271015,
+    -85.565441,
+    38.271015
+],
+  "geometry": {"coordinates":[-85.56544100000001,38.271015],"type":"Point"}
+}

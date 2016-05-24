@@ -1,0 +1,75 @@
+{
+  "id": 840857483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.46561,38.34059,-85.46561,38.34059",
+    "geom:latitude":38.34059,
+    "geom:longitude":-85.46561,
+    "iso:country":"US",
+    "sg:address":"5900 W Hwy 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 7187",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F4dxg3X77DIgVJsUVc2ZO_38.340590_-85.465610@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049597,
+    "wof:geomhash":"1093a708e10670092bfa8ec2377d5b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840857483
+        }
+    ],
+    "wof:id":840857483,
+    "wof:lastmodified":1464049597,
+    "wof:name":"Wayne Abbotts Body Shop",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.46561,
+    38.34059,
+    -85.46561,
+    38.34059
+],
+  "geometry": {"coordinates":[-85.46561,38.34059],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840688277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.61386,38.133786,-85.61386,38.133786",
+    "geom:latitude":38.133786,
+    "geom:longitude":-85.61386,
+    "iso:country":"US",
+    "sg:address":"7908 Beulah Church Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 807 5408",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65G6I1G2sUYmuZnSMPIaLj_38.133786_-85.613860@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045782,
+    "wof:geomhash":"e14664058a1ed36248d906f39a004da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840688277
+        }
+    ],
+    "wof:id":840688277,
+    "wof:lastmodified":1464045782,
+    "wof:name":"Extreme Hot Rod Werks",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.61386,
+    38.133786,
+    -85.61386,
+    38.133786
+],
+  "geometry": {"coordinates":[-85.61386,38.133786],"type":"Point"}
+}

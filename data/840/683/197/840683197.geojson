@@ -1,0 +1,69 @@
+{
+  "id": 840683197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.765026,37.672534,-84.765026,37.672534",
+    "geom:latitude":37.672534,
+    "geom:longitude":-84.765026,
+    "iso:country":"US",
+    "sg:address":"2063 Shakertown Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7106",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kSKMo6dpAUI8QFp4A2YBX_37.672534_-84.765026@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045655,
+    "wof:geomhash":"3d553a2aae9d94ed958549dafe919e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840683197
+        }
+    ],
+    "wof:id":840683197,
+    "wof:lastmodified":1464045655,
+    "wof:name":"W R N Z Radio",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -84.765026,
+    37.672534,
+    -84.765026,
+    37.672534
+],
+  "geometry": {"coordinates":[-84.76502600000001,37.672534],"type":"Point"}
+}

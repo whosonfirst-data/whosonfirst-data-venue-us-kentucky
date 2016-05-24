@@ -1,0 +1,75 @@
+{
+  "id": 840773363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.467661,36.979892,-86.467661,36.979892",
+    "geom:latitude":36.979892,
+    "geom:longitude":-86.467661,
+    "iso:country":"US",
+    "sg:address":"1901 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8888",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xuz2kAD2ORNIk4kZLKzxY_36.979892_-86.467661@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047639,
+    "wof:geomhash":"4f831666b58b17b716a9bb652158683d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840773363
+        }
+    ],
+    "wof:id":840773363,
+    "wof:lastmodified":1464047639,
+    "wof:name":"Cellular Connection",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -86.467661,
+    36.979892,
+    -86.467661,
+    36.979892
+],
+  "geometry": {"coordinates":[-86.46766100000001,36.979892],"type":"Point"}
+}

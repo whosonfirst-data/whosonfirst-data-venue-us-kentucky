@@ -1,0 +1,71 @@
+{
+  "id": 840770049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.716743,37.987156,-85.716743,37.987156",
+    "geom:latitude":37.987156,
+    "geom:longitude":-85.716743,
+    "iso:country":"US",
+    "sg:address":"382 S Buckman St",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4100",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lYztqeBS0QRsPeB0mSUjz_37.987156_-85.716743@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047570,
+    "wof:geomhash":"72e0184c121470091af3271933d25b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840770049
+        }
+    ],
+    "wof:id":840770049,
+    "wof:lastmodified":1464047570,
+    "wof:name":"Professional Office Solutions",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -85.716743,
+    37.987156,
+    -85.716743,
+    37.987156
+],
+  "geometry": {"coordinates":[-85.71674299999999,37.987156],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840549049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.587408,37.843748,-87.587408,37.843748",
+    "geom:latitude":37.843748,
+    "geom:longitude":-87.587408,
+    "iso:country":"US",
+    "sg:address":"314 5th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 8642",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RdJni58IZO1xGEnShNDbD_37.843748_-87.587408@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042488,
+    "wof:geomhash":"1389cda194b6ec503fb9339da5c1d116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840549049
+        }
+    ],
+    "wof:id":840549049,
+    "wof:lastmodified":1464042488,
+    "wof:name":"Beauty Haven",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.587408,
+    37.843748,
+    -87.587408,
+    37.843748
+],
+  "geometry": {"coordinates":[-87.587408,37.843748],"type":"Point"}
+}

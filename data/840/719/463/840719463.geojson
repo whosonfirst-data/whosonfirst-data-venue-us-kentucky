@@ -1,0 +1,83 @@
+{
+  "id": 840719463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.803664,37.653498,-84.803664,37.653498",
+    "geom:latitude":37.653498,
+    "geom:longitude":-84.803664,
+    "iso:country":"US",
+    "sg:address":"1107 Ben Ali Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 7230",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zk6HkiD3BuH0HSw0ZpFpC_37.653498_-84.803664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046500,
+    "wof:geomhash":"6b2f9f838c098e3649a33eca2cbb31c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840719463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840719463
+        }
+    ],
+    "wof:id":840719463,
+    "wof:lastmodified":1464046500,
+    "wof:name":"Mc Dowell Wellness Ctr & Rehab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.803664,
+    37.653498,
+    -84.803664,
+    37.653498
+],
+  "geometry": {"coordinates":[-84.803664,37.653498],"type":"Point"}
+}

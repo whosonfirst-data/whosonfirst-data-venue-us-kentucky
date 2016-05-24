@@ -1,0 +1,73 @@
+{
+  "id": 840886703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.468984,36.989332,-86.468984,36.989332",
+    "geom:latitude":36.989332,
+    "geom:longitude":-86.468984,
+    "iso:country":"US",
+    "sg:address":"732 Old Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3374",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwyExMt1BKxPQ5j1wR3cZ_36.989332_-86.468984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050213,
+    "wof:geomhash":"6dbfa8ef90296d4c8aeadfdb31ada355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840886703
+        }
+    ],
+    "wof:id":840886703,
+    "wof:lastmodified":1464050213,
+    "wof:name":"Magruder Tile Co",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.468984,
+    36.989332,
+    -86.468984,
+    36.989332
+],
+  "geometry": {"coordinates":[-86.46898400000001,36.989332],"type":"Point"}
+}

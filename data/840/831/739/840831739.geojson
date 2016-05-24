@@ -1,0 +1,73 @@
+{
+  "id": 840831739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.319797,37.569762,-84.319797,37.569762",
+    "geom:latitude":37.569762,
+    "geom:longitude":-84.319797,
+    "iso:country":"US",
+    "sg:address":"207 N Dogwood Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 0942",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fbbGZgG0hI7GvqSd0MWow_37.569762_-84.319797@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049038,
+    "wof:geomhash":"9160b55486553718f747aebe1450eb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840831739
+        }
+    ],
+    "wof:id":840831739,
+    "wof:lastmodified":1464049038,
+    "wof:name":"Southern Madison Water Dist",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -84.319797,
+    37.569762,
+    -84.319797,
+    37.569762
+],
+  "geometry": {"coordinates":[-84.31979699999999,37.569762],"type":"Point"}
+}

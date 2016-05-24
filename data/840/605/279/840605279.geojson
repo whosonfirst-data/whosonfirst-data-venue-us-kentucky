@@ -1,0 +1,66 @@
+{
+  "id": 840605279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.90837,37.673218,-85.90837,37.673218",
+    "geom:latitude":37.673218,
+    "geom:longitude":-85.90837,
+    "iso:country":"US",
+    "sg:address":"3210 Leitchfield Rd",
+    "sg:city":"Cecilia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 9525",
+    "sg:postcode":"42724",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TvEfY4SNcsNdwoVYdxF9f_37.673218_-85.908370@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043784,
+    "wof:geomhash":"882b967ec1844b33c28ff6e95232cb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840605279
+        }
+    ],
+    "wof:id":840605279,
+    "wof:lastmodified":1464043784,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.90837,
+    37.673218,
+    -85.90837,
+    37.673218
+],
+  "geometry": {"coordinates":[-85.90837000000001,37.673218],"type":"Point"}
+}

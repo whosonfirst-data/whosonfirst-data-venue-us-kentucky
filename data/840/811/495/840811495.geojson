@@ -1,0 +1,71 @@
+{
+  "id": 840811495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.57665,37.053344,-88.57665,37.053344",
+    "geom:latitude":37.053344,
+    "geom:longitude":-88.57665,
+    "iso:country":"US",
+    "sg:address":"2614 Bridge St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 2467",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h7KlfohVCAv8KEABQFdkf_37.053344_-88.576650@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048475,
+    "wof:geomhash":"93ea9770b005c8f5142160fe5d423673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840811495
+        }
+    ],
+    "wof:id":840811495,
+    "wof:lastmodified":1464048475,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -88.57665,
+    37.053344,
+    -88.57665,
+    37.053344
+],
+  "geometry": {"coordinates":[-88.57665,37.053344],"type":"Point"}
+}

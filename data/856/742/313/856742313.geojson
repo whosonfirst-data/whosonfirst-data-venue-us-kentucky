@@ -1,0 +1,75 @@
+{
+  "id": 856742313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.641113,38.27972,-85.641113,38.27972",
+    "geom:latitude":38.27972,
+    "geom:longitude":-85.641113,
+    "iso:country":"US",
+    "sg:address":"1818 Ballard Mill Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 5736",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AGZLwDXRZYuRqAEasloet_38.279720_-85.641113@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053469,
+    "wof:geomhash":"f83aeaf38f1573728570e45b50f7bf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856742313
+        }
+    ],
+    "wof:id":856742313,
+    "wof:lastmodified":1464053469,
+    "wof:name":"Royal Ten Stables",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -85.641113,
+    38.27972,
+    -85.641113,
+    38.27972
+],
+  "geometry": {"coordinates":[-85.641113,38.27972],"type":"Point"}
+}

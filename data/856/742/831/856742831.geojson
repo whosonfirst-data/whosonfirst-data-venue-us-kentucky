@@ -1,0 +1,81 @@
+{
+  "id": 856742831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.623577,38.241197,-85.623577,38.241197",
+    "geom:latitude":38.241197,
+    "geom:longitude":-85.623577,
+    "iso:country":"US",
+    "sg:address":"702 Executive Park",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 5405",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x2rCGh96MjksGhDPrPMvx_38.241197_-85.623577@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053488,
+    "wof:geomhash":"b5e1d046d5cc53b5a4f30c3ffe5fb50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742831
+        }
+    ],
+    "wof:id":856742831,
+    "wof:lastmodified":1464053488,
+    "wof:name":"X-Ray Associates Of Louisville Psc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ]
+},
+  "bbox": [
+    -85.623577,
+    38.241197,
+    -85.623577,
+    38.241197
+],
+  "geometry": {"coordinates":[-85.623577,38.241197],"type":"Point"}
+}

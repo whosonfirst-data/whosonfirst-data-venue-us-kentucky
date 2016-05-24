@@ -1,0 +1,71 @@
+{
+  "id": 856700099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.716495,37.988457,-85.716495,37.988457",
+    "geom:latitude":37.988457,
+    "geom:longitude":-85.716495,
+    "iso:country":"US",
+    "sg:address":"300 S Buckman St",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 4776",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SjkXOOAkK53loBRMi0KfQ_37.988457_-85.716495@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052057,
+    "wof:geomhash":"943a1c9fc2d9865d53197e3cb418b749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856700099
+        }
+    ],
+    "wof:id":856700099,
+    "wof:lastmodified":1464052057,
+    "wof:name":"Circuit Court Judge",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -85.716495,
+    37.988457,
+    -85.716495,
+    37.988457
+],
+  "geometry": {"coordinates":[-85.71649499999999,37.988457],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840619189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.684719,37.684356,-84.684719,37.684356",
+    "geom:latitude":37.684356,
+    "geom:longitude":-84.684719,
+    "iso:country":"US",
+    "sg:address":"162 Old Bridge Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 0550",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v17rNSGBfXGqltxUUT37r_37.684356_-84.684719@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044147,
+    "wof:geomhash":"f392cee8408a3de37642ebaa2d477c84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840619189
+        }
+    ],
+    "wof:id":840619189,
+    "wof:lastmodified":1464044147,
+    "wof:name":"J D Kennedy Consulting",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -84.684719,
+    37.684356,
+    -84.684719,
+    37.684356
+],
+  "geometry": {"coordinates":[-84.684719,37.684356],"type":"Point"}
+}

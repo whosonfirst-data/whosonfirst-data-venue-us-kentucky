@@ -1,0 +1,75 @@
+{
+  "id": 840593613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.353931,37.559991,-84.353931,37.559991",
+    "geom:latitude":37.559991,
+    "geom:longitude":-84.353931,
+    "iso:country":"US",
+    "sg:address":"143 Shawnee Dr",
+    "sg:city":"Paint Lick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 5760",
+    "sg:postcode":"40461",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GNXRfphdcM0AFaOxqoNUQ_37.559991_-84.353931@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043503,
+    "wof:geomhash":"6de575e819848b70bee808721707e320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840593613
+        }
+    ],
+    "wof:id":840593613,
+    "wof:lastmodified":1464043503,
+    "wof:name":"Danny O Helton Trucking",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.353931,
+    37.559991,
+    -84.353931,
+    37.559991
+],
+  "geometry": {"coordinates":[-84.353931,37.559991],"type":"Point"}
+}

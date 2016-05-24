@@ -1,0 +1,68 @@
+{
+  "id": 840571741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509466,38.031858,-84.509466,38.031858",
+    "geom:latitude":38.031858,
+    "geom:longitude":-84.509466,
+    "iso:country":"US",
+    "sg:address":"935 S Limestone St",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 257 1000",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oD4szHGTlajrNybgwbp46_38.031858_-84.509466@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043027,
+    "wof:geomhash":"9b0d25bd6131d5e643d2a66e70b982d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873031,
+            "region_id":85688641,
+            "venue_id":840571741
+        }
+    ],
+    "wof:id":840571741,
+    "wof:lastmodified":1464043027,
+    "wof:name":"U K Chandler Medical Ctr",
+    "wof:parent_id":85873031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.509466,
+    38.031858,
+    -84.509466,
+    38.031858
+],
+  "geometry": {"coordinates":[-84.509466,38.031858],"type":"Point"}
+}

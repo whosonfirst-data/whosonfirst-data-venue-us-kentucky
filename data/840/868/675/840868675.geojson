@@ -1,0 +1,75 @@
+{
+  "id": 840868675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740431,38.25082,-85.740431,38.25082",
+    "geom:latitude":38.25082,
+    "geom:longitude":-85.740431,
+    "iso:country":"US",
+    "sg:address":"347 S Clay St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 4088",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vhfo1u3BV7jD28LIGGqI_38.250820_-85.740431@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049829,
+    "wof:geomhash":"a655d4daa0f423d943e4158c5fa575e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":840868675
+        }
+    ],
+    "wof:id":840868675,
+    "wof:lastmodified":1464049829,
+    "wof:name":"Clarksdale East",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.740431,
+    38.25082,
+    -85.740431,
+    38.25082
+],
+  "geometry": {"coordinates":[-85.740431,38.25082],"type":"Point"}
+}

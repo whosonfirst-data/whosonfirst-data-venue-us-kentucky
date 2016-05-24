@@ -1,0 +1,73 @@
+{
+  "id": 840700185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.53071,37.022542,-88.53071,37.022542",
+    "geom:latitude":37.022542,
+    "geom:longitude":-88.53071,
+    "iso:country":"US",
+    "sg:address":"4001 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 4199",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BbQUl20fS2kodYq48otzV_37.022542_-88.530710@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046088,
+    "wof:geomhash":"73886ab97f7ad7f3baec598d57a307a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840700185
+        }
+    ],
+    "wof:id":840700185,
+    "wof:lastmodified":1464046088,
+    "wof:name":"Fowler Automotive Repair Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.53071,
+    37.022542,
+    -88.53071,
+    37.022542
+],
+  "geometry": {"coordinates":[-88.53071,37.022542],"type":"Point"}
+}

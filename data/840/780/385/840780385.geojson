@@ -1,0 +1,74 @@
+{
+  "id": 840780385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.442714,38.377872,-85.442714,38.377872",
+    "geom:latitude":38.377872,
+    "geom:longitude":-85.442714,
+    "iso:country":"US",
+    "sg:address":"4608 Old Lagrange Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 0303",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.eastandwestbrook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bsvVHPUUOPc5gmQh0Sf8E_38.377872_-85.442714@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047773,
+    "wof:geomhash":"12539e686a9f5470161766e65c95e684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840780385
+        }
+    ],
+    "wof:id":840780385,
+    "wof:lastmodified":1464047773,
+    "wof:name":"East & Westbrook Construction",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.442714,
+    38.377872,
+    -85.442714,
+    38.377872
+],
+  "geometry": {"coordinates":[-85.442714,38.377872],"type":"Point"}
+}

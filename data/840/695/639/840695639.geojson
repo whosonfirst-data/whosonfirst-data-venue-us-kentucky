@@ -1,0 +1,73 @@
+{
+  "id": 840695639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.428007,36.925425,-86.428007,36.925425",
+    "geom:latitude":36.925425,
+    "geom:longitude":-86.428007,
+    "iso:country":"US",
+    "sg:address":"1228 Three Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 3635",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YOfZMVX5YaJo1HR8m8dHP_36.925425_-86.428007@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045964,
+    "wof:geomhash":"23625dd8f38c9ad6a1c0a6b0906f6140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840695639
+        }
+    ],
+    "wof:id":840695639,
+    "wof:lastmodified":1464045964,
+    "wof:name":"Basic's Auto Sales",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.428007,
+    36.925425,
+    -86.428007,
+    36.925425
+],
+  "geometry": {"coordinates":[-86.42800699999999,36.925425],"type":"Point"}
+}

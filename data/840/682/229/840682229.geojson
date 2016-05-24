@@ -1,0 +1,71 @@
+{
+  "id": 840682229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.36219,36.968662,-86.36219,36.968662",
+    "geom:latitude":36.968662,
+    "geom:longitude":-86.36219,
+    "iso:country":"US",
+    "sg:address":"122 Scottsdale Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5928",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bulldozing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UrTvwocTFHbVMN77YY8Rw_36.968662_-86.362190@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045630,
+    "wof:geomhash":"39f8048881afe268ca10c71318530cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840682229
+        }
+    ],
+    "wof:id":840682229,
+    "wof:lastmodified":1464045630,
+    "wof:name":"Fletcher Dozer Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulldozing"
+    ]
+},
+  "bbox": [
+    -86.36219,
+    36.968662,
+    -86.36219,
+    36.968662
+],
+  "geometry": {"coordinates":[-86.36219,36.968662],"type":"Point"}
+}

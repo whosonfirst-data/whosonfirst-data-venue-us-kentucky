@@ -1,0 +1,74 @@
+{
+  "id": 840568751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879543,37.729625,-85.879543,37.729625",
+    "geom:latitude":37.729625,
+    "geom:longitude":-85.879543,
+    "iso:country":"US",
+    "sg:address":"1610 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2357",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.feederssupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UC42yqmR12fVhQd89BXB6_37.729625_-85.879543@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042947,
+    "wof:geomhash":"9c09c87fedb7ee7fca3c70c33d9aecda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840568751
+        }
+    ],
+    "wof:id":840568751,
+    "wof:lastmodified":1464042947,
+    "wof:name":"Feeder's Supply",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.879543,
+    37.729625,
+    -85.879543,
+    37.729625
+],
+  "geometry": {"coordinates":[-85.879543,37.729625],"type":"Point"}
+}

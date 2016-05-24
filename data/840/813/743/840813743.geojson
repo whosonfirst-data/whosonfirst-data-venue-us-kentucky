@@ -1,0 +1,71 @@
+{
+  "id": 840813743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616134,37.072269,-84.616134,37.072269",
+    "geom:latitude":37.072269,
+    "geom:longitude":-84.616134,
+    "iso:country":"US",
+    "sg:address":"506 Monticello St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 4239",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dMoG6rSrE6wg5K1X04JjL_37.072269_-84.616134@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048569,
+    "wof:geomhash":"5f90a9905e296812e311b13456b25136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840813743
+        }
+    ],
+    "wof:id":840813743,
+    "wof:lastmodified":1464048569,
+    "wof:name":"B & B Rebuilders",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.616134,
+    37.072269,
+    -84.616134,
+    37.072269
+],
+  "geometry": {"coordinates":[-84.616134,37.072269],"type":"Point"}
+}

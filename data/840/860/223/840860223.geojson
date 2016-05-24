@@ -1,0 +1,75 @@
+{
+  "id": 840860223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566441,37.8959,-84.566441,37.8959",
+    "geom:latitude":37.8959,
+    "geom:longitude":-84.566441,
+    "iso:country":"US",
+    "sg:address":"947 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 9073",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ery3rFRSCkbe2M8MxRuQm_37.895900_-84.566441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049660,
+    "wof:geomhash":"b3763d877ea9453d9bff9bb41657b0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840860223
+        }
+    ],
+    "wof:id":840860223,
+    "wof:lastmodified":1464049660,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.566441,
+    37.8959,
+    -84.566441,
+    37.8959
+],
+  "geometry": {"coordinates":[-84.566441,37.8959],"type":"Point"}
+}

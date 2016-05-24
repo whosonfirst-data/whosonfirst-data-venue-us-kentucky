@@ -1,0 +1,108 @@
+{
+  "id": 856748893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.573898,38.270802,-85.573898,38.270802",
+    "geom:latitude":38.270802,
+    "geom:longitude":-85.573898,
+    "iso:country":"US",
+    "sg:address":"9701 Whipps Mill Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 2778",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "convalescent",
+        "therapist",
+        "therapy",
+        "rehabilitation",
+        "physical"
+    ],
+    "sg:website":"http://www.jefferson-place.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HtefQiKMOouxcnIsJAXSb_38.270802_-85.573898@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053706,
+    "wof:geomhash":"cbe13402762700a3fc33f157a5c979a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856748893
+        }
+    ],
+    "wof:id":856748893,
+    "wof:lastmodified":1464053706,
+    "wof:name":"Meadowview Health & Reahbilitation Center",
+    "wof:parent_id":85866953,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "convalescent",
+        "therapist",
+        "therapy",
+        "rehabilitation",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.573898,
+    38.270802,
+    -85.573898,
+    38.270802
+],
+  "geometry": {"coordinates":[-85.573898,38.270802],"type":"Point"}
+}

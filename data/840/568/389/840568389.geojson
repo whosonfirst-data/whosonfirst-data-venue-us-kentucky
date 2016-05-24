@@ -1,0 +1,75 @@
+{
+  "id": 840568389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.639445,37.168704,-84.639445,37.168704",
+    "geom:latitude":37.168704,
+    "geom:longitude":-84.639445,
+    "iso:country":"US",
+    "sg:address":"73 Stanford St",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 2105",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g4ywBr70ohK4GtRtoVrpJ_37.168704_-84.639445@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042938,
+    "wof:geomhash":"18348d50db8b2a4ae1dabf6c2970b475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840568389
+        }
+    ],
+    "wof:id":840568389,
+    "wof:lastmodified":1464042938,
+    "wof:name":"Ard Wilmer Farm",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -84.639445,
+    37.168704,
+    -84.639445,
+    37.168704
+],
+  "geometry": {"coordinates":[-84.63944499999999,37.168704],"type":"Point"}
+}

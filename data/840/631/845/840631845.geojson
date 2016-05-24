@@ -1,0 +1,72 @@
+{
+  "id": 840631845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.525554,36.883191,-86.525554,36.883191",
+    "geom:latitude":36.883191,
+    "geom:longitude":-86.525554,
+    "iso:country":"US",
+    "sg:address":"9222 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 5302",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.warrencountyparks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lWGhNnx77UmNi7J4q4j30_36.883191_-86.525554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044487,
+    "wof:geomhash":"fb4a8a738916c942b60595cef83d465b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840631845
+        }
+    ],
+    "wof:id":840631845,
+    "wof:lastmodified":1464044487,
+    "wof:name":"Warren Parks & Recreation Dept",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -86.525554,
+    36.883191,
+    -86.525554,
+    36.883191
+],
+  "geometry": {"coordinates":[-86.525554,36.883191],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856714843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582395,37.867426,-84.582395,37.867426",
+    "geom:latitude":37.867426,
+    "geom:longitude":-84.582395,
+    "iso:country":"US",
+    "sg:address":"400 Elmwood Ct",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4724",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nD3y1O1r1WHOhTGPmUfC5_37.867426_-84.582395@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052385,
+    "wof:geomhash":"f246246a3191eee0c30cee20203332c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856714843
+        }
+    ],
+    "wof:id":856714843,
+    "wof:lastmodified":1464052385,
+    "wof:name":"Elmwood Apartments",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.582395,
+    37.867426,
+    -84.582395,
+    37.867426
+],
+  "geometry": {"coordinates":[-84.58239500000001,37.867426],"type":"Point"}
+}

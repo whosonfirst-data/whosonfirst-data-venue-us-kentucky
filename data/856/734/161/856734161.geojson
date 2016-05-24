@@ -1,0 +1,70 @@
+{
+  "id": 856734161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564346,37.90355,-84.564346,37.90355",
+    "geom:latitude":37.90355,
+    "geom:longitude":-84.564346,
+    "iso:country":"US",
+    "sg:address":"111 N Plaza Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/220755-braums-ice-cream--dairy-stores/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4055",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l1FrzZ7cdjZ2oAGPAdtW1_37.903550_-84.564346@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053151,
+    "wof:geomhash":"b3483e9d3a18ed9525ea789567fd22fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856734161
+        }
+    ],
+    "wof:id":856734161,
+    "wof:lastmodified":1464053151,
+    "wof:name":"Braum's Ice Cream & Dairy Stores",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.564346,
+    37.90355,
+    -84.564346,
+    37.90355
+],
+  "geometry": {"coordinates":[-84.564346,37.90355],"type":"Point"}
+}

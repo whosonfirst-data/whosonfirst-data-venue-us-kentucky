@@ -1,0 +1,75 @@
+{
+  "id": 840673029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.352917,36.948765,-86.352917,36.948765",
+    "geom:latitude":36.948765,
+    "geom:longitude":-86.352917,
+    "iso:country":"US",
+    "sg:address":"182 Green Acres Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3744",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dIqZQGacLf0SN0WqcApq6_36.948765_-86.352917@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045387,
+    "wof:geomhash":"e2728cb5d5f5cbadd32574c4d6156562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840673029
+        }
+    ],
+    "wof:id":840673029,
+    "wof:lastmodified":1464045387,
+    "wof:name":"Advantage Auto Glass",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -86.352917,
+    36.948765,
+    -86.352917,
+    36.948765
+],
+  "geometry": {"coordinates":[-86.35291700000001,36.948765],"type":"Point"}
+}

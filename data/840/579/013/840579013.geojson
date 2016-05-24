@@ -1,0 +1,85 @@
+{
+  "id": 840579013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.66327,38.193201,-85.66327,38.193201",
+    "geom:latitude":38.193201,
+    "geom:longitude":-85.66327,
+    "iso:country":"US",
+    "sg:address":"4045 McCollum Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 5848",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q5vpj3Fec1pPY4BMluBBE_38.193201_-85.663270@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043183,
+    "wof:geomhash":"3e10525c20a7aeb0bc5dff89e67cdb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840579013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840579013
+        }
+    ],
+    "wof:id":840579013,
+    "wof:lastmodified":1464043183,
+    "wof:name":"Zero Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.66327,
+    38.193201,
+    -85.66327,
+    38.193201
+],
+  "geometry": {"coordinates":[-85.66327,38.193201],"type":"Point"}
+}

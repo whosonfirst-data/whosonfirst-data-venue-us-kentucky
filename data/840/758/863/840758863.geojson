@@ -1,0 +1,73 @@
+{
+  "id": 840758863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469938,38.041756,-84.469938,38.041756",
+    "geom:latitude":38.041756,
+    "geom:longitude":-84.469938,
+    "iso:country":"US",
+    "sg:address":"921 Winchester Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 225 1419",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JJoTbE3I7wEcTeq9zi0ac_38.041756_-84.469938@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047308,
+    "wof:geomhash":"464c2153853af044e0700821a2ece124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":840758863
+        }
+    ],
+    "wof:id":840758863,
+    "wof:lastmodified":1464047308,
+    "wof:name":"Wrightway Transmission",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.469938,
+    38.041756,
+    -84.469938,
+    38.041756
+],
+  "geometry": {"coordinates":[-84.469938,38.041756],"type":"Point"}
+}

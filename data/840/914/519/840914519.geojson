@@ -1,0 +1,71 @@
+{
+  "id": 840914519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.827438,37.771148,-85.827438,37.771148",
+    "geom:latitude":37.771148,
+    "geom:longitude":-85.827438,
+    "iso:country":"US",
+    "sg:address":"2028 Wooldridge Ferry Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2236",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fJAW6e0KOQUqtruf5nZ6A_37.771148_-85.827438@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050863,
+    "wof:geomhash":"22a188427611f1c07cf1632d5953d331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840914519
+        }
+    ],
+    "wof:id":840914519,
+    "wof:lastmodified":1464050863,
+    "wof:name":"Jack Skees Appraisal Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.827438,
+    37.771148,
+    -85.827438,
+    37.771148
+],
+  "geometry": {"coordinates":[-85.827438,37.771148],"type":"Point"}
+}

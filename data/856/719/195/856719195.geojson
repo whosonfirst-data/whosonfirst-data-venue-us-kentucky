@@ -1,0 +1,71 @@
+{
+  "id": 856719195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542425,37.093043,-84.542425,37.093043",
+    "geom:latitude":37.093043,
+    "geom:longitude":-84.542425,
+    "iso:country":"US",
+    "sg:address":"2485 State Hwy 192",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 2555",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PFvjcirjz3kGXswMiSZrd_37.093043_-84.542425@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052554,
+    "wof:geomhash":"109f50306c70902afaf92d5816b725c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856719195
+        }
+    ],
+    "wof:id":856719195,
+    "wof:lastmodified":1464052554,
+    "wof:name":"American Home Inspections",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.542425,
+    37.093043,
+    -84.542425,
+    37.093043
+],
+  "geometry": {"coordinates":[-84.54242499999999,37.093043],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840547613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582105,37.849333,-87.582105,37.849333",
+    "geom:latitude":37.849333,
+    "geom:longitude":-87.582105,
+    "iso:country":"US",
+    "sg:address":"901 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 4886",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n3Pl5VU1LWSNzSp7Nv1qh_37.849333_-87.582105@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042447,
+    "wof:geomhash":"51d7aa97b0bbd7f7d113caa5249ed453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840547613
+        }
+    ],
+    "wof:id":840547613,
+    "wof:lastmodified":1464042447,
+    "wof:name":"Mills Auto Sales",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.582105,
+    37.849333,
+    -87.582105,
+    37.849333
+],
+  "geometry": {"coordinates":[-87.582105,37.849333],"type":"Point"}
+}

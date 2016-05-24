@@ -1,0 +1,68 @@
+{
+  "id": 840942833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.717326,38.178912,-85.717326,38.178912",
+    "geom:latitude":38.178912,
+    "geom:longitude":-85.717326,
+    "iso:country":"US",
+    "sg:address":"4704 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 968 0151",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AcDoQvKklrXSSrh7axL1P_38.178912_-85.717326@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051502,
+    "wof:geomhash":"36db494ed122bf0f641aae9f45365bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":840942833
+        }
+    ],
+    "wof:id":840942833,
+    "wof:lastmodified":1464051502,
+    "wof:name":"Red Roof Inn",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.717326,
+    38.178912,
+    -85.717326,
+    38.178912
+],
+  "geometry": {"coordinates":[-85.717326,38.178912],"type":"Point"}
+}

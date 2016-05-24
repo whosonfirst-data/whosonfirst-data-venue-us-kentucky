@@ -1,0 +1,73 @@
+{
+  "id": 840835777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.273086,37.584305,-84.273086,37.584305",
+    "geom:latitude":37.584305,
+    "geom:longitude":-84.273086,
+    "iso:country":"US",
+    "sg:address":"209 Madison St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 7197",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "special",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HpowTlVWTkZxGuMg44pxX_37.584305_-84.273086@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049126,
+    "wof:geomhash":"80ac54c80e86e0917a5571f94b048a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840835777
+        }
+    ],
+    "wof:id":840835777,
+    "wof:lastmodified":1464049126,
+    "wof:name":"Short Line Storage",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.273086,
+    37.584305,
+    -84.273086,
+    37.584305
+],
+  "geometry": {"coordinates":[-84.27308600000001,37.584305],"type":"Point"}
+}

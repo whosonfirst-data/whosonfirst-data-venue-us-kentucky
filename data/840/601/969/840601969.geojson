@@ -1,0 +1,72 @@
+{
+  "id": 840601969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.886471,37.727571,-85.886471,37.727571",
+    "geom:latitude":37.727571,
+    "geom:longitude":-85.886471,
+    "iso:country":"US",
+    "sg:address":"1510 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 1107",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e40SA1WM9lX0uc241cl32_37.727571_-85.886471@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043702,
+    "wof:geomhash":"36246ca490c174e3f0c72b0cabe385dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840601969
+        }
+    ],
+    "wof:id":840601969,
+    "wof:lastmodified":1464043702,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -85.886471,
+    37.727571,
+    -85.886471,
+    37.727571
+],
+  "geometry": {"coordinates":[-85.886471,37.727571],"type":"Point"}
+}

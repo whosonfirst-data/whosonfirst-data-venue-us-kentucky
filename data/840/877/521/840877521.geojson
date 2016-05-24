@@ -1,0 +1,74 @@
+{
+  "id": 840877521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848166,37.662883,-85.848166,37.662883",
+    "geom:latitude":37.662883,
+    "geom:longitude":-85.848166,
+    "iso:country":"US",
+    "sg:address":"2241 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5000",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.wm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yP5am0xPN8F0E1Rp5HA3t_37.662883_-85.848166@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050017,
+    "wof:geomhash":"10aa9357301bf964c8a3e0938277b7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840877521
+        }
+    ],
+    "wof:id":840877521,
+    "wof:lastmodified":1464050017,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.848166,
+    37.662883,
+    -85.848166,
+    37.662883
+],
+  "geometry": {"coordinates":[-85.84816600000001,37.662883],"type":"Point"}
+}

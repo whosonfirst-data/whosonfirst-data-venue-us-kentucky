@@ -1,0 +1,74 @@
+{
+  "id": 856737129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.895428,37.751675,-85.895428,37.751675",
+    "geom:latitude":37.751675,
+    "geom:longitude":-85.895428,
+    "iso:country":"US",
+    "sg:address":"4979 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/83724-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 7272",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NM4wXyzS8ynHvy1OwFeZH_37.751675_-85.895428@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053267,
+    "wof:geomhash":"5271d0e1a6be5c38518ece9bd7efb49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737129
+        }
+    ],
+    "wof:id":856737129,
+    "wof:lastmodified":1464053267,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.895428,
+    37.751675,
+    -85.895428,
+    37.751675
+],
+  "geometry": {"coordinates":[-85.895428,37.751675],"type":"Point"}
+}

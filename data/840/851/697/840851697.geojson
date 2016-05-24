@@ -1,0 +1,73 @@
+{
+  "id": 840851697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.622977,38.216015,-85.622977,38.216015",
+    "geom:latitude":38.216015,
+    "geom:longitude":-85.622977,
+    "iso:country":"US",
+    "sg:address":"3131 Hunsinger Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 4994",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HCbt6VOYxg9EA30zVYBPr_38.216015_-85.622977@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049478,
+    "wof:geomhash":"80110ded756b71ba65ffbb63f958a369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840851697
+        }
+    ],
+    "wof:id":840851697,
+    "wof:lastmodified":1464049478,
+    "wof:name":"Don W Bowman DDS",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.622977,
+    38.216015,
+    -85.622977,
+    38.216015
+],
+  "geometry": {"coordinates":[-85.62297700000001,38.216015],"type":"Point"}
+}

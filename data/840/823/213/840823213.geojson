@@ -1,0 +1,68 @@
+{
+  "id": 840823213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.792627,38.237583,-85.792627,38.237583",
+    "geom:latitude":38.237583,
+    "geom:longitude":-85.792627,
+    "iso:country":"US",
+    "sg:address":"2202 W Oak St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 0478",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PJNxNwwlQBu30DmdqYoc5_38.237583_-85.792627@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048853,
+    "wof:geomhash":"e8e8ea8e978ee3c86555210037dd6d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840823213
+        }
+    ],
+    "wof:id":840823213,
+    "wof:lastmodified":1464048853,
+    "wof:name":"Crystal's Kids",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.792627,
+    38.237583,
+    -85.792627,
+    38.237583
+],
+  "geometry": {"coordinates":[-85.792627,38.237583],"type":"Point"}
+}

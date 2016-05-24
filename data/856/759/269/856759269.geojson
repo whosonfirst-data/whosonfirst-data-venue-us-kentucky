@@ -1,0 +1,90 @@
+{
+  "id": 856759269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528163,38.930361,-84.528163,38.930361",
+    "geom:latitude":38.930361,
+    "geom:longitude":-84.528163,
+    "iso:country":"US",
+    "sg:address":"5100 Oliver Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 356 7900",
+    "sg:postcode":"41051",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "kennel",
+        "cat"
+    ],
+    "sg:website":"http://www.sundancepetresort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L8XwjICJqZdIPebioLMdV_38.930361_-84.528163@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054099,
+    "wof:geomhash":"ad41b84b9582804c1072fbccb62521f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":856759269
+        }
+    ],
+    "wof:id":856759269,
+    "wof:lastmodified":1464054099,
+    "wof:name":"Sundance Pet Resort",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "kennel",
+        "cat"
+    ]
+},
+  "bbox": [
+    -84.528163,
+    38.930361,
+    -84.528163,
+    38.930361
+],
+  "geometry": {"coordinates":[-84.52816300000001,38.930361],"type":"Point"}
+}

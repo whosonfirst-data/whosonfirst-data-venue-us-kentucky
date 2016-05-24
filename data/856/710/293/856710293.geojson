@@ -1,0 +1,71 @@
+{
+  "id": 856710293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591685,37.840426,-87.591685,37.840426",
+    "geom:latitude":37.840426,
+    "geom:longitude":-87.591685,
+    "iso:country":"US",
+    "sg:address":"122 N Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 9912",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vdznA2PsZjq2NtjFpIZo7_37.840426_-87.591685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052273,
+    "wof:geomhash":"69c95b9555a76f9e33f9ccbf28602f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856710293
+        }
+    ],
+    "wof:id":856710293,
+    "wof:lastmodified":1464052273,
+    "wof:name":"Elvis Campbell Jeweler",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -87.591685,
+    37.840426,
+    -87.591685,
+    37.840426
+],
+  "geometry": {"coordinates":[-87.591685,37.840426],"type":"Point"}
+}

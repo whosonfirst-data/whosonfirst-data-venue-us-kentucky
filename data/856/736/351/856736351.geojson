@@ -1,0 +1,74 @@
+{
+  "id": 856736351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.430596,37.003446,-86.430596,37.003446",
+    "geom:latitude":37.003446,
+    "geom:longitude":-86.430596,
+    "iso:country":"US",
+    "sg:address":"390 Us 31w Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/83717-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 9911",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vq0uAx2eyamViYF3BniqV_37.003446_-86.430596@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"7d4ee68ba7ab635f7309305c66d19060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736351
+        }
+    ],
+    "wof:id":856736351,
+    "wof:lastmodified":1464053236,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.430596,
+    37.003446,
+    -86.430596,
+    37.003446
+],
+  "geometry": {"coordinates":[-86.43059599999999,37.003446],"type":"Point"}
+}

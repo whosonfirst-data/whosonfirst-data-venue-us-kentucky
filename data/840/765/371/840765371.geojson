@@ -1,0 +1,73 @@
+{
+  "id": 840765371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.495831,36.929184,-86.495831,36.929184",
+    "geom:latitude":36.929184,
+    "geom:longitude":-86.495831,
+    "iso:country":"US",
+    "sg:address":"6034 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 1902",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "buyer",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zR99RdKg2B1942MVCokKh_36.929184_-86.495831@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047462,
+    "wof:geomhash":"17dabbe639d3da81a601a8d3f1e3aa89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840765371
+        }
+    ],
+    "wof:id":840765371,
+    "wof:lastmodified":1464047462,
+    "wof:name":"Cherry Cattle Co",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -86.495831,
+    36.929184,
+    -86.495831,
+    36.929184
+],
+  "geometry": {"coordinates":[-86.495831,36.929184],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 856692533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.673753,36.974689,-84.673753,36.974689",
+    "geom:latitude":36.974689,
+    "geom:longitude":-84.673753,
+    "iso:country":"US",
+    "sg:address":"2555 State Hwy 90",
+    "sg:city":"Bronston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 0720",
+    "sg:postcode":"42518",
+    "sg:province":"KY",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7882k3VVJLTqsGxo6SMtH8_36.974689_-84.673753@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051917,
+    "wof:geomhash":"e06aae72f8f4abcce638711cf2a4cb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856692533
+        }
+    ],
+    "wof:id":856692533,
+    "wof:lastmodified":1464051917,
+    "wof:name":"90 Market",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -84.673753,
+    36.974689,
+    -84.673753,
+    36.974689
+],
+  "geometry": {"coordinates":[-84.673753,36.974689],"type":"Point"}
+}

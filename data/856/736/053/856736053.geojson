@@ -1,0 +1,76 @@
+{
+  "id": 856736053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684947,37.077264,-88.684947,37.077264",
+    "geom:latitude":37.077264,
+    "geom:longitude":-88.684947,
+    "iso:country":"US",
+    "sg:address":"5015 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/7301-el-chico/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 0411",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PfZxEuV77fX1F9BlR49dL_37.077264_-88.684947@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053220,
+    "wof:geomhash":"bb24270dc0014b1033c0002041c5d7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736053
+        }
+    ],
+    "wof:id":856736053,
+    "wof:lastmodified":1464053220,
+    "wof:name":"El Chico",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -88.684947,
+    37.077264,
+    -88.684947,
+    37.077264
+],
+  "geometry": {"coordinates":[-88.68494699999999,37.077264],"type":"Point"}
+}

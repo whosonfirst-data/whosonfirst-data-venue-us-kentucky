@@ -1,0 +1,71 @@
+{
+  "id": 840799817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.351891,38.330279,-85.351891,38.330279",
+    "geom:latitude":38.330279,
+    "geom:longitude":-85.351891,
+    "iso:country":"US",
+    "sg:address":"1815 Mayfield Dr",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 9393",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bmRjHHx7rkMz39wumCWCD_38.330279_-85.351891@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048196,
+    "wof:geomhash":"574c68931cc3f9c30779309efc5fc3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840799817
+        }
+    ],
+    "wof:id":840799817,
+    "wof:lastmodified":1464048196,
+    "wof:name":"Frank Luecke Design",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer"
+    ]
+},
+  "bbox": [
+    -85.351891,
+    38.330279,
+    -85.351891,
+    38.330279
+],
+  "geometry": {"coordinates":[-85.35189099999999,38.330279],"type":"Point"}
+}

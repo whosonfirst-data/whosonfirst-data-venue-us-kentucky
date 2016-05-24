@@ -1,0 +1,73 @@
+{
+  "id": 840601815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540855,38.176274,-85.540855,38.176274",
+    "geom:latitude":38.176274,
+    "geom:longitude":-85.540855,
+    "iso:country":"US",
+    "sg:address":"4319 Saratoga Woods Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 263 5480",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k75E7qPYtFX4rcXAaVAxc_38.176274_-85.540855@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043699,
+    "wof:geomhash":"dd5534396d715bea72bb5814ea49ec31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840601815
+        }
+    ],
+    "wof:id":840601815,
+    "wof:lastmodified":1464043699,
+    "wof:name":"Home-Chek Inspection Svc",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -85.540855,
+    38.176274,
+    -85.540855,
+    38.176274
+],
+  "geometry": {"coordinates":[-85.54085499999999,38.176274],"type":"Point"}
+}

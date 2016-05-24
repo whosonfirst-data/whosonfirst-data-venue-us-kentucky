@@ -1,0 +1,73 @@
+{
+  "id": 840770279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.70534,36.608035,-83.70534,36.608035",
+    "geom:latitude":36.608035,
+    "geom:longitude":-83.70534,
+    "iso:country":"US",
+    "sg:address":"1430 E Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 4123",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69EPoJE45vsVXAdF4cIv7o_36.608035_-83.705340@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047577,
+    "wof:geomhash":"c346ef9a532474caf2fd911f96a5c26b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840770279
+        }
+    ],
+    "wof:id":840770279,
+    "wof:lastmodified":1464047577,
+    "wof:name":"Lawson Fire Extinguisher",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.70534,
+    36.608035,
+    -83.70534,
+    36.608035
+],
+  "geometry": {"coordinates":[-83.70534000000001,36.608035],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840851799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.900156,37.00127,-85.900156,37.00127",
+    "geom:latitude":37.00127,
+    "geom:longitude":-85.900156,
+    "iso:country":"US",
+    "sg:address":"102 Park Ave",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 6222",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l71ZLX7qmsQ53oCSmngtN_37.001270_-85.900156@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049481,
+    "wof:geomhash":"3f2fe7045f14cf8e1c7ce794f0456491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840851799
+        }
+    ],
+    "wof:id":840851799,
+    "wof:lastmodified":1464049481,
+    "wof:name":"Body Man's Friend",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.900156,
+    37.00127,
+    -85.900156,
+    37.00127
+],
+  "geometry": {"coordinates":[-85.900156,37.00127],"type":"Point"}
+}

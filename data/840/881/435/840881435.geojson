@@ -1,0 +1,73 @@
+{
+  "id": 840881435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.323973,37.5649,-84.323973,37.5649",
+    "geom:latitude":37.5649,
+    "geom:longitude":-84.323973,
+    "iso:country":"US",
+    "sg:address":"1300 Paint Lick Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 2729",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eGoxElY2cCHQH4dkk87fy_37.564900_-84.323973@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050101,
+    "wof:geomhash":"566502224cf8b80cd7cf278981934db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840881435
+        }
+    ],
+    "wof:id":840881435,
+    "wof:lastmodified":1464050101,
+    "wof:name":"L & K Auto Repair",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.323973,
+    37.5649,
+    -84.323973,
+    37.5649
+],
+  "geometry": {"coordinates":[-84.323973,37.5649],"type":"Point"}
+}

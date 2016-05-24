@@ -1,0 +1,68 @@
+{
+  "id": 840923733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.295638,37.746904,-84.295638,37.746904",
+    "geom:latitude":37.746904,
+    "geom:longitude":-84.295638,
+    "iso:country":"US",
+    "sg:address":"100 W Water St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 0890",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16VTZK4agyK1OCGnqOEgMp_37.746904_-84.295638@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051095,
+    "wof:geomhash":"e4efdf350e4c30e4f82cd5a316c0262b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840923733
+        }
+    ],
+    "wof:id":840923733,
+    "wof:lastmodified":1464051095,
+    "wof:name":"College Station",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.295638,
+    37.746904,
+    -84.295638,
+    37.746904
+],
+  "geometry": {"coordinates":[-84.295638,37.746904],"type":"Point"}
+}

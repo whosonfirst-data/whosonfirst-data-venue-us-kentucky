@@ -1,0 +1,79 @@
+{
+  "id": 856750685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598199,38.269596,-85.598199,38.269596",
+    "geom:latitude":38.269596,
+    "geom:longitude":-85.598199,
+    "iso:country":"US",
+    "sg:address":"1413 Cadet Court",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 744 6238",
+    "sg:postcode":"40252",
+    "sg:province":"KY",
+    "sg:tags":[
+        "training"
+    ],
+    "sg:website":"http://www.dogtraininglouisville.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YZm2jtKFFrTHNKwnwa2lU_38.269596_-85.598199@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053782,
+    "wof:geomhash":"89cddc82aa1197244ec987887ec78654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856750685
+        }
+    ],
+    "wof:id":856750685,
+    "wof:lastmodified":1464053782,
+    "wof:name":"Bark Busters of Louisville, KY",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training"
+    ]
+},
+  "bbox": [
+    -85.598199,
+    38.269596,
+    -85.598199,
+    38.269596
+],
+  "geometry": {"coordinates":[-85.59819899999999,38.269596],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856750137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.518694,38.24267,-85.518694,38.24267",
+    "geom:latitude":38.24267,
+    "geom:longitude":-85.518694,
+    "iso:country":"US",
+    "sg:address":"12700 Townepark Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 4187",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "personal",
+        "equipment",
+        "home",
+        "supply"
+    ],
+    "sg:website":"http://www.synergyhomecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UtaVgObAb0CT3KEJkHUlU_38.242670_-85.518694@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053754,
+    "wof:geomhash":"ced45bc2a621174f98f9f6abeced92fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750137
+        }
+    ],
+    "wof:id":856750137,
+    "wof:lastmodified":1464053754,
+    "wof:name":"Synergy Homecare of Louisville",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "equipment",
+        "home",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.518694,
+    38.24267,
+    -85.518694,
+    38.24267
+],
+  "geometry": {"coordinates":[-85.518694,38.24267],"type":"Point"}
+}

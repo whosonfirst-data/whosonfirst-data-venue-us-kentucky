@@ -1,0 +1,79 @@
+{
+  "id": 856739851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.739104,38.255487,-85.739104,38.255487",
+    "geom:latitude":38.255487,
+    "geom:longitude":-85.739104,
+    "iso:country":"US",
+    "sg:address":"729 E Washington St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 5247",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attraction"
+    ],
+    "sg:website":"http://www.historichomes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AI3g55DtjS1adCl0xGod1_38.255487_-85.739104@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053371,
+    "wof:geomhash":"901207496b11e0e3bb78a3af4981dd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":856739851
+        }
+    ],
+    "wof:id":856739851,
+    "wof:lastmodified":1464053371,
+    "wof:name":"Thomas Edison House",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction"
+    ]
+},
+  "bbox": [
+    -85.739104,
+    38.255487,
+    -85.739104,
+    38.255487
+],
+  "geometry": {"coordinates":[-85.739104,38.255487],"type":"Point"}
+}

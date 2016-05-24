@@ -1,0 +1,75 @@
+{
+  "id": 856717255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.531763,38.248604,-85.531763,38.248604",
+    "geom:latitude":38.248604,
+    "geom:longitude":-85.531763,
+    "iso:country":"US",
+    "sg:address":"12010 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 9355",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CBSDzgzboTCNddzd3joEm_38.248604_-85.531763@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052478,
+    "wof:geomhash":"0ca68c6f771d81625e94ee0d8f179c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856717255
+        }
+    ],
+    "wof:id":856717255,
+    "wof:lastmodified":1464052478,
+    "wof:name":"Middletown Internal Medicine",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.531763,
+    38.248604,
+    -85.531763,
+    38.248604
+],
+  "geometry": {"coordinates":[-85.531763,38.248604],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 856741211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.724836,38.240965,-85.724836,38.240965",
+    "geom:latitude":38.240965,
+    "geom:longitude":-85.724836,
+    "iso:country":"US",
+    "sg:address":"960 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 7657",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ILRo1CxSuD1v0839diZHO_38.240965_-85.724836@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053430,
+    "wof:geomhash":"5914c0428b614a593d170b8ac1b05016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856741211
+        }
+    ],
+    "wof:id":856741211,
+    "wof:lastmodified":1464053430,
+    "wof:name":"Cell Phone & Computer Hospital",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "software"
+    ]
+},
+  "bbox": [
+    -85.724836,
+    38.240965,
+    -85.724836,
+    38.240965
+],
+  "geometry": {"coordinates":[-85.724836,38.240965],"type":"Point"}
+}

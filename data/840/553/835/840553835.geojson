@@ -1,0 +1,73 @@
+{
+  "id": 840553835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305073,37.578539,-84.305073,37.578539",
+    "geom:latitude":37.578539,
+    "geom:longitude":-84.305073,
+    "iso:country":"US",
+    "sg:address":"361 Burchwood Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 9390",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpWM1KynKlkcCqeCgoqPg_37.578539_-84.305073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042595,
+    "wof:geomhash":"52489f9820108afaf54b2116426851a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840553835
+        }
+    ],
+    "wof:id":840553835,
+    "wof:lastmodified":1464042595,
+    "wof:name":"Burchwood Homes",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -84.305073,
+    37.578539,
+    -84.305073,
+    37.578539
+],
+  "geometry": {"coordinates":[-84.30507299999999,37.578539],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840560573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.600542,37.831107,-87.600542,37.831107",
+    "geom:latitude":37.831107,
+    "geom:longitude":-87.600542,
+    "iso:country":"US",
+    "sg:address":"739 S Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1852",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ko4liO4bCx0KBYGTmzsXd_37.831107_-87.600542@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042746,
+    "wof:geomhash":"63bfda853cee9166cbb4dac2b3280cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840560573
+        }
+    ],
+    "wof:id":840560573,
+    "wof:lastmodified":1464042746,
+    "wof:name":"Department Of Public Advocacy",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -87.600542,
+    37.831107,
+    -87.600542,
+    37.831107
+],
+  "geometry": {"coordinates":[-87.600542,37.831107],"type":"Point"}
+}

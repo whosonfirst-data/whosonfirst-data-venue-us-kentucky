@@ -1,0 +1,71 @@
+{
+  "id": 840617273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431974,36.999632,-86.431974,36.999632",
+    "geom:latitude":36.999632,
+    "geom:longitude":-86.431974,
+    "iso:country":"US",
+    "sg:address":"422 E 2nd Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9850",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W9A1iH2QKRjtJWz3wlpa2_36.999632_-86.431974@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044102,
+    "wof:geomhash":"cce36d5c5b3f74dd425d1394d75478a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840617273
+        }
+    ],
+    "wof:id":840617273,
+    "wof:lastmodified":1464044102,
+    "wof:name":"Haynes Body Shop",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.431974,
+    36.999632,
+    -86.431974,
+    36.999632
+],
+  "geometry": {"coordinates":[-86.431974,36.999632],"type":"Point"}
+}

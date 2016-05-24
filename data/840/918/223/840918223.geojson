@@ -1,0 +1,71 @@
+{
+  "id": 840918223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.494215,36.930482,-86.494215,36.930482",
+    "geom:latitude":36.930482,
+    "geom:longitude":-86.494215,
+    "iso:country":"US",
+    "sg:address":"5796 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 6863",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "canning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_388bCL2ggsYwPSQM572DKq_36.930482_-86.494215@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050956,
+    "wof:geomhash":"db640edb532b670324fe4a75fe868987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840918223
+        }
+    ],
+    "wof:id":840918223,
+    "wof:lastmodified":1464050956,
+    "wof:name":"Juice Pac Inc",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canning"
+    ]
+},
+  "bbox": [
+    -86.494215,
+    36.930482,
+    -86.494215,
+    36.930482
+],
+  "geometry": {"coordinates":[-86.494215,36.930482],"type":"Point"}
+}

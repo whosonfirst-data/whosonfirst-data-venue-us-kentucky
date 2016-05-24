@@ -1,0 +1,76 @@
+{
+  "id": 856729675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604362,38.168466,-85.604362,38.168466",
+    "geom:latitude":38.168466,
+    "geom:longitude":-85.604362,
+    "iso:country":"US",
+    "sg:address":"5318 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 0536",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "discount"
+    ],
+    "sg:website":"http://www.biglots.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46TPxKDN6hdRvaKymwnssd_38.168336_-85.604312@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052989,
+    "wof:geomhash":"cc9b436fcb43ad4fcd724a66694a4554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856729675
+        }
+    ],
+    "wof:id":856729675,
+    "wof:lastmodified":1464052989,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "discount"
+    ]
+},
+  "bbox": [
+    -85.604362,
+    38.168466,
+    -85.604362,
+    38.168466
+],
+  "geometry": {"coordinates":[-85.60436199999999,38.168466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840650591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.818745,37.699499,-85.818745,37.699499",
+    "geom:latitude":37.699499,
+    "geom:longitude":-85.818745,
+    "iso:country":"US",
+    "sg:address":"2512 Springfield Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3395",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W0C0bczyAPGC0yH3H7B3m_37.699499_-85.818745@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044894,
+    "wof:geomhash":"4dd9a1206fea5194af539b47f99ea168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840650591
+        }
+    ],
+    "wof:id":840650591,
+    "wof:lastmodified":1464044894,
+    "wof:name":"Basham Backhoe and Dozing",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.818745,
+    37.699499,
+    -85.818745,
+    37.699499
+],
+  "geometry": {"coordinates":[-85.81874500000001,37.699499],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840659909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.887794,37.716406,-85.887794,37.716406",
+    "geom:latitude":37.716406,
+    "geom:longitude":-85.887794,
+    "iso:country":"US",
+    "sg:address":"108 Carey Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0633",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oyUKCeq9Wt4cfSxbtK6QI_37.716406_-85.887794@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045102,
+    "wof:geomhash":"0a9f794b23ddfc036e9d2547e64ed715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840659909
+        }
+    ],
+    "wof:id":840659909,
+    "wof:lastmodified":1464045102,
+    "wof:name":"Elmore Electric Service",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.887794,
+    37.716406,
+    -85.887794,
+    37.716406
+],
+  "geometry": {"coordinates":[-85.887794,37.716406],"type":"Point"}
+}

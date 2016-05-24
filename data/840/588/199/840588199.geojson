@@ -1,0 +1,71 @@
+{
+  "id": 840588199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431063,37.00071,-86.431063,37.00071",
+    "geom:latitude":37.00071,
+    "geom:longitude":-86.431063,
+    "iso:country":"US",
+    "sg:address":"108 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1236",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bd1xdCy1kvhEZrxwIzGuk_37.000710_-86.431063@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043383,
+    "wof:geomhash":"c2d7fc6558bc5867bff553fe74c4d54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840588199
+        }
+    ],
+    "wof:id":840588199,
+    "wof:lastmodified":1464043383,
+    "wof:name":"Consumers Gasoline Stations",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.431063,
+    37.00071,
+    -86.431063,
+    37.00071
+],
+  "geometry": {"coordinates":[-86.43106299999999,37.00071],"type":"Point"}
+}

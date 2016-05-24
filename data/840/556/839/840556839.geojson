@@ -1,0 +1,71 @@
+{
+  "id": 840556839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.460096,36.871719,-86.460096,36.871719",
+    "geom:latitude":36.871719,
+    "geom:longitude":-86.460096,
+    "iso:country":"US",
+    "sg:address":"2494 Matlock Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 529 5651",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZYObOfwGsBw4xASVdmpy_36.871719_-86.460096@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042667,
+    "wof:geomhash":"227dbeb6bd1a7444b37a72274e61a9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840556839
+        }
+    ],
+    "wof:id":840556839,
+    "wof:lastmodified":1464042667,
+    "wof:name":"Smith's Southside Feed & Grain",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -86.460096,
+    36.871719,
+    -86.460096,
+    36.871719
+],
+  "geometry": {"coordinates":[-86.46009599999999,36.871719],"type":"Point"}
+}

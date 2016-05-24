@@ -1,0 +1,75 @@
+{
+  "id": 840564625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.527068,38.246706,-85.527068,38.246706",
+    "geom:latitude":38.246706,
+    "geom:longitude":-85.527068,
+    "iso:country":"US",
+    "sg:address":"12332 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 5877",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "balloon",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOsGreT1rYf2g6QruNJQv_38.246706_-85.527068@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042840,
+    "wof:geomhash":"baa79419d4befb46af33df96595c07f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840564625
+        }
+    ],
+    "wof:id":840564625,
+    "wof:lastmodified":1464042840,
+    "wof:name":"BNR Balloons",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balloon",
+        "artist"
+    ]
+},
+  "bbox": [
+    -85.527068,
+    38.246706,
+    -85.527068,
+    38.246706
+],
+  "geometry": {"coordinates":[-85.527068,38.246706],"type":"Point"}
+}

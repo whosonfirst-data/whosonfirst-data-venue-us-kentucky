@@ -1,0 +1,73 @@
+{
+  "id": 840571735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848293,37.70364,-85.848293,37.70364",
+    "geom:latitude":37.70364,
+    "geom:longitude":-85.848293,
+    "iso:country":"US",
+    "sg:address":"806 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2484",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C8dydmUJfaVjZyqn31LQp_37.703640_-85.848293@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043027,
+    "wof:geomhash":"4c5b7ad3de04deef8d54c059c977eb47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840571735
+        }
+    ],
+    "wof:id":840571735,
+    "wof:lastmodified":1464043027,
+    "wof:name":"Mail Room",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -85.848293,
+    37.70364,
+    -85.848293,
+    37.70364
+],
+  "geometry": {"coordinates":[-85.848293,37.70364],"type":"Point"}
+}

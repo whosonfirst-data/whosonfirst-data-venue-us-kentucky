@@ -1,0 +1,73 @@
+{
+  "id": 856715443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530449,36.997209,-88.530449,36.997209",
+    "geom:latitude":36.997209,
+    "geom:longitude":-88.530449,
+    "iso:country":"US",
+    "sg:address":"260 Blair Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 1466",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LjUG3T6M2G5VQjTzJNkak_36.997209_-88.530449@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052408,
+    "wof:geomhash":"3dcb081b41bdbd330502de0fd04740eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856715443
+        }
+    ],
+    "wof:id":856715443,
+    "wof:lastmodified":1464052408,
+    "wof:name":"Flournoy Electric",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.530449,
+    36.997209,
+    -88.530449,
+    36.997209
+],
+  "geometry": {"coordinates":[-88.530449,36.997209],"type":"Point"}
+}

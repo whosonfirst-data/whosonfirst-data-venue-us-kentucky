@@ -1,0 +1,73 @@
+{
+  "id": 840794297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.783497,38.256771,-85.783497,38.256771",
+    "geom:latitude":38.256771,
+    "geom:longitude":-85.783497,
+    "iso:country":"US",
+    "sg:address":"1901 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 8239",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ue5RMNDsVFj4bgZYnlGcs_38.256771_-85.783497@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048065,
+    "wof:geomhash":"bc1f7336d6671c0da43239dd17d04526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840794297
+        }
+    ],
+    "wof:id":840794297,
+    "wof:lastmodified":1464048065,
+    "wof:name":"Fifth Street Baptist Church",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.783497,
+    38.256771,
+    -85.783497,
+    38.256771
+],
+  "geometry": {"coordinates":[-85.783497,38.256771],"type":"Point"}
+}

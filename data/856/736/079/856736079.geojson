@@ -1,0 +1,74 @@
+{
+  "id": 856736079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.628627,37.097936,-88.628627,37.097936",
+    "geom:latitude":37.097936,
+    "geom:longitude":-88.628627,
+    "iso:country":"US",
+    "sg:address":"2300 N 8th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/120689-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 5300",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YI7rtTNr19Uu10Ju83EGE_37.097936_-88.628627@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053221,
+    "wof:geomhash":"4a54907d57e5f4817efa26061d3550ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856736079
+        }
+    ],
+    "wof:id":856736079,
+    "wof:lastmodified":1464053221,
+    "wof:name":"Subway",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.628627,
+    37.097936,
+    -88.628627,
+    37.097936
+],
+  "geometry": {"coordinates":[-88.62862699999999,37.097936],"type":"Point"}
+}

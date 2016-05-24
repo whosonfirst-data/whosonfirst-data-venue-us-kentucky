@@ -1,0 +1,83 @@
+{
+  "id": 856748827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.572769,38.24118,-85.572769,38.24118",
+    "geom:latitude":38.24118,
+    "geom:longitude":-85.572769,
+    "iso:country":"US",
+    "sg:address":"500 Willowhurst Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 420 9905",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant",
+        "resource",
+        "human"
+    ],
+    "sg:website":"http://www.fredcook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V34RDArI7UD93CwFR99YA_38.241180_-85.572769@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053704,
+    "wof:geomhash":"493896490863172c7772b88885585d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748827
+        }
+    ],
+    "wof:id":856748827,
+    "wof:lastmodified":1464053704,
+    "wof:name":"Fred M Cook Consultant",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    -85.572769,
+    38.24118,
+    -85.572769,
+    38.24118
+],
+  "geometry": {"coordinates":[-85.57276899999999,38.24118],"type":"Point"}
+}

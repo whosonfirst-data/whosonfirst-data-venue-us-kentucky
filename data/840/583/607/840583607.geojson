@@ -1,0 +1,71 @@
+{
+  "id": 840583607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.473128,38.324086,-85.473128,38.324086",
+    "geom:latitude":38.324086,
+    "geom:longitude":-85.473128,
+    "iso:country":"US",
+    "sg:address":"6602 State Hwy 22",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 5888",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qNpGC2yEskm7nU7Ja6N4O_38.324086_-85.473128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043284,
+    "wof:geomhash":"91c6ac31943428b3f28445239bbf6197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840583607
+        }
+    ],
+    "wof:id":840583607,
+    "wof:lastmodified":1464043284,
+    "wof:name":"B & J Auto Service Painting",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.473128,
+    38.324086,
+    -85.473128,
+    38.324086
+],
+  "geometry": {"coordinates":[-85.473128,38.324086],"type":"Point"}
+}

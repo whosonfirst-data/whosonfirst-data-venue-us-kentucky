@@ -1,0 +1,72 @@
+{
+  "id": 856733993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.534972,38.228375,-84.534972,38.228375",
+    "geom:latitude":38.228375,
+    "geom:longitude":-84.534972,
+    "iso:country":"US",
+    "sg:address":"476 Connector Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/georgetown/118899-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 0696",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WM3cy2M5SvSJqUsvCESnW_38.228375_-84.534972@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053145,
+    "wof:geomhash":"4ff66b9c116e9d9c7b47259a421daa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856733993
+        }
+    ],
+    "wof:id":856733993,
+    "wof:lastmodified":1464053145,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.534972,
+    38.228375,
+    -84.534972,
+    38.228375
+],
+  "geometry": {"coordinates":[-84.534972,38.228375],"type":"Point"}
+}

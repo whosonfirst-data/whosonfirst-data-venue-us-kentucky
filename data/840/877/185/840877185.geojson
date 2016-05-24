@@ -1,0 +1,84 @@
+{
+  "id": 840877185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.768768,37.616709,-84.768768,37.616709",
+    "geom:latitude":37.616709,
+    "geom:longitude":-84.768768,
+    "iso:country":"US",
+    "sg:address":"274 Jane Trl",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 239 8981",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wljp6kg6nINdY1TONFI9i_37.616709_-84.768768@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050005,
+    "wof:geomhash":"f7ff49d71bcd5402fd4ec34fa171852e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840877185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840877185
+        }
+    ],
+    "wof:id":840877185,
+    "wof:lastmodified":1464050005,
+    "wof:name":"Merle Norman Cosmetics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -84.768768,
+    37.616709,
+    -84.768768,
+    37.616709
+],
+  "geometry": {"coordinates":[-84.76876799999999,37.616709],"type":"Point"}
+}

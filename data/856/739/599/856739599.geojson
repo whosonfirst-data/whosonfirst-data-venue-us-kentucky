@@ -1,0 +1,68 @@
+{
+  "id": 856739599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.7531,38.250673,-85.7531,38.250673",
+    "geom:latitude":38.250673,
+    "geom:longitude":-85.7531,
+    "iso:country":"US",
+    "sg:address":"135 W Muhammad Ali Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 1899",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wi9B4ArGmkPZxpksElQ6Y_38.250673_-85.753100@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053363,
+    "wof:geomhash":"af976bcff00e327c0cf35a86b778636c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856739599
+        }
+    ],
+    "wof:id":856739599,
+    "wof:lastmodified":1464053363,
+    "wof:name":"First Bankers Trust",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.7531,
+    38.250673,
+    -85.7531,
+    38.250673
+],
+  "geometry": {"coordinates":[-85.7531,38.250673],"type":"Point"}
+}

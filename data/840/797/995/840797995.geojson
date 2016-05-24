@@ -1,0 +1,71 @@
+{
+  "id": 840797995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.831232,37.179954,-85.831232,37.179954",
+    "geom:latitude":37.179954,
+    "geom:longitude":-85.831232,
+    "iso:country":"US",
+    "sg:address":"5824 S Jackson Hwy",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 1663",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29HzflKDvwcBZ7MVol8YFv_37.179954_-85.831232@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048154,
+    "wof:geomhash":"0460e67522c58d8015c8f8b56367be65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840797995
+        }
+    ],
+    "wof:id":840797995,
+    "wof:lastmodified":1464048154,
+    "wof:name":"Dennison's Roadside Market",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.831232,
+    37.179954,
+    -85.831232,
+    37.179954
+],
+  "geometry": {"coordinates":[-85.831232,37.179954],"type":"Point"}
+}

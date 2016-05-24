@@ -1,0 +1,78 @@
+{
+  "id": 840666319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.472386,36.964314,-86.472386,36.964314",
+    "geom:latitude":36.964314,
+    "geom:longitude":-86.472386,
+    "iso:country":"US",
+    "sg:address":"731 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 1989",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85831487,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46S4qGXqi2ySX4zfUDhTsJ_36.964314_-86.472386@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045239,
+    "wof:geomhash":"9d8aa80b5972b65043d4e129c6a6147d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840666319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840666319
+        }
+    ],
+    "wof:id":840666319,
+    "wof:lastmodified":1464045239,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.472386,
+    36.964314,
+    -86.472386,
+    36.964314
+],
+  "geometry": {"coordinates":[-86.472386,36.964314],"type":"Point"}
+}

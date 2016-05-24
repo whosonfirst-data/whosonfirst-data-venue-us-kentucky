@@ -1,0 +1,68 @@
+{
+  "id": 840604925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.809109,38.249849,-85.809109,38.249849",
+    "geom:latitude":38.249849,
+    "geom:longitude":-85.809109,
+    "iso:country":"US",
+    "sg:address":"3404 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 1267",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O97HMhBT4VeMJPH3OIUz8_38.249849_-85.809109@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043777,
+    "wof:geomhash":"b59d2e20265375e9b65f1e4dc8064294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840604925
+        }
+    ],
+    "wof:id":840604925,
+    "wof:lastmodified":1464043777,
+    "wof:name":"Steph Above The Rest",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.809109,
+    38.249849,
+    -85.809109,
+    38.249849
+],
+  "geometry": {"coordinates":[-85.80910900000001,38.249849],"type":"Point"}
+}

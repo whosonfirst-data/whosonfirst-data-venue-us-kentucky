@@ -1,0 +1,69 @@
+{
+  "id": 840535869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.594378,37.826773,-84.594378,37.826773",
+    "geom:latitude":37.826773,
+    "geom:longitude":-84.594378,
+    "iso:country":"US",
+    "sg:address":"4050 Danville Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2995",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RnvSJ0FC5LYYizQBQLhHa_37.826773_-84.594378@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042114,
+    "wof:geomhash":"4336d8e1e8e682d303fba6e99530feb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840535869
+        }
+    ],
+    "wof:id":840535869,
+    "wof:lastmodified":1464042114,
+    "wof:name":"Glenn Hensley Trucking",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.594378,
+    37.826773,
+    -84.594378,
+    37.826773
+],
+  "geometry": {"coordinates":[-84.59437800000001,37.826773],"type":"Point"}
+}

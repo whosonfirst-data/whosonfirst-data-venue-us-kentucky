@@ -1,0 +1,73 @@
+{
+  "id": 840681455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.872755,37.703452,-85.872755,37.703452",
+    "geom:latitude":37.703452,
+    "geom:longitude":-85.872755,
+    "iso:country":"US",
+    "sg:address":"225 Saint John Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 3314",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5We05WLJGj1nyR27ihQFHu_37.703452_-85.872755@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045610,
+    "wof:geomhash":"d490f451c6e2e0f112df303e0c6f64bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840681455
+        }
+    ],
+    "wof:id":840681455,
+    "wof:lastmodified":1464045610,
+    "wof:name":"Kensington Manor",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -85.872755,
+    37.703452,
+    -85.872755,
+    37.703452
+],
+  "geometry": {"coordinates":[-85.872755,37.703452],"type":"Point"}
+}

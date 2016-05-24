@@ -1,0 +1,69 @@
+{
+  "id": 840668765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62152,37.032407,-84.62152,37.032407",
+    "geom:latitude":37.032407,
+    "geom:longitude":-84.62152,
+    "iso:country":"US",
+    "sg:address":"149 Enterprise Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 6995",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FkHkj0mSeV6UZECcKIBiu_37.032407_-84.621520@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045287,
+    "wof:geomhash":"a705ce342b9ce27bc1c81996b41a1e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840668765
+        }
+    ],
+    "wof:id":840668765,
+    "wof:lastmodified":1464045287,
+    "wof:name":"Somerset Mental Hlth/Assessmnt",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -84.62152,
+    37.032407,
+    -84.62152,
+    37.032407
+],
+  "geometry": {"coordinates":[-84.62152,37.032407],"type":"Point"}
+}

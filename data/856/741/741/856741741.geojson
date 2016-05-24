@@ -1,0 +1,85 @@
+{
+  "id": 856741741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.688988,38.259991,-85.688988,38.259991",
+    "geom:latitude":38.259991,
+    "geom:longitude":-85.688988,
+    "iso:country":"US",
+    "sg:address":"2843 Brownsboro Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 0088",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "recorder",
+        "time",
+        "payroll",
+        "clock"
+    ],
+    "sg:website":"http://www.epaylogic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cy7EXuo2NTtBSD0fkLEhW_38.259991_-85.688988@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053449,
+    "wof:geomhash":"ed0495994e74c34310cad53ac3b8b0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":856741741
+        }
+    ],
+    "wof:id":856741741,
+    "wof:lastmodified":1464053449,
+    "wof:name":"Paylogic",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recorder",
+        "time",
+        "payroll",
+        "clock"
+    ]
+},
+  "bbox": [
+    -85.688988,
+    38.259991,
+    -85.688988,
+    38.259991
+],
+  "geometry": {"coordinates":[-85.68898799999999,38.259991],"type":"Point"}
+}

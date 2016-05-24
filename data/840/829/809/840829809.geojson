@@ -1,0 +1,71 @@
+{
+  "id": 840829809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.753702,37.633722,-84.753702,37.633722",
+    "geom:latitude":37.633722,
+    "geom:longitude":-84.753702,
+    "iso:country":"US",
+    "sg:address":"470 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4572",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zt8Uo78XH0jx2qRpIRimL_37.633722_-84.753702@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049004,
+    "wof:geomhash":"65bd11576bf3ac9259e397d78d175bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840829809
+        }
+    ],
+    "wof:id":840829809,
+    "wof:lastmodified":1464049004,
+    "wof:name":"Federal Signal Corp",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.753702,
+    37.633722,
+    -84.753702,
+    37.633722
+],
+  "geometry": {"coordinates":[-84.753702,37.633722],"type":"Point"}
+}

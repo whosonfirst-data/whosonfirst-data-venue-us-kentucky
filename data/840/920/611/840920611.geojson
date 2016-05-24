@@ -1,0 +1,73 @@
+{
+  "id": 840920611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.71424,36.60582,-83.71424,36.60582",
+    "geom:latitude":36.60582,
+    "geom:longitude":-83.71424,
+    "iso:country":"US",
+    "sg:address":"126 W Chester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 6997",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63kJmSYJxcyPQphiE7pRof_36.605820_-83.714240@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051010,
+    "wof:geomhash":"23cedd6249f0fe5ab801f2f0e565cde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840920611
+        }
+    ],
+    "wof:id":840920611,
+    "wof:lastmodified":1464051010,
+    "wof:name":"Service Plus Auto",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.71424,
+    36.60582,
+    -83.71424,
+    36.60582
+],
+  "geometry": {"coordinates":[-83.71424,36.60582],"type":"Point"}
+}

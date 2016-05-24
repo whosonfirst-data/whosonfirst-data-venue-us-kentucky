@@ -1,0 +1,71 @@
+{
+  "id": 840948739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.606011,36.989967,-84.606011,36.989967",
+    "geom:latitude":36.989967,
+    "geom:longitude":-84.606011,
+    "iso:country":"US",
+    "sg:address":"106 Lakeshore Rd",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 8843",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03LfDGjTba86NJEiYtccVL_36.989967_-84.606011@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051621,
+    "wof:geomhash":"85d48ac6e481c9b1cbcb0558ea3ae915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840948739
+        }
+    ],
+    "wof:id":840948739,
+    "wof:lastmodified":1464051621,
+    "wof:name":"Burton Concrete",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.606011,
+    36.989967,
+    -84.606011,
+    36.989967
+],
+  "geometry": {"coordinates":[-84.606011,36.989967],"type":"Point"}
+}

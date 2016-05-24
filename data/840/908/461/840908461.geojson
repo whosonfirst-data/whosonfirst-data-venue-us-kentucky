@@ -1,0 +1,73 @@
+{
+  "id": 840908461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.67097,37.032513,-88.67097,37.032513",
+    "geom:latitude":37.032513,
+    "geom:longitude":-88.67097,
+    "iso:country":"US",
+    "sg:address":"3446 Lovelaceville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 7311",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BZveiGOueU05zl24urPtj_37.032513_-88.670970@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050678,
+    "wof:geomhash":"e26d5dcf429b2548a466b61a026f3520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840908461
+        }
+    ],
+    "wof:id":840908461,
+    "wof:lastmodified":1464050678,
+    "wof:name":"Orr Medical LLC",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.67097,
+    37.032513,
+    -88.67097,
+    37.032513
+],
+  "geometry": {"coordinates":[-88.67097,37.032513],"type":"Point"}
+}

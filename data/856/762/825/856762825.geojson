@@ -1,0 +1,86 @@
+{
+  "id": 856762825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.847839,37.732269,-85.847839,37.732269",
+    "geom:latitude":37.732269,
+    "geom:longitude":-85.847839,
+    "iso:country":"US",
+    "sg:address":"2414 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 3333",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "italian",
+        "hall",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11HtVfoHfOsUmzsZRhKyI9_37.732269_-85.847839@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054229,
+    "wof:geomhash":"cb4a1cfe7e2550a3972ea7d7470733c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762825
+        }
+    ],
+    "wof:id":856762825,
+    "wof:lastmodified":1464054229,
+    "wof:name":"Gondolier Italian Restaurant",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "italian",
+        "hall",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.847839,
+    37.732269,
+    -85.847839,
+    37.732269
+],
+  "geometry": {"coordinates":[-85.84783899999999,37.732269],"type":"Point"}
+}

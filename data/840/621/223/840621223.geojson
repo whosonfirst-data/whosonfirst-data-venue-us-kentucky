@@ -1,0 +1,71 @@
+{
+  "id": 840621223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.670655,37.027839,-88.670655,37.027839",
+    "geom:latitude":37.027839,
+    "geom:longitude":-88.670655,
+    "iso:country":"US",
+    "sg:address":"3588 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 4253",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iMpDexgnmFQcaIO4xf4B8_37.027839_-88.670655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044197,
+    "wof:geomhash":"8985c68fa6fb01da290f1ca0ec2099d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840621223
+        }
+    ],
+    "wof:id":840621223,
+    "wof:lastmodified":1464044197,
+    "wof:name":"Sun Rays Tanning Studio",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -88.670655,
+    37.027839,
+    -88.670655,
+    37.027839
+],
+  "geometry": {"coordinates":[-88.670655,37.027839],"type":"Point"}
+}

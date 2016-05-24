@@ -1,0 +1,75 @@
+{
+  "id": 840934865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.544058,37.741193,-87.544058,37.741193",
+    "geom:latitude":37.741193,
+    "geom:longitude":-87.544058,
+    "iso:country":"US",
+    "sg:address":"3194 Walter Rd",
+    "sg:city":"Robards",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 9787",
+    "sg:postcode":"42452",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cauVi10hu3Q3Q7pCaQCIf_37.741193_-87.544058@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051342,
+    "wof:geomhash":"875b171094e3ca5de6343da1f7e7adae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840934865
+        }
+    ],
+    "wof:id":840934865,
+    "wof:lastmodified":1464051342,
+    "wof:name":"Henry Pike Trucking",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.544058,
+    37.741193,
+    -87.544058,
+    37.741193
+],
+  "geometry": {"coordinates":[-87.54405800000001,37.741193],"type":"Point"}
+}

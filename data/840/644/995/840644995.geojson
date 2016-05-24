@@ -1,0 +1,75 @@
+{
+  "id": 840644995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.491054,36.989485,-86.491054,36.989485",
+    "geom:latitude":36.989485,
+    "geom:longitude":-86.491054,
+    "iso:country":"US",
+    "sg:address":"1646 Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8547",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CSKIXAblIWgP0bqydWdsg_36.989485_-86.491054@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044781,
+    "wof:geomhash":"ab4619ac187f324c7c3ddc95a7824a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840644995
+        }
+    ],
+    "wof:id":840644995,
+    "wof:lastmodified":1464044781,
+    "wof:name":"Taylor Body Shop",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.491054,
+    36.989485,
+    -86.491054,
+    36.989485
+],
+  "geometry": {"coordinates":[-86.49105400000001,36.989485],"type":"Point"}
+}

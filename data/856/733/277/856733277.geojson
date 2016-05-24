@@ -1,0 +1,76 @@
+{
+  "id": 856733277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674779,38.13804,-85.674779,38.13804",
+    "geom:latitude":38.13804,
+    "geom:longitude":-85.674779,
+    "iso:country":"US",
+    "sg:address":"4639 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/127786-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 9647",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ipjx0XRuvP1BJnQamthB_38.138040_-85.674779@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053119,
+    "wof:geomhash":"a98755354484d677e5aad59c7186854b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856733277
+        }
+    ],
+    "wof:id":856733277,
+    "wof:lastmodified":1464053119,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.674779,
+    38.13804,
+    -85.674779,
+    38.13804
+],
+  "geometry": {"coordinates":[-85.674779,38.13804],"type":"Point"}
+}

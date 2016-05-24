@@ -1,0 +1,73 @@
+{
+  "id": 840635551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.602679,38.220728,-85.602679,38.220728",
+    "geom:latitude":38.220728,
+    "geom:longitude":-85.602679,
+    "iso:country":"US",
+    "sg:address":"9 Hallsdale Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 0223",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B8qbg9605Yl6dFWSELEuS_38.220728_-85.602679@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044577,
+    "wof:geomhash":"e22feee8e90f5a059c2a0e885aa8e8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840635551
+        }
+    ],
+    "wof:id":840635551,
+    "wof:lastmodified":1464044577,
+    "wof:name":"Louisville Press Inc",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -85.602679,
+    38.220728,
+    -85.602679,
+    38.220728
+],
+  "geometry": {"coordinates":[-85.60267899999999,38.220728],"type":"Point"}
+}

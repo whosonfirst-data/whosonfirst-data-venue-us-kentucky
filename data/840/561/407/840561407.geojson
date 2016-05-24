@@ -1,0 +1,67 @@
+{
+  "id": 840561407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.567961,37.831128,-87.567961,37.831128",
+    "geom:latitude":37.831128,
+    "geom:longitude":-87.567961,
+    "iso:country":"US",
+    "sg:address":"1805 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 5000",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:website":"www.hendersonschools.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yV00PRlSRNfhujrSM8rG3_37.831128_-87.567961@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042764,
+    "wof:geomhash":"7f8453020f5cd9ce58bcb9764d0b199a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840561407
+        }
+    ],
+    "wof:id":840561407,
+    "wof:lastmodified":1464042764,
+    "wof:name":"Henderson Superintendent-Schl",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.567961,
+    37.831128,
+    -87.567961,
+    37.831128
+],
+  "geometry": {"coordinates":[-87.567961,37.831128],"type":"Point"}
+}

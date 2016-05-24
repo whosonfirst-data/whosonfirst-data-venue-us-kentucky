@@ -1,0 +1,71 @@
+{
+  "id": 840834713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.568694,36.907194,-86.568694,36.907194",
+    "geom:latitude":36.907194,
+    "geom:longitude":-86.568694,
+    "iso:country":"US",
+    "sg:address":"217 Rockfield Church Rd",
+    "sg:city":"Rockfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8892",
+    "sg:postcode":"42274",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05jj9ebv7HyF8cQAagETl8_36.907194_-86.568694@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049105,
+    "wof:geomhash":"4b207650b7addcabbee382b045d05b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840834713
+        }
+    ],
+    "wof:id":840834713,
+    "wof:lastmodified":1464049105,
+    "wof:name":"Moreheads Auto Service",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.568694,
+    36.907194,
+    -86.568694,
+    36.907194
+],
+  "geometry": {"coordinates":[-86.56869399999999,36.907194],"type":"Point"}
+}

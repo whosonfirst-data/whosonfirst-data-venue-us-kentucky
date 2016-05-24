@@ -1,0 +1,82 @@
+{
+  "id": 840593383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.493788,38.001761,-84.493788,38.001761",
+    "geom:latitude":38.001761,
+    "geom:longitude":-84.493788,
+    "iso:country":"US",
+    "sg:address":"920 Montavesta Cir",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 335 0337",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85829779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kmLFCMTP8KSUZwzfHVPLB_38.001761_-84.493788@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043498,
+    "wof:geomhash":"7d74e882663046b615ff81e8424aa93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85829779,
+            "region_id":85688641,
+            "venue_id":840593383
+        }
+    ],
+    "wof:id":840593383,
+    "wof:lastmodified":1464043498,
+    "wof:name":"Mitch's Meetings Management",
+    "wof:parent_id":85829779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.493788,
+    38.001761,
+    -84.493788,
+    38.001761
+],
+  "geometry": {"coordinates":[-84.493788,38.001761],"type":"Point"}
+}

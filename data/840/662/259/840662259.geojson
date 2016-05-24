@@ -1,0 +1,71 @@
+{
+  "id": 840662259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582445,37.816508,-87.582445,37.816508",
+    "geom:latitude":37.816508,
+    "geom:longitude":-87.582445,
+    "iso:country":"US",
+    "sg:address":"1709 Madison St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 8827",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_571KwazHomVnLUL6KAioAQ_37.816508_-87.582445@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045151,
+    "wof:geomhash":"17847d0165dc03c08be0b4b22c9e15ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840662259
+        }
+    ],
+    "wof:id":840662259,
+    "wof:lastmodified":1464045151,
+    "wof:name":"American Legion",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -87.582445,
+    37.816508,
+    -87.582445,
+    37.816508
+],
+  "geometry": {"coordinates":[-87.58244500000001,37.816508],"type":"Point"}
+}

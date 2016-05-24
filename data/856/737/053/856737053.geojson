@@ -1,0 +1,76 @@
+{
+  "id": 856737053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.832508,37.710743,-85.832508,37.710743",
+    "geom:latitude":37.710743,
+    "geom:longitude":-85.832508,
+    "iso:country":"US",
+    "sg:address":"1038 Executive Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/173600-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5008",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X7FQi0QnMAfzW6XvGn6rd_37.710743_-85.832508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053259,
+    "wof:geomhash":"0f6c5cce93dfbef18649c45dfa731b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737053
+        }
+    ],
+    "wof:id":856737053,
+    "wof:lastmodified":1464053259,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.832508,
+    37.710743,
+    -85.832508,
+    37.710743
+],
+  "geometry": {"coordinates":[-85.832508,37.710743],"type":"Point"}
+}

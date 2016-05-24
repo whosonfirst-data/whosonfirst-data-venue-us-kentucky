@@ -1,0 +1,71 @@
+{
+  "id": 840847021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.715929,36.60584,-83.715929,36.60584",
+    "geom:latitude":36.60584,
+    "geom:longitude":-83.715929,
+    "iso:country":"US",
+    "sg:address":"220 Chester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 2828",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vCJqOHKqHpJlwRqO2jDiV_36.605840_-83.715929@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049375,
+    "wof:geomhash":"381111bc0793faea2c881d17ef7e6777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840847021
+        }
+    ],
+    "wof:id":840847021,
+    "wof:lastmodified":1464049375,
+    "wof:name":"Tri State Rental Gun & Pawn Co",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -83.715929,
+    36.60584,
+    -83.715929,
+    36.60584
+],
+  "geometry": {"coordinates":[-83.715929,36.60584],"type":"Point"}
+}

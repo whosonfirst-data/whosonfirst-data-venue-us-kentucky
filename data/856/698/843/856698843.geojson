@@ -1,0 +1,73 @@
+{
+  "id": 856698843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.918459,37.826495,-85.918459,37.826495",
+    "geom:latitude":37.826495,
+    "geom:longitude":-85.918459,
+    "iso:country":"US",
+    "sg:address":"1369 Jones St",
+    "sg:city":"Radcliff",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 351 3365",
+    "sg:postcode":"40160",
+    "sg:province":"KY",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947277,
+        102084595,
+        85845657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u4Q3saaXDCaviiYi27gpO_37.826495_-85.918459@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052036,
+    "wof:geomhash":"46e608827a8c40222db81463e58a260e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947277,
+            "neighbourhood_id":85845657,
+            "region_id":85688641,
+            "venue_id":856698843
+        }
+    ],
+    "wof:id":856698843,
+    "wof:lastmodified":1464052036,
+    "wof:name":"Ike's Upholstery",
+    "wof:parent_id":85845657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -85.918459,
+    37.826495,
+    -85.918459,
+    37.826495
+],
+  "geometry": {"coordinates":[-85.918459,37.826495],"type":"Point"}
+}

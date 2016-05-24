@@ -1,0 +1,87 @@
+{
+  "id": 856756409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565716,39.008172,-84.565716,39.008172",
+    "geom:latitude":39.008172,
+    "geom:longitude":-84.565716,
+    "iso:country":"US",
+    "sg:address":"385 Dudley Pike",
+    "sg:city":"Edgewood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 5910",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.edgewoodky.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sBOCJOf4oe8pNDWRWAVMy_39.008172_-84.565716@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053992,
+    "wof:geomhash":"5f54011b035b241792c7bb1932bed29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":856756409
+        }
+    ],
+    "wof:id":856756409,
+    "wof:lastmodified":1464053992,
+    "wof:name":"City Of Edgewood",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -84.565716,
+    39.008172,
+    -84.565716,
+    39.008172
+],
+  "geometry": {"coordinates":[-84.56571599999999,39.008172],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840620437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508682,39.084678,-84.508682,39.084678",
+    "geom:latitude":39.084678,
+    "geom:longitude":-84.508682,
+    "iso:country":"US",
+    "sg:address":"622 Scott Blvd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 491 7655",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rPrW3hV4fiXQrcCj6i56a_39.084678_-84.508682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044174,
+    "wof:geomhash":"70be50542df1ef73447b4c077c1456bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":840620437
+        }
+    ],
+    "wof:id":840620437,
+    "wof:lastmodified":1464044174,
+    "wof:name":"Hot Bake Run",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.508682,
+    39.084678,
+    -84.508682,
+    39.084678
+],
+  "geometry": {"coordinates":[-84.50868199999999,39.084678],"type":"Point"}
+}

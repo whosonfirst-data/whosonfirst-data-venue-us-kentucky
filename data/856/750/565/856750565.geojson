@@ -1,0 +1,75 @@
+{
+  "id": 856750565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.483086,38.252625,-85.483086,38.252625",
+    "geom:latitude":38.252625,
+    "geom:longitude":-85.483086,
+    "iso:country":"US",
+    "sg:address":"14613 Woodstream Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 5911",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "reduction",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P7AHaS9EdshtJpXbWDb7r_38.252625_-85.483086@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053773,
+    "wof:geomhash":"0b790e2540004d1c79eec5c7f35291dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750565
+        }
+    ],
+    "wof:id":856750565,
+    "wof:lastmodified":1464053773,
+    "wof:name":"Louisville Jefferson Metropolitan Sewer District",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reduction",
+        "waste"
+    ]
+},
+  "bbox": [
+    -85.483086,
+    38.252625,
+    -85.483086,
+    38.252625
+],
+  "geometry": {"coordinates":[-85.483086,38.252625],"type":"Point"}
+}

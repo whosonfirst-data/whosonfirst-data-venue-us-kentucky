@@ -1,0 +1,73 @@
+{
+  "id": 840862277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.285323,37.67009,-82.285323,37.67009",
+    "geom:latitude":37.67009,
+    "geom:longitude":-82.285323,
+    "iso:country":"US",
+    "sg:address":"602 Central Ave",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 4601",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J1zSCkvxSVnrv36AauLRj_37.670090_-82.285323@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049702,
+    "wof:geomhash":"ac5acad5273c976d85249c0ec58e971c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840862277
+        }
+    ],
+    "wof:id":840862277,
+    "wof:lastmodified":1464049702,
+    "wof:name":"Karnes Properties",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -82.285323,
+    37.67009,
+    -82.285323,
+    37.67009
+],
+  "geometry": {"coordinates":[-82.28532300000001,37.67009],"type":"Point"}
+}

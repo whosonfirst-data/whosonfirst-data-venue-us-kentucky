@@ -1,0 +1,71 @@
+{
+  "id": 840840425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866797,37.701562,-85.866797,37.701562",
+    "geom:latitude":37.701562,
+    "geom:longitude":-85.866797,
+    "iso:country":"US",
+    "sg:address":"104 N Mantle Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 3307",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nhcHU4tmmw58PynrbEVXn_37.701562_-85.866797@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049227,
+    "wof:geomhash":"f8692b054900b946bea9760a91c3db8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840840425
+        }
+    ],
+    "wof:id":840840425,
+    "wof:lastmodified":1464049227,
+    "wof:name":"Tanning & Toning",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -85.866797,
+    37.701562,
+    -85.866797,
+    37.701562
+],
+  "geometry": {"coordinates":[-85.86679700000001,37.701562],"type":"Point"}
+}

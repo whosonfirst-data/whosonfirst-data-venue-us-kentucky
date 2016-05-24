@@ -1,0 +1,71 @@
+{
+  "id": 856716999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.566436,37.538737,-82.566436,37.538737",
+    "geom:latitude":37.538737,
+    "geom:longitude":-82.566436,
+    "iso:country":"US",
+    "sg:address":"997 Cowpen Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 3002",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vNp6gCinZfNFK352unCrV_37.538737_-82.566436@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052469,
+    "wof:geomhash":"257a8b4b7dc99aed3b198a700815555a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856716999
+        }
+    ],
+    "wof:id":856716999,
+    "wof:lastmodified":1464052469,
+    "wof:name":"KTS",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.566436,
+    37.538737,
+    -82.566436,
+    37.538737
+],
+  "geometry": {"coordinates":[-82.566436,37.538737],"type":"Point"}
+}

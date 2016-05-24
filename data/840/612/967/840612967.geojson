@@ -1,0 +1,73 @@
+{
+  "id": 840612967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.368551,36.941953,-86.368551,36.941953",
+    "geom:latitude":36.941953,
+    "geom:longitude":-86.368551,
+    "iso:country":"US",
+    "sg:address":"1707 Hunts Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8833",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JulKfdQyO0JAUcUodObJg_36.941953_-86.368551@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043996,
+    "wof:geomhash":"2d4d5cd7d472c96c955f6c74451f35b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840612967
+        }
+    ],
+    "wof:id":840612967,
+    "wof:lastmodified":1464043996,
+    "wof:name":"Lockwood Electrical Service",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.368551,
+    36.941953,
+    -86.368551,
+    36.941953
+],
+  "geometry": {"coordinates":[-86.368551,36.941953],"type":"Point"}
+}

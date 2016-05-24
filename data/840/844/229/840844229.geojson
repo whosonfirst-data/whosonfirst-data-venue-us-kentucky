@@ -1,0 +1,71 @@
+{
+  "id": 840844229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435418,36.997986,-86.435418,36.997986",
+    "geom:latitude":36.997986,
+    "geom:longitude":-86.435418,
+    "iso:country":"US",
+    "sg:address":"409 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5373",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gjt0eKdyto6hgCslmKJDU_36.997986_-86.435418@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049315,
+    "wof:geomhash":"882d292f5c9dc89737488f3dea1a1cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840844229
+        }
+    ],
+    "wof:id":840844229,
+    "wof:lastmodified":1464049315,
+    "wof:name":"Discount Paint Ctr",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -86.435418,
+    36.997986,
+    -86.435418,
+    36.997986
+],
+  "geometry": {"coordinates":[-86.435418,36.997986],"type":"Point"}
+}

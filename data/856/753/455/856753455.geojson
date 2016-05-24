@@ -1,0 +1,73 @@
+{
+  "id": 856753455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.547201,37.994972,-84.547201,37.994972",
+    "geom:latitude":37.994972,
+    "geom:longitude":-84.547201,
+    "iso:country":"US",
+    "sg:address":"3330 Partner Pl",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 224 0779",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85835011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Npr34IeMfZFyVdHxSWcO7_37.994972_-84.547201@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053884,
+    "wof:geomhash":"67a085eeec183d58181d8a05ed9f6bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85835011,
+            "region_id":85688641,
+            "venue_id":856753455
+        }
+    ],
+    "wof:id":856753455,
+    "wof:lastmodified":1464053884,
+    "wof:name":"Hero's New York Pizza",
+    "wof:parent_id":85835011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.547201,
+    37.994972,
+    -84.547201,
+    37.994972
+],
+  "geometry": {"coordinates":[-84.547201,37.994972],"type":"Point"}
+}

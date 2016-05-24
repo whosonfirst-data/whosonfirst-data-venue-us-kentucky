@@ -1,0 +1,84 @@
+{
+  "id": 840758497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.764134,37.622537,-84.764134,37.622537",
+    "geom:latitude":37.622537,
+    "geom:longitude":-84.764134,
+    "iso:country":"US",
+    "sg:address":"130 Daniel Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2222",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85804761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BMP2YiK87gby9Zcd3Fd3o_37.622537_-84.764134@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047301,
+    "wof:geomhash":"ff67fe3f095e8de0c07d2c816cb156d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840758497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85804761,
+            "region_id":85688641,
+            "venue_id":840758497
+        }
+    ],
+    "wof:id":840758497,
+    "wof:lastmodified":1464047301,
+    "wof:name":"Central Kentucky Surgeons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.764134,
+    37.622537,
+    -84.764134,
+    37.622537
+],
+  "geometry": {"coordinates":[-84.764134,37.622537],"type":"Point"}
+}

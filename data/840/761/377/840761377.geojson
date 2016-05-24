@@ -1,0 +1,75 @@
+{
+  "id": 840761377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.596267,38.212709,-85.596267,38.212709",
+    "geom:latitude":38.212709,
+    "geom:longitude":-85.596267,
+    "iso:country":"US",
+    "sg:address":"8601 Citadel Way",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 495 6222",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ls5dljHa1IQBowCPbLv1h_38.212709_-85.596267@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047377,
+    "wof:geomhash":"e621f8e1c27b2c2ee84f2fb79254a4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840761377
+        }
+    ],
+    "wof:id":840761377,
+    "wof:lastmodified":1464047377,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.596267,
+    38.212709,
+    -85.596267,
+    38.212709
+],
+  "geometry": {"coordinates":[-85.596267,38.212709],"type":"Point"}
+}

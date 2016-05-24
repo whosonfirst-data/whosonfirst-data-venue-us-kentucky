@@ -1,0 +1,73 @@
+{
+  "id": 840621205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.727043,38.243665,-85.727043,38.243665",
+    "geom:latitude":38.243665,
+    "geom:longitude":-85.727043,
+    "iso:country":"US",
+    "sg:address":"1220 E Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 4400",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dqgSdTodpCtouMuxRzFn2_38.243665_-85.727043@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044196,
+    "wof:geomhash":"d2e24f3d4c78c72bd003d773476042af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":840621205
+        }
+    ],
+    "wof:id":840621205,
+    "wof:lastmodified":1464044196,
+    "wof:name":"Peterson Popham Inc",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -85.727043,
+    38.243665,
+    -85.727043,
+    38.243665
+],
+  "geometry": {"coordinates":[-85.72704299999999,38.243665],"type":"Point"}
+}

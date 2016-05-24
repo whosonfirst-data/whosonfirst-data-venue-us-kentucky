@@ -1,0 +1,71 @@
+{
+  "id": 840688469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.689729,37.075811,-88.689729,37.075811",
+    "geom:latitude":37.075811,
+    "geom:longitude":-88.689729,
+    "iso:country":"US",
+    "sg:address":"5145 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3928",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sm4fxshyJ0dhr6dTj7i9h_37.075811_-88.689729@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045786,
+    "wof:geomhash":"3a9dec36cc4fd8e52d61a246225409b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840688469
+        }
+    ],
+    "wof:id":840688469,
+    "wof:lastmodified":1464045786,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.689729,
+    37.075811,
+    -88.689729,
+    37.075811
+],
+  "geometry": {"coordinates":[-88.689729,37.075811],"type":"Point"}
+}

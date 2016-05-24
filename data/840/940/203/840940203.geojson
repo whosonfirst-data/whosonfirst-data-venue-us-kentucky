@@ -1,0 +1,75 @@
+{
+  "id": 840940203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.762728,37.640854,-84.762728,37.640854",
+    "geom:latitude":37.640854,
+    "geom:longitude":-84.762728,
+    "iso:country":"US",
+    "sg:address":"237 Stanford Ave",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 0776",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947155,
+        102085579,
+        85822743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36MIbpr1gyIaCaWQ3gT6o5_37.640854_-84.762728@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051452,
+    "wof:geomhash":"5fbe66159d72c57bd33107bea2b0701d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85822743,
+            "region_id":85688641,
+            "venue_id":840940203
+        }
+    ],
+    "wof:id":840940203,
+    "wof:lastmodified":1464051452,
+    "wof:name":"Danville Lawn Mower Repair Svc",
+    "wof:parent_id":85822743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -84.762728,
+    37.640854,
+    -84.762728,
+    37.640854
+],
+  "geometry": {"coordinates":[-84.762728,37.640854],"type":"Point"}
+}

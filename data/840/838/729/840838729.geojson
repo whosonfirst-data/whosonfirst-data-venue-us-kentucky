@@ -1,0 +1,76 @@
+{
+  "id": 840838729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.768554,38.16833,-85.768554,38.16833",
+    "geom:latitude":38.16833,
+    "geom:longitude":-85.768554,
+    "iso:country":"US",
+    "sg:address":"5601 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 852 2822",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.uofl.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IPL9gGMhTYiuH2ls5Uk4C_38.168330_-85.768554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049187,
+    "wof:geomhash":"634323b6823da1e074a67ad4bbacd8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840838729
+        }
+    ],
+    "wof:id":840838729,
+    "wof:lastmodified":1464049187,
+    "wof:name":"Louisville Family Medicine",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.768554,
+    38.16833,
+    -85.768554,
+    38.16833
+],
+  "geometry": {"coordinates":[-85.76855399999999,38.16833],"type":"Point"}
+}

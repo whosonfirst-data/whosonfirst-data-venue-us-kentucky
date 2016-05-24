@@ -1,0 +1,101 @@
+{
+  "id": 856756325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511681,39.089577,-84.511681,39.089577",
+    "geom:latitude":39.089577,
+    "geom:longitude":-84.511681,
+    "iso:country":"US",
+    "sg:address":"1 W Rivercenter Blvd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 261 1500",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "supply",
+        "facility",
+        "convention",
+        "hall",
+        "reception",
+        "caterer",
+        "banquet"
+    ],
+    "sg:website":"http://www.nkycc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85873129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Di0LiF2RIENrLWj23fZqG_39.089577_-84.511681@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053989,
+    "wof:geomhash":"871ff8cfc39381a1f604d70b96f7fcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85873129,
+            "region_id":85688641,
+            "venue_id":856756325
+        }
+    ],
+    "wof:id":856756325,
+    "wof:lastmodified":1464053989,
+    "wof:name":"Northern Ky Convention Center",
+    "wof:parent_id":85873129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "facility",
+        "convention",
+        "hall",
+        "reception",
+        "caterer",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -84.511681,
+    39.089577,
+    -84.511681,
+    39.089577
+],
+  "geometry": {"coordinates":[-84.511681,39.089577],"type":"Point"}
+}

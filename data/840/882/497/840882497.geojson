@@ -1,0 +1,71 @@
+{
+  "id": 840882497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.276929,37.585754,-84.276929,37.585754",
+    "geom:latitude":37.585754,
+    "geom:longitude":-84.276929,
+    "iso:country":"US",
+    "sg:address":"590 Glades Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 1124",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UGIlVB1zQAROvMOrOscFv_37.585754_-84.276929@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050120,
+    "wof:geomhash":"c91d833c9e32645fd9ce14fba8c5e084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840882497
+        }
+    ],
+    "wof:id":840882497,
+    "wof:lastmodified":1464050120,
+    "wof:name":"Heaven Sent",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.276929,
+    37.585754,
+    -84.276929,
+    37.585754
+],
+  "geometry": {"coordinates":[-84.276929,37.585754],"type":"Point"}
+}

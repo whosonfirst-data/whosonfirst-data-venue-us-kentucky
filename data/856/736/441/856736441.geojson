@@ -1,0 +1,72 @@
+{
+  "id": 856736441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423445,36.947292,-86.423445,36.947292",
+    "geom:latitude":36.947292,
+    "geom:longitude":-86.423445,
+    "iso:country":"US",
+    "sg:address":"2808 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/118893-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 0136",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FJInZSJXZejZnkcvzM6p2_36.947292_-86.423445@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053239,
+    "wof:geomhash":"cc2f7c0b08ca7091152370a86363ebaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736441
+        }
+    ],
+    "wof:id":856736441,
+    "wof:lastmodified":1464053239,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -86.423445,
+    36.947292,
+    -86.423445,
+    36.947292
+],
+  "geometry": {"coordinates":[-86.423445,36.947292],"type":"Point"}
+}

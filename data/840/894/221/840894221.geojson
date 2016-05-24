@@ -1,0 +1,71 @@
+{
+  "id": 840894221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.651887,37.029137,-84.651887,37.029137",
+    "geom:latitude":37.029137,
+    "geom:longitude":-84.651887,
+    "iso:country":"US",
+    "sg:address":"1115 Heartland Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 1000",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_399399yStRi3Qs6JktF7mA_37.029137_-84.651887@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050367,
+    "wof:geomhash":"c0457337c85dcda2f3cd0279e1a779aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840894221
+        }
+    ],
+    "wof:id":840894221,
+    "wof:lastmodified":1464050367,
+    "wof:name":"R C Whan MD",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.651887,
+    37.029137,
+    -84.651887,
+    37.029137
+],
+  "geometry": {"coordinates":[-84.651887,37.029137],"type":"Point"}
+}

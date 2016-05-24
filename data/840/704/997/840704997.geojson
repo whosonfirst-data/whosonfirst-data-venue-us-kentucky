@@ -1,0 +1,71 @@
+{
+  "id": 840704997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.586755,37.035298,-88.586755,37.035298",
+    "geom:latitude":37.035298,
+    "geom:longitude":-88.586755,
+    "iso:country":"US",
+    "sg:address":"1840 Husband Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 1279",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ticket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9u2L3Lzt698AHovsVPmk_37.035298_-88.586755@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046202,
+    "wof:geomhash":"44d420f12fca92d6fd7b1ff5dc872cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840704997
+        }
+    ],
+    "wof:id":840704997,
+    "wof:lastmodified":1464046202,
+    "wof:name":"Paducah Khoury League",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket"
+    ]
+},
+  "bbox": [
+    -88.586755,
+    37.035298,
+    -88.586755,
+    37.035298
+],
+  "geometry": {"coordinates":[-88.586755,37.035298],"type":"Point"}
+}

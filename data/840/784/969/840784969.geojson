@@ -1,0 +1,73 @@
+{
+  "id": 840784969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775126,38.2559,-85.775126,38.2559",
+    "geom:latitude":38.2559,
+    "geom:longitude":-85.775126,
+    "iso:country":"US",
+    "sg:address":"1407 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 238 1184",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RS4zygdBBG3SXFRWk4Ixb_38.255900_-85.775126@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047856,
+    "wof:geomhash":"7abc34945afd54b4b396e6d0ffd4d6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840784969
+        }
+    ],
+    "wof:id":840784969,
+    "wof:lastmodified":1464047856,
+    "wof:name":"Market At Russell",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -85.775126,
+    38.2559,
+    -85.775126,
+    38.2559
+],
+  "geometry": {"coordinates":[-85.775126,38.2559],"type":"Point"}
+}

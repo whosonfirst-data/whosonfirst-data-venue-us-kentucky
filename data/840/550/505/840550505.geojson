@@ -1,0 +1,73 @@
+{
+  "id": 840550505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.191093,36.961958,-86.191093,36.961958",
+    "geom:latitude":36.961958,
+    "geom:longitude":-86.191093,
+    "iso:country":"US",
+    "sg:address":"1276 Phillips Rd",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 4627",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xj4LunaPcULn2xmazaJEC_36.961958_-86.191093@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042525,
+    "wof:geomhash":"3c024931ad1aac35c6b6165abc087d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840550505
+        }
+    ],
+    "wof:id":840550505,
+    "wof:lastmodified":1464042525,
+    "wof:name":"Clara Ground",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.191093,
+    36.961958,
+    -86.191093,
+    36.961958
+],
+  "geometry": {"coordinates":[-86.191093,36.961958],"type":"Point"}
+}

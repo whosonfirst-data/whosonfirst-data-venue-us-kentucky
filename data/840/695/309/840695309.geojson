@@ -1,0 +1,73 @@
+{
+  "id": 840695309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.745795,36.602294,-83.745795,36.602294",
+    "geom:latitude":36.602294,
+    "geom:longitude":-83.745795,
+    "iso:country":"US",
+    "sg:address":"2117 Winchester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 5259",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0edW7zLbzKKg8hi6EVx5bY_36.602294_-83.745795@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045955,
+    "wof:geomhash":"62339ac121c6e0a8cf2f170ec09f7903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840695309
+        }
+    ],
+    "wof:id":840695309,
+    "wof:lastmodified":1464045955,
+    "wof:name":"B & C Machine Shop",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.745795,
+    36.602294,
+    -83.745795,
+    36.602294
+],
+  "geometry": {"coordinates":[-83.745795,36.602294],"type":"Point"}
+}

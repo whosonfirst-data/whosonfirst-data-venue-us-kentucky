@@ -1,0 +1,78 @@
+{
+  "id": 856738141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472157,38.323869,-85.472157,38.323869",
+    "geom:latitude":38.323869,
+    "geom:longitude":-85.472157,
+    "iso:country":"US",
+    "sg:address":"6630 W Highway 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 243 1238",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m2qHl8RRyCwRvvcOhj6F5_38.323869_-85.472157@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053309,
+    "wof:geomhash":"c497d59380f99382f21ed8ed0fd4b8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856738141
+        }
+    ],
+    "wof:id":856738141,
+    "wof:lastmodified":1464053309,
+    "wof:name":"First Capital Mortgage",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -85.472157,
+    38.323869,
+    -85.472157,
+    38.323869
+],
+  "geometry": {"coordinates":[-85.472157,38.323869],"type":"Point"}
+}

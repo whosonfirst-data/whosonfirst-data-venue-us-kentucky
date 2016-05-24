@@ -1,0 +1,71 @@
+{
+  "id": 840941585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.589128,37.132501,-84.589128,37.132501",
+    "geom:latitude":37.132501,
+    "geom:longitude":-84.589128,
+    "iso:country":"US",
+    "sg:address":"830 State Hwy 39",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 676 2819",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eRhycUSDvBZHFaiJCEB8O_37.132501_-84.589128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051478,
+    "wof:geomhash":"0f0cc5983d72ae597b2a6236c0342716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840941585
+        }
+    ],
+    "wof:id":840941585,
+    "wof:lastmodified":1464051478,
+    "wof:name":"Grocery Outlet",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.589128,
+    37.132501,
+    -84.589128,
+    37.132501
+],
+  "geometry": {"coordinates":[-84.589128,37.132501],"type":"Point"}
+}

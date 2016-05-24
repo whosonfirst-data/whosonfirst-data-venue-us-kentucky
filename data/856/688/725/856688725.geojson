@@ -1,0 +1,78 @@
+{
+  "id": 856688725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591242,37.840497,-87.591242,37.840497",
+    "geom:latitude":37.840497,
+    "geom:longitude":-87.591242,
+    "iso:country":"US",
+    "sg:address":"230 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 2107",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_390KWLFQ29joQIpAaVxCqj_37.840497_-87.591242@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051842,
+    "wof:geomhash":"3972028c93a96cb581403e60a888b122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856688725
+        }
+    ],
+    "wof:id":856688725,
+    "wof:lastmodified":1464051842,
+    "wof:name":"West Community Resources",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -87.591242,
+    37.840497,
+    -87.591242,
+    37.840497
+],
+  "geometry": {"coordinates":[-87.59124199999999,37.840497],"type":"Point"}
+}

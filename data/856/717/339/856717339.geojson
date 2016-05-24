@@ -1,0 +1,73 @@
+{
+  "id": 856717339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.901353,37.68272,-85.901353,37.68272",
+    "geom:latitude":37.68272,
+    "geom:longitude":-85.901353,
+    "iso:country":"US",
+    "sg:address":"307 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2116",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GuwFQTooVTtrwPPZw26cd_37.682720_-85.901353@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052481,
+    "wof:geomhash":"5718713c0ec806aa542b3a1ed9013f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856717339
+        }
+    ],
+    "wof:id":856717339,
+    "wof:lastmodified":1464052481,
+    "wof:name":"Diecks Block & Supply Co",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product"
+    ]
+},
+  "bbox": [
+    -85.901353,
+    37.68272,
+    -85.901353,
+    37.68272
+],
+  "geometry": {"coordinates":[-85.901353,37.68272],"type":"Point"}
+}

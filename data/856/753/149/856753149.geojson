@@ -1,0 +1,73 @@
+{
+  "id": 856753149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336769,37.866914,-84.336769,37.866914",
+    "geom:latitude":37.866914,
+    "geom:longitude":-84.336769,
+    "iso:country":"US",
+    "sg:address":"206 Dudley Ct",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 6772",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HhO29nvAb00AfFlHH4KA4_37.866914_-84.336769@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053873,
+    "wof:geomhash":"0a35b819f9aec4aafbd73a2c4be37f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":856753149
+        }
+    ],
+    "wof:id":856753149,
+    "wof:lastmodified":1464053873,
+    "wof:name":"Ford Employee",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.336769,
+    37.866914,
+    -84.336769,
+    37.866914
+],
+  "geometry": {"coordinates":[-84.336769,37.866914],"type":"Point"}
+}

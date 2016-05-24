@@ -1,0 +1,69 @@
+{
+  "id": 840761747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.615901,37.0085,-84.615901,37.0085",
+    "geom:latitude":37.0085,
+    "geom:longitude":-84.615901,
+    "iso:country":"US",
+    "sg:address":"202 White Oak Cir",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5616",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J4l8sceyEuECfZya8kRqG_37.008500_-84.615901@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047387,
+    "wof:geomhash":"a9b17c751fb8396a52090927868efb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840761747
+        }
+    ],
+    "wof:id":840761747,
+    "wof:lastmodified":1464047387,
+    "wof:name":"Lakeview Estates",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.615901,
+    37.0085,
+    -84.615901,
+    37.0085
+],
+  "geometry": {"coordinates":[-84.61590099999999,37.0085],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840660487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260837,37.016581,-86.260837,37.016581",
+    "geom:latitude":37.016581,
+    "geom:longitude":-86.260837,
+    "iso:country":"US",
+    "sg:address":"965 Carl Jordan Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 3361",
+    "sg:postcode":"42159",
+    "sg:province":"KY",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PR5wRCD6nm0UlcGMKrffz_37.016581_-86.260837@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045118,
+    "wof:geomhash":"430564de7a9c85f06a702937598a4f77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840660487
+        }
+    ],
+    "wof:id":840660487,
+    "wof:lastmodified":1464045118,
+    "wof:name":"Heritage Livestock Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -86.260837,
+    37.016581,
+    -86.260837,
+    37.016581
+],
+  "geometry": {"coordinates":[-86.260837,37.016581],"type":"Point"}
+}

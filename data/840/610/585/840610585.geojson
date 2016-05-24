@@ -1,0 +1,71 @@
+{
+  "id": 840610585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.876729,37.712738,-85.876729,37.712738",
+    "geom:latitude":37.712738,
+    "geom:longitude":-85.876729,
+    "iso:country":"US",
+    "sg:address":"1003 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6818",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14dR7RerhjvnX5QZUB9LW0_37.712738_-85.876729@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043931,
+    "wof:geomhash":"d662d0cffe066fe7fab95ce4adaf008e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840610585
+        }
+    ],
+    "wof:id":840610585,
+    "wof:lastmodified":1464043931,
+    "wof:name":"Healthsouth",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -85.876729,
+    37.712738,
+    -85.876729,
+    37.712738
+],
+  "geometry": {"coordinates":[-85.876729,37.712738],"type":"Point"}
+}

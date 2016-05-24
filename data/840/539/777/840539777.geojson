@@ -1,0 +1,71 @@
+{
+  "id": 840539777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.591858,37.83699,-87.591858,37.83699",
+    "geom:latitude":37.83699,
+    "geom:longitude":-87.591858,
+    "iso:country":"US",
+    "sg:address":"327 Washington St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 1414",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fawbGQEFmd5Y2OwWt8XMn_37.836990_-87.591858@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042212,
+    "wof:geomhash":"e71f32d278b16c9000e732541faee584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840539777
+        }
+    ],
+    "wof:id":840539777,
+    "wof:lastmodified":1464042212,
+    "wof:name":"H W Campbell DDS",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.591858,
+    37.83699,
+    -87.591858,
+    37.83699
+],
+  "geometry": {"coordinates":[-87.591858,37.83699],"type":"Point"}
+}

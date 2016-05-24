@@ -1,0 +1,71 @@
+{
+  "id": 856696351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.786011,37.254845,-85.786011,37.254845",
+    "geom:latitude":37.254845,
+    "geom:longitude":-85.786011,
+    "iso:country":"US",
+    "sg:address":"111 N Jackson Hwy",
+    "sg:city":"Hardyville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 528 4835",
+    "sg:postcode":"42746",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05SQ0k7z6YkXSqYEArP7LI_37.254845_-85.786011@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051987,
+    "wof:geomhash":"25323cb4f3f077287b4f6954e8e21c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":856696351
+        }
+    ],
+    "wof:id":856696351,
+    "wof:lastmodified":1464051987,
+    "wof:name":"Hardyville Fire Station",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.786011,
+    37.254845,
+    -85.786011,
+    37.254845
+],
+  "geometry": {"coordinates":[-85.786011,37.254845],"type":"Point"}
+}

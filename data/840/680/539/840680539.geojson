@@ -1,0 +1,66 @@
+{
+  "id": 840680539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.43265,37.002852,-86.43265,37.002852",
+    "geom:latitude":37.002852,
+    "geom:longitude":-86.43265,
+    "iso:country":"US",
+    "sg:address":"301 Riverview Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1729",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0epdd6gkrPEHabjgNG4QVZ_37.002852_-86.432650@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045591,
+    "wof:geomhash":"ca8173981d4002fc29f50c26651fffcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840680539
+        }
+    ],
+    "wof:id":840680539,
+    "wof:lastmodified":1464045591,
+    "wof:name":"Riverview Spirits Shoppe",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43265,
+    37.002852,
+    -86.43265,
+    37.002852
+],
+  "geometry": {"coordinates":[-86.43265,37.002852],"type":"Point"}
+}

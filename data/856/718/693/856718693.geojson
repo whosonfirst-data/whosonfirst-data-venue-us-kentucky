@@ -1,0 +1,88 @@
+{
+  "id": 856718693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.779714,37.640645,-84.779714,37.640645",
+    "geom:latitude":37.640645,
+    "geom:longitude":-84.779714,
+    "iso:country":"US",
+    "sg:address":"202 Ford St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 5417",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vuosobkHyW3ADxvdspE7J_37.640645_-84.779714@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052536,
+    "wof:geomhash":"01b988fbdc5643c90c7571a1cd444c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856718693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856718693
+        }
+    ],
+    "wof:id":856718693,
+    "wof:lastmodified":1464052536,
+    "wof:name":"Custom Air Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.779714,
+    37.640645,
+    -84.779714,
+    37.640645
+],
+  "geometry": {"coordinates":[-84.779714,37.640645],"type":"Point"}
+}

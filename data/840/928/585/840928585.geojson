@@ -1,0 +1,71 @@
+{
+  "id": 840928585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.619467,37.085762,-88.619467,37.085762",
+    "geom:latitude":37.085762,
+    "geom:longitude":-88.619467,
+    "iso:country":"US",
+    "sg:address":"1613 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8532",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30dhsykpifSuNafZ95cE3P_37.085762_-88.619467@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051218,
+    "wof:geomhash":"cca9e9b7dd4d1a952abf6db4393b5cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840928585
+        }
+    ],
+    "wof:id":840928585,
+    "wof:lastmodified":1464051218,
+    "wof:name":"Oak Grove Cemetery",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -88.619467,
+    37.085762,
+    -88.619467,
+    37.085762
+],
+  "geometry": {"coordinates":[-88.619467,37.085762],"type":"Point"}
+}

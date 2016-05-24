@@ -1,0 +1,73 @@
+{
+  "id": 840600627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614595,37.163327,-84.614595,37.163327",
+    "geom:latitude":37.163327,
+    "geom:longitude":-84.614595,
+    "iso:country":"US",
+    "sg:address":"608 E Frog Hollow Rd",
+    "sg:city":"Science Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 423 4100",
+    "sg:postcode":"42553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A8MZSI6ySA92zo7AX7d5t_37.163327_-84.614595@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043674,
+    "wof:geomhash":"d3bf116f965fec90ecfd019d2d032e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840600627
+        }
+    ],
+    "wof:id":840600627,
+    "wof:lastmodified":1464043674,
+    "wof:name":"Moore Mechanical Contracting",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.614595,
+    37.163327,
+    -84.614595,
+    37.163327
+],
+  "geometry": {"coordinates":[-84.61459499999999,37.163327],"type":"Point"}
+}

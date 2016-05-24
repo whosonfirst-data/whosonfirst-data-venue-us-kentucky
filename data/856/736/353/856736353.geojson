@@ -1,0 +1,74 @@
+{
+  "id": 856736353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477596,36.989342,-86.477596,36.989342",
+    "geom:latitude":36.989342,
+    "geom:longitude":-86.477596,
+    "iso:country":"US",
+    "sg:address":"1201 Morgantown Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/186765-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 3156",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pc8rZ9viZxCqYAetIbbb7_36.989342_-86.477596@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053236,
+    "wof:geomhash":"5e4892ae85e1f4dc4939366ed0c96d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":856736353
+        }
+    ],
+    "wof:id":856736353,
+    "wof:lastmodified":1464053236,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.477596,
+    36.989342,
+    -86.477596,
+    36.989342
+],
+  "geometry": {"coordinates":[-86.47759600000001,36.989342],"type":"Point"}
+}

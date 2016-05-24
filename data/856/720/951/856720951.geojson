@@ -1,0 +1,73 @@
+{
+  "id": 856720951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.915859,36.980734,-85.915859,36.980734",
+    "geom:latitude":36.980734,
+    "geom:longitude":-85.915859,
+    "iso:country":"US",
+    "sg:address":"175 Trojan Trl",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 7297",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d1djiUl5zsuXCBMQaJgBd_36.980734_-85.915859@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052631,
+    "wof:geomhash":"70b80987db29cb47eb709e62e492930d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856720951
+        }
+    ],
+    "wof:id":856720951,
+    "wof:lastmodified":1464052631,
+    "wof:name":"Animal Shelter Of Glasgow",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -85.915859,
+    36.980734,
+    -85.915859,
+    36.980734
+],
+  "geometry": {"coordinates":[-85.915859,36.980734],"type":"Point"}
+}

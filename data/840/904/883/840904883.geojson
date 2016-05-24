@@ -1,0 +1,73 @@
+{
+  "id": 840904883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672495,38.212693,-85.672495,38.212693",
+    "geom:latitude":38.212693,
+    "geom:longitude":-85.672495,
+    "iso:country":"US",
+    "sg:address":"3018 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 2588",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lUtFNxhP3r8b2K8tkQayV_38.212693_-85.672495@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050592,
+    "wof:geomhash":"3794191f22b490b2dde5766367a08852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":840904883
+        }
+    ],
+    "wof:id":840904883,
+    "wof:lastmodified":1464050592,
+    "wof:name":"British Custom Tailors",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -85.672495,
+    38.212693,
+    -85.672495,
+    38.212693
+],
+  "geometry": {"coordinates":[-85.672495,38.212693],"type":"Point"}
+}

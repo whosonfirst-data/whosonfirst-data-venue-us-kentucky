@@ -1,0 +1,75 @@
+{
+  "id": 856703933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755391,38.213408,-85.755391,38.213408",
+    "geom:latitude":38.213408,
+    "geom:longitude":-85.755391,
+    "iso:country":"US",
+    "sg:address":"2314 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 852 6814",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fhfRzUN4lradfRD9ZdZSO_38.213408_-85.755391@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052150,
+    "wof:geomhash":"92856b6a1b50b3045f3ec3b8362909f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856703933
+        }
+    ],
+    "wof:id":856703933,
+    "wof:lastmodified":1464052150,
+    "wof:name":"Belknap Theatre",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -85.755391,
+    38.213408,
+    -85.755391,
+    38.213408
+],
+  "geometry": {"coordinates":[-85.755391,38.213408],"type":"Point"}
+}

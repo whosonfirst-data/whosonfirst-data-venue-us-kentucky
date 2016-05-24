@@ -1,0 +1,69 @@
+{
+  "id": 840850221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570585,37.886394,-84.570585,37.886394",
+    "geom:latitude":37.886394,
+    "geom:longitude":-84.570585,
+    "iso:country":"US",
+    "sg:address":"517 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 9385",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HsmJZxZNaaSip6O4iPR9z_37.886394_-84.570585@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049444,
+    "wof:geomhash":"7f40bdab0223fd4d5d2d38630b2a4815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840850221
+        }
+    ],
+    "wof:id":840850221,
+    "wof:lastmodified":1464049444,
+    "wof:name":"Nicholasville Plg Commision",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -84.570585,
+    37.886394,
+    -84.570585,
+    37.886394
+],
+  "geometry": {"coordinates":[-84.57058499999999,37.886394],"type":"Point"}
+}

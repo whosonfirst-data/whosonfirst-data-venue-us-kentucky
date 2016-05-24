@@ -1,0 +1,73 @@
+{
+  "id": 840615441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.665128,37.007136,-88.665128,37.007136",
+    "geom:latitude":37.007136,
+    "geom:longitude":-88.665128,
+    "iso:country":"US",
+    "sg:address":"200 Springview Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 9998",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tHCsR4Vd7liQUJ6vIiWoz_37.007136_-88.665128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044047,
+    "wof:geomhash":"499da74891003bf0a3f634c5aede35fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840615441
+        }
+    ],
+    "wof:id":840615441,
+    "wof:lastmodified":1464044047,
+    "wof:name":"Herbalife Distributor",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -88.665128,
+    37.007136,
+    -88.665128,
+    37.007136
+],
+  "geometry": {"coordinates":[-88.665128,37.007136],"type":"Point"}
+}

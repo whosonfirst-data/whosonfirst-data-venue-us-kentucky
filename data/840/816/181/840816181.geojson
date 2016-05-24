@@ -1,0 +1,76 @@
+{
+  "id": 840816181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.551472,38.209453,-85.551472,38.209453",
+    "geom:latitude":38.209453,
+    "geom:longitude":-85.551472,
+    "iso:country":"US",
+    "sg:address":"11100 Plantside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 7447",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "sg:website":"www.derby-gymnastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61fsPMW6zt1JAM2WnwxMlN_38.209453_-85.551472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048639,
+    "wof:geomhash":"b46576396305c98378743cbfad62ec0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840816181
+        }
+    ],
+    "wof:id":840816181,
+    "wof:lastmodified":1464048639,
+    "wof:name":"Champion Gymnastics",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -85.551472,
+    38.209453,
+    -85.551472,
+    38.209453
+],
+  "geometry": {"coordinates":[-85.551472,38.209453],"type":"Point"}
+}

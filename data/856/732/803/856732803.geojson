@@ -1,0 +1,76 @@
+{
+  "id": 856732803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65091,38.252488,-85.65091,38.252488",
+    "geom:latitude":38.252488,
+    "geom:longitude":-85.65091,
+    "iso:country":"US",
+    "sg:address":"4030 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/197321-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 9023",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hDOthc0MDBSfedVwwR9xs_38.252488_-85.650910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053102,
+    "wof:geomhash":"27f0ff4ac1a3007610d50f891ab20a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856732803
+        }
+    ],
+    "wof:id":856732803,
+    "wof:lastmodified":1464053102,
+    "wof:name":"Burger King",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.65091,
+    38.252488,
+    -85.65091,
+    38.252488
+],
+  "geometry": {"coordinates":[-85.65091,38.252488],"type":"Point"}
+}

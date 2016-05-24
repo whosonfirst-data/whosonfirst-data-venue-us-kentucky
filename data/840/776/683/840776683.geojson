@@ -1,0 +1,73 @@
+{
+  "id": 840776683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.514281,37.001355,-86.514281,37.001355",
+    "geom:latitude":37.001355,
+    "geom:longitude":-86.514281,
+    "iso:country":"US",
+    "sg:address":"693 W Villa Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 0624",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mKBPbu6KLE26TV3YTGtAF_37.001355_-86.514281@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047698,
+    "wof:geomhash":"b8a02e6e53a874d845fbdc5c543d3087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840776683
+        }
+    ],
+    "wof:id":840776683,
+    "wof:lastmodified":1464047698,
+    "wof:name":"Lauries Videos Inc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -86.514281,
+    37.001355,
+    -86.514281,
+    37.001355
+],
+  "geometry": {"coordinates":[-86.514281,37.001355],"type":"Point"}
+}

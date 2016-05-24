@@ -1,0 +1,74 @@
+{
+  "id": 840802169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.638621,37.075922,-88.638621,37.075922",
+    "geom:latitude":37.075922,
+    "geom:longitude":-88.638621,
+    "iso:country":"US",
+    "sg:address":"509 N 30th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9676",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.paducahtech.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bOPx19cOcSdQO08DP6lV6_37.075922_-88.638621@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048248,
+    "wof:geomhash":"7cefd5a3602de0fc021abac30487c9f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840802169
+        }
+    ],
+    "wof:id":840802169,
+    "wof:lastmodified":1464048248,
+    "wof:name":"Paducah Technical College",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -88.638621,
+    37.075922,
+    -88.638621,
+    37.075922
+],
+  "geometry": {"coordinates":[-88.638621,37.075922],"type":"Point"}
+}

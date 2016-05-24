@@ -1,0 +1,73 @@
+{
+  "id": 856703999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.317883,37.571809,-84.317883,37.571809",
+    "geom:latitude":37.571809,
+    "geom:longitude":-84.317883,
+    "iso:country":"US",
+    "sg:address":"104 Spring Circle Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 1802",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L1Dds5t4PXFQc8py9Mev3_37.571809_-84.317883@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052151,
+    "wof:geomhash":"af22b37a3eb9564392db801da211589b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856703999
+        }
+    ],
+    "wof:id":856703999,
+    "wof:lastmodified":1464052151,
+    "wof:name":"Barnett's Heating & Air Cond",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.317883,
+    37.571809,
+    -84.317883,
+    37.571809
+],
+  "geometry": {"coordinates":[-84.31788299999999,37.571809],"type":"Point"}
+}

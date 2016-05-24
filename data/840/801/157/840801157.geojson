@@ -1,0 +1,71 @@
+{
+  "id": 840801157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.886278,37.713868,-85.886278,37.713868",
+    "geom:latitude":37.713868,
+    "geom:longitude":-85.886278,
+    "iso:country":"US",
+    "sg:address":"116 Edgewood Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 8081",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BafKhUYfeLTlUW69zdUvO_37.713868_-85.886278@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048226,
+    "wof:geomhash":"d6fa4cfe75c0d1da0e30d951ac061a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840801157
+        }
+    ],
+    "wof:id":840801157,
+    "wof:lastmodified":1464048226,
+    "wof:name":"Edgewood Gardens",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.886278,
+    37.713868,
+    -85.886278,
+    37.713868
+],
+  "geometry": {"coordinates":[-85.886278,37.713868],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840596333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441881,37.001842,-86.441881,37.001842",
+    "geom:latitude":37.001842,
+    "geom:longitude":-86.441881,
+    "iso:country":"US",
+    "sg:address":"130 Thomas Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8482",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYF9sUATFCXmlwiGzcKoe_37.001842_-86.441881@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043568,
+    "wof:geomhash":"a8e5ab549bd59d7c90736ec4b416200a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840596333
+        }
+    ],
+    "wof:id":840596333,
+    "wof:lastmodified":1464043568,
+    "wof:name":"Performance Lawn & Landscape",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.441881,
+    37.001842,
+    -86.441881,
+    37.001842
+],
+  "geometry": {"coordinates":[-86.441881,37.001842],"type":"Point"}
+}

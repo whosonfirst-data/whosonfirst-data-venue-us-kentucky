@@ -1,0 +1,83 @@
+{
+  "id": 840757117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.657474,38.201268,-85.657474,38.201268",
+    "geom:latitude":38.201268,
+    "geom:longitude":-85.657474,
+    "iso:country":"US",
+    "sg:address":"3619 Green Meadows Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 2845",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6anlOXOj7cNgoPNkjGjJlw_38.201268_-85.657474@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047264,
+    "wof:geomhash":"d21ad30e9259de503987ff8b99e2b410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840757117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840757117
+        }
+    ],
+    "wof:id":840757117,
+    "wof:lastmodified":1464047264,
+    "wof:name":"Green Meadows Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.657474,
+    38.201268,
+    -85.657474,
+    38.201268
+],
+  "geometry": {"coordinates":[-85.65747399999999,38.201268],"type":"Point"}
+}

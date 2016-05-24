@@ -1,0 +1,71 @@
+{
+  "id": 856713657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.376184,38.401663,-85.376184,38.401663",
+    "geom:latitude":38.401663,
+    "geom:longitude":-85.376184,
+    "iso:country":"US",
+    "sg:address":"501 S 1st St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 7531",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AkAmM2lIYrFBDp5LTAnN2_38.401663_-85.376184@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052344,
+    "wof:geomhash":"58dfa44629b5d67e17fc201a0c3958d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856713657
+        }
+    ],
+    "wof:id":856713657,
+    "wof:lastmodified":1464052344,
+    "wof:name":"LA Grange Animal Hospital",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.376184,
+    38.401663,
+    -85.376184,
+    38.401663
+],
+  "geometry": {"coordinates":[-85.37618399999999,38.401663],"type":"Point"}
+}

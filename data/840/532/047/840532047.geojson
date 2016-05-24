@@ -1,0 +1,73 @@
+{
+  "id": 840532047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679597,37.08305,-88.679597,37.08305",
+    "geom:latitude":37.08305,
+    "geom:longitude":-88.679597,
+    "iso:country":"US",
+    "sg:address":"3340 Coleman Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6290",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YZhk9yi8QzZ8fXwh5NOyW_37.083050_-88.679597@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042027,
+    "wof:geomhash":"32143260a7bdd0d2abd6527b077fccd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840532047
+        }
+    ],
+    "wof:id":840532047,
+    "wof:lastmodified":1464042027,
+    "wof:name":"Shell Pipe Line Corp",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -88.679597,
+    37.08305,
+    -88.679597,
+    37.08305
+],
+  "geometry": {"coordinates":[-88.679597,37.08305],"type":"Point"}
+}

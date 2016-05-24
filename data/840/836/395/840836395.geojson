@@ -1,0 +1,71 @@
+{
+  "id": 840836395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.594831,37.09514,-84.594831,37.09514",
+    "geom:latitude":37.09514,
+    "geom:longitude":-84.594831,
+    "iso:country":"US",
+    "sg:address":"121 State Hwy 769",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 5202",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VO1KHqtXWVLFYhqLdlEOx_37.095140_-84.594831@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049137,
+    "wof:geomhash":"ab15fdf8b260921923af9df1c3df050c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840836395
+        }
+    ],
+    "wof:id":840836395,
+    "wof:lastmodified":1464049137,
+    "wof:name":"Clyde Goff",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.594831,
+    37.09514,
+    -84.594831,
+    37.09514
+],
+  "geometry": {"coordinates":[-84.594831,37.09514],"type":"Point"}
+}

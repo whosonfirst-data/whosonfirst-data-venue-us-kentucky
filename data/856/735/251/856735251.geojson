@@ -1,0 +1,76 @@
+{
+  "id": 856735251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.536781,39.031782,-84.536781,39.031782",
+    "geom:latitude":39.031782,
+    "geom:longitude":-84.536781,
+    "iso:country":"US",
+    "sg:address":"485 Orphanage Rd",
+    "sg:city":"Ft Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/82549-snappy-tomato-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 426 9900",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QieHLCUvcwaCifeOY30L0_39.031782_-84.536781@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053192,
+    "wof:geomhash":"ff4601948f093644073403737cebc52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":856735251
+        }
+    ],
+    "wof:id":856735251,
+    "wof:lastmodified":1464053192,
+    "wof:name":"Snappy Tomato Pizza",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.536781,
+    39.031782,
+    -84.536781,
+    39.031782
+],
+  "geometry": {"coordinates":[-84.536781,39.031782],"type":"Point"}
+}

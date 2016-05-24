@@ -1,0 +1,73 @@
+{
+  "id": 840834113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779648,38.198676,-85.779648,38.198676",
+    "geom:latitude":38.198676,
+    "geom:longitude":-85.779648,
+    "iso:country":"US",
+    "sg:address":"1117 Longfield Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 1926",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DQjKi6vzgGjZSUdsYRCcH_38.198676_-85.779648@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049089,
+    "wof:geomhash":"ce4ecd7bb8feade6653b15e6540eae43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":840834113
+        }
+    ],
+    "wof:id":840834113,
+    "wof:lastmodified":1464049089,
+    "wof:name":"Crow Plumbing",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.779648,
+    38.198676,
+    -85.779648,
+    38.198676
+],
+  "geometry": {"coordinates":[-85.77964799999999,38.198676],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840577189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.626391,37.063708,-88.626391,37.063708",
+    "geom:latitude":37.063708,
+    "geom:longitude":-88.626391,
+    "iso:country":"US",
+    "sg:address":"2900 Turner St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1068",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dzhENCNZxVywqw44xzxyP_37.063708_-88.626391@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043146,
+    "wof:geomhash":"105f43576153b675d6baa457fb58a588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840577189
+        }
+    ],
+    "wof:id":840577189,
+    "wof:lastmodified":1464043146,
+    "wof:name":"Randys Repair",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -88.626391,
+    37.063708,
+    -88.626391,
+    37.063708
+],
+  "geometry": {"coordinates":[-88.626391,37.063708],"type":"Point"}
+}

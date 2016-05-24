@@ -1,0 +1,76 @@
+{
+  "id": 840717875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.525144,38.003872,-84.525144,38.003872",
+    "geom:latitude":38.003872,
+    "geom:longitude":-84.525144,
+    "iso:country":"US",
+    "sg:address":"2601 Regency Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 0204",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.regencypetcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3onqwaUwwyEmMWt04E0607_38.003872_-84.525144@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046456,
+    "wof:geomhash":"08761d3d3226e8592ca7c467d6f68895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":840717875
+        }
+    ],
+    "wof:id":840717875,
+    "wof:lastmodified":1464046456,
+    "wof:name":"Regency Pet Ctr",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.525144,
+    38.003872,
+    -84.525144,
+    38.003872
+],
+  "geometry": {"coordinates":[-84.525144,38.003872],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840591923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.540421,38.179142,-85.540421,38.179142",
+    "geom:latitude":38.179142,
+    "geom:longitude":-85.540421,
+    "iso:country":"US",
+    "sg:address":"4202 Saratoga Woods Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 0127",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hpPNX8uoyCE43NlXjfSn1_38.179142_-85.540421@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043462,
+    "wof:geomhash":"2a11fda1c433526af30cd17dce01b732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840591923
+        }
+    ],
+    "wof:id":840591923,
+    "wof:lastmodified":1464043462,
+    "wof:name":"Semper Fi Mobile Automotive",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.540421,
+    38.179142,
+    -85.540421,
+    38.179142
+],
+  "geometry": {"coordinates":[-85.54042099999999,38.179142],"type":"Point"}
+}

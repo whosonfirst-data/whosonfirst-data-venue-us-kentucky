@@ -1,0 +1,73 @@
+{
+  "id": 856700929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.34623,37.031478,-86.34623,37.031478",
+    "geom:latitude":37.031478,
+    "geom:longitude":-86.34623,
+    "iso:country":"US",
+    "sg:address":"120 Kelly Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8845",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "material",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mMzSlBEBmHeo8BklpsQCO_37.031478_-86.346230@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052078,
+    "wof:geomhash":"ce1907af599586068cf9db8af2827a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856700929
+        }
+    ],
+    "wof:id":856700929,
+    "wof:lastmodified":1464052078,
+    "wof:name":"Bluegrass Specialty Floors Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "floor"
+    ]
+},
+  "bbox": [
+    -86.34623,
+    37.031478,
+    -86.34623,
+    37.031478
+],
+  "geometry": {"coordinates":[-86.34623000000001,37.031478],"type":"Point"}
+}

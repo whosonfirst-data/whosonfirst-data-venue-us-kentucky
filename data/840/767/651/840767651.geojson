@@ -1,0 +1,75 @@
+{
+  "id": 840767651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78656,38.258534,-85.78656,38.258534",
+    "geom:latitude":38.258534,
+    "geom:longitude":-85.78656,
+    "iso:country":"US",
+    "sg:address":"2101 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 5191",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TeXN6ACCrHtHdqbKI2qcF_38.258534_-85.786560@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047518,
+    "wof:geomhash":"3c5fa35acd68169cdf4c1aa62a07cae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840767651
+        }
+    ],
+    "wof:id":840767651,
+    "wof:lastmodified":1464047518,
+    "wof:name":"Block Plumbing Co",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.78656,
+    38.258534,
+    -85.78656,
+    38.258534
+],
+  "geometry": {"coordinates":[-85.78655999999999,38.258534],"type":"Point"}
+}

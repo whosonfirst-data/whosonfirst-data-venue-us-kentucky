@@ -1,0 +1,73 @@
+{
+  "id": 840810877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484657,38.120857,-84.484657,38.120857",
+    "geom:latitude":38.120857,
+    "geom:longitude":-84.484657,
+    "iso:country":"US",
+    "sg:address":"2800 Newtown Pike",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 7654",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1981B3Pd7yFFI9v0PVJURi_38.120857_-84.484657@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048454,
+    "wof:geomhash":"948200f4dfcdec4b434a5f30cc6dbd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873019,
+            "region_id":85688641,
+            "venue_id":840810877
+        }
+    ],
+    "wof:id":840810877,
+    "wof:lastmodified":1464048454,
+    "wof:name":"Robert Downing DVM",
+    "wof:parent_id":85873019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.484657,
+    38.120857,
+    -84.484657,
+    38.120857
+],
+  "geometry": {"coordinates":[-84.484657,38.120857],"type":"Point"}
+}

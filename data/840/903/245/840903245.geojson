@@ -1,0 +1,75 @@
+{
+  "id": 840903245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.763815,38.145695,-85.763815,38.145695",
+    "geom:latitude":38.145695,
+    "geom:longitude":-85.763815,
+    "iso:country":"US",
+    "sg:address":"314 Chippendale Ct",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 1022",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fVPUvW532XFvynjmVNJ7j_38.145695_-85.763815@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050563,
+    "wof:geomhash":"f1f80a84ba4ec83e832dea0bd0e5caba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840903245
+        }
+    ],
+    "wof:id":840903245,
+    "wof:lastmodified":1464050563,
+    "wof:name":"New Age Plumbing",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.763815,
+    38.145695,
+    -85.763815,
+    38.145695
+],
+  "geometry": {"coordinates":[-85.76381499999999,38.145695],"type":"Point"}
+}

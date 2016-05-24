@@ -1,0 +1,73 @@
+{
+  "id": 840761643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.714124,37.06839,-88.714124,37.06839",
+    "geom:latitude":37.06839,
+    "geom:longitude":-88.714124,
+    "iso:country":"US",
+    "sg:address":"5705 US Hwy 60 W",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8363",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02B98WDgCbODvRcJUFs6dA_37.068390_-88.714124@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047384,
+    "wof:geomhash":"49f8b88b9d64ac8c67a3bab32ac4af7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840761643
+        }
+    ],
+    "wof:id":840761643,
+    "wof:lastmodified":1464047384,
+    "wof:name":"Paul Rowton Indoor Tennis Ctr",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -88.714124,
+    37.06839,
+    -88.714124,
+    37.06839
+],
+  "geometry": {"coordinates":[-88.714124,37.06839],"type":"Point"}
+}

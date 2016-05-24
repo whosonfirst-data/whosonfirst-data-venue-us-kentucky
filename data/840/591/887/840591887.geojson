@@ -1,0 +1,71 @@
+{
+  "id": 840591887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.853286,37.723692,-85.853286,37.723692",
+    "geom:latitude":37.723692,
+    "geom:longitude":-85.853286,
+    "iso:country":"US",
+    "sg:address":"426 Ridgecrest Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 1938",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ht6AilDLFv0P13BENt9od_37.723692_-85.853286@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043462,
+    "wof:geomhash":"43a6d72210c75cdfb56a8e71cc04f940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840591887
+        }
+    ],
+    "wof:id":840591887,
+    "wof:lastmodified":1464043462,
+    "wof:name":"A-1 Appliance Svc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -85.853286,
+    37.723692,
+    -85.853286,
+    37.723692
+],
+  "geometry": {"coordinates":[-85.853286,37.723692],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840801253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604762,38.155955,-85.604762,38.155955",
+    "geom:latitude":38.155955,
+    "geom:longitude":-85.604762,
+    "iso:country":"US",
+    "sg:address":"6213 Big Ben Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 495 1400",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57i2TIMkaekSC7iNADgvUk_38.155955_-85.604762@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048228,
+    "wof:geomhash":"9e04f5ce092f92f8c5991a9b1494ea7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840801253
+        }
+    ],
+    "wof:id":840801253,
+    "wof:lastmodified":1464048228,
+    "wof:name":"Lockouts Of Louisville",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -85.604762,
+    38.155955,
+    -85.604762,
+    38.155955
+],
+  "geometry": {"coordinates":[-85.60476199999999,38.155955],"type":"Point"}
+}

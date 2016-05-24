@@ -1,0 +1,68 @@
+{
+  "id": 840759769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643569,38.190203,-85.643569,38.190203",
+    "geom:latitude":38.190203,
+    "geom:longitude":-85.643569,
+    "iso:country":"US",
+    "sg:address":"4154 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 0439",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bX4yc7r8zSPImC3IMKnEt_38.190203_-85.643569@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047331,
+    "wof:geomhash":"f649688e23ed3e9643b9cb95a82c5b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840759769
+        }
+    ],
+    "wof:id":840759769,
+    "wof:lastmodified":1464047331,
+    "wof:name":"Thorntons Inc",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.643569,
+    38.190203,
+    -85.643569,
+    38.190203
+],
+  "geometry": {"coordinates":[-85.643569,38.190203],"type":"Point"}
+}

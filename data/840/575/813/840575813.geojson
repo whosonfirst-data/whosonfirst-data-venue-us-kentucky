@@ -1,0 +1,76 @@
+{
+  "id": 840575813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.767068,38.256278,-85.767068,38.256278",
+    "geom:latitude":38.256278,
+    "geom:longitude":-85.767068,
+    "iso:country":"US",
+    "sg:address":"1020 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 6606",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.thehealingplace.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OtfOI4r4sxOZGxC6FAp30_38.256278_-85.767068@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043120,
+    "wof:geomhash":"88d62f8796da45a286a44145a335dfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840575813
+        }
+    ],
+    "wof:id":840575813,
+    "wof:lastmodified":1464043120,
+    "wof:name":"Healing Place",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.767068,
+    38.256278,
+    -85.767068,
+    38.256278
+],
+  "geometry": {"coordinates":[-85.76706799999999,38.256278],"type":"Point"}
+}

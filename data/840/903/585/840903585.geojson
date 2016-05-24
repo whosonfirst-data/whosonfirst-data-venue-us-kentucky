@@ -1,0 +1,73 @@
+{
+  "id": 840903585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.693974,38.270756,-85.693974,38.270756",
+    "geom:latitude":38.270756,
+    "geom:longitude":-85.693974,
+    "iso:country":"US",
+    "sg:address":"700 Zorn Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 0335",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85808095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yw8ooe8w3j1Pav0iyNcZ2_38.270756_-85.693974@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050568,
+    "wof:geomhash":"6c56291ee85f03ac7dee7b1fc94585f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85808095,
+            "region_id":85688641,
+            "venue_id":840903585
+        }
+    ],
+    "wof:id":840903585,
+    "wof:lastmodified":1464050568,
+    "wof:name":"Greenleaves Apartments",
+    "wof:parent_id":85808095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.693974,
+    38.270756,
+    -85.693974,
+    38.270756
+],
+  "geometry": {"coordinates":[-85.693974,38.270756],"type":"Point"}
+}

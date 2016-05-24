@@ -1,0 +1,75 @@
+{
+  "id": 856738987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740159,38.252808,-85.740159,38.252808",
+    "geom:latitude":38.252808,
+    "geom:longitude":-85.740159,
+    "iso:country":"US",
+    "sg:address":"214 S Clay St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 581 0998",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kUY7NdLSRqcO1ibzmmABo_38.252808_-85.740159@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053342,
+    "wof:geomhash":"303fd938e45feb90f5f29fb8c94dd5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":856738987
+        }
+    ],
+    "wof:id":856738987,
+    "wof:lastmodified":1464053342,
+    "wof:name":"Bay Boutique",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -85.740159,
+    38.252808,
+    -85.740159,
+    38.252808
+],
+  "geometry": {"coordinates":[-85.74015900000001,38.252808],"type":"Point"}
+}

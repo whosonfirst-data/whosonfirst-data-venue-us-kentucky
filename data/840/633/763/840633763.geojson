@@ -1,0 +1,71 @@
+{
+  "id": 840633763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.567725,37.830899,-87.567725,37.830899",
+    "geom:latitude":37.830899,
+    "geom:longitude":-87.567725,
+    "iso:country":"US",
+    "sg:address":"1850 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 9206",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F6yNvlzeejpI5fPrsN6gK_37.830899_-87.567725@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044533,
+    "wof:geomhash":"c938608de119c50f866ae8182a6e29c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840633763
+        }
+    ],
+    "wof:id":840633763,
+    "wof:lastmodified":1464044533,
+    "wof:name":"Palmer's Market",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -87.567725,
+    37.830899,
+    -87.567725,
+    37.830899
+],
+  "geometry": {"coordinates":[-87.567725,37.830899],"type":"Point"}
+}

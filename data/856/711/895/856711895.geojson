@@ -1,0 +1,76 @@
+{
+  "id": 856711895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632904,38.283213,-85.632904,38.283213",
+    "geom:latitude":38.283213,
+    "geom:longitude":-85.632904,
+    "iso:country":"US",
+    "sg:address":"4942 US Hwy 42",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 339 8333",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "sg:website":"www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ius2HgTZPxqq6S5JUchqi_38.283213_-85.632904@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052304,
+    "wof:geomhash":"646cdd442dde90d99b6db3bf724efc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856711895
+        }
+    ],
+    "wof:id":856711895,
+    "wof:lastmodified":1464052304,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -85.632904,
+    38.283213,
+    -85.632904,
+    38.283213
+],
+  "geometry": {"coordinates":[-85.632904,38.283213],"type":"Point"}
+}

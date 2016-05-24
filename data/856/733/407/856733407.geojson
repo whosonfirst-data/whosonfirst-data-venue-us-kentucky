@@ -1,0 +1,74 @@
+{
+  "id": 856733407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.578927,38.225572,-85.578927,38.225572",
+    "geom:latitude":38.225572,
+    "geom:longitude":-85.578927,
+    "iso:country":"US",
+    "sg:address":"9800 Blairwood Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/136345-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 423 0967",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f1t92W8plC2o53tNjDuPu_38.225572_-85.578927@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053123,
+    "wof:geomhash":"cd40d165762110227ecac92f9f322225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856733407
+        }
+    ],
+    "wof:id":856733407,
+    "wof:lastmodified":1464053123,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.578927,
+    38.225572,
+    -85.578927,
+    38.225572
+],
+  "geometry": {"coordinates":[-85.57892699999999,38.225572],"type":"Point"}
+}

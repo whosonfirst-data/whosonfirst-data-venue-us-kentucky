@@ -1,0 +1,71 @@
+{
+  "id": 840682591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440578,36.992723,-86.440578,36.992723",
+    "geom:latitude":36.992723,
+    "geom:longitude":-86.440578,
+    "iso:country":"US",
+    "sg:address":"908 State St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 2500",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LC6i3bQuhKM37WvBWJFeE_36.992723_-86.440578@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045638,
+    "wof:geomhash":"69377c2ca2a501912705f794619ce3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840682591
+        }
+    ],
+    "wof:id":840682591,
+    "wof:lastmodified":1464045638,
+    "wof:name":"Pierce Simpson & Shadoan",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -86.440578,
+    36.992723,
+    -86.440578,
+    36.992723
+],
+  "geometry": {"coordinates":[-86.440578,36.992723],"type":"Point"}
+}

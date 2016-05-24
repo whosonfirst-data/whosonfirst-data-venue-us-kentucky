@@ -1,0 +1,76 @@
+{
+  "id": 840602563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.451968,36.979253,-86.451968,36.979253",
+    "geom:latitude":36.979253,
+    "geom:longitude":-86.451968,
+    "iso:country":"US",
+    "sg:address":"1727 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 8730",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wggc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bGBIWQPZxa4i4MjxKnVYo_36.979253_-86.451968@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043715,
+    "wof:geomhash":"71cd745da3a11d1e900dba1c4dd2947e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840602563
+        }
+    ],
+    "wof:id":840602563,
+    "wof:lastmodified":1464043715,
+    "wof:name":"WGGC",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -86.451968,
+    36.979253,
+    -86.451968,
+    36.979253
+],
+  "geometry": {"coordinates":[-86.45196799999999,36.979253],"type":"Point"}
+}

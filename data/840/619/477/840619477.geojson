@@ -1,0 +1,71 @@
+{
+  "id": 840619477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.209744,37.044348,-86.209744,37.044348",
+    "geom:latitude":37.044348,
+    "geom:longitude":-86.209744,
+    "iso:country":"US",
+    "sg:address":"619 S Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 4799",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GXO53kJnKdS9qxhAHcAAe_37.044348_-86.209744@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044153,
+    "wof:geomhash":"1ce8c04e8239a783d793dd3f577f3210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840619477
+        }
+    ],
+    "wof:id":840619477,
+    "wof:lastmodified":1464044153,
+    "wof:name":"CPM",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -86.209744,
+    37.044348,
+    -86.209744,
+    37.044348
+],
+  "geometry": {"coordinates":[-86.209744,37.044348],"type":"Point"}
+}

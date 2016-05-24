@@ -1,0 +1,74 @@
+{
+  "id": 856732529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.75804,38.24813,-85.75804,38.24813",
+    "geom:latitude":38.24813,
+    "geom:longitude":-85.75804,
+    "iso:country":"US",
+    "sg:address":"660 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/36097-bluegrass-brewing-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 568 2224",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75r9q7X99XzQsjYkZwO4o9_38.248130_-85.758040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053093,
+    "wof:geomhash":"bb3ac97c046ec200ca97348985c8526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873391,
+            "region_id":85688641,
+            "venue_id":856732529
+        }
+    ],
+    "wof:id":856732529,
+    "wof:lastmodified":1464053093,
+    "wof:name":"Bluegrass Brewing Co.",
+    "wof:parent_id":85873391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -85.75804,
+    38.24813,
+    -85.75804,
+    38.24813
+],
+  "geometry": {"coordinates":[-85.75803999999999,38.24813],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840828683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880482,37.700672,-85.880482,37.700672",
+    "geom:latitude":37.700672,
+    "geom:longitude":-85.880482,
+    "iso:country":"US",
+    "sg:address":"589 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2273",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eC6MG0vhceEEPNTyic8xa_37.700672_-85.880482@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048976,
+    "wof:geomhash":"099e00afad47c5e351fe3d9fee4f9c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840828683
+        }
+    ],
+    "wof:id":840828683,
+    "wof:lastmodified":1464048976,
+    "wof:name":"Natural Resources Conservation",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -85.880482,
+    37.700672,
+    -85.880482,
+    37.700672
+],
+  "geometry": {"coordinates":[-85.880482,37.700672],"type":"Point"}
+}

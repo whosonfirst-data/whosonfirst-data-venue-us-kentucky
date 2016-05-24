@@ -1,0 +1,83 @@
+{
+  "id": 856748101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.605942,38.248779,-85.605942,38.248779",
+    "geom:latitude":38.248779,
+    "geom:longitude":-85.605942,
+    "iso:country":"US",
+    "sg:address":"8016 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 6916",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.kindercare.com/our-centers/center-details/300416/?cid=YP_KC300416",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ul0QD381WYvqTBGNWjcsl_38.248779_-85.605942@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053679,
+    "wof:geomhash":"b46f05e73e5ed80651c527d4d03fcff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748101
+        }
+    ],
+    "wof:id":856748101,
+    "wof:lastmodified":1464053679,
+    "wof:name":"Shelbyville KinderCare",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -85.605942,
+    38.248779,
+    -85.605942,
+    38.248779
+],
+  "geometry": {"coordinates":[-85.605942,38.248779],"type":"Point"}
+}

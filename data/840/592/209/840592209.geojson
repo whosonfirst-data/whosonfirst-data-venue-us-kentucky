@@ -1,0 +1,71 @@
+{
+  "id": 840592209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.886509,36.498705,-88.886509,36.498705",
+    "geom:latitude":36.498705,
+    "geom:longitude":-88.886509,
+    "iso:country":"US",
+    "sg:address":"722 Key St",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 3877",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kLX9ZUq5sw5tx5Jiphcyb_36.498705_-88.886509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043472,
+    "wof:geomhash":"761aaedfd793edc81ed10dc29b5fb58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840592209
+        }
+    ],
+    "wof:id":840592209,
+    "wof:lastmodified":1464043472,
+    "wof:name":"South Side Manor Apartments",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -88.886509,
+    36.498705,
+    -88.886509,
+    36.498705
+],
+  "geometry": {"coordinates":[-88.886509,36.498705],"type":"Point"}
+}

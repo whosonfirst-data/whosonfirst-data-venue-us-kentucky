@@ -1,0 +1,74 @@
+{
+  "id": 856718953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.880594,37.700568,-85.880594,37.700568",
+    "geom:latitude":37.700568,
+    "geom:longitude":-85.880594,
+    "iso:country":"US",
+    "sg:address":"584 Westport Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2535",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.arthritis123.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tSlwzT0JdsIibEPF63OBC_37.700568_-85.880594@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052545,
+    "wof:geomhash":"72c4587ddf63b8cd8592a0ab6f97b8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856718953
+        }
+    ],
+    "wof:id":856718953,
+    "wof:lastmodified":1464052545,
+    "wof:name":"Center For Arthritis",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.880594,
+    37.700568,
+    -85.880594,
+    37.700568
+],
+  "geometry": {"coordinates":[-85.880594,37.700568],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 856741973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.734612,38.256052,-85.734612,38.256052",
+    "geom:latitude":38.256052,
+    "geom:longitude":-85.734612,
+    "iso:country":"US",
+    "sg:address":"943 Franklin St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Sauna",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 6925",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "supply",
+        "tubs-repair",
+        "equipment",
+        "hot",
+        "spa"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iy7Pwzf9quKn8zO9W3KTU_38.256052_-85.734612@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053456,
+    "wof:geomhash":"6e1d5c77e8392349bc893cbde7624e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866955,
+            "region_id":85688641,
+            "venue_id":856741973
+        }
+    ],
+    "wof:id":856741973,
+    "wof:lastmodified":1464053456,
+    "wof:name":"Royal Pools of Kentucky",
+    "wof:parent_id":85866955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "supply",
+        "tubs-repair",
+        "equipment",
+        "hot",
+        "spa"
+    ]
+},
+  "bbox": [
+    -85.734612,
+    38.256052,
+    -85.734612,
+    38.256052
+],
+  "geometry": {"coordinates":[-85.734612,38.256052],"type":"Point"}
+}

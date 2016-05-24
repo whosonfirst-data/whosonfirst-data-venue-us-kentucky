@@ -1,0 +1,71 @@
+{
+  "id": 840681451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.692539,37.063535,-88.692539,37.063535",
+    "geom:latitude":37.063535,
+    "geom:longitude":-88.692539,
+    "iso:country":"US",
+    "sg:address":"2404 Holt Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 9974",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AVDE7t7Ie1budBYEyhWjL_37.063535_-88.692539@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045610,
+    "wof:geomhash":"3f632a2689b6c48198bf693db0ace899",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840681451
+        }
+    ],
+    "wof:id":840681451,
+    "wof:lastmodified":1464045610,
+    "wof:name":"Divine Expressions",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.692539,
+    37.063535,
+    -88.692539,
+    37.063535
+],
+  "geometry": {"coordinates":[-88.692539,37.063535],"type":"Point"}
+}

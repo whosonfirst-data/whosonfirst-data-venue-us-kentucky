@@ -1,0 +1,73 @@
+{
+  "id": 840759109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.602329,37.033499,-88.602329,37.033499",
+    "geom:latitude":37.033499,
+    "geom:longitude":-88.602329,
+    "iso:country":"US",
+    "sg:address":"1701 Lane Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8565",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yFMPjHk6XYfdFxgH7IE45_37.033499_-88.602329@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047312,
+    "wof:geomhash":"6155642228996088c58ebbfc807d94de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840759109
+        }
+    ],
+    "wof:id":840759109,
+    "wof:lastmodified":1464047312,
+    "wof:name":"Veristar Of Paducah",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -88.602329,
+    37.033499,
+    -88.602329,
+    37.033499
+],
+  "geometry": {"coordinates":[-88.602329,37.033499],"type":"Point"}
+}

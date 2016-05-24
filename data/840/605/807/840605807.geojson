@@ -1,0 +1,73 @@
+{
+  "id": 840605807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879911,37.720046,-85.879911,37.720046",
+    "geom:latitude":37.720046,
+    "geom:longitude":-85.879911,
+    "iso:country":"US",
+    "sg:address":"1311 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 739 5100",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzFFs3K7UPtricZzUe815_37.720046_-85.879911@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043794,
+    "wof:geomhash":"7045dfb1fc7a36160bf4d2b702064074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840605807
+        }
+    ],
+    "wof:id":840605807,
+    "wof:lastmodified":1464043794,
+    "wof:name":"Home Satellite",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -85.879911,
+    37.720046,
+    -85.879911,
+    37.720046
+],
+  "geometry": {"coordinates":[-85.87991100000001,37.720046],"type":"Point"}
+}

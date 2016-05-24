@@ -1,0 +1,73 @@
+{
+  "id": 856740493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.755972,38.240743,-85.755972,38.240743",
+    "geom:latitude":38.240743,
+    "geom:longitude":-85.755972,
+    "iso:country":"US",
+    "sg:address":"927 S 2nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 8000",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MR8YHvJQIBGexBKnwACr2_38.240743_-85.755972@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053406,
+    "wof:geomhash":"b375abac0e5473efec742f01ae88afda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856740493
+        }
+    ],
+    "wof:id":856740493,
+    "wof:lastmodified":1464053406,
+    "wof:name":"Super 8 Louisville Downtown",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.755972,
+    38.240743,
+    -85.755972,
+    38.240743
+],
+  "geometry": {"coordinates":[-85.755972,38.240743],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856714017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.628939,37.098084,-88.628939,37.098084",
+    "geom:latitude":37.098084,
+    "geom:longitude":-88.628939,
+    "iso:country":"US",
+    "sg:address":"1928 N 8th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7308",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g0GRdTCByCQwDgTh710lZ_37.098084_-88.628939@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052356,
+    "wof:geomhash":"791100888596afa19fe325e205340938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856714017
+        }
+    ],
+    "wof:id":856714017,
+    "wof:lastmodified":1464052356,
+    "wof:name":"Tilford Contractors",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.628939,
+    37.098084,
+    -88.628939,
+    37.098084
+],
+  "geometry": {"coordinates":[-88.628939,37.098084],"type":"Point"}
+}

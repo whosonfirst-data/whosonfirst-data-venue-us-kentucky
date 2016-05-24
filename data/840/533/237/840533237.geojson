@@ -1,0 +1,74 @@
+{
+  "id": 840533237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508932,39.084362,-84.508932,39.084362",
+    "geom:latitude":39.084362,
+    "geom:longitude":-84.508932,
+    "iso:country":"US",
+    "sg:address":"19 E Pike St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 491 1348",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.northkey.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28f1RpDsxnrQ0vpLZt7SQ8_39.084362_-84.508932@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042053,
+    "wof:geomhash":"9e540337ee44f2aacb150b46e8f12292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":840533237
+        }
+    ],
+    "wof:id":840533237,
+    "wof:lastmodified":1464042053,
+    "wof:name":"North Key Community Care",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.508932,
+    39.084362,
+    -84.508932,
+    39.084362
+],
+  "geometry": {"coordinates":[-84.508932,39.084362],"type":"Point"}
+}

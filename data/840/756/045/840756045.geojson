@@ -1,0 +1,85 @@
+{
+  "id": 840756045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.584273,38.271621,-85.584273,38.271621",
+    "geom:latitude":38.271621,
+    "geom:longitude":-85.584273,
+    "iso:country":"US",
+    "sg:address":"1801 Roosevelt Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 6352",
+    "sg:postcode":"40242",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xdUCkCxUZMRBNtVCKItxF_38.271621_-85.584273@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047236,
+    "wof:geomhash":"fa87d6d2d04ce1cbb1db8dcae0463fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840756045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840756045
+        }
+    ],
+    "wof:id":840756045,
+    "wof:lastmodified":1464047236,
+    "wof:name":"Unlimited Landscapes Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.584273,
+    38.271621,
+    -85.584273,
+    38.271621
+],
+  "geometry": {"coordinates":[-85.584273,38.271621],"type":"Point"}
+}

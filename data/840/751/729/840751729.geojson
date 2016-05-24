@@ -1,0 +1,73 @@
+{
+  "id": 840751729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.286011,37.74294,-84.286011,37.74294",
+    "geom:latitude":37.74294,
+    "geom:longitude":-84.286011,
+    "iso:country":"US",
+    "sg:address":"120 Big Hill Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 9595",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AOVI69Rf1HAgKG0IdQNz9_37.742940_-84.286011@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047143,
+    "wof:geomhash":"f8a6f15e8d805f7104639717c5ef0187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840751729
+        }
+    ],
+    "wof:id":840751729,
+    "wof:lastmodified":1464047143,
+    "wof:name":"Greene's Appliance Svc",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.286011,
+    37.74294,
+    -84.286011,
+    37.74294
+],
+  "geometry": {"coordinates":[-84.286011,37.74294],"type":"Point"}
+}

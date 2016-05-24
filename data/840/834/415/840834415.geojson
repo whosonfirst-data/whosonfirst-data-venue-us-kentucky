@@ -1,0 +1,71 @@
+{
+  "id": 840834415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.590418,37.815128,-87.590418,37.815128",
+    "geom:latitude":37.815128,
+    "geom:longitude":-87.590418,
+    "iso:country":"US",
+    "sg:address":"1500 Commonwealth Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 1701",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CqU156OpNfrNwSBSo5zWw_37.815128_-87.590418@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049100,
+    "wof:geomhash":"fd050e38bb8d344f9f621b249f0569ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840834415
+        }
+    ],
+    "wof:id":840834415,
+    "wof:lastmodified":1464049100,
+    "wof:name":"Construction Site",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.590418,
+    37.815128,
+    -87.590418,
+    37.815128
+],
+  "geometry": {"coordinates":[-87.590418,37.815128],"type":"Point"}
+}

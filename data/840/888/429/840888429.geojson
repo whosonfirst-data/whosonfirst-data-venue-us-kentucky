@@ -1,0 +1,73 @@
+{
+  "id": 840888429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.641968,37.072852,-88.641968,37.072852",
+    "geom:latitude":37.072852,
+    "geom:longitude":-88.641968,
+    "iso:country":"US",
+    "sg:address":"3263 Madison St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 362 3044",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "full"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03kVVXbyPNrBeUV0puvFvJ_37.072852_-88.641968@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050247,
+    "wof:geomhash":"01d11aeb51967442326f674bfdb0da2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840888429
+        }
+    ],
+    "wof:id":840888429,
+    "wof:lastmodified":1464050247,
+    "wof:name":"Barts Bikes & Skateboards",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "full"
+    ]
+},
+  "bbox": [
+    -88.641968,
+    37.072852,
+    -88.641968,
+    37.072852
+],
+  "geometry": {"coordinates":[-88.64196800000001,37.072852],"type":"Point"}
+}

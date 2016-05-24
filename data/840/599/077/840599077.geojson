@@ -1,0 +1,71 @@
+{
+  "id": 840599077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.421949,36.954436,-86.421949,36.954436",
+    "geom:latitude":36.954436,
+    "geom:longitude":-86.421949,
+    "iso:country":"US",
+    "sg:address":"1045 Lovers Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 9902",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KBrNA6XJBCClDmLCvmx3D_36.954436_-86.421949@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043641,
+    "wof:geomhash":"162877f09733ec214fe2869a701e8037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840599077
+        }
+    ],
+    "wof:id":840599077,
+    "wof:lastmodified":1464043641,
+    "wof:name":"IFS Software",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -86.421949,
+    36.954436,
+    -86.421949,
+    36.954436
+],
+  "geometry": {"coordinates":[-86.421949,36.954436],"type":"Point"}
+}

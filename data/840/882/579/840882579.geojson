@@ -1,0 +1,75 @@
+{
+  "id": 840882579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.454393,38.017254,-84.454393,38.017254",
+    "geom:latitude":38.017254,
+    "geom:longitude":-84.454393,
+    "iso:country":"US",
+    "sg:address":"2392 Woodhill Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 266 0299",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hospital",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E47Wxo67OVF6UIBXfG8Mc_38.017254_-84.454393@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050122,
+    "wof:geomhash":"79bb993953497e23f2a7ee9e4cd55bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873047,
+            "region_id":85688641,
+            "venue_id":840882579
+        }
+    ],
+    "wof:id":840882579,
+    "wof:lastmodified":1464050122,
+    "wof:name":"United Equipment",
+    "wof:parent_id":85873047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.454393,
+    38.017254,
+    -84.454393,
+    38.017254
+],
+  "geometry": {"coordinates":[-84.454393,38.017254],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856719307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.409952,36.980628,-86.409952,36.980628",
+    "geom:latitude":36.980628,
+    "geom:longitude":-86.409952,
+    "iso:country":"US",
+    "sg:address":"840 Ironwood Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 5883",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27CCLKdDufjGTqaY5P5gBz_36.980628_-86.409952@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052562,
+    "wof:geomhash":"b4e1f25094e56cab35e41c2096b97f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":856719307
+        }
+    ],
+    "wof:id":856719307,
+    "wof:lastmodified":1464052562,
+    "wof:name":"Communication Association",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.409952,
+    36.980628,
+    -86.409952,
+    36.980628
+],
+  "geometry": {"coordinates":[-86.409952,36.980628],"type":"Point"}
+}

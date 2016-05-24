@@ -1,0 +1,71 @@
+{
+  "id": 840598873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55859,38.21241,-84.55859,38.21241",
+    "geom:latitude":38.21241,
+    "geom:longitude":-84.55859,
+    "iso:country":"US",
+    "sg:address":"210 N Court St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 2885",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hFZLCZAUeD3TVnujy0U5Z_38.212410_-84.558590@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043632,
+    "wof:geomhash":"8bbfdc3b483d18e291a6e718aa3759b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840598873
+        }
+    ],
+    "wof:id":840598873,
+    "wof:lastmodified":1464043632,
+    "wof:name":"Riffee Construction",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.55859,
+    38.21241,
+    -84.55859,
+    38.21241
+],
+  "geometry": {"coordinates":[-84.55859,38.21241],"type":"Point"}
+}

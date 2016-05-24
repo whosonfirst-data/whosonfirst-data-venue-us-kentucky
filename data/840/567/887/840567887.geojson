@@ -1,0 +1,71 @@
+{
+  "id": 840567887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.571598,37.832406,-87.571598,37.832406",
+    "geom:latitude":37.832406,
+    "geom:longitude":-87.571598,
+    "iso:country":"US",
+    "sg:address":"1600 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 3014",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eTguG3tPNrOtHtevcYXjv_37.832406_-87.571598@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042926,
+    "wof:geomhash":"03ed62c2e2b86d7a216b5a26288bc47f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840567887
+        }
+    ],
+    "wof:id":840567887,
+    "wof:lastmodified":1464042926,
+    "wof:name":"Sureway Food Store",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.571598,
+    37.832406,
+    -87.571598,
+    37.832406
+],
+  "geometry": {"coordinates":[-87.57159799999999,37.832406],"type":"Point"}
+}

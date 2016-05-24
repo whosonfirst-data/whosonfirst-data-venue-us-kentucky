@@ -1,0 +1,78 @@
+{
+  "id": 856743245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.654256,38.257759,-85.654256,38.257759",
+    "geom:latitude":38.257759,
+    "geom:longitude":-85.654256,
+    "iso:country":"US",
+    "sg:address":"189 Saint Matthews Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 2807",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nR3Fgw0LLUTOfbTdsIpxF_38.257759_-85.654256@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053503,
+    "wof:geomhash":"6111cee792d042fe3e798bc053227034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856743245
+        }
+    ],
+    "wof:id":856743245,
+    "wof:lastmodified":1464053503,
+    "wof:name":"Betty's Bakery Inc",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -85.654256,
+    38.257759,
+    -85.654256,
+    38.257759
+],
+  "geometry": {"coordinates":[-85.654256,38.257759],"type":"Point"}
+}

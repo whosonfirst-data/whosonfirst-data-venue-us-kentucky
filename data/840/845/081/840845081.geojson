@@ -1,0 +1,73 @@
+{
+  "id": 840845081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.453912,37.008743,-86.453912,37.008743",
+    "geom:latitude":37.008743,
+    "geom:longitude":-86.453912,
+    "iso:country":"US",
+    "sg:address":"1169 Preston Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0781",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XlrIRHhxvpZEqtZirSbO1_37.008743_-86.453912@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049331,
+    "wof:geomhash":"ac771b8f64c637b8e9a1fccb39e76504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840845081
+        }
+    ],
+    "wof:id":840845081,
+    "wof:lastmodified":1464049331,
+    "wof:name":"Monarch Environmental",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.453912,
+    37.008743,
+    -86.453912,
+    37.008743
+],
+  "geometry": {"coordinates":[-86.453912,37.008743],"type":"Point"}
+}

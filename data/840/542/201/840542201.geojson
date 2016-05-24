@@ -1,0 +1,73 @@
+{
+  "id": 840542201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561055,38.19806,-84.561055,38.19806",
+    "geom:latitude":38.19806,
+    "geom:longitude":-84.561055,
+    "iso:country":"US",
+    "sg:address":"731 S Broadway St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 868 0439",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56DQmGQi9VN9l8EEusfiom_38.198060_-84.561055@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042277,
+    "wof:geomhash":"5b3c2d6404dc6d9ba71b118be2cf4907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840542201
+        }
+    ],
+    "wof:id":840542201,
+    "wof:lastmodified":1464042277,
+    "wof:name":"E-Tax",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -84.561055,
+    38.19806,
+    -84.561055,
+    38.19806
+],
+  "geometry": {"coordinates":[-84.561055,38.19806],"type":"Point"}
+}

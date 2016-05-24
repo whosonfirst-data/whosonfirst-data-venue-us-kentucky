@@ -1,0 +1,71 @@
+{
+  "id": 840914105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.964424,37.716003,-85.964424,37.716003",
+    "geom:latitude":37.716003,
+    "geom:longitude":-85.964424,
+    "iso:country":"US",
+    "sg:address":"412 House Ln",
+    "sg:city":"Burkesville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 864 3891",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u66pY5DsVgyF4qt2FKkcg_37.716003_-85.964424@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050852,
+    "wof:geomhash":"ebd30b676859ab40ba081d229b697219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840914105
+        }
+    ],
+    "wof:id":840914105,
+    "wof:lastmodified":1464050852,
+    "wof:name":"Cumberland County News",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -85.964424,
+    37.716003,
+    -85.964424,
+    37.716003
+],
+  "geometry": {"coordinates":[-85.96442399999999,37.716003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840643981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.430751,36.953241,-86.430751,36.953241",
+    "geom:latitude":36.953241,
+    "geom:longitude":-86.430751,
+    "iso:country":"US",
+    "sg:address":"1805 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 6596",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carrier",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MvS4ZRxvdSn5Oxo6rdDb8_36.953241_-86.430751@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044763,
+    "wof:geomhash":"916c631f1358b83592571a42db0b9bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840643981
+        }
+    ],
+    "wof:id":840643981,
+    "wof:lastmodified":1464044763,
+    "wof:name":"Us Government Fdic",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "government"
+    ]
+},
+  "bbox": [
+    -86.430751,
+    36.953241,
+    -86.430751,
+    36.953241
+],
+  "geometry": {"coordinates":[-86.430751,36.953241],"type":"Point"}
+}

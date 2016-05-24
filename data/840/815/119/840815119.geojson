@@ -1,0 +1,71 @@
+{
+  "id": 840815119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445765,36.999846,-86.445765,36.999846",
+    "geom:latitude":36.999846,
+    "geom:longitude":-86.445765,
+    "iso:country":"US",
+    "sg:address":"209 Gordon Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7753",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ntB7fOoPVj1Zt8Ip5mPJb_36.999846_-86.445765@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048618,
+    "wof:geomhash":"1220a284921630a99c32e2b4cf0ddec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840815119
+        }
+    ],
+    "wof:id":840815119,
+    "wof:lastmodified":1464048618,
+    "wof:name":"Jerry's Citgo",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.445765,
+    36.999846,
+    -86.445765,
+    36.999846
+],
+  "geometry": {"coordinates":[-86.44576499999999,36.999846],"type":"Point"}
+}

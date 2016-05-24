@@ -1,0 +1,71 @@
+{
+  "id": 840920959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.698292,37.049496,-88.698292,37.049496",
+    "geom:latitude":37.049496,
+    "geom:longitude":-88.698292,
+    "iso:country":"US",
+    "sg:address":"6500 Turnberry Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 4609",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EoDfsbE9t8eZdpX9LHZhW_37.049496_-88.698292@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051024,
+    "wof:geomhash":"a64f165a5290cc3114052a435a2683c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840920959
+        }
+    ],
+    "wof:id":840920959,
+    "wof:lastmodified":1464051024,
+    "wof:name":"Country Club Of Paducah Inc",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -88.698292,
+    37.049496,
+    -88.698292,
+    37.049496
+],
+  "geometry": {"coordinates":[-88.698292,37.049496],"type":"Point"}
+}

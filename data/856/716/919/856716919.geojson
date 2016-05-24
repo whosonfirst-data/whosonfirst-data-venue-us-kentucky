@@ -1,0 +1,74 @@
+{
+  "id": 856716919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.563393,37.048149,-88.563393,37.048149",
+    "geom:latitude":37.048149,
+    "geom:longitude":-88.563393,
+    "iso:country":"US",
+    "sg:address":"3515 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 3922",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "sg:website":"www.libertytax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hbj81e2FwaMltX3nS3Q59_37.048149_-88.563393@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052465,
+    "wof:geomhash":"3a18c2838675802a0d96110bd841b69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856716919
+        }
+    ],
+    "wof:id":856716919,
+    "wof:lastmodified":1464052465,
+    "wof:name":"Liberty Tax Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -88.563393,
+    37.048149,
+    -88.563393,
+    37.048149
+],
+  "geometry": {"coordinates":[-88.563393,37.048149],"type":"Point"}
+}

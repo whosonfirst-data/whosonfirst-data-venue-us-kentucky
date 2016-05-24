@@ -1,0 +1,83 @@
+{
+  "id": 856741253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678352,38.21854,-85.678352,38.21854",
+    "geom:latitude":38.21854,
+    "geom:longitude":-85.678352,
+    "iso:country":"US",
+    "sg:address":"2801 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 2200",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.republicbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DzjM8PYh5QOfp8jLiqNo5_38.218540_-85.678352@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053432,
+    "wof:geomhash":"75a5fa38c075dc11b2d59f853f9c5e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856741253
+        }
+    ],
+    "wof:id":856741253,
+    "wof:lastmodified":1464053432,
+    "wof:name":"Republic Bank",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.678352,
+    38.21854,
+    -85.678352,
+    38.21854
+],
+  "geometry": {"coordinates":[-85.678352,38.21854],"type":"Point"}
+}

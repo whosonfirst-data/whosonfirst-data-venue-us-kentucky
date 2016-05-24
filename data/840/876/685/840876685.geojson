@@ -1,0 +1,75 @@
+{
+  "id": 840876685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582667,37.837075,-87.582667,37.837075",
+    "geom:latitude":37.837075,
+    "geom:longitude":-87.582667,
+    "iso:country":"US",
+    "sg:address":"802 2nd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 2530",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s6dP57xDEY6O1Hg2uhHq0_37.837075_-87.582667@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049985,
+    "wof:geomhash":"f670e872b55d3a8f47c5e07eaa424a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840876685
+        }
+    ],
+    "wof:id":840876685,
+    "wof:lastmodified":1464049985,
+    "wof:name":"Groom Master",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.582667,
+    37.837075,
+    -87.582667,
+    37.837075
+],
+  "geometry": {"coordinates":[-87.582667,37.837075],"type":"Point"}
+}

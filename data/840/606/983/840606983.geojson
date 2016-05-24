@@ -1,0 +1,73 @@
+{
+  "id": 840606983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.325669,36.617735,-88.325669,36.617735",
+    "geom:latitude":36.617735,
+    "geom:longitude":-88.325669,
+    "iso:country":"US",
+    "sg:address":"847 Coldwater Rd",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 762 0441",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Czu1dcp30Q9H27oG50kQf_36.617735_-88.325669@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043826,
+    "wof:geomhash":"c977f05a64b8ad391f43bff30a2ae698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840606983
+        }
+    ],
+    "wof:id":840606983,
+    "wof:lastmodified":1464043826,
+    "wof:name":"Baldy's Grill",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -88.325669,
+    36.617735,
+    -88.325669,
+    36.617735
+],
+  "geometry": {"coordinates":[-88.325669,36.617735],"type":"Point"}
+}

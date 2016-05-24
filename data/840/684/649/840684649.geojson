@@ -1,0 +1,71 @@
+{
+  "id": 840684649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472558,38.323193,-85.472558,38.323193",
+    "geom:latitude":38.323193,
+    "geom:longitude":-85.472558,
+    "iso:country":"US",
+    "sg:address":"6462 W Hwy 146",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 0129",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IkC2HhvFRaNZIuP2Nmecd_38.323193_-85.472558@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045679,
+    "wof:geomhash":"b7c7863c84e1cc9dc75e6e05e3395ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840684649
+        }
+    ],
+    "wof:id":840684649,
+    "wof:lastmodified":1464045679,
+    "wof:name":"Reardon's Fruit Market",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.472558,
+    38.323193,
+    -85.472558,
+    38.323193
+],
+  "geometry": {"coordinates":[-85.47255800000001,38.323193],"type":"Point"}
+}

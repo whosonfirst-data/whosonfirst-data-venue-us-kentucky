@@ -1,0 +1,71 @@
+{
+  "id": 840823969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.861787,37.691547,-85.861787,37.691547",
+    "geom:latitude":37.691547,
+    "geom:longitude":-85.861787,
+    "iso:country":"US",
+    "sg:address":"226 College St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7625",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MY6zoviMKEUIql6A18DRy_37.691547_-85.861787@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048871,
+    "wof:geomhash":"863466bac5f5619c26af171af0c0fe99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840823969
+        }
+    ],
+    "wof:id":840823969,
+    "wof:lastmodified":1464048871,
+    "wof:name":"Revival Outreach Ctr-Kentucky",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.861787,
+    37.691547,
+    -85.861787,
+    37.691547
+],
+  "geometry": {"coordinates":[-85.86178700000001,37.691547],"type":"Point"}
+}

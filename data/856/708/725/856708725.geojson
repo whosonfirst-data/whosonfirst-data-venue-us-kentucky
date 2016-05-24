@@ -1,0 +1,71 @@
+{
+  "id": 856708725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.159766,37.505601,-82.159766,37.505601",
+    "geom:latitude":37.505601,
+    "geom:longitude":-82.159766,
+    "iso:country":"US",
+    "sg:address":"13400 Phelps 632 Rd",
+    "sg:city":"Phelps",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 7970",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vnGk8VZXAjWfR2EK6WwQK_37.505601_-82.159766@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052242,
+    "wof:geomhash":"0a0c1d36eb79e3ea78255b0fd236bf48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":856708725
+        }
+    ],
+    "wof:id":856708725,
+    "wof:lastmodified":1464052242,
+    "wof:name":"Pikeville Mining Tire Sales",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -82.159766,
+    37.505601,
+    -82.159766,
+    37.505601
+],
+  "geometry": {"coordinates":[-82.159766,37.505601],"type":"Point"}
+}

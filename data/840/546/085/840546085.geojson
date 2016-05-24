@@ -1,0 +1,71 @@
+{
+  "id": 840546085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.606842,37.08741,-84.606842,37.08741",
+    "geom:latitude":37.08741,
+    "geom:longitude":-84.606842,
+    "iso:country":"US",
+    "sg:address":"404 S Main St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 3356",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09P3FFKio8TViWxpzeTHVM_37.087410_-84.606842@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042403,
+    "wof:geomhash":"5bb95b43c5b5b6a89266bf2b02f1d600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840546085
+        }
+    ],
+    "wof:id":840546085,
+    "wof:lastmodified":1464042403,
+    "wof:name":"Trinity Medical LLC",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.606842,
+    37.08741,
+    -84.606842,
+    37.08741
+],
+  "geometry": {"coordinates":[-84.606842,37.08741],"type":"Point"}
+}

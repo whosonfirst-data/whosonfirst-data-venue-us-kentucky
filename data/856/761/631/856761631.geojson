@@ -1,0 +1,72 @@
+{
+  "id": 856761631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.59267,37.012903,-88.59267,37.012903",
+    "geom:latitude":37.012903,
+    "geom:longitude":-88.59267,
+    "iso:country":"US",
+    "sg:address":"1250 Husband Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 538 4170",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.mccracken.k12.ky.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DvL9liokcA8IH96ofMwg1_37.012903_-88.592670@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054183,
+    "wof:geomhash":"e540f834085ca800d9158e96d1e9214b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761631
+        }
+    ],
+    "wof:id":856761631,
+    "wof:lastmodified":1464054183,
+    "wof:name":"Farley Elementary School",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -88.59267,
+    37.012903,
+    -88.59267,
+    37.012903
+],
+  "geometry": {"coordinates":[-88.59267,37.012903],"type":"Point"}
+}

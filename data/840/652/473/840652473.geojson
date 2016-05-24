@@ -1,0 +1,75 @@
+{
+  "id": 840652473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.768251,38.182125,-85.768251,38.182125",
+    "geom:latitude":38.182125,
+    "geom:longitude":-85.768251,
+    "iso:country":"US",
+    "sg:address":"4626 Southern Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 375 0910",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71zwNuMyEehEbH80ThNSeL_38.182125_-85.768251@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044942,
+    "wof:geomhash":"9dea9515515f1e6f007ab951cd0996df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":840652473
+        }
+    ],
+    "wof:id":840652473,
+    "wof:lastmodified":1464044942,
+    "wof:name":"Montleone Apts",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.768251,
+    38.182125,
+    -85.768251,
+    38.182125
+],
+  "geometry": {"coordinates":[-85.76825100000001,38.182125],"type":"Point"}
+}

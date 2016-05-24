@@ -1,0 +1,73 @@
+{
+  "id": 840755567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.560563,37.047724,-88.560563,37.047724",
+    "geom:latitude":37.047724,
+    "geom:longitude":-88.560563,
+    "iso:country":"US",
+    "sg:address":"3711 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0401",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q3ST3yPveYzsil4eHewUp_37.047724_-88.560563@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047228,
+    "wof:geomhash":"1df69d43f78731372831c4bd06cccb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840755567
+        }
+    ],
+    "wof:id":840755567,
+    "wof:lastmodified":1464047228,
+    "wof:name":"Jackson Hewitt Tax Svc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -88.560563,
+    37.047724,
+    -88.560563,
+    37.047724
+],
+  "geometry": {"coordinates":[-88.560563,37.047724],"type":"Point"}
+}

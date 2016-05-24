@@ -1,0 +1,78 @@
+{
+  "id": 856737413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.708516,38.170667,-85.708516,38.170667",
+    "geom:latitude":38.170667,
+    "geom:longitude":-85.708516,
+    "iso:country":"US",
+    "sg:address":"5400 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-central/66160-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 3000",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZGJCl6nu2Wrq3B6SQpo3_38.171303_-85.709231@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053280,
+    "wof:geomhash":"db1687b5cec757f16d36c76354bcccdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856737413
+        }
+    ],
+    "wof:id":856737413,
+    "wof:lastmodified":1464053280,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.708516,
+    38.170667,
+    -85.708516,
+    38.170667
+],
+  "geometry": {"coordinates":[-85.708516,38.170667],"type":"Point"}
+}

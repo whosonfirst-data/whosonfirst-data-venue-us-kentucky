@@ -1,0 +1,73 @@
+{
+  "id": 840589909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.64307,37.054969,-88.64307,37.054969",
+    "geom:latitude":37.054969,
+    "geom:longitude":-88.64307,
+    "iso:country":"US",
+    "sg:address":"110 Medical Center Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 2471",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A0z8lwVzACGnCuKoublVv_37.054969_-88.643070@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043422,
+    "wof:geomhash":"f424492a81e97dc22c40f65ba3492f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840589909
+        }
+    ],
+    "wof:id":840589909,
+    "wof:lastmodified":1464043422,
+    "wof:name":"Dermatology & Skin Surgery",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.64307,
+    37.054969,
+    -88.64307,
+    37.054969
+],
+  "geometry": {"coordinates":[-88.64306999999999,37.054969],"type":"Point"}
+}

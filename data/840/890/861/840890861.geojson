@@ -1,0 +1,75 @@
+{
+  "id": 840890861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88298,37.785852,-85.88298,37.785852",
+    "geom:latitude":37.785852,
+    "geom:longitude":-85.88298,
+    "iso:country":"US",
+    "sg:address":"1612 Battle Training Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2013",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DrP1htfaLBkwNrzw6up7P_37.785852_-85.882980@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050303,
+    "wof:geomhash":"13581427b6a74ab50b2d3f59e09fa2ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840890861
+        }
+    ],
+    "wof:id":840890861,
+    "wof:lastmodified":1464050303,
+    "wof:name":"Benton Trucking",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.88298,
+    37.785852,
+    -85.88298,
+    37.785852
+],
+  "geometry": {"coordinates":[-85.88298,37.785852],"type":"Point"}
+}

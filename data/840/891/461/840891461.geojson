@@ -1,0 +1,71 @@
+{
+  "id": 840891461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.239058,38.217883,-85.239058,38.217883",
+    "geom:latitude":38.217883,
+    "geom:longitude":-85.239058,
+    "iso:country":"US",
+    "sg:address":"41 Cardinal Dr",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 4531",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jnrGGeOEc5pQz1YWi1b5N_38.217883_-85.239058@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050314,
+    "wof:geomhash":"9d42556b1eed32b9a45477827350bd1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840891461
+        }
+    ],
+    "wof:id":840891461,
+    "wof:lastmodified":1464050314,
+    "wof:name":"Shelbyville Housing Authority",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.239058,
+    38.217883,
+    -85.239058,
+    38.217883
+],
+  "geometry": {"coordinates":[-85.239058,38.217883],"type":"Point"}
+}

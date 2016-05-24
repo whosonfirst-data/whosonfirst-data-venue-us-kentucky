@@ -1,0 +1,69 @@
+{
+  "id": 840669575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578796,37.865881,-84.578796,37.865881",
+    "geom:latitude":37.865881,
+    "geom:longitude":-84.578796,
+    "iso:country":"US",
+    "sg:address":"957 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 4181",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07OXL0awo581cXfC84xDI6_37.865881_-84.578796@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045300,
+    "wof:geomhash":"6e5be8afa205afb3d015a9b96abe0810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840669575
+        }
+    ],
+    "wof:id":840669575,
+    "wof:lastmodified":1464045300,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.578796,
+    37.865881,
+    -84.578796,
+    37.865881
+],
+  "geometry": {"coordinates":[-84.578796,37.865881],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840950095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441061,36.98224,-86.441061,36.98224",
+    "geom:latitude":36.98224,
+    "geom:longitude":-86.441061,
+    "iso:country":"US",
+    "sg:address":"1260 US Hwy 31 W Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 7250",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rl37SEkF0aTB4QTwV6Pi8_36.982240_-86.441061@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051652,
+    "wof:geomhash":"71fc5880fc7dc933d70041215f6c39b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840950095
+        }
+    ],
+    "wof:id":840950095,
+    "wof:lastmodified":1464051652,
+    "wof:name":"Dale's Jewelry & Loans",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -86.441061,
+    36.98224,
+    -86.441061,
+    36.98224
+],
+  "geometry": {"coordinates":[-86.441061,36.98224],"type":"Point"}
+}

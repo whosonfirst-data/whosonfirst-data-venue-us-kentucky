@@ -1,0 +1,73 @@
+{
+  "id": 840580649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.626567,37.037303,-84.626567,37.037303",
+    "geom:latitude":37.037303,
+    "geom:longitude":-84.626567,
+    "iso:country":"US",
+    "sg:address":"5090 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 2085",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wYE1nxMOwEkSmCN8TRWtz_37.037303_-84.626567@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043221,
+    "wof:geomhash":"6ca5669b520d600641f7b59137a2a8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840580649
+        }
+    ],
+    "wof:id":840580649,
+    "wof:lastmodified":1464043221,
+    "wof:name":"Wells Collision Ctr",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.626567,
+    37.037303,
+    -84.626567,
+    37.037303
+],
+  "geometry": {"coordinates":[-84.62656699999999,37.037303],"type":"Point"}
+}

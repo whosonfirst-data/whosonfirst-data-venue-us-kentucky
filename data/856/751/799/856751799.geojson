@@ -1,0 +1,88 @@
+{
+  "id": 856751799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58819,38.213153,-85.58819,38.213153",
+    "geom:latitude":38.213153,
+    "geom:longitude":-85.58819,
+    "iso:country":"US",
+    "sg:address":"9156 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 9830",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.jerseymikes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_673NodMQKKG4nmGQ6zIgAs_38.213153_-85.588190@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053826,
+    "wof:geomhash":"93fbe813c63acf7528c9bc637006cfba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856751799
+        }
+    ],
+    "wof:id":856751799,
+    "wof:lastmodified":1464053826,
+    "wof:name":"Jersey Mike's Subs",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -85.58819,
+    38.213153,
+    -85.58819,
+    38.213153
+],
+  "geometry": {"coordinates":[-85.58819,38.213153],"type":"Point"}
+}

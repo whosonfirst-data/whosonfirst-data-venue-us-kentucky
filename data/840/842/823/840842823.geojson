@@ -1,0 +1,71 @@
+{
+  "id": 840842823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.722177,36.604293,-83.722177,36.604293",
+    "geom:latitude":36.604293,
+    "geom:longitude":-83.722177,
+    "iso:country":"US",
+    "sg:address":"630 Winchester Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 7693",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31wgf7mNmYEtBMoIabKppw_36.604293_-83.722177@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049288,
+    "wof:geomhash":"1d08ca67c9c012c6696b2dfa536f7fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840842823
+        }
+    ],
+    "wof:id":840842823,
+    "wof:lastmodified":1464049288,
+    "wof:name":"Bruce's Hair Classics",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.722177,
+    36.604293,
+    -83.722177,
+    36.604293
+],
+  "geometry": {"coordinates":[-83.722177,36.604293],"type":"Point"}
+}

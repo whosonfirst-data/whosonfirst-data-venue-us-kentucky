@@ -1,0 +1,73 @@
+{
+  "id": 856713495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.672348,38.212604,-85.672348,38.212604",
+    "geom:latitude":38.212604,
+    "geom:longitude":-85.672348,
+    "iso:country":"US",
+    "sg:address":"3000 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 2212",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E1gfcltnWZZvrmFp60FkX_38.212604_-85.672348@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052338,
+    "wof:geomhash":"dd666f1cac16c8beafc04e6b3bfc314b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":856713495
+        }
+    ],
+    "wof:id":856713495,
+    "wof:lastmodified":1464052338,
+    "wof:name":"Mathis Dental",
+    "wof:parent_id":85873393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.672348,
+    38.212604,
+    -85.672348,
+    38.212604
+],
+  "geometry": {"coordinates":[-85.672348,38.212604],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840768339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.734431,38.063023,-84.734431,38.063023",
+    "geom:latitude":38.063023,
+    "geom:longitude":-84.734431,
+    "iso:country":"US",
+    "sg:address":"202 Frankfort St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 3451",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lLaQpQ82uZuqP1jGewaeZ_38.063023_-84.734431@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047533,
+    "wof:geomhash":"dfd92d64a0cd083ebed21c760f7bfe6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840768339
+        }
+    ],
+    "wof:id":840768339,
+    "wof:lastmodified":1464047533,
+    "wof:name":"Standish Motors",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.734431,
+    38.063023,
+    -84.734431,
+    38.063023
+],
+  "geometry": {"coordinates":[-84.734431,38.063023],"type":"Point"}
+}

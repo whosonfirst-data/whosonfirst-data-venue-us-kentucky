@@ -1,0 +1,71 @@
+{
+  "id": 840669351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.545563,38.212686,-84.545563,38.212686",
+    "geom:latitude":38.212686,
+    "geom:longitude":-84.545563,
+    "iso:country":"US",
+    "sg:address":"1161 Paris Pike",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 868 5304",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i939nF9BkloUNwLPa2qjr_38.212686_-84.545563@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045296,
+    "wof:geomhash":"14e3b3591e9e825bb042d3335fb24917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840669351
+        }
+    ],
+    "wof:id":840669351,
+    "wof:lastmodified":1464045296,
+    "wof:name":"Georgetown-Scott Recycling Ctr",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.545563,
+    38.212686,
+    -84.545563,
+    38.212686
+],
+  "geometry": {"coordinates":[-84.545563,38.212686],"type":"Point"}
+}

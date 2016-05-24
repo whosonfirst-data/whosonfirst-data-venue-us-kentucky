@@ -1,0 +1,71 @@
+{
+  "id": 840902737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.43911,38.379052,-85.43911,38.379052",
+    "geom:latitude":38.379052,
+    "geom:longitude":-85.43911,
+    "iso:country":"US",
+    "sg:address":"3700 Mattingly Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 7828",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aA01beRZCB3id2d9Klmnz_38.379052_-85.439110@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050553,
+    "wof:geomhash":"f39161181cb2c39aa59786a95013b514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840902737
+        }
+    ],
+    "wof:id":840902737,
+    "wof:lastmodified":1464050553,
+    "wof:name":"Metro Window Co",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -85.43911,
+    38.379052,
+    -85.43911,
+    38.379052
+],
+  "geometry": {"coordinates":[-85.43911,38.379052],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840836989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.577591,37.058289,-88.577591,37.058289",
+    "geom:latitude":37.058289,
+    "geom:longitude":-88.577591,
+    "iso:country":"US",
+    "sg:address":"2551 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8423",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v26xoT2vTtOwNhqiH64Kq_37.058289_-88.577591@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049149,
+    "wof:geomhash":"0feb16795650f8f3f3cbbe61c425bf3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840836989
+        }
+    ],
+    "wof:id":840836989,
+    "wof:lastmodified":1464049149,
+    "wof:name":"Buford Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.577591,
+    37.058289,
+    -88.577591,
+    37.058289
+],
+  "geometry": {"coordinates":[-88.577591,37.058289],"type":"Point"}
+}

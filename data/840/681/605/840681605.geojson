@@ -1,0 +1,77 @@
+{
+  "id": 840681605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.738061,38.144789,-85.738061,38.144789",
+    "geom:latitude":38.144789,
+    "geom:longitude":-85.738061,
+    "iso:country":"US",
+    "sg:address":"7308 Grade Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 2843",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XoDz5AGn8WcsT7U9Fhax1_38.144789_-85.738061@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045613,
+    "wof:geomhash":"225d4a67206512512430726968a8aabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840681605
+        }
+    ],
+    "wof:id":840681605,
+    "wof:lastmodified":1464045613,
+    "wof:name":"Mechanical Insulating Contrs",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.738061,
+    38.144789,
+    -85.738061,
+    38.144789
+],
+  "geometry": {"coordinates":[-85.738061,38.144789],"type":"Point"}
+}

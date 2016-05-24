@@ -1,0 +1,77 @@
+{
+  "id": 856745277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78432,38.196353,-85.78432,38.196353",
+    "geom:latitude":38.196353,
+    "geom:longitude":-85.78432,
+    "iso:country":"US",
+    "sg:address":"1330 Berry Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 366 9405",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1acGEmgkorlGKn6smbcfXV_38.196353_-85.784320@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053573,
+    "wof:geomhash":"96f0ac79dbe577abec40f51776f54fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":856745277
+        }
+    ],
+    "wof:id":856745277,
+    "wof:lastmodified":1464053573,
+    "wof:name":"The Dog Wash",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -85.78432,
+    38.196353,
+    -85.78432,
+    38.196353
+],
+  "geometry": {"coordinates":[-85.78431999999999,38.196353],"type":"Point"}
+}

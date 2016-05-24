@@ -1,0 +1,71 @@
+{
+  "id": 840716893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.769146,37.648779,-84.769146,37.648779",
+    "geom:latitude":37.648779,
+    "geom:longitude":-84.769146,
+    "iso:country":"US",
+    "sg:address":"377 N 1st St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 1206",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kLbBun0zfzSegaLgkTKHy_37.648779_-84.769146@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046438,
+    "wof:geomhash":"b0a2bc865bc95636ba8b20f329492449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840716893
+        }
+    ],
+    "wof:id":840716893,
+    "wof:lastmodified":1464046438,
+    "wof:name":"Bellevue Cemetery",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -84.769146,
+    37.648779,
+    -84.769146,
+    37.648779
+],
+  "geometry": {"coordinates":[-84.76914600000001,37.648779],"type":"Point"}
+}

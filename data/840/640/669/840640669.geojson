@@ -1,0 +1,73 @@
+{
+  "id": 840640669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441428,36.951735,-86.441428,36.951735",
+    "geom:latitude":36.951735,
+    "geom:longitude":-86.441428,
+    "iso:country":"US",
+    "sg:address":"1486 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5566",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zJAQWi6OCFFuuskZGoZ5Z_36.951735_-86.441428@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044689,
+    "wof:geomhash":"0e6e40bb19fc470500a885043a2351ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840640669
+        }
+    ],
+    "wof:id":840640669,
+    "wof:lastmodified":1464044689,
+    "wof:name":"Tech-Tune Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.441428,
+    36.951735,
+    -86.441428,
+    36.951735
+],
+  "geometry": {"coordinates":[-86.441428,36.951735],"type":"Point"}
+}

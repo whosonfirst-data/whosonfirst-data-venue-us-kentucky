@@ -1,0 +1,73 @@
+{
+  "id": 840946645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.538923,38.215751,-84.538923,38.215751",
+    "geom:latitude":38.215751,
+    "geom:longitude":-84.538923,
+    "iso:country":"US",
+    "sg:address":"122 Edwards Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 4166",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AGASRwmPtpW7AFtstcSw9_38.215751_-84.538923@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051582,
+    "wof:geomhash":"f83b84669914dde505c9de559013a33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840946645
+        }
+    ],
+    "wof:id":840946645,
+    "wof:lastmodified":1464051582,
+    "wof:name":"S C Neal Electrical Contrs Inc",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.538923,
+    38.215751,
+    -84.538923,
+    38.215751
+],
+  "geometry": {"coordinates":[-84.538923,38.215751],"type":"Point"}
+}

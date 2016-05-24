@@ -1,0 +1,68 @@
+{
+  "id": 840593149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.28529,37.743173,-84.28529,37.743173",
+    "geom:latitude":37.743173,
+    "geom:longitude":-84.28529,
+    "iso:country":"US",
+    "sg:address":"908 E Main St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 2657",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B3iyqBHitWZBA7lpFJmlH_37.743173_-84.285290@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043494,
+    "wof:geomhash":"aeddfbc513e28ff3c5240d8bf244cc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840593149
+        }
+    ],
+    "wof:id":840593149,
+    "wof:lastmodified":1464043494,
+    "wof:name":"D-Style Hair Salon",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.28529,
+    37.743173,
+    -84.28529,
+    37.743173
+],
+  "geometry": {"coordinates":[-84.28529,37.743173],"type":"Point"}
+}

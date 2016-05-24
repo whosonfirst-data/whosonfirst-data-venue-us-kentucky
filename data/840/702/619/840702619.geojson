@@ -1,0 +1,72 @@
+{
+  "id": 840702619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.433545,36.943951,-86.433545,36.943951",
+    "geom:latitude":36.943951,
+    "geom:longitude":-86.433545,
+    "iso:country":"US",
+    "sg:address":"2965 N Mill Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 2247",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.ddsengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P2til39WeqMp5w4lO2Rfl_36.943951_-86.433545@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046157,
+    "wof:geomhash":"25ad4977a6334e7f6c87ec8411265cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840702619
+        }
+    ],
+    "wof:id":840702619,
+    "wof:lastmodified":1464046157,
+    "wof:name":"DDS Engineering LLC",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -86.433545,
+    36.943951,
+    -86.433545,
+    36.943951
+],
+  "geometry": {"coordinates":[-86.433545,36.943951],"type":"Point"}
+}

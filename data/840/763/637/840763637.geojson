@@ -1,0 +1,73 @@
+{
+  "id": 840763637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.585485,38.218117,-85.585485,38.218117",
+    "geom:latitude":38.218117,
+    "geom:longitude":-85.585485,
+    "iso:country":"US",
+    "sg:address":"1923 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 4914",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W7dtglN7hZJ6sHdbtoGAx_38.218117_-85.585485@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047421,
+    "wof:geomhash":"f5976dc08ce55ad2680f7876fc144820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840763637
+        }
+    ],
+    "wof:id":840763637,
+    "wof:lastmodified":1464047421,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.585485,
+    38.218117,
+    -85.585485,
+    38.218117
+],
+  "geometry": {"coordinates":[-85.58548500000001,38.218117],"type":"Point"}
+}

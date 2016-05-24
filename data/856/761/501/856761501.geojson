@@ -1,0 +1,78 @@
+{
+  "id": 856761501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.583506,37.06778,-88.583506,37.06778",
+    "geom:latitude":37.06778,
+    "geom:longitude":-88.583506,
+    "iso:country":"US",
+    "sg:address":"124 Clements St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 519 2773",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jM8nr5cgumU60w3msZjvZ_37.067780_-88.583506@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054178,
+    "wof:geomhash":"d036e514c260df2d6c95c8192ab02165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761501
+        }
+    ],
+    "wof:id":856761501,
+    "wof:lastmodified":1464054178,
+    "wof:name":"Janssen A-1 Carpet Cleaning",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -88.583506,
+    37.06778,
+    -88.583506,
+    37.06778
+],
+  "geometry": {"coordinates":[-88.583506,37.06778],"type":"Point"}
+}

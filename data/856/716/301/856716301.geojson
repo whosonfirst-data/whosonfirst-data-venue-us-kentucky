@@ -1,0 +1,75 @@
+{
+  "id": 856716301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.541013,38.065111,-84.541013,38.065111",
+    "geom:latitude":38.065111,
+    "geom:longitude":-84.541013,
+    "iso:country":"US",
+    "sg:address":"636 Bizzell Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 9769",
+    "sg:postcode":"40510",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85853791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1twDbc3iZEPqlJz8bdRPRW_38.065111_-84.541013@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052443,
+    "wof:geomhash":"b51b10cc431df9995db699909e0098b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85853791,
+            "region_id":85688641,
+            "venue_id":856716301
+        }
+    ],
+    "wof:id":856716301,
+    "wof:lastmodified":1464052443,
+    "wof:name":"Prewitt Mechanical Contractors",
+    "wof:parent_id":85853791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.541013,
+    38.065111,
+    -84.541013,
+    38.065111
+],
+  "geometry": {"coordinates":[-84.54101300000001,38.065111],"type":"Point"}
+}

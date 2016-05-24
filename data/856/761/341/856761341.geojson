@@ -1,0 +1,92 @@
+{
+  "id": 856761341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684831,37.070011,-88.684831,37.070011",
+    "geom:latitude":37.070011,
+    "geom:longitude":-88.684831,
+    "iso:country":"US",
+    "sg:address":"5158 Village Square Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 4311",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "sg:website":"http://www.bhsi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SJMq12qQitWBYIddfMlV5_37.070011_-88.684831@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054173,
+    "wof:geomhash":"ebea2c0fce3939f2091507fb1b77d633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761341
+        }
+    ],
+    "wof:id":856761341,
+    "wof:lastmodified":1464054173,
+    "wof:name":"Prime Care Clinic",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -88.684831,
+    37.070011,
+    -88.684831,
+    37.070011
+],
+  "geometry": {"coordinates":[-88.684831,37.070011],"type":"Point"}
+}

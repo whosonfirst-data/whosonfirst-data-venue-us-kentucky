@@ -1,0 +1,73 @@
+{
+  "id": 840546385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.412262,36.92649,-86.412262,36.92649",
+    "geom:latitude":36.92649,
+    "geom:longitude":-86.412262,
+    "iso:country":"US",
+    "sg:address":"310 Cypress Wood Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 8550",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z6Rjhp9xqwFLeuDxwtcs7_36.926490_-86.412262@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042416,
+    "wof:geomhash":"0dcbccc0b8f3193508ddb33bee0a9b86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840546385
+        }
+    ],
+    "wof:id":840546385,
+    "wof:lastmodified":1464042416,
+    "wof:name":"Thessen Concrete Contracting",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.412262,
+    36.92649,
+    -86.412262,
+    36.92649
+],
+  "geometry": {"coordinates":[-86.412262,36.92649],"type":"Point"}
+}

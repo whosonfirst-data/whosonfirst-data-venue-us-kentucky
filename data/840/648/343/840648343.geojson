@@ -1,0 +1,74 @@
+{
+  "id": 840648343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.541397,38.214074,-85.541397,38.214074",
+    "geom:latitude":38.214074,
+    "geom:longitude":-85.541397,
+    "iso:country":"US",
+    "sg:address":"11524 Commonwealth Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 5454",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "sg:website":"www.thermex-thermatron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1odjINRFUk81u5bCq9D562_38.214074_-85.541397@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044845,
+    "wof:geomhash":"7afe7e7436daaa6d87760f39c4efbc83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840648343
+        }
+    ],
+    "wof:id":840648343,
+    "wof:lastmodified":1464044845,
+    "wof:name":"Thermex-Thermatron Inc",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.541397,
+    38.214074,
+    -85.541397,
+    38.214074
+],
+  "geometry": {"coordinates":[-85.541397,38.214074],"type":"Point"}
+}

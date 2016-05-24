@@ -1,0 +1,71 @@
+{
+  "id": 856725463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.716317,36.623865,-83.716317,36.623865",
+    "geom:latitude":36.623865,
+    "geom:longitude":-83.716317,
+    "iso:country":"US",
+    "sg:address":"12 Old Pineville Pike",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 2369",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mw7guqWGJSR7LQBO2Fatm_36.623865_-83.716317@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052811,
+    "wof:geomhash":"4569578ef9a1476ea9cbda74113a1635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":856725463
+        }
+    ],
+    "wof:id":856725463,
+    "wof:lastmodified":1464052811,
+    "wof:name":"B & M Storage LLC",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.716317,
+    36.623865,
+    -83.716317,
+    36.623865
+],
+  "geometry": {"coordinates":[-83.716317,36.623865],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840650365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.791191,38.203986,-85.791191,38.203986",
+    "geom:latitude":38.203986,
+    "geom:longitude":-85.791191,
+    "iso:country":"US",
+    "sg:address":"3624 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 363 2811",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gxKS3voaAl0SjSjw7y2qR_38.203986_-85.791191@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044887,
+    "wof:geomhash":"cd1bedbe25d05c6786e4e6da75fb537b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840650365
+        }
+    ],
+    "wof:id":840650365,
+    "wof:lastmodified":1464044887,
+    "wof:name":"Silver Slipper",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -85.791191,
+    38.203986,
+    -85.791191,
+    38.203986
+],
+  "geometry": {"coordinates":[-85.791191,38.203986],"type":"Point"}
+}

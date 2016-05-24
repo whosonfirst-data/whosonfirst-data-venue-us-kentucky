@@ -1,0 +1,81 @@
+{
+  "id": 856762881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.840082,37.711955,-85.840082,37.711955",
+    "geom:latitude":37.711955,
+    "geom:longitude":-85.840082,
+    "iso:country":"US",
+    "sg:address":"3030 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 9120",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.firstcitizensbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04oit9Y0ABqra2w3RWeTbX_37.711955_-85.840082@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054231,
+    "wof:geomhash":"a4753edb1d19e9d973e69a012e610aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762881
+        }
+    ],
+    "wof:id":856762881,
+    "wof:lastmodified":1464054231,
+    "wof:name":"First Citizens Bank",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.840082,
+    37.711955,
+    -85.840082,
+    37.711955
+],
+  "geometry": {"coordinates":[-85.840082,37.711955],"type":"Point"}
+}

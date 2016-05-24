@@ -1,0 +1,77 @@
+{
+  "id": 840624715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441576,36.986289,-86.441576,36.986289",
+    "geom:latitude":36.986289,
+    "geom:longitude":-86.441576,
+    "iso:country":"US",
+    "sg:address":"1215 High St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 783 4222",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LOAXDsXtig3DBa4iTwvWz_36.986289_-86.441576@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044287,
+    "wof:geomhash":"64bc4c3b0083255f4f5efde0365ed6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840624715
+        }
+    ],
+    "wof:id":840624715,
+    "wof:lastmodified":1464044287,
+    "wof:name":"William Kornfeld MD",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.441576,
+    36.986289,
+    -86.441576,
+    36.986289
+],
+  "geometry": {"coordinates":[-86.441576,36.986289],"type":"Point"}
+}

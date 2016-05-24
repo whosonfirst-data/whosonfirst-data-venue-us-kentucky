@@ -1,0 +1,71 @@
+{
+  "id": 840762569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.768996,38.060505,-84.768996,38.060505",
+    "geom:latitude":38.060505,
+    "geom:longitude":-84.768996,
+    "iso:country":"US",
+    "sg:address":"2130 Clifton Rd",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 3320",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "breeder",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5396YOTthyNPjobdK1azKB_38.060505_-84.768996@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047399,
+    "wof:geomhash":"421104b151022750539daa0ea65007a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840762569
+        }
+    ],
+    "wof:id":840762569,
+    "wof:lastmodified":1464047399,
+    "wof:name":"Fallbrook Farm",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "horse"
+    ]
+},
+  "bbox": [
+    -84.768996,
+    38.060505,
+    -84.768996,
+    38.060505
+],
+  "geometry": {"coordinates":[-84.768996,38.060505],"type":"Point"}
+}

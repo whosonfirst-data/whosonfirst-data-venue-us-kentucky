@@ -1,0 +1,73 @@
+{
+  "id": 840628091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.695181,37.998793,-85.695181,37.998793",
+    "geom:latitude":37.998793,
+    "geom:longitude":-85.695181,
+    "iso:country":"US",
+    "sg:address":"1578 State Hwy 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 955 5200",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19sOuYVTYKLxEqjxdAPxie_37.998793_-85.695181@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044385,
+    "wof:geomhash":"c2ff33248890c273eae4b4830613c098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840628091
+        }
+    ],
+    "wof:id":840628091,
+    "wof:lastmodified":1464044385,
+    "wof:name":"Bullitt County Family Care Ctr",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.695181,
+    37.998793,
+    -85.695181,
+    37.998793
+],
+  "geometry": {"coordinates":[-85.69518100000001,37.998793],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840618851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.875638,37.706723,-85.875638,37.706723",
+    "geom:latitude":37.706723,
+    "geom:longitude":-85.875638,
+    "iso:country":"US",
+    "sg:address":"634 Cherry Wood Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5227",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fG8Iq8HeauS9qt1gXhh2N_37.706723_-85.875638@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044138,
+    "wof:geomhash":"03d2bf8c3f5f237ab895676166b9c5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840618851
+        }
+    ],
+    "wof:id":840618851,
+    "wof:lastmodified":1464044138,
+    "wof:name":"Hardin Memorial Cemetery",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -85.875638,
+    37.706723,
+    -85.875638,
+    37.706723
+],
+  "geometry": {"coordinates":[-85.875638,37.706723],"type":"Point"}
+}

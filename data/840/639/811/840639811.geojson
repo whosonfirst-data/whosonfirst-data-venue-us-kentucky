@@ -1,0 +1,71 @@
+{
+  "id": 840639811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441756,36.993744,-86.441756,36.993744",
+    "geom:latitude":36.993744,
+    "geom:longitude":-86.441756,
+    "iso:country":"US",
+    "sg:address":"921 College St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3332",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XBrnIUxcao5v86g4qT7a5_36.993744_-86.441756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044673,
+    "wof:geomhash":"92ad015b7eb71be3ad86d1851e17e69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840639811
+        }
+    ],
+    "wof:id":840639811,
+    "wof:lastmodified":1464044673,
+    "wof:name":"Commonwealth Business Svc Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -86.441756,
+    36.993744,
+    -86.441756,
+    36.993744
+],
+  "geometry": {"coordinates":[-86.441756,36.993744],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840773663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.846684,37.668924,-85.846684,37.668924",
+    "geom:latitude":37.668924,
+    "geom:longitude":-85.846684,
+    "iso:country":"US",
+    "sg:address":"1900 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 8854",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.lifeway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YkhOWJfbbw0B9OyRNfqv5_37.668924_-85.846684@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047644,
+    "wof:geomhash":"c7a8e1fa85420b9b3b2f4b4a29682d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840773663
+        }
+    ],
+    "wof:id":840773663,
+    "wof:lastmodified":1464047644,
+    "wof:name":"Life Way Christian Store",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.846684,
+    37.668924,
+    -85.846684,
+    37.668924
+],
+  "geometry": {"coordinates":[-85.846684,37.668924],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856752067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.561383,38.208491,-85.561383,38.208491",
+    "geom:latitude":38.208491,
+    "geom:longitude":-85.561383,
+    "iso:country":"US",
+    "sg:address":"2520 Plantside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 2520",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://budget.com/IYP_tl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HbpLjnRMsSzT5T5Lqv2q4_38.208491_-85.561383@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053835,
+    "wof:geomhash":"c26ee3781906407e33dfaaff051834a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752067
+        }
+    ],
+    "wof:id":856752067,
+    "wof:lastmodified":1464053835,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.561383,
+    38.208491,
+    -85.561383,
+    38.208491
+],
+  "geometry": {"coordinates":[-85.56138300000001,38.208491],"type":"Point"}
+}

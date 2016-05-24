@@ -1,0 +1,87 @@
+{
+  "id": 856744411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706661,38.193597,-85.706661,38.193597",
+    "geom:latitude":38.193597,
+    "geom:longitude":-85.706661,
+    "iso:country":"US",
+    "sg:address":"1405 Bunton Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 258 8230",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ],
+    "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N9SfTEgrWvWFW7aqpT74K_38.193597_-85.706661@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053543,
+    "wof:geomhash":"b12d26c7d962d8ecc11c3d31184c2574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744411
+        }
+    ],
+    "wof:id":856744411,
+    "wof:lastmodified":1464053543,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ]
+},
+  "bbox": [
+    -85.706661,
+    38.193597,
+    -85.706661,
+    38.193597
+],
+  "geometry": {"coordinates":[-85.706661,38.193597],"type":"Point"}
+}

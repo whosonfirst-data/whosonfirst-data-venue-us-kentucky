@@ -1,0 +1,68 @@
+{
+  "id": 840745295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718957,38.251566,-85.718957,38.251566",
+    "geom:latitude":38.251566,
+    "geom:longitude":-85.718957,
+    "iso:country":"US",
+    "sg:address":"204 S Spring St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 9567",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HJvNPoQIFi0joTv5lnY09_38.251566_-85.718957@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046993,
+    "wof:geomhash":"40a9f907b0bf89ef448e95136589177e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":840745295
+        }
+    ],
+    "wof:id":840745295,
+    "wof:lastmodified":1464046993,
+    "wof:name":"David Sumner Lawn Service",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.718957,
+    38.251566,
+    -85.718957,
+    38.251566
+],
+  "geometry": {"coordinates":[-85.718957,38.251566],"type":"Point"}
+}

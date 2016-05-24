@@ -1,0 +1,71 @@
+{
+  "id": 840711175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.603361,37.823367,-87.603361,37.823367",
+    "geom:latitude":37.823367,
+    "geom:longitude":-87.603361,
+    "iso:country":"US",
+    "sg:address":"1324 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 8022",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O7A4w4idL6Vau9LJdCggS_37.823367_-87.603361@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046325,
+    "wof:geomhash":"c9671e7beb1a228ee0b4cb5f8d098518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840711175
+        }
+    ],
+    "wof:id":840711175,
+    "wof:lastmodified":1464046325,
+    "wof:name":"Triple L Pawn",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -87.603361,
+    37.823367,
+    -87.603361,
+    37.823367
+],
+  "geometry": {"coordinates":[-87.60336100000001,37.823367],"type":"Point"}
+}

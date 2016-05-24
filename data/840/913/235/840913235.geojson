@@ -1,0 +1,73 @@
+{
+  "id": 840913235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530064,37.004461,-88.530064,37.004461",
+    "geom:latitude":37.004461,
+    "geom:longitude":-88.530064,
+    "iso:country":"US",
+    "sg:address":"6100 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1511",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cU4D0LiNWx1T3qw4r5kCB_37.004461_-88.530064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050826,
+    "wof:geomhash":"a404111a5f15fce242aa04589c5a2d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840913235
+        }
+    ],
+    "wof:id":840913235,
+    "wof:lastmodified":1464050826,
+    "wof:name":"Stow-A-Way Mini Storage & Wrhs",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -88.530064,
+    37.004461,
+    -88.530064,
+    37.004461
+],
+  "geometry": {"coordinates":[-88.530064,37.004461],"type":"Point"}
+}

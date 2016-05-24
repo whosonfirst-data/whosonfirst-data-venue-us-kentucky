@@ -1,0 +1,73 @@
+{
+  "id": 840603409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.735289,37.687393,-84.735289,37.687393",
+    "geom:latitude":37.687393,
+    "geom:longitude":-84.735289,
+    "iso:country":"US",
+    "sg:address":"645 Waterworks Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7824",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30TDPkQnJxeIORUG2ldWWV_37.687393_-84.735289@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043742,
+    "wof:geomhash":"25105369655bc8b0b3a399e731cd6783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840603409
+        }
+    ],
+    "wof:id":840603409,
+    "wof:lastmodified":1464043742,
+    "wof:name":"Mark Electric",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.735289,
+    37.687393,
+    -84.735289,
+    37.687393
+],
+  "geometry": {"coordinates":[-84.73528899999999,37.687393],"type":"Point"}
+}

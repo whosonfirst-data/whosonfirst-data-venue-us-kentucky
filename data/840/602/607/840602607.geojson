@@ -1,0 +1,71 @@
+{
+  "id": 840602607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.270883,38.216769,-85.270883,38.216769",
+    "geom:latitude":38.216769,
+    "geom:longitude":-85.270883,
+    "iso:country":"US",
+    "sg:address":"2800 Shelbyville Rd",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 6311",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CulaqMXsXFgky0ZtLglHf_38.216769_-85.270883@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043716,
+    "wof:geomhash":"d0de58e48b116e97ead527b31a916fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840602607
+        }
+    ],
+    "wof:id":840602607,
+    "wof:lastmodified":1464043716,
+    "wof:name":"Walnut Way Farm",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -85.270883,
+    38.216769,
+    -85.270883,
+    38.216769
+],
+  "geometry": {"coordinates":[-85.270883,38.216769],"type":"Point"}
+}

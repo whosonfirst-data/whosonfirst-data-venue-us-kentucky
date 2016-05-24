@@ -1,0 +1,80 @@
+{
+  "id": 840622747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639064,38.248461,-85.639064,38.248461",
+    "geom:latitude":38.248461,
+    "geom:longitude":-85.639064,
+    "iso:country":"US",
+    "sg:address":"4304 Briarwood Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 2381",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mlNuWhrAr9Jzx8XcBcmip_38.248461_-85.639064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044236,
+    "wof:geomhash":"fdf3a5c06658b55658a55621198cc6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840622747
+        }
+    ],
+    "wof:id":840622747,
+    "wof:lastmodified":1464044236,
+    "wof:name":"Yoder Technical Services Inc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.639064,
+    38.248461,
+    -85.639064,
+    38.248461
+],
+  "geometry": {"coordinates":[-85.639064,38.248461],"type":"Point"}
+}

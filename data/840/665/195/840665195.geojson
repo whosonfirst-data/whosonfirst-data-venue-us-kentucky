@@ -1,0 +1,75 @@
+{
+  "id": 840665195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.571958,39.022448,-84.571958,39.022448",
+    "geom:latitude":39.022448,
+    "geom:longitude":-84.571958,
+    "iso:country":"US",
+    "sg:address":"230 Thomas More Pkwy",
+    "sg:city":"Crestview Hills",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 341 3383",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uvHTB1is5GHP2e9q9Z1yb_39.022448_-84.571958@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045215,
+    "wof:geomhash":"54ce631760120c1fced5ad956c28fcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":840665195
+        }
+    ],
+    "wof:id":840665195,
+    "wof:lastmodified":1464045215,
+    "wof:name":"Summit Medical Group",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.571958,
+    39.022448,
+    -84.571958,
+    39.022448
+],
+  "geometry": {"coordinates":[-84.571958,39.022448],"type":"Point"}
+}

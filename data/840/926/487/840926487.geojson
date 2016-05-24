@@ -1,0 +1,69 @@
+{
+  "id": 840926487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.569138,37.876173,-84.569138,37.876173",
+    "geom:latitude":37.876173,
+    "geom:longitude":-84.569138,
+    "iso:country":"US",
+    "sg:address":"201 E Brown St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5695",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtrNTEtQ9vL7pmt3N3S2U_37.876173_-84.569138@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051175,
+    "wof:geomhash":"816cc17d1d8457585f3ad283fd9386a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840926487
+        }
+    ],
+    "wof:id":840926487,
+    "wof:lastmodified":1464051175,
+    "wof:name":"Nicholasville Sewage Treatment",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -84.569138,
+    37.876173,
+    -84.569138,
+    37.876173
+],
+  "geometry": {"coordinates":[-84.569138,37.876173],"type":"Point"}
+}

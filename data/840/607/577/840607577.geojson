@@ -1,0 +1,73 @@
+{
+  "id": 840607577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.286673,37.663646,-82.286673,37.663646",
+    "geom:latitude":37.663646,
+    "geom:longitude":-82.286673,
+    "iso:country":"US",
+    "sg:address":"343 New Camp Rd",
+    "sg:city":"South Williamson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 7370",
+    "sg:postcode":"41503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22JnUUtsiHBUvh4F6LoE1b_37.663646_-82.286673@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043849,
+    "wof:geomhash":"9bfc61f298166a8eb2c67f392e8ee5a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840607577
+        }
+    ],
+    "wof:id":840607577,
+    "wof:lastmodified":1464043849,
+    "wof:name":"Electric Line Co",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.286673,
+    37.663646,
+    -82.286673,
+    37.663646
+],
+  "geometry": {"coordinates":[-82.28667299999999,37.663646],"type":"Point"}
+}

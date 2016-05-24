@@ -1,0 +1,68 @@
+{
+  "id": 840917365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.809726,38.261312,-85.809726,38.261312",
+    "geom:latitude":38.261312,
+    "geom:longitude":-85.809726,
+    "iso:country":"US",
+    "sg:address":"3505 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 4247",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IXx3BP2ULwnLSDe5hq0pP_38.261312_-85.809726@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050941,
+    "wof:geomhash":"a680d95d4c6f9f2c3dfb63b265bb8178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840917365
+        }
+    ],
+    "wof:id":840917365,
+    "wof:lastmodified":1464050941,
+    "wof:name":"Hair Explosions",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.809726,
+    38.261312,
+    -85.809726,
+    38.261312
+],
+  "geometry": {"coordinates":[-85.809726,38.261312],"type":"Point"}
+}

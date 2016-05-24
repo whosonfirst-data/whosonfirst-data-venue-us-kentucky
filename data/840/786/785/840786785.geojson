@@ -1,0 +1,71 @@
+{
+  "id": 840786785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.704591,37.093342,-88.704591,37.093342",
+    "geom:latitude":37.093342,
+    "geom:longitude":-88.704591,
+    "iso:country":"US",
+    "sg:address":"230 Orchard View Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 4919",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oSYNw2jXqmYmQANhfiRPC_37.093342_-88.704591@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047916,
+    "wof:geomhash":"d41d0abc4e970bafbfc72e1636687016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840786785
+        }
+    ],
+    "wof:id":840786785,
+    "wof:lastmodified":1464047916,
+    "wof:name":"Honey Enterprises Inc",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -88.704591,
+    37.093342,
+    -88.704591,
+    37.093342
+],
+  "geometry": {"coordinates":[-88.70459099999999,37.093342],"type":"Point"}
+}

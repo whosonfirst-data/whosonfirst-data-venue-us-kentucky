@@ -1,0 +1,75 @@
+{
+  "id": 840798903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.78882,38.258727,-85.78882,38.258727",
+    "geom:latitude":38.258727,
+    "geom:longitude":-85.78882,
+    "iso:country":"US",
+    "sg:address":"2234 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 9126",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pr4tjFRZkblT1X3yLX2pJ_38.258727_-85.788820@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048179,
+    "wof:geomhash":"05988c05332740862f74e692e30c34b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":840798903
+        }
+    ],
+    "wof:id":840798903,
+    "wof:lastmodified":1464048179,
+    "wof:name":"St Anthony's Outreach Ctr",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.78882,
+    38.258727,
+    -85.78882,
+    38.258727
+],
+  "geometry": {"coordinates":[-85.78882,38.258727],"type":"Point"}
+}

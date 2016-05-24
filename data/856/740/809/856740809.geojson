@@ -1,0 +1,83 @@
+{
+  "id": 856740809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.738344,38.250444,-85.738344,38.250444",
+    "geom:latitude":38.250444,
+    "geom:longitude":-85.738344,
+    "iso:country":"US",
+    "sg:address":"808 E Liberty St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 6258",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printers-equipment",
+        "services-commercial",
+        "supply"
+    ],
+    "sg:website":"http://www.merrickprinting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XGSOnuB1cp7vIiMmzJEa0_38.250444_-85.738344@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053417,
+    "wof:geomhash":"288cda7e769a05bf76ad0e253e15825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":856740809
+        }
+    ],
+    "wof:id":856740809,
+    "wof:lastmodified":1464053417,
+    "wof:name":"Digital Print Inpressions",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printers-equipment",
+        "services-commercial",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.738344,
+    38.250444,
+    -85.738344,
+    38.250444
+],
+  "geometry": {"coordinates":[-85.738344,38.250444],"type":"Point"}
+}

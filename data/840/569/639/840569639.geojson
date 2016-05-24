@@ -1,0 +1,71 @@
+{
+  "id": 840569639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.4291,36.567637,-87.4291,36.567637",
+    "geom:latitude":36.567637,
+    "geom:longitude":-87.4291,
+    "iso:country":"US",
+    "sg:address":"374 Donna Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 553 8382",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dWDkqeZ9x0zbbwQGiGHSm_36.567637_-87.429100@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042972,
+    "wof:geomhash":"e0746cdbabade297fba1b0451bc254b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":840569639
+        }
+    ],
+    "wof:id":840569639,
+    "wof:lastmodified":1464042972,
+    "wof:name":"Car Connection",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.4291,
+    36.567637,
+    -87.4291,
+    36.567637
+],
+  "geometry": {"coordinates":[-87.42910000000001,36.567637],"type":"Point"}
+}

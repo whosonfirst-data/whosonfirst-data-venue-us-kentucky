@@ -1,0 +1,75 @@
+{
+  "id": 840598279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.57165,37.0551,-88.57165,37.0551",
+    "geom:latitude":37.0551,
+    "geom:longitude":-88.57165,
+    "iso:country":"US",
+    "sg:address":"3100 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9570",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pVRlidsVBcqwCEeuEsWqe_37.055100_-88.571650@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043617,
+    "wof:geomhash":"1e4f5f6dd6505a549fd20bd6f6101c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840598279
+        }
+    ],
+    "wof:id":840598279,
+    "wof:lastmodified":1464043617,
+    "wof:name":"National Auto Brokers",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -88.57165,
+    37.0551,
+    -88.57165,
+    37.0551
+],
+  "geometry": {"coordinates":[-88.57165000000001,37.0551],"type":"Point"}
+}

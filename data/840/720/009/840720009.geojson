@@ -1,0 +1,75 @@
+{
+  "id": 840720009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.653954,38.258471,-85.653954,38.258471",
+    "geom:latitude":38.258471,
+    "geom:longitude":-85.653954,
+    "iso:country":"US",
+    "sg:address":"4012 Massie Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 0110",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bus",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qVZWw1AG09NuJb1d0xsZO_38.258471_-85.653954@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046509,
+    "wof:geomhash":"8be8d8afc9732dcdb5f7b4d1d0ebbd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":840720009
+        }
+    ],
+    "wof:id":840720009,
+    "wof:lastmodified":1464046509,
+    "wof:name":"Whitworth Bus Sales Inc",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "used"
+    ]
+},
+  "bbox": [
+    -85.653954,
+    38.258471,
+    -85.653954,
+    38.258471
+],
+  "geometry": {"coordinates":[-85.653954,38.258471],"type":"Point"}
+}

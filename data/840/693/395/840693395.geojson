@@ -1,0 +1,71 @@
+{
+  "id": 840693395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441667,36.966557,-86.441667,36.966557",
+    "geom:latitude":36.966557,
+    "geom:longitude":-86.441667,
+    "iso:country":"US",
+    "sg:address":"1724 Rockingham Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1838",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ptD0gYC7QTcuhLdgsHgxz_36.966557_-86.441667@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045904,
+    "wof:geomhash":"bd81888e4ff4efdccb226817f40b55a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840693395
+        }
+    ],
+    "wof:id":840693395,
+    "wof:lastmodified":1464045904,
+    "wof:name":"Jeffrey T Morgan DDS",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.441667,
+    36.966557,
+    -86.441667,
+    36.966557
+],
+  "geometry": {"coordinates":[-86.441667,36.966557],"type":"Point"}
+}

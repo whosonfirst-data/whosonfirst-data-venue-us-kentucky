@@ -1,0 +1,73 @@
+{
+  "id": 856745159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.762797,38.202205,-85.762797,38.202205",
+    "geom:latitude":38.202205,
+    "geom:longitude":-85.762797,
+    "iso:country":"US",
+    "sg:address":"3112 Grant Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 8017",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aZQgg960E1CvYf22WrogU_38.202205_-85.762797@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053569,
+    "wof:geomhash":"85db5c80c91c6d03aa96f49af0b6df24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856745159
+        }
+    ],
+    "wof:id":856745159,
+    "wof:lastmodified":1464053569,
+    "wof:name":"Mcintyre Electronics",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-repair"
+    ]
+},
+  "bbox": [
+    -85.762797,
+    38.202205,
+    -85.762797,
+    38.202205
+],
+  "geometry": {"coordinates":[-85.76279700000001,38.202205],"type":"Point"}
+}

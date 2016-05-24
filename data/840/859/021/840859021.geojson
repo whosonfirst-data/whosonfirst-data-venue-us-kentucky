@@ -1,0 +1,71 @@
+{
+  "id": 840859021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.865242,37.698301,-85.865242,37.698301",
+    "geom:latitude":37.698301,
+    "geom:longitude":-85.865242,
+    "iso:country":"US",
+    "sg:address":"334 Dixie Hwy W",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2100",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gSuJrnNchdPSp2eZumP2S_37.698301_-85.865242@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049637,
+    "wof:geomhash":"9aabe7fa377c788cc3f7dacd9111a3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840859021
+        }
+    ],
+    "wof:id":840859021,
+    "wof:lastmodified":1464049637,
+    "wof:name":"Heartland Real Estate Mgmt",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -85.865242,
+    37.698301,
+    -85.865242,
+    37.698301
+],
+  "geometry": {"coordinates":[-85.86524199999999,37.698301],"type":"Point"}
+}

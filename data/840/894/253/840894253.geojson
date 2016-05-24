@@ -1,0 +1,68 @@
+{
+  "id": 840894253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523508,38.033519,-84.523508,38.033519",
+    "geom:latitude":38.033519,
+    "geom:longitude":-84.523508,
+    "iso:country":"US",
+    "sg:address":"1308 S Broadway Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 381 8859",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MaO60CbE2DNQN9uvmdmZt_38.033519_-84.523508@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050368,
+    "wof:geomhash":"a013e5fd14bc9cfa422cd200b15ca062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873495,
+            "region_id":85688641,
+            "venue_id":840894253
+        }
+    ],
+    "wof:id":840894253,
+    "wof:lastmodified":1464050368,
+    "wof:name":"Panda Buffet Inc",
+    "wof:parent_id":85873495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.523508,
+    38.033519,
+    -84.523508,
+    38.033519
+],
+  "geometry": {"coordinates":[-84.52350800000001,38.033519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840594261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.574821,37.036829,-88.574821,37.036829",
+    "geom:latitude":37.036829,
+    "geom:longitude":-88.574821,
+    "iso:country":"US",
+    "sg:address":"3101 Estes Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 538 0223",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eHphqrezWG6zPjLWqRCG7_37.036829_-88.574821@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043518,
+    "wof:geomhash":"4ebfb882f912b52cad46bf0c03d81f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840594261
+        }
+    ],
+    "wof:id":840594261,
+    "wof:lastmodified":1464043518,
+    "wof:name":"Mercy Regional Emergency Med",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -88.574821,
+    37.036829,
+    -88.574821,
+    37.036829
+],
+  "geometry": {"coordinates":[-88.574821,37.036829],"type":"Point"}
+}

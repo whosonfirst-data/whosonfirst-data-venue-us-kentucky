@@ -1,0 +1,76 @@
+{
+  "id": 856734581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521119,38.034251,-84.521119,38.034251",
+    "geom:latitude":38.034251,
+    "geom:longitude":-84.521119,
+    "iso:country":"US",
+    "sg:address":"1228 S Broadway",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/159333-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 4848",
+    "sg:postcode":"40504",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gMd31UaxVPiSgEE6jMCn8_38.034251_-84.521119@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053167,
+    "wof:geomhash":"0c61d631ea51cf43d23e28135b608fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873495,
+            "region_id":85688641,
+            "venue_id":856734581
+        }
+    ],
+    "wof:id":856734581,
+    "wof:lastmodified":1464053167,
+    "wof:name":"Arby's",
+    "wof:parent_id":85873495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.521119,
+    38.034251,
+    -84.521119,
+    38.034251
+],
+  "geometry": {"coordinates":[-84.521119,38.034251],"type":"Point"}
+}

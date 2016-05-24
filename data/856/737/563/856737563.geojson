@@ -1,0 +1,72 @@
+{
+  "id": 856737563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.577874,37.868121,-84.577874,37.868121",
+    "geom:latitude":37.868121,
+    "geom:longitude":-84.577874,
+    "iso:country":"US",
+    "sg:address":"903 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/155920-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 6975",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AVgY4Ggs4Vv7c8zhbiDhw_37.867974_-84.578003@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053287,
+    "wof:geomhash":"dd27cac48191a5d2ab8236314d0f394b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856737563
+        }
+    ],
+    "wof:id":856737563,
+    "wof:lastmodified":1464053287,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.577874,
+    37.868121,
+    -84.577874,
+    37.868121
+],
+  "geometry": {"coordinates":[-84.57787399999999,37.868121],"type":"Point"}
+}

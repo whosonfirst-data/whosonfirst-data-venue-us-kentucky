@@ -1,0 +1,73 @@
+{
+  "id": 840703999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.263475,36.925001,-86.263475,36.925001",
+    "geom:latitude":36.925001,
+    "geom:longitude":-86.263475,
+    "iso:country":"US",
+    "sg:address":"450 Iron Bridge Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8334",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dj74xapvFgUPNcbbfBc2C_36.925001_-86.263475@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046182,
+    "wof:geomhash":"24feb3d8f64def2c6203963e606d35c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840703999
+        }
+    ],
+    "wof:id":840703999,
+    "wof:lastmodified":1464046182,
+    "wof:name":"Halifax Farm Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.263475,
+    36.925001,
+    -86.263475,
+    36.925001
+],
+  "geometry": {"coordinates":[-86.263475,36.925001],"type":"Point"}
+}

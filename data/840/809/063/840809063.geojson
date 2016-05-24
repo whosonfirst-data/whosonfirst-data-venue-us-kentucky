@@ -1,0 +1,66 @@
+{
+  "id": 840809063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.2082,37.053867,-86.2082,37.053867",
+    "geom:latitude":37.053867,
+    "geom:longitude":-86.2082,
+    "iso:country":"US",
+    "sg:address":"124 N Main St",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 3401",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23albwmDeGnZbmVMGFf7kB_37.053867_-86.208200@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048387,
+    "wof:geomhash":"c619ca7096e6c3feb413eecb7500666b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840809063
+        }
+    ],
+    "wof:id":840809063,
+    "wof:lastmodified":1464048387,
+    "wof:name":"Smiths Grove Drug",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2082,
+    37.053867,
+    -86.2082,
+    37.053867
+],
+  "geometry": {"coordinates":[-86.20820000000001,37.053867],"type":"Point"}
+}

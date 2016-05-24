@@ -1,0 +1,69 @@
+{
+  "id": 840779533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573454,37.877547,-84.573454,37.877547",
+    "geom:latitude":37.877547,
+    "geom:longitude":-84.573454,
+    "iso:country":"US",
+    "sg:address":"221 S York St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 1375",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pneNmo6UuduZPfMOfDkQa_37.877547_-84.573454@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047756,
+    "wof:geomhash":"4623bcd49e9fac82ee036b197a676ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840779533
+        }
+    ],
+    "wof:id":840779533,
+    "wof:lastmodified":1464047756,
+    "wof:name":"Hales Body Shop",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -84.573454,
+    37.877547,
+    -84.573454,
+    37.877547
+],
+  "geometry": {"coordinates":[-84.573454,37.877547],"type":"Point"}
+}

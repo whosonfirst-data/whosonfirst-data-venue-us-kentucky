@@ -1,0 +1,67 @@
+{
+  "id": 840876671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683524,37.077558,-88.683524,37.077558",
+    "geom:latitude":37.077558,
+    "geom:longitude":-88.683524,
+    "iso:country":"US",
+    "sg:address":"5050 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 415 9009",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"www.fridays.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ibk9gYlaNx5elfl6TP6wO_37.077558_-88.683524@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049985,
+    "wof:geomhash":"ba367edc16065eaa25e71fe10389191a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840876671
+        }
+    ],
+    "wof:id":840876671,
+    "wof:lastmodified":1464049985,
+    "wof:name":"TGI Friday's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.683524,
+    37.077558,
+    -88.683524,
+    37.077558
+],
+  "geometry": {"coordinates":[-88.68352400000001,37.077558],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840910373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.434905,36.950954,-86.434905,36.950954",
+    "geom:latitude":36.950954,
+    "geom:longitude":-86.434905,
+    "iso:country":"US",
+    "sg:address":"110 Walton Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0360",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j0IMUhmrqfEYJElTyreKN_36.950954_-86.434905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050743,
+    "wof:geomhash":"e32df0785bc9a65ed1f1dc27579bcf97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840910373
+        }
+    ],
+    "wof:id":840910373,
+    "wof:lastmodified":1464050743,
+    "wof:name":"Speedway",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.434905,
+    36.950954,
+    -86.434905,
+    36.950954
+],
+  "geometry": {"coordinates":[-86.434905,36.950954],"type":"Point"}
+}

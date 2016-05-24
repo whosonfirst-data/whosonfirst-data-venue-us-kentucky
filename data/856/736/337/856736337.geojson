@@ -1,0 +1,74 @@
+{
+  "id": 856736337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422169,37.007214,-86.422169,37.007214",
+    "geom:latitude":37.007214,
+    "geom:longitude":-86.422169,
+    "iso:country":"US",
+    "sg:address":"1626 Us 31W-Byp",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/100743-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 4808",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VhKJw7r9WIcoiuWBtim4h_37.007214_-86.422169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053235,
+    "wof:geomhash":"bc6d4877745817fd35ef4c60476d496d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":856736337
+        }
+    ],
+    "wof:id":856736337,
+    "wof:lastmodified":1464053235,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.422169,
+    37.007214,
+    -86.422169,
+    37.007214
+],
+  "geometry": {"coordinates":[-86.422169,37.007214],"type":"Point"}
+}

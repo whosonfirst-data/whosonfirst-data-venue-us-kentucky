@@ -1,0 +1,71 @@
+{
+  "id": 840628419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.536606,38.231346,-84.536606,38.231346",
+    "geom:latitude":38.231346,
+    "geom:longitude":-84.536606,
+    "iso:country":"US",
+    "sg:address":"111 Osborne Way",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 867 7737",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YLEa75z4Ucv4uocz9OesH_38.231346_-84.536606@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044391,
+    "wof:geomhash":"d0943b9401397471519ad921f02e81b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840628419
+        }
+    ],
+    "wof:id":840628419,
+    "wof:lastmodified":1464044391,
+    "wof:name":"Pretty Nails",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -84.536606,
+    38.231346,
+    -84.536606,
+    38.231346
+],
+  "geometry": {"coordinates":[-84.53660600000001,38.231346],"type":"Point"}
+}

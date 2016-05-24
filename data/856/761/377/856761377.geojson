@@ -1,0 +1,84 @@
+{
+  "id": 856761377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.727076,37.013529,-88.727076,37.013529",
+    "geom:latitude":37.013529,
+    "geom:longitude":-88.727076,
+    "iso:country":"US",
+    "sg:address":"150 Rosemont Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1237",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "house",
+        "rug",
+        "janitorial",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fJUDBxdpTef0o3XvRaPTU_37.013529_-88.727076@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054174,
+    "wof:geomhash":"f272b783a05ec44031d0e897f9a4d9c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761377
+        }
+    ],
+    "wof:id":856761377,
+    "wof:lastmodified":1464054174,
+    "wof:name":"Collins Professional Cleaning Service",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house",
+        "rug",
+        "janitorial",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -88.727076,
+    37.013529,
+    -88.727076,
+    37.013529
+],
+  "geometry": {"coordinates":[-88.727076,37.013529],"type":"Point"}
+}

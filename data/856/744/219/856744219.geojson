@@ -1,0 +1,83 @@
+{
+  "id": 856744219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.786568,38.258541,-85.786568,38.258541",
+    "geom:latitude":38.258541,
+    "geom:longitude":-85.786568,
+    "iso:country":"US",
+    "sg:address":"2200 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 690 3474",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OdYWe4ej6mGvZ94u4oIwq_38.258541_-85.786568@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053536,
+    "wof:geomhash":"6ea4ed650fe2d3fe3ffa5d37fce8001c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873423,
+            "region_id":85688641,
+            "venue_id":856744219
+        }
+    ],
+    "wof:id":856744219,
+    "wof:lastmodified":1464053536,
+    "wof:name":"Knm Food Mart",
+    "wof:parent_id":85873423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -85.786568,
+    38.258541,
+    -85.786568,
+    38.258541
+],
+  "geometry": {"coordinates":[-85.786568,38.258541],"type":"Point"}
+}

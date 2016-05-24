@@ -1,0 +1,74 @@
+{
+  "id": 856736165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.570073,37.054012,-88.570073,37.054012",
+    "geom:latitude":37.054012,
+    "geom:longitude":-88.570073,
+    "iso:country":"US",
+    "sg:address":"3220 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/77277-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 441 7766",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aMOwhceVtvD6iPe0YB2xR_37.054012_-88.570073@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053224,
+    "wof:geomhash":"4e9e2731fb8edc190920d27d1b237572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856736165
+        }
+    ],
+    "wof:id":856736165,
+    "wof:lastmodified":1464053224,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -88.570073,
+    37.054012,
+    -88.570073,
+    37.054012
+],
+  "geometry": {"coordinates":[-88.57007299999999,37.054012],"type":"Point"}
+}

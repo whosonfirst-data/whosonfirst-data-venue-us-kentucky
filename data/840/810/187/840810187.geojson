@@ -1,0 +1,73 @@
+{
+  "id": 840810187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.875536,37.698494,-85.875536,37.698494",
+    "geom:latitude":37.698494,
+    "geom:longitude":-85.875536,
+    "iso:country":"US",
+    "sg:address":"115 Connecticut Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 6643",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K67N3CpdyniGEbjsXF9TT_37.698494_-85.875536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048429,
+    "wof:geomhash":"335d7ae7291e47117c4446dc206c9ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840810187
+        }
+    ],
+    "wof:id":840810187,
+    "wof:lastmodified":1464048429,
+    "wof:name":"Joe Brothers Wilburn",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -85.875536,
+    37.698494,
+    -85.875536,
+    37.698494
+],
+  "geometry": {"coordinates":[-85.875536,37.698494],"type":"Point"}
+}

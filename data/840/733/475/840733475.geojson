@@ -1,0 +1,86 @@
+{
+  "id": 840733475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748068,37.620842,-84.748068,37.620842",
+    "geom:latitude":37.620842,
+    "geom:longitude":-84.748068,
+    "iso:country":"US",
+    "sg:address":"3898 US Hwy 150 Byp",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3828",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "supply",
+        "system",
+        "air",
+        "parts",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S4V1qh4arC0abdN0g1G08_37.620842_-84.748068@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046771,
+    "wof:geomhash":"e49c67b41eb4b406a3c90171ef3148b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840733475
+        }
+    ],
+    "wof:id":840733475,
+    "wof:lastmodified":1464046771,
+    "wof:name":"Ferguson Enterprises Inc",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "system",
+        "air",
+        "parts",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.748068,
+    37.620842,
+    -84.748068,
+    37.620842
+],
+  "geometry": {"coordinates":[-84.748068,37.620842],"type":"Point"}
+}

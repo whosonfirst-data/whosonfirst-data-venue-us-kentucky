@@ -1,0 +1,71 @@
+{
+  "id": 840820791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.563845,37.901965,-84.563845,37.901965",
+    "geom:latitude":37.901965,
+    "geom:longitude":-84.563845,
+    "iso:country":"US",
+    "sg:address":"132 Imperial Way",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 7867",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O7NfURo91991c19hdPenJ_37.901965_-84.563845@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048772,
+    "wof:geomhash":"9e2a0076155767b2cc6025602dab5966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840820791
+        }
+    ],
+    "wof:id":840820791,
+    "wof:lastmodified":1464048772,
+    "wof:name":"Storage Max",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.563845,
+    37.901965,
+    -84.563845,
+    37.901965
+],
+  "geometry": {"coordinates":[-84.563845,37.901965],"type":"Point"}
+}

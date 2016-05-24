@@ -1,0 +1,105 @@
+{
+  "id": 856750181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.534588,38.24866,-85.534588,38.24866",
+    "geom:latitude":38.24866,
+    "geom:longitude":-85.534588,
+    "iso:country":"US",
+    "sg:address":"12010 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 238 2800",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "emergency",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "urgent",
+        "medicine",
+        "surgery-general"
+    ],
+    "sg:website":"http://www.bhsi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4502IxmtFwMgwtwuReTPp8_38.248660_-85.534588@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053758,
+    "wof:geomhash":"3ed467301f71684cb434647a5c18498d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750181
+        }
+    ],
+    "wof:id":856750181,
+    "wof:lastmodified":1464053758,
+    "wof:name":"Baptist Urgent Care",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "emergency",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "urgent",
+        "medicine",
+        "surgery-general"
+    ]
+},
+  "bbox": [
+    -85.534588,
+    38.24866,
+    -85.534588,
+    38.24866
+],
+  "geometry": {"coordinates":[-85.534588,38.24866],"type":"Point"}
+}

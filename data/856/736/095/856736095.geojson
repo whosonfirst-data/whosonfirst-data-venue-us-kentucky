@@ -1,0 +1,74 @@
+{
+  "id": 856736095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.683757,37.071136,-88.683757,37.071136",
+    "geom:latitude":37.071136,
+    "geom:longitude":-88.683757,
+    "iso:country":"US",
+    "sg:address":"2900 James Sanders Blvd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/10517-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 7000",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Et7H5cfsWOdasNqXQD1nc_37.071136_-88.683757@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053221,
+    "wof:geomhash":"c53e641f2cd7fe5d47cb82feb1f73d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736095
+        }
+    ],
+    "wof:id":856736095,
+    "wof:lastmodified":1464053221,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -88.683757,
+    37.071136,
+    -88.683757,
+    37.071136
+],
+  "geometry": {"coordinates":[-88.683757,37.071136],"type":"Point"}
+}

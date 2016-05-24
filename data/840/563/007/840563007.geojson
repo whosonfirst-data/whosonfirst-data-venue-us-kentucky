@@ -1,0 +1,71 @@
+{
+  "id": 840563007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.837536,37.718015,-85.837536,37.718015",
+    "geom:latitude":37.718015,
+    "geom:longitude":-85.837536,
+    "iso:country":"US",
+    "sg:address":"1107 Crown Pointe Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 0119",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2siLqaWyiAqRaHUTY1Cxsz_37.718015_-85.837536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042801,
+    "wof:geomhash":"6fe7d021a79a8b5bc75352989651ab68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840563007
+        }
+    ],
+    "wof:id":840563007,
+    "wof:lastmodified":1464042801,
+    "wof:name":"Daniels & Marlow",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -85.837536,
+    37.718015,
+    -85.837536,
+    37.718015
+],
+  "geometry": {"coordinates":[-85.837536,37.718015],"type":"Point"}
+}

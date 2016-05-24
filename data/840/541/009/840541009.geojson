@@ -1,0 +1,73 @@
+{
+  "id": 840541009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673785,37.942762,-85.673785,37.942762",
+    "geom:latitude":37.942762,
+    "geom:longitude":-85.673785,
+    "iso:country":"US",
+    "sg:address":"919 Tanglewood Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 3108",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c8pjlpQFuQj5OgmTYQ3ZW_37.942762_-85.673785@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042248,
+    "wof:geomhash":"fc63c3dbe1305e5ec2848d231d4f6da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840541009
+        }
+    ],
+    "wof:id":840541009,
+    "wof:lastmodified":1464042248,
+    "wof:name":"Gas Busters",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas"
+    ]
+},
+  "bbox": [
+    -85.673785,
+    37.942762,
+    -85.673785,
+    37.942762
+],
+  "geometry": {"coordinates":[-85.673785,37.942762],"type":"Point"}
+}

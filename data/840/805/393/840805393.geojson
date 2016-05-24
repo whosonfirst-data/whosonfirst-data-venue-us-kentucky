@@ -1,0 +1,71 @@
+{
+  "id": 840805393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857961,37.734172,-85.857961,37.734172",
+    "geom:latitude":37.734172,
+    "geom:longitude":-85.857961,
+    "iso:country":"US",
+    "sg:address":"2222 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1201",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCFG2BKW9weP1FDZLdsjK_37.734172_-85.857961@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048306,
+    "wof:geomhash":"946a2ae7d419ba068f180190f726f008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840805393
+        }
+    ],
+    "wof:id":840805393,
+    "wof:lastmodified":1464048306,
+    "wof:name":"Central Hardin Cnty Fire Dept",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.857961,
+    37.734172,
+    -85.857961,
+    37.734172
+],
+  "geometry": {"coordinates":[-85.857961,37.734172],"type":"Point"}
+}

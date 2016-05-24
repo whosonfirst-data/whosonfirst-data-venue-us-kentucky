@@ -1,0 +1,73 @@
+{
+  "id": 840879341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.747149,37.620763,-84.747149,37.620763",
+    "geom:latitude":37.620763,
+    "geom:longitude":-84.747149,
+    "iso:country":"US",
+    "sg:address":"3940 S Danville Byp",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 5018",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fNej4RAmomyIuS0YNIabx_37.620763_-84.747149@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050063,
+    "wof:geomhash":"340e5302e84920122507274270e70ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840879341
+        }
+    ],
+    "wof:id":840879341,
+    "wof:lastmodified":1464050063,
+    "wof:name":"Van Cook Construction Inc",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.747149,
+    37.620763,
+    -84.747149,
+    37.620763
+],
+  "geometry": {"coordinates":[-84.74714899999999,37.620763],"type":"Point"}
+}

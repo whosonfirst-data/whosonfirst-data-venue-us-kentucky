@@ -1,0 +1,85 @@
+{
+  "id": 856743221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.633804,38.231809,-85.633804,38.231809",
+    "geom:latitude":38.231809,
+    "geom:longitude":-85.633804,
+    "iso:country":"US",
+    "sg:address":"3906 S Dupont Sq Ste A",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 8218",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "reproductive",
+        "endocrinology",
+        "surgeons",
+        "surgeon",
+        "metabolism",
+        "diabetes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aLADwGwq6CNTJsqbeadCY_38.231809_-85.633804@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053502,
+    "wof:geomhash":"db8779b15356ade961058e713d29eb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856743221
+        }
+    ],
+    "wof:id":856743221,
+    "wof:lastmodified":1464053502,
+    "wof:name":"Doctors Lynch & Wood",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "reproductive",
+        "endocrinology",
+        "surgeons",
+        "surgeon",
+        "metabolism",
+        "diabetes"
+    ]
+},
+  "bbox": [
+    -85.633804,
+    38.231809,
+    -85.633804,
+    38.231809
+],
+  "geometry": {"coordinates":[-85.633804,38.231809],"type":"Point"}
+}

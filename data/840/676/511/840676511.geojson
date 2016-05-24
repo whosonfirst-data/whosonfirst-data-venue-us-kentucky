@@ -1,0 +1,73 @@
+{
+  "id": 840676511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.534644,37.483237,-82.534644,37.483237",
+    "geom:latitude":37.483237,
+    "geom:longitude":-82.534644,
+    "iso:country":"US",
+    "sg:address":"109 Loraine St",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 433 7791",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11qoAiAKtv6OhWgMRXdG8E_37.483237_-82.534644@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045476,
+    "wof:geomhash":"c041d2ee702fddf2bb47b27b663a12fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840676511
+        }
+    ],
+    "wof:id":840676511,
+    "wof:lastmodified":1464045476,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -82.534644,
+    37.483237,
+    -82.534644,
+    37.483237
+],
+  "geometry": {"coordinates":[-82.534644,37.483237],"type":"Point"}
+}

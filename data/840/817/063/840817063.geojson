@@ -1,0 +1,71 @@
+{
+  "id": 840817063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.892174,37.757953,-85.892174,37.757953",
+    "geom:latitude":37.757953,
+    "geom:longitude":-85.892174,
+    "iso:country":"US",
+    "sg:address":"25 W Airview Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7806",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67urhQHr3uhSsqvriDixCR_37.757953_-85.892174@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048662,
+    "wof:geomhash":"56cb79e62b26a9b1f44a0da86d61ae7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840817063
+        }
+    ],
+    "wof:id":840817063,
+    "wof:lastmodified":1464048662,
+    "wof:name":"Pete Dipietro",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.892174,
+    37.757953,
+    -85.892174,
+    37.757953
+],
+  "geometry": {"coordinates":[-85.892174,37.757953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840830423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761426,38.257226,-85.761426,38.257226",
+    "geom:latitude":38.257226,
+    "geom:longitude":-85.761426,
+    "iso:country":"US",
+    "sg:address":"605 W Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 0900",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k02yhp14XmJxYQMDLEH4l_38.257226_-85.761426@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049015,
+    "wof:geomhash":"614599ecd7678e4f7986af63cff4ae73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873435,
+            "region_id":85688641,
+            "venue_id":840830423
+        }
+    ],
+    "wof:id":840830423,
+    "wof:lastmodified":1464049015,
+    "wof:name":"J Bruce Miller Law Group",
+    "wof:parent_id":85873435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -85.761426,
+    38.257226,
+    -85.761426,
+    38.257226
+],
+  "geometry": {"coordinates":[-85.761426,38.257226],"type":"Point"}
+}

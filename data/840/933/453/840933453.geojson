@@ -1,0 +1,73 @@
+{
+  "id": 840933453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740072,38.233156,-85.740072,38.233156",
+    "geom:latitude":38.233156,
+    "geom:longitude":-85.740072,
+    "iso:country":"US",
+    "sg:address":"826 E Oak St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 0019",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85821377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BJbHwWL7OZQf505V3nyoJ_38.233156_-85.740072@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051316,
+    "wof:geomhash":"15337b35c2b3fec8882459dcf402085b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85821377,
+            "region_id":85688641,
+            "venue_id":840933453
+        }
+    ],
+    "wof:id":840933453,
+    "wof:lastmodified":1464051316,
+    "wof:name":"Mr Lee's Used Tires",
+    "wof:parent_id":85821377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.740072,
+    38.233156,
+    -85.740072,
+    38.233156
+],
+  "geometry": {"coordinates":[-85.740072,38.233156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840911033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438846,36.981037,-86.438846,36.981037",
+    "geom:latitude":36.981037,
+    "geom:longitude":-86.438846,
+    "iso:country":"US",
+    "sg:address":"1141 Broadway Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 5750",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fLfLyi5Snv60PI9TKOUa8_36.981037_-86.438846@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050766,
+    "wof:geomhash":"b3c4d62d46a30f4a7b8e33dcef2bc644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840911033
+        }
+    ],
+    "wof:id":840911033,
+    "wof:lastmodified":1464050766,
+    "wof:name":"Precision Auto Systems",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.438846,
+    36.981037,
+    -86.438846,
+    36.981037
+],
+  "geometry": {"coordinates":[-86.438846,36.981037],"type":"Point"}
+}

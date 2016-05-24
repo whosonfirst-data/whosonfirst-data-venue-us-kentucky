@@ -1,0 +1,71 @@
+{
+  "id": 840846455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.751894,39.026345,-84.751894,39.026345",
+    "geom:latitude":39.026345,
+    "geom:longitude":-84.751894,
+    "iso:country":"US",
+    "sg:address":"3742 Burlington Pike",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 586 7424",
+    "sg:postcode":"41005",
+    "sg:province":"KY",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JgYPrd50Wk2uRRvLzdLKL_39.026345_-84.751894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049361,
+    "wof:geomhash":"d16ce18c48c844393fc1e5b77768fa7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840846455
+        }
+    ],
+    "wof:id":840846455,
+    "wof:lastmodified":1464049361,
+    "wof:name":"Chris Heating and AC",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.751894,
+    39.026345,
+    -84.751894,
+    39.026345
+],
+  "geometry": {"coordinates":[-84.75189399999999,39.026345],"type":"Point"}
+}

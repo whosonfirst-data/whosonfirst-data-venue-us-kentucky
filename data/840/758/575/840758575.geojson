@@ -1,0 +1,73 @@
+{
+  "id": 840758575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.4293,36.959673,-86.4293,36.959673",
+    "geom:latitude":36.959673,
+    "geom:longitude":-86.4293,
+    "iso:country":"US",
+    "sg:address":"2270 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 9274",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZcnYGu1AZ5hFnaOwNA9c6_36.959673_-86.429300@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047302,
+    "wof:geomhash":"fb6e13378a08e602b78b34a9a8cfbff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840758575
+        }
+    ],
+    "wof:id":840758575,
+    "wof:lastmodified":1464047302,
+    "wof:name":"Tender Touch Auto Wash",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.4293,
+    36.959673,
+    -86.4293,
+    36.959673
+],
+  "geometry": {"coordinates":[-86.4293,36.959673],"type":"Point"}
+}

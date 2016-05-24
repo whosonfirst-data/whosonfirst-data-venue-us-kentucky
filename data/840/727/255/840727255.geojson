@@ -1,0 +1,69 @@
+{
+  "id": 840727255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751894,38.256929,-85.751894,38.256929",
+    "geom:latitude":38.256929,
+    "geom:longitude":-85.751894,
+    "iso:country":"US",
+    "sg:address":"111 W Washington St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 3912",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:website":"www.msrinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60hSKzgLndWNyFvEkYarog_38.256929_-85.751894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046658,
+    "wof:geomhash":"fa03b96cc921b699100f9cc93d8132a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873387,
+            "region_id":85688641,
+            "venue_id":840727255
+        }
+    ],
+    "wof:id":840727255,
+    "wof:lastmodified":1464046658,
+    "wof:name":"Main Street Realty",
+    "wof:parent_id":85873387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.751894,
+    38.256929,
+    -85.751894,
+    38.256929
+],
+  "geometry": {"coordinates":[-85.75189399999999,38.256929],"type":"Point"}
+}

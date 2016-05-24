@@ -1,0 +1,71 @@
+{
+  "id": 856761275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.634232,37.083405,-88.634232,37.083405",
+    "geom:latitude":37.083405,
+    "geom:longitude":-88.634232,
+    "iso:country":"US",
+    "sg:address":"3551 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 441 7348",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77UWOeN7BLIHaiLTRFdTbE_37.083405_-88.634232@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"fb9896812d8839af57fa62f6974394fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761275
+        }
+    ],
+    "wof:id":856761275,
+    "wof:lastmodified":1464054170,
+    "wof:name":"Earnie's Down Under Sports Bar",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew"
+    ]
+},
+  "bbox": [
+    -88.634232,
+    37.083405,
+    -88.634232,
+    37.083405
+],
+  "geometry": {"coordinates":[-88.634232,37.083405],"type":"Point"}
+}

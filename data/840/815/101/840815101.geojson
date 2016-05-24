@@ -1,0 +1,73 @@
+{
+  "id": 840815101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.780386,38.239895,-85.780386,38.239895",
+    "geom:latitude":38.239895,
+    "geom:longitude":-85.780386,
+    "iso:country":"US",
+    "sg:address":"1039 S 16th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 587 0087",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xfrDtKJgr4xIdPPcrxMh2_38.239895_-85.780386@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048617,
+    "wof:geomhash":"913f7dbc4e7cfa370692673a64bbc816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840815101
+        }
+    ],
+    "wof:id":840815101,
+    "wof:lastmodified":1464048617,
+    "wof:name":"Youngs Chapel AME Church",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.780386,
+    38.239895,
+    -85.780386,
+    38.239895
+],
+  "geometry": {"coordinates":[-85.78038599999999,38.239895],"type":"Point"}
+}

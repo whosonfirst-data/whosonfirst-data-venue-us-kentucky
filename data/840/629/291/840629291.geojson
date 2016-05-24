@@ -1,0 +1,73 @@
+{
+  "id": 840629291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.530898,37.019986,-88.530898,37.019986",
+    "geom:latitude":37.019986,
+    "geom:longitude":-88.530898,
+    "iso:country":"US",
+    "sg:address":"5300 Benton Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 2471",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66FUwJbYjSoAQuiG2TI6CD_37.019986_-88.530898@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044420,
+    "wof:geomhash":"7ff8b8712549f072316ff51d6b0a3ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840629291
+        }
+    ],
+    "wof:id":840629291,
+    "wof:lastmodified":1464044420,
+    "wof:name":"Robert M Bichon DO",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.530898,
+    37.019986,
+    -88.530898,
+    37.019986
+],
+  "geometry": {"coordinates":[-88.53089799999999,37.019986],"type":"Point"}
+}

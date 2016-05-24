@@ -1,0 +1,75 @@
+{
+  "id": 840583617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511524,38.035447,-84.511524,38.035447",
+    "geom:latitude":38.035447,
+    "geom:longitude":-84.511524,
+    "iso:country":"US",
+    "sg:address":"807 Press Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 233 1760",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gHnO8r6toPsM23k00f3iO_38.035447_-84.511524@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043284,
+    "wof:geomhash":"92071235a396b7edcf892defa902ed80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873031,
+            "region_id":85688641,
+            "venue_id":840583617
+        }
+    ],
+    "wof:id":840583617,
+    "wof:lastmodified":1464043284,
+    "wof:name":"Youngs Medical Ctr Apartments",
+    "wof:parent_id":85873031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.511524,
+    38.035447,
+    -84.511524,
+    38.035447
+],
+  "geometry": {"coordinates":[-84.51152399999999,38.035447],"type":"Point"}
+}

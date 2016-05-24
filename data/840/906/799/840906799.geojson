@@ -1,0 +1,73 @@
+{
+  "id": 840906799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.807493,38.138378,-85.807493,38.138378",
+    "geom:latitude":38.138378,
+    "geom:longitude":-85.807493,
+    "iso:country":"US",
+    "sg:address":"7901 Saint Anthony Church Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 0424",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24vu7bNoVZ9zaRllzheyGR_38.138378_-85.807493@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050633,
+    "wof:geomhash":"a06c07fd826339a81f0127f2cb17438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840906799
+        }
+    ],
+    "wof:id":840906799,
+    "wof:lastmodified":1464050633,
+    "wof:name":"Cardinal Hill Baptist Church",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.807493,
+    38.138378,
+    -85.807493,
+    38.138378
+],
+  "geometry": {"coordinates":[-85.80749299999999,38.138378],"type":"Point"}
+}

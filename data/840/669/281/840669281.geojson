@@ -1,0 +1,71 @@
+{
+  "id": 840669281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833075,37.69928,-85.833075,37.69928",
+    "geom:latitude":37.69928,
+    "geom:longitude":-85.833075,
+    "iso:country":"US",
+    "sg:address":"2184 Springfield Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 9193",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6twDsoAjDvZlzkELrM9dS2_37.699280_-85.833075@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045295,
+    "wof:geomhash":"81c7840fa4cf19b2afad8279f39ad479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840669281
+        }
+    ],
+    "wof:id":840669281,
+    "wof:lastmodified":1464045295,
+    "wof:name":"Mink Trucking Co LLC",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.833075,
+    37.69928,
+    -85.833075,
+    37.69928
+],
+  "geometry": {"coordinates":[-85.83307499999999,37.69928],"type":"Point"}
+}

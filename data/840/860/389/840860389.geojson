@@ -1,0 +1,73 @@
+{
+  "id": 840860389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.811118,38.23027,-85.811118,38.23027",
+    "geom:latitude":38.23027,
+    "geom:longitude":-85.811118,
+    "iso:country":"US",
+    "sg:address":"3391 Young Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 772 1222",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wqONyPl00VC67c0nYzCQl_38.230270_-85.811118@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049662,
+    "wof:geomhash":"151b106a36af914a70180bdc14dc8230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840860389
+        }
+    ],
+    "wof:id":840860389,
+    "wof:lastmodified":1464049662,
+    "wof:name":"Marian Manor Apartments",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.811118,
+    38.23027,
+    -85.811118,
+    38.23027
+],
+  "geometry": {"coordinates":[-85.81111799999999,38.23027],"type":"Point"}
+}

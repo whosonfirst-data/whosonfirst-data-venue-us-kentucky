@@ -1,0 +1,73 @@
+{
+  "id": 840905503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.698811,38.189163,-85.698811,38.189163",
+    "geom:latitude":38.189163,
+    "geom:longitude":-85.698811,
+    "iso:country":"US",
+    "sg:address":"4618 Schuff Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 1445",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbD5V8rsxoy16StZRQ0qA_38.189163_-85.698811@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050603,
+    "wof:geomhash":"929d590a801fa02f1f2d8accfcaf81d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":840905503
+        }
+    ],
+    "wof:id":840905503,
+    "wof:lastmodified":1464050603,
+    "wof:name":"Al Allgeier & Sons",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -85.698811,
+    38.189163,
+    -85.698811,
+    38.189163
+],
+  "geometry": {"coordinates":[-85.69881100000001,38.189163],"type":"Point"}
+}

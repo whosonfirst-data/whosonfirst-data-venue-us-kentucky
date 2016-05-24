@@ -1,0 +1,70 @@
+{
+  "id": 840825643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.632065,37.068159,-84.632065,37.068159",
+    "geom:latitude":37.068159,
+    "geom:longitude":-84.632065,
+    "iso:country":"US",
+    "sg:address":"1156 Oak Hill Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 1100",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.vcfsomerset.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0axMojdyN9xxH5f2243Tpu_37.068159_-84.632065@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048903,
+    "wof:geomhash":"f7b677d7dd64943a61be6a12a43e6878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840825643
+        }
+    ],
+    "wof:id":840825643,
+    "wof:lastmodified":1464048903,
+    "wof:name":"Victory Christian Fellowship",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.632065,
+    37.068159,
+    -84.632065,
+    37.068159
+],
+  "geometry": {"coordinates":[-84.632065,37.068159],"type":"Point"}
+}

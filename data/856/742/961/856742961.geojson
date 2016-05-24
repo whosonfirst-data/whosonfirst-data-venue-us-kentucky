@@ -1,0 +1,80 @@
+{
+  "id": 856742961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639735,38.28053,-85.639735,38.28053",
+    "geom:latitude":38.28053,
+    "geom:longitude":-85.639735,
+    "iso:country":"US",
+    "sg:address":"6002 Brownsboro Park Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 3232",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "pediatrics",
+        "surgeons"
+    ],
+    "sg:website":"http://www.brownsboroparkpediatrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85833853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01XH5J4MIK2oZEbi4e4rDy_38.280530_-85.639735@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053493,
+    "wof:geomhash":"0758a43be3449a8d93e579360c61b010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85833853,
+            "region_id":85688641,
+            "venue_id":856742961
+        }
+    ],
+    "wof:id":856742961,
+    "wof:lastmodified":1464053493,
+    "wof:name":"Brownsboro Park Pediatrics PSC",
+    "wof:parent_id":85833853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "pediatrics",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -85.639735,
+    38.28053,
+    -85.639735,
+    38.28053
+],
+  "geometry": {"coordinates":[-85.639735,38.28053],"type":"Point"}
+}

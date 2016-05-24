@@ -1,0 +1,70 @@
+{
+  "id": 856737561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565087,37.898985,-84.565087,37.898985",
+    "geom:latitude":37.898985,
+    "geom:longitude":-84.565087,
+    "iso:country":"US",
+    "sg:address":"1016 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/nicholasville/121550-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 1592",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aBQLgi10wKeDAEeyExcPr_37.898705_-84.565128@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464053286,
+    "wof:geomhash":"c28e6dd3a1c38a7a6353c7c2af047c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856737561
+        }
+    ],
+    "wof:id":856737561,
+    "wof:lastmodified":1464053286,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -84.565087,
+    37.898985,
+    -84.565087,
+    37.898985
+],
+  "geometry": {"coordinates":[-84.56508700000001,37.898985],"type":"Point"}
+}

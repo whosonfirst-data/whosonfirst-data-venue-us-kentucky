@@ -1,0 +1,73 @@
+{
+  "id": 840788763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683098,38.195029,-85.683098,38.195029",
+    "geom:latitude":38.195029,
+    "geom:longitude":-85.683098,
+    "iso:country":"US",
+    "sg:address":"4110 Eastmoor Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 8940",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gUKmLU1rvDqfevThZkPpG_38.195029_-85.683098@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047951,
+    "wof:geomhash":"3daee1f6fc0f700dd64e1f777cb711a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":840788763
+        }
+    ],
+    "wof:id":840788763,
+    "wof:lastmodified":1464047951,
+    "wof:name":"Lucent Technologies",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -85.683098,
+    38.195029,
+    -85.683098,
+    38.195029
+],
+  "geometry": {"coordinates":[-85.683098,38.195029],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840823645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759037,38.139165,-85.759037,38.139165",
+    "geom:latitude":38.139165,
+    "geom:longitude":-85.759037,
+    "iso:country":"US",
+    "sg:address":"7309 Garrison Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 364 7272",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30RhVMzlHu9ad8XAeOAbTD_38.139165_-85.759037@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048863,
+    "wof:geomhash":"b7da78e577b4c4722152d636cb3cc7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840823645
+        }
+    ],
+    "wof:id":840823645,
+    "wof:lastmodified":1464048863,
+    "wof:name":"Becca Beauty Shop",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.759037,
+    38.139165,
+    -85.759037,
+    38.139165
+],
+  "geometry": {"coordinates":[-85.75903700000001,38.139165],"type":"Point"}
+}

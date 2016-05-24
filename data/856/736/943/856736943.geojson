@@ -1,0 +1,80 @@
+{
+  "id": 856736943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565658,37.096059,-84.565658,37.096059",
+    "geom:latitude":37.096059,
+    "geom:longitude":-84.565658,
+    "iso:country":"US",
+    "sg:address":"41 Jordans Way",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/somerset/193861-noble-romans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 451 8882",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "italian",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jq6dHXHZk0GpKPHIW7d5S_37.096059_-84.565658@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053255,
+    "wof:geomhash":"28dd519f65f4e93f364ea0881faae898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856736943
+        }
+    ],
+    "wof:id":856736943,
+    "wof:lastmodified":1464053255,
+    "wof:name":"Noble Roman's",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "italian",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.565658,
+    37.096059,
+    -84.565658,
+    37.096059
+],
+  "geometry": {"coordinates":[-84.565658,37.096059],"type":"Point"}
+}

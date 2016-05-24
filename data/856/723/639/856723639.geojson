@@ -1,0 +1,71 @@
+{
+  "id": 856723639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.613042,37.096503,-84.613042,37.096503",
+    "geom:latitude":37.096503,
+    "geom:longitude":-84.613042,
+    "iso:country":"US",
+    "sg:address":"418 Ogden St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 8583",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0iCWAC0rUtGCcJjrDEKo_37.096503_-84.613042@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052733,
+    "wof:geomhash":"1749312432f96b66438c1df026639337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":856723639
+        }
+    ],
+    "wof:id":856723639,
+    "wof:lastmodified":1464052733,
+    "wof:name":"Jack B Pigman CPA",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -84.613042,
+    37.096503,
+    -84.613042,
+    37.096503
+],
+  "geometry": {"coordinates":[-84.61304199999999,37.096503],"type":"Point"}
+}

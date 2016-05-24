@@ -1,0 +1,75 @@
+{
+  "id": 840667939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.662524,37.860822,-84.662524,37.860822",
+    "geom:latitude":37.860822,
+    "geom:longitude":-84.662524,
+    "iso:country":"US",
+    "sg:address":"111 S Lexington Ave",
+    "sg:city":"Wilmore",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 858 3035",
+    "sg:postcode":"40390",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tVOHpUg0EjsoYPLi8G30g_37.860822_-84.662524@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045270,
+    "wof:geomhash":"0cc5d4ae0c282e49e9480dc6ce635f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840667939
+        }
+    ],
+    "wof:id":840667939,
+    "wof:lastmodified":1464045270,
+    "wof:name":"Ready To Go Video",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.662524,
+    37.860822,
+    -84.662524,
+    37.860822
+],
+  "geometry": {"coordinates":[-84.662524,37.860822],"type":"Point"}
+}

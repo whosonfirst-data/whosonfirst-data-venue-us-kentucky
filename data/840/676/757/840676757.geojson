@@ -1,0 +1,73 @@
+{
+  "id": 840676757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.580905,37.851199,-87.580905,37.851199",
+    "geom:latitude":37.851199,
+    "geom:longitude":-87.580905,
+    "iso:country":"US",
+    "sg:address":"1001 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 2370",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BzyEXA3hJjJvPoLBs8WLo_37.851199_-87.580905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045480,
+    "wof:geomhash":"e42f6fdbfd85bf3302aafe8455fd2558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840676757
+        }
+    ],
+    "wof:id":840676757,
+    "wof:lastmodified":1464045480,
+    "wof:name":"Autozone",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -87.580905,
+    37.851199,
+    -87.580905,
+    37.851199
+],
+  "geometry": {"coordinates":[-87.580905,37.851199],"type":"Point"}
+}

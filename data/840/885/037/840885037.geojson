@@ -1,0 +1,73 @@
+{
+  "id": 840885037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.874819,37.730954,-85.874819,37.730954",
+    "geom:latitude":37.730954,
+    "geom:longitude":-85.874819,
+    "iso:country":"US",
+    "sg:address":"1700 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5551",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j4o6fNyzrwwrLBukMN9ht_37.730954_-85.874819@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050179,
+    "wof:geomhash":"41df9f095b18426519611f273754e92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840885037
+        }
+    ],
+    "wof:id":840885037,
+    "wof:lastmodified":1464050179,
+    "wof:name":"Surgical Specialists PSC",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.874819,
+    37.730954,
+    -85.874819,
+    37.730954
+],
+  "geometry": {"coordinates":[-85.874819,37.730954],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840606059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.705276,37.060899,-88.705276,37.060899",
+    "geom:latitude":37.060899,
+    "geom:longitude":-88.705276,
+    "iso:country":"US",
+    "sg:address":"2335 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 1105",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "railroad",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FCARzaqHbhYbvMNF6EIuL_37.060899_-88.705276@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043799,
+    "wof:geomhash":"76203a06d513b775c035ce59d6ba2e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840606059
+        }
+    ],
+    "wof:id":840606059,
+    "wof:lastmodified":1464043799,
+    "wof:name":"Progress Rail Express",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.705276,
+    37.060899,
+    -88.705276,
+    37.060899
+],
+  "geometry": {"coordinates":[-88.705276,37.060899],"type":"Point"}
+}

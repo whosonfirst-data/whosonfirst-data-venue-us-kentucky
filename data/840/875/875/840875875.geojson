@@ -1,0 +1,73 @@
+{
+  "id": 840875875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.625536,38.233681,-85.625536,38.233681",
+    "geom:latitude":38.233681,
+    "geom:longitude":-85.625536,
+    "iso:country":"US",
+    "sg:address":"4310 Ravenwood Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 485 0041",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ld2Sdqp6Da72oWfcPCHRX_38.233681_-85.625536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049966,
+    "wof:geomhash":"98e2fb910575fcfecb675cd4084e954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840875875
+        }
+    ],
+    "wof:id":840875875,
+    "wof:lastmodified":1464049966,
+    "wof:name":"Case Investigations Inc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -85.625536,
+    38.233681,
+    -85.625536,
+    38.233681
+],
+  "geometry": {"coordinates":[-85.625536,38.233681],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 840873715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.77509,37.632595,-84.77509,37.632595",
+    "geom:latitude":37.632595,
+    "geom:longitude":-84.77509,
+    "iso:country":"US",
+    "sg:address":"794 S 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 936 9410",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4puRFS507kVlaDfJCEN0ac_37.632595_-84.775090@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049928,
+    "wof:geomhash":"5f8ac42ecaee55cafdfc011c2b26a4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840873715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840873715
+        }
+    ],
+    "wof:id":840873715,
+    "wof:lastmodified":1464049928,
+    "wof:name":"Phoenix 27",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.77509,
+    37.632595,
+    -84.77509,
+    37.632595
+],
+  "geometry": {"coordinates":[-84.77509000000001,37.632595],"type":"Point"}
+}

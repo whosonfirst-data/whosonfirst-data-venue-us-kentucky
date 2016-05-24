@@ -1,0 +1,75 @@
+{
+  "id": 840735827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436343,36.999012,-86.436343,36.999012",
+    "geom:latitude":36.999012,
+    "geom:longitude":-86.436343,
+    "iso:country":"US",
+    "sg:address":"400 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 3990",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fDTp1UXi94xrwzoB5MOZs_36.999012_-86.436343@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046815,
+    "wof:geomhash":"46f66f6f64558e6b23573bb0ff21ae73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840735827
+        }
+    ],
+    "wof:id":840735827,
+    "wof:lastmodified":1464046815,
+    "wof:name":"Chem Lawn",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -86.436343,
+    36.999012,
+    -86.436343,
+    36.999012
+],
+  "geometry": {"coordinates":[-86.43634299999999,36.999012],"type":"Point"}
+}

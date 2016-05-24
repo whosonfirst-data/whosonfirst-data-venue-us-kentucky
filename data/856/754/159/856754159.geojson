@@ -1,0 +1,80 @@
+{
+  "id": 856754159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469481,38.041793,-84.469481,38.041793",
+    "geom:latitude":38.041793,
+    "geom:longitude":-84.469481,
+    "iso:country":"US",
+    "sg:address":"941 Winchester Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 258 9737",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1byzCe0g6527xSVRBLcJxe_38.041793_-84.469481@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053916,
+    "wof:geomhash":"05fa774913b1e6ff0f09859e0d3cdebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830393,
+            "region_id":85688641,
+            "venue_id":856754159
+        }
+    ],
+    "wof:id":856754159,
+    "wof:lastmodified":1464053916,
+    "wof:name":"Whiskey Creek Saloon",
+    "wof:parent_id":85830393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -84.469481,
+    38.041793,
+    -84.469481,
+    38.041793
+],
+  "geometry": {"coordinates":[-84.469481,38.041793],"type":"Point"}
+}

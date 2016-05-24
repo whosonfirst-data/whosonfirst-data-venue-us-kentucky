@@ -1,0 +1,68 @@
+{
+  "id": 840692891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.918731,36.999665,-85.918731,36.999665",
+    "geom:latitude":36.999665,
+    "geom:longitude":-85.918731,
+    "iso:country":"US",
+    "sg:address":"105 Samson St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9777",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nO8uGuJUSUiOjOKpd4Yyf_36.999665_-85.918731@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045894,
+    "wof:geomhash":"3bc38ec2f1098873cabbc44d21da6e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840692891
+        }
+    ],
+    "wof:id":840692891,
+    "wof:lastmodified":1464045894,
+    "wof:name":"Pharmerica Inc",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.918731,
+    36.999665,
+    -85.918731,
+    36.999665
+],
+  "geometry": {"coordinates":[-85.91873099999999,36.999665],"type":"Point"}
+}

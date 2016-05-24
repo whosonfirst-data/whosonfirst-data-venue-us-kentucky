@@ -1,0 +1,71 @@
+{
+  "id": 840879217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.389592,36.968047,-86.389592,36.968047",
+    "geom:latitude":36.968047,
+    "geom:longitude":-86.389592,
+    "iso:country":"US",
+    "sg:address":"699 Shaker Mill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 0816",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85835757,
+        102084479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c3aeM8oBNaSpCKcPd6i4g_36.968047_-86.389592@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050061,
+    "wof:geomhash":"77d09c6fa7884b5bfbf213912e40d405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "neighbourhood_id":85835757,
+            "region_id":85688641,
+            "venue_id":840879217
+        }
+    ],
+    "wof:id":840879217,
+    "wof:lastmodified":1464050061,
+    "wof:name":"Riverwood Mini Storage",
+    "wof:parent_id":85835757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.389592,
+    36.968047,
+    -86.389592,
+    36.968047
+],
+  "geometry": {"coordinates":[-86.38959199999999,36.968047],"type":"Point"}
+}

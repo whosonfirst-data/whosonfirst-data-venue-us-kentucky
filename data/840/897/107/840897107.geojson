@@ -1,0 +1,71 @@
+{
+  "id": 840897107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.858417,37.694998,-85.858417,37.694998",
+    "geom:latitude":37.694998,
+    "geom:longitude":-85.858417,
+    "iso:country":"US",
+    "sg:address":"111 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 5028",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n7c1SvoRJboRYXslaqMYV_37.694998_-85.858417@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050432,
+    "wof:geomhash":"c7278fc543d5abe4fc4ca07e5010ef7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840897107
+        }
+    ],
+    "wof:id":840897107,
+    "wof:lastmodified":1464050432,
+    "wof:name":"Huddleston & Van Zant Real Est",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -85.858417,
+    37.694998,
+    -85.858417,
+    37.694998
+],
+  "geometry": {"coordinates":[-85.858417,37.694998],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840761319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.727666,37.598491,-84.727666,37.598491",
+    "geom:latitude":37.598491,
+    "geom:longitude":-84.727666,
+    "iso:country":"US",
+    "sg:address":"4306 Stanford Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 4956",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tluvDWMAbVSUCZnlmHpEm_37.598491_-84.727666@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047376,
+    "wof:geomhash":"1fefcbd759546dbc20d397b3de2ccc63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840761319
+        }
+    ],
+    "wof:id":840761319,
+    "wof:lastmodified":1464047376,
+    "wof:name":"Willow Grove Baptist Church",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.727666,
+    37.598491,
+    -84.727666,
+    37.598491
+],
+  "geometry": {"coordinates":[-84.727666,37.598491],"type":"Point"}
+}

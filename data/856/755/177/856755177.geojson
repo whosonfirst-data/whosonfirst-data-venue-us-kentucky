@@ -1,0 +1,75 @@
+{
+  "id": 856755177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473588,37.989795,-84.473588,37.989795",
+    "geom:latitude":37.989795,
+    "geom:longitude":-84.473588,
+    "iso:country":"US",
+    "sg:address":"1286 Oaklawn Park",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 272 3203",
+    "sg:postcode":"40517",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DcIOdAprahXAqdNOirwyP_37.989795_-84.473588@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053952,
+    "wof:geomhash":"19fed8bab88cd1866e7d2d59e651c969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873051,
+            "region_id":85688641,
+            "venue_id":856755177
+        }
+    ],
+    "wof:id":856755177,
+    "wof:lastmodified":1464053952,
+    "wof:name":"Dr Ws Gochenour",
+    "wof:parent_id":85873051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.473588,
+    37.989795,
+    -84.473588,
+    37.989795
+],
+  "geometry": {"coordinates":[-84.47358800000001,37.989795],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856732245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.376892,38.401061,-85.376892,38.401061",
+    "geom:latitude":38.401061,
+    "geom:longitude":-85.376892,
+    "iso:country":"US",
+    "sg:address":"103 W Crystal Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/la-grange/208238-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 8226",
+    "sg:postcode":"40031",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KriWYBWltKtBlVCUFFhwW_38.401061_-85.376892@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053082,
+    "wof:geomhash":"8c7218054986db9142f78bb4ad4ed042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856732245
+        }
+    ],
+    "wof:id":856732245,
+    "wof:lastmodified":1464053082,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.376892,
+    38.401061,
+    -85.376892,
+    38.401061
+],
+  "geometry": {"coordinates":[-85.376892,38.401061],"type":"Point"}
+}

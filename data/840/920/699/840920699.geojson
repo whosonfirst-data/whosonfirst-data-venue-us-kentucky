@@ -1,0 +1,71 @@
+{
+  "id": 840920699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.568896,37.835189,-87.568896,37.835189",
+    "geom:latitude":37.835189,
+    "geom:longitude":-87.568896,
+    "iso:country":"US",
+    "sg:address":"481 Klutey Park Plaza Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2677",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aIT62f71b7GfJRPm2G68x_37.835189_-87.568896@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051013,
+    "wof:geomhash":"011e3798420d138906e4be3d743d2fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840920699
+        }
+    ],
+    "wof:id":840920699,
+    "wof:lastmodified":1464051013,
+    "wof:name":"Mark A Moats DDS",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -87.568896,
+    37.835189,
+    -87.568896,
+    37.835189
+],
+  "geometry": {"coordinates":[-87.568896,37.835189],"type":"Point"}
+}

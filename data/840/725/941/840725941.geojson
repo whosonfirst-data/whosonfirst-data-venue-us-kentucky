@@ -1,0 +1,75 @@
+{
+  "id": 840725941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.418321,38.312423,-85.418321,38.312423",
+    "geom:latitude":38.312423,
+    "geom:longitude":-85.418321,
+    "iso:country":"US",
+    "sg:address":"8102 Speer Ln",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 225 4131",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rIp387rMhtY2colvIEgpF_38.312423_-85.418321@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046635,
+    "wof:geomhash":"c0f04d76a9b9f31776ba9ad82ea69ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840725941
+        }
+    ],
+    "wof:id":840725941,
+    "wof:lastmodified":1464046635,
+    "wof:name":"Dent Doctor",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -85.418321,
+    38.312423,
+    -85.418321,
+    38.312423
+],
+  "geometry": {"coordinates":[-85.41832100000001,38.312423],"type":"Point"}
+}

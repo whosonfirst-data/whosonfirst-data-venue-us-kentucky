@@ -1,0 +1,71 @@
+{
+  "id": 840539717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.732835,37.834509,-85.732835,37.834509",
+    "geom:latitude":37.834509,
+    "geom:longitude":-85.732835,
+    "iso:country":"US",
+    "sg:address":"271 Main St",
+    "sg:city":"Lebanon Junction",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 833 4311",
+    "sg:postcode":"40150",
+    "sg:province":"KY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03O7kVK1OhfJPYNZCxE5DA_37.834509_-85.732835@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042211,
+    "wof:geomhash":"e295d4b3f97fa8a1f1d7aa9ff8b64dcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840539717
+        }
+    ],
+    "wof:id":840539717,
+    "wof:lastmodified":1464042211,
+    "wof:name":"Lebanon Junction City Hall",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -85.732835,
+    37.834509,
+    -85.732835,
+    37.834509
+],
+  "geometry": {"coordinates":[-85.73283499999999,37.834509],"type":"Point"}
+}

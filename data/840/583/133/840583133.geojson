@@ -1,0 +1,73 @@
+{
+  "id": 840583133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.672289,37.100986,-88.672289,37.100986",
+    "geom:latitude":37.100986,
+    "geom:longitude":-88.672289,
+    "iso:country":"US",
+    "sg:address":"4331 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6004",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "without",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eJvcw2FUPgsjKcwFq3gss_37.100986_-88.672289@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043276,
+    "wof:geomhash":"52bacf64418f69c720b98a8d923246b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840583133
+        }
+    ],
+    "wof:id":840583133,
+    "wof:lastmodified":1464043276,
+    "wof:name":"Rsb Logistic",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "without",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.672289,
+    37.100986,
+    -88.672289,
+    37.100986
+],
+  "geometry": {"coordinates":[-88.67228900000001,37.100986],"type":"Point"}
+}

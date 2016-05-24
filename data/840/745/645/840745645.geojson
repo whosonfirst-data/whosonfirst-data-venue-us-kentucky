@@ -1,0 +1,71 @@
+{
+  "id": 840745645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572527,37.881561,-84.572527,37.881561",
+    "geom:latitude":37.881561,
+    "geom:longitude":-84.572527,
+    "iso:country":"US",
+    "sg:address":"222 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 8588",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lJlNJuiUwNE7E1yzlcORL_37.881561_-84.572527@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046998,
+    "wof:geomhash":"95e3703d3d38111376aecae6b43f7816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840745645
+        }
+    ],
+    "wof:id":840745645,
+    "wof:lastmodified":1464046998,
+    "wof:name":"North Main Tire & Svc Ctr",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.572527,
+    37.881561,
+    -84.572527,
+    37.881561
+],
+  "geometry": {"coordinates":[-84.57252699999999,37.881561],"type":"Point"}
+}

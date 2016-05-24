@@ -1,0 +1,66 @@
+{
+  "id": 856762807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.866069,37.699455,-85.866069,37.699455",
+    "geom:latitude":37.699455,
+    "geom:longitude":-85.866069,
+    "iso:country":"US",
+    "sg:address":"428 W Dixie Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 5150",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tq1vbKSfQTKJIdmekwy2j_37.699455_-85.866069@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"81fbd318b5952a66b24171d1a6d9034f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762807
+        }
+    ],
+    "wof:id":856762807,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Dynamic Market Concept",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.866069,
+    37.699455,
+    -85.866069,
+    37.699455
+],
+  "geometry": {"coordinates":[-85.866069,37.699455],"type":"Point"}
+}

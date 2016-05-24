@@ -1,0 +1,71 @@
+{
+  "id": 840896347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.546466,37.052785,-84.546466,37.052785",
+    "geom:latitude":37.052785,
+    "geom:longitude":-84.546466,
+    "iso:country":"US",
+    "sg:address":"4394 Rush Branch Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 9249",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pavement",
+        "sealing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zgLNwT7L9nd1FlBBg17Lx_37.052785_-84.546466@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050416,
+    "wof:geomhash":"ac822dc04f067b5089dd41a874d361ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840896347
+        }
+    ],
+    "wof:id":840896347,
+    "wof:lastmodified":1464050416,
+    "wof:name":"J B Paving",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "sealing"
+    ]
+},
+  "bbox": [
+    -84.546466,
+    37.052785,
+    -84.546466,
+    37.052785
+],
+  "geometry": {"coordinates":[-84.546466,37.052785],"type":"Point"}
+}

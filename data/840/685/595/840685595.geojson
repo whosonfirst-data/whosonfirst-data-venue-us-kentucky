@@ -1,0 +1,75 @@
+{
+  "id": 840685595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.911756,36.995916,-85.911756,36.995916",
+    "geom:latitude":36.995916,
+    "geom:longitude":-85.911756,
+    "iso:country":"US",
+    "sg:address":"107 E Main St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 8766",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x8w7mVnBUIn2wm4aCg6gb_36.995916_-85.911756@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045698,
+    "wof:geomhash":"288b9f24e11217366c870eb56e616bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840685595
+        }
+    ],
+    "wof:id":840685595,
+    "wof:lastmodified":1464045698,
+    "wof:name":"Barren County Attorney",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -85.911756,
+    36.995916,
+    -85.911756,
+    36.995916
+],
+  "geometry": {"coordinates":[-85.911756,36.995916],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 840728059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.565818,37.860616,-87.565818,37.860616",
+    "geom:latitude":37.860616,
+    "geom:longitude":-87.565818,
+    "iso:country":"US",
+    "sg:address":"2001 US Hwy 60",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 5363",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QIu3gq2b5xZf5GzmZJ9ik_37.860616_-87.565818@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046672,
+    "wof:geomhash":"bcdba93cbf7b542b96f5592bd3a88376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840728059
+        }
+    ],
+    "wof:id":840728059,
+    "wof:lastmodified":1464046672,
+    "wof:name":"Pantry",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.565818,
+    37.860616,
+    -87.565818,
+    37.860616
+],
+  "geometry": {"coordinates":[-87.56581799999999,37.860616],"type":"Point"}
+}

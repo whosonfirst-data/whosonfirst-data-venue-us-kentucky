@@ -1,0 +1,71 @@
+{
+  "id": 840536803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.135592,37.507355,-82.135592,37.507355",
+    "geom:latitude":37.507355,
+    "geom:longitude":-82.135592,
+    "iso:country":"US",
+    "sg:address":"37035 State Hwy 194 E",
+    "sg:city":"Phelps",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 456 0656",
+    "sg:postcode":"41553",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jxT9drtrfmzxnW78p9uuN_37.507355_-82.135592@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042131,
+    "wof:geomhash":"18f44f16326c0326d076dc6bad541e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840536803
+        }
+    ],
+    "wof:id":840536803,
+    "wof:lastmodified":1464042131,
+    "wof:name":"R S Jones & Son Funeral Home",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -82.135592,
+    37.507355,
+    -82.135592,
+    37.507355
+],
+  "geometry": {"coordinates":[-82.135592,37.507355],"type":"Point"}
+}

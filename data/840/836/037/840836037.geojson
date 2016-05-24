@@ -1,0 +1,77 @@
+{
+  "id": 840836037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29524,37.74889,-84.29524,37.74889",
+    "geom:latitude":37.74889,
+    "geom:longitude":-84.29524,
+    "iso:country":"US",
+    "sg:address":"225 W Irvine St",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1727",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "locksmith",
+        "lock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13TDtNQ1vjx3WU0h7KAp5R_37.748890_-84.295240@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049131,
+    "wof:geomhash":"f5922871e21071f97f59eb49f7d33faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840836037
+        }
+    ],
+    "wof:id":840836037,
+    "wof:lastmodified":1464049131,
+    "wof:name":"Dependable Locksmith Service",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "locksmith",
+        "lock"
+    ]
+},
+  "bbox": [
+    -84.29524,
+    37.74889,
+    -84.29524,
+    37.74889
+],
+  "geometry": {"coordinates":[-84.29524000000001,37.74889],"type":"Point"}
+}

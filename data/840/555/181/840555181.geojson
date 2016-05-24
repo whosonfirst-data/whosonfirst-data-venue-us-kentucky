@@ -1,0 +1,73 @@
+{
+  "id": 840555181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.466388,37.810192,-85.466388,37.810192",
+    "geom:latitude":37.810192,
+    "geom:longitude":-85.466388,
+    "iso:country":"US",
+    "sg:address":"129 N 3rd St",
+    "sg:city":"Bardstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 348 1256",
+    "sg:postcode":"40004",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946937,
+        102084589,
+        85858429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xk5C0BT9QoP9LC7HAHMXP_37.810192_-85.466388@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042631,
+    "wof:geomhash":"1e1650167c8ed15611f495ab3eb252ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084589,
+            "locality_id":85946937,
+            "neighbourhood_id":85858429,
+            "region_id":85688641,
+            "venue_id":840555181
+        }
+    ],
+    "wof:id":840555181,
+    "wof:lastmodified":1464042631,
+    "wof:name":"Bardstown Booksellers",
+    "wof:parent_id":85858429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.466388,
+    37.810192,
+    -85.466388,
+    37.810192
+],
+  "geometry": {"coordinates":[-85.46638799999999,37.810192],"type":"Point"}
+}

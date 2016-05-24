@@ -1,0 +1,71 @@
+{
+  "id": 840783633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564426,37.900392,-84.564426,37.900392",
+    "geom:latitude":37.900392,
+    "geom:longitude":-84.564426,
+    "iso:country":"US",
+    "sg:address":"1038 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2108",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LAMQ7YArBJMMsaZ87mkgY_37.900392_-84.564426@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047830,
+    "wof:geomhash":"7fe2dafa8f547fe1ae354aedabe27edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840783633
+        }
+    ],
+    "wof:id":840783633,
+    "wof:lastmodified":1464047830,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -84.564426,
+    37.900392,
+    -84.564426,
+    37.900392
+],
+  "geometry": {"coordinates":[-84.564426,37.900392],"type":"Point"}
+}

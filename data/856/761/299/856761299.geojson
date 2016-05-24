@@ -1,0 +1,80 @@
+{
+  "id": 856761299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.690948,37.026373,-88.690948,37.026373",
+    "geom:latitude":37.026373,
+    "geom:longitude":-88.690948,
+    "iso:country":"US",
+    "sg:address":"115 Palisades Cir",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 554 7218",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xgKVP67QibJpw5QF86Eb8_37.026373_-88.690948@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054171,
+    "wof:geomhash":"d0c67a68fea1babfe86e5c472ac0d011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761299
+        }
+    ],
+    "wof:id":856761299,
+    "wof:lastmodified":1464054171,
+    "wof:name":"Hughes Heritage Homes",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.690948,
+    37.026373,
+    -88.690948,
+    37.026373
+],
+  "geometry": {"coordinates":[-88.69094800000001,37.026373],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856718905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.638499,37.063189,-88.638499,37.063189",
+    "geom:latitude":37.063189,
+    "geom:longitude":-88.638499,
+    "iso:country":"US",
+    "sg:address":"546 Lone Oak Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9141",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bMj9XA7KnKLhF4zlC75UM_37.063189_-88.638499@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052544,
+    "wof:geomhash":"46f348fa88c5ad74ed2713bb9cd87e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856718905
+        }
+    ],
+    "wof:id":856718905,
+    "wof:lastmodified":1464052544,
+    "wof:name":"Blood Bank-Red Cross",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.638499,
+    37.063189,
+    -88.638499,
+    37.063189
+],
+  "geometry": {"coordinates":[-88.638499,37.063189],"type":"Point"}
+}

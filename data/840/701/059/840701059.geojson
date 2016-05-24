@@ -1,0 +1,75 @@
+{
+  "id": 840701059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.507514,39.086334,-84.507514,39.086334",
+    "geom:latitude":39.086334,
+    "geom:longitude":-84.507514,
+    "iso:country":"US",
+    "sg:address":"401 Greenup St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 491 8562",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xuCQablYnX8gtFKeljj1s_39.086334_-84.507514@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046108,
+    "wof:geomhash":"bfe51c9c3317829f41e470de680f64ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":840701059
+        }
+    ],
+    "wof:id":840701059,
+    "wof:lastmodified":1464046108,
+    "wof:name":"Foster Auto Sales",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.507514,
+    39.086334,
+    -84.507514,
+    39.086334
+],
+  "geometry": {"coordinates":[-84.507514,39.086334],"type":"Point"}
+}

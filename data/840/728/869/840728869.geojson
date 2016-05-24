@@ -1,0 +1,71 @@
+{
+  "id": 840728869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.455329,36.934882,-86.455329,36.934882",
+    "geom:latitude":36.934882,
+    "geom:longitude":-86.455329,
+    "iso:country":"US",
+    "sg:address":"1232 Lois Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 0464",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HNYDcae8cP2xH85coXH9R_36.934882_-86.455329@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046687,
+    "wof:geomhash":"5d8000d871a15db193038838eea5c2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840728869
+        }
+    ],
+    "wof:id":840728869,
+    "wof:lastmodified":1464046687,
+    "wof:name":"Valeries Family Care",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -86.455329,
+    36.934882,
+    -86.455329,
+    36.934882
+],
+  "geometry": {"coordinates":[-86.45532900000001,36.934882],"type":"Point"}
+}

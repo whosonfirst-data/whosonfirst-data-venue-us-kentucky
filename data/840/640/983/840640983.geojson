@@ -1,0 +1,73 @@
+{
+  "id": 840640983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.395431,36.923177,-86.395431,36.923177",
+    "geom:latitude":36.923177,
+    "geom:longitude":-86.395431,
+    "iso:country":"US",
+    "sg:address":"884 Peachtree Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8130",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bjq9SBYkORqzKwec0zpym_36.923177_-86.395431@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044699,
+    "wof:geomhash":"0cb8fd30b91945770cbd76577aaa4a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840640983
+        }
+    ],
+    "wof:id":840640983,
+    "wof:lastmodified":1464044699,
+    "wof:name":"Breakfield Roofing",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.395431,
+    36.923177,
+    -86.395431,
+    36.923177
+],
+  "geometry": {"coordinates":[-86.395431,36.923177],"type":"Point"}
+}

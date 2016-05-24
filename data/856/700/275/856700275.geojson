@@ -1,0 +1,71 @@
+{
+  "id": 856700275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.825755,37.649152,-85.825755,37.649152",
+    "geom:latitude":37.649152,
+    "geom:longitude":-85.825755,
+    "iso:country":"US",
+    "sg:address":"2029 Hodgenville Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 7144",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUgh9foKsJSPSCCNzQqhN_37.649152_-85.825755@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052060,
+    "wof:geomhash":"c16d99512d008b5d936cc4bf3856b3e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856700275
+        }
+    ],
+    "wof:id":856700275,
+    "wof:lastmodified":1464052060,
+    "wof:name":"A-1 Septic Tank Cleaning Svc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -85.825755,
+    37.649152,
+    -85.825755,
+    37.649152
+],
+  "geometry": {"coordinates":[-85.825755,37.649152],"type":"Point"}
+}

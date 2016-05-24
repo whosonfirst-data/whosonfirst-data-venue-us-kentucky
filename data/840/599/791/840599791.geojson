@@ -1,0 +1,71 @@
+{
+  "id": 840599791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.23228,37.635098,-84.23228,37.635098",
+    "geom:latitude":37.635098,
+    "geom:longitude":-84.23228,
+    "iso:country":"US",
+    "sg:address":"610 McKee Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 5549",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45EDphSma3VQclPG7OwdUS_37.635098_-84.232280@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043655,
+    "wof:geomhash":"705326138a8deff368b30162ee0527aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840599791
+        }
+    ],
+    "wof:id":840599791,
+    "wof:lastmodified":1464043655,
+    "wof:name":"Kingston Motors",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.23228,
+    37.635098,
+    -84.23228,
+    37.635098
+],
+  "geometry": {"coordinates":[-84.23228,37.635098],"type":"Point"}
+}

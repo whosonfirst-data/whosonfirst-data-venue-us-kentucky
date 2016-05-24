@@ -1,0 +1,72 @@
+{
+  "id": 840636995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447208,36.995082,-86.447208,36.995082",
+    "geom:latitude":36.995082,
+    "geom:longitude":-86.447208,
+    "iso:country":"US",
+    "sg:address":"109 E 11th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 6991",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.bandbcleaningcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4elYSUE578pFCSe0W84c0r_36.995082_-86.447208@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044614,
+    "wof:geomhash":"2bbc29e5d45eef02c00e357d7f3ac0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840636995
+        }
+    ],
+    "wof:id":840636995,
+    "wof:lastmodified":1464044614,
+    "wof:name":"B & B Cleaning",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.447208,
+    36.995082,
+    -86.447208,
+    36.995082
+],
+  "geometry": {"coordinates":[-86.447208,36.995082],"type":"Point"}
+}

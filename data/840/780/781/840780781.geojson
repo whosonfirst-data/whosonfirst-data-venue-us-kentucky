@@ -1,0 +1,75 @@
+{
+  "id": 840780781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.641358,37.689956,-87.641358,37.689956",
+    "geom:latitude":37.689956,
+    "geom:longitude":-87.641358,
+    "iso:country":"US",
+    "sg:address":"14660 US Hwy 41A",
+    "sg:city":"Robards",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 521 4000",
+    "sg:postcode":"42406",
+    "sg:province":"KY",
+    "sg:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RmmL4BYk1UiN1H9EKYEe4_37.689956_-87.641358@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047779,
+    "wof:geomhash":"3592d859ac92a191f66896191265a8ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840780781
+        }
+    ],
+    "wof:id":840780781,
+    "wof:lastmodified":1464047779,
+    "wof:name":"Tyson Foods Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "plant",
+        "processing"
+    ]
+},
+  "bbox": [
+    -87.641358,
+    37.689956,
+    -87.641358,
+    37.689956
+],
+  "geometry": {"coordinates":[-87.641358,37.689956],"type":"Point"}
+}

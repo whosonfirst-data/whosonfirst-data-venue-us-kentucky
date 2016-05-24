@@ -1,0 +1,71 @@
+{
+  "id": 840834877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.693196,37.074756,-88.693196,37.074756",
+    "geom:latitude":37.074756,
+    "geom:longitude":-88.693196,
+    "iso:country":"US",
+    "sg:address":"5169 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 9906",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kDrekJJJjQTRpZyhLB6Dr_37.074756_-88.693196@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049109,
+    "wof:geomhash":"99122183d39251453b86446dcf1539fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840834877
+        }
+    ],
+    "wof:id":840834877,
+    "wof:lastmodified":1464049109,
+    "wof:name":"CPMC",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -88.693196,
+    37.074756,
+    -88.693196,
+    37.074756
+],
+  "geometry": {"coordinates":[-88.693196,37.074756],"type":"Point"}
+}

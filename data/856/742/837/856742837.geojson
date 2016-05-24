@@ -1,0 +1,83 @@
+{
+  "id": 856742837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.629055,38.243258,-85.629055,38.243258",
+    "geom:latitude":38.243258,
+    "geom:longitude":-85.629055,
+    "iso:country":"US",
+    "sg:address":"4730 Bowling Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 3427",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used",
+        "new"
+    ],
+    "sg:website":"http://www.audiusa.com/us/p_403B13/home.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R3XHmPjdbmEwkuJFo1eCy_38.243258_-85.629055@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053489,
+    "wof:geomhash":"42f82da8a41ae062875a7d2996d9c14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742837
+        }
+    ],
+    "wof:id":856742837,
+    "wof:lastmodified":1464053489,
+    "wof:name":"Blue Grass Audi",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [
+    -85.629055,
+    38.243258,
+    -85.629055,
+    38.243258
+],
+  "geometry": {"coordinates":[-85.62905499999999,38.243258],"type":"Point"}
+}

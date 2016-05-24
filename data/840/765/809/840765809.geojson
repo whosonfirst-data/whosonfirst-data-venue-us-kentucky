@@ -1,0 +1,71 @@
+{
+  "id": 840765809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.856852,37.694351,-85.856852,37.694351",
+    "geom:latitude":37.694351,
+    "geom:longitude":-85.856852,
+    "iso:country":"US",
+    "sg:address":"210 N Main St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 1994",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJ0IX8rS46sSq0b8f3H76_37.694351_-85.856852@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047470,
+    "wof:geomhash":"dc03415db83ebaac7e62a4ff5ce3dcd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840765809
+        }
+    ],
+    "wof:id":840765809,
+    "wof:lastmodified":1464047470,
+    "wof:name":"Goldnamers",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -85.856852,
+    37.694351,
+    -85.856852,
+    37.694351
+],
+  "geometry": {"coordinates":[-85.856852,37.694351],"type":"Point"}
+}

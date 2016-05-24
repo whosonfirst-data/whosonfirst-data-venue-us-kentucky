@@ -1,0 +1,77 @@
+{
+  "id": 856729435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.510685,39.087074,-84.510685,39.087074",
+    "geom:latitude":39.087074,
+    "geom:longitude":-84.510685,
+    "iso:country":"US",
+    "sg:address":"21 E 4th St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 431 0800",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SOEM962h6SQJJUBbY6GG8_39.087039_-84.510481@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052981,
+    "wof:geomhash":"4173b77e871acd08738bef6fb886b609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856729435
+        }
+    ],
+    "wof:id":856729435,
+    "wof:lastmodified":1464052981,
+    "wof:name":"P & R Frame Svc",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.510685,
+    39.087074,
+    -84.510685,
+    39.087074
+],
+  "geometry": {"coordinates":[-84.510685,39.087074],"type":"Point"}
+}

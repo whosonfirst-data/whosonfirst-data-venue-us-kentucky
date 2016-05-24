@@ -1,0 +1,73 @@
+{
+  "id": 840592849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65342,38.18035,-85.65342,38.18035",
+    "geom:latitude":38.18035,
+    "geom:longitude":-85.65342,
+    "iso:country":"US",
+    "sg:address":"4801 Progress Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 3330",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HSwwNBCY6Swp2CVqYXpL_38.180350_-85.653420@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043486,
+    "wof:geomhash":"715794d0fdf3f720f63030178989edf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840592849
+        }
+    ],
+    "wof:id":840592849,
+    "wof:lastmodified":1464043486,
+    "wof:name":"Knights Of Columbus",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -85.65342,
+    38.18035,
+    -85.65342,
+    38.18035
+],
+  "geometry": {"coordinates":[-85.65342,38.18035],"type":"Point"}
+}

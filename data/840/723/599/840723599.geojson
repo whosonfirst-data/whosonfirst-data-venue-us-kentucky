@@ -1,0 +1,75 @@
+{
+  "id": 840723599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.579437,38.242601,-85.579437,38.242601",
+    "geom:latitude":38.242601,
+    "geom:longitude":-85.579437,
+    "iso:country":"US",
+    "sg:address":"310 Whittington Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 6411",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k5KroobibuNQKo6uhvlvZ_38.242601_-85.579437@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046583,
+    "wof:geomhash":"b67103a5be428ef62856ce8254df2315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840723599
+        }
+    ],
+    "wof:id":840723599,
+    "wof:lastmodified":1464046583,
+    "wof:name":"Hurstborne Office Park",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -85.579437,
+    38.242601,
+    -85.579437,
+    38.242601
+],
+  "geometry": {"coordinates":[-85.579437,38.242601],"type":"Point"}
+}

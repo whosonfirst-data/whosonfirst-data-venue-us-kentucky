@@ -1,0 +1,74 @@
+{
+  "id": 856733439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.617494,38.246955,-85.617494,38.246955",
+    "geom:latitude":38.246955,
+    "geom:longitude":-85.617494,
+    "iso:country":"US",
+    "sg:address":"206 Bullitt Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/10806-bravo!-cucina-italiana/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 326 0491",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dt9YLBnCFQ4kjj4AXsrni_38.246955_-85.617494@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053125,
+    "wof:geomhash":"46b21fa65c74e2f1a4adf0cf72cb4b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856733439
+        }
+    ],
+    "wof:id":856733439,
+    "wof:lastmodified":1464053125,
+    "wof:name":"Bravo! Cucina Italiana",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -85.617494,
+    38.246955,
+    -85.617494,
+    38.246955
+],
+  "geometry": {"coordinates":[-85.61749399999999,38.246955],"type":"Point"}
+}

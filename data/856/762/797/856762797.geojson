@@ -1,0 +1,72 @@
+{
+  "id": 856762797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.824142,37.716099,-85.824142,37.716099",
+    "geom:latitude":37.716099,
+    "geom:longitude":-85.824142,
+    "iso:country":"US",
+    "sg:address":"2028 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 1088",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t96AXuefECuTiX52B2phQ_37.716099_-85.824142@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"6572fae27d9b5f60c96028e8a1480f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762797
+        }
+    ],
+    "wof:id":856762797,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Super 8 Elizabethtown",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.824142,
+    37.716099,
+    -85.824142,
+    37.716099
+],
+  "geometry": {"coordinates":[-85.82414199999999,37.716099],"type":"Point"}
+}

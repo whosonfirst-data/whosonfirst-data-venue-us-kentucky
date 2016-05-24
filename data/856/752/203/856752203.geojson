@@ -1,0 +1,74 @@
+{
+  "id": 856752203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.53563,38.221428,-85.53563,38.221428",
+    "geom:latitude":38.221428,
+    "geom:longitude":-85.53563,
+    "iso:country":"US",
+    "sg:address":"1451 Alliant Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 809 9901",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.louisvillekysuites.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l8o8B67OXa6jsfWozY2bR_38.221428_-85.535630@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053840,
+    "wof:geomhash":"652d43836dcab294eb975f92f91dc7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752203
+        }
+    ],
+    "wof:id":856752203,
+    "wof:lastmodified":1464053840,
+    "wof:name":"Hampton Inn and Suites",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.53563,
+    38.221428,
+    -85.53563,
+    38.221428
+],
+  "geometry": {"coordinates":[-85.53563,38.221428],"type":"Point"}
+}

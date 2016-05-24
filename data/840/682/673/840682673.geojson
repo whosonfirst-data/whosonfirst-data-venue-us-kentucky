@@ -1,0 +1,67 @@
+{
+  "id": 840682673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.372917,37.017969,-86.372917,37.017969",
+    "geom:latitude":37.017969,
+    "geom:longitude":-86.372917,
+    "iso:country":"US",
+    "sg:address":"4514 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 9528",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:website":"www.neoncampus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tTcebdLZfbnMQkiMo9ObJ_37.017969_-86.372917@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045639,
+    "wof:geomhash":"f17aba310bf82b7ca81237b88a1181fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840682673
+        }
+    ],
+    "wof:id":840682673,
+    "wof:lastmodified":1464045639,
+    "wof:name":"Neon Campus Inc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.372917,
+    37.017969,
+    -86.372917,
+    37.017969
+],
+  "geometry": {"coordinates":[-86.372917,37.017969],"type":"Point"}
+}

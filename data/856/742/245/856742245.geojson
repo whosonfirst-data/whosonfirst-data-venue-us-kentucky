@@ -1,0 +1,73 @@
+{
+  "id": 856742245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.658804,38.249091,-85.658804,38.249091",
+    "geom:latitude":38.249091,
+    "geom:longitude":-85.658804,
+    "iso:country":"US",
+    "sg:address":"502 Bauer Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 9330",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LFOPN9AJZP28LIiKMMcmD_38.249091_-85.658804@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053466,
+    "wof:geomhash":"c6ec18b5ab7077d0fc66ceeec44a7070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856742245
+        }
+    ],
+    "wof:id":856742245,
+    "wof:lastmodified":1464053466,
+    "wof:name":"Curtis Electrical",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.658804,
+    38.249091,
+    -85.658804,
+    38.249091
+],
+  "geometry": {"coordinates":[-85.658804,38.249091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840828815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.928202,36.998618,-85.928202,36.998618",
+    "geom:latitude":36.998618,
+    "geom:longitude":-85.928202,
+    "iso:country":"US",
+    "sg:address":"228 S L Rogers Wells Blvd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 5755",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DsrmXcFqJOJDCbGrHSDMf_36.998618_-85.928202@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048978,
+    "wof:geomhash":"8e8a3aa40519db62a032674de4277561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840828815
+        }
+    ],
+    "wof:id":840828815,
+    "wof:lastmodified":1464048978,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -85.928202,
+    36.998618,
+    -85.928202,
+    36.998618
+],
+  "geometry": {"coordinates":[-85.928202,36.998618],"type":"Point"}
+}

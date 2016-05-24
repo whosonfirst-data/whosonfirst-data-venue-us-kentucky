@@ -1,0 +1,76 @@
+{
+  "id": 856735289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.534616,38.989923,-84.534616,38.989923",
+    "geom:latitude":38.989923,
+    "geom:longitude":-84.534616,
+    "iso:country":"US",
+    "sg:address":"3393 Madison Pike",
+    "sg:city":"Ft Mitchell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/independence/159314-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 9252",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947211,
+        102084469,
+        85851399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fDp5sLbYkwtFcokdxZmcg_38.989923_-84.534616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053194,
+    "wof:geomhash":"a14c816a0d23ebb0364261a0f30702ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947211,
+            "neighbourhood_id":85851399,
+            "region_id":85688641,
+            "venue_id":856735289
+        }
+    ],
+    "wof:id":856735289,
+    "wof:lastmodified":1464053194,
+    "wof:name":"Arby's",
+    "wof:parent_id":85851399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.534616,
+    38.989923,
+    -84.534616,
+    38.989923
+],
+  "geometry": {"coordinates":[-84.534616,38.989923],"type":"Point"}
+}

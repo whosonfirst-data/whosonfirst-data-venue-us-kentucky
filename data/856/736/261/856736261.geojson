@@ -1,0 +1,76 @@
+{
+  "id": 856736261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.315364,36.612743,-88.315364,36.612743",
+    "geom:latitude":36.612743,
+    "geom:longitude":-88.315364,
+    "iso:country":"US",
+    "sg:address":"205 N 12th St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/murray/176118-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 7101",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f8UvZcvQ1BdcZfYgH7Plh_36.612743_-88.315364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053232,
+    "wof:geomhash":"3c3dea3ee14f2859c882db7aaff0940a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":856736261
+        }
+    ],
+    "wof:id":856736261,
+    "wof:lastmodified":1464053232,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -88.315364,
+    36.612743,
+    -88.315364,
+    36.612743
+],
+  "geometry": {"coordinates":[-88.315364,36.612743],"type":"Point"}
+}

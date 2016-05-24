@@ -1,0 +1,71 @@
+{
+  "id": 840760349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.558304,37.477605,-82.558304,37.477605",
+    "geom:latitude":37.477605,
+    "geom:longitude":-82.558304,
+    "iso:country":"US",
+    "sg:address":"508 Cedar Creek Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 437 4578",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mXH7jwRiWJ1Bowv0aFuS8_37.477605_-82.558304@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047353,
+    "wof:geomhash":"654e903b2fc2a742ca510d81c401c178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840760349
+        }
+    ],
+    "wof:id":840760349,
+    "wof:lastmodified":1464047353,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -82.558304,
+    37.477605,
+    -82.558304,
+    37.477605
+],
+  "geometry": {"coordinates":[-82.55830400000001,37.477605],"type":"Point"}
+}

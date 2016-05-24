@@ -1,0 +1,73 @@
+{
+  "id": 840600157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.793996,38.12877,-85.793996,38.12877",
+    "geom:latitude":38.12877,
+    "geom:longitude":-85.793996,
+    "iso:country":"US",
+    "sg:address":"7940 3rd Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 1836",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vqow7398FHnCZ18RPqhfw_38.128770_-85.793996@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043666,
+    "wof:geomhash":"99028a06047b6bf6025e7e40e64d72a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840600157
+        }
+    ],
+    "wof:id":840600157,
+    "wof:lastmodified":1464043666,
+    "wof:name":"Fairdale Volunteer Fire Dept",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.793996,
+    38.12877,
+    -85.793996,
+    38.12877
+],
+  "geometry": {"coordinates":[-85.79399600000001,38.12877],"type":"Point"}
+}

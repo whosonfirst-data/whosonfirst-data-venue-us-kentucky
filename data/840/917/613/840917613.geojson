@@ -1,0 +1,68 @@
+{
+  "id": 840917613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.316954,36.610288,-88.316954,36.610288",
+    "geom:latitude":36.610288,
+    "geom:longitude":-88.316954,
+    "iso:country":"US",
+    "sg:address":"1315 Main St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 759 1161",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qAd6dzPqr0dOiOPOt0zV5_36.610288_-88.316954@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050945,
+    "wof:geomhash":"4da2f5cf7e2a8c52f61318b31769d856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840917613
+        }
+    ],
+    "wof:id":840917613,
+    "wof:lastmodified":1464050945,
+    "wof:name":"West Kentucky Properties",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.316954,
+    36.610288,
+    -88.316954,
+    36.610288
+],
+  "geometry": {"coordinates":[-88.316954,36.610288],"type":"Point"}
+}

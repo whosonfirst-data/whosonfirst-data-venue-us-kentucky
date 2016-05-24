@@ -1,0 +1,68 @@
+{
+  "id": 840826423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.759012,38.233376,-85.759012,38.233376",
+    "geom:latitude":38.233376,
+    "geom:longitude":-85.759012,
+    "iso:country":"US",
+    "sg:address":"1230 S 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 634 5444",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Wsg3P0cFmayUh5pHePYB_38.233376_-85.759012@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048921,
+    "wof:geomhash":"bb9ecdf78bb8dd72a9fcb7286f2359b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840826423
+        }
+    ],
+    "wof:id":840826423,
+    "wof:lastmodified":1464048921,
+    "wof:name":"El Shaddai Child Care Ctr",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.759012,
+    38.233376,
+    -85.759012,
+    38.233376
+],
+  "geometry": {"coordinates":[-85.759012,38.233376],"type":"Point"}
+}

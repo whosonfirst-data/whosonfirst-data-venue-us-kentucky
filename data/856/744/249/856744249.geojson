@@ -1,0 +1,74 @@
+{
+  "id": 856744249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.805923,38.268786,-85.805923,38.268786",
+    "geom:latitude":38.268786,
+    "geom:longitude":-85.805923,
+    "iso:country":"US",
+    "sg:address":"575 N 34th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 4940",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.nscorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ksAZXMhvNODq9N7NMZlwQ_38.268786_-85.805923@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053537,
+    "wof:geomhash":"934ad357f029aaa2cae98a90d5198451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":856744249
+        }
+    ],
+    "wof:id":856744249,
+    "wof:lastmodified":1464053537,
+    "wof:name":"Norfolk Southern",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -85.805923,
+    38.268786,
+    -85.805923,
+    38.268786
+],
+  "geometry": {"coordinates":[-85.80592300000001,38.268786],"type":"Point"}
+}

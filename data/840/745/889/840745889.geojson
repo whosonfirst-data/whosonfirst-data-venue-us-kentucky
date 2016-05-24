@@ -1,0 +1,69 @@
+{
+  "id": 840745889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.728917,38.052225,-84.728917,38.052225",
+    "geom:latitude":38.052225,
+    "geom:longitude":-84.728917,
+    "iso:country":"US",
+    "sg:address":"131 S Locust St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 4100",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aypzhKfXHqnGF0NgFcFir_38.052225_-84.728917@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047003,
+    "wof:geomhash":"39a246c6b8e823c16f7d62fbf460df63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840745889
+        }
+    ],
+    "wof:id":840745889,
+    "wof:lastmodified":1464047003,
+    "wof:name":"Versailles Fire Dept",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.728917,
+    38.052225,
+    -84.728917,
+    38.052225
+],
+  "geometry": {"coordinates":[-84.728917,38.052225],"type":"Point"}
+}

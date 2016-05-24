@@ -1,0 +1,93 @@
+{
+  "id": 856747723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.61791,38.218611,-85.61791,38.218611",
+    "geom:latitude":38.218611,
+    "geom:longitude":-85.61791,
+    "iso:country":"US",
+    "sg:address":"3010 Taylor Springs Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 4588",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "control",
+        "physician",
+        "management",
+        "weight",
+        "loss",
+        "dietitian",
+        "surgeons",
+        "nutritionist"
+    ],
+    "sg:website":"http://www.mganda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WXs9effQLwhwyofN7u0Hd_38.218611_-85.617910@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053666,
+    "wof:geomhash":"f14be74ba04506d8f22a957ce579de26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747723
+        }
+    ],
+    "wof:id":856747723,
+    "wof:lastmodified":1464053666,
+    "wof:name":"Martha Gregory & Associates Inc",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "physician",
+        "management",
+        "weight",
+        "loss",
+        "dietitian",
+        "surgeons",
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -85.61791,
+    38.218611,
+    -85.61791,
+    38.218611
+],
+  "geometry": {"coordinates":[-85.61790999999999,38.218611],"type":"Point"}
+}

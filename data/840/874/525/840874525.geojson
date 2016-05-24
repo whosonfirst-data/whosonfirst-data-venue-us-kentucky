@@ -1,0 +1,73 @@
+{
+  "id": 840874525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.808588,38.238724,-85.808588,38.238724",
+    "geom:latitude":38.238724,
+    "geom:longitude":-85.808588,
+    "iso:country":"US",
+    "sg:address":"3328 Virginia Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 5562",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a2eXqnkGTJ6gQN5Ek28O5_38.238724_-85.808588@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049942,
+    "wof:geomhash":"c9217ca55d82d4ce744609a8b56de927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840874525
+        }
+    ],
+    "wof:id":840874525,
+    "wof:lastmodified":1464049942,
+    "wof:name":"Big Gene's Market",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -85.808588,
+    38.238724,
+    -85.808588,
+    38.238724
+],
+  "geometry": {"coordinates":[-85.808588,38.238724],"type":"Point"}
+}

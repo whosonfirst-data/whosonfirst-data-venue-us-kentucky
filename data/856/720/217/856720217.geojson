@@ -1,0 +1,75 @@
+{
+  "id": 856720217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.689557,38.116883,-85.689557,38.116883",
+    "geom:latitude":38.116883,
+    "geom:longitude":-85.689557,
+    "iso:country":"US",
+    "sg:address":"9110 Blue Lick Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 962 6926",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LHRZQQFhi46WKbAukx9TO_38.116883_-85.689557@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052599,
+    "wof:geomhash":"9801a098e144fd54b9ac4a0d0c0f8c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":856720217
+        }
+    ],
+    "wof:id":856720217,
+    "wof:lastmodified":1464052599,
+    "wof:name":"Steve & Sons Automotive Repair",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -85.689557,
+    38.116883,
+    -85.689557,
+    38.116883
+],
+  "geometry": {"coordinates":[-85.68955699999999,38.116883],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840618663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.475361,36.972877,-86.475361,36.972877",
+    "geom:latitude":36.972877,
+    "geom:longitude":-86.475361,
+    "iso:country":"US",
+    "sg:address":"2225 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 6445",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "sg:website":"www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E7sL4LrsVjYL5sNMl2QyV_36.972877_-86.475361@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044135,
+    "wof:geomhash":"197c86eeff6544dea06b18d8a5f95058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840618663
+        }
+    ],
+    "wof:id":840618663,
+    "wof:lastmodified":1464044135,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -86.475361,
+    36.972877,
+    -86.475361,
+    36.972877
+],
+  "geometry": {"coordinates":[-86.47536100000001,36.972877],"type":"Point"}
+}

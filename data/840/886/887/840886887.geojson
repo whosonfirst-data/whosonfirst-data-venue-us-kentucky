@@ -1,0 +1,73 @@
+{
+  "id": 840886887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.737769,36.605422,-83.737769,36.605422",
+    "geom:latitude":36.605422,
+    "geom:longitude":-83.737769,
+    "iso:country":"US",
+    "sg:address":"3501 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 5191",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dauB6nwIoGdDiYh5PZnAK_36.605422_-83.737769@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050217,
+    "wof:geomhash":"fbf6e5cf6d2e8751a1ce50daac9fcb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":840886887
+        }
+    ],
+    "wof:id":840886887,
+    "wof:lastmodified":1464050217,
+    "wof:name":"Nitin K Patel MD",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.737769,
+    36.605422,
+    -83.737769,
+    36.605422
+],
+  "geometry": {"coordinates":[-83.737769,36.605422],"type":"Point"}
+}

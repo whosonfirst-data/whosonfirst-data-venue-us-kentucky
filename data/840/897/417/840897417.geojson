@@ -1,0 +1,73 @@
+{
+  "id": 840897417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.36363,37.529378,-82.36363,37.529378",
+    "geom:latitude":37.529378,
+    "geom:longitude":-82.36363,
+    "iso:country":"US",
+    "sg:address":"302 Meathouse Rd",
+    "sg:city":"Kimper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 631 1625",
+    "sg:postcode":"41539",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MgCtLcCZwRrJkIT8WanzA_37.529378_-82.363630@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050438,
+    "wof:geomhash":"08ec377c5a0a5095f8faba41135f02e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840897417
+        }
+    ],
+    "wof:id":840897417,
+    "wof:lastmodified":1464050438,
+    "wof:name":"D&D Contracting",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -82.36363,
+    37.529378,
+    -82.36363,
+    37.529378
+],
+  "geometry": {"coordinates":[-82.36363,37.529378],"type":"Point"}
+}

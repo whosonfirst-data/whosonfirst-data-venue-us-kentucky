@@ -1,0 +1,73 @@
+{
+  "id": 840542371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.848207,37.703694,-85.848207,37.703694",
+    "geom:latitude":37.703694,
+    "geom:longitude":-85.848207,
+    "iso:country":"US",
+    "sg:address":"802 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 4461",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jDoIjD2qvKEmBNjvORO2d_37.703694_-85.848207@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042278,
+    "wof:geomhash":"251a5c86ffc9979933ef7deb20876098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840542371
+        }
+    ],
+    "wof:id":840542371,
+    "wof:lastmodified":1464042278,
+    "wof:name":"Gilpin Industries Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.848207,
+    37.703694,
+    -85.848207,
+    37.703694
+],
+  "geometry": {"coordinates":[-85.848207,37.703694],"type":"Point"}
+}

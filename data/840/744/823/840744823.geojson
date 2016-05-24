@@ -1,0 +1,75 @@
+{
+  "id": 840744823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.422184,36.984139,-86.422184,36.984139",
+    "geom:latitude":36.984139,
+    "geom:longitude":-86.422184,
+    "iso:country":"US",
+    "sg:address":"685 Covington St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 9284",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85807351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xsPNKxmRETSepczcy4MPK_36.984139_-86.422184@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046984,
+    "wof:geomhash":"97893893b66a0cf62af84255f058bfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807351,
+            "region_id":85688641,
+            "venue_id":840744823
+        }
+    ],
+    "wof:id":840744823,
+    "wof:lastmodified":1464046984,
+    "wof:name":"Rob Jones Construction",
+    "wof:parent_id":85807351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -86.422184,
+    36.984139,
+    -86.422184,
+    36.984139
+],
+  "geometry": {"coordinates":[-86.422184,36.984139],"type":"Point"}
+}

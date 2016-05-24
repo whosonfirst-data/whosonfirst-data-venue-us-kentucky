@@ -1,0 +1,67 @@
+{
+  "id": 856761433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684325,37.077464,-88.684325,37.077464",
+    "geom:latitude":37.077464,
+    "geom:longitude":-88.684325,
+    "iso:country":"US",
+    "sg:address":"5015 Hinkleville Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0211",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"http://www.elder-beerman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VotvUVre1X7gDUd44ggP_37.077464_-88.684325@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054176,
+    "wof:geomhash":"8e9b9130ac0536b09a466a2c3b6c4c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761433
+        }
+    ],
+    "wof:id":856761433,
+    "wof:lastmodified":1464054176,
+    "wof:name":"Elder-Beerman Store 180",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.684325,
+    37.077464,
+    -88.684325,
+    37.077464
+],
+  "geometry": {"coordinates":[-88.684325,37.077464],"type":"Point"}
+}

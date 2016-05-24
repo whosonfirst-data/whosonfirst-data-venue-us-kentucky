@@ -1,0 +1,75 @@
+{
+  "id": 840841385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.549924,37.821515,-87.549924,37.821515",
+    "geom:latitude":37.821515,
+    "geom:longitude":-87.549924,
+    "iso:country":"US",
+    "sg:address":"1597 Adams Ln",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 3970",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X2NkkWfzAMQHYIW45xc3K_37.821515_-87.549924@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049259,
+    "wof:geomhash":"19a5952844e3aa8555433aea30734745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840841385
+        }
+    ],
+    "wof:id":840841385,
+    "wof:lastmodified":1464049259,
+    "wof:name":"Book Rack",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.549924,
+    37.821515,
+    -87.549924,
+    37.821515
+],
+  "geometry": {"coordinates":[-87.549924,37.821515],"type":"Point"}
+}

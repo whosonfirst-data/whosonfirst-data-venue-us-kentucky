@@ -1,0 +1,71 @@
+{
+  "id": 840867177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.487163,37.001307,-86.487163,37.001307",
+    "geom:latitude":37.001307,
+    "geom:longitude":-86.487163,
+    "iso:country":"US",
+    "sg:address":"1011 Veterans Memorial Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 9455",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lubricant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pT6t5UiytzsNY490rdWp3_37.001307_-86.487163@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049800,
+    "wof:geomhash":"2fdb637c3d0a22c8e028b31f81fc9040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840867177
+        }
+    ],
+    "wof:id":840867177,
+    "wof:lastmodified":1464049800,
+    "wof:name":"American Chemical Tech Inc",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricant"
+    ]
+},
+  "bbox": [
+    -86.487163,
+    37.001307,
+    -86.487163,
+    37.001307
+],
+  "geometry": {"coordinates":[-86.487163,37.001307],"type":"Point"}
+}

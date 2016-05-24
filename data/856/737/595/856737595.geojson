@@ -1,0 +1,87 @@
+{
+  "id": 856737595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774495,37.640916,-84.774495,37.640916",
+    "geom:latitude":37.640916,
+    "geom:longitude":-84.774495,
+    "iso:country":"US",
+    "sg:address":"423 S 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/danville/66107-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2900",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38JGmA46S2yHGRp3zMLPAV_37.641313_-84.774476@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053288,
+    "wof:geomhash":"8a26c1e8d8559dabac2c198aa808f322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856737595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856737595
+        }
+    ],
+    "wof:id":856737595,
+    "wof:lastmodified":1464053288,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.774495,
+    37.640916,
+    -84.774495,
+    37.640916
+],
+  "geometry": {"coordinates":[-84.774495,37.640916],"type":"Point"}
+}

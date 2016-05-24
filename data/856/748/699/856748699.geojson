@@ -1,0 +1,83 @@
+{
+  "id": 856748699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.574769,38.263044,-85.574769,38.263044",
+    "geom:latitude":38.263044,
+    "geom:longitude":-85.574769,
+    "iso:country":"US",
+    "sg:address":"9510 Ormsby Station Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 348 7485",
+    "sg:postcode":"40223",
+    "sg:province":"KY",
+    "sg:tags":[
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BDdYxDGQO6gFqB7lV70Aa_38.263044_-85.574769@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053700,
+    "wof:geomhash":"4ef2d67af4971499f35a553dec142463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856748699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748699
+        }
+    ],
+    "wof:id":856748699,
+    "wof:lastmodified":1464053700,
+    "wof:name":"Colonial Health And",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.574769,
+    38.263044,
+    -85.574769,
+    38.263044
+],
+  "geometry": {"coordinates":[-85.574769,38.263044],"type":"Point"}
+}

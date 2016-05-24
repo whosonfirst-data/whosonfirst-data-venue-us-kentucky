@@ -1,0 +1,74 @@
+{
+  "id": 856735207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513878,39.08182,-84.513878,39.08182",
+    "geom:latitude":39.08182,
+    "geom:longitude":-84.513878,
+    "iso:country":"US",
+    "sg:address":"222 Pike St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/covington/209589-pike-street-press/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 261 7737",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MvB2RWxW5KRImoJlo61g2_39.081820_-84.513878@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053191,
+    "wof:geomhash":"01b416f731b39a4b427156f8397d63a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856735207
+        }
+    ],
+    "wof:id":856735207,
+    "wof:lastmodified":1464053191,
+    "wof:name":"Pike Street Press",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.513878,
+    39.08182,
+    -84.513878,
+    39.08182
+],
+  "geometry": {"coordinates":[-84.51387800000001,39.08182],"type":"Point"}
+}

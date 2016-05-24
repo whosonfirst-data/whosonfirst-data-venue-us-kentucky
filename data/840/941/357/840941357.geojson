@@ -1,0 +1,75 @@
+{
+  "id": 840941357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.932367,37.19764,-85.932367,37.19764",
+    "geom:latitude":37.19764,
+    "geom:longitude":-85.932367,
+    "iso:country":"US",
+    "sg:address":"895 Old Dixie Rd",
+    "sg:city":"Horse Cave",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 786 2424",
+    "sg:postcode":"42749",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FSHNNWIaFBmdd9jO4lhqu_37.197640_-85.932367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051474,
+    "wof:geomhash":"3eefabf57d3ea8f776054e8c4eed338b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840941357
+        }
+    ],
+    "wof:id":840941357,
+    "wof:lastmodified":1464051474,
+    "wof:name":"Green's Garage",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.932367,
+    37.19764,
+    -85.932367,
+    37.19764
+],
+  "geometry": {"coordinates":[-85.932367,37.19764],"type":"Point"}
+}

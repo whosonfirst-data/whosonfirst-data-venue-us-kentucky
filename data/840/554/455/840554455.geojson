@@ -1,0 +1,73 @@
+{
+  "id": 840554455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.891048,36.97926,-85.891048,36.97926",
+    "geom:latitude":36.97926,
+    "geom:longitude":-85.891048,
+    "iso:country":"US",
+    "sg:address":"1424 Burkesville Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 9121",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EMl0eZO38OUePVXV6rHzH_36.979260_-85.891048@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042615,
+    "wof:geomhash":"d3a59431f153260061ec45336bfc2602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840554455
+        }
+    ],
+    "wof:id":840554455,
+    "wof:lastmodified":1464042615,
+    "wof:name":"Ben & Elmer Tractor Co",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor"
+    ]
+},
+  "bbox": [
+    -85.891048,
+    36.97926,
+    -85.891048,
+    36.97926
+],
+  "geometry": {"coordinates":[-85.891048,36.97926],"type":"Point"}
+}

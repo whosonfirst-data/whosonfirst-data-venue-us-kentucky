@@ -1,0 +1,77 @@
+{
+  "id": 856761251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.655742,37.084378,-88.655742,37.084378",
+    "geom:latitude":37.084378,
+    "geom:longitude":-88.655742,
+    "iso:country":"US",
+    "sg:address":"130 Stuart Nelson Park Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 0499",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vFhKbCRLXseYfJhEjb1rq_37.084378_-88.655742@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054169,
+    "wof:geomhash":"3eecc16dda1441d4e15ffebba3aa410a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761251
+        }
+    ],
+    "wof:id":856761251,
+    "wof:lastmodified":1464054169,
+    "wof:name":"Pro Collision Center",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.655742,
+    37.084378,
+    -88.655742,
+    37.084378
+],
+  "geometry": {"coordinates":[-88.655742,37.084378],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 856761269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.618492,37.086089,-88.618492,37.086089",
+    "geom:latitude":37.086089,
+    "geom:longitude":-88.618492,
+    "iso:country":"US",
+    "sg:address":"1521 Park Ave",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 6266",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ],
+    "sg:website":"http://www.bbt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AzBP79fhpmmfSm83O2j9R_37.086089_-88.618492@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054170,
+    "wof:geomhash":"c26901976ebdb7ecf38f7c824b25c4e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761269
+        }
+    ],
+    "wof:id":856761269,
+    "wof:lastmodified":1464054170,
+    "wof:name":"BB & T",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ]
+},
+  "bbox": [
+    -88.618492,
+    37.086089,
+    -88.618492,
+    37.086089
+],
+  "geometry": {"coordinates":[-88.618492,37.086089],"type":"Point"}
+}

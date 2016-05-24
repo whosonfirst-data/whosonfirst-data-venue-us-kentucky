@@ -1,0 +1,69 @@
+{
+  "id": 840749813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578458,37.866426,-84.578458,37.866426",
+    "geom:latitude":37.866426,
+    "geom:longitude":-84.578458,
+    "iso:country":"US",
+    "sg:address":"938 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 4008",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6un3jb9s5hQkg2tBQ6QBWb_37.866426_-84.578458@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047095,
+    "wof:geomhash":"e5dedf76b611c3ac07ef553af536da2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840749813
+        }
+    ],
+    "wof:id":840749813,
+    "wof:lastmodified":1464047095,
+    "wof:name":"David E Smith Inc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.578458,
+    37.866426,
+    -84.578458,
+    37.866426
+],
+  "geometry": {"coordinates":[-84.578458,37.866426],"type":"Point"}
+}

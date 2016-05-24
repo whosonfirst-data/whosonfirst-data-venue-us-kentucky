@@ -1,0 +1,71 @@
+{
+  "id": 840811549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.474601,38.307812,-85.474601,38.307812",
+    "geom:latitude":38.307812,
+    "geom:longitude":-85.474601,
+    "iso:country":"US",
+    "sg:address":"6514 Old Floydsburg Rd",
+    "sg:city":"Pewee Valley",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 553 9424",
+    "sg:postcode":"40056",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tsjSGuYzEXXeIqy9fgIYf_38.307812_-85.474601@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048477,
+    "wof:geomhash":"3bc8ef744d544026123842e286320dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840811549
+        }
+    ],
+    "wof:id":840811549,
+    "wof:lastmodified":1464048477,
+    "wof:name":"Russells Home Barber Shop",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.474601,
+    38.307812,
+    -85.474601,
+    38.307812
+],
+  "geometry": {"coordinates":[-85.47460100000001,38.307812],"type":"Point"}
+}

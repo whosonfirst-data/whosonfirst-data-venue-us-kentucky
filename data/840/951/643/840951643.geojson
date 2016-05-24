@@ -1,0 +1,71 @@
+{
+  "id": 840951643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.718561,36.606826,-83.718561,36.606826",
+    "geom:latitude":36.606826,
+    "geom:longitude":-83.718561,
+    "iso:country":"US",
+    "sg:address":"2321 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 1234",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kOVBTJRSRT8Np3wRTN53C_36.606826_-83.718561@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051683,
+    "wof:geomhash":"857112d750e72a674c0cc6a9f5971feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840951643
+        }
+    ],
+    "wof:id":840951643,
+    "wof:lastmodified":1464051683,
+    "wof:name":"Shumate Funeral Home",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -83.718561,
+    36.606826,
+    -83.718561,
+    36.606826
+],
+  "geometry": {"coordinates":[-83.71856099999999,36.606826],"type":"Point"}
+}

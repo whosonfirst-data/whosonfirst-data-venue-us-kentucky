@@ -1,0 +1,72 @@
+{
+  "id": 840799689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.40695,36.926665,-86.40695,36.926665",
+    "geom:latitude":36.926665,
+    "geom:longitude":-86.40695,
+    "iso:country":"US",
+    "sg:address":"111 Vanderbilt Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1635",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.pip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rrwp1XHtYmi74DusT4BBR_36.926665_-86.406950@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048194,
+    "wof:geomhash":"6fd55ec0f6acf559b2836349eda4a38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840799689
+        }
+    ],
+    "wof:id":840799689,
+    "wof:lastmodified":1464048194,
+    "wof:name":"PIP Printing",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -86.40695,
+    36.926665,
+    -86.40695,
+    36.926665
+],
+  "geometry": {"coordinates":[-86.40694999999999,36.926665],"type":"Point"}
+}

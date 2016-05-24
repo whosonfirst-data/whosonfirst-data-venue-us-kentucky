@@ -1,0 +1,67 @@
+{
+  "id": 856762759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88261,37.72523,-85.88261,37.72523",
+    "geom:latitude":37.72523,
+    "geom:longitude":-85.88261,
+    "iso:country":"US",
+    "sg:address":"1501 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0005",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:website":"http://www.kiastoreetown.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NqwaLv9FTYdlebumLvmZ0_37.725230_-85.882610@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054227,
+    "wof:geomhash":"323824db7f84e14ef063d7c0ba6eca6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762759
+        }
+    ],
+    "wof:id":856762759,
+    "wof:lastmodified":1464054227,
+    "wof:name":"The Kia Store Elizabethtown",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.88261,
+    37.72523,
+    -85.88261,
+    37.72523
+],
+  "geometry": {"coordinates":[-85.88261,37.72523],"type":"Point"}
+}

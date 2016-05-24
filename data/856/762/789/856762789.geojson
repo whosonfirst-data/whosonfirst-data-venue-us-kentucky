@@ -1,0 +1,73 @@
+{
+  "id": 856762789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.855423,37.69828,-85.855423,37.69828",
+    "geom:latitude":37.69828,
+    "geom:longitude":-85.855423,
+    "iso:country":"US",
+    "sg:address":"411 N Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 351 7107",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C0AuD5OBRlmesPwIYqHWZ_37.698280_-85.855423@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054228,
+    "wof:geomhash":"6304928a7cf9e15f424e39cf2466e309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762789
+        }
+    ],
+    "wof:id":856762789,
+    "wof:lastmodified":1464054228,
+    "wof:name":"Criss Cross Hair Studio & Tanning Salon",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -85.855423,
+    37.69828,
+    -85.855423,
+    37.69828
+],
+  "geometry": {"coordinates":[-85.855423,37.69828],"type":"Point"}
+}

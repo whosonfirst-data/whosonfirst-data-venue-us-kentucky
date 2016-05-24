@@ -1,0 +1,71 @@
+{
+  "id": 840643817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.872256,37.731735,-85.872256,37.731735",
+    "geom:latitude":37.731735,
+    "geom:longitude":-85.872256,
+    "iso:country":"US",
+    "sg:address":"1801 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 1297",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iOYpBCkrZRvdRU7Yiub53_37.731735_-85.872256@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044759,
+    "wof:geomhash":"789f0a6a545b5b06115307606badb354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840643817
+        }
+    ],
+    "wof:id":840643817,
+    "wof:lastmodified":1464044759,
+    "wof:name":"First Assembly Of God",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.872256,
+    37.731735,
+    -85.872256,
+    37.731735
+],
+  "geometry": {"coordinates":[-85.87225599999999,37.731735],"type":"Point"}
+}

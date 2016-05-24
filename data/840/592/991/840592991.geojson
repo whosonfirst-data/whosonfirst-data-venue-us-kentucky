@@ -1,0 +1,76 @@
+{
+  "id": 840592991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.544472,38.237272,-85.544472,38.237272",
+    "geom:latitude":38.237272,
+    "geom:longitude":-85.544472,
+    "iso:country":"US",
+    "sg:address":"400 Blankenbaker Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 6373",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.allchildrenpeds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U3m2yotyiNLnHCl1htL8w_38.237272_-85.544472@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043490,
+    "wof:geomhash":"8e7b53e77ef4ac4f144e8412be8b78f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840592991
+        }
+    ],
+    "wof:id":840592991,
+    "wof:lastmodified":1464043490,
+    "wof:name":"All Children Pediatrics",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.544472,
+    38.237272,
+    -85.544472,
+    38.237272
+],
+  "geometry": {"coordinates":[-85.544472,38.237272],"type":"Point"}
+}

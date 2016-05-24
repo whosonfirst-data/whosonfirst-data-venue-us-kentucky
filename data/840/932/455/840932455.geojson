@@ -1,0 +1,73 @@
+{
+  "id": 840932455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556113,38.211385,-84.556113,38.211385",
+    "geom:latitude":38.211385,
+    "geom:longitude":-84.556113,
+    "iso:country":"US",
+    "sg:address":"301 E Washington St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 570 0475",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "skateboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ibgARJ3xLTTmPfGp8Z9eZ_38.211385_-84.556113@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051297,
+    "wof:geomhash":"d43bc03b7143bad284c62f0df08ec515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840932455
+        }
+    ],
+    "wof:id":840932455,
+    "wof:lastmodified":1464051297,
+    "wof:name":"Curb Skateboard Shack",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skateboard"
+    ]
+},
+  "bbox": [
+    -84.556113,
+    38.211385,
+    -84.556113,
+    38.211385
+],
+  "geometry": {"coordinates":[-84.556113,38.211385],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840745839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.585624,37.846158,-87.585624,37.846158",
+    "geom:latitude":37.846158,
+    "geom:longitude":-87.585624,
+    "iso:country":"US",
+    "sg:address":"328 7th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 5111",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nkh1yr2gELVvK9qzDwiPl_37.846158_-87.585624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047002,
+    "wof:geomhash":"976150ab170da3b4feb644eccfa3a024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840745839
+        }
+    ],
+    "wof:id":840745839,
+    "wof:lastmodified":1464047002,
+    "wof:name":"Murray State Henderson Campus",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -87.585624,
+    37.846158,
+    -87.585624,
+    37.846158
+],
+  "geometry": {"coordinates":[-87.585624,37.846158],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 856753151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.290571,37.745819,-84.290571,37.745819",
+    "geom:latitude":37.745819,
+    "geom:longitude":-84.290571,
+    "iso:country":"US",
+    "sg:address":"415 E Main St Apt 5",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 624 1455",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clothing",
+        "super",
+        "merchandise"
+    ],
+    "sg:website":"http://www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ba9J3zBiB0SXl72w1iHMS_37.745819_-84.290571@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053873,
+    "wof:geomhash":"4e9998d7faa8bff4528f63aaa1a56d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856753151
+        }
+    ],
+    "wof:id":856753151,
+    "wof:lastmodified":1464053873,
+    "wof:name":"Wal-Mart Supercenter",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "super",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.290571,
+    37.745819,
+    -84.290571,
+    37.745819
+],
+  "geometry": {"coordinates":[-84.290571,37.745819],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840534735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.438318,36.95798,-86.438318,36.95798",
+    "geom:latitude":36.95798,
+    "geom:longitude":-86.438318,
+    "iso:country":"US",
+    "sg:address":"1504 Eastland St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 4474",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w0UDCK2SJQSn0nnt0dPOr_36.957980_-86.438318@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042089,
+    "wof:geomhash":"3c36911f216bb084a2df2cd044f2cfff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840534735
+        }
+    ],
+    "wof:id":840534735,
+    "wof:lastmodified":1464042089,
+    "wof:name":"Newman Appraisal",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -86.438318,
+    36.95798,
+    -86.438318,
+    36.95798
+],
+  "geometry": {"coordinates":[-86.438318,36.95798],"type":"Point"}
+}

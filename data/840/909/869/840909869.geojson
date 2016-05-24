@@ -1,0 +1,73 @@
+{
+  "id": 840909869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.616605,38.175661,-85.616605,38.175661",
+    "geom:latitude":38.175661,
+    "geom:longitude":-85.616605,
+    "iso:country":"US",
+    "sg:address":"4801 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 3478",
+    "sg:postcode":"40291",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CGBay2noMbTZYRmUeMflr_38.175661_-85.616605@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050721,
+    "wof:geomhash":"7d70121d49a9b2c898ce67fbf4e48d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840909869
+        }
+    ],
+    "wof:id":840909869,
+    "wof:lastmodified":1464050721,
+    "wof:name":"Johnny's Corner",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.616605,
+    38.175661,
+    -85.616605,
+    38.175661
+],
+  "geometry": {"coordinates":[-85.61660500000001,38.175661],"type":"Point"}
+}

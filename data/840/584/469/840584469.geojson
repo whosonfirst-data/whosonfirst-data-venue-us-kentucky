@@ -1,0 +1,68 @@
+{
+  "id": 840584469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.761636,38.246389,-85.761636,38.246389",
+    "geom:latitude":38.246389,
+    "geom:longitude":-85.761636,
+    "iso:country":"US",
+    "sg:address":"525 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 7718",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17mQO3t1sqvYN43YYS8XaF_38.246389_-85.761636@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043300,
+    "wof:geomhash":"5503847e88422f6217d2e711976efb38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":840584469
+        }
+    ],
+    "wof:id":840584469,
+    "wof:lastmodified":1464043300,
+    "wof:name":"Associated Press",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.761636,
+    38.246389,
+    -85.761636,
+    38.246389
+],
+  "geometry": {"coordinates":[-85.761636,38.246389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840551675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.623424,37.076372,-88.623424,37.076372",
+    "geom:latitude":37.076372,
+    "geom:longitude":-88.623424,
+    "iso:country":"US",
+    "sg:address":"2226 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 3669",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O7se9XORSW7JeJHVxA0RI_37.076372_-88.623424@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042549,
+    "wof:geomhash":"ae8023ad32b6d522824ff1481b1b1d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840551675
+        }
+    ],
+    "wof:id":840551675,
+    "wof:lastmodified":1464042549,
+    "wof:name":"Harmony Road Music School",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -88.623424,
+    37.076372,
+    -88.623424,
+    37.076372
+],
+  "geometry": {"coordinates":[-88.623424,37.076372],"type":"Point"}
+}

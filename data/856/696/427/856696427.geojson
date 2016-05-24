@@ -1,0 +1,71 @@
+{
+  "id": 856696427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.568551,37.039093,-84.568551,37.039093",
+    "geom:latitude":37.039093,
+    "geom:longitude":-84.568551,
+    "iso:country":"US",
+    "sg:address":"1926 Elihu Cabin Hollow Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 9072",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zd02DCol6DE4yTGCo3KUK_37.039093_-84.568551@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051988,
+    "wof:geomhash":"cfeaa5dd28c0381fcf8dd8af75b52912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":856696427
+        }
+    ],
+    "wof:id":856696427,
+    "wof:lastmodified":1464051988,
+    "wof:name":"Ben's Lock & Key",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.568551,
+    37.039093,
+    -84.568551,
+    37.039093
+],
+  "geometry": {"coordinates":[-84.568551,37.039093],"type":"Point"}
+}

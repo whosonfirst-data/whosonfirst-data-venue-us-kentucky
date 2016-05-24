@@ -1,0 +1,73 @@
+{
+  "id": 840888349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.608025,38.192642,-85.608025,38.192642",
+    "geom:latitude":38.192642,
+    "geom:longitude":-85.608025,
+    "iso:country":"US",
+    "sg:address":"3940 Greenhurst Dr",
+    "sg:city":"Jeffersontown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 493 8485",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mhffEzaLDSdafAwp2HRmY_38.192642_-85.608025@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050246,
+    "wof:geomhash":"490aaf2095b18be7a678e9d2ebf0bdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840888349
+        }
+    ],
+    "wof:id":840888349,
+    "wof:lastmodified":1464050246,
+    "wof:name":"Greenhurst Condominiums",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -85.608025,
+    38.192642,
+    -85.608025,
+    38.192642
+],
+  "geometry": {"coordinates":[-85.608025,38.192642],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 856744979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.79255,38.13044,-85.79255,38.13044",
+    "geom:latitude":38.13044,
+    "geom:longitude":-85.79255,
+    "iso:country":"US",
+    "sg:address":"7911 3rd Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 8403",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repair",
+        "fence",
+        "contractor",
+        "guard",
+        "gate",
+        "accessory",
+        "fence-sales"
+    ],
+    "sg:website":"http://www.hartlagefence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UufSHPT4EaZLxFmM5Dyr2_38.130440_-85.792550@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053563,
+    "wof:geomhash":"422f36de579ace5f086681fc853fc252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856744979
+        }
+    ],
+    "wof:id":856744979,
+    "wof:lastmodified":1464053563,
+    "wof:name":"Hartlage Fence Company",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence",
+        "contractor",
+        "guard",
+        "gate",
+        "accessory",
+        "fence-sales"
+    ]
+},
+  "bbox": [
+    -85.79255,
+    38.13044,
+    -85.79255,
+    38.13044
+],
+  "geometry": {"coordinates":[-85.79255000000001,38.13044],"type":"Point"}
+}

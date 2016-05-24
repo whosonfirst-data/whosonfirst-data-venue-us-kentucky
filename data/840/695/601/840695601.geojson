@@ -1,0 +1,71 @@
+{
+  "id": 840695601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.577202,37.060329,-88.577202,37.060329",
+    "geom:latitude":37.060329,
+    "geom:longitude":-88.577202,
+    "iso:country":"US",
+    "sg:address":"330 Locust Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7386",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IR7QUEiH5P0oelwF9IHUo_37.060329_-88.577202@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045964,
+    "wof:geomhash":"611ec7a3653768505a87b998a1966a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840695601
+        }
+    ],
+    "wof:id":840695601,
+    "wof:lastmodified":1464045964,
+    "wof:name":"Clark Distributing Co Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -88.577202,
+    37.060329,
+    -88.577202,
+    37.060329
+],
+  "geometry": {"coordinates":[-88.577202,37.060329],"type":"Point"}
+}

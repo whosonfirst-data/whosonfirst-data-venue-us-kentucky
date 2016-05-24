@@ -1,0 +1,80 @@
+{
+  "id": 856736529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.926851,37.002591,-85.926851,37.002591",
+    "geom:latitude":37.002591,
+    "geom:longitude":-85.926851,
+    "iso:country":"US",
+    "sg:address":"302 Rogers Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/glasgow/235921-mancinos-pizzas-and-grinders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 6500",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D7MeaDyxJjMJgGWzzHep6_37.002591_-85.926851@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053243,
+    "wof:geomhash":"37fd9f10981897320e8e8096f1cdaec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856736529
+        }
+    ],
+    "wof:id":856736529,
+    "wof:lastmodified":1464053243,
+    "wof:name":"Mancinos Pizzas and Grinders",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.926851,
+    37.002591,
+    -85.926851,
+    37.002591
+],
+  "geometry": {"coordinates":[-85.926851,37.002591],"type":"Point"}
+}

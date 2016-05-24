@@ -1,0 +1,79 @@
+{
+  "id": 856761541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.627663,37.073521,-88.627663,37.073521",
+    "geom:latitude":37.073521,
+    "geom:longitude":-88.627663,
+    "iso:country":"US",
+    "sg:address":"2601 Kentucky Ave Ste 102",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 0202",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BcfYc6bKqOaJtrKPx9AGA_37.073521_-88.627663@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054180,
+    "wof:geomhash":"ab275288300c5cb7d1289a76c3e7bc88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856761541
+        }
+    ],
+    "wof:id":856761541,
+    "wof:lastmodified":1464054180,
+    "wof:name":"Mayo, Joseph F Jr Md Facs",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -88.627663,
+    37.073521,
+    -88.627663,
+    37.073521
+],
+  "geometry": {"coordinates":[-88.627663,37.073521],"type":"Point"}
+}

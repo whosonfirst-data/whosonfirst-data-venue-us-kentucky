@@ -1,0 +1,82 @@
+{
+  "id": 840806741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773907,37.647453,-84.773907,37.647453",
+    "geom:latitude":37.647453,
+    "geom:longitude":-84.773907,
+    "iso:country":"US",
+    "sg:address":"208 W Broadway St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 7381",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cIpVFVp9vXqKIQF5xES68_37.647453_-84.773907@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048333,
+    "wof:geomhash":"990777775752e26507203ce6f78314cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840806741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840806741
+        }
+    ],
+    "wof:id":840806741,
+    "wof:lastmodified":1464048333,
+    "wof:name":"Lillian's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.773907,
+    37.647453,
+    -84.773907,
+    37.647453
+],
+  "geometry": {"coordinates":[-84.77390699999999,37.647453],"type":"Point"}
+}

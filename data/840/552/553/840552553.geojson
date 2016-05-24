@@ -1,0 +1,75 @@
+{
+  "id": 840552553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.895957,37.752515,-85.895957,37.752515",
+    "geom:latitude":37.752515,
+    "geom:longitude":-85.895957,
+    "iso:country":"US",
+    "sg:address":"4535 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 0926",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67yZpwPSMMbHzH8gOEnoUf_37.752515_-85.895957@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042567,
+    "wof:geomhash":"2cf57aa05f6d138eb1f301f44265a709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840552553
+        }
+    ],
+    "wof:id":840552553,
+    "wof:lastmodified":1464042567,
+    "wof:name":"Jack Of Trades",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -85.895957,
+    37.752515,
+    -85.895957,
+    37.752515
+],
+  "geometry": {"coordinates":[-85.895957,37.752515],"type":"Point"}
+}

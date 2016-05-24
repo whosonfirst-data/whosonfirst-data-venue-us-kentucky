@@ -1,0 +1,73 @@
+{
+  "id": 840777387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443517,36.988722,-86.443517,36.988722",
+    "geom:latitude":36.988722,
+    "geom:longitude":-86.443517,
+    "iso:country":"US",
+    "sg:address":"621 E 12th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0331",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baptist",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xVaDmAnJQkzHhWWbEbmdO_36.988722_-86.443517@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047709,
+    "wof:geomhash":"a33a877aeee0d8a1a948be8a1f43c92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840777387
+        }
+    ],
+    "wof:id":840777387,
+    "wof:lastmodified":1464047709,
+    "wof:name":"First Baptist Church Inc",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -86.443517,
+    36.988722,
+    -86.443517,
+    36.988722
+],
+  "geometry": {"coordinates":[-86.443517,36.988722],"type":"Point"}
+}

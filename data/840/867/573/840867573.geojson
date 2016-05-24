@@ -1,0 +1,75 @@
+{
+  "id": 840867573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.479581,38.255752,-85.479581,38.255752",
+    "geom:latitude":38.255752,
+    "geom:longitude":-85.479581,
+    "iso:country":"US",
+    "sg:address":"1404 Whisperwood Pl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 0281",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69rJNtWbGEmHt2PM1A2eh2_38.255752_-85.479581@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049808,
+    "wof:geomhash":"084c9d4d768bcd7e6fadb6c634a354a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840867573
+        }
+    ],
+    "wof:id":840867573,
+    "wof:lastmodified":1464049808,
+    "wof:name":"Cap Electric Co",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.479581,
+    38.255752,
+    -85.479581,
+    38.255752
+],
+  "geometry": {"coordinates":[-85.479581,38.255752],"type":"Point"}
+}

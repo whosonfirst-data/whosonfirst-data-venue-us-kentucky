@@ -1,0 +1,73 @@
+{
+  "id": 840663599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44248,36.994868,-86.44248,36.994868",
+    "geom:latitude":36.994868,
+    "geom:longitude":-86.44248,
+    "iso:country":"US",
+    "sg:address":"308 E Main Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 4723",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N7VaLEerF1u3UQXFrDy4d_36.994868_-86.442480@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045179,
+    "wof:geomhash":"eb213199ff97545ecb892479a4528fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840663599
+        }
+    ],
+    "wof:id":840663599,
+    "wof:lastmodified":1464045179,
+    "wof:name":"Java House",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -86.44248,
+    36.994868,
+    -86.44248,
+    36.994868
+],
+  "geometry": {"coordinates":[-86.44248,36.994868],"type":"Point"}
+}

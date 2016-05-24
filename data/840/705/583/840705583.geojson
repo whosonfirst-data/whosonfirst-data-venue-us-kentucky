@@ -1,0 +1,71 @@
+{
+  "id": 840705583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.796687,37.658871,-84.796687,37.658871",
+    "geom:latitude":37.658871,
+    "geom:longitude":-84.796687,
+    "iso:country":"US",
+    "sg:address":"387 Whirlaway Dr",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2611",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gFeqSedrYyPoTiJeZC28S_37.658871_-84.796687@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046216,
+    "wof:geomhash":"c4c4212e694430c4431b069ecf80e2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840705583
+        }
+    ],
+    "wof:id":840705583,
+    "wof:lastmodified":1464046216,
+    "wof:name":"Lock-Box Inc",
+    "wof:parent_id":85808825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.796687,
+    37.658871,
+    -84.796687,
+    37.658871
+],
+  "geometry": {"coordinates":[-84.79668700000001,37.658871],"type":"Point"}
+}

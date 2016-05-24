@@ -1,0 +1,73 @@
+{
+  "id": 840768297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.917861,37.658098,-85.917861,37.658098",
+    "geom:latitude":37.658098,
+    "geom:longitude":-85.917861,
+    "iso:country":"US",
+    "sg:address":"138 Granite Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2114",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tMV4WcuT0rqbLc3HeYWPt_37.658098_-85.917861@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047532,
+    "wof:geomhash":"920df42988cc151d4a89503d2b0336d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840768297
+        }
+    ],
+    "wof:id":840768297,
+    "wof:lastmodified":1464047532,
+    "wof:name":"Moulana Vaseem & Kamal",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.917861,
+    37.658098,
+    -85.917861,
+    37.658098
+],
+  "geometry": {"coordinates":[-85.917861,37.658098],"type":"Point"}
+}

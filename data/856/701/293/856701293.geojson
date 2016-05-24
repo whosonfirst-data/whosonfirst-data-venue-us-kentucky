@@ -1,0 +1,75 @@
+{
+  "id": 856701293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540541,39.023247,-84.540541,39.023247",
+    "geom:latitude":39.023247,
+    "geom:longitude":-84.540541,
+    "iso:country":"US",
+    "sg:address":"901 Dudley Pike",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 578 9281",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947225,
+        102084469,
+        85832905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J8uXT5i4Y07Jbak8NdSA7_39.023247_-84.540541@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052085,
+    "wof:geomhash":"c6409ee0c896e3b8b28c6d42c2ef000b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947225,
+            "neighbourhood_id":85832905,
+            "region_id":85688641,
+            "venue_id":856701293
+        }
+    ],
+    "wof:id":856701293,
+    "wof:lastmodified":1464052085,
+    "wof:name":"Pearman Dance Studio",
+    "wof:parent_id":85832905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.540541,
+    39.023247,
+    -84.540541,
+    39.023247
+],
+  "geometry": {"coordinates":[-84.540541,39.023247],"type":"Point"}
+}

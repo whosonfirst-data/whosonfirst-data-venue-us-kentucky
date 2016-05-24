@@ -1,0 +1,68 @@
+{
+  "id": 840804113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.912511,36.99178,-85.912511,36.99178",
+    "geom:latitude":36.99178,
+    "geom:longitude":-85.912511,
+    "iso:country":"US",
+    "sg:address":"150 E Brown St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 678 2834",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ivk5qouHnMiYb51Ue5LIb_36.991780_-85.912511@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048284,
+    "wof:geomhash":"a886b8a8c58f23928db0f3070d110dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840804113
+        }
+    ],
+    "wof:id":840804113,
+    "wof:lastmodified":1464048284,
+    "wof:name":"Barren County Garage",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.912511,
+    36.99178,
+    -85.912511,
+    36.99178
+],
+  "geometry": {"coordinates":[-85.91251099999999,36.99178],"type":"Point"}
+}

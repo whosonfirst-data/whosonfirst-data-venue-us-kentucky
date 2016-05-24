@@ -1,0 +1,103 @@
+{
+  "id": 856746521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.667626,38.18543,-85.667626,38.18543",
+    "geom:latitude":38.18543,
+    "geom:longitude":-85.667626,
+    "iso:country":"US",
+    "sg:address":"4512 Petersburg Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 553 5793",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auto",
+        "renter",
+        "homeowner"
+    ],
+    "sg:website":"http://www.sentry.com/cps/larrydunn.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sqQ32x0bdcFIYcEZ5Cskk_38.185430_-85.667626@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053614,
+    "wof:geomhash":"a5ab73c0e0a2adbeb6bfa779bf0d0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856746521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856746521
+        }
+    ],
+    "wof:id":856746521,
+    "wof:lastmodified":1464053614,
+    "wof:name":"Sentry Insurance - Larry Dunn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "renter",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -85.667626,
+    38.18543,
+    -85.667626,
+    38.18543
+],
+  "geometry": {"coordinates":[-85.667626,38.18543],"type":"Point"}
+}

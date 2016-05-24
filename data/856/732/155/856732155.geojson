@@ -1,0 +1,68 @@
+{
+  "id": 856732155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.764815,38.251926,-85.764815,38.251926",
+    "geom:latitude":38.251926,
+    "geom:longitude":-85.764815,
+    "iso:country":"US",
+    "sg:address":"850 W Muhammad Ali Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 7703",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X3av9xx1UilX9gy8IgT0a_38.251861_-85.764110@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053079,
+    "wof:geomhash":"6f3a37d61bf559881f7d962d75ca5812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":856732155
+        }
+    ],
+    "wof:id":856732155,
+    "wof:lastmodified":1464053079,
+    "wof:name":"Blanton House Beauty Salon",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.764815,
+    38.251926,
+    -85.764815,
+    38.251926
+],
+  "geometry": {"coordinates":[-85.764815,38.251926],"type":"Point"}
+}

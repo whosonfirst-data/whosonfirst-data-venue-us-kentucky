@@ -1,0 +1,71 @@
+{
+  "id": 840631735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367077,37.020798,-86.367077,37.020798",
+    "geom:latitude":37.020798,
+    "geom:longitude":-86.367077,
+    "iso:country":"US",
+    "sg:address":"4758 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 746 0935",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XW7TdgaiRibQdsfuV7Yhs_37.020798_-86.367077@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044484,
+    "wof:geomhash":"2cfa7f141df81c4d55070439b6b77537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840631735
+        }
+    ],
+    "wof:id":840631735,
+    "wof:lastmodified":1464044484,
+    "wof:name":"Mount Hebrew Cumberland Church",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.367077,
+    37.020798,
+    -86.367077,
+    37.020798
+],
+  "geometry": {"coordinates":[-86.36707699999999,37.020798],"type":"Point"}
+}

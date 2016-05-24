@@ -1,0 +1,74 @@
+{
+  "id": 856737071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.869363,37.702525,-85.869363,37.702525",
+    "geom:latitude":37.702525,
+    "geom:longitude":-85.869363,
+    "iso:country":"US",
+    "sg:address":"527 W Dixie Ave",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/159309-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 6490",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kSr6lI2BgaTmFXIduTwkI_37.702525_-85.869363@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053265,
+    "wof:geomhash":"bf638258767405c4b0d807a2fd58852a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737071
+        }
+    ],
+    "wof:id":856737071,
+    "wof:lastmodified":1464053265,
+    "wof:name":"Arby's",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.869363,
+    37.702525,
+    -85.869363,
+    37.702525
+],
+  "geometry": {"coordinates":[-85.86936300000001,37.702525],"type":"Point"}
+}

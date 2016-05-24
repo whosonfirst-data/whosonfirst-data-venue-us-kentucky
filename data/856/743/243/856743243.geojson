@@ -1,0 +1,73 @@
+{
+  "id": 856743243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.654236,38.258479,-85.654236,38.258479",
+    "geom:latitude":38.258479,
+    "geom:longitude":-85.654236,
+    "iso:country":"US",
+    "sg:address":"4007 Massie Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 5242",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947469,
+        102084449,
+        85873421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aYvTjSABLFV9ocmNqPqva_38.258479_-85.654236@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053503,
+    "wof:geomhash":"34ff75d64559a3451381726ed2170dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947469,
+            "neighbourhood_id":85873421,
+            "region_id":85688641,
+            "venue_id":856743243
+        }
+    ],
+    "wof:id":856743243,
+    "wof:lastmodified":1464053503,
+    "wof:name":"Steves Cat",
+    "wof:parent_id":85873421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.654236,
+    38.258479,
+    -85.654236,
+    38.258479
+],
+  "geometry": {"coordinates":[-85.654236,38.258479],"type":"Point"}
+}

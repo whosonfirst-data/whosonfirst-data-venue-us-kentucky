@@ -1,0 +1,73 @@
+{
+  "id": 840722317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.701971,36.624993,-83.701971,36.624993",
+    "geom:latitude":36.624993,
+    "geom:longitude":-83.701971,
+    "iso:country":"US",
+    "sg:address":"8 Happy Hollow Rd",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 0222",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yk52DXJUd4b4zNby8DwCB_36.624993_-83.701971@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046554,
+    "wof:geomhash":"89848c735f850ee5c9f8a70da704938c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840722317
+        }
+    ],
+    "wof:id":840722317,
+    "wof:lastmodified":1464046554,
+    "wof:name":"Picket Fence",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.701971,
+    36.624993,
+    -83.701971,
+    36.624993
+],
+  "geometry": {"coordinates":[-83.701971,36.624993],"type":"Point"}
+}

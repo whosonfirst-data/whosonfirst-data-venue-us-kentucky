@@ -1,0 +1,76 @@
+{
+  "id": 856734641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.464135,38.042268,-84.464135,38.042268",
+    "geom:latitude":38.042268,
+    "geom:longitude":-84.464135,
+    "iso:country":"US",
+    "sg:address":"1125 Winchester Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/fayette/155901-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 252 4044",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85817017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xJ8ANGEXTAavYD8uKTmb1_38.042268_-84.464135@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053169,
+    "wof:geomhash":"fd2251d1c5bc1f183c340815aa31cfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85817017,
+            "region_id":85688641,
+            "venue_id":856734641
+        }
+    ],
+    "wof:id":856734641,
+    "wof:lastmodified":1464053169,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85817017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.464135,
+    38.042268,
+    -84.464135,
+    38.042268
+],
+  "geometry": {"coordinates":[-84.464135,38.042268],"type":"Point"}
+}

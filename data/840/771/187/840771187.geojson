@@ -1,0 +1,68 @@
+{
+  "id": 840771187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.765029,38.256136,-85.765029,38.256136",
+    "geom:latitude":38.256136,
+    "geom:longitude":-85.765029,
+    "iso:country":"US",
+    "sg:address":"800 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 6600",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xfUeI1WP76gyr5Cg3v4yz_38.256136_-85.765029@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047598,
+    "wof:geomhash":"36ffd4e191d5d5b0e69a839024c31700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873435,
+            "region_id":85688641,
+            "venue_id":840771187
+        }
+    ],
+    "wof:id":840771187,
+    "wof:lastmodified":1464047598,
+    "wof:name":"Big Hopps Restaurant",
+    "wof:parent_id":85873435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.765029,
+    38.256136,
+    -85.765029,
+    38.256136
+],
+  "geometry": {"coordinates":[-85.765029,38.256136],"type":"Point"}
+}

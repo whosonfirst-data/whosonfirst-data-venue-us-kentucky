@@ -1,0 +1,71 @@
+{
+  "id": 840717449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.432196,36.99098,-86.432196,36.99098",
+    "geom:latitude":36.99098,
+    "geom:longitude":-86.432196,
+    "iso:country":"US",
+    "sg:address":"864 Fairview Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3813",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02kWryf5JB0CaAhqp226jb_36.990980_-86.432196@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046448,
+    "wof:geomhash":"df48ad42a9c1e731c014b27d5d43b8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840717449
+        }
+    ],
+    "wof:id":840717449,
+    "wof:lastmodified":1464046448,
+    "wof:name":"Bowling Green Dental Lab",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.432196,
+    36.99098,
+    -86.432196,
+    36.99098
+],
+  "geometry": {"coordinates":[-86.432196,36.99098],"type":"Point"}
+}

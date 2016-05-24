@@ -1,0 +1,73 @@
+{
+  "id": 840839123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517601,38.084892,-84.517601,38.084892",
+    "geom:latitude":38.084892,
+    "geom:longitude":-84.517601,
+    "iso:country":"US",
+    "sg:address":"1677 Jaggie Fox Way",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 254 0088",
+    "sg:postcode":"40511",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85833499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AlDcboBIjst9aM64h0wnz_38.084892_-84.517601@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049193,
+    "wof:geomhash":"6f51562e1583eddd116a389ef2a9a63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85833499,
+            "region_id":85688641,
+            "venue_id":840839123
+        }
+    ],
+    "wof:id":840839123,
+    "wof:lastmodified":1464049193,
+    "wof:name":"National Freight",
+    "wof:parent_id":85833499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.517601,
+    38.084892,
+    -84.517601,
+    38.084892
+],
+  "geometry": {"coordinates":[-84.517601,38.084892],"type":"Point"}
+}

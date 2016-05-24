@@ -1,0 +1,71 @@
+{
+  "id": 856693771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.484668,36.965557,-86.484668,36.965557",
+    "geom:latitude":36.965557,
+    "geom:longitude":-86.484668,
+    "iso:country":"US",
+    "sg:address":"2505 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1205",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55OGwyjn8709scbUm96scs_36.965557_-86.484668@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051937,
+    "wof:geomhash":"62a5747e813b4b230a67b729556a5e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":856693771
+        }
+    ],
+    "wof:id":856693771,
+    "wof:lastmodified":1464051937,
+    "wof:name":"Dixie Cream Doughnut Shop",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -86.484668,
+    36.965557,
+    -86.484668,
+    36.965557
+],
+  "geometry": {"coordinates":[-86.484668,36.965557],"type":"Point"}
+}

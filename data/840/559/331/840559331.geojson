@@ -1,0 +1,71 @@
+{
+  "id": 840559331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.969209,36.986225,-82.969209,36.986225",
+    "geom:latitude":36.986225,
+    "geom:longitude":-82.969209,
+    "iso:country":"US",
+    "sg:address":"201 Mastin Dr",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 589 2014",
+    "sg:postcode":"40823",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946799,
+        102084511,
+        85811475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24t3TFNGKafAKAXxvjgruP_36.986225_-82.969209@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042717,
+    "wof:geomhash":"b6bc94066ee1482f6736352837fefaba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084511,
+            "locality_id":85946799,
+            "neighbourhood_id":85811475,
+            "region_id":85688641,
+            "venue_id":840559331
+        }
+    ],
+    "wof:id":840559331,
+    "wof:lastmodified":1464042717,
+    "wof:name":"Cumberland Manor Apartments",
+    "wof:parent_id":85811475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.969209,
+    36.986225,
+    -82.969209,
+    36.986225
+],
+  "geometry": {"coordinates":[-82.96920900000001,36.986225],"type":"Point"}
+}

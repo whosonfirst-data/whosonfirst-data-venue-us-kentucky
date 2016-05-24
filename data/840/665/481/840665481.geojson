@@ -1,0 +1,73 @@
+{
+  "id": 840665481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.549591,37.04488,-88.549591,37.04488",
+    "geom:latitude":37.04488,
+    "geom:longitude":-88.549591,
+    "iso:country":"US",
+    "sg:address":"4110 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 1059",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HxLeGnsDsxHEtbK4idwzx_37.044880_-88.549591@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045220,
+    "wof:geomhash":"ad9ab6e582143817d0882dff1ad722df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840665481
+        }
+    ],
+    "wof:id":840665481,
+    "wof:lastmodified":1464045220,
+    "wof:name":"Central Paving Co",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.549591,
+    37.04488,
+    -88.549591,
+    37.04488
+],
+  "geometry": {"coordinates":[-88.54959100000001,37.04488],"type":"Point"}
+}

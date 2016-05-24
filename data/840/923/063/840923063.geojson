@@ -1,0 +1,68 @@
+{
+  "id": 840923063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.570688,39.046499,-84.570688,39.046499",
+    "geom:latitude":39.046499,
+    "geom:longitude":-84.570688,
+    "iso:country":"US",
+    "sg:address":"2306 Grace Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 426 9986",
+    "sg:postcode":"41017",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46zAPD13GPldkFMZa0dLeH_39.046499_-84.570688@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051082,
+    "wof:geomhash":"702f8b90f040cf687204837be722823f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840923063
+        }
+    ],
+    "wof:id":840923063,
+    "wof:lastmodified":1464051082,
+    "wof:name":"Red Tag Appliances & Flow",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.570688,
+    39.046499,
+    -84.570688,
+    39.046499
+],
+  "geometry": {"coordinates":[-84.570688,39.046499],"type":"Point"}
+}

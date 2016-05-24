@@ -1,0 +1,73 @@
+{
+  "id": 840829537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.529172,38.247845,-85.529172,38.247845",
+    "geom:latitude":38.247845,
+    "geom:longitude":-85.529172,
+    "iso:country":"US",
+    "sg:address":"12119 Shelbyville Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 253 0072",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UVJu5cu5nzqkP5PTCrUtJ_38.247845_-85.529172@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048997,
+    "wof:geomhash":"ba606b0284e884063db9a18a2c2df930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840829537
+        }
+    ],
+    "wof:id":840829537,
+    "wof:lastmodified":1464048997,
+    "wof:name":"Paul's Fruit Markets Inc",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.529172,
+    38.247845,
+    -85.529172,
+    38.247845
+],
+  "geometry": {"coordinates":[-85.529172,38.247845],"type":"Point"}
+}

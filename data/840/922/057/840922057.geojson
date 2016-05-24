@@ -1,0 +1,71 @@
+{
+  "id": 840922057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.627629,37.091185,-88.627629,37.091185",
+    "geom:latitude":37.091185,
+    "geom:longitude":-88.627629,
+    "iso:country":"US",
+    "sg:address":"1919 Cairo Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3226",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MWIF1CFHrn1kyCWDhiE7d_37.091185_-88.627629@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051063,
+    "wof:geomhash":"2baaf06aeb38f931770867f3c99bb7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840922057
+        }
+    ],
+    "wof:id":840922057,
+    "wof:lastmodified":1464051063,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -88.627629,
+    37.091185,
+    -88.627629,
+    37.091185
+],
+  "geometry": {"coordinates":[-88.627629,37.091185],"type":"Point"}
+}

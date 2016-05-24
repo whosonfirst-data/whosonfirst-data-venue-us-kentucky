@@ -1,0 +1,71 @@
+{
+  "id": 840536471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.906657,37.684797,-85.906657,37.684797",
+    "geom:latitude":37.684797,
+    "geom:longitude":-85.906657,
+    "iso:country":"US",
+    "sg:address":"321 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4000",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KVV8KJQ3ETSju5CSYzSqT_37.684797_-85.906657@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042125,
+    "wof:geomhash":"cd3513eb10e7909e0b46ca6161fb5c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840536471
+        }
+    ],
+    "wof:id":840536471,
+    "wof:lastmodified":1464042125,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -85.906657,
+    37.684797,
+    -85.906657,
+    37.684797
+],
+  "geometry": {"coordinates":[-85.906657,37.684797],"type":"Point"}
+}

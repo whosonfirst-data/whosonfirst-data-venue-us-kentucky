@@ -1,0 +1,95 @@
+{
+  "id": 856744647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.699978,38.187989,-85.699978,38.187989",
+    "geom:latitude":38.187989,
+    "geom:longitude":-85.699978,
+    "iso:country":"US",
+    "sg:address":"4617 Illinois Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 1509",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ornamental",
+        "fence",
+        "repair",
+        "work",
+        "metal",
+        "contractor",
+        "fence-sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a1Sc8tgRtRct74Qzm1TrZ_38.187989_-85.699978@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053552,
+    "wof:geomhash":"6ea15757ca4bb8b5cfddb7f215512617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744647
+        }
+    ],
+    "wof:id":856744647,
+    "wof:lastmodified":1464053552,
+    "wof:name":"T & J Fence Co",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "fence",
+        "repair",
+        "work",
+        "metal",
+        "contractor",
+        "fence-sales"
+    ]
+},
+  "bbox": [
+    -85.699978,
+    38.187989,
+    -85.699978,
+    38.187989
+],
+  "geometry": {"coordinates":[-85.699978,38.187989],"type":"Point"}
+}

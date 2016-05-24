@@ -1,0 +1,71 @@
+{
+  "id": 840563551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.382799,37.019138,-86.382799,37.019138",
+    "geom:latitude":37.019138,
+    "geom:longitude":-86.382799,
+    "iso:country":"US",
+    "sg:address":"327 Plum Springs Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 2626",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05WnqovRUm6txVBZOS7Gq7_37.019138_-86.382799@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042814,
+    "wof:geomhash":"8fa5d9b3953fdf187ebbd005b5ae05d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840563551
+        }
+    ],
+    "wof:id":840563551,
+    "wof:lastmodified":1464042814,
+    "wof:name":"Boston Courier Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.382799,
+    37.019138,
+    -86.382799,
+    37.019138
+],
+  "geometry": {"coordinates":[-86.38279900000001,37.019138],"type":"Point"}
+}

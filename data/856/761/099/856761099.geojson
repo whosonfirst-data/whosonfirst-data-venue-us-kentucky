@@ -1,0 +1,67 @@
+{
+  "id": 856761099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.684929,37.070021,-88.684929,37.070021",
+    "geom:latitude":37.070021,
+    "geom:longitude":-88.684929,
+    "iso:country":"US",
+    "sg:address":"5154 Village Square Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 6414",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:website":"http://www.paducahdental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35PfmXQRqmIGyicmbJ0yvx_37.070021_-88.684929@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054164,
+    "wof:geomhash":"ccac2beb63ec4e50a1e85e1bbe837600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761099
+        }
+    ],
+    "wof:id":856761099,
+    "wof:lastmodified":1464054164,
+    "wof:name":"Paducah Dental Care",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.684929,
+    37.070021,
+    -88.684929,
+    37.070021
+],
+  "geometry": {"coordinates":[-88.684929,37.070021],"type":"Point"}
+}

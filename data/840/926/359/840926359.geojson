@@ -1,0 +1,73 @@
+{
+  "id": 840926359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.846727,37.721337,-85.846727,37.721337",
+    "geom:latitude":37.721337,
+    "geom:longitude":-85.846727,
+    "iso:country":"US",
+    "sg:address":"1403 Canterbury Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 360 1114",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eNSRT2RJUH0C107V2w7xM_37.721337_-85.846727@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051173,
+    "wof:geomhash":"29f83ce783450bfc544a245e633d1d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840926359
+        }
+    ],
+    "wof:id":840926359,
+    "wof:lastmodified":1464051173,
+    "wof:name":"Timothy Landis MD",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.846727,
+    37.721337,
+    -85.846727,
+    37.721337
+],
+  "geometry": {"coordinates":[-85.846727,37.721337],"type":"Point"}
+}

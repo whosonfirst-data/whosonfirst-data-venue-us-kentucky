@@ -1,0 +1,69 @@
+{
+  "id": 840722773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524933,37.024887,-84.524933,37.024887",
+    "geom:latitude":37.024887,
+    "geom:longitude":-84.524933,
+    "iso:country":"US",
+    "sg:address":"15 Haynes Knob Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 382 5050",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Flx2GVZR7d6SpRh3xRzjj_37.024887_-84.524933@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046564,
+    "wof:geomhash":"03def3b4117ebfc77afbade5c8f9ea7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840722773
+        }
+    ],
+    "wof:id":840722773,
+    "wof:lastmodified":1464046564,
+    "wof:name":"Haynes Knob Fire Dept",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.524933,
+    37.024887,
+    -84.524933,
+    37.024887
+],
+  "geometry": {"coordinates":[-84.524933,37.024887],"type":"Point"}
+}

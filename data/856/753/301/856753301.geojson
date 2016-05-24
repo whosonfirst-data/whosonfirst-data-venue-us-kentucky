@@ -1,0 +1,85 @@
+{
+  "id": 856753301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.463083,38.016789,-84.463083,38.016789",
+    "geom:latitude":38.016789,
+    "geom:longitude":-84.463083,
+    "iso:country":"US",
+    "sg:address":"2299 Richmond Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 266 1254",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "sg:tags":[
+        "barbecue",
+        "style",
+        "take",
+        "family"
+    ],
+    "sg:website":"http://www.famousdaves.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R1UQjWu8aY1herPISSca9_38.016789_-84.463083@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053879,
+    "wof:geomhash":"f383b81d264fb7c847d963d774c4dd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826711,
+            "region_id":85688641,
+            "venue_id":856753301
+        }
+    ],
+    "wof:id":856753301,
+    "wof:lastmodified":1464053879,
+    "wof:name":"Famous Dave's",
+    "wof:parent_id":85826711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "style",
+        "take",
+        "family"
+    ]
+},
+  "bbox": [
+    -84.463083,
+    38.016789,
+    -84.463083,
+    38.016789
+],
+  "geometry": {"coordinates":[-84.463083,38.016789],"type":"Point"}
+}

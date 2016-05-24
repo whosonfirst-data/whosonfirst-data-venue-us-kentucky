@@ -1,0 +1,76 @@
+{
+  "id": 856736275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.315255,36.610722,-88.315255,36.610722",
+    "geom:latitude":36.610722,
+    "geom:longitude":-88.315255,
+    "iso:country":"US",
+    "sg:address":"107 N 12th St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/murray/186926-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 5548",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wQtLSQHAgZGmBohHCGa5y_36.610722_-88.315255@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053233,
+    "wof:geomhash":"be1d50af8e268798d3de3ff052574ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":856736275
+        }
+    ],
+    "wof:id":856736275,
+    "wof:lastmodified":1464053233,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.315255,
+    36.610722,
+    -88.315255,
+    36.610722
+],
+  "geometry": {"coordinates":[-88.31525499999999,36.610722],"type":"Point"}
+}

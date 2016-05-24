@@ -1,0 +1,71 @@
+{
+  "id": 840590059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.568769,37.890706,-84.568769,37.890706",
+    "geom:latitude":37.890706,
+    "geom:longitude":-84.568769,
+    "iso:country":"US",
+    "sg:address":"725 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 1638",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VN15tlbC5j4bwFb951UyT_37.890706_-84.568769@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043425,
+    "wof:geomhash":"c760b05532c2d5daa9f111100f232b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840590059
+        }
+    ],
+    "wof:id":840590059,
+    "wof:lastmodified":1464043425,
+    "wof:name":"B & R Auto Sales",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.568769,
+    37.890706,
+    -84.568769,
+    37.890706
+],
+  "geometry": {"coordinates":[-84.568769,37.890706],"type":"Point"}
+}

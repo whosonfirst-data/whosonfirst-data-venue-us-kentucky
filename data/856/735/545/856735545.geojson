@@ -1,0 +1,74 @@
+{
+  "id": 856735545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.791888,38.627087,-83.791888,38.627087",
+    "geom:latitude":38.627087,
+    "geom:longitude":-83.791888,
+    "iso:country":"US",
+    "sg:address":"398 Market Square Dr",
+    "sg:city":"Maysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/maysville/208561-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 759 5821",
+    "sg:postcode":"41056",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946987,
+        102084603,
+        85839477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FB9JnWgcTVQpS2GGwQZeO_38.627087_-83.791888@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053202,
+    "wof:geomhash":"2853f7f2c8fab4ecbe65d8834ac13738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084603,
+            "locality_id":85946987,
+            "neighbourhood_id":85839477,
+            "region_id":85688641,
+            "venue_id":856735545
+        }
+    ],
+    "wof:id":856735545,
+    "wof:lastmodified":1464053202,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85839477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.791888,
+    38.627087,
+    -83.791888,
+    38.627087
+],
+  "geometry": {"coordinates":[-83.791888,38.627087],"type":"Point"}
+}

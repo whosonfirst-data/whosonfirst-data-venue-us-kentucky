@@ -1,0 +1,71 @@
+{
+  "id": 840901189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.855024,37.690197,-85.855024,37.690197",
+    "geom:latitude":37.690197,
+    "geom:longitude":-85.855024,
+    "iso:country":"US",
+    "sg:address":"344 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 7480",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vEY3GCTPc1GUJm2F5Gdrb_37.690197_-85.855024@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050523,
+    "wof:geomhash":"e077a6419f47e41a414b409f764993e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840901189
+        }
+    ],
+    "wof:id":840901189,
+    "wof:lastmodified":1464050523,
+    "wof:name":"Show's Battery Sales",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -85.855024,
+    37.690197,
+    -85.855024,
+    37.690197
+],
+  "geometry": {"coordinates":[-85.855024,37.690197],"type":"Point"}
+}

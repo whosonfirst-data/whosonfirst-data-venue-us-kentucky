@@ -1,0 +1,73 @@
+{
+  "id": 840913195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524547,38.002487,-84.524547,38.002487",
+    "geom:latitude":38.002487,
+    "geom:longitude":-84.524547,
+    "iso:country":"US",
+    "sg:address":"2529 Regency Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 277 1595",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yQtEHYOSqWxsbwCdVHItd_38.002487_-84.524547@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050825,
+    "wof:geomhash":"9a59818b9006645ffbf5ca463f210eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":840913195
+        }
+    ],
+    "wof:id":840913195,
+    "wof:lastmodified":1464050825,
+    "wof:name":"SBM Inc",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -84.524547,
+    38.002487,
+    -84.524547,
+    38.002487
+],
+  "geometry": {"coordinates":[-84.524547,38.002487],"type":"Point"}
+}

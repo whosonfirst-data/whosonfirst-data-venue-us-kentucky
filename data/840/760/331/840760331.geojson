@@ -1,0 +1,71 @@
+{
+  "id": 840760331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418607,36.879989,-86.418607,36.879989",
+    "geom:latitude":36.879989,
+    "geom:longitude":-86.418607,
+    "iso:country":"US",
+    "sg:address":"3210 Plano Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 5100",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TVRe04THtlF4j4JvnO6Wl_36.879989_-86.418607@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047352,
+    "wof:geomhash":"2912179642a0bf02d738e6183bbb7429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840760331
+        }
+    ],
+    "wof:id":840760331,
+    "wof:lastmodified":1464047352,
+    "wof:name":"Plano Volunteer Fire Dept",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.418607,
+    36.879989,
+    -86.418607,
+    36.879989
+],
+  "geometry": {"coordinates":[-86.41860699999999,36.879989],"type":"Point"}
+}

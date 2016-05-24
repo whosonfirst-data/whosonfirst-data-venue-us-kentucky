@@ -1,0 +1,68 @@
+{
+  "id": 840950821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.59396,38.278469,-85.59396,38.278469",
+    "geom:latitude":38.278469,
+    "geom:longitude":-85.59396,
+    "iso:country":"US",
+    "sg:address":"8711 la Grange Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 426 4765",
+    "sg:postcode":"40242",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KcXDvOCbqig0DyejO43xK_38.278469_-85.593960@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051667,
+    "wof:geomhash":"f727a80f6b20a0894f2f9800bc7a9ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840950821
+        }
+    ],
+    "wof:id":840950821,
+    "wof:lastmodified":1464051667,
+    "wof:name":"Johnson-Breckinridge Treatment",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.59396,
+    38.278469,
+    -85.59396,
+    38.278469
+],
+  "geometry": {"coordinates":[-85.59396,38.278469],"type":"Point"}
+}

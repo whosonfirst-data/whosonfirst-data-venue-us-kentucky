@@ -1,0 +1,73 @@
+{
+  "id": 840781037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.583898,36.960963,-84.583898,36.960963",
+    "geom:latitude":36.960963,
+    "geom:longitude":-84.583898,
+    "iso:country":"US",
+    "sg:address":"18 White Ln",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5261",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dm5KTCFnZJx5FUiuDN3Vw_36.960963_-84.583898@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047784,
+    "wof:geomhash":"94321697d8c7d016402caa263a5ddbc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840781037
+        }
+    ],
+    "wof:id":840781037,
+    "wof:lastmodified":1464047784,
+    "wof:name":"Elete Pet Motel",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.583898,
+    36.960963,
+    -84.583898,
+    36.960963
+],
+  "geometry": {"coordinates":[-84.583898,36.960963],"type":"Point"}
+}

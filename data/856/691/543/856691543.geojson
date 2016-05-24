@@ -1,0 +1,73 @@
+{
+  "id": 856691543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.510405,39.084312,-84.510405,39.084312",
+    "geom:latitude":39.084312,
+    "geom:longitude":-84.510405,
+    "iso:country":"US",
+    "sg:address":"605 Madison Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 431 2134",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zj2dr83Lhl1QIxGJ0nJZf_39.084312_-84.510405@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051898,
+    "wof:geomhash":"ffb30c06cedfb6e1f5e8eed04d6bda49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856691543
+        }
+    ],
+    "wof:id":856691543,
+    "wof:lastmodified":1464051898,
+    "wof:name":"Recovery Network Of Nrthn Ky",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -84.510405,
+    39.084312,
+    -84.510405,
+    39.084312
+],
+  "geometry": {"coordinates":[-84.51040500000001,39.084312],"type":"Point"}
+}

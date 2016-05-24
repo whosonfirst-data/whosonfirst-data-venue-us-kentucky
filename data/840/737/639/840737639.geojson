@@ -1,0 +1,71 @@
+{
+  "id": 840737639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.729553,38.0528,-84.729553,38.0528",
+    "geom:latitude":38.0528,
+    "geom:longitude":-84.729553,
+    "iso:country":"US",
+    "sg:address":"199 Lexington St",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 873 5451",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xNXSKfRpX1nEvr5Jae9Bx_38.052800_-84.729553@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046847,
+    "wof:geomhash":"bd0fae5cfed41d377473ff055c7d1e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840737639
+        }
+    ],
+    "wof:id":840737639,
+    "wof:lastmodified":1464046847,
+    "wof:name":"CVS",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.729553,
+    38.0528,
+    -84.729553,
+    38.0528
+],
+  "geometry": {"coordinates":[-84.729553,38.0528],"type":"Point"}
+}

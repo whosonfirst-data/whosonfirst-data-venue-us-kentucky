@@ -1,0 +1,71 @@
+{
+  "id": 840661267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673222,38.007166,-85.673222,38.007166",
+    "geom:latitude":38.007166,
+    "geom:longitude":-85.673222,
+    "iso:country":"US",
+    "sg:address":"2933 State Hwy 44 E",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 9449",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I98cWa3L3XCs1v6jAGElN_38.007166_-85.673222@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045131,
+    "wof:geomhash":"fd41cd1beabb60ca8dd14fd6efb4f4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840661267
+        }
+    ],
+    "wof:id":840661267,
+    "wof:lastmodified":1464045131,
+    "wof:name":"Candle Barn",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -85.673222,
+    38.007166,
+    -85.673222,
+    38.007166
+],
+  "geometry": {"coordinates":[-85.673222,38.007166],"type":"Point"}
+}

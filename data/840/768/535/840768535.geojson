@@ -1,0 +1,75 @@
+{
+  "id": 840768535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.416995,38.022194,-84.416995,38.022194",
+    "geom:latitude":38.022194,
+    "geom:longitude":-84.416995,
+    "iso:country":"US",
+    "sg:address":"1940 Pavilion Way",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 264 1755",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dRdfpsP3FXLn5YECq8c8B_38.022194_-84.416995@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047537,
+    "wof:geomhash":"f9d3e8743b3990c591ff9692c876f620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":840768535
+        }
+    ],
+    "wof:id":840768535,
+    "wof:lastmodified":1464047537,
+    "wof:name":"Target One Hour Photo",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -84.416995,
+    38.022194,
+    -84.416995,
+    38.022194
+],
+  "geometry": {"coordinates":[-84.416995,38.022194],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840697249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.486358,37.72098,-87.486358,37.72098",
+    "geom:latitude":37.72098,
+    "geom:longitude":-87.486358,
+    "iso:country":"US",
+    "sg:address":"3953 State Hwy 416",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 521 7778",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ttooy3czp3sswMX0HhtKO_37.720980_-87.486358@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046004,
+    "wof:geomhash":"1fac5790c2ffd101b9ed2ec4ec2123ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840697249
+        }
+    ],
+    "wof:id":840697249,
+    "wof:lastmodified":1464046004,
+    "wof:name":"Niagara Country Store",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.486358,
+    37.72098,
+    -87.486358,
+    37.72098
+],
+  "geometry": {"coordinates":[-87.486358,37.72098],"type":"Point"}
+}

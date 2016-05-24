@@ -1,0 +1,71 @@
+{
+  "id": 840570495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.633403,37.760528,-87.633403,37.760528",
+    "geom:latitude":37.760528,
+    "geom:longitude":-87.633403,
+    "iso:country":"US",
+    "sg:address":"8415 US Hwy 41A",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3312",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08yswRUWK0lbztnSMfU4Fi_37.760528_-87.633403@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042998,
+    "wof:geomhash":"f9cbc9237f2e73e93b9d16c761b439ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840570495
+        }
+    ],
+    "wof:id":840570495,
+    "wof:lastmodified":1464042998,
+    "wof:name":"Kentucky State Police",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -87.633403,
+    37.760528,
+    -87.633403,
+    37.760528
+],
+  "geometry": {"coordinates":[-87.633403,37.760528],"type":"Point"}
+}

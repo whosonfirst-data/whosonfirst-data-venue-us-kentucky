@@ -1,0 +1,71 @@
+{
+  "id": 856712713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.902905,37.767779,-85.902905,37.767779",
+    "geom:latitude":37.767779,
+    "geom:longitude":-85.902905,
+    "iso:country":"US",
+    "sg:address":"5735 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 3232",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F8TSWGnNXi0SxHXHFyBcf_37.767779_-85.902905@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052318,
+    "wof:geomhash":"469b10e1e0e36648ae79d125b56e7d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856712713
+        }
+    ],
+    "wof:id":856712713,
+    "wof:lastmodified":1464052318,
+    "wof:name":"Turner Gs Engineering Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.902905,
+    37.767779,
+    -85.902905,
+    37.767779
+],
+  "geometry": {"coordinates":[-85.902905,37.767779],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840880729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.882535,37.724527,-85.882535,37.724527",
+    "geom:latitude":37.724527,
+    "geom:longitude":-85.882535,
+    "iso:country":"US",
+    "sg:address":"1406 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 0112",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41s6gaTTob3uBdtT5mtWpH_37.724527_-85.882535@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050089,
+    "wof:geomhash":"5688ad0ff93ba768960aa551972e1623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840880729
+        }
+    ],
+    "wof:id":840880729,
+    "wof:lastmodified":1464050089,
+    "wof:name":"Danny's Car Sales",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -85.882535,
+    37.724527,
+    -85.882535,
+    37.724527
+],
+  "geometry": {"coordinates":[-85.882535,37.724527],"type":"Point"}
+}

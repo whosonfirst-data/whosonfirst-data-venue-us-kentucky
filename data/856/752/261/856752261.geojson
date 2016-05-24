@@ -1,0 +1,81 @@
+{
+  "id": 856752261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.515949,38.187331,-85.515949,38.187331",
+    "geom:latitude":38.187331,
+    "geom:longitude":-85.515949,
+    "iso:country":"US",
+    "sg:address":"3709 Stone Lakes Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 5611",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "k-",
+        "private"
+    ],
+    "sg:website":"http://www.straphaelschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58fA0An9MPSXdRr89G0iNA_38.187331_-85.515949@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053842,
+    "wof:geomhash":"0e52eabb2502ef9f5f2df80b54362b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856752261
+        }
+    ],
+    "wof:id":856752261,
+    "wof:lastmodified":1464053842,
+    "wof:name":"St Michael's School",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [
+    -85.515949,
+    38.187331,
+    -85.515949,
+    38.187331
+],
+  "geometry": {"coordinates":[-85.51594900000001,38.187331],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 856734295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284268,37.582594,-84.284268,37.582594",
+    "geom:latitude":37.582594,
+    "geom:longitude":-84.284268,
+    "iso:country":"US",
+    "sg:address":"115 Clay Dr",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/berea/66104-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 7445",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gWhFwFE7gfVE6786639tS_37.582594_-84.284268@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053156,
+    "wof:geomhash":"4bdbad97b2448b2c0c4bdbae1310813a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":856734295
+        }
+    ],
+    "wof:id":856734295,
+    "wof:lastmodified":1464053156,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.284268,
+    37.582594,
+    -84.284268,
+    37.582594
+],
+  "geometry": {"coordinates":[-84.284268,37.582594],"type":"Point"}
+}

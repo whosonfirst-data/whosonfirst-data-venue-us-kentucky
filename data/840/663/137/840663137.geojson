@@ -1,0 +1,73 @@
+{
+  "id": 840663137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.454106,36.990752,-86.454106,36.990752",
+    "geom:latitude":36.990752,
+    "geom:longitude":-86.454106,
+    "iso:country":"US",
+    "sg:address":"1403 Adams St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 784 8917",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DYN8yC4NZDq1qvfRpwTL5_36.990752_-86.454106@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045168,
+    "wof:geomhash":"15622ad9f71f4beb0b372dd55dbb94f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840663137
+        }
+    ],
+    "wof:id":840663137,
+    "wof:lastmodified":1464045168,
+    "wof:name":"Mills Property Management LLC",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -86.454106,
+    36.990752,
+    -86.454106,
+    36.990752
+],
+  "geometry": {"coordinates":[-86.454106,36.990752],"type":"Point"}
+}

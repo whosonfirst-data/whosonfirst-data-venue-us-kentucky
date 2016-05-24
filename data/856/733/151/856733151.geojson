@@ -1,0 +1,76 @@
+{
+  "id": 856733151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751329,38.211564,-85.751329,38.211564",
+    "geom:latitude":38.211564,
+    "geom:longitude":-85.751329,
+    "iso:country":"US",
+    "sg:address":"434 Eastern Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-central/4298-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 2538",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O7BIK8rWL8VxzyMqhbzn2_38.211564_-85.751329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053115,
+    "wof:geomhash":"daa9d2d1bc4e05efec6e0baf886ca555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":856733151
+        }
+    ],
+    "wof:id":856733151,
+    "wof:lastmodified":1464053115,
+    "wof:name":"Denny's",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -85.751329,
+    38.211564,
+    -85.751329,
+    38.211564
+],
+  "geometry": {"coordinates":[-85.751329,38.211564],"type":"Point"}
+}

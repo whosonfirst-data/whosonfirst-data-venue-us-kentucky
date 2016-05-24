@@ -1,0 +1,73 @@
+{
+  "id": 840790313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.259728,37.639221,-82.259728,37.639221",
+    "geom:latitude":37.639221,
+    "geom:longitude":-82.259728,
+    "iso:country":"US",
+    "sg:address":"15 Coleman Rd",
+    "sg:city":"Goody",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 237 5000",
+    "sg:postcode":"41514",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731391,
+        102082629,
+        85853729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08CtOYba96wIqzcqD9U3gA_37.639221_-82.259728@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047984,
+    "wof:geomhash":"8b75f99e57b26a5b40ff7a0593157469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082629,
+            "locality_id":101731391,
+            "neighbourhood_id":85853729,
+            "region_id":85688589,
+            "venue_id":840790313
+        }
+    ],
+    "wof:id":840790313,
+    "wof:lastmodified":1464047984,
+    "wof:name":"Fite's Motor Sales",
+    "wof:parent_id":85853729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.259728,
+    37.639221,
+    -82.259728,
+    37.639221
+],
+  "geometry": {"coordinates":[-82.259728,37.639221],"type":"Point"}
+}

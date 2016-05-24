@@ -1,0 +1,73 @@
+{
+  "id": 840796205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.822032,38.239081,-85.822032,38.239081",
+    "geom:latitude":38.239081,
+    "geom:longitude":-85.822032,
+    "iso:country":"US",
+    "sg:address":"1201 Cecil Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 775 8966",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cS0XG19ebncjd4KJphyJu_38.239081_-85.822032@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048100,
+    "wof:geomhash":"1416afe1bb22f3ca8b58936e4531bfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873379,
+            "region_id":85688641,
+            "venue_id":840796205
+        }
+    ],
+    "wof:id":840796205,
+    "wof:lastmodified":1464048100,
+    "wof:name":"Happy Market",
+    "wof:parent_id":85873379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.822032,
+    38.239081,
+    -85.822032,
+    38.239081
+],
+  "geometry": {"coordinates":[-85.82203199999999,38.239081],"type":"Point"}
+}

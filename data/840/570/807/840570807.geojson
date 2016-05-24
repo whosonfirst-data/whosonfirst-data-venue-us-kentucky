@@ -1,0 +1,75 @@
+{
+  "id": 840570807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.927191,37.797546,-85.927191,37.797546",
+    "geom:latitude":37.797546,
+    "geom:longitude":-85.927191,
+    "iso:country":"US",
+    "sg:address":"117 Masters St",
+    "sg:city":"Radcliff",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 352 0844",
+    "sg:postcode":"40160",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "pediatrics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947277,
+        102084595,
+        85845657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x7ihHtxcp21uxJEMQNHJL_37.797546_-85.927191@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043006,
+    "wof:geomhash":"ffe405df1712ab9f0a8a38ab6e97d584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947277,
+            "neighbourhood_id":85845657,
+            "region_id":85688641,
+            "venue_id":840570807
+        }
+    ],
+    "wof:id":840570807,
+    "wof:lastmodified":1464043006,
+    "wof:name":"Jan H Floyd",
+    "wof:parent_id":85845657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics"
+    ]
+},
+  "bbox": [
+    -85.927191,
+    37.797546,
+    -85.927191,
+    37.797546
+],
+  "geometry": {"coordinates":[-85.92719099999999,37.797546],"type":"Point"}
+}

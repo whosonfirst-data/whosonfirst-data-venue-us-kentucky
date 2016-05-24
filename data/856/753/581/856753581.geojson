@@ -1,0 +1,91 @@
+{
+  "id": 856753581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513687,38.005199,-84.513687,38.005199",
+    "geom:latitude":38.005199,
+    "geom:longitude":-84.513687,
+    "iso:country":"US",
+    "sg:address":"2056 Heather Way",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 3908",
+    "sg:postcode":"40503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "automobile",
+        "part",
+        "upholsterer",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85813957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yD75xc16G2W8g0sSboLdt_38.005199_-84.513687@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053894,
+    "wof:geomhash":"a49dd15da1d0bbdd43d6987592be89f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85813957,
+            "region_id":85688641,
+            "venue_id":856753581
+        }
+    ],
+    "wof:id":856753581,
+    "wof:lastmodified":1464053894,
+    "wof:name":"Classic Auto Trim",
+    "wof:parent_id":85813957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "automobile",
+        "part",
+        "upholsterer",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -84.513687,
+    38.005199,
+    -84.513687,
+    38.005199
+],
+  "geometry": {"coordinates":[-84.513687,38.005199],"type":"Point"}
+}

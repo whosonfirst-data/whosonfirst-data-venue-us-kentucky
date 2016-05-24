@@ -1,0 +1,73 @@
+{
+  "id": 856719889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739834,36.605186,-83.739834,36.605186",
+    "geom:latitude":36.605186,
+    "geom:longitude":-83.739834,
+    "iso:country":"US",
+    "sg:address":"3604 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 8282",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85868443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hIsHsTeM4TGRwVY9jLPAn_36.605186_-83.739834@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052587,
+    "wof:geomhash":"cd9fc4c129f2e0e64a093df32d443495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85868443,
+            "region_id":85688641,
+            "venue_id":856719889
+        }
+    ],
+    "wof:id":856719889,
+    "wof:lastmodified":1464052587,
+    "wof:name":"Pediatric Clinic",
+    "wof:parent_id":85868443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.739834,
+    36.605186,
+    -83.739834,
+    36.605186
+],
+  "geometry": {"coordinates":[-83.739834,36.605186],"type":"Point"}
+}

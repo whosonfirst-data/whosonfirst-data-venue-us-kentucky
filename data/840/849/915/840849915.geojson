@@ -1,0 +1,68 @@
+{
+  "id": 840849915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.31349,36.617021,-88.31349,36.617021",
+    "geom:latitude":36.617021,
+    "geom:longitude":-88.31349,
+    "iso:country":"US",
+    "sg:address":"1105 Chestnut St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 753 1512",
+    "sg:postcode":"42071",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946889,
+        102084395,
+        85819475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C1pP4JSvWYymDItdDlQaM_36.617021_-88.313490@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049436,
+    "wof:geomhash":"87ccf0bed8f3e3eb6d2cfdd66ffd44f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084395,
+            "locality_id":85946889,
+            "neighbourhood_id":85819475,
+            "region_id":85688641,
+            "venue_id":840849915
+        }
+    ],
+    "wof:id":840849915,
+    "wof:lastmodified":1464049436,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85819475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.31349,
+    36.617021,
+    -88.31349,
+    36.617021
+],
+  "geometry": {"coordinates":[-88.31349,36.617021],"type":"Point"}
+}

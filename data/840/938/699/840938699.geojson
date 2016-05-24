@@ -1,0 +1,71 @@
+{
+  "id": 840938699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.847771,37.756816,-85.847771,37.756816",
+    "geom:latitude":37.756816,
+    "geom:longitude":-85.847771,
+    "iso:country":"US",
+    "sg:address":"4584 Shepherdsville Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 7822",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R7FtX2REewkCOwiVO1T45_37.756816_-85.847771@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051422,
+    "wof:geomhash":"5c724e8d221f493110ea7b1dc5620e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840938699
+        }
+    ],
+    "wof:id":840938699,
+    "wof:lastmodified":1464051422,
+    "wof:name":"H & D Auction House",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -85.847771,
+    37.756816,
+    -85.847771,
+    37.756816
+],
+  "geometry": {"coordinates":[-85.84777099999999,37.756816],"type":"Point"}
+}

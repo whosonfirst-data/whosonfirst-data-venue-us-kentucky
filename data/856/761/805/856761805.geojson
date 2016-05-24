@@ -1,0 +1,78 @@
+{
+  "id": 856761805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.671834,36.979611,-88.671834,36.979611",
+    "geom:latitude":36.979611,
+    "geom:longitude":-88.671834,
+    "iso:country":"US",
+    "sg:address":"405 Lebanon Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 210 1947",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pWpTkJHeORB2y5IXFc0BH_36.979611_-88.671834@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054193,
+    "wof:geomhash":"3e29a8b2a1357af2f8258caa068ac61c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761805
+        }
+    ],
+    "wof:id":856761805,
+    "wof:lastmodified":1464054193,
+    "wof:name":"Country Haven",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -88.671834,
+    36.979611,
+    -88.671834,
+    36.979611
+],
+  "geometry": {"coordinates":[-88.671834,36.979611],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856762877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88883,37.723178,-85.88883,37.723178",
+    "geom:latitude":37.723178,
+    "geom:longitude":-85.88883,
+    "iso:country":"US",
+    "sg:address":"623 Jacquelin Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 8314",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jEsslTFL9Da3ZZBXZSpLJ_37.723178_-85.888830@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054231,
+    "wof:geomhash":"c7ce8a080c81f362ff78daf4d64642d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762877
+        }
+    ],
+    "wof:id":856762877,
+    "wof:lastmodified":1464054231,
+    "wof:name":"Bradley Painting",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.88883,
+    37.723178,
+    -85.88883,
+    37.723178
+],
+  "geometry": {"coordinates":[-85.88883,37.723178],"type":"Point"}
+}

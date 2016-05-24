@@ -1,0 +1,80 @@
+{
+  "id": 856733691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.516578,38.243285,-85.516578,38.243285",
+    "geom:latitude":38.243285,
+    "geom:longitude":-85.516578,
+    "iso:country":"US",
+    "sg:address":"12915 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/99683-schlotzskys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 9069",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IaBhyPTC5yhZpWsRz137o_38.243285_-85.516578@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053133,
+    "wof:geomhash":"30dd49ffdf6b6fcc81e3d695b50a471a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856733691
+        }
+    ],
+    "wof:id":856733691,
+    "wof:lastmodified":1464053133,
+    "wof:name":"Schlotzsky's",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.516578,
+    38.243285,
+    -85.516578,
+    38.243285
+],
+  "geometry": {"coordinates":[-85.516578,38.243285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840747197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.583437,37.850708,-87.583437,37.850708",
+    "geom:latitude":37.850708,
+    "geom:longitude":-87.583437,
+    "iso:country":"US",
+    "sg:address":"1035 N Elm St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4596",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nuDztJe2ud56GFC8S5ZBv_37.850708_-87.583437@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047031,
+    "wof:geomhash":"9fc2866f4c1947e57db7b315fef61777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840747197
+        }
+    ],
+    "wof:id":840747197,
+    "wof:lastmodified":1464047031,
+    "wof:name":"John L Jenkins MD",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.583437,
+    37.850708,
+    -87.583437,
+    37.850708
+],
+  "geometry": {"coordinates":[-87.583437,37.850708],"type":"Point"}
+}

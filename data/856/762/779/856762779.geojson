@@ -1,0 +1,90 @@
+{
+  "id": 856762779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857755,37.693127,-85.857755,37.693127",
+    "geom:latitude":37.693127,
+    "geom:longitude":-85.857755,
+    "iso:country":"US",
+    "sg:address":"39 Public Sq",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 4713",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney",
+        "law",
+        "duo",
+        "drug",
+        "charge",
+        "traffic",
+        "criminal",
+        "dwi"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ncdvOBA1RofhSsVJikOUd_37.693127_-85.857755@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054227,
+    "wof:geomhash":"86da7080ed7cae5b484e301422de7208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856762779
+        }
+    ],
+    "wof:id":856762779,
+    "wof:lastmodified":1464054227,
+    "wof:name":"Mirkin Steve Law Office",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "law",
+        "duo",
+        "drug",
+        "charge",
+        "traffic",
+        "criminal",
+        "dwi"
+    ]
+},
+  "bbox": [
+    -85.857755,
+    37.693127,
+    -85.857755,
+    37.693127
+],
+  "geometry": {"coordinates":[-85.857755,37.693127],"type":"Point"}
+}

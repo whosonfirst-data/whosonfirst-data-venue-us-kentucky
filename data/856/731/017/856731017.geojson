@@ -1,0 +1,84 @@
+{
+  "id": 856731017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639875,38.258297,-85.639875,38.258297",
+    "geom:latitude":38.258297,
+    "geom:longitude":-85.639875,
+    "iso:country":"US",
+    "sg:address":"291 N Hubbards Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 895 4442",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "leasing",
+        "sale",
+        "dvds-rental",
+        "disc",
+        "tape",
+        "video"
+    ],
+    "sg:website":"http://www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62IFjnkNra1sYgkh7aTqrO_38.258254_-85.639750@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053038,
+    "wof:geomhash":"45e885fb9cb2d700b55a383f0fd5f8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856731017
+        }
+    ],
+    "wof:id":856731017,
+    "wof:lastmodified":1464053038,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "sale",
+        "dvds-rental",
+        "disc",
+        "tape",
+        "video"
+    ]
+},
+  "bbox": [
+    -85.639875,
+    38.258297,
+    -85.639875,
+    38.258297
+],
+  "geometry": {"coordinates":[-85.639875,38.258297],"type":"Point"}
+}

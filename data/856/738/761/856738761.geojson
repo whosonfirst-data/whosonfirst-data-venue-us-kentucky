@@ -1,0 +1,78 @@
+{
+  "id": 856738761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.719393,37.998674,-85.719393,37.998674",
+    "geom:latitude":37.998674,
+    "geom:longitude":-85.719393,
+    "iso:country":"US",
+    "sg:address":"545 W Blue Lick Rd",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 2135",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UnIq9mrcSnuc1DAuaWnfn_37.998674_-85.719393@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053333,
+    "wof:geomhash":"fa699867f2773601bfca9db3e00f2561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":856738761
+        }
+    ],
+    "wof:id":856738761,
+    "wof:lastmodified":1464053333,
+    "wof:name":"Mount Zion Baptist Church",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -85.719393,
+    37.998674,
+    -85.719393,
+    37.998674
+],
+  "geometry": {"coordinates":[-85.719393,37.998674],"type":"Point"}
+}

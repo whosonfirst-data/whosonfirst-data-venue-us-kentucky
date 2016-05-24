@@ -1,0 +1,73 @@
+{
+  "id": 840880047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.872501,36.494321,-88.872501,36.494321",
+    "geom:latitude":36.494321,
+    "geom:longitude":-88.872501,
+    "iso:country":"US",
+    "sg:address":"303 Collins St",
+    "sg:city":"South Fulton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 479 3418",
+    "sg:postcode":"38257",
+    "sg:province":"KY",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GVkwZt1QtallKQRp5V2K5_36.494321_-88.872501@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050076,
+    "wof:geomhash":"cfc77d1c13acf82cfcca9bab30986fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":840880047
+        }
+    ],
+    "wof:id":840880047,
+    "wof:lastmodified":1464050076,
+    "wof:name":"Pickering Excavating",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.872501,
+    36.494321,
+    -88.872501,
+    36.494321
+],
+  "geometry": {"coordinates":[-88.872501,36.494321],"type":"Point"}
+}

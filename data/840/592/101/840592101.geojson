@@ -1,0 +1,75 @@
+{
+  "id": 840592101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627833,38.233629,-85.627833,38.233629",
+    "geom:latitude":38.233629,
+    "geom:longitude":-85.627833,
+    "iso:country":"US",
+    "sg:address":"1402 Browns Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 6633",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bpaCk0aFD7305TvsdVe1S_38.233629_-85.627833@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043469,
+    "wof:geomhash":"5a15cb3203716e072be709a60719a2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840592101
+        }
+    ],
+    "wof:id":840592101,
+    "wof:lastmodified":1464043469,
+    "wof:name":"Mariano A Galang III MD",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.627833,
+    38.233629,
+    -85.627833,
+    38.233629
+],
+  "geometry": {"coordinates":[-85.627833,38.233629],"type":"Point"}
+}

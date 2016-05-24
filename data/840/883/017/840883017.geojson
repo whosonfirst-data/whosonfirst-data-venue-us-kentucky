@@ -1,0 +1,73 @@
+{
+  "id": 840883017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.609634,38.249083,-85.609634,38.249083",
+    "geom:latitude":38.249083,
+    "geom:longitude":-85.609634,
+    "iso:country":"US",
+    "sg:address":"7801 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 4007",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s1TCsBX5vCvTlz81xwY4X_38.249083_-85.609634@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050133,
+    "wof:geomhash":"c8e713b130f915938ebb348dc8dca922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":840883017
+        }
+    ],
+    "wof:id":840883017,
+    "wof:lastmodified":1464050133,
+    "wof:name":"Bell South",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -85.609634,
+    38.249083,
+    -85.609634,
+    38.249083
+],
+  "geometry": {"coordinates":[-85.609634,38.249083],"type":"Point"}
+}

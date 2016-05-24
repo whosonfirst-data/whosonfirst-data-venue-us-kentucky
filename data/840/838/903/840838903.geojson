@@ -1,0 +1,73 @@
+{
+  "id": 840838903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702866,38.229721,-85.702866,38.229721",
+    "geom:latitude":38.229721,
+    "geom:longitude":-85.702866,
+    "iso:country":"US",
+    "sg:address":"1711 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 9197",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IK0xoxBzid0yGTCH42z5C_38.229721_-85.702866@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049190,
+    "wof:geomhash":"e7ec2acbcb5607cca3843b1407bdf84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":840838903
+        }
+    ],
+    "wof:id":840838903,
+    "wof:lastmodified":1464049190,
+    "wof:name":"Johnson-Luckett Counseling",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -85.702866,
+    38.229721,
+    -85.702866,
+    38.229721
+],
+  "geometry": {"coordinates":[-85.702866,38.229721],"type":"Point"}
+}

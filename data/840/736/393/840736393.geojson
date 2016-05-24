@@ -1,0 +1,72 @@
+{
+  "id": 840736393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.788168,39.089568,-84.788168,39.089568",
+    "geom:latitude":39.089568,
+    "geom:longitude":-84.788168,
+    "iso:country":"US",
+    "sg:address":"2616 Bullitsburg Church Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 689 4945",
+    "sg:postcode":"41080",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.bullittsburgbaptist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688709,
+        85633793,
+        85942285,
+        102087067,
+        85839517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46WyZVBIiOJw0eUOgUHCxe_39.089568_-84.788168@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046825,
+    "wof:geomhash":"bf2085a5a8ca07384e1b033d8fee7c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087067,
+            "locality_id":85942285,
+            "neighbourhood_id":85839517,
+            "region_id":85688709,
+            "venue_id":840736393
+        }
+    ],
+    "wof:id":840736393,
+    "wof:lastmodified":1464046825,
+    "wof:name":"Bullittsburg Baptist Church",
+    "wof:parent_id":85839517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.788168,
+    39.089568,
+    -84.788168,
+    39.089568
+],
+  "geometry": {"coordinates":[-84.788168,39.089568],"type":"Point"}
+}

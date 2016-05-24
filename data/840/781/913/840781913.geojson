@@ -1,0 +1,71 @@
+{
+  "id": 840781913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471062,36.97683,-86.471062,36.97683",
+    "geom:latitude":36.97683,
+    "geom:longitude":-86.471062,
+    "iso:country":"US",
+    "sg:address":"174 Saint Charles St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 1708",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZqxKqCJarORelr9BKthS5_36.976830_-86.471062@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047800,
+    "wof:geomhash":"779438315df900c26459f090534bd43f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840781913
+        }
+    ],
+    "wof:id":840781913,
+    "wof:lastmodified":1464047800,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -86.471062,
+    36.97683,
+    -86.471062,
+    36.97683
+],
+  "geometry": {"coordinates":[-86.471062,36.97683],"type":"Point"}
+}

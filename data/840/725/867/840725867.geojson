@@ -1,0 +1,75 @@
+{
+  "id": 840725867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627972,38.219977,-85.627972,38.219977",
+    "geom:latitude":38.219977,
+    "geom:longitude":-85.627972,
+    "iso:country":"US",
+    "sg:address":"3901 Taylorsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 4433",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Th76dmUDBQMz51o6sJWis_38.219977_-85.627972@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046634,
+    "wof:geomhash":"0f9e8e95a6e525237c5276852412f72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840725867
+        }
+    ],
+    "wof:id":840725867,
+    "wof:lastmodified":1464046634,
+    "wof:name":"Magic Sparkle Car Wash",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.627972,
+    38.219977,
+    -85.627972,
+    38.219977
+],
+  "geometry": {"coordinates":[-85.627972,38.219977],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840903199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.927979,36.983886,-85.927979,36.983886",
+    "geom:latitude":36.983886,
+    "geom:longitude":-85.927979,
+    "iso:country":"US",
+    "sg:address":"1502 S Green St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 651 8548",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33zc7dXj64SxITgC4erUwq_36.983886_-85.927979@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050562,
+    "wof:geomhash":"2ab32165545de99589ecf121d3156c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840903199
+        }
+    ],
+    "wof:id":840903199,
+    "wof:lastmodified":1464050562,
+    "wof:name":"Dave's Maytag Home Appliance",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.927979,
+    36.983886,
+    -85.927979,
+    36.983886
+],
+  "geometry": {"coordinates":[-85.92797899999999,36.983886],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 856760991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.620631,37.077292,-88.620631,37.077292",
+    "geom:latitude":37.077292,
+    "geom:longitude":-88.620631,
+    "iso:country":"US",
+    "sg:address":"125 S 20th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6260",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xZhranIVFC5KJrsyWNKQt_37.077292_-88.620631@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054159,
+    "wof:geomhash":"e0dc39424564f1610d88b49bec48f766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":856760991
+        }
+    ],
+    "wof:id":856760991,
+    "wof:lastmodified":1464054159,
+    "wof:name":"Di, Sorellas",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding"
+    ]
+},
+  "bbox": [
+    -88.620631,
+    37.077292,
+    -88.620631,
+    37.077292
+],
+  "geometry": {"coordinates":[-88.620631,37.077292],"type":"Point"}
+}

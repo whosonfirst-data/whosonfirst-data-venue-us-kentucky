@@ -1,0 +1,73 @@
+{
+  "id": 840555127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367087,36.956669,-86.367087,36.956669",
+    "geom:latitude":36.956669,
+    "geom:longitude":-86.367087,
+    "iso:country":"US",
+    "sg:address":"112 Windmere Ct",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 0591",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AE4VJG1En3bgLQsSQ5O7l_36.956669_-86.367087@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042629,
+    "wof:geomhash":"3531c3b38425b7ebd03e8ec3239547ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840555127
+        }
+    ],
+    "wof:id":840555127,
+    "wof:lastmodified":1464042629,
+    "wof:name":"Professional Contracting Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.367087,
+    36.956669,
+    -86.367087,
+    36.956669
+],
+  "geometry": {"coordinates":[-86.367087,36.956669],"type":"Point"}
+}

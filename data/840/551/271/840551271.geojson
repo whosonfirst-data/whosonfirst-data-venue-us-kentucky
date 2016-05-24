@@ -1,0 +1,71 @@
+{
+  "id": 840551271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.581059,37.084739,-84.581059,37.084739",
+    "geom:latitude":37.084739,
+    "geom:longitude":-84.581059,
+    "iso:country":"US",
+    "sg:address":"103 Maplewood Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 9437",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gkbUOU95M4RpgL9NyuoRO_37.084739_-84.581059@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042540,
+    "wof:geomhash":"dba4abda713c90afeca3bf3ed811d1c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840551271
+        }
+    ],
+    "wof:id":840551271,
+    "wof:lastmodified":1464042540,
+    "wof:name":"Terry Flinchum Inc",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -84.581059,
+    37.084739,
+    -84.581059,
+    37.084739
+],
+  "geometry": {"coordinates":[-84.581059,37.084739],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840562655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.571536,37.882107,-84.571536,37.882107",
+    "geom:latitude":37.882107,
+    "geom:longitude":-84.571536,
+    "iso:country":"US",
+    "sg:address":"215 E Oak St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 1712",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KuSFCUGodToMAWCkCEsW4_37.882107_-84.571536@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042795,
+    "wof:geomhash":"472a754a539f55bf96f46a1a2ef3711d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840562655
+        }
+    ],
+    "wof:id":840562655,
+    "wof:lastmodified":1464042795,
+    "wof:name":"Jessamine Cleaners",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.571536,
+    37.882107,
+    -84.571536,
+    37.882107
+],
+  "geometry": {"coordinates":[-84.57153599999999,37.882107],"type":"Point"}
+}

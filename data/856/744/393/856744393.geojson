@@ -1,0 +1,83 @@
+{
+  "id": 856744393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.709442,38.201061,-85.709442,38.201061",
+    "geom:latitude":38.201061,
+    "geom:longitude":-85.709442,
+    "iso:country":"US",
+    "sg:address":"4016 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 625 2299",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ],
+    "sg:website":"http://www.syb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Czr7UBoxsAKAyGCcvQsFq_38.201061_-85.709442@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053542,
+    "wof:geomhash":"7b907c9b5c3d6008ba6f71947cb80ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744393
+        }
+    ],
+    "wof:id":856744393,
+    "wof:lastmodified":1464053542,
+    "wof:name":"Stock Yards Bank & Trust Co",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "trust",
+        "saving"
+    ]
+},
+  "bbox": [
+    -85.709442,
+    38.201061,
+    -85.709442,
+    38.201061
+],
+  "geometry": {"coordinates":[-85.709442,38.201061],"type":"Point"}
+}

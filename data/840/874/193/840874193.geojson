@@ -1,0 +1,68 @@
+{
+  "id": 840874193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511237,39.083625,-84.511237,39.083625",
+    "geom:latitude":39.083625,
+    "geom:longitude":-84.511237,
+    "iso:country":"US",
+    "sg:address":"43 W Pike St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 491 0602",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o7XT5UIqOkdKQQ8cLRMRW_39.083625_-84.511237@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049936,
+    "wof:geomhash":"3eed7919944516621c3efca816f07530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":840874193
+        }
+    ],
+    "wof:id":840874193,
+    "wof:lastmodified":1464049936,
+    "wof:name":"Point Restaurant",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.511237,
+    39.083625,
+    -84.511237,
+    39.083625
+],
+  "geometry": {"coordinates":[-84.51123699999999,39.083625],"type":"Point"}
+}

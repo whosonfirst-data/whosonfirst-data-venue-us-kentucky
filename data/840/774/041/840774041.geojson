@@ -1,0 +1,68 @@
+{
+  "id": 840774041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.782952,38.197329,-85.782952,38.197329",
+    "geom:latitude":38.197329,
+    "geom:longitude":-85.782952,
+    "iso:country":"US",
+    "sg:address":"3464 Taylor Blvd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 9497",
+    "sg:postcode":"40215",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wgD8H6UyyrfhpZKKx5unC_38.197329_-85.782952@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047651,
+    "wof:geomhash":"e09cbb60bd3ec4aa8c9cc0fea4489941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":840774041
+        }
+    ],
+    "wof:id":840774041,
+    "wof:lastmodified":1464047651,
+    "wof:name":"Old Taylor Bar",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.782952,
+    38.197329,
+    -85.782952,
+    38.197329
+],
+  "geometry": {"coordinates":[-85.78295199999999,38.197329],"type":"Point"}
+}

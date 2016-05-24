@@ -1,0 +1,71 @@
+{
+  "id": 840623413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411167,36.924121,-86.411167,36.924121",
+    "geom:latitude":36.924121,
+    "geom:longitude":-86.411167,
+    "iso:country":"US",
+    "sg:address":"122 Jfs Cir",
+    "sg:city":"Alvaton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 793 0832",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mvauYxAd8PplPkpm1e7L_36.924121_-86.411167@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044249,
+    "wof:geomhash":"47c98f40156878e69637f0103f1b5357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840623413
+        }
+    ],
+    "wof:id":840623413,
+    "wof:lastmodified":1464044249,
+    "wof:name":"Alvaton Volunteer Fire Dept",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.411167,
+    36.924121,
+    -86.411167,
+    36.924121
+],
+  "geometry": {"coordinates":[-86.41116700000001,36.924121],"type":"Point"}
+}

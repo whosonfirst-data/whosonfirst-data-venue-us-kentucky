@@ -1,0 +1,71 @@
+{
+  "id": 840828011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596514,37.884389,-84.596514,37.884389",
+    "geom:latitude":37.884389,
+    "geom:longitude":-84.596514,
+    "iso:country":"US",
+    "sg:address":"100 Courchelle Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 9119",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qHVKfarXUTeCw2EUc1cky_37.884389_-84.596514@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048962,
+    "wof:geomhash":"512502e4550306909e433137906450f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840828011
+        }
+    ],
+    "wof:id":840828011,
+    "wof:lastmodified":1464048962,
+    "wof:name":"Lock Net",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.596514,
+    37.884389,
+    -84.596514,
+    37.884389
+],
+  "geometry": {"coordinates":[-84.596514,37.884389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856754075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.455757,38.046051,-84.455757,38.046051",
+    "geom:latitude":38.046051,
+    "geom:longitude":-84.455757,
+    "iso:country":"US",
+    "sg:address":"1301 Eastland Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 8481",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85817017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J2BFFORsKYCLCL3QsiXg5_38.046051_-84.455757@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053910,
+    "wof:geomhash":"7b6701be4db4f7bca0588cec104a8788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85817017,
+            "region_id":85688641,
+            "venue_id":856754075
+        }
+    ],
+    "wof:id":856754075,
+    "wof:lastmodified":1464053910,
+    "wof:name":"Eastland Animal Hospital",
+    "wof:parent_id":85817017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.455757,
+    38.046051,
+    -84.455757,
+    38.046051
+],
+  "geometry": {"coordinates":[-84.45575700000001,38.046051],"type":"Point"}
+}

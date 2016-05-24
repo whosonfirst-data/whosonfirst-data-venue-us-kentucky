@@ -1,0 +1,73 @@
+{
+  "id": 840943385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702662,38.195685,-85.702662,38.195685",
+    "geom:latitude":38.195685,
+    "geom:longitude":-85.702662,
+    "iso:country":"US",
+    "sg:address":"4264 Regina Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 7613",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ze6YWoMuEV1DvUmxqZO0g_38.195685_-85.702662@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051521,
+    "wof:geomhash":"0ef67b124591eb0352b76a3ed219903f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":840943385
+        }
+    ],
+    "wof:id":840943385,
+    "wof:lastmodified":1464051521,
+    "wof:name":"Watterson Park City Office",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -85.702662,
+    38.195685,
+    -85.702662,
+    38.195685
+],
+  "geometry": {"coordinates":[-85.702662,38.195685],"type":"Point"}
+}

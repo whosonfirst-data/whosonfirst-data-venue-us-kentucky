@@ -1,0 +1,73 @@
+{
+  "id": 840536853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.48702,37.992609,-84.48702,37.992609",
+    "geom:latitude":37.992609,
+    "geom:longitude":-84.48702,
+    "iso:country":"US",
+    "sg:address":"3405 Simcoe Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 278 6974",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85820975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UPa56P5jELsxMAQ5LJ24U_37.992609_-84.487020@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042132,
+    "wof:geomhash":"c769996e875e89215e43880ed5f0a460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85820975,
+            "region_id":85688641,
+            "venue_id":840536853
+        }
+    ],
+    "wof:id":840536853,
+    "wof:lastmodified":1464042132,
+    "wof:name":"ABC Nursery",
+    "wof:parent_id":85820975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -84.48702,
+    37.992609,
+    -84.48702,
+    37.992609
+],
+  "geometry": {"coordinates":[-84.48702,37.992609],"type":"Point"}
+}

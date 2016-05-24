@@ -1,0 +1,71 @@
+{
+  "id": 840946283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.878667,37.731398,-85.878667,37.731398",
+    "geom:latitude":37.731398,
+    "geom:longitude":-85.878667,
+    "iso:country":"US",
+    "sg:address":"200 Wingfield Ct",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 5737",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04AJ6iqGGZS8Vv7CIO10qI_37.731398_-85.878667@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051575,
+    "wof:geomhash":"50ef18ea4c97a8833151919aa0546f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840946283
+        }
+    ],
+    "wof:id":840946283,
+    "wof:lastmodified":1464051575,
+    "wof:name":"Lakecrest Apartments",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.878667,
+    37.731398,
+    -85.878667,
+    37.731398
+],
+  "geometry": {"coordinates":[-85.87866699999999,37.731398],"type":"Point"}
+}

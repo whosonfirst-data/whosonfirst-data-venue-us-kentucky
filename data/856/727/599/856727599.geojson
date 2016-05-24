@@ -1,0 +1,74 @@
+{
+  "id": 856727599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.852061,37.686329,-85.852061,37.686329",
+    "geom:latitude":37.686329,
+    "geom:longitude":-85.852061,
+    "iso:country":"US",
+    "sg:address":"107 Bishop Ln",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 5013",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-baptist",
+        "church"
+    ],
+    "sg:website":"http://www.abc-usa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13gxTOZSWk59KQiREVuT6z_37.686326_-85.851752@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052901,
+    "wof:geomhash":"28aff73f2f10064da863e5e3e81f6321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856727599
+        }
+    ],
+    "wof:id":856727599,
+    "wof:lastmodified":1464052901,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -85.852061,
+    37.686329,
+    -85.852061,
+    37.686329
+],
+  "geometry": {"coordinates":[-85.85206100000001,37.686329],"type":"Point"}
+}

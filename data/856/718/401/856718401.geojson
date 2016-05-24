@@ -1,0 +1,75 @@
+{
+  "id": 856718401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631664,38.234545,-85.631664,38.234545",
+    "geom:latitude":38.234545,
+    "geom:longitude":-85.631664,
+    "iso:country":"US",
+    "sg:address":"4130 Dutchmans Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 894 9950",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iMsywnDdTpIVu3ioudRBm_38.234545_-85.631664@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052520,
+    "wof:geomhash":"6035faeed86a7ff96e48dd888d36647a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856718401
+        }
+    ],
+    "wof:id":856718401,
+    "wof:lastmodified":1464052520,
+    "wof:name":"Hepatitis C Treatment Ctr",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.631664,
+    38.234545,
+    -85.631664,
+    38.234545
+],
+  "geometry": {"coordinates":[-85.631664,38.234545],"type":"Point"}
+}

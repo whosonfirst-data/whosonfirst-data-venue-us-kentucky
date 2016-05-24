@@ -1,0 +1,73 @@
+{
+  "id": 840674125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.906114,38.017816,-85.906114,38.017816",
+    "geom:latitude":38.017816,
+    "geom:longitude":-85.906114,
+    "iso:country":"US",
+    "sg:address":"12712 State Hwy 44",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 922 4542",
+    "sg:postcode":"40177",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d345VCffJ0Q50k3ZN7ytm_38.017816_-85.906114@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045421,
+    "wof:geomhash":"62e5f3cf86402b3b2ff7d04c3b8d69dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840674125
+        }
+    ],
+    "wof:id":840674125,
+    "wof:lastmodified":1464045421,
+    "wof:name":"West 44 Used Auto Parts",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -85.906114,
+    38.017816,
+    -85.906114,
+    38.017816
+],
+  "geometry": {"coordinates":[-85.906114,38.017816],"type":"Point"}
+}

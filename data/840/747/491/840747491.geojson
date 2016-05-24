@@ -1,0 +1,74 @@
+{
+  "id": 840747491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.76154,38.254395,-85.76154,38.254395",
+    "geom:latitude":38.254395,
+    "geom:longitude":-85.76154,
+    "iso:country":"US",
+    "sg:address":"633 W Jefferson St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 7111",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.loupolice.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QyHOuG68pbcELAICGKF4a_38.254395_-85.761540@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047037,
+    "wof:geomhash":"8710918eae3203b5031186e41f14b975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":840747491
+        }
+    ],
+    "wof:id":840747491,
+    "wof:lastmodified":1464047037,
+    "wof:name":"Louisville Police Dept-Robbery",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.76154,
+    38.254395,
+    -85.76154,
+    38.254395
+],
+  "geometry": {"coordinates":[-85.76154,38.254395],"type":"Point"}
+}

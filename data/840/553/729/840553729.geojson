@@ -1,0 +1,71 @@
+{
+  "id": 840553729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578248,37.866995,-84.578248,37.866995",
+    "geom:latitude":37.866995,
+    "geom:longitude":-84.578248,
+    "iso:country":"US",
+    "sg:address":"916 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 3292",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iHLeK46cXU4VCVogvXyia_37.866995_-84.578248@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042593,
+    "wof:geomhash":"28ec16dbf83bfd775ee77f5c82181b2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840553729
+        }
+    ],
+    "wof:id":840553729,
+    "wof:lastmodified":1464042593,
+    "wof:name":"Auto Motion Svc",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.578248,
+    37.866995,
+    -84.578248,
+    37.866995
+],
+  "geometry": {"coordinates":[-84.578248,37.866995],"type":"Point"}
+}

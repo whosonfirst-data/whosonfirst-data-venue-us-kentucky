@@ -1,0 +1,71 @@
+{
+  "id": 840570325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431231,36.963416,-86.431231,36.963416",
+    "geom:latitude":36.963416,
+    "geom:longitude":-86.431231,
+    "iso:country":"US",
+    "sg:address":"1945 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 1212",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IhDF70BXIvvoZnS7mDUMS_36.963416_-86.431231@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042992,
+    "wof:geomhash":"d67bf6923d97f3825d4e73f2ef2a0e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840570325
+        }
+    ],
+    "wof:id":840570325,
+    "wof:lastmodified":1464042992,
+    "wof:name":"Lorraines Hair Styles",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.431231,
+    36.963416,
+    -86.431231,
+    36.963416
+],
+  "geometry": {"coordinates":[-86.431231,36.963416],"type":"Point"}
+}

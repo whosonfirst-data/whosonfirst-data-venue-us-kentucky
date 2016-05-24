@@ -1,0 +1,75 @@
+{
+  "id": 840755585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.879685,37.712555,-85.879685,37.712555",
+    "geom:latitude":37.712555,
+    "geom:longitude":-85.879685,
+    "iso:country":"US",
+    "sg:address":"1111 Woodland Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 3700",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n7z8uEKjyLz1EANH0KZPI_37.712555_-85.879685@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047228,
+    "wof:geomhash":"a39508dae29c7e4cc0e0d5718e126a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840755585
+        }
+    ],
+    "wof:id":840755585,
+    "wof:lastmodified":1464047228,
+    "wof:name":"Lincoln Trail Diagnostics",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -85.879685,
+    37.712555,
+    -85.879685,
+    37.712555
+],
+  "geometry": {"coordinates":[-85.87968499999999,37.712555],"type":"Point"}
+}

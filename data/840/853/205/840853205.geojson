@@ -1,0 +1,73 @@
+{
+  "id": 840853205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284065,37.580868,-84.284065,37.580868",
+    "geom:latitude":37.580868,
+    "geom:longitude":-84.284065,
+    "iso:country":"US",
+    "sg:address":"200 Richmond Rd N",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 8888",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y3M0UyljfCIfrRN7npiWJ_37.580868_-84.284065@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049512,
+    "wof:geomhash":"62f00293402f81d4dfd3b23b466dddf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840853205
+        }
+    ],
+    "wof:id":840853205,
+    "wof:lastmodified":1464049512,
+    "wof:name":"Near New Autos",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.284065,
+    37.580868,
+    -84.284065,
+    37.580868
+],
+  "geometry": {"coordinates":[-84.284065,37.580868],"type":"Point"}
+}

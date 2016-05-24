@@ -1,0 +1,82 @@
+{
+  "id": 856740271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.750078,38.254482,-85.750078,38.254482",
+    "geom:latitude":38.254482,
+    "geom:longitude":-85.750078,
+    "iso:country":"US",
+    "sg:address":"204 E Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 572 7070",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "debt",
+        "adjuster",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DaxwmfH6i1Tcsj0PErEVB_38.254482_-85.750078@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053392,
+    "wof:geomhash":"944e7219507f6f9dfb2a2043e93553df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873387,
+            "region_id":85688641,
+            "venue_id":856740271
+        }
+    ],
+    "wof:id":856740271,
+    "wof:lastmodified":1464053392,
+    "wof:name":"Atis",
+    "wof:parent_id":85873387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "debt",
+        "adjuster",
+        "agency"
+    ]
+},
+  "bbox": [
+    -85.750078,
+    38.254482,
+    -85.750078,
+    38.254482
+],
+  "geometry": {"coordinates":[-85.750078,38.254482],"type":"Point"}
+}

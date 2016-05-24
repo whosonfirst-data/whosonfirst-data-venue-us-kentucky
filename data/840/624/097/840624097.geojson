@@ -1,0 +1,69 @@
+{
+  "id": 840624097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.575852,37.885608,-84.575852,37.885608",
+    "geom:latitude":37.885608,
+    "geom:longitude":-84.575852,
+    "iso:country":"US",
+    "sg:address":"309 N 3rd St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4123",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SsFPgge0VgRTkwaKxU7Y_37.885608_-84.575852@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044272,
+    "wof:geomhash":"8d05b6805639eb49512b4a9b50dfbfd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840624097
+        }
+    ],
+    "wof:id":840624097,
+    "wof:lastmodified":1464044272,
+    "wof:name":"Southern States Cooperative",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -84.575852,
+    37.885608,
+    -84.575852,
+    37.885608
+],
+  "geometry": {"coordinates":[-84.575852,37.885608],"type":"Point"}
+}

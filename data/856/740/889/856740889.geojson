@@ -1,0 +1,94 @@
+{
+  "id": 856740889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.731676,38.240964,-85.731676,38.240964",
+    "geom:latitude":38.240964,
+    "geom:longitude":-85.731676,
+    "iso:country":"US",
+    "sg:address":"845 Barret Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 6820",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "drug",
+        "abuse",
+        "medicine",
+        "addiction"
+    ],
+    "sg:website":"http://www.copes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85825221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mNOV4dK0OZ428R4jWkRwv_38.240964_-85.731676@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053420,
+    "wof:geomhash":"4ffbe94ab10cd2132850d79fb9384f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85825221,
+            "region_id":85688641,
+            "venue_id":856740889
+        }
+    ],
+    "wof:id":856740889,
+    "wof:lastmodified":1464053420,
+    "wof:name":"Copes",
+    "wof:parent_id":85825221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "drug",
+        "abuse",
+        "medicine",
+        "addiction"
+    ]
+},
+  "bbox": [
+    -85.731676,
+    38.240964,
+    -85.731676,
+    38.240964
+],
+  "geometry": {"coordinates":[-85.73167599999999,38.240964],"type":"Point"}
+}

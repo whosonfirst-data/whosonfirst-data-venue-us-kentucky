@@ -1,0 +1,71 @@
+{
+  "id": 840681339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447994,36.99807,-86.447994,36.99807",
+    "geom:latitude":36.99807,
+    "geom:longitude":-86.447994,
+    "iso:country":"US",
+    "sg:address":"101 W 10th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 6650",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Bjcy2i4HBKPa2ZJyjrEH_36.998070_-86.447994@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045608,
+    "wof:geomhash":"ee6a84d15bcd0eddb32b76c15b4a7e0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840681339
+        }
+    ],
+    "wof:id":840681339,
+    "wof:lastmodified":1464045608,
+    "wof:name":"Moe's Towing & Automotive",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.447994,
+    36.99807,
+    -86.447994,
+    36.99807
+],
+  "geometry": {"coordinates":[-86.44799399999999,36.99807],"type":"Point"}
+}

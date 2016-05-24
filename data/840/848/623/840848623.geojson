@@ -1,0 +1,73 @@
+{
+  "id": 840848623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528242,37.018998,-88.528242,37.018998",
+    "geom:latitude":37.018998,
+    "geom:longitude":-88.528242,
+    "iso:country":"US",
+    "sg:address":"135 Byron Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 2250",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bo94W2sfQCLK9xparMw34_37.018998_-88.528242@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049411,
+    "wof:geomhash":"b312c8124410841ffd6e0e9cee796cc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840848623
+        }
+    ],
+    "wof:id":840848623,
+    "wof:lastmodified":1464049411,
+    "wof:name":"Paducah Dance Academy",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -88.528242,
+    37.018998,
+    -88.528242,
+    37.018998
+],
+  "geometry": {"coordinates":[-88.52824200000001,37.018998],"type":"Point"}
+}

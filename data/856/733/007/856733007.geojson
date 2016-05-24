@@ -1,0 +1,76 @@
+{
+  "id": 856733007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.775658,38.147283,-85.775658,38.147283",
+    "geom:latitude":38.147283,
+    "geom:longitude":-85.775658,
+    "iso:country":"US",
+    "sg:address":"5462 New Cut Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southwest/176038-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 1671",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WbRmyngp9vwAxQ4FgkpZX_38.147283_-85.775658@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053110,
+    "wof:geomhash":"9b59a49f63d166293a50db45cedc57fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":856733007
+        }
+    ],
+    "wof:id":856733007,
+    "wof:lastmodified":1464053110,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -85.775658,
+    38.147283,
+    -85.775658,
+    38.147283
+],
+  "geometry": {"coordinates":[-85.77565800000001,38.147283],"type":"Point"}
+}

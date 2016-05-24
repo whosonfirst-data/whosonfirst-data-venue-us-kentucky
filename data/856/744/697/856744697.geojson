@@ -1,0 +1,75 @@
+{
+  "id": 856744697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.725418,38.196999,-85.725418,38.196999",
+    "geom:latitude":38.196999,
+    "geom:longitude":-85.725418,
+    "iso:country":"US",
+    "sg:address":"1300 Belmar Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 2645",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36mgFHWnqdovd404I3KvRa_38.196999_-85.725418@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053553,
+    "wof:geomhash":"42151975adc7d1bdb869388970dab4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744697
+        }
+    ],
+    "wof:id":856744697,
+    "wof:lastmodified":1464053553,
+    "wof:name":"Goldstar Auto Electric",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -85.725418,
+    38.196999,
+    -85.725418,
+    38.196999
+],
+  "geometry": {"coordinates":[-85.725418,38.196999],"type":"Point"}
+}

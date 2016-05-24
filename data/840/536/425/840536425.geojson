@@ -1,0 +1,73 @@
+{
+  "id": 840536425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.552782,38.209237,-85.552782,38.209237",
+    "geom:latitude":38.209237,
+    "geom:longitude":-85.552782,
+    "iso:country":"US",
+    "sg:address":"10900 Plantside Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 240 0006",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uPc1yMCrD3HdnVPlVSNUJ_38.209237_-85.552782@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042124,
+    "wof:geomhash":"2607a95c937e1345bcfd6c25f2ced26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840536425
+        }
+    ],
+    "wof:id":840536425,
+    "wof:lastmodified":1464042124,
+    "wof:name":"Skyway USA",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -85.552782,
+    38.209237,
+    -85.552782,
+    38.209237
+],
+  "geometry": {"coordinates":[-85.55278199999999,38.209237],"type":"Point"}
+}

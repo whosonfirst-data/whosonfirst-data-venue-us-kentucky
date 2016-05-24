@@ -1,0 +1,71 @@
+{
+  "id": 840797491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.659682,37.931106,-85.659682,37.931106",
+    "geom:latitude":37.931106,
+    "geom:longitude":-85.659682,
+    "iso:country":"US",
+    "sg:address":"191 Vine Hill Rd",
+    "sg:city":"Clermont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 9198",
+    "sg:postcode":"40110",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RYRp1m5IloJ2dB0cNkX3m_37.931106_-85.659682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048141,
+    "wof:geomhash":"c3c9da18ffdfa115d00d664d9de52b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840797491
+        }
+    ],
+    "wof:id":840797491,
+    "wof:lastmodified":1464048141,
+    "wof:name":"Clermont Baptist Church",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.659682,
+    37.931106,
+    -85.659682,
+    37.931106
+],
+  "geometry": {"coordinates":[-85.659682,37.931106],"type":"Point"}
+}

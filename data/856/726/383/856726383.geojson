@@ -1,0 +1,73 @@
+{
+  "id": 856726383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.172887,37.044244,-86.172887,37.044244",
+    "geom:latitude":37.044244,
+    "geom:longitude":-86.172887,
+    "iso:country":"US",
+    "sg:address":"470 Hays Rd N",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 3335",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S7Ol2MKgtucxZQSVOle29_37.044244_-86.172887@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052845,
+    "wof:geomhash":"17d63dd932767b101c0024288283a938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":856726383
+        }
+    ],
+    "wof:id":856726383,
+    "wof:lastmodified":1464052845,
+    "wof:name":"Bluegrass Cellular",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -86.172887,
+    37.044244,
+    -86.172887,
+    37.044244
+],
+  "geometry": {"coordinates":[-86.172887,37.044244],"type":"Point"}
+}

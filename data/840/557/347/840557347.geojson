@@ -1,0 +1,73 @@
+{
+  "id": 840557347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.647678,37.080656,-88.647678,37.080656",
+    "geom:latitude":37.080656,
+    "geom:longitude":-88.647678,
+    "iso:country":"US",
+    "sg:address":"1002 N 32nd St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 2332",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_445ucglILO0VtAxPA4kilv_37.080656_-88.647678@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042680,
+    "wof:geomhash":"3706e02647481f68525a021f14cfdb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840557347
+        }
+    ],
+    "wof:id":840557347,
+    "wof:lastmodified":1464042680,
+    "wof:name":"New Haven Assisted Living",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -88.647678,
+    37.080656,
+    -88.647678,
+    37.080656
+],
+  "geometry": {"coordinates":[-88.647678,37.080656],"type":"Point"}
+}

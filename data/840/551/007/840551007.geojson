@@ -1,0 +1,69 @@
+{
+  "id": 840551007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591888,37.889202,-84.591888,37.889202",
+    "geom:latitude":37.889202,
+    "geom:longitude":-84.591888,
+    "iso:country":"US",
+    "sg:address":"501 Etter Dr",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4141",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Aug4lZl5NTcuxndgLCEyB_37.889202_-84.591888@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042535,
+    "wof:geomhash":"2382cffea2deba7b20b6fd454ea783df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840551007
+        }
+    ],
+    "wof:id":840551007,
+    "wof:lastmodified":1464042535,
+    "wof:name":"Delta Natural Gas Co",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -84.591888,
+    37.889202,
+    -84.591888,
+    37.889202
+],
+  "geometry": {"coordinates":[-84.591888,37.889202],"type":"Point"}
+}

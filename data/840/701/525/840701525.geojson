@@ -1,0 +1,71 @@
+{
+  "id": 840701525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.693768,36.760396,-83.693768,36.760396",
+    "geom:latitude":36.760396,
+    "geom:longitude":-83.693768,
+    "iso:country":"US",
+    "sg:address":"215 E Tennessee Ave",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 6137",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ULIzhDcMCQEBgF6tUZWXU_36.760396_-83.693768@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046118,
+    "wof:geomhash":"6c827823b7eb6cbe7674d8d9775756c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840701525
+        }
+    ],
+    "wof:id":840701525,
+    "wof:lastmodified":1464046118,
+    "wof:name":"Cumberland River Comprehensive",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.693768,
+    36.760396,
+    -83.693768,
+    36.760396
+],
+  "geometry": {"coordinates":[-83.69376800000001,36.760396],"type":"Point"}
+}

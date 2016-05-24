@@ -1,0 +1,75 @@
+{
+  "id": 840579499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.471609,36.99696,-86.471609,36.99696",
+    "geom:latitude":36.99696,
+    "geom:longitude":-86.471609,
+    "iso:country":"US",
+    "sg:address":"714 Andrew Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3733",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947335,
+        102084479,
+        85812881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lA9LkJz7HCga4QFJPdqNM_36.996960_-86.471609@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043195,
+    "wof:geomhash":"050a1ea107f526a6a12c790aa0b8f617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85812881,
+            "region_id":85688641,
+            "venue_id":840579499
+        }
+    ],
+    "wof:id":840579499,
+    "wof:lastmodified":1464043195,
+    "wof:name":"Chandler's HEATING Cooling",
+    "wof:parent_id":85812881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.471609,
+    36.99696,
+    -86.471609,
+    36.99696
+],
+  "geometry": {"coordinates":[-86.471609,36.99696],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840632979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.815074,38.26224,-85.815074,38.26224",
+    "geom:latitude":38.26224,
+    "geom:longitude":-85.815074,
+    "iso:country":"US",
+    "sg:address":"4018 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 485 7230",
+    "sg:postcode":"40212",
+    "sg:province":"KY",
+    "sg:website":"www.neighborhoodpl.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85848069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j3MPdcJ4aHKJYlHXg7iLQ_38.262240_-85.815074@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044509,
+    "wof:geomhash":"23ad7a6669e6798871e4a30da82d79b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85848069,
+            "region_id":85688641,
+            "venue_id":840632979
+        }
+    ],
+    "wof:id":840632979,
+    "wof:lastmodified":1464044509,
+    "wof:name":"Northwest Neighborhood Place",
+    "wof:parent_id":85848069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.815074,
+    38.26224,
+    -85.815074,
+    38.26224
+],
+  "geometry": {"coordinates":[-85.815074,38.26224],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840569681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.899806,37.682357,-85.899806,37.682357",
+    "geom:latitude":37.682357,
+    "geom:longitude":-85.899806,
+    "iso:country":"US",
+    "sg:address":"226 Peterson Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 1990",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "fastener"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F0OLjn6PIqZfxmlH2axBR_37.682357_-85.899806@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042972,
+    "wof:geomhash":"58126709e3663824b9355dfa8f9fb661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840569681
+        }
+    ],
+    "wof:id":840569681,
+    "wof:lastmodified":1464042972,
+    "wof:name":"Van Note Supply Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fastener"
+    ]
+},
+  "bbox": [
+    -85.899806,
+    37.682357,
+    -85.899806,
+    37.682357
+],
+  "geometry": {"coordinates":[-85.899806,37.682357],"type":"Point"}
+}

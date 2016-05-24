@@ -1,0 +1,77 @@
+{
+  "id": 856761137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.695049,37.082446,-88.695049,37.082446",
+    "geom:latitude":37.082446,
+    "geom:longitude":-88.695049,
+    "iso:country":"US",
+    "sg:address":"3610 Olivet Church Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 8949",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "sg:website":"http://www.gracechurchint.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tKqrlX25d5KrJPRZxLWh4_37.082446_-88.695049@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054165,
+    "wof:geomhash":"3efaf279d6f75673935debb2e972d71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856761137
+        }
+    ],
+    "wof:id":856761137,
+    "wof:lastmodified":1464054165,
+    "wof:name":"GraceChurch",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -88.695049,
+    37.082446,
+    -88.695049,
+    37.082446
+],
+  "geometry": {"coordinates":[-88.695049,37.082446],"type":"Point"}
+}

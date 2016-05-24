@@ -1,0 +1,68 @@
+{
+  "id": 856691485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281769,37.738545,-84.281769,37.738545",
+    "geom:latitude":37.738545,
+    "geom:longitude":-84.281769,
+    "iso:country":"US",
+    "sg:address":"454 Big Hill Ave",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 0453",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hWECOg1BulvFb48WR6LSE_37.738545_-84.281769@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051897,
+    "wof:geomhash":"20337b72e3957a7d96b42957f6c76f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856691485
+        }
+    ],
+    "wof:id":856691485,
+    "wof:lastmodified":1464051897,
+    "wof:name":"Added Touch",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.281769,
+    37.738545,
+    -84.281769,
+    37.738545
+],
+  "geometry": {"coordinates":[-84.281769,37.738545],"type":"Point"}
+}

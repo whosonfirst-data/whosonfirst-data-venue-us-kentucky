@@ -1,0 +1,77 @@
+{
+  "id": 856702691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.770796,37.645356,-84.770796,37.645356",
+    "geom:latitude":37.645356,
+    "geom:longitude":-84.770796,
+    "iso:country":"US",
+    "sg:address":"131 S 2nd St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 1442",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cluOEZPvE8V1nq3gfzzDJ_37.645356_-84.770796@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052122,
+    "wof:geomhash":"9ed49589f558727345cb5fff65b8e9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":856702691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":856702691
+        }
+    ],
+    "wof:id":856702691,
+    "wof:lastmodified":1464052122,
+    "wof:name":"Hall Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.770796,
+    37.645356,
+    -84.770796,
+    37.645356
+],
+  "geometry": {"coordinates":[-84.770796,37.645356],"type":"Point"}
+}

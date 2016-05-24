@@ -1,0 +1,71 @@
+{
+  "id": 840718345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603327,36.945833,-84.603327,36.945833",
+    "geom:latitude":36.945833,
+    "geom:longitude":-84.603327,
+    "iso:country":"US",
+    "sg:address":"27 Life Way",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 5858",
+    "sg:postcode":"42518",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bT6F33IPqUfBDj0FLWcWg_36.945833_-84.603327@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046469,
+    "wof:geomhash":"29d28ce7fc364547cd4b22af71e37e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840718345
+        }
+    ],
+    "wof:id":840718345,
+    "wof:lastmodified":1464046469,
+    "wof:name":"Harold Holbrook MD",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.603327,
+    36.945833,
+    -84.603327,
+    36.945833
+],
+  "geometry": {"coordinates":[-84.60332699999999,36.945833],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840849469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.714701,36.607288,-83.714701,36.607288",
+    "geom:latitude":36.607288,
+    "geom:longitude":-83.714701,
+    "iso:country":"US",
+    "sg:address":"2004 W Cumberland Ave",
+    "sg:city":"Middlesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 248 0568",
+    "sg:postcode":"40965",
+    "sg:province":"KY",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t7wmFGXqoneGPEcrw7l97_36.607288_-83.714701@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049427,
+    "wof:geomhash":"cff7162890357743feb136d9f6f4d2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840849469
+        }
+    ],
+    "wof:id":840849469,
+    "wof:lastmodified":1464049427,
+    "wof:name":"Zion's Rentals",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -83.714701,
+    36.607288,
+    -83.714701,
+    36.607288
+],
+  "geometry": {"coordinates":[-83.71470100000001,36.607288],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 856735897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.579341,37.536251,-82.579341,37.536251",
+    "geom:latitude":37.536251,
+    "geom:longitude":-82.579341,
+    "iso:country":"US",
+    "sg:address":"4554 N Mayo Trl",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pikeville/91667-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 218 1123",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27TgKVycBUomav44suVoz0_37.536251_-82.579341@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053214,
+    "wof:geomhash":"3b2db8e2a8e3d657435d0ad650bf317a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":856735897
+        }
+    ],
+    "wof:id":856735897,
+    "wof:lastmodified":1464053214,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.579341,
+    37.536251,
+    -82.579341,
+    37.536251
+],
+  "geometry": {"coordinates":[-82.579341,37.536251],"type":"Point"}
+}

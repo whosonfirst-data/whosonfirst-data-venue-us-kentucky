@@ -1,0 +1,72 @@
+{
+  "id": 840911519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.557828,38.20976,-84.557828,38.20976",
+    "geom:latitude":38.20976,
+    "geom:longitude":-84.557828,
+    "iso:country":"US",
+    "sg:address":"226 E Main St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 5400",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.rawdon-law.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZHcnyF0wC3cp6VdU8uaNO_38.209760_-84.557828@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050776,
+    "wof:geomhash":"159c62b5d05c63a8858dfe219dd105a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840911519
+        }
+    ],
+    "wof:id":840911519,
+    "wof:lastmodified":1464050776,
+    "wof:name":"Rawdon Law Firm",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -84.557828,
+    38.20976,
+    -84.557828,
+    38.20976
+],
+  "geometry": {"coordinates":[-84.557828,38.20976],"type":"Point"}
+}

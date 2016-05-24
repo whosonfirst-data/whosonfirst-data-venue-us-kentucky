@@ -1,0 +1,73 @@
+{
+  "id": 840559681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.277047,37.6059,-84.277047,37.6059",
+    "geom:latitude":37.6059,
+    "geom:longitude":-84.277047,
+    "iso:country":"US",
+    "sg:address":"440 Hickory Ln",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 8665",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cWx4hGHnC2ySNBMWl4l76_37.605900_-84.277047@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042730,
+    "wof:geomhash":"7f1aeeb7c80af1edb0e42dde218e38ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840559681
+        }
+    ],
+    "wof:id":840559681,
+    "wof:lastmodified":1464042730,
+    "wof:name":"Superior Tool Works",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -84.277047,
+    37.6059,
+    -84.277047,
+    37.6059
+],
+  "geometry": {"coordinates":[-84.277047,37.6059],"type":"Point"}
+}

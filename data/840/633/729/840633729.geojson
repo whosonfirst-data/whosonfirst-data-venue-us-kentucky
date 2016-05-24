@@ -1,0 +1,73 @@
+{
+  "id": 840633729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.442725,38.375091,-85.442725,38.375091",
+    "geom:latitude":38.375091,
+    "geom:longitude":-85.442725,
+    "iso:country":"US",
+    "sg:address":"4710 Old Lagrange Rd",
+    "sg:city":"Buckner",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 222 3606",
+    "sg:postcode":"40010",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SanTiLwu4u3hjtIA5Dlp8_38.375091_-85.442725@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044532,
+    "wof:geomhash":"9275f58fe9d1d83244ee3393eeed78cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840633729
+        }
+    ],
+    "wof:id":840633729,
+    "wof:lastmodified":1464044532,
+    "wof:name":"Design Tech",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.442725,
+    38.375091,
+    -85.442725,
+    38.375091
+],
+  "geometry": {"coordinates":[-85.442725,38.375091],"type":"Point"}
+}

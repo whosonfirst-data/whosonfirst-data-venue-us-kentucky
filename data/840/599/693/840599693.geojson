@@ -1,0 +1,71 @@
+{
+  "id": 840599693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.596452,37.966527,-85.596452,37.966527",
+    "geom:latitude":37.966527,
+    "geom:longitude":-85.596452,
+    "iso:country":"US",
+    "sg:address":"264 Arnold Ln",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 957 1003",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L9JqBUmdeuYJdvP083Frm_37.966527_-85.596452@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043653,
+    "wof:geomhash":"30ccbbdeab3accdb086c16ac86501260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840599693
+        }
+    ],
+    "wof:id":840599693,
+    "wof:lastmodified":1464043653,
+    "wof:name":"Mobility Access Providers",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -85.596452,
+    37.966527,
+    -85.596452,
+    37.966527
+],
+  "geometry": {"coordinates":[-85.596452,37.966527],"type":"Point"}
+}

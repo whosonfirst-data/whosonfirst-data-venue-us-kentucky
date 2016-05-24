@@ -1,0 +1,74 @@
+{
+  "id": 856698879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.604064,38.258392,-85.604064,38.258392",
+    "geom:latitude":38.258392,
+    "geom:longitude":-85.604064,
+    "iso:country":"US",
+    "sg:address":"8126 New Lagrange Rd",
+    "sg:city":"Lyndon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 7474",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.lyndonfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYG443ji6V5pVHYacrnzp_38.258392_-85.604064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052037,
+    "wof:geomhash":"dc794ea04a5bd58c387331d2dfcb7b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856698879
+        }
+    ],
+    "wof:id":856698879,
+    "wof:lastmodified":1464052037,
+    "wof:name":"Lyndon Fire Protection Dist",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.604064,
+    38.258392,
+    -85.604064,
+    38.258392
+],
+  "geometry": {"coordinates":[-85.60406399999999,38.258392],"type":"Point"}
+}

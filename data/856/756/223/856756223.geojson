@@ -1,0 +1,82 @@
+{
+  "id": 856756223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5104,39.085898,-84.5104,39.085898",
+    "geom:latitude":39.085898,
+    "geom:longitude":-84.5104,
+    "iso:country":"US",
+    "sg:address":"20 E 5th St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 261 1095",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ],
+    "sg:website":"http://www.bjnovelty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85830587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdcHxtAkv2HoDcBnhGIo3_39.085898_-84.510400@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053986,
+    "wof:geomhash":"da90aab484f8929e0f89e280f4c7496f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85830587,
+            "region_id":85688641,
+            "venue_id":856756223
+        }
+    ],
+    "wof:id":856756223,
+    "wof:lastmodified":1464053986,
+    "wof:name":"5th Street Laundry",
+    "wof:parent_id":85830587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.5104,
+    39.085898,
+    -84.5104,
+    39.085898
+],
+  "geometry": {"coordinates":[-84.5104,39.085898],"type":"Point"}
+}

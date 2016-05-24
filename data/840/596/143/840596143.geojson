@@ -1,0 +1,71 @@
+{
+  "id": 840596143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.855241,37.690698,-85.855241,37.690698",
+    "geom:latitude":37.690698,
+    "geom:longitude":-85.855241,
+    "iso:country":"US",
+    "sg:address":"322 Dixie Hwy E",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 9484",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jrVQdskSp13M6cyMi9Do5_37.690698_-85.855241@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043565,
+    "wof:geomhash":"33485f3498226d111c785e97657156b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840596143
+        }
+    ],
+    "wof:id":840596143,
+    "wof:lastmodified":1464043565,
+    "wof:name":"Deveau Appraisals",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.855241,
+    37.690698,
+    -85.855241,
+    37.690698
+],
+  "geometry": {"coordinates":[-85.85524100000001,37.690698],"type":"Point"}
+}

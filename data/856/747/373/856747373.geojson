@@ -1,0 +1,86 @@
+{
+  "id": 856747373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.588081,38.208408,-85.588081,38.208408",
+    "geom:latitude":38.208408,
+    "geom:longitude":-85.588081,
+    "iso:country":"US",
+    "sg:address":"9120 Pine Lake Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 491 9999",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "enamel",
+        "porcelain",
+        "sinks-repair",
+        "bathtub",
+        "refinish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52m1Xj1cQvCYbmyh3angAe_38.208408_-85.588081@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053654,
+    "wof:geomhash":"87138ba53fe714491c0a85d0bb33fd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":856747373
+        }
+    ],
+    "wof:id":856747373,
+    "wof:lastmodified":1464053654,
+    "wof:name":"Block Porcelain Repair",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enamel",
+        "porcelain",
+        "sinks-repair",
+        "bathtub",
+        "refinish"
+    ]
+},
+  "bbox": [
+    -85.588081,
+    38.208408,
+    -85.588081,
+    38.208408
+],
+  "geometry": {"coordinates":[-85.588081,38.208408],"type":"Point"}
+}

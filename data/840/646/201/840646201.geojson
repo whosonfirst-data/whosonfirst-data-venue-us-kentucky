@@ -1,0 +1,71 @@
+{
+  "id": 840646201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.236002,38.210369,-85.236002,38.210369",
+    "geom:latitude":38.210369,
+    "geom:longitude":-85.236002,
+    "iso:country":"US",
+    "sg:address":"729 Hospital Dr",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 647 4995",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ut8ZKnqK4rmqLrhu0OV0X_38.210369_-85.236002@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044804,
+    "wof:geomhash":"45f94ec88ba8b69937400fcecd5c4936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":840646201
+        }
+    ],
+    "wof:id":840646201,
+    "wof:lastmodified":1464044804,
+    "wof:name":"Shelbyville Neurology",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.236002,
+    38.210369,
+    -85.236002,
+    38.210369
+],
+  "geometry": {"coordinates":[-85.236002,38.210369],"type":"Point"}
+}

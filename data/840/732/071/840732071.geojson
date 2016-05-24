@@ -1,0 +1,71 @@
+{
+  "id": 840732071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.628027,37.131935,-84.628027,37.131935",
+    "geom:latitude":37.131935,
+    "geom:longitude":-84.628027,
+    "iso:country":"US",
+    "sg:address":"795 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 1266",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31hZF3HIuBj7LQ98Bdtdzz_37.131935_-84.628027@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046745,
+    "wof:geomhash":"2096651fb2c956e6633cb80c36cc19bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840732071
+        }
+    ],
+    "wof:id":840732071,
+    "wof:lastmodified":1464046745,
+    "wof:name":"Somerset Animal Hospital",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.628027,
+    37.131935,
+    -84.628027,
+    37.131935
+],
+  "geometry": {"coordinates":[-84.628027,37.131935],"type":"Point"}
+}

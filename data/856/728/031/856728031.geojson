@@ -1,0 +1,87 @@
+{
+  "id": 856728031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.679672,38.202728,-85.679672,38.202728",
+    "geom:latitude":38.202728,
+    "geom:longitude":-85.679672,
+    "iso:country":"US",
+    "sg:address":"1949 Goldsmith Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 5626",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"http://www.ffmconline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85947443,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QYRLkfNkVqS8K0c9OpuiK_38.202794_-85.679299@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052931,
+    "wof:geomhash":"2b75c771883e373295a4b7294d5a48d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":856728031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856728031
+        }
+    ],
+    "wof:id":856728031,
+    "wof:lastmodified":1464052931,
+    "wof:name":"First Financial Mortgage Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -85.679672,
+    38.202728,
+    -85.679672,
+    38.202728
+],
+  "geometry": {"coordinates":[-85.679672,38.202728],"type":"Point"}
+}

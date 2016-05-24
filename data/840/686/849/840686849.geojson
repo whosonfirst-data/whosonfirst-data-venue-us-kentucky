@@ -1,0 +1,71 @@
+{
+  "id": 840686849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.62206,37.810044,-87.62206,37.810044",
+    "geom:latitude":37.810044,
+    "geom:longitude":-87.62206,
+    "iso:country":"US",
+    "sg:address":"473 US Hwy 41A",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2465",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46KBY2hmDUJnczBViD5kB8_37.810044_-87.622060@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045748,
+    "wof:geomhash":"865067b5310ad47f8aa4b32e09e4d610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840686849
+        }
+    ],
+    "wof:id":840686849,
+    "wof:lastmodified":1464045748,
+    "wof:name":"Edward Utley Jr Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -87.62206,
+    37.810044,
+    -87.62206,
+    37.810044
+],
+  "geometry": {"coordinates":[-87.62206,37.810044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840728435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.567624,37.892524,-84.567624,37.892524",
+    "geom:latitude":37.892524,
+    "geom:longitude":-84.567624,
+    "iso:country":"US",
+    "sg:address":"120 Blueberry Ln",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 0022",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DxH8Z8AF17pKg0xYw5HRQ_37.892524_-84.567624@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046678,
+    "wof:geomhash":"fa0bd612156f028e7dc0a082e093148d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840728435
+        }
+    ],
+    "wof:id":840728435,
+    "wof:lastmodified":1464046678,
+    "wof:name":"Wireless Warehouse",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -84.567624,
+    37.892524,
+    -84.567624,
+    37.892524
+],
+  "geometry": {"coordinates":[-84.567624,37.892524],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856698451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.559143,37.823096,-87.559143,37.823096",
+    "geom:latitude":37.823096,
+    "geom:longitude":-87.559143,
+    "iso:country":"US",
+    "sg:address":"70 Garden Mile Rd",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 830 0050",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LfIqO0MSrfOePolBaxzwM_37.823096_-87.559143@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052029,
+    "wof:geomhash":"3694d0e0dda33afc66b9d0fbfc67e52c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":856698451
+        }
+    ],
+    "wof:id":856698451,
+    "wof:lastmodified":1464052029,
+    "wof:name":"Regional Kidney Care-Henderson",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.559143,
+    37.823096,
+    -87.559143,
+    37.823096
+],
+  "geometry": {"coordinates":[-87.55914300000001,37.823096],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840545273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.683019,38.202688,-85.683019,38.202688",
+    "geom:latitude":38.202688,
+    "geom:longitude":-85.683019,
+    "iso:country":"US",
+    "sg:address":"1915 Bishop Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 459 3338",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Xvrtyrdo9kLUUTERVBK7_38.202688_-85.683019@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042375,
+    "wof:geomhash":"f192c29c5673f15c1b7e0cad4226981b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":840545273
+        }
+    ],
+    "wof:id":840545273,
+    "wof:lastmodified":1464042375,
+    "wof:name":"Commonwealth Foot & Ankle Ctr",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.683019,
+    38.202688,
+    -85.683019,
+    38.202688
+],
+  "geometry": {"coordinates":[-85.683019,38.202688],"type":"Point"}
+}

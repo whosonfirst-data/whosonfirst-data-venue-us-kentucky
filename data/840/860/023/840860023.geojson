@@ -1,0 +1,73 @@
+{
+  "id": 840860023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.737886,38.207607,-85.737886,38.207607",
+    "geom:latitude":38.207607,
+    "geom:longitude":-85.737886,
+    "iso:country":"US",
+    "sg:address":"2909 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 0704",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yPeVF80Xr7U8c6NuMhxxi_38.207607_-85.737886@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049655,
+    "wof:geomhash":"64a5953a4225844de0b41f912bb8f63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":840860023
+        }
+    ],
+    "wof:id":840860023,
+    "wof:lastmodified":1464049655,
+    "wof:name":"Qumane",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.737886,
+    38.207607,
+    -85.737886,
+    38.207607
+],
+  "geometry": {"coordinates":[-85.737886,38.207607],"type":"Point"}
+}

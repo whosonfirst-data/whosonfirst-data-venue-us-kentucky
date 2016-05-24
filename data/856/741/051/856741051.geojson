@@ -1,0 +1,86 @@
+{
+  "id": 856741051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.71175,38.234842,-85.71175,38.234842",
+    "geom:latitude":38.234842,
+    "geom:longitude":-85.71175,
+    "iso:country":"US",
+    "sg:address":"2036 Midland Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 4440",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "diagnostic",
+        "automotive",
+        "painting",
+        "repairing",
+        "tune"
+    ],
+    "sg:website":"http://www.realpagessites.com/highlandauto",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pJ4brLQbce9XfzEWmZaJ8_38.234842_-85.711750@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053425,
+    "wof:geomhash":"30bf03094a7bfbe81647b3482b5ade3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":856741051
+        }
+    ],
+    "wof:id":856741051,
+    "wof:lastmodified":1464053425,
+    "wof:name":"Highland Automotive",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "diagnostic",
+        "automotive",
+        "painting",
+        "repairing",
+        "tune"
+    ]
+},
+  "bbox": [
+    -85.71175,
+    38.234842,
+    -85.71175,
+    38.234842
+],
+  "geometry": {"coordinates":[-85.71174999999999,38.234842],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840929977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.863497,37.69533,-85.863497,37.69533",
+    "geom:latitude":37.69533,
+    "geom:longitude":-85.863497,
+    "iso:country":"US",
+    "sg:address":"104 S Miles St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 4487",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cTGS3sw7MorNPTYR8vwVK_37.695330_-85.863497@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051246,
+    "wof:geomhash":"76e2273437c22f2433c2f2da0976aaa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840929977
+        }
+    ],
+    "wof:id":840929977,
+    "wof:lastmodified":1464051246,
+    "wof:name":"Voice Commands Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.863497,
+    37.69533,
+    -85.863497,
+    37.69533
+],
+  "geometry": {"coordinates":[-85.863497,37.69533],"type":"Point"}
+}

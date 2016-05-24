@@ -1,0 +1,71 @@
+{
+  "id": 840952679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.337999,36.954896,-86.337999,36.954896",
+    "geom:latitude":36.954896,
+    "geom:longitude":-86.337999,
+    "iso:country":"US",
+    "sg:address":"777 Castle Heights Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 796 8670",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TnI9kt35lxEapEQXJly7R_36.954896_-86.337999@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051700,
+    "wof:geomhash":"1d045acf38a44e649590becc5fd8f9af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840952679
+        }
+    ],
+    "wof:id":840952679,
+    "wof:lastmodified":1464051700,
+    "wof:name":"SMC Construction",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.337999,
+    36.954896,
+    -86.337999,
+    36.954896
+],
+  "geometry": {"coordinates":[-86.337999,36.954896],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840917047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774005,37.652449,-84.774005,37.652449",
+    "geom:latitude":37.652449,
+    "geom:longitude":-84.774005,
+    "iso:country":"US",
+    "sg:address":"515 N 4th St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 3892",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gIHmBLAYhuqmGRYLVIM7O_37.652449_-84.774005@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050934,
+    "wof:geomhash":"2853d23272199e36ca3e33f209f8e264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840917047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840917047
+        }
+    ],
+    "wof:id":840917047,
+    "wof:lastmodified":1464050934,
+    "wof:name":"Bell Refrigeration & Air Cond",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.774005,
+    37.652449,
+    -84.774005,
+    37.652449
+],
+  "geometry": {"coordinates":[-84.774005,37.652449],"type":"Point"}
+}

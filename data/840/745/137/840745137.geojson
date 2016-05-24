@@ -1,0 +1,73 @@
+{
+  "id": 840745137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.504162,37.00206,-86.504162,37.00206",
+    "geom:latitude":37.00206,
+    "geom:longitude":-86.504162,
+    "iso:country":"US",
+    "sg:address":"2550 Glen Lily Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 202 6995",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zlVnBpVgN1BpffGfXb6Bx_37.002060_-86.504162@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046990,
+    "wof:geomhash":"2b940c2369190708e02a1d88ada55388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840745137
+        }
+    ],
+    "wof:id":840745137,
+    "wof:lastmodified":1464046990,
+    "wof:name":"Advantage Electric",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.504162,
+    37.00206,
+    -86.504162,
+    37.00206
+],
+  "geometry": {"coordinates":[-86.50416199999999,37.00206],"type":"Point"}
+}

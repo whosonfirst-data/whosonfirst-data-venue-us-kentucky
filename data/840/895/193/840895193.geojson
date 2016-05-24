@@ -1,0 +1,82 @@
+{
+  "id": 840895193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.774894,37.629692,-84.774894,37.629692",
+    "geom:latitude":37.629692,
+    "geom:longitude":-84.774894,
+    "iso:country":"US",
+    "sg:address":"1021 Hustonville Rd",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 2507",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997,
+        102191575,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M0bcTkO6qQeTKcpW8xNGF_37.629692_-84.774894@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050387,
+    "wof:geomhash":"731f511f2b4448d54ea658c8f5c4141f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840895193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840895193
+        }
+    ],
+    "wof:id":840895193,
+    "wof:lastmodified":1464050387,
+    "wof:name":"Fox & Crow-Pawnbrokers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -84.774894,
+    37.629692,
+    -84.774894,
+    37.629692
+],
+  "geometry": {"coordinates":[-84.774894,37.629692],"type":"Point"}
+}

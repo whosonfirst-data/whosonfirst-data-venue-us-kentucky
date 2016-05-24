@@ -1,0 +1,83 @@
+{
+  "id": 856742315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.629404,38.255884,-85.629404,38.255884",
+    "geom:latitude":38.255884,
+    "geom:longitude":-85.629404,
+    "iso:country":"US",
+    "sg:address":"318 Bramton Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 1557",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "compounds",
+        "powders",
+        "materials-colorants",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n8JmS8f4YhodmHjpmiJZr_38.255884_-85.629404@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053469,
+    "wof:geomhash":"bf7b8e3322ef395d5c5bc971e3cf71f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742315
+        }
+    ],
+    "wof:id":856742315,
+    "wof:lastmodified":1464053469,
+    "wof:name":"American Polymers Inc",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compounds",
+        "powders",
+        "materials-colorants",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ]
+},
+  "bbox": [
+    -85.629404,
+    38.255884,
+    -85.629404,
+    38.255884
+],
+  "geometry": {"coordinates":[-85.62940399999999,38.255884],"type":"Point"}
+}

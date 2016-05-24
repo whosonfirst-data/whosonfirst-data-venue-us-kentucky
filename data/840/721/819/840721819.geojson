@@ -1,0 +1,71 @@
+{
+  "id": 840721819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.713494,37.979613,-85.713494,37.979613",
+    "geom:latitude":37.979613,
+    "geom:longitude":-85.713494,
+    "iso:country":"US",
+    "sg:address":"270 3rd Ave",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 4320",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66ZaFmsyp3T2AtQ3psMKsf_37.979613_-85.713494@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046546,
+    "wof:geomhash":"b236378508a794ccd22af12d4f8470f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840721819
+        }
+    ],
+    "wof:id":840721819,
+    "wof:lastmodified":1464046546,
+    "wof:name":"C W Construction",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -85.713494,
+    37.979613,
+    -85.713494,
+    37.979613
+],
+  "geometry": {"coordinates":[-85.713494,37.979613],"type":"Point"}
+}

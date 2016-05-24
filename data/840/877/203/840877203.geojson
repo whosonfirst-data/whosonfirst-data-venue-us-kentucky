@@ -1,0 +1,71 @@
+{
+  "id": 840877203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.823767,37.027172,-84.823767,37.027172",
+    "geom:latitude":37.027172,
+    "geom:longitude":-84.823767,
+    "iso:country":"US",
+    "sg:address":"1087 Gaines Rd",
+    "sg:city":"Nancy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 871 9374",
+    "sg:postcode":"42544",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76Qfuaj9BhDnveeMG51X10_37.027172_-84.823767@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050005,
+    "wof:geomhash":"5b30e28e563eb75aadd190e5e66e3d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840877203
+        }
+    ],
+    "wof:id":840877203,
+    "wof:lastmodified":1464050005,
+    "wof:name":"Gaines Construction Co",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.823767,
+    37.027172,
+    -84.823767,
+    37.027172
+],
+  "geometry": {"coordinates":[-84.823767,37.027172],"type":"Point"}
+}

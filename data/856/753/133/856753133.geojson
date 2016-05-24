@@ -1,0 +1,68 @@
+{
+  "id": 856753133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.321116,37.776884,-84.321116,37.776884",
+    "geom:latitude":37.776884,
+    "geom:longitude":-84.321116,
+    "iso:country":"US",
+    "sg:address":"2161 Lexington Rd Ste 5",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 7794",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LIlwnIwPF6Xjf3h2D8u9B_37.776884_-84.321116@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053873,
+    "wof:geomhash":"6da0bbca3cb1846e537978fa98d5bc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856753133
+        }
+    ],
+    "wof:id":856753133,
+    "wof:lastmodified":1464053873,
+    "wof:name":"Rose Bowling",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.321116,
+    37.776884,
+    -84.321116,
+    37.776884
+],
+  "geometry": {"coordinates":[-84.321116,37.776884],"type":"Point"}
+}

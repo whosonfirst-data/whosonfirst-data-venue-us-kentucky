@@ -1,0 +1,73 @@
+{
+  "id": 840882779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.531405,37.016474,-88.531405,37.016474",
+    "geom:latitude":37.016474,
+    "geom:longitude":-88.531405,
+    "iso:country":"US",
+    "sg:address":"5530 Reidland Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 8988",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WieMaPh1UBBYrbRIORVAK_37.016474_-88.531405@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050128,
+    "wof:geomhash":"a8e459d2b3c9f18c34dea275a6f0bce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840882779
+        }
+    ],
+    "wof:id":840882779,
+    "wof:lastmodified":1464050128,
+    "wof:name":"Paducah Medical Supplies Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.531405,
+    37.016474,
+    -88.531405,
+    37.016474
+],
+  "geometry": {"coordinates":[-88.53140500000001,37.016474],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840738539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29501,37.58683,-84.29501,37.58683",
+    "geom:latitude":37.58683,
+    "geom:longitude":-84.29501,
+    "iso:country":"US",
+    "sg:address":"166 Glades Rd",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 986 3375",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ayiOasRZtNw4WNCWmpDDI_37.586830_-84.295010@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046871,
+    "wof:geomhash":"ed34cf74f0880cfad7e47c33f29159f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840738539
+        }
+    ],
+    "wof:id":840738539,
+    "wof:lastmodified":1464046871,
+    "wof:name":"Berea City Fire Dept",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.29501,
+    37.58683,
+    -84.29501,
+    37.58683
+],
+  "geometry": {"coordinates":[-84.29501,37.58683],"type":"Point"}
+}

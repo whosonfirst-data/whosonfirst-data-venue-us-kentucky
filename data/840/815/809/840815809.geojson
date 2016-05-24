@@ -1,0 +1,73 @@
+{
+  "id": 840815809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.378182,37.01456,-86.378182,37.01456",
+    "geom:latitude":37.01456,
+    "geom:longitude":-86.378182,
+    "iso:country":"US",
+    "sg:address":"4341 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8444",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PYOblC7K1WfophoB4Peak_37.014560_-86.378182@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048633,
+    "wof:geomhash":"eeca02db0c05380f3c534197c154f5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840815809
+        }
+    ],
+    "wof:id":840815809,
+    "wof:lastmodified":1464048633,
+    "wof:name":"Bowling Green Tax Svc",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -86.378182,
+    37.01456,
+    -86.378182,
+    37.01456
+],
+  "geometry": {"coordinates":[-86.378182,37.01456],"type":"Point"}
+}

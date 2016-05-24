@@ -1,0 +1,73 @@
+{
+  "id": 840688799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.560656,37.528512,-82.560656,37.528512",
+    "geom:latitude":37.528512,
+    "geom:longitude":-82.560656,
+    "iso:country":"US",
+    "sg:address":"103 Weddington Branch Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 432 1514",
+    "sg:postcode":"41501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947007,
+        102085449,
+        85840927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xzDREFe6dwxJjy7qkrXua_37.528512_-82.560656@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045791,
+    "wof:geomhash":"e83e2f66f17ed7a10d10fecd13b6ecad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085449,
+            "locality_id":85947007,
+            "neighbourhood_id":85840927,
+            "region_id":85688641,
+            "venue_id":840688799
+        }
+    ],
+    "wof:id":840688799,
+    "wof:lastmodified":1464045791,
+    "wof:name":"HLT Check Exchange",
+    "wof:parent_id":85840927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -82.560656,
+    37.528512,
+    -82.560656,
+    37.528512
+],
+  "geometry": {"coordinates":[-82.56065599999999,37.528512],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840688729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639503,38.137785,-85.639503,38.137785",
+    "geom:latitude":38.137785,
+    "geom:longitude":-85.639503,
+    "iso:country":"US",
+    "sg:address":"6456 Outer Loop",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 966 2116",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "topsoil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pjvTp5T62v0XWl7rQarGx_38.137785_-85.639503@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045790,
+    "wof:geomhash":"47b5d97573ccff145543322f341e76fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840688729
+        }
+    ],
+    "wof:id":840688729,
+    "wof:lastmodified":1464045790,
+    "wof:name":"Louisville Topsoil",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "topsoil"
+    ]
+},
+  "bbox": [
+    -85.639503,
+    38.137785,
+    -85.639503,
+    38.137785
+],
+  "geometry": {"coordinates":[-85.639503,38.137785],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840745761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718881,38.237414,-85.718881,38.237414",
+    "geom:latitude":38.237414,
+    "geom:longitude":-85.718881,
+    "iso:country":"US",
+    "sg:address":"1237 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 1418",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pwxpRp7aw1QmoSlupgqfx_38.237414_-85.718881@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047001,
+    "wof:geomhash":"0bcbec7f0280f6cc2ff7215711ecfbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":840745761
+        }
+    ],
+    "wof:id":840745761,
+    "wof:lastmodified":1464047001,
+    "wof:name":"LA Bamba Mexican Restaurant",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.718881,
+    38.237414,
+    -85.718881,
+    38.237414
+],
+  "geometry": {"coordinates":[-85.718881,38.237414],"type":"Point"}
+}

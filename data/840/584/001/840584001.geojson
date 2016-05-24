@@ -1,0 +1,73 @@
+{
+  "id": 840584001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.603165,37.844147,-84.603165,37.844147",
+    "geom:latitude":37.844147,
+    "geom:longitude":-84.603165,
+    "iso:country":"US",
+    "sg:address":"665 Vineyard Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 4041",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07DjgSgy7dZBP00R1hgJhu_37.844147_-84.603165@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043293,
+    "wof:geomhash":"04ff0f6e13955c40e43e9a0debae5083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840584001
+        }
+    ],
+    "wof:id":840584001,
+    "wof:lastmodified":1464043293,
+    "wof:name":"Harry Jennette",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -84.603165,
+    37.844147,
+    -84.603165,
+    37.844147
+],
+  "geometry": {"coordinates":[-84.603165,37.844147],"type":"Point"}
+}

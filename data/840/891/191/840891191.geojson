@@ -1,0 +1,73 @@
+{
+  "id": 840891191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.378666,37.898487,-84.378666,37.898487",
+    "geom:latitude":37.898487,
+    "geom:longitude":-84.378666,
+    "iso:country":"US",
+    "sg:address":"384 Avawam Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 8775",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pharmaceutical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947137,
+        102084695,
+        85873057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16rEw58JmtTes2MXbrMwjW_37.898487_-84.378666@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050309,
+    "wof:geomhash":"b5d5fd27dd5716d0a33022acf11de132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873057,
+            "region_id":85688641,
+            "venue_id":840891191
+        }
+    ],
+    "wof:id":840891191,
+    "wof:lastmodified":1464050309,
+    "wof:name":"Pharmacy Management & Consltng",
+    "wof:parent_id":85873057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -84.378666,
+    37.898487,
+    -84.378666,
+    37.898487
+],
+  "geometry": {"coordinates":[-84.378666,37.898487],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 856742855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635345,38.243174,-85.635345,38.243174",
+    "geom:latitude":38.243174,
+    "geom:longitude":-85.635345,
+    "iso:country":"US",
+    "sg:address":"425 S Hubbards Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 0261",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FuUAg7j5otIcAgGBtvAfJ_38.243174_-85.635345@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053489,
+    "wof:geomhash":"4344f8165f5894dbee4df04483a202c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742855
+        }
+    ],
+    "wof:id":856742855,
+    "wof:lastmodified":1464053489,
+    "wof:name":"Cypress Pointe Apartments",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -85.635345,
+    38.243174,
+    -85.635345,
+    38.243174
+],
+  "geometry": {"coordinates":[-85.635345,38.243174],"type":"Point"}
+}

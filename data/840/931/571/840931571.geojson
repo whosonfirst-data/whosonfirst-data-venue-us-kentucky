@@ -1,0 +1,71 @@
+{
+  "id": 840931571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.888243,37.73632,-85.888243,37.73632",
+    "geom:latitude":37.73632,
+    "geom:longitude":-85.888243,
+    "iso:country":"US",
+    "sg:address":"1998 Dixie Hwy S",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 0946",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "housewares"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z8fTdnQYnKj4pEZXRVkJO_37.736320_-85.888243@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051281,
+    "wof:geomhash":"c303efad60e7c7f680ee4cc61860bd58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840931571
+        }
+    ],
+    "wof:id":840931571,
+    "wof:lastmodified":1464051281,
+    "wof:name":"Bed Bath & Beyond",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housewares"
+    ]
+},
+  "bbox": [
+    -85.888243,
+    37.73632,
+    -85.888243,
+    37.73632
+],
+  "geometry": {"coordinates":[-85.888243,37.73632],"type":"Point"}
+}

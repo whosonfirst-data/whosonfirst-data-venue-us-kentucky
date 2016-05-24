@@ -1,0 +1,73 @@
+{
+  "id": 840841395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.528854,37.01431,-88.528854,37.01431",
+    "geom:latitude":37.01431,
+    "geom:longitude":-88.528854,
+    "iso:country":"US",
+    "sg:address":"176 Fisher Blvd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 0010",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5siQNabG0v6C2rPBnQNqzd_37.014310_-88.528854@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049260,
+    "wof:geomhash":"30a621a7ebef70b6bddb2fdff536256b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840841395
+        }
+    ],
+    "wof:id":840841395,
+    "wof:lastmodified":1464049260,
+    "wof:name":"American Liberty Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -88.528854,
+    37.01431,
+    -88.528854,
+    37.01431
+],
+  "geometry": {"coordinates":[-88.528854,37.01431],"type":"Point"}
+}

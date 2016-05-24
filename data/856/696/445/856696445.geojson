@@ -1,0 +1,75 @@
+{
+  "id": 856696445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636438,38.23495,-85.636438,38.23495",
+    "geom:latitude":38.23495,
+    "geom:longitude":-85.636438,
+    "iso:country":"US",
+    "sg:address":"901 Dupont Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 899 7163",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yy3W5ERsVpxdY30NTYUy0_38.234950_-85.636438@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051989,
+    "wof:geomhash":"c8ab63cd823dea107939f7008dd79c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856696445
+        }
+    ],
+    "wof:id":856696445,
+    "wof:lastmodified":1464051989,
+    "wof:name":"One MD",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.636438,
+    38.23495,
+    -85.636438,
+    38.23495
+],
+  "geometry": {"coordinates":[-85.636438,38.23495],"type":"Point"}
+}

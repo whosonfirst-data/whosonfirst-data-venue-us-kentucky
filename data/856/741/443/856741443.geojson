@@ -1,0 +1,83 @@
+{
+  "id": 856741443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706708,38.231318,-85.706708,38.231318",
+    "geom:latitude":38.231318,
+    "geom:longitude":-85.706708,
+    "iso:country":"US",
+    "sg:address":"1546 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 9404",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871078&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RwwvwzKN3iqdduo8aoG2d_38.231318_-85.706708@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053438,
+    "wof:geomhash":"9d0e8baa601c2f2ddd4cf9ec907f9e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":856741443
+        }
+    ],
+    "wof:id":856741443,
+    "wof:lastmodified":1464053438,
+    "wof:name":"Gates Automotive",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.706708,
+    38.231318,
+    -85.706708,
+    38.231318
+],
+  "geometry": {"coordinates":[-85.70670800000001,38.231318],"type":"Point"}
+}

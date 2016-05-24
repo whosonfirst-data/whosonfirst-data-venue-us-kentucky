@@ -1,0 +1,68 @@
+{
+  "id": 840694639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.399256,37.563391,-83.399256,37.563391",
+    "geom:latitude":37.563391,
+    "geom:longitude":-83.399256,
+    "iso:country":"US",
+    "sg:address":"850 State Hwy 15",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 666 0010",
+    "sg:postcode":"41339",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946791,
+        102085543,
+        85840361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UwdcqwCufaIsePAtqyXOP_37.563391_-83.399256@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045938,
+    "wof:geomhash":"ca2268ec279946af9c4076ae719bdf37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085543,
+            "locality_id":85946791,
+            "neighbourhood_id":85840361,
+            "region_id":85688641,
+            "venue_id":840694639
+        }
+    ],
+    "wof:id":840694639,
+    "wof:lastmodified":1464045938,
+    "wof:name":"Sears Roebuck & Co",
+    "wof:parent_id":85840361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.399256,
+    37.563391,
+    -83.399256,
+    37.563391
+],
+  "geometry": {"coordinates":[-83.39925599999999,37.563391],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 856736377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.413283,36.929972,-86.413283,36.929972",
+    "geom:latitude":36.929972,
+    "geom:longitude":-86.413283,
+    "iso:country":"US",
+    "sg:address":"100 Cherry Farm Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/bowling-green/153698-zaxbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1866",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uq739ySRJPTJA1BQ3dHdH_36.929972_-86.413283@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053237,
+    "wof:geomhash":"86ee81d09388c844a26d9b6406806576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856736377
+        }
+    ],
+    "wof:id":856736377,
+    "wof:lastmodified":1464053237,
+    "wof:name":"Zaxby's",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -86.413283,
+    36.929972,
+    -86.413283,
+    36.929972
+],
+  "geometry": {"coordinates":[-86.41328300000001,36.929972],"type":"Point"}
+}

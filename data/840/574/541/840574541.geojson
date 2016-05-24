@@ -1,0 +1,73 @@
+{
+  "id": 840574541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.593509,37.833598,-87.593509,37.833598",
+    "geom:latitude":37.833598,
+    "geom:longitude":-87.593509,
+    "iso:country":"US",
+    "sg:address":"341 S Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 3200",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e6IemxfzKmcBPocetZnn4_37.833598_-87.593509@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043093,
+    "wof:geomhash":"6b12fcd7b28dc6e10dce044d9f8d1eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840574541
+        }
+    ],
+    "wof:id":840574541,
+    "wof:lastmodified":1464043093,
+    "wof:name":"Carmart Of Henderson",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.593509,
+    37.833598,
+    -87.593509,
+    37.833598
+],
+  "geometry": {"coordinates":[-87.593509,37.833598],"type":"Point"}
+}

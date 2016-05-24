@@ -1,0 +1,73 @@
+{
+  "id": 840951943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440781,36.951074,-86.440781,36.951074",
+    "geom:latitude":36.951074,
+    "geom:longitude":-86.440781,
+    "iso:country":"US",
+    "sg:address":"1625 Campbell Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 5061",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P7WPH1mM5lyPtkN061d7J_36.951074_-86.440781@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051688,
+    "wof:geomhash":"78fa2770eba5cf97b5a52ec8433b1a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840951943
+        }
+    ],
+    "wof:id":840951943,
+    "wof:lastmodified":1464051688,
+    "wof:name":"EB Games",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -86.440781,
+    36.951074,
+    -86.440781,
+    36.951074
+],
+  "geometry": {"coordinates":[-86.440781,36.951074],"type":"Point"}
+}

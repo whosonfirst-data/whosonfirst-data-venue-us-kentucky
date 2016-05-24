@@ -1,0 +1,72 @@
+{
+  "id": 840817983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.864665,37.692892,-85.864665,37.692892",
+    "geom:latitude":37.692892,
+    "geom:longitude":-85.864665,
+    "iso:country":"US",
+    "sg:address":"306 College St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2737",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plan"
+    ],
+    "sg:website":"www.brownfuneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z107kmXOAtLX2Z1H5IARf_37.692892_-85.864665@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048695,
+    "wof:geomhash":"3eb11981fd5d0848a33c88cccb25fcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840817983
+        }
+    ],
+    "wof:id":840817983,
+    "wof:lastmodified":1464048695,
+    "wof:name":"Brown Funeral Home",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -85.864665,
+    37.692892,
+    -85.864665,
+    37.692892
+],
+  "geometry": {"coordinates":[-85.864665,37.692892],"type":"Point"}
+}

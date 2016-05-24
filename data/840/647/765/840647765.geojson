@@ -1,0 +1,72 @@
+{
+  "id": 840647765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.66487,37.081801,-88.66487,37.081801",
+    "geom:latitude":37.081801,
+    "geom:longitude":-88.66487,
+    "iso:country":"US",
+    "sg:address":"3530 Park Plaza Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 8727",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.americanhomepatient.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CoHJWv5xL4Q0XW62Pq3wD_37.081801_-88.664870@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044836,
+    "wof:geomhash":"837a42a3f77b631c47f58a41b7eb8b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":840647765
+        }
+    ],
+    "wof:id":840647765,
+    "wof:lastmodified":1464044836,
+    "wof:name":"American Home Patient Inc",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.66487,
+    37.081801,
+    -88.66487,
+    37.081801
+],
+  "geometry": {"coordinates":[-88.66486999999999,37.081801],"type":"Point"}
+}

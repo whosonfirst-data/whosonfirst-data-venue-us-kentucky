@@ -1,0 +1,71 @@
+{
+  "id": 840796075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.594785,36.98521,-84.594785,36.98521",
+    "geom:latitude":36.98521,
+    "geom:longitude":-84.594785,
+    "iso:country":"US",
+    "sg:address":"9660 US Hwy 27",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 0410",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J1oiLZOptB7aV7s69hZ46_36.985210_-84.594785@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048098,
+    "wof:geomhash":"02c757f7dfa8191ce739e181d43e8232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840796075
+        }
+    ],
+    "wof:id":840796075,
+    "wof:lastmodified":1464048098,
+    "wof:name":"Leonards Auto Sales",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.594785,
+    36.98521,
+    -84.594785,
+    36.98521
+],
+  "geometry": {"coordinates":[-84.594785,36.98521],"type":"Point"}
+}

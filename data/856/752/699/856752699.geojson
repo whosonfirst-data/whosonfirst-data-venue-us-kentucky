@@ -1,0 +1,79 @@
+{
+  "id": 856752699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.489715,38.219109,-84.489715,38.219109",
+    "geom:latitude":38.219109,
+    "geom:longitude":-84.489715,
+    "iso:country":"US",
+    "sg:address":"4055 Paris Pike",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 768 9308",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.blackridgehall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24l44HC0ZoC4EDLLozaVqJ_38.219109_-84.489715@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053858,
+    "wof:geomhash":"e7a6a580b44f928f63a93e5f1f67e0b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":856752699
+        }
+    ],
+    "wof:id":856752699,
+    "wof:lastmodified":1464053858,
+    "wof:name":"Blackridge Hall Bed and Breakfast",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -84.489715,
+    38.219109,
+    -84.489715,
+    38.219109
+],
+  "geometry": {"coordinates":[-84.489715,38.219109],"type":"Point"}
+}

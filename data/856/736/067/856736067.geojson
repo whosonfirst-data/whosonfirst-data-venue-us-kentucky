@@ -1,0 +1,74 @@
+{
+  "id": 856736067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.68356,37.073259,-88.68356,37.073259",
+    "geom:latitude":37.073259,
+    "geom:longitude":-88.68356,
+    "iso:country":"US",
+    "sg:address":"2935 James Sanders Blvd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/paducah/159367-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 443 7454",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cfQy9dUZaVaAMwElA6YAG_37.073259_-88.683560@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053220,
+    "wof:geomhash":"c07ea702616d7f40e72b9a14992cd069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":856736067
+        }
+    ],
+    "wof:id":856736067,
+    "wof:lastmodified":1464053220,
+    "wof:name":"Arby's",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.68356,
+    37.073259,
+    -88.68356,
+    37.073259
+],
+  "geometry": {"coordinates":[-88.68356,37.073259],"type":"Point"}
+}

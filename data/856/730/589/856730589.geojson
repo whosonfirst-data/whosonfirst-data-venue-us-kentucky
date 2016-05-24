@@ -1,0 +1,73 @@
+{
+  "id": 856730589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.547621,39.093868,-84.547621,39.093868",
+    "geom:latitude":39.093868,
+    "geom:longitude":-84.547621,
+    "iso:country":"US",
+    "sg:address":"231 Elm St",
+    "sg:city":"Ludlow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 261 8186",
+    "sg:postcode":"41016",
+    "sg:province":"KY",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947205,
+        102084469,
+        85868085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jKs0NWUEfScY06xdiXUTo_39.094017_-84.546986@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053023,
+    "wof:geomhash":"2ef2c238adc777f2fd707aea4bb7a51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947205,
+            "neighbourhood_id":85868085,
+            "region_id":85688641,
+            "venue_id":856730589
+        }
+    ],
+    "wof:id":856730589,
+    "wof:lastmodified":1464053023,
+    "wof:name":"Ludlow Police Dept",
+    "wof:parent_id":85868085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.547621,
+    39.093868,
+    -84.547621,
+    39.093868
+],
+  "geometry": {"coordinates":[-84.54762100000001,39.093868],"type":"Point"}
+}

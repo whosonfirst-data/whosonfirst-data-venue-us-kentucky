@@ -1,0 +1,80 @@
+{
+  "id": 856752825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566122,37.884572,-84.566122,37.884572",
+    "geom:latitude":37.884572,
+    "geom:longitude":-84.566122,
+    "iso:country":"US",
+    "sg:address":"609 N Central Ave",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 421 7143",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bMDpf3CXWlFqCtPWnbit9_37.884572_-84.566122@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053862,
+    "wof:geomhash":"8c4e46ed1c079cd7edbbd1816e7fd44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856752825
+        }
+    ],
+    "wof:id":856752825,
+    "wof:lastmodified":1464053862,
+    "wof:name":"Black Cauldron Crafts",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.566122,
+    37.884572,
+    -84.566122,
+    37.884572
+],
+  "geometry": {"coordinates":[-84.56612199999999,37.884572],"type":"Point"}
+}

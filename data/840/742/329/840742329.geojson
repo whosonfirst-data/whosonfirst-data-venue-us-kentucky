@@ -1,0 +1,75 @@
+{
+  "id": 840742329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.746793,38.123398,-85.746793,38.123398",
+    "geom:latitude":38.123398,
+    "geom:longitude":-85.746793,
+    "iso:country":"US",
+    "sg:address":"8751 Gene Paulin Way",
+    "sg:city":"Fairdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 361 2050",
+    "sg:postcode":"40118",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85828155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V7hXgifGblgLJJ3nUY7Mi_38.123398_-85.746793@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046939,
+    "wof:geomhash":"cc18773087faca85fa6469abbcde6384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85828155,
+            "region_id":85688641,
+            "venue_id":840742329
+        }
+    ],
+    "wof:id":840742329,
+    "wof:lastmodified":1464046939,
+    "wof:name":"Southside Automotive",
+    "wof:parent_id":85828155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.746793,
+    38.123398,
+    -85.746793,
+    38.123398
+],
+  "geometry": {"coordinates":[-85.746793,38.123398],"type":"Point"}
+}

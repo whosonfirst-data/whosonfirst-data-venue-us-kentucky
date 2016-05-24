@@ -1,0 +1,73 @@
+{
+  "id": 840628409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.68648,38.225196,-85.68648,38.225196",
+    "geom:latitude":38.225196,
+    "geom:longitude":-85.68648,
+    "iso:country":"US",
+    "sg:address":"2101 Wrocklage Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 454 5444",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eX5He7JZllqeTzPgJrIe6_38.225196_-85.686480@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044391,
+    "wof:geomhash":"ed92717212add3527982d49dd789e2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873397,
+            "region_id":85688641,
+            "venue_id":840628409
+        }
+    ],
+    "wof:id":840628409,
+    "wof:lastmodified":1464044391,
+    "wof:name":"Beach House Tanning",
+    "wof:parent_id":85873397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -85.68648,
+    38.225196,
+    -85.68648,
+    38.225196
+],
+  "geometry": {"coordinates":[-85.68648,38.225196],"type":"Point"}
+}

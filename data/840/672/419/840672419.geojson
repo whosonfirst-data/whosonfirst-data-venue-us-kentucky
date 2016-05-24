@@ -1,0 +1,73 @@
+{
+  "id": 840672419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.713356,37.079706,-88.713356,37.079706",
+    "geom:latitude":37.079706,
+    "geom:longitude":-88.713356,
+    "iso:country":"US",
+    "sg:address":"5831 Harris Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5483",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85865245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3ZnQRCm4qFukXZ1oqMCe_37.079706_-88.713356@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045372,
+    "wof:geomhash":"90661840a13ca8e8ba2ae5b6b9d74231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85865245,
+            "region_id":85688641,
+            "venue_id":840672419
+        }
+    ],
+    "wof:id":840672419,
+    "wof:lastmodified":1464045372,
+    "wof:name":"EES",
+    "wof:parent_id":85865245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -88.713356,
+    37.079706,
+    -88.713356,
+    37.079706
+],
+  "geometry": {"coordinates":[-88.713356,37.079706],"type":"Point"}
+}

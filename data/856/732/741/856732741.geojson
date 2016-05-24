@@ -1,0 +1,74 @@
+{
+  "id": 856732741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.707328,38.259685,-85.707328,38.259685",
+    "geom:latitude":38.259685,
+    "geom:longitude":-85.707328,
+    "iso:country":"US",
+    "sg:address":"2017 Brownsboro Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/louisville-east/209692-taste-of-jamaica/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 896 1055",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "jamaican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53oTktRvc3zo4ro16oGrGQ_38.259685_-85.707328@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053100,
+    "wof:geomhash":"43ce4ed7441f1b63f2c962bc2ef95abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866965,
+            "region_id":85688641,
+            "venue_id":856732741
+        }
+    ],
+    "wof:id":856732741,
+    "wof:lastmodified":1464053100,
+    "wof:name":"Taste Of Jamaica",
+    "wof:parent_id":85866965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jamaican"
+    ]
+},
+  "bbox": [
+    -85.707328,
+    38.259685,
+    -85.707328,
+    38.259685
+],
+  "geometry": {"coordinates":[-85.707328,38.259685],"type":"Point"}
+}

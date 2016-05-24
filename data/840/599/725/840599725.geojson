@@ -1,0 +1,73 @@
+{
+  "id": 840599725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.201625,37.03275,-86.201625,37.03275",
+    "geom:latitude":37.03275,
+    "geom:longitude":-86.201625,
+    "iso:country":"US",
+    "sg:address":"167 Hydro Pondsville Rd",
+    "sg:city":"Smiths Grove",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 563 4243",
+    "sg:postcode":"42171",
+    "sg:province":"KY",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z7Cf1fKZA36sfFZqzJUyE_37.032750_-86.201625@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043654,
+    "wof:geomhash":"9bd505a3cb3da3403dae96fc3f7a7669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840599725
+        }
+    ],
+    "wof:id":840599725,
+    "wof:lastmodified":1464043654,
+    "wof:name":"Barrick Glendal",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -86.201625,
+    37.03275,
+    -86.201625,
+    37.03275
+],
+  "geometry": {"coordinates":[-86.20162500000001,37.03275],"type":"Point"}
+}

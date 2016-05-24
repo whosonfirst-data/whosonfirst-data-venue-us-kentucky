@@ -1,0 +1,69 @@
+{
+  "id": 840751639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5807,36.983503,-84.5807,36.983503",
+    "geom:latitude":36.983503,
+    "geom:longitude":-84.5807,
+    "iso:country":"US",
+    "sg:address":"868 Antioch Church Rd",
+    "sg:city":"Burnside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 561 4004",
+    "sg:postcode":"42519",
+    "sg:province":"KY",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75jZrKcmh2sIfoJpoRC6JL_36.983503_-84.580700@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047141,
+    "wof:geomhash":"1e6e306b2b49d52f9f64df6f082ddfe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840751639
+        }
+    ],
+    "wof:id":840751639,
+    "wof:lastmodified":1464047141,
+    "wof:name":"Bell's Wrecker Svc",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.5807,
+    36.983503,
+    -84.5807,
+    36.983503
+],
+  "geometry": {"coordinates":[-84.58069999999999,36.983503],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840572263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445517,37.004508,-86.445517,37.004508",
+    "geom:latitude":37.004508,
+    "geom:longitude":-86.445517,
+    "iso:country":"US",
+    "sg:address":"611 Raven Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 3363",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.bgky.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n8avZPx4QaRaB7ZmGrdpl_37.004508_-86.445517@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043041,
+    "wof:geomhash":"34e8bc35712fe5e2029ab93a1deb726a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840572263
+        }
+    ],
+    "wof:id":840572263,
+    "wof:lastmodified":1464043041,
+    "wof:name":"Bowling Green Street Div",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -86.445517,
+    37.004508,
+    -86.445517,
+    37.004508
+],
+  "geometry": {"coordinates":[-86.445517,37.004508],"type":"Point"}
+}

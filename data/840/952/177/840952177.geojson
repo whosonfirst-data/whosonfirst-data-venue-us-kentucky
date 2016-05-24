@@ -1,0 +1,71 @@
+{
+  "id": 840952177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.913441,37.693975,-85.913441,37.693975",
+    "geom:latitude":37.693975,
+    "geom:longitude":-85.913441,
+    "iso:country":"US",
+    "sg:address":"1848 Kitty Hawk Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 763 6433",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dVByT06ti3FPqaEQr7n4z_37.693975_-85.913441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051691,
+    "wof:geomhash":"590362749275b295c63c53164bb5ba8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840952177
+        }
+    ],
+    "wof:id":840952177,
+    "wof:lastmodified":1464051691,
+    "wof:name":"Elizabethtown AWOS",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -85.913441,
+    37.693975,
+    -85.913441,
+    37.693975
+],
+  "geometry": {"coordinates":[-85.91344100000001,37.693975],"type":"Point"}
+}

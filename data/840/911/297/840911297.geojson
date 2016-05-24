@@ -1,0 +1,75 @@
+{
+  "id": 840911297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544922,39.053217,-84.544922,39.053217",
+    "geom:latitude":39.053217,
+    "geom:longitude":-84.544922,
+    "iso:country":"US",
+    "sg:address":"1999 Pieck Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 331 3664",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947215,
+        102084469,
+        85829425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QmKngDnvboTUZufOz4y6a_39.053217_-84.544922@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050771,
+    "wof:geomhash":"fb8d7f31baef050e6662dc6aa19aac61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947215,
+            "neighbourhood_id":85829425,
+            "region_id":85688641,
+            "venue_id":840911297
+        }
+    ],
+    "wof:id":840911297,
+    "wof:lastmodified":1464050771,
+    "wof:name":"Tom Gier Construction",
+    "wof:parent_id":85829425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.544922,
+    39.053217,
+    -84.544922,
+    39.053217
+],
+  "geometry": {"coordinates":[-84.544922,39.053217],"type":"Point"}
+}

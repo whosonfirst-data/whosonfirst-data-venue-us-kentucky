@@ -1,0 +1,71 @@
+{
+  "id": 856721617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.407532,36.917227,-86.407532,36.917227",
+    "geom:latitude":36.917227,
+    "geom:longitude":-86.407532,
+    "iso:country":"US",
+    "sg:address":"5710 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 3220",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6915XYmSEZyB3jhzaxUWsl_36.917227_-86.407532@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052662,
+    "wof:geomhash":"d81f05161f7da69ecb7736166fcf8db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":856721617
+        }
+    ],
+    "wof:id":856721617,
+    "wof:lastmodified":1464052662,
+    "wof:name":"Frank Otte Nursery",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -86.407532,
+    36.917227,
+    -86.407532,
+    36.917227
+],
+  "geometry": {"coordinates":[-86.407532,36.917227],"type":"Point"}
+}

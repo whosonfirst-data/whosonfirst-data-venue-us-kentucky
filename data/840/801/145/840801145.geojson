@@ -1,0 +1,73 @@
+{
+  "id": 840801145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.599564,36.980485,-88.599564,36.980485",
+    "geom:latitude":36.980485,
+    "geom:longitude":-88.599564,
+    "iso:country":"US",
+    "sg:address":"4800 Husband Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 5241",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A93aV9Pm12O7L0RoUS8Wt_36.980485_-88.599564@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048226,
+    "wof:geomhash":"ff5dfc08ae25d7ec921206968dbe8a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840801145
+        }
+    ],
+    "wof:id":840801145,
+    "wof:lastmodified":1464048226,
+    "wof:name":"Jerry Shekell",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.599564,
+    36.980485,
+    -88.599564,
+    36.980485
+],
+  "geometry": {"coordinates":[-88.599564,36.980485],"type":"Point"}
+}

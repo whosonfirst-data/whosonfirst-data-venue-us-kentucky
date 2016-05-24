@@ -1,0 +1,69 @@
+{
+  "id": 840947221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573073,37.880315,-84.573073,37.880315",
+    "geom:latitude":37.880315,
+    "geom:longitude":-84.573073,
+    "iso:country":"US",
+    "sg:address":"104 W Maple St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 1213",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJuRLuNPk5jXY2y6CVUqq_37.880315_-84.573073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051593,
+    "wof:geomhash":"21fd8afc50c5dbedcb9e8952583588e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840947221
+        }
+    ],
+    "wof:id":840947221,
+    "wof:lastmodified":1464051593,
+    "wof:name":"Cornerstone Baptist Church",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.573073,
+    37.880315,
+    -84.573073,
+    37.880315
+],
+  "geometry": {"coordinates":[-84.57307299999999,37.880315],"type":"Point"}
+}

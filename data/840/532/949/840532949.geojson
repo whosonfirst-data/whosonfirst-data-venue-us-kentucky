@@ -1,0 +1,73 @@
+{
+  "id": 840532949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.439142,38.025094,-84.439142,38.025094",
+    "geom:latitude":38.025094,
+    "geom:longitude":-84.439142,
+    "iso:country":"US",
+    "sg:address":"669 Kingsbury Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 948 0013",
+    "sg:postcode":"40509",
+    "sg:province":"KY",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85830425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y5oBjNUoGUqBNnjHBF3yA_38.025094_-84.439142@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042048,
+    "wof:geomhash":"70c0d744ba0520c5936626f1cf079d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85830425,
+            "region_id":85688641,
+            "venue_id":840532949
+        }
+    ],
+    "wof:id":840532949,
+    "wof:lastmodified":1464042048,
+    "wof:name":"Squeaky Clean Janitorial Svc",
+    "wof:parent_id":85830425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.439142,
+    38.025094,
+    -84.439142,
+    38.025094
+],
+  "geometry": {"coordinates":[-84.439142,38.025094],"type":"Point"}
+}

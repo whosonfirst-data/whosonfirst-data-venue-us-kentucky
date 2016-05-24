@@ -1,0 +1,75 @@
+{
+  "id": 840798049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.533435,38.232906,-84.533435,38.232906",
+    "geom:latitude":38.232906,
+    "geom:longitude":-84.533435,
+    "iso:country":"US",
+    "sg:address":"1510 Oxford Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 868 9368",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ws8s1iPPLelcsIUIegQnd_38.232906_-84.533435@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048155,
+    "wof:geomhash":"b361ebc886aea8b30241a8b2b6452f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840798049
+        }
+    ],
+    "wof:id":840798049,
+    "wof:lastmodified":1464048155,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.533435,
+    38.232906,
+    -84.533435,
+    38.232906
+],
+  "geometry": {"coordinates":[-84.533435,38.232906],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 856711477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.679964,37.092811,-88.679964,37.092811",
+    "geom:latitude":37.092811,
+    "geom:longitude":-88.679964,
+    "iso:country":"US",
+    "sg:address":"5139 Charter Oak Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 8244",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85820867,
+        102084607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sKMgwKDD0bI9IQ2Y97Ji1_37.092811_-88.679964@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052295,
+    "wof:geomhash":"c7fbad84671de5f1d40854dfda1882b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "neighbourhood_id":85820867,
+            "region_id":85688641,
+            "venue_id":856711477
+        }
+    ],
+    "wof:id":856711477,
+    "wof:lastmodified":1464052295,
+    "wof:name":"C W X",
+    "wof:parent_id":85820867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -88.679964,
+    37.092811,
+    -88.679964,
+    37.092811
+],
+  "geometry": {"coordinates":[-88.679964,37.092811],"type":"Point"}
+}

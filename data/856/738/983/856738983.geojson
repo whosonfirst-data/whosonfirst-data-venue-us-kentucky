@@ -1,0 +1,97 @@
+{
+  "id": 856738983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.751929,38.254711,-85.751929,38.254711",
+    "geom:latitude":38.254711,
+    "geom:longitude":-85.751929,
+    "iso:country":"US",
+    "sg:address":"107 W Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2232",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "delivery",
+        "messenger",
+        "courier",
+        "bicycles-repair"
+    ],
+    "sg:website":"http://www.bikecourier.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2udjJIZfFxohz95RRlmvVp_38.254711_-85.751929@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053342,
+    "wof:geomhash":"95d2e21471846446437136fec5fbf22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866963,
+            "region_id":85688641,
+            "venue_id":856738983
+        }
+    ],
+    "wof:id":856738983,
+    "wof:lastmodified":1464053342,
+    "wof:name":"Bike Couriers Bike Shop",
+    "wof:parent_id":85866963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delivery",
+        "messenger",
+        "courier",
+        "bicycles-repair"
+    ]
+},
+  "bbox": [
+    -85.751929,
+    38.254711,
+    -85.751929,
+    38.254711
+],
+  "geometry": {"coordinates":[-85.751929,38.254711],"type":"Point"}
+}

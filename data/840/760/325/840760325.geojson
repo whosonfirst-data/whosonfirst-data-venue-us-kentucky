@@ -1,0 +1,83 @@
+{
+  "id": 840760325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.485718,36.956203,-86.485718,36.956203",
+    "geom:latitude":36.956203,
+    "geom:longitude":-86.485718,
+    "iso:country":"US",
+    "sg:address":"2720 Pioneer Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 1189",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "distribution"
+    ],
+    "sg:website":"www.bandousa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HZ6R91hEusigO7ngfYu1W_36.956203_-86.485718@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047351,
+    "wof:geomhash":"a9aab2f704046dc0fcf7166a4cfc7399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840760325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840760325
+        }
+    ],
+    "wof:id":840760325,
+    "wof:lastmodified":1464047351,
+    "wof:name":"Bando USA Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -86.485718,
+    36.956203,
+    -86.485718,
+    36.956203
+],
+  "geometry": {"coordinates":[-86.48571800000001,36.956203],"type":"Point"}
+}

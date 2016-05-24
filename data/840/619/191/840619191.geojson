@@ -1,0 +1,73 @@
+{
+  "id": 840619191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.71105,38.232426,-85.71105,38.232426",
+    "geom:latitude":38.232426,
+    "geom:longitude":-85.71105,
+    "iso:country":"US",
+    "sg:address":"1826 Edenside Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 1420",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32K9jtgTKcJO7DbTMTZgZL_38.232426_-85.711050@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044147,
+    "wof:geomhash":"df03cc2a597c43d2468fd2ef2c5f2fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873369,
+            "region_id":85688641,
+            "venue_id":840619191
+        }
+    ],
+    "wof:id":840619191,
+    "wof:lastmodified":1464044147,
+    "wof:name":"St James Church",
+    "wof:parent_id":85873369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -85.71105,
+    38.232426,
+    -85.71105,
+    38.232426
+],
+  "geometry": {"coordinates":[-85.71105,38.232426],"type":"Point"}
+}

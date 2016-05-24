@@ -1,0 +1,74 @@
+{
+  "id": 840877311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756296,38.239303,-85.756296,38.239303",
+    "geom:latitude":38.239303,
+    "geom:longitude":-85.756296,
+    "iso:country":"US",
+    "sg:address":"924 S 2nd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 589 1025",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.kroger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W4A62E9GKqtJoZXnTtLgn_38.239303_-85.756296@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050009,
+    "wof:geomhash":"1ba89cef3d8f71237dec9b2059fa4487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":840877311
+        }
+    ],
+    "wof:id":840877311,
+    "wof:lastmodified":1464050009,
+    "wof:name":"Kroger",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.756296,
+    38.239303,
+    -85.756296,
+    38.239303
+],
+  "geometry": {"coordinates":[-85.75629600000001,38.239303],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840840563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.977697,37.708132,-85.977697,37.708132",
+    "geom:latitude":37.708132,
+    "geom:longitude":-85.977697,
+    "iso:country":"US",
+    "sg:address":"108 Sante Fe Trl",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 862 5054",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mfg",
+        "forging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028svUy0Saw4vdzBu81D93_37.708132_-85.977697@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049230,
+    "wof:geomhash":"aa515e89ca3028f39b2286943552a165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840840563
+        }
+    ],
+    "wof:id":840840563,
+    "wof:lastmodified":1464049230,
+    "wof:name":"JP Tooling",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "forging"
+    ]
+},
+  "bbox": [
+    -85.977697,
+    37.708132,
+    -85.977697,
+    37.708132
+],
+  "geometry": {"coordinates":[-85.97769700000001,37.708132],"type":"Point"}
+}

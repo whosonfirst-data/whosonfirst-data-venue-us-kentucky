@@ -1,0 +1,93 @@
+{
+  "id": 856744631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.69966,38.182023,-85.69966,38.182023",
+    "geom:latitude":38.182023,
+    "geom:longitude":-85.69966,
+    "iso:country":"US",
+    "sg:address":"1357 Gilmore Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 468 4285",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "mover",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E2n1eKWvgUmFYnItwaJc7_38.182023_-85.699660@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053551,
+    "wof:geomhash":"92b7f320df4f7b378cfc3ff61f3988d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744631
+        }
+    ],
+    "wof:id":856744631,
+    "wof:lastmodified":1464053551,
+    "wof:name":"U-Haul Co.",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "mover",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -85.69966,
+    38.182023,
+    -85.69966,
+    38.182023
+],
+  "geometry": {"coordinates":[-85.69965999999999,38.182023],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840843055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.673165,38.25728,-85.673165,38.25728",
+    "geom:latitude":38.25728,
+    "geom:longitude":-85.673165,
+    "iso:country":"US",
+    "sg:address":"116 Fenley Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 893 5580",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38zsE8mJTfCDqlaNVRpZF4_38.257280_-85.673165@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049292,
+    "wof:geomhash":"c815ad9f25f8774eb84df43ac2e7c7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":840843055
+        }
+    ],
+    "wof:id":840843055,
+    "wof:lastmodified":1464049292,
+    "wof:name":"K&K Cleaning LLC",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.673165,
+    38.25728,
+    -85.673165,
+    38.25728
+],
+  "geometry": {"coordinates":[-85.673165,38.25728],"type":"Point"}
+}

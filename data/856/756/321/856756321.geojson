@@ -1,0 +1,75 @@
+{
+  "id": 856756321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5103,39.089802,-84.5103,39.089802",
+    "geom:latitude":39.089802,
+    "geom:longitude":-84.5103,
+    "iso:country":"US",
+    "sg:address":"50 E Rivercenter Blvd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 581 2260",
+    "sg:postcode":"41011",
+    "sg:province":"KY",
+    "sg:tags":[
+        "promoter",
+        "tours-operators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947231,
+        102084469,
+        85873129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wwFO8lPHmz9sMg23GlGHa_39.089802_-84.510300@1303262750"
+    },
+    "wof:country":"US",
+    "wof:created":1464053989,
+    "wof:geomhash":"df87a8c6aeaff47a4a201cdd5f268c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947231,
+            "neighbourhood_id":85873129,
+            "region_id":85688641,
+            "venue_id":856756321
+        }
+    ],
+    "wof:id":856756321,
+    "wof:lastmodified":1464053989,
+    "wof:name":"Cincinnati Usa Regional Tourism Network",
+    "wof:parent_id":85873129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -84.5103,
+    39.089802,
+    -84.5103,
+    39.089802
+],
+  "geometry": {"coordinates":[-84.5103,39.089802],"type":"Point"}
+}

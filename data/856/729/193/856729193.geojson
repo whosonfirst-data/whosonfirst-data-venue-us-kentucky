@@ -1,0 +1,78 @@
+{
+  "id": 856729193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.695471,38.154177,-85.695471,38.154177",
+    "geom:latitude":38.154177,
+    "geom:longitude":-85.695471,
+    "iso:country":"US",
+    "sg:address":"6714 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 258 8230",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "storage",
+        "household",
+        "commercial"
+    ],
+    "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iFvsi5W7B15Pt8vUcX5rB_38.153672_-85.695248@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052973,
+    "wof:geomhash":"631eba0c1758686fccf568ea96f5b020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856729193
+        }
+    ],
+    "wof:id":856729193,
+    "wof:lastmodified":1464052973,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "household",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.695471,
+    38.154177,
+    -85.695471,
+    38.154177
+],
+  "geometry": {"coordinates":[-85.695471,38.154177],"type":"Point"}
+}

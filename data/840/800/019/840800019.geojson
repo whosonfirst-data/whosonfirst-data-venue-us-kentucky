@@ -1,0 +1,83 @@
+{
+  "id": 840800019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.67064,38.207423,-85.67064,38.207423",
+    "geom:latitude":38.207423,
+    "geom:longitude":-85.67064,
+    "iso:country":"US",
+    "sg:address":"2100 Goldsmith Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 644 5627",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85873393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TZ2HrT9QTrYhHF7R4T8PT_38.207423_-85.670640@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048200,
+    "wof:geomhash":"16edb96c2fee09fa389e613e6b83a0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840800019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873393,
+            "region_id":85688641,
+            "venue_id":840800019
+        }
+    ],
+    "wof:id":840800019,
+    "wof:lastmodified":1464048200,
+    "wof:name":"Louisville Classified",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -85.67064,
+    38.207423,
+    -85.67064,
+    38.207423
+],
+  "geometry": {"coordinates":[-85.67064000000001,38.207423],"type":"Point"}
+}

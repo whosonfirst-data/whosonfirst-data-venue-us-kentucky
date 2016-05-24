@@ -1,0 +1,68 @@
+{
+  "id": 840932783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.479209,38.06321,-84.479209,38.06321",
+    "geom:latitude":38.06321,
+    "geom:longitude":-84.479209,
+    "iso:country":"US",
+    "sg:address":"1206 N Broadway Rd",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 259 0404",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09BdPXYiAyYhBUT50r7IdP_38.063210_-84.479209@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051302,
+    "wof:geomhash":"328fd4f2388fbfbad544178f65186f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873485,
+            "region_id":85688641,
+            "venue_id":840932783
+        }
+    ],
+    "wof:id":840932783,
+    "wof:lastmodified":1464051302,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85873485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.479209,
+    38.06321,
+    -84.479209,
+    38.06321
+],
+  "geometry": {"coordinates":[-84.479209,38.06321],"type":"Point"}
+}

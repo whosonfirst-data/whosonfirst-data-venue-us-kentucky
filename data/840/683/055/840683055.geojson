@@ -1,0 +1,73 @@
+{
+  "id": 840683055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605042,37.092859,-84.605042,37.092859",
+    "geom:latitude":37.092859,
+    "geom:longitude":-84.605042,
+    "iso:country":"US",
+    "sg:address":"104 W Columbia St",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 679 4449",
+    "sg:postcode":"42501",
+    "sg:province":"KY",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x2EnfzlPVxv1oHs18jnim_37.092859_-84.605042@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045652,
+    "wof:geomhash":"22c4b09f654757570a4f1dc41f1a9bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840683055
+        }
+    ],
+    "wof:id":840683055,
+    "wof:lastmodified":1464045652,
+    "wof:name":"Pulaski County Attorney",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -84.605042,
+    37.092859,
+    -84.605042,
+    37.092859
+],
+  "geometry": {"coordinates":[-84.605042,37.092859],"type":"Point"}
+}

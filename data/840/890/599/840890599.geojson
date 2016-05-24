@@ -1,0 +1,73 @@
+{
+  "id": 840890599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.893347,37.712743,-85.893347,37.712743",
+    "geom:latitude":37.712743,
+    "geom:longitude":-85.893347,
+    "iso:country":"US",
+    "sg:address":"890 Rineyville Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 234 9236",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78SHE7ut38BQ62ysqVC9a3_37.712743_-85.893347@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050296,
+    "wof:geomhash":"2be55a0b13bd5b6015d427b58c2211dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840890599
+        }
+    ],
+    "wof:id":840890599,
+    "wof:lastmodified":1464050296,
+    "wof:name":"Advocacy & Support Ctr",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -85.893347,
+    37.712743,
+    -85.893347,
+    37.712743
+],
+  "geometry": {"coordinates":[-85.89334700000001,37.712743],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 856750543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.494968,38.2475,-85.494968,38.2475",
+    "geom:latitude":38.2475,
+    "geom:longitude":-85.494968,
+    "iso:country":"US",
+    "sg:address":"428 Timberlake Trl",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 5700",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "compounds",
+        "powders",
+        "materials-colorants",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ],
+    "sg:website":"http://www.getransportation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g7EPlP6htEJ40tHNFLw12_38.247500_-85.494968@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053773,
+    "wof:geomhash":"8955a2fb034e57b5cd2c3add8e17aa1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856750543
+        }
+    ],
+    "wof:id":856750543,
+    "wof:lastmodified":1464053773,
+    "wof:name":"General Electric Company",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compounds",
+        "powders",
+        "materials-colorants",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ]
+},
+  "bbox": [
+    -85.494968,
+    38.2475,
+    -85.494968,
+    38.2475
+],
+  "geometry": {"coordinates":[-85.494968,38.2475],"type":"Point"}
+}

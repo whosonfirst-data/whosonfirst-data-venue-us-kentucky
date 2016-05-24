@@ -1,0 +1,73 @@
+{
+  "id": 856721013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.777791,38.239811,-85.777791,38.239811",
+    "geom:latitude":38.239811,
+    "geom:longitude":-85.777791,
+    "iso:country":"US",
+    "sg:address":"1047 S 15th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 5321",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cETwTj5MPRuCGrwVlxCge_38.239811_-85.777791@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052634,
+    "wof:geomhash":"e1c04ff59c18db5d20eb4fa18675f0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856721013
+        }
+    ],
+    "wof:id":856721013,
+    "wof:lastmodified":1464052634,
+    "wof:name":"Consolidated Grain & Barge Co",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -85.777791,
+    38.239811,
+    -85.777791,
+    38.239811
+],
+  "geometry": {"coordinates":[-85.77779099999999,38.239811],"type":"Point"}
+}

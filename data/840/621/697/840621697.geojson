@@ -1,0 +1,73 @@
+{
+  "id": 840621697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411769,36.927347,-86.411769,36.927347",
+    "geom:latitude":36.927347,
+    "geom:longitude":-86.411769,
+    "iso:country":"US",
+    "sg:address":"5270 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6722",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bCuzoMkNnv3fB0IRZ8UQB_36.927347_-86.411769@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044205,
+    "wof:geomhash":"e093a8104ecf675775e586665b48c0c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840621697
+        }
+    ],
+    "wof:id":840621697,
+    "wof:lastmodified":1464044205,
+    "wof:name":"Mark Muffler Shop & Auto Sales",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.411769,
+    36.927347,
+    -86.411769,
+    36.927347
+],
+  "geometry": {"coordinates":[-86.41176900000001,36.927347],"type":"Point"}
+}

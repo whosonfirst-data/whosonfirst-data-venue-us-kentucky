@@ -1,0 +1,75 @@
+{
+  "id": 856746861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.69253,38.148874,-85.69253,38.148874",
+    "geom:latitude":38.148874,
+    "geom:longitude":-85.69253,
+    "iso:country":"US",
+    "sg:address":"7100 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 969 7117",
+    "sg:postcode":"40219",
+    "sg:province":"KY",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UjBmGW4lOE0IJp3WsqJUO_38.148874_-85.692530@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053626,
+    "wof:geomhash":"3cea7a21e66927a5cee0608ff031673c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856746861
+        }
+    ],
+    "wof:id":856746861,
+    "wof:lastmodified":1464053626,
+    "wof:name":"A Place For Kids",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -85.69253,
+    38.148874,
+    -85.69253,
+    38.148874
+],
+  "geometry": {"coordinates":[-85.69253,38.148874],"type":"Point"}
+}

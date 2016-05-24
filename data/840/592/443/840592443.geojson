@@ -1,0 +1,78 @@
+{
+  "id": 840592443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.843543,37.62705,-85.843543,37.62705",
+    "geom:latitude":37.62705,
+    "geom:longitude":-85.843543,
+    "iso:country":"US",
+    "sg:address":"732 Kings Way",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 2323",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "exercising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dkBybq3OdxSs2yXIuNbwa_37.627050_-85.843543@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043479,
+    "wof:geomhash":"3e5c4c44d2ca7a3da57d1c7401ae9004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840592443
+        }
+    ],
+    "wof:id":840592443,
+    "wof:lastmodified":1464043479,
+    "wof:name":"Candy's Critter Sitters",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising"
+    ]
+},
+  "bbox": [
+    -85.843543,
+    37.62705,
+    -85.843543,
+    37.62705
+],
+  "geometry": {"coordinates":[-85.843543,37.62705],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840677433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.660518,38.19296,-85.660518,38.19296",
+    "geom:latitude":38.19296,
+    "geom:longitude":-85.660518,
+    "iso:country":"US",
+    "sg:address":"2000 Shepherdsville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 451 7626",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7czonIZGdUrcHbZOunQExB_38.192960_-85.660518@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045501,
+    "wof:geomhash":"b38e6645fb64aca51e562522c36dc196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840677433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840677433
+        }
+    ],
+    "wof:id":840677433,
+    "wof:lastmodified":1464045501,
+    "wof:name":"Barbie's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.660518,
+    38.19296,
+    -85.660518,
+    38.19296
+],
+  "geometry": {"coordinates":[-85.660518,38.19296],"type":"Point"}
+}

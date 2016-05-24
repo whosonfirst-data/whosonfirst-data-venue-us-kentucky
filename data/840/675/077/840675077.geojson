@@ -1,0 +1,73 @@
+{
+  "id": 840675077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.718662,38.23726,-85.718662,38.23726",
+    "geom:latitude":38.23726,
+    "geom:longitude":-85.718662,
+    "iso:country":"US",
+    "sg:address":"1221 Bardstown Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 1877",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XH53F87VUv3HxE5OU6QYm_38.237260_-85.718662@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045447,
+    "wof:geomhash":"96783f335d89c987632fed5514f7bf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":840675077
+        }
+    ],
+    "wof:id":840675077,
+    "wof:lastmodified":1464045447,
+    "wof:name":"Gentle Dental",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.718662,
+    38.23726,
+    -85.718662,
+    38.23726
+],
+  "geometry": {"coordinates":[-85.71866199999999,38.23726],"type":"Point"}
+}

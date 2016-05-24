@@ -1,0 +1,71 @@
+{
+  "id": 840945331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.39986,37.194421,-84.39986,37.194421",
+    "geom:latitude":37.194421,
+    "geom:longitude":-84.39986,
+    "iso:country":"US",
+    "sg:address":"832 Sinking Valley Rd",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 274 4678",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29gOq5TyJdZatXyqyqbiTA_37.194421_-84.399860@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051559,
+    "wof:geomhash":"10e1d38ed560ca2d610fdc1ed1e835d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840945331
+        }
+    ],
+    "wof:id":840945331,
+    "wof:lastmodified":1464051559,
+    "wof:name":"Pete's Transmissions",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.39986,
+    37.194421,
+    -84.39986,
+    37.194421
+],
+  "geometry": {"coordinates":[-84.39986,37.194421],"type":"Point"}
+}

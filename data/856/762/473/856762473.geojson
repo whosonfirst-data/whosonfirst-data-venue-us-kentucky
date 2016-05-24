@@ -1,0 +1,104 @@
+{
+  "id": 856762473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88431,36.99444,-85.88431,36.99444",
+    "geom:latitude":36.99444,
+    "geom:longitude":-85.88431,
+    "iso:country":"US",
+    "sg:address":"1330 New Salem Rd",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 678 1970",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "plumber",
+        "tank",
+        "garbage",
+        "septic",
+        "supply",
+        "system",
+        "collection",
+        "tanks-treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vgaxIyR2bbHUASxLKmAQ1_36.994440_-85.884310@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054217,
+    "wof:geomhash":"27f2b788edfd331972580ef9005462c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":856762473
+        }
+    ],
+    "wof:id":856762473,
+    "wof:lastmodified":1464054217,
+    "wof:name":"Botts Plumbing & Sanitation Inc",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "plumber",
+        "tank",
+        "garbage",
+        "septic",
+        "supply",
+        "system",
+        "collection",
+        "tanks-treatment"
+    ]
+},
+  "bbox": [
+    -85.88431,
+    36.99444,
+    -85.88431,
+    36.99444
+],
+  "geometry": {"coordinates":[-85.88431,36.99444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840699517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.928389,37.015898,-85.928389,37.015898",
+    "geom:latitude":37.015898,
+    "geom:longitude":-85.928389,
+    "iso:country":"US",
+    "sg:address":"100 Commerce Dr",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 678 5171",
+    "sg:postcode":"42141",
+    "sg:province":"KY",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85946875,
+        102085537,
+        85846071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cP0H9N9d2sR6KSi0TnpVQ_37.015898_-85.928389@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046075,
+    "wof:geomhash":"26dfff12adc845b7de7d8abf8e1964df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085537,
+            "locality_id":85946875,
+            "neighbourhood_id":85846071,
+            "region_id":85688641,
+            "venue_id":840699517
+        }
+    ],
+    "wof:id":840699517,
+    "wof:lastmodified":1464046075,
+    "wof:name":"Glasgow Daily Times",
+    "wof:parent_id":85846071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -85.928389,
+    37.015898,
+    -85.928389,
+    37.015898
+],
+  "geometry": {"coordinates":[-85.928389,37.015898],"type":"Point"}
+}

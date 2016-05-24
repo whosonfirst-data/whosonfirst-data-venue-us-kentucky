@@ -1,0 +1,76 @@
+{
+  "id": 856744743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706554,38.193265,-85.706554,38.193265",
+    "geom:latitude":38.193265,
+    "geom:longitude":-85.706554,
+    "iso:country":"US",
+    "sg:address":"4344 Poplar Level Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 4050",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "supply",
+        "contractor"
+    ],
+    "sg:website":"http://www.ruddequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tNiASCXxdYmSIoa2FOxun_38.193265_-85.706554@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053555,
+    "wof:geomhash":"854cf23e140d9bed0900194550ec7eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744743
+        }
+    ],
+    "wof:id":856744743,
+    "wof:lastmodified":1464053555,
+    "wof:name":"Rudd Equipment Company",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.706554,
+    38.193265,
+    -85.706554,
+    38.193265
+],
+  "geometry": {"coordinates":[-85.706554,38.193265],"type":"Point"}
+}

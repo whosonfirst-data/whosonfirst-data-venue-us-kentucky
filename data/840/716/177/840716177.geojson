@@ -1,0 +1,71 @@
+{
+  "id": 840716177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.57341,38.012267,-85.57341,38.012267",
+    "geom:latitude":38.012267,
+    "geom:longitude":-85.57341,
+    "iso:country":"US",
+    "sg:address":"375 Scenic Dr",
+    "sg:city":"Mount Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 538 2629",
+    "sg:postcode":"40047",
+    "sg:province":"KY",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HnDVb1ANQCE35HQNCjfBf_38.012267_-85.573410@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046423,
+    "wof:geomhash":"3d49c57d66e7f1d6815f8f002c962886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840716177
+        }
+    ],
+    "wof:id":840716177,
+    "wof:lastmodified":1464046423,
+    "wof:name":"T&S Landscaping Inc",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -85.57341,
+    38.012267,
+    -85.57341,
+    38.012267
+],
+  "geometry": {"coordinates":[-85.57341,38.012267],"type":"Point"}
+}

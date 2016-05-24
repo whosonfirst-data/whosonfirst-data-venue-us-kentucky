@@ -1,0 +1,73 @@
+{
+  "id": 840879433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.666412,38.266298,-85.666412,38.266298",
+    "geom:latitude":38.266298,
+    "geom:longitude":-85.666412,
+    "iso:country":"US",
+    "sg:address":"3715 Old Brownsboro Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 6962",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CIaDUxWCUyJANvTvJfUrE_38.266298_-85.666412@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050065,
+    "wof:geomhash":"d1e939d69aa5ec6ea78a3dc50b0f8edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866961,
+            "region_id":85688641,
+            "venue_id":840879433
+        }
+    ],
+    "wof:id":840879433,
+    "wof:lastmodified":1464050065,
+    "wof:name":"Salon 804",
+    "wof:parent_id":85866961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.666412,
+    38.266298,
+    -85.666412,
+    38.266298
+],
+  "geometry": {"coordinates":[-85.66641199999999,38.266298],"type":"Point"}
+}

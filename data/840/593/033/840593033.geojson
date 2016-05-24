@@ -1,0 +1,74 @@
+{
+  "id": 840593033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.563047,37.048351,-88.563047,37.048351",
+    "geom:latitude":37.048351,
+    "geom:longitude":-88.563047,
+    "iso:country":"US",
+    "sg:address":"3516 Clarks River Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 4990",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "sg:website":"www.finishlinecarwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QD5lWYQxAbzBcW4aUM1C1_37.048351_-88.563047@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043491,
+    "wof:geomhash":"a06d8d2102033d68bd1ece87c7040627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840593033
+        }
+    ],
+    "wof:id":840593033,
+    "wof:lastmodified":1464043491,
+    "wof:name":"Finish Line Car Wash",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -88.563047,
+    37.048351,
+    -88.563047,
+    37.048351
+],
+  "geometry": {"coordinates":[-88.563047,37.048351],"type":"Point"}
+}

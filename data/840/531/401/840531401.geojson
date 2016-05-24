@@ -1,0 +1,68 @@
+{
+  "id": 840531401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.800739,38.236702,-85.800739,38.236702",
+    "geom:latitude":38.236702,
+    "geom:longitude":-85.800739,
+    "iso:country":"US",
+    "sg:address":"2810 Dumesnil St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 6664",
+    "sg:postcode":"40211",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vnJmG85mDCxwutv7F1izr_38.236702_-85.800739@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464041999,
+    "wof:geomhash":"78bfda0fa62775bfe8adcc9946c86f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840667,
+            "region_id":85688641,
+            "venue_id":840531401
+        }
+    ],
+    "wof:id":840531401,
+    "wof:lastmodified":1464041999,
+    "wof:name":"Neighborhood Housing Svc",
+    "wof:parent_id":85840667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.800739,
+    38.236702,
+    -85.800739,
+    38.236702
+],
+  "geometry": {"coordinates":[-85.80073899999999,38.236702],"type":"Point"}
+}

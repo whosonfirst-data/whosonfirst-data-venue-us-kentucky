@@ -1,0 +1,76 @@
+{
+  "id": 856733721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.497003,38.238223,-85.497003,38.238223",
+    "geom:latitude":38.238223,
+    "geom:longitude":-85.497003,
+    "iso:country":"US",
+    "sg:address":"13823 English Villa Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/jefferson-southeast/60692-jasmine-chinese-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 244 8896",
+    "sg:postcode":"40245",
+    "sg:province":"KY",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gyVoodGKx0LEJaAbyt5c7_38.238223_-85.497003@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053135,
+    "wof:geomhash":"df7e1ac45e488dc257e84cd79039554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":856733721
+        }
+    ],
+    "wof:id":856733721,
+    "wof:lastmodified":1464053135,
+    "wof:name":"Jasmine Chinese Cuisine",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -85.497003,
+    38.238223,
+    -85.497003,
+    38.238223
+],
+  "geometry": {"coordinates":[-85.49700300000001,38.238223],"type":"Point"}
+}

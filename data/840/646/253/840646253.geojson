@@ -1,0 +1,71 @@
+{
+  "id": 840646253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.497855,36.948211,-86.497855,36.948211",
+    "geom:latitude":36.948211,
+    "geom:longitude":-86.497855,
+    "iso:country":"US",
+    "sg:address":"824 Parkland Way",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 0507",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZH5CR8ewlK8poGbq2MqL7_36.948211_-86.497855@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044805,
+    "wof:geomhash":"5991d84f95597ba51b73dc3e34819449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840646253
+        }
+    ],
+    "wof:id":840646253,
+    "wof:lastmodified":1464044805,
+    "wof:name":"Beth Sar Shalom",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.497855,
+    36.948211,
+    -86.497855,
+    36.948211
+],
+  "geometry": {"coordinates":[-86.497855,36.948211],"type":"Point"}
+}

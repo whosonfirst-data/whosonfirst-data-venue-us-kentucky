@@ -1,0 +1,71 @@
+{
+  "id": 840556171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.696326,37.997341,-85.696326,37.997341",
+    "geom:latitude":37.997341,
+    "geom:longitude":-85.696326,
+    "iso:country":"US",
+    "sg:address":"235 Jackie Way",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 668 1000",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DHjghqqVPTuc3uY4jYMPR_37.997341_-85.696326@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042651,
+    "wof:geomhash":"53695efdd9d665fdc93498acb31ee85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840556171
+        }
+    ],
+    "wof:id":840556171,
+    "wof:lastmodified":1464042651,
+    "wof:name":"Webster Cable & Communications",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -85.696326,
+    37.997341,
+    -85.696326,
+    37.997341
+],
+  "geometry": {"coordinates":[-85.696326,37.997341],"type":"Point"}
+}

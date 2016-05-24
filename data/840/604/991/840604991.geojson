@@ -1,0 +1,71 @@
+{
+  "id": 840604991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441879,36.993308,-86.441879,36.993308",
+    "geom:latitude":36.993308,
+    "geom:longitude":-86.441879,
+    "iso:country":"US",
+    "sg:address":"401 Park Row",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 0200",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z6mfTXssNgOeP05R3z7Gp_36.993308_-86.441879@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043780,
+    "wof:geomhash":"80658f64d0af8f96efcaba5555904f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840604991
+        }
+    ],
+    "wof:id":840604991,
+    "wof:lastmodified":1464043780,
+    "wof:name":"Park Row Senior Apartments",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.441879,
+    36.993308,
+    -86.441879,
+    36.993308
+],
+  "geometry": {"coordinates":[-86.441879,36.993308],"type":"Point"}
+}

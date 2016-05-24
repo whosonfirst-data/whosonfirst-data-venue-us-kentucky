@@ -1,0 +1,75 @@
+{
+  "id": 840877271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.439568,36.998176,-86.439568,36.998176",
+    "geom:latitude":36.998176,
+    "geom:longitude":-86.439568,
+    "iso:country":"US",
+    "sg:address":"230 E 6th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 6272",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xXoeQ7vvurVfD5pj5bJBR_36.998176_-86.439568@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050007,
+    "wof:geomhash":"0dbfc88184b82a6b52b0991ff30fccd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840877271
+        }
+    ],
+    "wof:id":840877271,
+    "wof:lastmodified":1464050007,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.439568,
+    36.998176,
+    -86.439568,
+    36.998176
+],
+  "geometry": {"coordinates":[-86.43956799999999,36.998176],"type":"Point"}
+}

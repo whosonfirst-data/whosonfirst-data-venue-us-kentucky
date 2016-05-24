@@ -1,0 +1,88 @@
+{
+  "id": 856741127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.729145,38.246435,-85.729145,38.246435",
+    "geom:latitude":38.246435,
+    "geom:longitude":-85.729145,
+    "iso:country":"US",
+    "sg:address":"538 Baxter Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 581 1810",
+    "sg:postcode":"40204",
+    "sg:province":"KY",
+    "sg:tags":[
+        "companies-film",
+        "producer",
+        "tv",
+        "program",
+        "radio",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UezduCKyVyMmjl64jY6My_38.246435_-85.729145@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053428,
+    "wof:geomhash":"12d652486fd27adc79cc338e3108ec7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873411,
+            "region_id":85688641,
+            "venue_id":856741127
+        }
+    ],
+    "wof:id":856741127,
+    "wof:lastmodified":1464053428,
+    "wof:name":"Simmons Productions Inc",
+    "wof:parent_id":85873411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "companies-film",
+        "producer",
+        "tv",
+        "program",
+        "radio",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -85.729145,
+    38.246435,
+    -85.729145,
+    38.246435
+],
+  "geometry": {"coordinates":[-85.729145,38.246435],"type":"Point"}
+}

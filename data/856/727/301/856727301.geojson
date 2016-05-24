@@ -1,0 +1,75 @@
+{
+  "id": 856727301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.770508,38.20565,-85.770508,38.20565",
+    "geom:latitude":38.20565,
+    "geom:longitude":-85.770508,
+    "iso:country":"US",
+    "sg:address":"700 Central Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 5188",
+    "sg:postcode":"40208",
+    "sg:province":"KY",
+    "sg:tags":[
+        "horse",
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OrIM8tBkVzDGF06EtnnUR_38.205767_-85.771188@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464052887,
+    "wof:geomhash":"e2508e0b846382b632a3cfeb4731a490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873429,
+            "region_id":85688641,
+            "venue_id":856727301
+        }
+    ],
+    "wof:id":856727301,
+    "wof:lastmodified":1464052887,
+    "wof:name":"Mott Thoroughbred Stables Inc",
+    "wof:parent_id":85873429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "stable"
+    ]
+},
+  "bbox": [
+    -85.770508,
+    38.20565,
+    -85.770508,
+    38.20565
+],
+  "geometry": {"coordinates":[-85.77050800000001,38.20565],"type":"Point"}
+}

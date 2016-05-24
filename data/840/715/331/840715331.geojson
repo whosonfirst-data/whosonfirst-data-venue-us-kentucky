@@ -1,0 +1,71 @@
+{
+  "id": 840715331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.364605,37.022097,-86.364605,37.022097",
+    "geom:latitude":37.022097,
+    "geom:longitude":-86.364605,
+    "iso:country":"US",
+    "sg:address":"5202 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 781 1455",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aoGwNNqTBLbukhsCZSc7u_37.022097_-86.364605@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046409,
+    "wof:geomhash":"12b7889c46ff5b5a735a66e475849349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840715331
+        }
+    ],
+    "wof:id":840715331,
+    "wof:lastmodified":1464046409,
+    "wof:name":"Jr Food Stores",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.364605,
+    37.022097,
+    -86.364605,
+    37.022097
+],
+  "geometry": {"coordinates":[-86.364605,37.022097],"type":"Point"}
+}

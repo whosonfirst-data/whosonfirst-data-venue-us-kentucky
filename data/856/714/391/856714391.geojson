@@ -1,0 +1,69 @@
+{
+  "id": 856714391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.558712,37.891411,-84.558712,37.891411",
+    "geom:latitude":37.891411,
+    "geom:longitude":-84.558712,
+    "iso:country":"US",
+    "sg:address":"108 Robert Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 887 2501",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SlpVTNNmdI8SNPfUDES2u_37.891411_-84.558712@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052370,
+    "wof:geomhash":"bcd58e1c03b21a9fac2ad384ff298431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":856714391
+        }
+    ],
+    "wof:id":856714391,
+    "wof:lastmodified":1464052370,
+    "wof:name":"LA Lola's Desserts",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.558712,
+    37.891411,
+    -84.558712,
+    37.891411
+],
+  "geometry": {"coordinates":[-84.558712,37.891411],"type":"Point"}
+}

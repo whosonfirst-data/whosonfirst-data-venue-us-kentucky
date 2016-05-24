@@ -1,0 +1,67 @@
+{
+  "id": 840869641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.480265,38.305186,-85.480265,38.305186",
+    "geom:latitude":38.305186,
+    "geom:longitude":-85.480265,
+    "iso:country":"US",
+    "sg:address":"7105 Poplar Ter",
+    "sg:city":"Pewee Valley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 243 3889",
+    "sg:postcode":"40056",
+    "sg:province":"KY",
+    "sg:website":"www.hughesarchitecture.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h6x3o9PLK1Pk8MalKRm6B_38.305186_-85.480265@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049848,
+    "wof:geomhash":"1920b8d6891c40299a3b3eaab0d95369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840869641
+        }
+    ],
+    "wof:id":840869641,
+    "wof:lastmodified":1464049848,
+    "wof:name":"Hughes Architecture Inc",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.480265,
+    38.305186,
+    -85.480265,
+    38.305186
+],
+  "geometry": {"coordinates":[-85.480265,38.305186],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840697833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.566589,38.015501,-84.566589,38.015501",
+    "geom:latitude":38.015501,
+    "geom:longitude":-84.566589,
+    "iso:country":"US",
+    "sg:address":"3283 Gondola Ct",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 219 1500",
+    "sg:postcode":"40513",
+    "sg:province":"KY",
+    "sg:tags":[
+        "preparation",
+        "pharmaceutical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10vmmEiW07ApOO8Nmlcm1C_38.015501_-84.566589@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046023,
+    "wof:geomhash":"dece5d88f236e03ea8841a185c72a5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873497,
+            "region_id":85688641,
+            "venue_id":840697833
+        }
+    ],
+    "wof:id":840697833,
+    "wof:lastmodified":1464046023,
+    "wof:name":"Eli Lilly and Company",
+    "wof:parent_id":85873497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "pharmaceutical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.566589,
+    38.015501,
+    -84.566589,
+    38.015501
+],
+  "geometry": {"coordinates":[-84.56658899999999,38.015501],"type":"Point"}
+}

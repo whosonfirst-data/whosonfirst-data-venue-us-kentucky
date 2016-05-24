@@ -1,0 +1,75 @@
+{
+  "id": 840729291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.636232,38.083695,-85.636232,38.083695",
+    "geom:latitude":38.083695,
+    "geom:longitude":-85.636232,
+    "iso:country":"US",
+    "sg:address":"6601 Mount Washington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 231 1834",
+    "sg:postcode":"40229",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85826503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XA9WkBVI4SwFPnS2s7rbS_38.083695_-85.636232@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046694,
+    "wof:geomhash":"3192d9007f49c2112701f028081e9e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85826503,
+            "region_id":85688641,
+            "venue_id":840729291
+        }
+    ],
+    "wof:id":840729291,
+    "wof:lastmodified":1464046694,
+    "wof:name":"Quire Plumbing Co",
+    "wof:parent_id":85826503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.636232,
+    38.083695,
+    -85.636232,
+    38.083695
+],
+  "geometry": {"coordinates":[-85.63623200000001,38.083695],"type":"Point"}
+}

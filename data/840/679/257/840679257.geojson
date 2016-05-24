@@ -1,0 +1,73 @@
+{
+  "id": 840679257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.315926,37.737785,-84.315926,37.737785",
+    "geom:latitude":37.737785,
+    "geom:longitude":-84.315926,
+    "iso:country":"US",
+    "sg:address":"230 Geri Ln",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 623 1075",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LAI78PDyhVgDX6Q8kzBXJ_37.737785_-84.315926@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045550,
+    "wof:geomhash":"4fa1a955615f7b83999b90f34b964f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840679257
+        }
+    ],
+    "wof:id":840679257,
+    "wof:lastmodified":1464045550,
+    "wof:name":"Nurses Registry",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -84.315926,
+    37.737785,
+    -84.315926,
+    37.737785
+],
+  "geometry": {"coordinates":[-84.315926,37.737785],"type":"Point"}
+}

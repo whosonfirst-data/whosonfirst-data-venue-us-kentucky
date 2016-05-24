@@ -1,0 +1,82 @@
+{
+  "id": 840836639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.468747,36.952134,-86.468747,36.952134",
+    "geom:latitude":36.952134,
+    "geom:longitude":-86.468747,
+    "iso:country":"US",
+    "sg:address":"716 Cave Mill Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 842 4343",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751,
+        102191575,
+        85831487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PzEUIL9Cl7yK8mfDB7T8R_36.952134_-86.468747@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049142,
+    "wof:geomhash":"729eacf2c8ffa752f97dea819368cfa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":840836639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85831487,
+            "region_id":85688641,
+            "venue_id":840836639
+        }
+    ],
+    "wof:id":840836639,
+    "wof:lastmodified":1464049142,
+    "wof:name":"Christ United Methodist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -86.468747,
+    36.952134,
+    -86.468747,
+    36.952134
+],
+  "geometry": {"coordinates":[-86.46874699999999,36.952134],"type":"Point"}
+}

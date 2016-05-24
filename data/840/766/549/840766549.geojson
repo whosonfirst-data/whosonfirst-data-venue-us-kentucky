@@ -1,0 +1,75 @@
+{
+  "id": 840766549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573362,38.230582,-84.573362,38.230582",
+    "geom:latitude":38.230582,
+    "geom:longitude":-84.573362,
+    "iso:country":"US",
+    "sg:address":"116 Keelridge Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 867 0403",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RGCJA4BtAD7qKXUU0FtHQ_38.230582_-84.573362@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047492,
+    "wof:geomhash":"012fae31dc81cd27e039d33e59f2a981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840766549
+        }
+    ],
+    "wof:id":840766549,
+    "wof:lastmodified":1464047492,
+    "wof:name":"Chem Dry Of Georgetown",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -84.573362,
+    38.230582,
+    -84.573362,
+    38.230582
+],
+  "geometry": {"coordinates":[-84.573362,38.230582],"type":"Point"}
+}

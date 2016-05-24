@@ -1,0 +1,75 @@
+{
+  "id": 840790673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.760577,38.233211,-85.760577,38.233211",
+    "geom:latitude":38.233211,
+    "geom:longitude":-85.760577,
+    "iso:country":"US",
+    "sg:address":"1235 S 4th St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 0464",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4odHryRoYU2ziaKx6Cw8eY_38.233211_-85.760577@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047997,
+    "wof:geomhash":"1953d765114c031bf16a2bb3aba11261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866967,
+            "region_id":85688641,
+            "venue_id":840790673
+        }
+    ],
+    "wof:id":840790673,
+    "wof:lastmodified":1464047997,
+    "wof:name":"Andy Frain Of Kentucky",
+    "wof:parent_id":85866967,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -85.760577,
+    38.233211,
+    -85.760577,
+    38.233211
+],
+  "geometry": {"coordinates":[-85.760577,38.233211],"type":"Point"}
+}

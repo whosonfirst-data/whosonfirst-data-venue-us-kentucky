@@ -1,0 +1,74 @@
+{
+  "id": 856748073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.582092,38.226471,-85.582092,38.226471",
+    "geom:latitude":38.226471,
+    "geom:longitude":-85.582092,
+    "iso:country":"US",
+    "sg:address":"9340 Blairwood Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 425 8680",
+    "sg:postcode":"40222",
+    "sg:province":"KY",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.travelodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WQIivCnx4LmIsedZLwhSN_38.226471_-85.582092@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053678,
+    "wof:geomhash":"a62ec7d6b6591056efa28c1d62074144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856748073
+        }
+    ],
+    "wof:id":856748073,
+    "wof:lastmodified":1464053678,
+    "wof:name":"Travelodge",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.582092,
+    38.226471,
+    -85.582092,
+    38.226471
+],
+  "geometry": {"coordinates":[-85.582092,38.226471],"type":"Point"}
+}

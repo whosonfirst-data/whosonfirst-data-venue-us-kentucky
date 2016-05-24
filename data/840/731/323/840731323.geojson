@@ -1,0 +1,75 @@
+{
+  "id": 840731323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.711984,38.010073,-85.711984,38.010073",
+    "geom:latitude":38.010073,
+    "geom:longitude":-85.711984,
+    "iso:country":"US",
+    "sg:address":"222 Beechwood Ave",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 543 9162",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hBKSoJIi42EGEOp6JyDz0_38.010073_-85.711984@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046728,
+    "wof:geomhash":"543c26771f850068ac4ce1b19d701299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840731323
+        }
+    ],
+    "wof:id":840731323,
+    "wof:lastmodified":1464046728,
+    "wof:name":"Price Trucking",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.711984,
+    38.010073,
+    -85.711984,
+    38.010073
+],
+  "geometry": {"coordinates":[-85.711984,38.010073],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840949495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578223,37.894947,-84.578223,37.894947",
+    "geom:latitude":37.894947,
+    "geom:longitude":-84.578223,
+    "iso:country":"US",
+    "sg:address":"1124 Keene Rd",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 885 5935",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BUFa9Ey51Dtben0D9eJpQ_37.894947_-84.578223@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051641,
+    "wof:geomhash":"68ebefe84df835e1fc16d0cb7b683f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840949495
+        }
+    ],
+    "wof:id":840949495,
+    "wof:lastmodified":1464051641,
+    "wof:name":"Small Animal Clinic",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.578223,
+    37.894947,
+    -84.578223,
+    37.894947
+],
+  "geometry": {"coordinates":[-84.57822299999999,37.894947],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 856719557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.796242,38.226763,-85.796242,38.226763",
+    "geom:latitude":38.226763,
+    "geom:longitude":-85.796242,
+    "iso:country":"US",
+    "sg:address":"2206 Burwell Ave",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 778 7462",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FPASFAh2XeBohuYk6gmIY_38.226763_-85.796242@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052571,
+    "wof:geomhash":"77029b0b4d62475a35474156c4962838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873413,
+            "region_id":85688641,
+            "venue_id":856719557
+        }
+    ],
+    "wof:id":856719557,
+    "wof:lastmodified":1464052571,
+    "wof:name":"Jerome Wright Plumbing",
+    "wof:parent_id":85873413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.796242,
+    38.226763,
+    -85.796242,
+    38.226763
+],
+  "geometry": {"coordinates":[-85.79624200000001,38.226763],"type":"Point"}
+}

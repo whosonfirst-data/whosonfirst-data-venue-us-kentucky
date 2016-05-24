@@ -1,0 +1,72 @@
+{
+  "id": 840587749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.558306,38.208146,-84.558306,38.208146",
+    "geom:latitude":38.208146,
+    "geom:longitude":-84.558306,
+    "iso:country":"US",
+    "sg:address":"207 S Hamilton St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 863 2739",
+    "sg:postcode":"40324",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.georgetownbaptist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947265,
+        102085651,
+        85826837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zdzbAgJQRkxa185TIjDlS_38.208146_-84.558306@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043376,
+    "wof:geomhash":"cde3e7bb6c01beca0cdcf5a7d0e1e354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085651,
+            "locality_id":85947265,
+            "neighbourhood_id":85826837,
+            "region_id":85688641,
+            "venue_id":840587749
+        }
+    ],
+    "wof:id":840587749,
+    "wof:lastmodified":1464043376,
+    "wof:name":"Georgetown Baptist Church",
+    "wof:parent_id":85826837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.558306,
+    38.208146,
+    -84.558306,
+    38.208146
+],
+  "geometry": {"coordinates":[-84.558306,38.208146],"type":"Point"}
+}

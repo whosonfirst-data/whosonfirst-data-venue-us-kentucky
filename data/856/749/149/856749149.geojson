@@ -1,0 +1,95 @@
+{
+  "id": 856749149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.647304,38.15692,-85.647304,38.15692",
+    "geom:latitude":38.15692,
+    "geom:longitude":-85.647304,
+    "iso:country":"US",
+    "sg:address":"6010 Fern Valley Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"40228",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "portable",
+        "mobile",
+        "commercial",
+        "unit",
+        "trailer"
+    ],
+    "sg:website":"http://N",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SMvHcyGksqRCSKC9OCTFO_38.156920_-85.647304@1303262748"
+    },
+    "wof:country":"US",
+    "wof:created":1464053719,
+    "wof:geomhash":"e9066849517c0d5fdc9edae91dacbbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":856749149
+        }
+    ],
+    "wof:id":856749149,
+    "wof:lastmodified":1464053719,
+    "wof:name":"Modspace",
+    "wof:parent_id":85841437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "portable",
+        "mobile",
+        "commercial",
+        "unit",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -85.647304,
+    38.15692,
+    -85.647304,
+    38.15692
+],
+  "geometry": {"coordinates":[-85.64730400000001,38.15692],"type":"Point"}
+}

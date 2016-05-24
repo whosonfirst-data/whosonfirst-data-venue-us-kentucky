@@ -1,0 +1,71 @@
+{
+  "id": 840539821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.581181,37.067648,-88.581181,37.067648",
+    "geom:latitude":37.067648,
+    "geom:longitude":-88.581181,
+    "iso:country":"US",
+    "sg:address":"2308 S 4th St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 0330",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KpOn2PCO2nLBP8BsthM8N_37.067648_-88.581181@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042213,
+    "wof:geomhash":"c95a5461fadef2aa7d1ff809bbc1c7c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840539821
+        }
+    ],
+    "wof:id":840539821,
+    "wof:lastmodified":1464042213,
+    "wof:name":"Bluegrass Marine Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -88.581181,
+    37.067648,
+    -88.581181,
+    37.067648
+],
+  "geometry": {"coordinates":[-88.581181,37.067648],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 856743625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.750735,38.194882,-85.750735,38.194882",
+    "geom:latitude":38.194882,
+    "geom:longitude":-85.750735,
+    "iso:country":"US",
+    "sg:address":"508 Dakota St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 368 6532",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYm33NAL6nZWk7DKLq57E_38.194882_-85.750735@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053517,
+    "wof:geomhash":"6e768d6f97a2c26d75417d6d6c2932a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873389,
+            "region_id":85688641,
+            "venue_id":856743625
+        }
+    ],
+    "wof:id":856743625,
+    "wof:lastmodified":1464053517,
+    "wof:name":"Jim Berry Collision Center",
+    "wof:parent_id":85873389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.750735,
+    38.194882,
+    -85.750735,
+    38.194882
+],
+  "geometry": {"coordinates":[-85.75073500000001,38.194882],"type":"Point"}
+}

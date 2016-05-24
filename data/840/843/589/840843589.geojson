@@ -1,0 +1,79 @@
+{
+  "id": 840843589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.651904,38.207703,-85.651904,38.207703",
+    "geom:latitude":38.207703,
+    "geom:longitude":-85.651904,
+    "iso:country":"US",
+    "sg:address":"3525 Goldsmith Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 1712",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:website":"www.piusx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jjXcgFafASZlNele8zF63_38.207703_-85.651904@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049304,
+    "wof:geomhash":"6501b1918fd7a0358cf65d030178134b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840843589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840843589
+        }
+    ],
+    "wof:id":840843589,
+    "wof:lastmodified":1464049304,
+    "wof:name":"St Pius X School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.651904,
+    38.207703,
+    -85.651904,
+    38.207703
+],
+  "geometry": {"coordinates":[-85.651904,38.207703],"type":"Point"}
+}

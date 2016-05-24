@@ -1,0 +1,75 @@
+{
+  "id": 856739783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.757709,38.256747,-85.757709,38.256747",
+    "geom:latitude":38.256747,
+    "geom:longitude":-85.757709,
+    "iso:country":"US",
+    "sg:address":"471 W Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 569 4266",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KmD7wSy6pcVoTz3cQLTjC_38.256747_-85.757709@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053369,
+    "wof:geomhash":"e53032c7e5c0151dd841557c5d7e4642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873435,
+            "region_id":85688641,
+            "venue_id":856739783
+        }
+    ],
+    "wof:id":856739783,
+    "wof:lastmodified":1464053369,
+    "wof:name":"Your Community Bank",
+    "wof:parent_id":85873435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.757709,
+    38.256747,
+    -85.757709,
+    38.256747
+],
+  "geometry": {"coordinates":[-85.75770900000001,38.256747],"type":"Point"}
+}

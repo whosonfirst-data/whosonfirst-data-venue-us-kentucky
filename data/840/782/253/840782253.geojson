@@ -1,0 +1,71 @@
+{
+  "id": 840782253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.565765,37.897199,-84.565765,37.897199",
+    "geom:latitude":37.897199,
+    "geom:longitude":-84.565765,
+    "iso:country":"US",
+    "sg:address":"990 N Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 4288",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qZy5qNrQor2AwbJcSoX6j_37.897199_-84.565765@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047806,
+    "wof:geomhash":"68774df78e16b83b5106e6fb93a7cf0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840782253
+        }
+    ],
+    "wof:id":840782253,
+    "wof:lastmodified":1464047806,
+    "wof:name":"Hometown Pediatrics",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.565765,
+    37.897199,
+    -84.565765,
+    37.897199
+],
+  "geometry": {"coordinates":[-84.565765,37.897199],"type":"Point"}
+}

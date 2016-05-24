@@ -1,0 +1,77 @@
+{
+  "id": 840792145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.404877,36.568797,-87.404877,36.568797",
+    "geom:latitude":36.568797,
+    "geom:longitude":-87.404877,
+    "iso:country":"US",
+    "sg:address":"1406 Fort Campbell Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 906 6555",
+    "sg:postcode":"37042",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85850241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S0bu3EaZrqnBL29DTHioD_36.568797_-87.404877@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048025,
+    "wof:geomhash":"cc042f9ee7a6f9334690a139dba8ee18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85850241,
+            "region_id":85688701,
+            "venue_id":840792145
+        }
+    ],
+    "wof:id":840792145,
+    "wof:lastmodified":1464048025,
+    "wof:name":"M & M Dog Grooming",
+    "wof:parent_id":85850241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.404877,
+    36.568797,
+    -87.404877,
+    36.568797
+],
+  "geometry": {"coordinates":[-87.404877,36.568797],"type":"Point"}
+}

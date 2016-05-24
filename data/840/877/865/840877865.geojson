@@ -1,0 +1,73 @@
+{
+  "id": 840877865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.560306,37.045,-88.560306,37.045",
+    "geom:latitude":37.045,
+    "geom:longitude":-88.560306,
+    "iso:country":"US",
+    "sg:address":"3840 Cook St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 6188",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "screen",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l0DP84JIu4fcBA4cDOYc3_37.045000_-88.560306@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050029,
+    "wof:geomhash":"a5b2efa69732d3ceafe05ab13d2c3c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840877865
+        }
+    ],
+    "wof:id":840877865,
+    "wof:lastmodified":1464050029,
+    "wof:name":"Sandy's Screen Printing",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen",
+        "window"
+    ]
+},
+  "bbox": [
+    -88.560306,
+    37.045,
+    -88.560306,
+    37.045
+],
+  "geometry": {"coordinates":[-88.560306,37.045],"type":"Point"}
+}

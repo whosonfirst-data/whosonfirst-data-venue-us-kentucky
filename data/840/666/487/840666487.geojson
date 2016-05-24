@@ -1,0 +1,71 @@
+{
+  "id": 840666487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.835456,37.669452,-85.835456,37.669452",
+    "geom:latitude":37.669452,
+    "geom:longitude":-85.835456,
+    "iso:country":"US",
+    "sg:address":"1039 Greenway Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 9700",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MIXNVfI5eho45tHBcwtbk_37.669452_-85.835456@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045244,
+    "wof:geomhash":"b11c87f9d8f0c9ad15017d306f776088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840666487
+        }
+    ],
+    "wof:id":840666487,
+    "wof:lastmodified":1464045244,
+    "wof:name":"John Lear",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -85.835456,
+    37.669452,
+    -85.835456,
+    37.669452
+],
+  "geometry": {"coordinates":[-85.83545599999999,37.669452],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840622565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.646528,38.220147,-85.646528,38.220147",
+    "geom:latitude":38.220147,
+    "geom:longitude":-85.646528,
+    "iso:country":"US",
+    "sg:address":"3611 Kings Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 479 9009",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RItBFKdZjENWcTBGk5BbO_38.220147_-85.646528@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044232,
+    "wof:geomhash":"e245674d1c68136bc8e8c8ad1a7c6fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840622565
+        }
+    ],
+    "wof:id":840622565,
+    "wof:lastmodified":1464044232,
+    "wof:name":"Glenn Miller Electric Inc",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.646528,
+    38.220147,
+    -85.646528,
+    38.220147
+],
+  "geometry": {"coordinates":[-85.646528,38.220147],"type":"Point"}
+}

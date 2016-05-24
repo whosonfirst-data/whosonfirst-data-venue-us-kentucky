@@ -1,0 +1,69 @@
+{
+  "id": 840618575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.578357,37.866737,-84.578357,37.866737",
+    "geom:latitude":37.866737,
+    "geom:longitude":-84.578357,
+    "iso:country":"US",
+    "sg:address":"926 S Main St",
+    "sg:city":"Nicholasville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 881 8144",
+    "sg:postcode":"40356",
+    "sg:province":"KY",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85827477,
+        102085581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GWkwvguMZc2UW6m6ryZOM_37.866737_-84.578357@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044133,
+    "wof:geomhash":"f7d0d6bc5085f64536d643f1dd01dc9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085581,
+            "neighbourhood_id":85827477,
+            "region_id":85688641,
+            "venue_id":840618575
+        }
+    ],
+    "wof:id":840618575,
+    "wof:lastmodified":1464044133,
+    "wof:name":"St Athanasius Orthodox Church",
+    "wof:parent_id":85827477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -84.578357,
+    37.866737,
+    -84.578357,
+    37.866737
+],
+  "geometry": {"coordinates":[-84.578357,37.866737],"type":"Point"}
+}

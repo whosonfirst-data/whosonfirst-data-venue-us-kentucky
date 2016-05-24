@@ -1,0 +1,75 @@
+{
+  "id": 840532291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.581377,37.83805,-87.581377,37.83805",
+    "geom:latitude":37.83805,
+    "geom:longitude":-87.581377,
+    "iso:country":"US",
+    "sg:address":"841 3rd St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4921",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cementing",
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dWixOxV3okpp9yELiHec0_37.838050_-87.581377@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042031,
+    "wof:geomhash":"d2c7c0dab30582db7519a1ff228bd1ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840532291
+        }
+    ],
+    "wof:id":840532291,
+    "wof:lastmodified":1464042031,
+    "wof:name":"Schwartz Oil Field Svc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cementing",
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -87.581377,
+    37.83805,
+    -87.581377,
+    37.83805
+],
+  "geometry": {"coordinates":[-87.581377,37.83805],"type":"Point"}
+}

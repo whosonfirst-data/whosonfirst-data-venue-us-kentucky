@@ -1,0 +1,84 @@
+{
+  "id": 856731283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740799,38.211929,-85.740799,38.211929",
+    "geom:latitude":38.211929,
+    "geom:longitude":-85.740799,
+    "iso:country":"US",
+    "sg:address":"2607 Preston Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 636 3648",
+    "sg:postcode":"40217",
+    "sg:province":"KY",
+    "sg:tags":[
+        "information",
+        "center",
+        "smoker",
+        "hypnotherapy",
+        "treatment",
+        "hypnotist"
+    ],
+    "sg:website":"http://www.carlininstitute.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6itNL4xIE1EXbNygb9mFhF_38.211487_-85.740576@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053048,
+    "wof:geomhash":"5cc03ae506de85a1035fc2ed6041a1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873373,
+            "region_id":85688641,
+            "venue_id":856731283
+        }
+    ],
+    "wof:id":856731283,
+    "wof:lastmodified":1464053048,
+    "wof:name":"Carlin Institute Of Wellness Inc",
+    "wof:parent_id":85873373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "center",
+        "smoker",
+        "hypnotherapy",
+        "treatment",
+        "hypnotist"
+    ]
+},
+  "bbox": [
+    -85.740799,
+    38.211929,
+    -85.740799,
+    38.211929
+],
+  "geometry": {"coordinates":[-85.740799,38.211929],"type":"Point"}
+}

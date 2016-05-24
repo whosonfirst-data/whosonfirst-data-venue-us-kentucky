@@ -1,0 +1,73 @@
+{
+  "id": 840532693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.572367,37.834942,-87.572367,37.834942",
+    "geom:latitude":37.834942,
+    "geom:longitude":-87.572367,
+    "iso:country":"US",
+    "sg:address":"215 Priest St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 827 4442",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pr4D0z2dfrEm9g9Mw1dy2_37.834942_-87.572367@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042044,
+    "wof:geomhash":"35c8e8df34c96d7ceca9a5c367dee526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840532693
+        }
+    ],
+    "wof:id":840532693,
+    "wof:lastmodified":1464042044,
+    "wof:name":"Industrial Support Svc Inc",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -87.572367,
+    37.834942,
+    -87.572367,
+    37.834942
+],
+  "geometry": {"coordinates":[-87.572367,37.834942],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 856754291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.485375,38.041967,-84.485375,38.041967",
+    "geom:latitude":38.041967,
+    "geom:longitude":-84.485375,
+    "iso:country":"US",
+    "sg:address":"225 Midland Ave Ste D",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 255 1017",
+    "sg:postcode":"40508",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pM7MMmetpv0dlESvilY6F_38.041967_-84.485375@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053920,
+    "wof:geomhash":"c477a3372095fd379669fc5be075d0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873075,
+            "region_id":85688641,
+            "venue_id":856754291
+        }
+    ],
+    "wof:id":856754291,
+    "wof:lastmodified":1464053920,
+    "wof:name":"Protech Auto",
+    "wof:parent_id":85873075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.485375,
+    38.041967,
+    -84.485375,
+    38.041967
+],
+  "geometry": {"coordinates":[-84.485375,38.041967],"type":"Point"}
+}

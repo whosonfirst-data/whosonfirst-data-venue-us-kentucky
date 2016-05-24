@@ -1,0 +1,92 @@
+{
+  "id": 856743645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.745667,38.188068,-85.745667,38.188068",
+    "geom:latitude":38.188068,
+    "geom:longitude":-85.745667,
+    "iso:country":"US",
+    "sg:address":"600 Terminal Dr #3 Louisville",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 4000",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "truck",
+        "moving-self",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.dollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533321,
+        85873389,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85688641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e3tWTScqNGQmxV7jU0jQT_38.188068_-85.745667@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053518,
+    "wof:geomhash":"5c595aeec05ce8528fdd3d7410f0b1be",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533321,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873389,
+            "region_id":85688641,
+            "venue_id":856743645
+        }
+    ],
+    "wof:id":856743645,
+    "wof:lastmodified":1464053518,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":102533321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "moving-self",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.745667,
+    38.188068,
+    -85.745667,
+    38.188068
+],
+  "geometry": {"coordinates":[-85.745667,38.188068],"type":"Point"}
+}

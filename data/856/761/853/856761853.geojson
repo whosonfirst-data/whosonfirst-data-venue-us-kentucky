@@ -1,0 +1,82 @@
+{
+  "id": 856761853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.529746,37.017288,-88.529746,37.017288",
+    "geom:latitude":37.017288,
+    "geom:longitude":-88.529746,
+    "iso:country":"US",
+    "sg:address":"120 Park Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 1750",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cleaner",
+        "carpet",
+        "rug",
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ru020KVXRTYQ6XKOkQGNG_37.017288_-88.529746@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054195,
+    "wof:geomhash":"22180652c767cfcc5f3893857e2ddd51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761853
+        }
+    ],
+    "wof:id":856761853,
+    "wof:lastmodified":1464054195,
+    "wof:name":"Ambers Cleaning",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "carpet",
+        "rug",
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -88.529746,
+    37.017288,
+    -88.529746,
+    37.017288
+],
+  "geometry": {"coordinates":[-88.529746,37.017288],"type":"Point"}
+}

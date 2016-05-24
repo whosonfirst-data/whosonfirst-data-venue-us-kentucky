@@ -1,0 +1,69 @@
+{
+  "id": 840811757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.708682,38.218548,-85.708682,38.218548",
+    "geom:latitude":38.218548,
+    "geom:longitude":-85.708682,
+    "iso:country":"US",
+    "sg:address":"2001 Newburg Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 452 8000",
+    "sg:postcode":"40205",
+    "sg:province":"KY",
+    "sg:website":"www.bellarmine.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bhnOVoEjjsmHJl3xj3Vtk_38.218548_-85.708682@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048485,
+    "wof:geomhash":"74dae8ad4c2e1e9ff6387adf9d8cad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873367,
+            "region_id":85688641,
+            "venue_id":840811757
+        }
+    ],
+    "wof:id":840811757,
+    "wof:lastmodified":1464048485,
+    "wof:name":"Bellarmine College Library",
+    "wof:parent_id":85873367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.708682,
+    38.218548,
+    -85.708682,
+    38.218548
+],
+  "geometry": {"coordinates":[-85.708682,38.218548],"type":"Point"}
+}

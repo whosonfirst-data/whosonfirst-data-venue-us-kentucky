@@ -1,0 +1,69 @@
+{
+  "id": 856720247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.262125,38.214401,-85.262125,38.214401",
+    "geom:latitude":38.214401,
+    "geom:longitude":-85.262125,
+    "iso:country":"US",
+    "sg:address":"2398 Shelbyville Rd",
+    "sg:city":"Shelbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 633 3512",
+    "sg:postcode":"40065",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85834021,
+        102085555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kUYGaiHqLTPzwohPfLN4U_38.214401_-85.262125@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052600,
+    "wof:geomhash":"86579eb74a64881bfc1a8c6e4a8ae010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085555,
+            "neighbourhood_id":85834021,
+            "region_id":85688641,
+            "venue_id":856720247
+        }
+    ],
+    "wof:id":856720247,
+    "wof:lastmodified":1464052600,
+    "wof:name":"Kresin Veterinary Clinic",
+    "wof:parent_id":85834021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.262125,
+    38.214401,
+    -85.262125,
+    38.214401
+],
+  "geometry": {"coordinates":[-85.262125,38.214401],"type":"Point"}
+}

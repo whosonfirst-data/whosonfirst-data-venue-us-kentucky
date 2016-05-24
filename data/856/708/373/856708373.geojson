@@ -1,0 +1,71 @@
+{
+  "id": 856708373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.518262,36.899279,-86.518262,36.899279",
+    "geom:latitude":36.899279,
+    "geom:longitude":-86.518262,
+    "iso:country":"US",
+    "sg:address":"8051 Nashville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 782 8849",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85833751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MsGf8wjuiEBtYyfCTwzXI_36.899279_-86.518262@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052236,
+    "wof:geomhash":"85719cf88e4fc8e3727620f106d243ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85833751,
+            "region_id":85688641,
+            "venue_id":856708373
+        }
+    ],
+    "wof:id":856708373,
+    "wof:lastmodified":1464052236,
+    "wof:name":"Rich Pond Market & Deli",
+    "wof:parent_id":85833751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.518262,
+    36.899279,
+    -86.518262,
+    36.899279
+],
+  "geometry": {"coordinates":[-86.51826199999999,36.899279],"type":"Point"}
+}

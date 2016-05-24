@@ -1,0 +1,73 @@
+{
+  "id": 840792883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.846865,37.710146,-85.846865,37.710146",
+    "geom:latitude":37.710146,
+    "geom:longitude":-85.846865,
+    "iso:country":"US",
+    "sg:address":"912 Pawnee Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 6707",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fF4BqQaGDbg3awwNMEH1t_37.710146_-85.846865@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048040,
+    "wof:geomhash":"6cbcf13d14a977d80095654060ceaa60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840792883
+        }
+    ],
+    "wof:id":840792883,
+    "wof:lastmodified":1464048040,
+    "wof:name":"Emerine & Emerine",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.846865,
+    37.710146,
+    -85.846865,
+    37.710146
+],
+  "geometry": {"coordinates":[-85.84686499999999,37.710146],"type":"Point"}
+}

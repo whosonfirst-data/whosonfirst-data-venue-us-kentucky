@@ -1,0 +1,78 @@
+{
+  "id": 840865925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.678998,38.180936,-85.678998,38.180936",
+    "geom:latitude":38.180936,
+    "geom:longitude":-85.678998,
+    "iso:country":"US",
+    "sg:address":"4844 Jennings Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 962 3325",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85866953,
+        85841437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ISqe78vlZ8XfSUtYS2wbS_38.180936_-85.678998@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049778,
+    "wof:geomhash":"455fe46b3d97d9d789923a54db0a78af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85866953,
+            "region_id":85688641,
+            "venue_id":840865925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85841437,
+            "region_id":85688641,
+            "venue_id":840865925
+        }
+    ],
+    "wof:id":840865925,
+    "wof:lastmodified":1464049778,
+    "wof:name":"FDR Mfg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.678998,
+    38.180936,
+    -85.678998,
+    38.180936
+],
+  "geometry": {"coordinates":[-85.67899800000001,38.180936],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840809283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.743386,38.047567,-84.743386,38.047567",
+    "geom:latitude":38.047567,
+    "geom:longitude":-84.743386,
+    "iso:country":"US",
+    "sg:address":"515 Tecumseh Trl",
+    "sg:city":"Versailles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 879 6117",
+    "sg:postcode":"40383",
+    "sg:province":"KY",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85842075,
+        102085447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jvDXxMD6Fa7NihS4I2trq_38.047567_-84.743386@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048394,
+    "wof:geomhash":"5b8b4b83d3b0275524f1387bf0aa7010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085447,
+            "neighbourhood_id":85842075,
+            "region_id":85688641,
+            "venue_id":840809283
+        }
+    ],
+    "wof:id":840809283,
+    "wof:lastmodified":1464048394,
+    "wof:name":"Painter Gary",
+    "wof:parent_id":85842075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.743386,
+    38.047567,
+    -84.743386,
+    38.047567
+],
+  "geometry": {"coordinates":[-84.743386,38.047567],"type":"Point"}
+}

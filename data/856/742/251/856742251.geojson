@@ -1,0 +1,81 @@
+{
+  "id": 856742251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642164,38.251823,-85.642164,38.251823",
+    "geom:latitude":38.251823,
+    "geom:longitude":-85.642164,
+    "iso:country":"US",
+    "sg:address":"4151 Shelbyville Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 897 0096",
+    "sg:postcode":"40207",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shoes-orthopedic",
+        "store"
+    ],
+    "sg:website":"http://www.footsolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85840697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wD8pQniHpc2E92VdwsnEQ_38.251823_-85.642164@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053466,
+    "wof:geomhash":"bc2d1f46f60c62e0211d69fb20f62484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85840697,
+            "region_id":85688641,
+            "venue_id":856742251
+        }
+    ],
+    "wof:id":856742251,
+    "wof:lastmodified":1464053466,
+    "wof:name":"Foot Solutions",
+    "wof:parent_id":85840697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes-orthopedic",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.642164,
+    38.251823,
+    -85.642164,
+    38.251823
+],
+  "geometry": {"coordinates":[-85.64216399999999,38.251823],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840849159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.752066,38.170619,-85.752066,38.170619",
+    "geom:latitude":38.170619,
+    "geom:longitude":-85.752066,
+    "iso:country":"US",
+    "sg:address":"6208 Strawberry Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 367 9539",
+    "sg:postcode":"40214",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "wire"
+    ],
+    "sg:website":"www.wirecrafters.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85805263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tyf2cQNOKpb6nxSzHcWnv_38.170619_-85.752066@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049422,
+    "wof:geomhash":"0ca858d5aa3f992d6bc73cbca3fc3b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85805263,
+            "region_id":85688641,
+            "venue_id":840849159
+        }
+    ],
+    "wof:id":840849159,
+    "wof:lastmodified":1464049422,
+    "wof:name":"Wire Crafters Inc",
+    "wof:parent_id":85805263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wire"
+    ]
+},
+  "bbox": [
+    -85.752066,
+    38.170619,
+    -85.752066,
+    38.170619
+],
+  "geometry": {"coordinates":[-85.752066,38.170619],"type":"Point"}
+}

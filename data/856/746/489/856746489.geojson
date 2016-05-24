@@ -1,0 +1,90 @@
+{
+  "id": 856746489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.691588,38.18933,-85.691588,38.18933",
+    "geom:latitude":38.18933,
+    "geom:longitude":-85.691588,
+    "iso:country":"US",
+    "sg:address":"4602 Bittersweet Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 964 5333",
+    "sg:postcode":"40218",
+    "sg:province":"KY",
+    "sg:tags":[
+        "product",
+        "supply",
+        "energy",
+        "contractor",
+        "equipment",
+        "conservation",
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85873395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mdkR64oNQkXVs3iXaX0jm_38.189330_-85.691588@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053613,
+    "wof:geomhash":"cad94f68d7d17480dbd000e7751ed4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85873395,
+            "region_id":85688641,
+            "venue_id":856746489
+        }
+    ],
+    "wof:id":856746489,
+    "wof:lastmodified":1464053613,
+    "wof:name":"Energy Saver Of Kentucky",
+    "wof:parent_id":85873395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "supply",
+        "energy",
+        "contractor",
+        "equipment",
+        "conservation",
+        "drywall"
+    ]
+},
+  "bbox": [
+    -85.691588,
+    38.18933,
+    -85.691588,
+    38.18933
+],
+  "geometry": {"coordinates":[-85.691588,38.18933],"type":"Point"}
+}

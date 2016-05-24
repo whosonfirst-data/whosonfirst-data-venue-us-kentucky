@@ -1,0 +1,73 @@
+{
+  "id": 840653861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.872474,37.742651,-85.872474,37.742651",
+    "geom:latitude":37.742651,
+    "geom:longitude":-85.872474,
+    "iso:country":"US",
+    "sg:address":"408 Red Bud Dr",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2056",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XdLmdVNdlot6PJw6bOl0X_37.742651_-85.872474@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044978,
+    "wof:geomhash":"60396d979e20b8ff23a35a999b99ab55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840653861
+        }
+    ],
+    "wof:id":840653861,
+    "wof:lastmodified":1464044978,
+    "wof:name":"Jawed Mavania MD",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.872474,
+    37.742651,
+    -85.872474,
+    37.742651
+],
+  "geometry": {"coordinates":[-85.872474,37.742651],"type":"Point"}
+}

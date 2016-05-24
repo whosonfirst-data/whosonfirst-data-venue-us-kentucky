@@ -1,0 +1,73 @@
+{
+  "id": 840575371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.716644,37.9881,-85.716644,37.9881",
+    "geom:latitude":37.9881,
+    "geom:longitude":-85.716644,
+    "iso:country":"US",
+    "sg:address":"337 S Buckman St",
+    "sg:city":"Shepherdsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 921 1833",
+    "sg:postcode":"40165",
+    "sg:province":"KY",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946771,
+        102084673,
+        85846821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36YhhnRsOaQsypACOKvQhq_37.988100_-85.716644@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043111,
+    "wof:geomhash":"2df62b1a4fc8d4236f8cfc30958d1a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084673,
+            "locality_id":85946771,
+            "neighbourhood_id":85846821,
+            "region_id":85688641,
+            "venue_id":840575371
+        }
+    ],
+    "wof:id":840575371,
+    "wof:lastmodified":1464043111,
+    "wof:name":"Outreach Thrift Shop",
+    "wof:parent_id":85846821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -85.716644,
+    37.9881,
+    -85.716644,
+    37.9881
+],
+  "geometry": {"coordinates":[-85.716644,37.9881],"type":"Point"}
+}

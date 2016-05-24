@@ -1,0 +1,75 @@
+{
+  "id": 840728951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.308067,37.57325,-84.308067,37.57325",
+    "geom:latitude":37.57325,
+    "geom:longitude":-84.308067,
+    "iso:country":"US",
+    "sg:address":"928 W Jefferson St",
+    "sg:city":"Berea",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 985 8585",
+    "sg:postcode":"40403",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "therapy",
+        "oxygen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947281,
+        102084575,
+        85834011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m6rh37alWGjv1Sx501S0r_37.573250_-84.308067@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046688,
+    "wof:geomhash":"dae8c71b275203881bd9b59b5780b4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947281,
+            "neighbourhood_id":85834011,
+            "region_id":85688641,
+            "venue_id":840728951
+        }
+    ],
+    "wof:id":840728951,
+    "wof:lastmodified":1464046688,
+    "wof:name":"Pulmonary Home Care",
+    "wof:parent_id":85834011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "therapy",
+        "oxygen"
+    ]
+},
+  "bbox": [
+    -84.308067,
+    37.57325,
+    -84.308067,
+    37.57325
+],
+  "geometry": {"coordinates":[-84.30806699999999,37.57325],"type":"Point"}
+}

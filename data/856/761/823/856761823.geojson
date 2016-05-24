@@ -1,0 +1,71 @@
+{
+  "id": 856761823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.641693,37.048382,-88.641693,37.048382",
+    "geom:latitude":37.048382,
+    "geom:longitude":-88.641693,
+    "iso:country":"US",
+    "sg:address":"700 Highland Blvd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 5720",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDBcXopa3z0BzuywoBUwv_37.048382_-88.641693@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054194,
+    "wof:geomhash":"30157906fbe488e70d3bad749c8937e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":856761823
+        }
+    ],
+    "wof:id":856761823,
+    "wof:lastmodified":1464054194,
+    "wof:name":"Paducah Alternative School",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -88.641693,
+    37.048382,
+    -88.641693,
+    37.048382
+],
+  "geometry": {"coordinates":[-88.641693,37.048382],"type":"Point"}
+}

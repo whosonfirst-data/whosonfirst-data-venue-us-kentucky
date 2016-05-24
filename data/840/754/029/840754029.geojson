@@ -1,0 +1,75 @@
+{
+  "id": 840754029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.627573,37.122814,-84.627573,37.122814",
+    "geom:latitude":37.122814,
+    "geom:longitude":-84.627573,
+    "iso:country":"US",
+    "sg:address":"1229 US Hwy 27",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 8412",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qjbmd5Xbh3ki4RuZR7x7f_37.122814_-84.627573@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047196,
+    "wof:geomhash":"9655bf1147da947d247b55af2af9ab80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840754029
+        }
+    ],
+    "wof:id":840754029,
+    "wof:lastmodified":1464047196,
+    "wof:name":"North 27 Discount Cigarette",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.627573,
+    37.122814,
+    -84.627573,
+    37.122814
+],
+  "geometry": {"coordinates":[-84.627573,37.122814],"type":"Point"}
+}

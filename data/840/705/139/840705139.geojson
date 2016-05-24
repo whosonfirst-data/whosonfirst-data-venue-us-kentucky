@@ -1,0 +1,73 @@
+{
+  "id": 840705139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.582814,37.848021,-87.582814,37.848021",
+    "geom:latitude":37.848021,
+    "geom:longitude":-87.582814,
+    "iso:country":"US",
+    "sg:address":"840 N Green St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 831 2133",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LOgOE5bQE7MmZxBmpbo9T_37.848021_-87.582814@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046205,
+    "wof:geomhash":"7db54d791269bd9a5cb4abcf60b47bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840705139
+        }
+    ],
+    "wof:id":840705139,
+    "wof:lastmodified":1464046205,
+    "wof:name":"D & T Auto Sales",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -87.582814,
+    37.848021,
+    -87.582814,
+    37.848021
+],
+  "geometry": {"coordinates":[-87.582814,37.848021],"type":"Point"}
+}

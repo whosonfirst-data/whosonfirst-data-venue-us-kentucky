@@ -1,0 +1,80 @@
+{
+  "id": 840657533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.486073,37.868016,-87.486073,37.868016",
+    "geom:latitude":37.868016,
+    "geom:longitude":-87.486073,
+    "iso:country":"US",
+    "sg:address":"1030 Country Club Dr",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 869 0325",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "club",
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e8ZLSEVDaflKYsi230ofy_37.868016_-87.486073@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045055,
+    "wof:geomhash":"92ba52b4c484d4a44addf719e50b8241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840657533
+        }
+    ],
+    "wof:id":840657533,
+    "wof:lastmodified":1464045055,
+    "wof:name":"Henderson Country Club Pro",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -87.486073,
+    37.868016,
+    -87.486073,
+    37.868016
+],
+  "geometry": {"coordinates":[-87.486073,37.868016],"type":"Point"}
+}

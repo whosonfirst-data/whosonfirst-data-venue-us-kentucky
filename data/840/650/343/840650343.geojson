@@ -1,0 +1,75 @@
+{
+  "id": 840650343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.483683,36.966127,-86.483683,36.966127",
+    "geom:latitude":36.966127,
+    "geom:longitude":-86.483683,
+    "iso:country":"US",
+    "sg:address":"2480 Russellville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 393 8267",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_784PAuFhi8AOOLCj2QgnKC_36.966127_-86.483683@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044887,
+    "wof:geomhash":"5849d85dec6fa51fa451ac53f9c5c6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840650343
+        }
+    ],
+    "wof:id":840650343,
+    "wof:lastmodified":1464044887,
+    "wof:name":"KIRK Nationalease",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.483683,
+    36.966127,
+    -86.483683,
+    36.966127
+],
+  "geometry": {"coordinates":[-86.483683,36.966127],"type":"Point"}
+}

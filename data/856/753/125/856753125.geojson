@@ -1,0 +1,75 @@
+{
+  "id": 856753125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.308265,37.737237,-84.308265,37.737237",
+    "geom:latitude":37.737237,
+    "geom:longitude":-84.308265,
+    "iso:country":"US",
+    "sg:address":"539 Mahaffey Dr",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 625 0777",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M4f6tAHThSzgHy2gNBdEv_37.737237_-84.308265@1303262749"
+    },
+    "wof:country":"US",
+    "wof:created":1464053872,
+    "wof:geomhash":"136c812d1c988515506bb317d2dd37ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":856753125
+        }
+    ],
+    "wof:id":856753125,
+    "wof:lastmodified":1464053872,
+    "wof:name":"Plus One Hair Studio",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -84.308265,
+    37.737237,
+    -84.308265,
+    37.737237
+],
+  "geometry": {"coordinates":[-84.30826500000001,37.737237],"type":"Point"}
+}

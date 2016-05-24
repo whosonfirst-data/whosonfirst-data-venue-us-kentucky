@@ -1,0 +1,75 @@
+{
+  "id": 840675729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.578441,37.840082,-87.578441,37.840082",
+    "geom:latitude":37.840082,
+    "geom:longitude":-87.578441,
+    "iso:country":"US",
+    "sg:address":"1019 5th St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 826 2110",
+    "sg:postcode":"42420",
+    "sg:province":"KY",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947069,
+        102084487,
+        85854905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KsoSmTxI6fJRNyQsSZ9QV_37.840082_-87.578441@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045459,
+    "wof:geomhash":"0c44ac1e12494de706cd2aef0dacad38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084487,
+            "locality_id":85947069,
+            "neighbourhood_id":85854905,
+            "region_id":85688641,
+            "venue_id":840675729
+        }
+    ],
+    "wof:id":840675729,
+    "wof:lastmodified":1464045459,
+    "wof:name":"Glass Doctor",
+    "wof:parent_id":85854905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -87.578441,
+    37.840082,
+    -87.578441,
+    37.840082
+],
+  "geometry": {"coordinates":[-87.578441,37.840082],"type":"Point"}
+}

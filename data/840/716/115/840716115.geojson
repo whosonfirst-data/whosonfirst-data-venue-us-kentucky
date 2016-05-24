@@ -1,0 +1,75 @@
+{
+  "id": 840716115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.520145,36.970306,-86.520145,36.970306",
+    "geom:latitude":36.970306,
+    "geom:longitude":-86.520145,
+    "iso:country":"US",
+    "sg:address":"448 Kitchens South Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 202 6137",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85850751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mGvm16BsBxLsnegt47uvp_36.970306_-86.520145@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046422,
+    "wof:geomhash":"38ea4d8c7a03f9c1ae14cf2b26b358b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85850751,
+            "region_id":85688641,
+            "venue_id":840716115
+        }
+    ],
+    "wof:id":840716115,
+    "wof:lastmodified":1464046422,
+    "wof:name":"New Era Consultant",
+    "wof:parent_id":85850751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ]
+},
+  "bbox": [
+    -86.520145,
+    36.970306,
+    -86.520145,
+    36.970306
+],
+  "geometry": {"coordinates":[-86.520145,36.970306],"type":"Point"}
+}

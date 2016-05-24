@@ -1,0 +1,74 @@
+{
+  "id": 856713561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.457132,38.026445,-84.457132,38.026445",
+    "geom:latitude":38.026445,
+    "geom:longitude":-84.457132,
+    "iso:country":"US",
+    "sg:address":"2180 Young Dr",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 269 3354",
+    "sg:postcode":"40505",
+    "sg:province":"KY",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.lexingtoncartage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85826711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53c7TaqAf3tkWpv9K9X2JW_38.026445_-84.457132@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052340,
+    "wof:geomhash":"fc2e16c222a6a52cf20ad1cc9851dfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85826711,
+            "region_id":85688641,
+            "venue_id":856713561
+        }
+    ],
+    "wof:id":856713561,
+    "wof:lastmodified":1464052340,
+    "wof:name":"Lexington Cartage Co",
+    "wof:parent_id":85826711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.457132,
+    38.026445,
+    -84.457132,
+    38.026445
+],
+  "geometry": {"coordinates":[-84.457132,38.026445],"type":"Point"}
+}

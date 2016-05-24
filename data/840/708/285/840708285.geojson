@@ -1,0 +1,73 @@
+{
+  "id": 840708285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.740542,38.253397,-85.740542,38.253397",
+    "geom:latitude":38.253397,
+    "geom:longitude":-85.740542,
+    "iso:country":"US",
+    "sg:address":"630 E Market St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 585 2952",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25QCSzWbpv6j1EXdxHSSw1_38.253397_-85.740542@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046268,
+    "wof:geomhash":"2246ab918a88de9a4f84f34887c77876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873415,
+            "region_id":85688641,
+            "venue_id":840708285
+        }
+    ],
+    "wof:id":840708285,
+    "wof:lastmodified":1464046268,
+    "wof:name":"Muth's Candy Store",
+    "wof:parent_id":85873415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -85.740542,
+    38.253397,
+    -85.740542,
+    38.253397
+],
+  "geometry": {"coordinates":[-85.740542,38.253397],"type":"Point"}
+}

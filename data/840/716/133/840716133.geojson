@@ -1,0 +1,71 @@
+{
+  "id": 840716133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.378054,37.014251,-86.378054,37.014251",
+    "geom:latitude":37.014251,
+    "geom:longitude":-86.378054,
+    "iso:country":"US",
+    "sg:address":"4350 Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 3224",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85807621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s925W3qEmUSe115291Aci_37.014251_-86.378054@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046422,
+    "wof:geomhash":"3face1ceb5bc4e307f1df9ae9d08ccca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85807621,
+            "region_id":85688641,
+            "venue_id":840716133
+        }
+    ],
+    "wof:id":840716133,
+    "wof:lastmodified":1464046422,
+    "wof:name":"Barren River Livestock Market",
+    "wof:parent_id":85807621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "producer"
+    ]
+},
+  "bbox": [
+    -86.378054,
+    37.014251,
+    -86.378054,
+    37.014251
+],
+  "geometry": {"coordinates":[-86.37805400000001,37.014251],"type":"Point"}
+}

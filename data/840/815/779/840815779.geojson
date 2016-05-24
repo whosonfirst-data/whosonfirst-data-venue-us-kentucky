@@ -1,0 +1,73 @@
+{
+  "id": 840815779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.290846,37.757591,-84.290846,37.757591",
+    "geom:latitude":37.757591,
+    "geom:longitude":-84.290846,
+    "iso:country":"US",
+    "sg:address":"916 Red House Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 626 8050",
+    "sg:postcode":"40475",
+    "sg:province":"KY",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947279,
+        102084575,
+        85803509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eu51MlIoeDYDy8Q4q84mW_37.757591_-84.290846@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048632,
+    "wof:geomhash":"e78db7bbcd16e61a7a37882d46dc5e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084575,
+            "locality_id":85947279,
+            "neighbourhood_id":85803509,
+            "region_id":85688641,
+            "venue_id":840815779
+        }
+    ],
+    "wof:id":840815779,
+    "wof:lastmodified":1464048632,
+    "wof:name":"Transitions Counseling",
+    "wof:parent_id":85803509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -84.290846,
+    37.757591,
+    -84.290846,
+    37.757591
+],
+  "geometry": {"coordinates":[-84.290846,37.757591],"type":"Point"}
+}

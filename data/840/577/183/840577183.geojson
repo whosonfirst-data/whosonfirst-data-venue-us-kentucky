@@ -1,0 +1,75 @@
+{
+  "id": 840577183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.756655,38.198237,-85.756655,38.198237",
+    "geom:latitude":38.198237,
+    "geom:longitude":-85.756655,
+    "iso:country":"US",
+    "sg:address":"3263 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 635 0068",
+    "sg:postcode":"40209",
+    "sg:province":"KY",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K21yFFUCeRBbiDJhzI3bJ_38.198237_-85.756655@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043146,
+    "wof:geomhash":"680b3b284e2560d3fd67e5c34355a56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873433,
+            "region_id":85688641,
+            "venue_id":840577183
+        }
+    ],
+    "wof:id":840577183,
+    "wof:lastmodified":1464043146,
+    "wof:name":"D & R Storage",
+    "wof:parent_id":85873433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.756655,
+    38.198237,
+    -85.756655,
+    38.198237
+],
+  "geometry": {"coordinates":[-85.75665499999999,38.198237],"type":"Point"}
+}

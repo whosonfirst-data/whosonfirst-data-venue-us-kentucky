@@ -1,0 +1,79 @@
+{
+  "id": 856744581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.710159,38.201931,-85.710159,38.201931",
+    "geom:latitude":38.201931,
+    "geom:longitude":-85.710159,
+    "iso:country":"US",
+    "sg:address":"4000 Poplar Level Rd Louisville",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 456 1004",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "optical"
+    ],
+    "sg:website":"http://www.visionfirsteyecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947443,
+        102084449,
+        85809133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51pMsMQ5jZFXSf0G7FwQd0_38.201931_-85.710159@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053550,
+    "wof:geomhash":"32dd45272d8e7cb954b928aa9dcbb95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947443,
+            "neighbourhood_id":85809133,
+            "region_id":85688641,
+            "venue_id":856744581
+        }
+    ],
+    "wof:id":856744581,
+    "wof:lastmodified":1464053550,
+    "wof:name":"Vision First",
+    "wof:parent_id":85809133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical"
+    ]
+},
+  "bbox": [
+    -85.710159,
+    38.201931,
+    -85.710159,
+    38.201931
+],
+  "geometry": {"coordinates":[-85.710159,38.201931],"type":"Point"}
+}

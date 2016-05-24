@@ -1,0 +1,73 @@
+{
+  "id": 840889217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839081,37.72722,-85.839081,37.72722",
+    "geom:latitude":37.72722,
+    "geom:longitude":-85.839081,
+    "iso:country":"US",
+    "sg:address":"2630 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 0554",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49WleVui8sYwPlJe1YCR9A_37.727220_-85.839081@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050264,
+    "wof:geomhash":"98b92953ac8c00c78d52549ad47c4598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840889217
+        }
+    ],
+    "wof:id":840889217,
+    "wof:lastmodified":1464050264,
+    "wof:name":"Fast Lube-Super Slant 3 Inc",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.839081,
+    37.72722,
+    -85.839081,
+    37.72722
+],
+  "geometry": {"coordinates":[-85.83908099999999,37.72722],"type":"Point"}
+}

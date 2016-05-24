@@ -1,0 +1,74 @@
+{
+  "id": 840539113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.839571,37.719408,-85.839571,37.719408",
+    "geom:latitude":37.719408,
+    "geom:longitude":-85.839571,
+    "iso:country":"US",
+    "sg:address":"2902 Ring Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 0339",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.bluecell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RIHKdT3MVM8HFDFYGhIP7_37.719408_-85.839571@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042193,
+    "wof:geomhash":"44f8e14eb57e3a70e39fcbce169c8ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840539113
+        }
+    ],
+    "wof:id":840539113,
+    "wof:lastmodified":1464042193,
+    "wof:name":"Bluegrass Cellular",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -85.839571,
+    37.719408,
+    -85.839571,
+    37.719408
+],
+  "geometry": {"coordinates":[-85.83957100000001,37.719408],"type":"Point"}
+}

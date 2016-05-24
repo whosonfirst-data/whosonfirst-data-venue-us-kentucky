@@ -1,0 +1,71 @@
+{
+  "id": 840553159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.678857,37.072708,-84.678857,37.072708",
+    "geom:latitude":37.072708,
+    "geom:longitude":-84.678857,
+    "iso:country":"US",
+    "sg:address":"67 Driftwood Dr",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 677 4086",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85806809,
+        102084701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AJH798l0q08EcCdgNZP8F_37.072708_-84.678857@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042578,
+    "wof:geomhash":"832cd64535e5f6ef52076fc258c64da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "neighbourhood_id":85806809,
+            "region_id":85688641,
+            "venue_id":840553159
+        }
+    ],
+    "wof:id":840553159,
+    "wof:lastmodified":1464042578,
+    "wof:name":"Social Service Dept",
+    "wof:parent_id":85806809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -84.678857,
+    37.072708,
+    -84.678857,
+    37.072708
+],
+  "geometry": {"coordinates":[-84.67885699999999,37.072708],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 856762845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.895289,37.751382,-85.895289,37.751382",
+    "geom:latitude":37.751382,
+    "geom:longitude":-85.895289,
+    "iso:country":"US",
+    "sg:address":"4547 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 737 7171",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kPO042IQCoFEzAHA9TTaF_37.751382_-85.895289@1303262752"
+    },
+    "wof:country":"US",
+    "wof:created":1464054230,
+    "wof:geomhash":"98951d820dc08feedf173abd4d7c120e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856762845
+        }
+    ],
+    "wof:id":856762845,
+    "wof:lastmodified":1464054230,
+    "wof:name":"Dix-E-Town Lane",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.895289,
+    37.751382,
+    -85.895289,
+    37.751382
+],
+  "geometry": {"coordinates":[-85.89528900000001,37.751382],"type":"Point"}
+}

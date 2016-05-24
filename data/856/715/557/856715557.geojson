@@ -1,0 +1,71 @@
+{
+  "id": 856715557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.87669,37.679935,-85.87669,37.679935",
+    "geom:latitude":37.679935,
+    "geom:longitude":-85.87669,
+    "iso:country":"US",
+    "sg:address":"900 Nicholas St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 769 2264",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x5unXSwhUrJs9Vv3FZGmr_37.679935_-85.876690@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052412,
+    "wof:geomhash":"8c04a2b637fce6679e295194ec498a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":856715557
+        }
+    ],
+    "wof:id":856715557,
+    "wof:lastmodified":1464052412,
+    "wof:name":"Elizabethtown Water Plant",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -85.87669,
+    37.679935,
+    -85.87669,
+    37.679935
+],
+  "geometry": {"coordinates":[-85.87669,37.679935],"type":"Point"}
+}

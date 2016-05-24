@@ -1,0 +1,71 @@
+{
+  "id": 840638789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447913,36.991269,-86.447913,36.991269",
+    "geom:latitude":36.991269,
+    "geom:longitude":-86.447913,
+    "iso:country":"US",
+    "sg:address":"1248 Center St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 9106",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bf2pyooepanz15sd3Z0Ej_36.991269_-86.447913@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044655,
+    "wof:geomhash":"2c84029761f55e68f0e6c293e5fda0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840638789
+        }
+    ],
+    "wof:id":840638789,
+    "wof:lastmodified":1464044655,
+    "wof:name":"Shipley's Chevron",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -86.447913,
+    36.991269,
+    -86.447913,
+    36.991269
+],
+  "geometry": {"coordinates":[-86.447913,36.991269],"type":"Point"}
+}

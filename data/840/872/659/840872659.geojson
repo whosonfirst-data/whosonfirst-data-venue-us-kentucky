@@ -1,0 +1,75 @@
+{
+  "id": 840872659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441657,36.986937,-86.441657,36.986937",
+    "geom:latitude":36.986937,
+    "geom:longitude":-86.441657,
+    "iso:country":"US",
+    "sg:address":"707 E 12th Ave",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 745 7278",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "residential",
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qYkMvu8aPloHHre6E96Ho_36.986937_-86.441657@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049908,
+    "wof:geomhash":"e686825d7710e595638649d60ed5c83a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840872659
+        }
+    ],
+    "wof:id":840872659,
+    "wof:lastmodified":1464049908,
+    "wof:name":"New Beginning Recovery Home",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.441657,
+    36.986937,
+    -86.441657,
+    36.986937
+],
+  "geometry": {"coordinates":[-86.44165700000001,36.986937],"type":"Point"}
+}

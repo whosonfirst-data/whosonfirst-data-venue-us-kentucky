@@ -1,0 +1,77 @@
+{
+  "id": 856744657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.72324,38.186825,-85.72324,38.186825",
+    "geom:latitude":38.186825,
+    "geom:longitude":-85.72324,
+    "iso:country":"US",
+    "sg:address":"1206 Durrett Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 962 8695",
+    "sg:postcode":"40213",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "veterinarian",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85843121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8grC5hHUxaYUnNKklsay_38.186825_-85.723240@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053552,
+    "wof:geomhash":"a83dc0a0282d417d3a04931dc6bc5059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85843121,
+            "region_id":85688641,
+            "venue_id":856744657
+        }
+    ],
+    "wof:id":856744657,
+    "wof:lastmodified":1464053552,
+    "wof:name":"Churchill Veterinary Supply Co",
+    "wof:parent_id":85843121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "veterinarian",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.72324,
+    38.186825,
+    -85.72324,
+    38.186825
+],
+  "geometry": {"coordinates":[-85.72324,38.186825],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840656137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.69784,36.762977,-83.69784,36.762977",
+    "geom:latitude":36.762977,
+    "geom:longitude":-83.69784,
+    "iso:country":"US",
+    "sg:address":"300 Virginia Ave",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 337 2958",
+    "sg:postcode":"40977",
+    "sg:province":"KY",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946645,
+        102084431,
+        85806147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IptV9kUj1MaEunbuc5TOw_36.762977_-83.697840@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045025,
+    "wof:geomhash":"fa444719ac1dda05d1c2f92c42416d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084431,
+            "locality_id":85946645,
+            "neighbourhood_id":85806147,
+            "region_id":85688641,
+            "venue_id":840656137
+        }
+    ],
+    "wof:id":840656137,
+    "wof:lastmodified":1464045025,
+    "wof:name":"Pineville City Hall",
+    "wof:parent_id":85806147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -83.69784,
+    36.762977,
+    -83.69784,
+    36.762977
+],
+  "geometry": {"coordinates":[-83.69784,36.762977],"type":"Point"}
+}

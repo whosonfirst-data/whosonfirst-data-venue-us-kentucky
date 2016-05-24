@@ -1,0 +1,71 @@
+{
+  "id": 840893467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.46725,38.340047,-85.46725,38.340047",
+    "geom:latitude":38.340047,
+    "geom:longitude":-85.46725,
+    "iso:country":"US",
+    "sg:address":"500 Cross Keys Blvd",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 241 8761",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F3voPjtj7BnrVCcUJvUCy_38.340047_-85.467250@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050354,
+    "wof:geomhash":"902d08f00f3d33e345c96cf9ce5b1c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":840893467
+        }
+    ],
+    "wof:id":840893467,
+    "wof:lastmodified":1464050354,
+    "wof:name":"Meadows At Crestwood",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.46725,
+    38.340047,
+    -85.46725,
+    38.340047
+],
+  "geometry": {"coordinates":[-85.46725000000001,38.340047],"type":"Point"}
+}

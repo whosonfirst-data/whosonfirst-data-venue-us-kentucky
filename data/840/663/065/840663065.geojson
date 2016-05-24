@@ -1,0 +1,75 @@
+{
+  "id": 840663065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418166,37.005632,-86.418166,37.005632",
+    "geom:latitude":37.005632,
+    "geom:longitude":-86.418166,
+    "iso:country":"US",
+    "sg:address":"1400 Old Louisville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 1814",
+    "sg:postcode":"42101",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85814157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O0onUG5P8naYH9y9yLDQk_37.005632_-86.418166@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045167,
+    "wof:geomhash":"6ff992fad610c4b287f1589c3d9c5068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85814157,
+            "region_id":85688641,
+            "venue_id":840663065
+        }
+    ],
+    "wof:id":840663065,
+    "wof:lastmodified":1464045167,
+    "wof:name":"Bowling Green Detail Shop",
+    "wof:parent_id":85814157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -86.418166,
+    37.005632,
+    -86.418166,
+    37.005632
+],
+  "geometry": {"coordinates":[-86.418166,37.005632],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840592771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.541296,38.214114,-85.541296,38.214114",
+    "geom:latitude":38.214114,
+    "geom:longitude":-85.541296,
+    "iso:country":"US",
+    "sg:address":"11520 Commonwealth Dr",
+    "sg:city":"Jeffersontown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 266 5571",
+    "sg:postcode":"40299",
+    "sg:province":"KY",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.kipda.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mXm32bDHcYvDE9guclTvf_38.214114_-85.541296@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043485,
+    "wof:geomhash":"92a41a531562ddddc81f726a2ace5216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840592771
+        }
+    ],
+    "wof:id":840592771,
+    "wof:lastmodified":1464043485,
+    "wof:name":"KIPDA",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.541296,
+    38.214114,
+    -85.541296,
+    38.214114
+],
+  "geometry": {"coordinates":[-85.541296,38.214114],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840842551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.597463,38.210897,-85.597463,38.210897",
+    "geom:latitude":38.210897,
+    "geom:longitude":-85.597463,
+    "iso:country":"US",
+    "sg:address":"2725 S Hurstbourne Pkwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 499 5678",
+    "sg:postcode":"40220",
+    "sg:province":"KY",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85824979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nMxHniXkZRE3Qa36XLHTc_38.210897_-85.597463@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049283,
+    "wof:geomhash":"e22f282cc100e683c76f0485c20054da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85824979,
+            "region_id":85688641,
+            "venue_id":840842551
+        }
+    ],
+    "wof:id":840842551,
+    "wof:lastmodified":1464049283,
+    "wof:name":"Carlson Wagonlit Travel",
+    "wof:parent_id":85824979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -85.597463,
+    38.210897,
+    -85.597463,
+    38.210897
+],
+  "geometry": {"coordinates":[-85.597463,38.210897],"type":"Point"}
+}

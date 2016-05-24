@@ -1,0 +1,73 @@
+{
+  "id": 856739071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.749031,38.2491,-85.749031,38.2491",
+    "geom:latitude":38.2491,
+    "geom:longitude":-85.749031,
+    "iso:country":"US",
+    "sg:address":"511 S Floyd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 852 3276",
+    "sg:postcode":"40202",
+    "sg:province":"KY",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kVwvqOvrscrKPzqPTg966_38.249100_-85.749031@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1464053345,
+    "wof:geomhash":"79c78c1779554878193c1817405a0717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873407,
+            "region_id":85688641,
+            "venue_id":856739071
+        }
+    ],
+    "wof:id":856739071,
+    "wof:lastmodified":1464053345,
+    "wof:name":"University of Louisville",
+    "wof:parent_id":85873407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -85.749031,
+    38.2491,
+    -85.749031,
+    38.2491
+],
+  "geometry": {"coordinates":[-85.749031,38.2491],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840837243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426001,36.952445,-86.426001,36.952445",
+    "geom:latitude":36.952445,
+    "geom:longitude":-86.426001,
+    "iso:country":"US",
+    "sg:address":"2522 Scottsville Rd",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 843 8770",
+    "sg:postcode":"42104",
+    "sg:province":"KY",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mUt7RtLSgy47syw8P7ZLQ_36.952445_-86.426001@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049154,
+    "wof:geomhash":"7c2bb824156fe6c680231e50e97dcd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840837243
+        }
+    ],
+    "wof:id":840837243,
+    "wof:lastmodified":1464049154,
+    "wof:name":"Apollo Computers",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -86.426001,
+    36.952445,
+    -86.426001,
+    36.952445
+],
+  "geometry": {"coordinates":[-86.426001,36.952445],"type":"Point"}
+}

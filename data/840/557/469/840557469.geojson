@@ -1,0 +1,75 @@
+{
+  "id": 840557469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.857765,37.699377,-85.857765,37.699377",
+    "geom:latitude":37.699377,
+    "geom:longitude":-85.857765,
+    "iso:country":"US",
+    "sg:address":"205 W Warfield St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 766 5071",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "state",
+        "safety",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tOUJLPxN5pim7hLqJCVUx_37.699377_-85.857765@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042683,
+    "wof:geomhash":"82b5405c8796878191a6ba8d78cfa231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":840557469
+        }
+    ],
+    "wof:id":840557469,
+    "wof:lastmodified":1464042683,
+    "wof:name":"Area 5 Emergency Management",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "safety",
+        "order"
+    ]
+},
+  "bbox": [
+    -85.857765,
+    37.699377,
+    -85.857765,
+    37.699377
+],
+  "geometry": {"coordinates":[-85.857765,37.699377],"type":"Point"}
+}

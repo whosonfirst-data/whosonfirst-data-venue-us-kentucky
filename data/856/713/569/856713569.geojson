@@ -1,0 +1,75 @@
+{
+  "id": 856713569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.785501,38.240805,-85.785501,38.240805",
+    "geom:latitude":38.240805,
+    "geom:longitude":-85.785501,
+    "iso:country":"US",
+    "sg:address":"1050 Dixie Hwy",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 776 6705",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KlVlEdI8YJoL3jKmQiRY2_38.240805_-85.785501@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464052341,
+    "wof:geomhash":"d27fd7e21e197427ab409c352e40aeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856713569
+        }
+    ],
+    "wof:id":856713569,
+    "wof:lastmodified":1464052341,
+    "wof:name":"B & D Auto Repair Svc",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.785501,
+    38.240805,
+    -85.785501,
+    38.240805
+],
+  "geometry": {"coordinates":[-85.785501,38.240805],"type":"Point"}
+}

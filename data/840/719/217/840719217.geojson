@@ -1,0 +1,73 @@
+{
+  "id": 840719217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.712877,37.229538,-85.712877,37.229538",
+    "geom:latitude":37.229538,
+    "geom:longitude":-85.712877,
+    "iso:country":"US",
+    "sg:address":"375 Hundred Acre Pond Rd",
+    "sg:city":"Hardyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 590 4343",
+    "sg:postcode":"42746",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947315,
+        102085597,
+        85841401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rrH8v03VkuH7sVioObJAU_37.229538_-85.712877@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046494,
+    "wof:geomhash":"1fe423d053f6c3dc461eee119810a29a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085597,
+            "locality_id":85947315,
+            "neighbourhood_id":85841401,
+            "region_id":85688641,
+            "venue_id":840719217
+        }
+    ],
+    "wof:id":840719217,
+    "wof:lastmodified":1464046494,
+    "wof:name":"Chapman Electric",
+    "wof:parent_id":85841401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.712877,
+    37.229538,
+    -85.712877,
+    37.229538
+],
+  "geometry": {"coordinates":[-85.71287700000001,37.229538],"type":"Point"}
+}

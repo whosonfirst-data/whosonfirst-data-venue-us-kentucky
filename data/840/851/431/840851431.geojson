@@ -1,0 +1,75 @@
+{
+  "id": 840851431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.702951,38.245451,-85.702951,38.245451",
+    "geom:latitude":38.245451,
+    "geom:longitude":-85.702951,
+    "iso:country":"US",
+    "sg:address":"2294 Lexington Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 458 9422",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wFNjqX4bJ2WM56laQNsei_38.245451_-85.702951@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464049473,
+    "wof:geomhash":"3b316b9a90e371ed63bdd578bc8715e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873377,
+            "region_id":85688641,
+            "venue_id":840851431
+        }
+    ],
+    "wof:id":840851431,
+    "wof:lastmodified":1464049473,
+    "wof:name":"Fahey's Chevron",
+    "wof:parent_id":85873377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.702951,
+    38.245451,
+    -85.702951,
+    38.245451
+],
+  "geometry": {"coordinates":[-85.702951,38.245451],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840653345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.564634,37.052668,-88.564634,37.052668",
+    "geom:latitude":37.052668,
+    "geom:longitude":-88.564634,
+    "iso:country":"US",
+    "sg:address":"3465 Wayne Sullivan Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 7817",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wlVFva8R2UTPNx4Xtbhtm_37.052668_-88.564634@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464044964,
+    "wof:geomhash":"cc76ce3b5809cf9f00525966852fc79f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840653345
+        }
+    ],
+    "wof:id":840653345,
+    "wof:lastmodified":1464044964,
+    "wof:name":"Riverport Bowl",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -88.564634,
+    37.052668,
+    -88.564634,
+    37.052668
+],
+  "geometry": {"coordinates":[-88.564634,37.052668],"type":"Point"}
+}

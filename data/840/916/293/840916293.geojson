@@ -1,0 +1,73 @@
+{
+  "id": 840916293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.619831,37.077825,-88.619831,37.077825",
+    "geom:latitude":37.077825,
+    "geom:longitude":-88.619831,
+    "iso:country":"US",
+    "sg:address":"1920 Broadway St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 3647",
+    "sg:postcode":"42001",
+    "sg:province":"KY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85846263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rv5qQ6dBJ0hFQdEyr1Aou_37.077825_-88.619831@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464050919,
+    "wof:geomhash":"72192fa5c2f29d316c26684642d51c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85846263,
+            "region_id":85688641,
+            "venue_id":840916293
+        }
+    ],
+    "wof:id":840916293,
+    "wof:lastmodified":1464050919,
+    "wof:name":"Culbertson & Bedwell",
+    "wof:parent_id":85846263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.619831,
+    37.077825,
+    -88.619831,
+    37.077825
+],
+  "geometry": {"coordinates":[-88.619831,37.077825],"type":"Point"}
+}

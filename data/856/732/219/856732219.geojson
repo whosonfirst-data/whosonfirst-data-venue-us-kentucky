@@ -1,0 +1,74 @@
+{
+  "id": 856732219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.473462,38.326403,-85.473462,38.326403",
+    "geom:latitude":38.326403,
+    "geom:longitude":-85.473462,
+    "iso:country":"US",
+    "sg:address":"6825 Central Ave",
+    "sg:city":"Crestwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/pewee-valley/209553-fast-break-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 243 1101",
+    "sg:postcode":"40014",
+    "sg:province":"KY",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946663,
+        102084559,
+        85819685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79EXvOWUPY0UYtiQdC2l92_38.326403_-85.473462@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053081,
+    "wof:geomhash":"c3a7f618b079839c1ed708c97c14b438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084559,
+            "locality_id":85946663,
+            "neighbourhood_id":85819685,
+            "region_id":85688641,
+            "venue_id":856732219
+        }
+    ],
+    "wof:id":856732219,
+    "wof:lastmodified":1464053081,
+    "wof:name":"Fast Break Pizza",
+    "wof:parent_id":85819685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -85.473462,
+    38.326403,
+    -85.473462,
+    38.326403
+],
+  "geometry": {"coordinates":[-85.473462,38.326403],"type":"Point"}
+}

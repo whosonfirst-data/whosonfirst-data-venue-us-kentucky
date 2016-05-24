@@ -1,0 +1,73 @@
+{
+  "id": 840704259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.628064,37.068125,-88.628064,37.068125",
+    "geom:latitude":37.068125,
+    "geom:longitude":-88.628064,
+    "iso:country":"US",
+    "sg:address":"2819 Jackson St",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 444 9282",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85819855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rFc8Es03suy2Byp0kO0NF_37.068125_-88.628064@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046187,
+    "wof:geomhash":"0358a97a3a8424b2f79ca6abd6aecea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85819855,
+            "region_id":85688641,
+            "venue_id":840704259
+        }
+    ],
+    "wof:id":840704259,
+    "wof:lastmodified":1464046187,
+    "wof:name":"E-Z Lube Of Paducah",
+    "wof:parent_id":85819855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -88.628064,
+    37.068125,
+    -88.628064,
+    37.068125
+],
+  "geometry": {"coordinates":[-88.62806399999999,37.068125],"type":"Point"}
+}

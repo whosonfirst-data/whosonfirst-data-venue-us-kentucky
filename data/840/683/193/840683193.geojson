@@ -1,0 +1,71 @@
+{
+  "id": 840683193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.860576,37.69269,-85.860576,37.69269",
+    "geom:latitude":37.69269,
+    "geom:longitude":-85.860576,
+    "iso:country":"US",
+    "sg:address":"212 S Mulberry St",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 982 9200",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S4zvoZQ3RRkDClR7YyUYr_37.692690_-85.860576@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045655,
+    "wof:geomhash":"8b5663e72db48036211e99a8ef80df79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840683193
+        }
+    ],
+    "wof:id":840683193,
+    "wof:lastmodified":1464045655,
+    "wof:name":"Dave Riddle Engineering Inc",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -85.860576,
+    37.69269,
+    -85.860576,
+    37.69269
+],
+  "geometry": {"coordinates":[-85.86057599999999,37.69269],"type":"Point"}
+}

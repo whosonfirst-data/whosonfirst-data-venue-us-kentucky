@@ -1,0 +1,82 @@
+{
+  "id": 856743753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.782539,38.239479,-85.782539,38.239479",
+    "geom:latitude":38.239479,
+    "geom:longitude":-85.782539,
+    "iso:country":"US",
+    "sg:address":"1600 W Saint Catherine St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 574 2658",
+    "sg:postcode":"40210",
+    "sg:province":"KY",
+    "sg:tags":[
+        "parish",
+        "recreation",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25dMU72WZYgefwHUXFAvLj_38.239479_-85.782539@1303262747"
+    },
+    "wof:country":"US",
+    "wof:created":1464053521,
+    "wof:geomhash":"370d2479be24e21831364d87f6d51d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873405,
+            "region_id":85688641,
+            "venue_id":856743753
+        }
+    ],
+    "wof:id":856743753,
+    "wof:lastmodified":1464053521,
+    "wof:name":"Louisville-Jefferson County Metro",
+    "wof:parent_id":85873405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "recreation",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -85.782539,
+    38.239479,
+    -85.782539,
+    38.239479
+],
+  "geometry": {"coordinates":[-85.782539,38.239479],"type":"Point"}
+}

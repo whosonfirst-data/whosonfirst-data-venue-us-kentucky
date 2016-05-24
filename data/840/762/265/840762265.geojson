@@ -1,0 +1,83 @@
+{
+  "id": 840762265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.773903,37.654099,-84.773903,37.654099",
+    "geom:latitude":37.654099,
+    "geom:longitude":-84.773903,
+    "iso:country":"US",
+    "sg:address":"351 Holtzclaw St",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 238 7101",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85808825,
+        102085579,
+        102191575,
+        85947155,
+        85855341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cKT4VA4aA9I3Ex9RMdONt_37.654099_-84.773903@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047394,
+    "wof:geomhash":"33fc08882382eba652e676414848a9a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "neighbourhood_id":85808825,
+            "region_id":85688641,
+            "venue_id":840762265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85855341,
+            "region_id":85688641,
+            "venue_id":840762265
+        }
+    ],
+    "wof:id":840762265,
+    "wof:lastmodified":1464047394,
+    "wof:name":"Parkside East Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.773903,
+    37.654099,
+    -84.773903,
+    37.654099
+],
+  "geometry": {"coordinates":[-84.773903,37.654099],"type":"Point"}
+}

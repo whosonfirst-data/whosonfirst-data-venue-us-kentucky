@@ -1,0 +1,71 @@
+{
+  "id": 856761737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.533868,37.030299,-88.533868,37.030299",
+    "geom:latitude":37.030299,
+    "geom:longitude":-88.533868,
+    "iso:country":"US",
+    "sg:address":"5030 Reidland Rd",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 898 7362",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c9VjqFdtwrSkrfZ0NSqLj_37.030299_-88.533868@1303262751"
+    },
+    "wof:country":"US",
+    "wof:created":1464054186,
+    "wof:geomhash":"5e8cb813e531e902d02813c5f9754a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856761737
+        }
+    ],
+    "wof:id":856761737,
+    "wof:lastmodified":1464054186,
+    "wof:name":"Allen, Abram Dr",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.533868,
+    37.030299,
+    -88.533868,
+    37.030299
+],
+  "geometry": {"coordinates":[-88.533868,37.030299],"type":"Point"}
+}

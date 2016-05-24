@@ -1,0 +1,73 @@
+{
+  "id": 856730073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.572875,37.036536,-88.572875,37.036536",
+    "geom:latitude":37.036536,
+    "geom:longitude":-88.572875,
+    "iso:country":"US",
+    "sg:address":"3240 Estes Ln",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 442 9012",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r2mxeHMpegwi255P0Mlf1_37.036473_-88.572091@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464053004,
+    "wof:geomhash":"cf131c098985d650875415752f9fcf60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":856730073
+        }
+    ],
+    "wof:id":856730073,
+    "wof:lastmodified":1464053004,
+    "wof:name":"Estes Lane Auto Sales",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -88.572875,
+    37.036536,
+    -88.572875,
+    37.036536
+],
+  "geometry": {"coordinates":[-88.572875,37.036536],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840685277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.611042,37.101435,-84.611042,37.101435",
+    "geom:latitude":37.101435,
+    "geom:longitude":-84.611042,
+    "iso:country":"US",
+    "sg:address":"111 Canary Ave",
+    "sg:city":"Somerset",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 606 678 4074",
+    "sg:postcode":"42503",
+    "sg:province":"KY",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947081,
+        102084701,
+        85844633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RRJRHkhA10TiHV0zFhDnj_37.101435_-84.611042@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045690,
+    "wof:geomhash":"699af43c2c7697b661dacfde9a8431c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084701,
+            "locality_id":85947081,
+            "neighbourhood_id":85844633,
+            "region_id":85688641,
+            "venue_id":840685277
+        }
+    ],
+    "wof:id":840685277,
+    "wof:lastmodified":1464045690,
+    "wof:name":"Doug Wilcoxson",
+    "wof:parent_id":85844633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -84.611042,
+    37.101435,
+    -84.611042,
+    37.101435
+],
+  "geometry": {"coordinates":[-84.611042,37.101435],"type":"Point"}
+}

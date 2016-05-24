@@ -1,0 +1,73 @@
+{
+  "id": 840756295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.41099,36.925957,-86.41099,36.925957",
+    "geom:latitude":36.925957,
+    "geom:longitude":-86.41099,
+    "iso:country":"US",
+    "sg:address":"110 Vanderbilt Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 846 3877",
+    "sg:postcode":"42103",
+    "sg:province":"KY",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947335,
+        102084479,
+        85823129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d6Vhci2O0Xwhh7ygH8A31_36.925957_-86.410990@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464047246,
+    "wof:geomhash":"05f781f239b9c13a64c9ce65e121c772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084479,
+            "locality_id":85947335,
+            "neighbourhood_id":85823129,
+            "region_id":85688641,
+            "venue_id":840756295
+        }
+    ],
+    "wof:id":840756295,
+    "wof:lastmodified":1464047246,
+    "wof:name":"Jones Electric Inc",
+    "wof:parent_id":85823129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.41099,
+    36.925957,
+    -86.41099,
+    36.925957
+],
+  "geometry": {"coordinates":[-86.41099,36.925957],"type":"Point"}
+}

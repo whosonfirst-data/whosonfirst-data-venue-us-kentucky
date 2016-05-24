@@ -1,0 +1,72 @@
+{
+  "id": 856737035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.88532,37.730433,-85.88532,37.730433",
+    "geom:latitude":37.730433,
+    "geom:longitude":-85.88532,
+    "iso:country":"US",
+    "sg:address":"1604 N Dixie Hwy",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ky/elizabethtown/208226-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 765 2499",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85826831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KgmQXpiSV22h21TyHjIwJ_37.730433_-85.885320@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464053258,
+    "wof:geomhash":"baf62e09690d52a6b299b11506fecfee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85826831,
+            "region_id":85688641,
+            "venue_id":856737035
+        }
+    ],
+    "wof:id":856737035,
+    "wof:lastmodified":1464053258,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85826831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.88532,
+    37.730433,
+    -85.88532,
+    37.730433
+],
+  "geometry": {"coordinates":[-85.88531999999999,37.730433],"type":"Point"}
+}

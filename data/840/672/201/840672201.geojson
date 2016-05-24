@@ -1,0 +1,71 @@
+{
+  "id": 840672201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.954067,37.696963,-85.954067,37.696963",
+    "geom:latitude":37.696963,
+    "geom:longitude":-85.954067,
+    "iso:country":"US",
+    "sg:address":"4691 Saint John Rd",
+    "sg:city":"Elizabethtown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 862 5687",
+    "sg:postcode":"42701",
+    "sg:province":"KY",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947283,
+        102084595,
+        85820925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iqArWwCLtj8ngi4gBRpSu_37.696963_-85.954067@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464045368,
+    "wof:geomhash":"43457057b0aa025ed63a8528dd8d8534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084595,
+            "locality_id":85947283,
+            "neighbourhood_id":85820925,
+            "region_id":85688641,
+            "venue_id":840672201
+        }
+    ],
+    "wof:id":840672201,
+    "wof:lastmodified":1464045368,
+    "wof:name":"Independent Home Inspection",
+    "wof:parent_id":85820925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -85.954067,
+    37.696963,
+    -85.954067,
+    37.696963
+],
+  "geometry": {"coordinates":[-85.95406699999999,37.696963],"type":"Point"}
+}

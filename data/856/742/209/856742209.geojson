@@ -1,0 +1,94 @@
+{
+  "id": 856742209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.72035,38.253312,-85.72035,38.253312",
+    "geom:latitude":38.253312,
+    "geom:longitude":-85.72035,
+    "iso:country":"US",
+    "sg:address":"120 S Spring St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 584 4297",
+    "sg:postcode":"40206",
+    "sg:province":"KY",
+    "sg:tags":[
+        "liquidation",
+        "auction",
+        "estates-sales",
+        "auctioneer",
+        "appraisal",
+        "appraiser"
+    ],
+    "sg:website":"http://www.haysauction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34wpCxobVAeSeXa2oXYHVV_38.253312_-85.720350@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053465,
+    "wof:geomhash":"16de5941ee1d167eac62e9e0013a2988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873399,
+            "region_id":85688641,
+            "venue_id":856742209
+        }
+    ],
+    "wof:id":856742209,
+    "wof:lastmodified":1464053465,
+    "wof:name":"Auction Center-Hays",
+    "wof:parent_id":85873399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquidation",
+        "auction",
+        "estates-sales",
+        "auctioneer",
+        "appraisal",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.72035,
+    38.253312,
+    -85.72035,
+    38.253312
+],
+  "geometry": {"coordinates":[-85.72035,38.253312],"type":"Point"}
+}

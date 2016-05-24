@@ -1,0 +1,71 @@
+{
+  "id": 840804927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.569554,37.053461,-88.569554,37.053461",
+    "geom:latitude":37.053461,
+    "geom:longitude":-88.569554,
+    "iso:country":"US",
+    "sg:address":"3204 Irvin Cobb Dr",
+    "sg:city":"Paducah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 270 575 3700",
+    "sg:postcode":"42003",
+    "sg:province":"KY",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947249,
+        102084607,
+        85852949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PcIYlhkxXjlUOSCrNtSCr_37.053461_-88.569554@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464048298,
+    "wof:geomhash":"3d9e91883e3e15d631da651d4c49fc5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084607,
+            "locality_id":85947249,
+            "neighbourhood_id":85852949,
+            "region_id":85688641,
+            "venue_id":840804927
+        }
+    ],
+    "wof:id":840804927,
+    "wof:lastmodified":1464048298,
+    "wof:name":"Express Tan Inc",
+    "wof:parent_id":85852949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -88.569554,
+    37.053461,
+    -88.569554,
+    37.053461
+],
+  "geometry": {"coordinates":[-88.569554,37.053461],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840574443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480344,38.040951,-84.480344,38.040951",
+    "geom:latitude":38.040951,
+    "geom:longitude":-84.480344,
+    "iso:country":"US",
+    "sg:address":"239 Walton Ave",
+    "sg:city":"Lexington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 254 3030",
+    "sg:postcode":"40502",
+    "sg:province":"KY",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947137,
+        102084695,
+        85873075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YLuWQtCT1oPzIceHiCJcL_38.040951_-84.480344@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464043091,
+    "wof:geomhash":"15e7b46ba8dbc3558c913776e3146e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084695,
+            "locality_id":85947137,
+            "neighbourhood_id":85873075,
+            "region_id":85688641,
+            "venue_id":840574443
+        }
+    ],
+    "wof:id":840574443,
+    "wof:lastmodified":1464043091,
+    "wof:name":"Max Love DDS",
+    "wof:parent_id":85873075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.480344,
+    38.040951,
+    -84.480344,
+    38.040951
+],
+  "geometry": {"coordinates":[-84.480344,38.040951],"type":"Point"}
+}

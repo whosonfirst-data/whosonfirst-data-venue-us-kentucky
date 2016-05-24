@@ -1,0 +1,75 @@
+{
+  "id": 840928489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.533345,38.24124,-85.533345,38.24124",
+    "geom:latitude":38.24124,
+    "geom:longitude":-85.533345,
+    "iso:country":"US",
+    "sg:address":"300 Clarland Dr",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 245 5900",
+    "sg:postcode":"40243",
+    "sg:province":"KY",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85804041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CIsFBzS4NtVmjX5krdKcH_38.241240_-85.533345@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464051216,
+    "wof:geomhash":"4b9e389c9dd02bb8a3f68cfcedea36d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85804041,
+            "region_id":85688641,
+            "venue_id":840928489
+        }
+    ],
+    "wof:id":840928489,
+    "wof:lastmodified":1464051216,
+    "wof:name":"Middletown Manor Swim Club",
+    "wof:parent_id":85804041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -85.533345,
+    38.24124,
+    -85.533345,
+    38.24124
+],
+  "geometry": {"coordinates":[-85.533345,38.24124],"type":"Point"}
+}

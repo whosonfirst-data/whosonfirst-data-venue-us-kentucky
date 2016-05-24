@@ -1,0 +1,71 @@
+{
+  "id": 840569889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.736355,37.662905,-84.736355,37.662905",
+    "geom:latitude":37.662905,
+    "geom:longitude":-84.736355,
+    "iso:country":"US",
+    "sg:address":"505 Cardinal Ter",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 859 236 0486",
+    "sg:postcode":"40422",
+    "sg:province":"KY",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85947155,
+        102085579,
+        85805997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iF0TDxb14cev3TnrprYFU_37.662905_-84.736355@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464042981,
+    "wof:geomhash":"43f5521c0a1c845e6c89ceb7480c8511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085579,
+            "locality_id":85947155,
+            "neighbourhood_id":85805997,
+            "region_id":85688641,
+            "venue_id":840569889
+        }
+    ],
+    "wof:id":840569889,
+    "wof:lastmodified":1464042981,
+    "wof:name":"Brewsaugh Dental Lab",
+    "wof:parent_id":85805997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.736355,
+    37.662905,
+    -84.736355,
+    37.662905
+],
+  "geometry": {"coordinates":[-84.736355,37.662905],"type":"Point"}
+}

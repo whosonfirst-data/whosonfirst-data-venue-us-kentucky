@@ -1,0 +1,73 @@
+{
+  "id": 840699275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.787662,38.208664,-85.787662,38.208664",
+    "geom:latitude":38.208664,
+    "geom:longitude":-85.787662,
+    "iso:country":"US",
+    "sg:address":"2921 7th Street Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 637 7711",
+    "sg:postcode":"40216",
+    "sg:province":"KY",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947463,
+        102084449,
+        85873431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZPXevi7oEY0xl6F4SYzt3_38.208664_-85.787662@1294127441"
+    },
+    "wof:country":"US",
+    "wof:created":1464046071,
+    "wof:geomhash":"7b549b1f6c21812ef080f92dd8e8743a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947463,
+            "neighbourhood_id":85873431,
+            "region_id":85688641,
+            "venue_id":840699275
+        }
+    ],
+    "wof:id":840699275,
+    "wof:lastmodified":1464046071,
+    "wof:name":"South End Veterinary Clinic",
+    "wof:parent_id":85873431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.787662,
+    38.208664,
+    -85.787662,
+    38.208664
+],
+  "geometry": {"coordinates":[-85.787662,38.208664],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 856740421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.768341,38.247131,-85.768341,38.247131",
+    "geom:latitude":38.247131,
+    "geom:longitude":-85.768341,
+    "iso:country":"US",
+    "sg:address":"1001 W Broadway",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 502 583 2427",
+    "sg:postcode":"40203",
+    "sg:province":"KY",
+    "sg:tags":[
+        "planning",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        102191575,
+        85633793,
+        85947523,
+        102084449,
+        85873381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BpZXPsWQV53UE3GSihPLP_38.247131_-85.768341@1303262746"
+    },
+    "wof:country":"US",
+    "wof:created":1464053404,
+    "wof:geomhash":"649b7a66cd92026d99e3cade5b19107c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084449,
+            "locality_id":85947523,
+            "neighbourhood_id":85873381,
+            "region_id":85688641,
+            "venue_id":856740421
+        }
+    ],
+    "wof:id":856740421,
+    "wof:lastmodified":1464053404,
+    "wof:name":"Uniquely Yours Floral & Gifts",
+    "wof:parent_id":85873381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -85.768341,
+    38.247131,
+    -85.768341,
+    38.247131
+],
+  "geometry": {"coordinates":[-85.76834100000001,38.247131],"type":"Point"}
+}
