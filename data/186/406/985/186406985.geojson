@@ -2,13 +2,14 @@
   "id": 186406985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.443337,39.118333,-84.443337,39.118333",
     "geom:latitude":39.118333,
     "geom:longitude":-84.443337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3251 Eastern Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186406985,
-    "wof:lastmodified":1449051815,
+    "wof:lastmodified":1466530043,
     "wof:name":"Davidson Construction Co",
     "wof:parent_id":85873123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [-84.443337,39.118333,-84.443337,39.118333],
+  "bbox": [
+    -84.443337,
+    39.118333,
+    -84.443337,
+    39.118333
+],
   "geometry": {"coordinates":[-84.443337,39.118333],"type":"Point"}
 }

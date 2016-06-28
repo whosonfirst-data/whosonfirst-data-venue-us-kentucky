@@ -2,13 +2,14 @@
   "id": 169680305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.463619,37.972177,-85.463619,37.972177",
     "geom:latitude":37.972177,
     "geom:longitude":-85.463619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Highgrove Rd",
     "sg:city":"Coxs Creek",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169680305,
-    "wof:lastmodified":1449034996,
+    "wof:lastmodified":1466530005,
     "wof:name":"Hwy 48 Farm Equipment Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.463619,37.972177,-85.463619,37.972177],
-  "geometry": {"coordinates":[-85.463619,37.972177],"type":"Point"}
+  "bbox": [
+    -85.463619,
+    37.972177,
+    -85.463619,
+    37.972177
+],
+  "geometry": {"coordinates":[-85.46361899999999,37.972177],"type":"Point"}
 }

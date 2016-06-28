@@ -2,13 +2,14 @@
   "id": 185831977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.439959,39.116957,-84.439959,39.116957",
     "geom:latitude":39.116957,
     "geom:longitude":-84.439959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3310 Walworth Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185831977,
-    "wof:lastmodified":1449007558,
+    "wof:lastmodified":1466530025,
     "wof:name":"Vernon F Jones",
     "wof:parent_id":85873123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-84.439959,39.116957,-84.439959,39.116957],
+  "bbox": [
+    -84.439959,
+    39.116957,
+    -84.439959,
+    39.116957
+],
   "geometry": {"coordinates":[-84.439959,39.116957],"type":"Point"}
 }

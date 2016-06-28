@@ -2,13 +2,14 @@
   "id": 169684725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.174033,38.000726,-86.174033,38.000726",
     "geom:latitude":38.000726,
     "geom:longitude":-86.174033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Fairway Dr",
     "sg:city":"Brandenburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169684725,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1466530009,
     "wof:name":"Brandenburg Apartments LTD",
     "wof:parent_id":85817175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-86.174033,38.000726,-86.174033,38.000726],
-  "geometry": {"coordinates":[-86.174033,38.000726],"type":"Point"}
+  "bbox": [
+    -86.174033,
+    38.000726,
+    -86.174033,
+    38.000726
+],
+  "geometry": {"coordinates":[-86.17403299999999,38.000726],"type":"Point"}
 }

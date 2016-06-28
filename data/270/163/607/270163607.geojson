@@ -2,13 +2,14 @@
   "id": 270163607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.476382,39.124699,-84.476382,39.124699",
     "geom:latitude":39.124699,
     "geom:longitude":-84.476382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 E McMillan St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270163607,
-    "wof:lastmodified":1449011082,
+    "wof:lastmodified":1466536762,
     "wof:name":"Husman House Condo Owners Assn",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "condominium"
     ]
 },
-  "bbox": [-84.476382,39.124699,-84.476382,39.124699],
+  "bbox": [
+    -84.476382,
+    39.124699,
+    -84.476382,
+    39.124699
+],
   "geometry": {"coordinates":[-84.476382,39.124699],"type":"Point"}
 }

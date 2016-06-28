@@ -2,13 +2,14 @@
   "id": 270517421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.569205,38.523346,-82.569205,38.523346",
     "geom:latitude":38.523346,
     "geom:longitude":-82.569205,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Co Rd 6",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270517421,
-    "wof:lastmodified":1449010057,
+    "wof:lastmodified":1466536763,
     "wof:name":"P & M Crafts & Things",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-82.569205,38.523346,-82.569205,38.523346],
+  "bbox": [
+    -82.569205,
+    38.523346,
+    -82.569205,
+    38.523346
+],
   "geometry": {"coordinates":[-82.569205,38.523346],"type":"Point"}
 }

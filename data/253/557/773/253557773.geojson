@@ -2,13 +2,14 @@
   "id": 253557773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679902,38.537106,-82.679902,38.537106",
     "geom:latitude":38.537106,
     "geom:longitude":-82.679902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Park Ave",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253557773,
-    "wof:lastmodified":1449064943,
+    "wof:lastmodified":1466536757,
     "wof:name":"Park Avenue Drive-Thru",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-82.679902,38.537106,-82.679902,38.537106],
+  "bbox": [
+    -82.679902,
+    38.537106,
+    -82.679902,
+    38.537106
+],
   "geometry": {"coordinates":[-82.679902,38.537106],"type":"Point"}
 }

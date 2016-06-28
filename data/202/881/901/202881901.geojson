@@ -2,13 +2,14 @@
   "id": 202881901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.663122,38.516934,-82.663122,38.516934",
     "geom:latitude":38.516934,
     "geom:longitude":-82.663122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 S 8th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202881901,
-    "wof:lastmodified":1449061584,
+    "wof:lastmodified":1466530032,
     "wof:name":"Southside Beauty Salon",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.663122,38.516934,-82.663122,38.516934],
+  "bbox": [
+    -82.663122,
+    38.516934,
+    -82.663122,
+    38.516934
+],
   "geometry": {"coordinates":[-82.663122,38.516934],"type":"Point"}
 }

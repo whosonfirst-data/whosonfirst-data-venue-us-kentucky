@@ -2,13 +2,14 @@
   "id": 185818583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.681253,38.610554,-82.681253,38.610554",
     "geom:latitude":38.610554,
     "geom:longitude":-82.681253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1059 Co Rd 26",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185818583,
-    "wof:lastmodified":1449007412,
+    "wof:lastmodified":1466530024,
     "wof:name":"St Mary's Of Pine Grove",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.681253,38.610554,-82.681253,38.610554],
+  "bbox": [
+    -82.681253,
+    38.610554,
+    -82.681253,
+    38.610554
+],
   "geometry": {"coordinates":[-82.681253,38.610554],"type":"Point"}
 }

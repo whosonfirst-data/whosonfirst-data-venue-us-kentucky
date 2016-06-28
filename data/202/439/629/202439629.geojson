@@ -2,13 +2,14 @@
   "id": 202439629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.657372,38.516767,-82.657372,38.516767",
     "geom:latitude":38.516767,
     "geom:longitude":-82.657372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2602 S 12th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202439629,
-    "wof:lastmodified":1449060822,
+    "wof:lastmodified":1466530011,
     "wof:name":"John C Paholsky",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-82.657372,38.516767,-82.657372,38.516767],
+  "bbox": [
+    -82.657372,
+    38.516767,
+    -82.657372,
+    38.516767
+],
   "geometry": {"coordinates":[-82.657372,38.516767],"type":"Point"}
 }

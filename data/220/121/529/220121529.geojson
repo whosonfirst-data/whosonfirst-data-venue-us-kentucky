@@ -2,13 +2,14 @@
   "id": 220121529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.716859,38.555212,-82.716859,38.555212",
     "geom:latitude":38.555212,
     "geom:longitude":-82.716859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2500 N 2nd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220121529,
-    "wof:lastmodified":1449074660,
+    "wof:lastmodified":1466536701,
     "wof:name":"International Salt Co LLC",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salt"
     ]
 },
-  "bbox": [-82.716859,38.555212,-82.716859,38.555212],
+  "bbox": [
+    -82.716859,
+    38.555212,
+    -82.716859,
+    38.555212
+],
   "geometry": {"coordinates":[-82.716859,38.555212],"type":"Point"}
 }

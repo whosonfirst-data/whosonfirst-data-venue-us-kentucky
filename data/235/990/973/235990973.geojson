@@ -2,13 +2,14 @@
   "id": 235990973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.682179,38.52823,-82.682179,38.52823",
     "geom:latitude":38.52823,
     "geom:longitude":-82.682179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 S 1st St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235990973,
-    "wof:lastmodified":1449008467,
+    "wof:lastmodified":1466530038,
     "wof:name":"Elite Machine & Fabricating",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.682179,38.52823,-82.682179,38.52823],
+  "bbox": [
+    -82.682179,
+    38.52823,
+    -82.682179,
+    38.52823
+],
   "geometry": {"coordinates":[-82.682179,38.52823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403841897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.03826,36.413078,-89.03826,36.413078",
     "geom:latitude":36.413078,
     "geom:longitude":-89.03826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 E Reelfoot Ave",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403841897,
-    "wof:lastmodified":1449054920,
+    "wof:lastmodified":1466536770,
     "wof:name":"Hall James C MD Facc",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-89.03826,36.413078,-89.03826,36.413078],
-  "geometry": {"coordinates":[-89.03826,36.413078],"type":"Point"}
+  "bbox": [
+    -89.03826,
+    36.413078,
+    -89.03826,
+    36.413078
+],
+  "geometry": {"coordinates":[-89.03825999999999,36.413078],"type":"Point"}
 }

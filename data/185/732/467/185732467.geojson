@@ -2,13 +2,14 @@
   "id": 185732467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.637221,38.578289,-82.637221,38.578289",
     "geom:latitude":38.578289,
     "geom:longitude":-82.637221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4282 State Rte 93",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185732467,
-    "wof:lastmodified":1449008276,
+    "wof:lastmodified":1466530015,
     "wof:name":"Iron Rock",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pain"
     ]
 },
-  "bbox": [-82.637221,38.578289,-82.637221,38.578289],
+  "bbox": [
+    -82.637221,
+    38.578289,
+    -82.637221,
+    38.578289
+],
   "geometry": {"coordinates":[-82.637221,38.578289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337339717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.662316,38.522596,-82.662316,38.522596",
     "geom:latitude":38.522596,
     "geom:longitude":-82.662316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2110 S 12th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337339717,
-    "wof:lastmodified":1449027300,
+    "wof:lastmodified":1466536767,
     "wof:name":"Brown Amusement",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.662316,38.522596,-82.662316,38.522596],
+  "bbox": [
+    -82.662316,
+    38.522596,
+    -82.662316,
+    38.522596
+],
   "geometry": {"coordinates":[-82.662316,38.522596],"type":"Point"}
 }

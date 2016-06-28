@@ -2,13 +2,14 @@
   "id": 169680255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.604554,38.29854,-85.604554,38.29854",
     "geom:latitude":38.29854,
     "geom:longitude":-85.604554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Barbour Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169680255,
-    "wof:lastmodified":1449034996,
+    "wof:lastmodified":1466530005,
     "wof:name":"Richard Wahl Illustration",
     "wof:parent_id":85833853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-85.604554,38.29854,-85.604554,38.29854],
-  "geometry": {"coordinates":[-85.604554,38.29854],"type":"Point"}
+  "bbox": [
+    -85.604554,
+    38.29854,
+    -85.604554,
+    38.29854
+],
+  "geometry": {"coordinates":[-85.60455399999999,38.29854],"type":"Point"}
 }

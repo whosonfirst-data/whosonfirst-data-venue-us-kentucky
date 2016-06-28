@@ -2,13 +2,14 @@
   "id": 236579885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.656744,38.501159,-82.656744,38.501159",
     "geom:latitude":38.501159,
     "geom:longitude":-82.656744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3626 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236579885,
-    "wof:lastmodified":1449002544,
+    "wof:lastmodified":1466536747,
     "wof:name":"Neals Automotive",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-82.656744,38.501159,-82.656744,38.501159],
+  "bbox": [
+    -82.656744,
+    38.501159,
+    -82.656744,
+    38.501159
+],
   "geometry": {"coordinates":[-82.656744,38.501159],"type":"Point"}
 }

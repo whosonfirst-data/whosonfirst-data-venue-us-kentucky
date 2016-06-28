@@ -2,13 +2,14 @@
   "id": 269689475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.619095,39.084408,-84.619095,39.084408",
     "geom:latitude":39.084408,
     "geom:longitude":-84.619095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Palisades Pt",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269689475,
-    "wof:lastmodified":1449038443,
+    "wof:lastmodified":1466536759,
     "wof:name":"Palisade Pointe Condominium",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "condominium"
     ]
 },
-  "bbox": [-84.619095,39.084408,-84.619095,39.084408],
+  "bbox": [
+    -84.619095,
+    39.084408,
+    -84.619095,
+    39.084408
+],
   "geometry": {"coordinates":[-84.619095,39.084408],"type":"Point"}
 }

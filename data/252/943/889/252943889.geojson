@@ -2,13 +2,14 @@
   "id": 252943889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.659065,38.518863,-82.659065,38.518863",
     "geom:latitude":38.518863,
     "geom:longitude":-82.659065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 S 12th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":252943889,
-    "wof:lastmodified":1449005706,
+    "wof:lastmodified":1466536733,
     "wof:name":"Ohio Valley Properties",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.659065,38.518863,-82.659065,38.518863],
+  "bbox": [
+    -82.659065,
+    38.518863,
+    -82.659065,
+    38.518863
+],
   "geometry": {"coordinates":[-82.659065,38.518863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287057827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679297,38.527438,-82.679297,38.527438",
     "geom:latitude":38.527438,
     "geom:longitude":-82.679297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287057827,
-    "wof:lastmodified":1449001098,
+    "wof:lastmodified":1466536766,
     "wof:name":"Harmon Motor Sales Inc",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.679297,38.527438,-82.679297,38.527438],
-  "geometry": {"coordinates":[-82.679297,38.527438],"type":"Point"}
+  "bbox": [
+    -82.679297,
+    38.527438,
+    -82.679297,
+    38.527438
+],
+  "geometry": {"coordinates":[-82.67929700000001,38.527438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286458035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.695961,38.60938,-82.695961,38.60938",
     "geom:latitude":38.60938,
     "geom:longitude":-82.695961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Co Rd 26",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286458035,
-    "wof:lastmodified":1449017280,
+    "wof:lastmodified":1466536768,
     "wof:name":"Pine Grove Freewill Baptist Ch",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.695961,38.60938,-82.695961,38.60938],
+  "bbox": [
+    -82.695961,
+    38.60938,
+    -82.695961,
+    38.60938
+],
   "geometry": {"coordinates":[-82.695961,38.60938],"type":"Point"}
 }

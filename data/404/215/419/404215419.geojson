@@ -2,13 +2,14 @@
   "id": 404215419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.049107,36.360637,-89.049107,36.360637",
     "geom:latitude":36.360637,
     "geom:longitude":-89.049107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"676 N Church Dr",
     "sg:city":"Rives",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404215419,
-    "wof:lastmodified":1449040094,
+    "wof:lastmodified":1466536774,
     "wof:name":"C & C Janitorial Service",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.049107,36.360637,-89.049107,36.360637],
-  "geometry": {"coordinates":[-89.049107,36.360637],"type":"Point"}
+  "bbox": [
+    -89.049107,
+    36.360637,
+    -89.049107,
+    36.360637
+],
+  "geometry": {"coordinates":[-89.04910700000001,36.360637],"type":"Point"}
 }

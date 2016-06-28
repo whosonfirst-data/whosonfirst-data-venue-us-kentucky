@@ -2,13 +2,14 @@
   "id": 286676963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.646306,38.501712,-82.646306,38.501712",
     "geom:latitude":38.501712,
     "geom:longitude":-82.646306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Marion Pike",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286676963,
-    "wof:lastmodified":1449017071,
+    "wof:lastmodified":1466536768,
     "wof:name":"Dawson-Bryant High School",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.646306,38.501712,-82.646306,38.501712],
+  "bbox": [
+    -82.646306,
+    38.501712,
+    -82.646306,
+    38.501712
+],
   "geometry": {"coordinates":[-82.646306,38.501712],"type":"Point"}
 }

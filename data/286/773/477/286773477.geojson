@@ -2,13 +2,14 @@
   "id": 286773477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.618115,39.095369,-84.618115,39.095369",
     "geom:latitude":39.095369,
     "geom:longitude":-84.618115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Anderson Ferry Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286773477,
-    "wof:lastmodified":1449015544,
+    "wof:lastmodified":1466536769,
     "wof:name":"National Head Injury Foundatn",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.618115,39.095369,-84.618115,39.095369],
+  "bbox": [
+    -84.618115,
+    39.095369,
+    -84.618115,
+    39.095369
+],
   "geometry": {"coordinates":[-84.618115,39.095369],"type":"Point"}
 }

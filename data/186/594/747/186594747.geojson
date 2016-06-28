@@ -2,13 +2,14 @@
   "id": 186594747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.647981,38.501716,-82.647981,38.501716",
     "geom:latitude":38.501716,
     "geom:longitude":-82.647981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Marion Pike",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186594747,
-    "wof:lastmodified":1449050725,
+    "wof:lastmodified":1466530045,
     "wof:name":"Diagnostics Imaging LLC",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.647981,38.501716,-82.647981,38.501716],
+  "bbox": [
+    -82.647981,
+    38.501716,
+    -82.647981,
+    38.501716
+],
   "geometry": {"coordinates":[-82.647981,38.501716],"type":"Point"}
 }

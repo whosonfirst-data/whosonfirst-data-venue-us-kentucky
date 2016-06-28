@@ -2,13 +2,14 @@
   "id": 219451043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.676694,38.529915,-82.676694,38.529915",
     "geom:latitude":38.529915,
     "geom:longitude":-82.676694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 S 6th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219451043,
-    "wof:lastmodified":1449071932,
+    "wof:lastmodified":1466530036,
     "wof:name":"St Joseph School",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "religious"
     ]
 },
-  "bbox": [-82.676694,38.529915,-82.676694,38.529915],
+  "bbox": [
+    -82.676694,
+    38.529915,
+    -82.676694,
+    38.529915
+],
   "geometry": {"coordinates":[-82.676694,38.529915],"type":"Point"}
 }

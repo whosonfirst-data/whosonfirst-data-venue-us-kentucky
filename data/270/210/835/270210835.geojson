@@ -2,13 +2,14 @@
   "id": 270210835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648822,38.501404,-82.648822,38.501404",
     "geom:latitude":38.501404,
     "geom:longitude":-82.648822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Marion Pike",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270210835,
-    "wof:lastmodified":1449009463,
+    "wof:lastmodified":1466536762,
     "wof:name":"Wades Work & Western Wear",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.648822,38.501404,-82.648822,38.501404],
+  "bbox": [
+    -82.648822,
+    38.501404,
+    -82.648822,
+    38.501404
+],
   "geometry": {"coordinates":[-82.648822,38.501404],"type":"Point"}
 }

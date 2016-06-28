@@ -2,13 +2,14 @@
   "id": 403850631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.990521,36.450483,-88.990521,36.450483",
     "geom:latitude":36.450483,
     "geom:longitude":-88.990521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3850 Ken Tenn Hwy",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403850631,
-    "wof:lastmodified":1449055403,
+    "wof:lastmodified":1466536770,
     "wof:name":"Gaines Upholstery",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"
     ]
 },
-  "bbox": [-88.990521,36.450483,-88.990521,36.450483],
+  "bbox": [
+    -88.990521,
+    36.450483,
+    -88.990521,
+    36.450483
+],
   "geometry": {"coordinates":[-88.990521,36.450483],"type":"Point"}
 }

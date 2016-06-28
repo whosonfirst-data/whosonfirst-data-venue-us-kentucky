@@ -2,13 +2,14 @@
   "id": 252737557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.476425,39.132827,-84.476425,39.132827",
     "geom:latitude":39.132827,
     "geom:longitude":-84.476425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3032 Woodburn Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252737557,
-    "wof:lastmodified":1449005673,
+    "wof:lastmodified":1466536714,
     "wof:name":"Dunamis Life Worldwide",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.476425,39.132827,-84.476425,39.132827],
-  "geometry": {"coordinates":[-84.476425,39.132827],"type":"Point"}
+  "bbox": [
+    -84.476425,
+    39.132827,
+    -84.476425,
+    39.132827
+],
+  "geometry": {"coordinates":[-84.47642500000001,39.132827],"type":"Point"}
 }

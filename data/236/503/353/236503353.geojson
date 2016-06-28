@@ -2,13 +2,14 @@
   "id": 236503353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.673959,38.53009,-82.673959,38.53009",
     "geom:latitude":38.53009,
     "geom:longitude":-82.673959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 S 8th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236503353,
-    "wof:lastmodified":1449005259,
+    "wof:lastmodified":1466536745,
     "wof:name":"Smittys",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-82.673959,38.53009,-82.673959,38.53009],
+  "bbox": [
+    -82.673959,
+    38.53009,
+    -82.673959,
+    38.53009
+],
   "geometry": {"coordinates":[-82.673959,38.53009],"type":"Point"}
 }

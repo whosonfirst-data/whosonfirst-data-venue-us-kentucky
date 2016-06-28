@@ -2,13 +2,14 @@
   "id": 269692369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.694116,38.595976,-82.694116,38.595976",
     "geom:latitude":38.595976,
     "geom:longitude":-82.694116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 State Rte 650",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269692369,
-    "wof:lastmodified":1449036798,
+    "wof:lastmodified":1466536759,
     "wof:name":"Hughes Carry Out",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "out"
     ]
 },
-  "bbox": [-82.694116,38.595976,-82.694116,38.595976],
-  "geometry": {"coordinates":[-82.694116,38.595976],"type":"Point"}
+  "bbox": [
+    -82.694116,
+    38.595976,
+    -82.694116,
+    38.595976
+],
+  "geometry": {"coordinates":[-82.69411599999999,38.595976],"type":"Point"}
 }

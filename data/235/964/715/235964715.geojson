@@ -2,13 +2,14 @@
   "id": 235964715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.615217,38.496048,-82.615217,38.496048",
     "geom:latitude":38.496048,
     "geom:longitude":-82.615217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2483 State Rte 243",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":235964715,
-    "wof:lastmodified":1449008517,
+    "wof:lastmodified":1466530028,
     "wof:name":"243 Pit Stop",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.615217,38.496048,-82.615217,38.496048],
+  "bbox": [
+    -82.615217,
+    38.496048,
+    -82.615217,
+    38.496048
+],
   "geometry": {"coordinates":[-82.615217,38.496048],"type":"Point"}
 }

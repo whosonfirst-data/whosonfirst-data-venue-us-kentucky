@@ -2,13 +2,14 @@
   "id": 252769413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.663735,38.509126,-82.663735,38.509126",
     "geom:latitude":38.509126,
     "geom:longitude":-82.663735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252769413,
-    "wof:lastmodified":1449005762,
+    "wof:lastmodified":1466536728,
     "wof:name":"America Lube",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-82.663735,38.509126,-82.663735,38.509126],
+  "bbox": [
+    -82.663735,
+    38.509126,
+    -82.663735,
+    38.509126
+],
   "geometry": {"coordinates":[-82.663735,38.509126],"type":"Point"}
 }

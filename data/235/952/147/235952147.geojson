@@ -2,13 +2,14 @@
   "id": 235952147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.721819,38.663777,-82.721819,38.663777",
     "geom:latitude":38.663777,
     "geom:longitude":-82.721819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2895 State Rte 522",
     "sg:city":"Pedro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235952147,
-    "wof:lastmodified":1449008497,
+    "wof:lastmodified":1466530027,
     "wof:name":"Michael Cline",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-82.721819,38.663777,-82.721819,38.663777],
+  "bbox": [
+    -82.721819,
+    38.663777,
+    -82.721819,
+    38.663777
+],
   "geometry": {"coordinates":[-82.721819,38.663777],"type":"Point"}
 }

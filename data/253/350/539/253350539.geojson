@@ -2,13 +2,14 @@
   "id": 253350539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.685089,38.534752,-82.685089,38.534752",
     "geom:latitude":38.534752,
     "geom:longitude":-82.685089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253350539,
-    "wof:lastmodified":1449064334,
+    "wof:lastmodified":1466536756,
     "wof:name":"Grandview Food & Drug Outlet",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.685089,38.534752,-82.685089,38.534752],
+  "bbox": [
+    -82.685089,
+    38.534752,
+    -82.685089,
+    38.534752
+],
   "geometry": {"coordinates":[-82.685089,38.534752],"type":"Point"}
 }

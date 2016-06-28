@@ -2,13 +2,14 @@
   "id": 252732059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.686584,38.536091,-82.686584,38.536091",
     "geom:latitude":38.536091,
     "geom:longitude":-82.686584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 N 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252732059,
-    "wof:lastmodified":1449006554,
+    "wof:lastmodified":1466536713,
     "wof:name":"Butler Insurance Agency",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.686584,38.536091,-82.686584,38.536091],
+  "bbox": [
+    -82.686584,
+    38.536091,
+    -82.686584,
+    38.536091
+],
   "geometry": {"coordinates":[-82.686584,38.536091],"type":"Point"}
 }

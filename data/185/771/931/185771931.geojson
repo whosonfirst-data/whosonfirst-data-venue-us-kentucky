@@ -2,13 +2,14 @@
   "id": 185771931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.677577,38.529423,-82.677577,38.529423",
     "geom:latitude":38.529423,
     "geom:longitude":-82.677577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"905 S 5th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185771931,
-    "wof:lastmodified":1449007485,
+    "wof:lastmodified":1466530015,
     "wof:name":"St Joseph Church",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.677577,38.529423,-82.677577,38.529423],
+  "bbox": [
+    -82.677577,
+    38.529423,
+    -82.677577,
+    38.529423
+],
   "geometry": {"coordinates":[-82.677577,38.529423],"type":"Point"}
 }

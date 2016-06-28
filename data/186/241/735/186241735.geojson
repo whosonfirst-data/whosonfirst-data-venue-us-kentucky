@@ -2,13 +2,14 @@
   "id": 186241735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.591888,38.514844,-82.591888,38.514844",
     "geom:latitude":38.514844,
     "geom:longitude":-82.591888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Pvt Drive 338",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186241735,
-    "wof:lastmodified":1449052968,
+    "wof:lastmodified":1466530040,
     "wof:name":"Rowe Gas & Equipment",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-82.591888,38.514844,-82.591888,38.514844],
+  "bbox": [
+    -82.591888,
+    38.514844,
+    -82.591888,
+    38.514844
+],
   "geometry": {"coordinates":[-82.591888,38.514844],"type":"Point"}
 }

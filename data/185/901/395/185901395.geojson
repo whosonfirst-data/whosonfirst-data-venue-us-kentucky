@@ -2,13 +2,14 @@
   "id": 185901395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.682626,38.537122,-82.682626,38.537122",
     "geom:latitude":38.537122,
     "geom:longitude":-82.682626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Center St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185901395,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1466530026,
     "wof:name":"Wayne Young",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-82.682626,38.537122,-82.682626,38.537122],
+  "bbox": [
+    -82.682626,
+    38.537122,
+    -82.682626,
+    38.537122
+],
   "geometry": {"coordinates":[-82.682626,38.537122],"type":"Point"}
 }

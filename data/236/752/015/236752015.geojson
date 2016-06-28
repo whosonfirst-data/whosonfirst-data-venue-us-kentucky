@@ -2,13 +2,14 @@
   "id": 236752015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.620108,39.080562,-84.620108,39.080562",
     "geom:latitude":39.080562,
     "geom:longitude":-84.620108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Anderson Ferry Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236752015,
-    "wof:lastmodified":1449002089,
+    "wof:lastmodified":1466536748,
     "wof:name":"Ted The Tileman",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.620108,39.080562,-84.620108,39.080562],
+  "bbox": [
+    -84.620108,
+    39.080562,
+    -84.620108,
+    39.080562
+],
   "geometry": {"coordinates":[-84.620108,39.080562],"type":"Point"}
 }

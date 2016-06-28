@@ -2,13 +2,14 @@
   "id": 270307195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.619183,39.100514,-84.619183,39.100514",
     "geom:latitude":39.100514,
     "geom:longitude":-84.619183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5320 Romance Ln",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270307195,
-    "wof:lastmodified":1449009255,
+    "wof:lastmodified":1466536762,
     "wof:name":"AWS Construction",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.619183,39.100514,-84.619183,39.100514],
-  "geometry": {"coordinates":[-84.619183,39.100514],"type":"Point"}
+  "bbox": [
+    -84.619183,
+    39.100514,
+    -84.619183,
+    39.100514
+],
+  "geometry": {"coordinates":[-84.61918300000001,39.100514],"type":"Point"}
 }

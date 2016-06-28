@@ -2,13 +2,14 @@
   "id": 286572547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.683601,38.536626,-82.683601,38.536626",
     "geom:latitude":38.536626,
     "geom:longitude":-82.683601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Center St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286572547,
-    "wof:lastmodified":1449017004,
+    "wof:lastmodified":1466536768,
     "wof:name":"Charles Cooper",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.683601,38.536626,-82.683601,38.536626],
+  "bbox": [
+    -82.683601,
+    38.536626,
+    -82.683601,
+    38.536626
+],
   "geometry": {"coordinates":[-82.683601,38.536626],"type":"Point"}
 }

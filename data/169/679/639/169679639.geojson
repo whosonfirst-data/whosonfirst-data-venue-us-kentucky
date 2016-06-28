@@ -2,13 +2,14 @@
   "id": 169679639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.73792,38.222158,-85.73792,38.222158",
     "geom:latitude":38.222158,
     "geom:longitude":-85.73792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1137 E Burnett Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169679639,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466530004,
     "wof:name":"Germantown Marathon",
     "wof:parent_id":85873427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-85.73792,38.222158,-85.73792,38.222158],
+  "bbox": [
+    -85.73792,
+    38.222158,
+    -85.73792,
+    38.222158
+],
   "geometry": {"coordinates":[-85.73792,38.222158],"type":"Point"}
 }

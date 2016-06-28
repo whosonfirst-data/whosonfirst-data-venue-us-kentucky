@@ -2,13 +2,14 @@
   "id": 169684565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.405894,36.914306,-86.405894,36.914306",
     "geom:latitude":36.914306,
     "geom:longitude":-86.405894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5993 Scottsville Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169684565,
-    "wof:lastmodified":1449033511,
+    "wof:lastmodified":1466530008,
     "wof:name":"Richard Zajac MD",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.405894,36.914306,-86.405894,36.914306],
+  "bbox": [
+    -86.405894,
+    36.914306,
+    -86.405894,
+    36.914306
+],
   "geometry": {"coordinates":[-86.405894,36.914306],"type":"Point"}
 }

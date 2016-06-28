@@ -2,13 +2,14 @@
   "id": 270382487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.643837,38.691242,-82.643837,38.691242",
     "geom:latitude":38.691242,
     "geom:longitude":-82.643837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 State Rte 373",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270382487,
-    "wof:lastmodified":1449009263,
+    "wof:lastmodified":1466536762,
     "wof:name":"William Mcfann",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-82.643837,38.691242,-82.643837,38.691242],
+  "bbox": [
+    -82.643837,
+    38.691242,
+    -82.643837,
+    38.691242
+],
   "geometry": {"coordinates":[-82.643837,38.691242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286381927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.683088,38.534598,-82.683088,38.534598",
     "geom:latitude":38.534598,
     "geom:longitude":-82.683088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 Vernon St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286381927,
-    "wof:lastmodified":1449015423,
+    "wof:lastmodified":1466536767,
     "wof:name":"Kings Daughters",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-82.683088,38.534598,-82.683088,38.534598],
+  "bbox": [
+    -82.683088,
+    38.534598,
+    -82.683088,
+    38.534598
+],
   "geometry": {"coordinates":[-82.683088,38.534598],"type":"Point"}
 }

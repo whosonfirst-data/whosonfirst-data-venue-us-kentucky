@@ -2,13 +2,14 @@
   "id": 203369369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.669793,38.523312,-82.669793,38.523312",
     "geom:latitude":38.523312,
     "geom:longitude":-82.669793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 S 7th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203369369,
-    "wof:lastmodified":1449026783,
+    "wof:lastmodified":1466536706,
     "wof:name":"Clear Channel Radio",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-82.669793,38.523312,-82.669793,38.523312],
+  "bbox": [
+    -82.669793,
+    38.523312,
+    -82.669793,
+    38.523312
+],
   "geometry": {"coordinates":[-82.669793,38.523312],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186255041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.672328,38.52462,-82.672328,38.52462",
     "geom:latitude":38.52462,
     "geom:longitude":-82.672328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 S 6th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186255041,
-    "wof:lastmodified":1449051587,
+    "wof:lastmodified":1466530040,
     "wof:name":"Weber's Florists & Gifts",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.672328,38.52462,-82.672328,38.52462],
-  "geometry": {"coordinates":[-82.672328,38.52462],"type":"Point"}
+  "bbox": [
+    -82.672328,
+    38.52462,
+    -82.672328,
+    38.52462
+],
+  "geometry": {"coordinates":[-82.67232799999999,38.52462],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186608797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.671461,38.517939,-82.671461,38.517939",
     "geom:latitude":38.517939,
     "geom:longitude":-82.671461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186608797,
-    "wof:lastmodified":1449051521,
+    "wof:lastmodified":1466530045,
     "wof:name":"Kaycee Club Of Ohio",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-82.671461,38.517939,-82.671461,38.517939],
-  "geometry": {"coordinates":[-82.671461,38.517939],"type":"Point"}
+  "bbox": [
+    -82.671461,
+    38.517939,
+    -82.671461,
+    38.517939
+],
+  "geometry": {"coordinates":[-82.67146099999999,38.517939],"type":"Point"}
 }

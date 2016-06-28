@@ -2,13 +2,14 @@
   "id": 219402157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.683915,38.53522,-82.683915,38.53522",
     "geom:latitude":38.53522,
     "geom:longitude":-82.683915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S 4th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219402157,
-    "wof:lastmodified":1449071530,
+    "wof:lastmodified":1466530036,
     "wof:name":"Rite-Way Tax Svc",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.683915,38.53522,-82.683915,38.53522],
+  "bbox": [
+    -82.683915,
+    38.53522,
+    -82.683915,
+    38.53522
+],
   "geometry": {"coordinates":[-82.683915,38.53522],"type":"Point"}
 }

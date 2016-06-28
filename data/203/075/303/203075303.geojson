@@ -2,13 +2,14 @@
   "id": 203075303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.441462,39.11546,-84.441462,39.11546",
     "geom:latitude":39.11546,
     "geom:longitude":-84.441462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Delta Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203075303,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1466530048,
     "wof:name":"Bill's Painting & Carpentry",
     "wof:parent_id":85873123,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-84.441462,39.11546,-84.441462,39.11546],
+  "bbox": [
+    -84.441462,
+    39.11546,
+    -84.441462,
+    39.11546
+],
   "geometry": {"coordinates":[-84.441462,39.11546],"type":"Point"}
 }

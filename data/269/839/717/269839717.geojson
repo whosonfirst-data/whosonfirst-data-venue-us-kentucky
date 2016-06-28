@@ -2,13 +2,14 @@
   "id": 269839717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.643104,39.097428,-84.643104,39.097428",
     "geom:latitude":39.097428,
     "geom:longitude":-84.643104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6004 Bender Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":269839717,
-    "wof:lastmodified":1449037595,
+    "wof:lastmodified":1466536760,
     "wof:name":"Roell Brothers Construction",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.643104,39.097428,-84.643104,39.097428],
-  "geometry": {"coordinates":[-84.643104,39.097428],"type":"Point"}
+  "bbox": [
+    -84.643104,
+    39.097428,
+    -84.643104,
+    39.097428
+],
+  "geometry": {"coordinates":[-84.64310399999999,39.097428],"type":"Point"}
 }

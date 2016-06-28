@@ -2,13 +2,14 @@
   "id": 236244563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.646627,39.09157,-84.646627,39.09157",
     "geom:latitude":39.09157,
     "geom:longitude":-84.646627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5376 River Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236244563,
-    "wof:lastmodified":1449002870,
+    "wof:lastmodified":1466536741,
     "wof:name":"South Bend Union Church",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.646627,39.09157,-84.646627,39.09157],
+  "bbox": [
+    -84.646627,
+    39.09157,
+    -84.646627,
+    39.09157
+],
   "geometry": {"coordinates":[-84.646627,39.09157],"type":"Point"}
 }

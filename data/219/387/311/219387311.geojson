@@ -2,13 +2,14 @@
   "id": 219387311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.669295,38.515555,-82.669295,38.515555",
     "geom:latitude":38.515555,
     "geom:longitude":-82.669295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219387311,
-    "wof:lastmodified":1449073435,
+    "wof:lastmodified":1466530035,
     "wof:name":"Bragg's Ashland Mart Inc",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-82.669295,38.515555,-82.669295,38.515555],
-  "geometry": {"coordinates":[-82.669295,38.515555],"type":"Point"}
+  "bbox": [
+    -82.669295,
+    38.515555,
+    -82.669295,
+    38.515555
+],
+  "geometry": {"coordinates":[-82.66929500000001,38.515555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253677225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.765053,38.574539,-82.765053,38.574539",
     "geom:latitude":38.574539,
     "geom:longitude":-82.765053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Ohio Furnace Rd",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253677225,
-    "wof:lastmodified":1449063887,
+    "wof:lastmodified":1466536758,
     "wof:name":"Sunoco Chemicals",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chemical"
     ]
 },
-  "bbox": [-82.765053,38.574539,-82.765053,38.574539],
-  "geometry": {"coordinates":[-82.765053,38.574539],"type":"Point"}
+  "bbox": [
+    -82.765053,
+    38.574539,
+    -82.765053,
+    38.574539
+],
+  "geometry": {"coordinates":[-82.76505299999999,38.574539],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185866559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.618972,39.086444,-84.618972,39.086444",
     "geom:latitude":39.086444,
     "geom:longitude":-84.618972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Anderson Ferry Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185866559,
-    "wof:lastmodified":1449007385,
+    "wof:lastmodified":1466530026,
     "wof:name":"Farm",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "rooms"
     ]
 },
-  "bbox": [-84.618972,39.086444,-84.618972,39.086444],
+  "bbox": [
+    -84.618972,
+    39.086444,
+    -84.618972,
+    39.086444
+],
   "geometry": {"coordinates":[-84.618972,39.086444],"type":"Point"}
 }

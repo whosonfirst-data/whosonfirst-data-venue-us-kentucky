@@ -2,13 +2,14 @@
   "id": 169682241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.441498,37.006371,-88.441498,37.006371",
     "geom:latitude":37.006371,
     "geom:longitude":-88.441498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10053 US Hwy 62",
     "sg:city":"Cunningham",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169682241,
-    "wof:lastmodified":1449033267,
+    "wof:lastmodified":1466530007,
     "wof:name":"Ceramic Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "ceramic"
     ]
 },
-  "bbox": [-88.441498,37.006371,-88.441498,37.006371],
+  "bbox": [
+    -88.441498,
+    37.006371,
+    -88.441498,
+    37.006371
+],
   "geometry": {"coordinates":[-88.441498,37.006371],"type":"Point"}
 }

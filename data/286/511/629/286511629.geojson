@@ -2,13 +2,14 @@
   "id": 286511629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.649537,38.551401,-82.649537,38.551401",
     "geom:latitude":38.551401,
     "geom:longitude":-82.649537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 State Rte 93",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286511629,
-    "wof:lastmodified":1449016546,
+    "wof:lastmodified":1466536768,
     "wof:name":"Jim Howard & Son Inc",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-82.649537,38.551401,-82.649537,38.551401],
+  "bbox": [
+    -82.649537,
+    38.551401,
+    -82.649537,
+    38.551401
+],
   "geometry": {"coordinates":[-82.649537,38.551401],"type":"Point"}
 }

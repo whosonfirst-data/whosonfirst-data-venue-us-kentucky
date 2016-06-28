@@ -2,13 +2,14 @@
   "id": 219157337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.682458,38.531548,-82.682458,38.531548",
     "geom:latitude":38.531548,
     "geom:longitude":-82.682458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219157337,
-    "wof:lastmodified":1449073410,
+    "wof:lastmodified":1466530022,
     "wof:name":"Wild Cat Contracting",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "demolition"
     ]
 },
-  "bbox": [-82.682458,38.531548,-82.682458,38.531548],
+  "bbox": [
+    -82.682458,
+    38.531548,
+    -82.682458,
+    38.531548
+],
   "geometry": {"coordinates":[-82.682458,38.531548],"type":"Point"}
 }

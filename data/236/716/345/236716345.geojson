@@ -2,13 +2,14 @@
   "id": 236716345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679943,38.52821,-82.679943,38.52821",
     "geom:latitude":38.52821,
     "geom:longitude":-82.679943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236716345,
-    "wof:lastmodified":1449002027,
+    "wof:lastmodified":1466536748,
     "wof:name":"Bob Clyse Pontiac-GMC",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.679943,38.52821,-82.679943,38.52821],
-  "geometry": {"coordinates":[-82.679943,38.52821],"type":"Point"}
+  "bbox": [
+    -82.679943,
+    38.52821,
+    -82.679943,
+    38.52821
+],
+  "geometry": {"coordinates":[-82.67994299999999,38.52821],"type":"Point"}
 }

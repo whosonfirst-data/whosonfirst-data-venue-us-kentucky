@@ -2,13 +2,14 @@
   "id": 202995183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.685078,38.534734,-82.685078,38.534734",
     "geom:latitude":38.534734,
     "geom:longitude":-82.685078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202995183,
-    "wof:lastmodified":1449062368,
+    "wof:lastmodified":1466530036,
     "wof:name":"E L Robinson Engineering Oh",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-82.685078,38.534734,-82.685078,38.534734],
+  "bbox": [
+    -82.685078,
+    38.534734,
+    -82.685078,
+    38.534734
+],
   "geometry": {"coordinates":[-82.685078,38.534734],"type":"Point"}
 }

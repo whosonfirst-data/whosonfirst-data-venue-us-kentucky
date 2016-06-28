@@ -2,13 +2,14 @@
   "id": 202591295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.66756,38.513204,-82.66756,38.513204",
     "geom:latitude":38.513204,
     "geom:longitude":-82.66756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2502 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202591295,
-    "wof:lastmodified":1449061470,
+    "wof:lastmodified":1466530016,
     "wof:name":"Empire Metal Recycling Inc",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.66756,38.513204,-82.66756,38.513204],
-  "geometry": {"coordinates":[-82.66756,38.513204],"type":"Point"}
+  "bbox": [
+    -82.66756,
+    38.513204,
+    -82.66756,
+    38.513204
+],
+  "geometry": {"coordinates":[-82.66755999999999,38.513204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269929601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.632334,38.730286,-82.632334,38.730286",
     "geom:latitude":38.730286,
     "geom:longitude":-82.632334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17004 State Rte 93",
     "sg:city":"Pedro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269929601,
-    "wof:lastmodified":1449037065,
+    "wof:lastmodified":1466536761,
     "wof:name":"Phillips' Grocery",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-82.632334,38.730286,-82.632334,38.730286],
+  "bbox": [
+    -82.632334,
+    38.730286,
+    -82.632334,
+    38.730286
+],
   "geometry": {"coordinates":[-82.632334,38.730286],"type":"Point"}
 }

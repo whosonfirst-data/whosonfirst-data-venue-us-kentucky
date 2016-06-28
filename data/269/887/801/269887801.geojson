@@ -2,13 +2,14 @@
   "id": 269887801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.741031,38.652587,-82.741031,38.652587",
     "geom:latitude":38.652587,
     "geom:longitude":-82.741031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7613 State Rte 650",
     "sg:city":"Pedro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269887801,
-    "wof:lastmodified":1449038354,
+    "wof:lastmodified":1466536760,
     "wof:name":"Donald Kline",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-82.741031,38.652587,-82.741031,38.652587],
-  "geometry": {"coordinates":[-82.741031,38.652587],"type":"Point"}
+  "bbox": [
+    -82.741031,
+    38.652587,
+    -82.741031,
+    38.652587
+],
+  "geometry": {"coordinates":[-82.74103100000001,38.652587],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169679321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.620887,38.19434,-85.620887,38.19434",
     "geom:latitude":38.19434,
     "geom:longitude":-85.620887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7217 Nachand Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169679321,
-    "wof:lastmodified":1449034805,
+    "wof:lastmodified":1466530004,
     "wof:name":"Watson Memorial Baptist Church",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.620887,38.19434,-85.620887,38.19434],
+  "bbox": [
+    -85.620887,
+    38.19434,
+    -85.620887,
+    38.19434
+],
   "geometry": {"coordinates":[-85.620887,38.19434],"type":"Point"}
 }

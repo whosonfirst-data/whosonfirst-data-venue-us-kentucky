@@ -2,13 +2,14 @@
   "id": 169681227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.520518,36.856286,-87.520518,36.856286",
     "geom:latitude":36.856286,
     "geom:longitude":-87.520518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Donna Dr",
     "sg:city":"Hopkinsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169681227,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466530012,
     "wof:name":"Clarence E Farmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lessor"
     ]
 },
-  "bbox": [-87.520518,36.856286,-87.520518,36.856286],
+  "bbox": [
+    -87.520518,
+    36.856286,
+    -87.520518,
+    36.856286
+],
   "geometry": {"coordinates":[-87.520518,36.856286],"type":"Point"}
 }

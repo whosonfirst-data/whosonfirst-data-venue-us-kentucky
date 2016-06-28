@@ -2,13 +2,14 @@
   "id": 169681021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.501762,38.057674,-84.501762,38.057674",
     "geom:latitude":38.057674,
     "geom:longitude":-84.501762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 W 3rd St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169681021,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466530006,
     "wof:name":"Iron Horse Forge",
     "wof:parent_id":85873079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ironwork"
     ]
 },
-  "bbox": [-84.501762,38.057674,-84.501762,38.057674],
+  "bbox": [
+    -84.501762,
+    38.057674,
+    -84.501762,
+    38.057674
+],
   "geometry": {"coordinates":[-84.501762,38.057674],"type":"Point"}
 }

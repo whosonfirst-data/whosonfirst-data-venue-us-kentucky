@@ -2,13 +2,14 @@
   "id": 219375903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.658959,38.593249,-82.658959,38.593249",
     "geom:latitude":38.593249,
     "geom:longitude":-82.658959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2414 Co Rd 103",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219375903,
-    "wof:lastmodified":1449070495,
+    "wof:lastmodified":1466530035,
     "wof:name":"Montroso",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tree"
     ]
 },
-  "bbox": [-82.658959,38.593249,-82.658959,38.593249],
+  "bbox": [
+    -82.658959,
+    38.593249,
+    -82.658959,
+    38.593249
+],
   "geometry": {"coordinates":[-82.658959,38.593249],"type":"Point"}
 }

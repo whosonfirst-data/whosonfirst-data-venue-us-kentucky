@@ -2,13 +2,14 @@
   "id": 253406387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.644573,38.50135,-82.644573,38.50135",
     "geom:latitude":38.50135,
     "geom:longitude":-82.644573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Marion Pike",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253406387,
-    "wof:lastmodified":1449064415,
+    "wof:lastmodified":1466536756,
     "wof:name":"Terri's Village Salon",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.644573,38.50135,-82.644573,38.50135],
-  "geometry": {"coordinates":[-82.644573,38.50135],"type":"Point"}
+  "bbox": [
+    -82.644573,
+    38.50135,
+    -82.644573,
+    38.50135
+],
+  "geometry": {"coordinates":[-82.64457299999999,38.50135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169683353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.431559,37.796031,-87.431559,37.796031",
     "geom:latitude":37.796031,
     "geom:longitude":-87.431559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13310 State Hwy 351",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169683353,
-    "wof:lastmodified":1449033906,
+    "wof:lastmodified":1466530011,
     "wof:name":"Frields Machine Shop",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-87.431559,37.796031,-87.431559,37.796031],
-  "geometry": {"coordinates":[-87.431559,37.796031],"type":"Point"}
+  "bbox": [
+    -87.431559,
+    37.796031,
+    -87.431559,
+    37.796031
+],
+  "geometry": {"coordinates":[-87.43155899999999,37.796031],"type":"Point"}
 }

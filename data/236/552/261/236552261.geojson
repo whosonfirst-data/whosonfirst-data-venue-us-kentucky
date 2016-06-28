@@ -2,13 +2,14 @@
   "id": 236552261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.661215,38.508875,-82.661215,38.508875",
     "geom:latitude":38.508875,
     "geom:longitude":-82.661215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Lorain St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236552261,
-    "wof:lastmodified":1449002956,
+    "wof:lastmodified":1466536747,
     "wof:name":"Open Door School",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retarded"
     ]
 },
-  "bbox": [-82.661215,38.508875,-82.661215,38.508875],
+  "bbox": [
+    -82.661215,
+    38.508875,
+    -82.661215,
+    38.508875
+],
   "geometry": {"coordinates":[-82.661215,38.508875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236191373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.592102,38.579959,-82.592102,38.579959",
     "geom:latitude":38.579959,
     "geom:longitude":-82.592102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Pvt Rd 1813",
     "sg:city":"Kitts Hill",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236191373,
-    "wof:lastmodified":1449003692,
+    "wof:lastmodified":1466536741,
     "wof:name":"Tackett's Body Shop Paintless",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "painting"
     ]
 },
-  "bbox": [-82.592102,38.579959,-82.592102,38.579959],
+  "bbox": [
+    -82.592102,
+    38.579959,
+    -82.592102,
+    38.579959
+],
   "geometry": {"coordinates":[-82.592102,38.579959],"type":"Point"}
 }

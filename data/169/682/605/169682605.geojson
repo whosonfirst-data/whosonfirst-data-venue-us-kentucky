@@ -2,13 +2,14 @@
   "id": 169682605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.714451,38.058787,-84.714451,38.058787",
     "geom:latitude":38.058787,
     "geom:longitude":-84.714451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Crossfield Dr",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169682605,
-    "wof:lastmodified":1449033267,
+    "wof:lastmodified":1466530007,
     "wof:name":"Ruggles Sign Co",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.714451,38.058787,-84.714451,38.058787],
+  "bbox": [
+    -84.714451,
+    38.058787,
+    -84.714451,
+    38.058787
+],
   "geometry": {"coordinates":[-84.714451,38.058787],"type":"Point"}
 }

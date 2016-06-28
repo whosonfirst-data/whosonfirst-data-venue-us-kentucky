@@ -2,13 +2,14 @@
   "id": 236397189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.652566,38.49712,-82.652566,38.49712",
     "geom:latitude":38.49712,
     "geom:longitude":-82.652566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Pike St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236397189,
-    "wof:lastmodified":1449002878,
+    "wof:lastmodified":1466536744,
     "wof:name":"Best Buy Carpets",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rug"
     ]
 },
-  "bbox": [-82.652566,38.49712,-82.652566,38.49712],
-  "geometry": {"coordinates":[-82.652566,38.49712],"type":"Point"}
+  "bbox": [
+    -82.652566,
+    38.49712,
+    -82.652566,
+    38.49712
+],
+  "geometry": {"coordinates":[-82.65256599999999,38.49712],"type":"Point"}
 }

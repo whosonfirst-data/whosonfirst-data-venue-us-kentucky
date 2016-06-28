@@ -2,13 +2,14 @@
   "id": 286752323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.502214,38.617348,-82.502214,38.617348",
     "geom:latitude":38.617348,
     "geom:longitude":-82.502214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6705 Co Rd 19",
     "sg:city":"Kitts Hill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286752323,
-    "wof:lastmodified":1449015651,
+    "wof:lastmodified":1466536769,
     "wof:name":"Sanders Const",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.502214,38.617348,-82.502214,38.617348],
+  "bbox": [
+    -82.502214,
+    38.617348,
+    -82.502214,
+    38.617348
+],
   "geometry": {"coordinates":[-82.502214,38.617348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186567475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.673821,38.541448,-82.673821,38.541448",
     "geom:latitude":38.541448,
     "geom:longitude":-82.673821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1005 E Ring Rd",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186567475,
-    "wof:lastmodified":1449053044,
+    "wof:lastmodified":1466530045,
     "wof:name":"O L V H Diagnostic Imaging Ctr",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "general"
     ]
 },
-  "bbox": [-82.673821,38.541448,-82.673821,38.541448],
+  "bbox": [
+    -82.673821,
+    38.541448,
+    -82.673821,
+    38.541448
+],
   "geometry": {"coordinates":[-82.673821,38.541448],"type":"Point"}
 }

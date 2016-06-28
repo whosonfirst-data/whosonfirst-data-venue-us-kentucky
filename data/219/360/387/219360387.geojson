@@ -2,13 +2,14 @@
   "id": 219360387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.474532,39.132992,-84.474532,39.132992",
     "geom:latitude":39.132992,
     "geom:longitude":-84.474532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3043 Hackberry St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219360387,
-    "wof:lastmodified":1449073127,
+    "wof:lastmodified":1466530034,
     "wof:name":"New Christian Life Baptist Chr",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.474532,39.132992,-84.474532,39.132992],
+  "bbox": [
+    -84.474532,
+    39.132992,
+    -84.474532,
+    39.132992
+],
   "geometry": {"coordinates":[-84.474532,39.132992],"type":"Point"}
 }

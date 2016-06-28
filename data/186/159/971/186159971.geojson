@@ -2,13 +2,14 @@
   "id": 186159971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.687903,38.540207,-82.687903,38.540207",
     "geom:latitude":38.540207,
     "geom:longitude":-82.687903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Hecla St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186159971,
-    "wof:lastmodified":1449050573,
+    "wof:lastmodified":1466530038,
     "wof:name":"City of Ironton",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-82.687903,38.540207,-82.687903,38.540207],
-  "geometry": {"coordinates":[-82.687903,38.540207],"type":"Point"}
+  "bbox": [
+    -82.687903,
+    38.540207,
+    -82.687903,
+    38.540207
+],
+  "geometry": {"coordinates":[-82.68790300000001,38.540207],"type":"Point"}
 }

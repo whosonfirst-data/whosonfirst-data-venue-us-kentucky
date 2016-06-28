@@ -2,13 +2,14 @@
   "id": 169730733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.646855,39.09182,-84.646855,39.09182",
     "geom:latitude":39.09182,
     "geom:longitude":-84.646855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5364 River Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169730733,
-    "wof:lastmodified":1449035427,
+    "wof:lastmodified":1466530029,
     "wof:name":"Stowaway Storage",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-84.646855,39.09182,-84.646855,39.09182],
+  "bbox": [
+    -84.646855,
+    39.09182,
+    -84.646855,
+    39.09182
+],
   "geometry": {"coordinates":[-84.646855,39.09182],"type":"Point"}
 }

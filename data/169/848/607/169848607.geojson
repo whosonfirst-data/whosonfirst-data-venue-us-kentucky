@@ -2,13 +2,14 @@
   "id": 169848607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.646059,38.499933,-82.646059,38.499933",
     "geom:latitude":38.499933,
     "geom:longitude":-82.646059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Center St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169848607,
-    "wof:lastmodified":1449033149,
+    "wof:lastmodified":1466530031,
     "wof:name":"M & M Inflatables",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.646059,38.499933,-82.646059,38.499933],
-  "geometry": {"coordinates":[-82.646059,38.499933],"type":"Point"}
+  "bbox": [
+    -82.646059,
+    38.499933,
+    -82.646059,
+    38.499933
+],
+  "geometry": {"coordinates":[-82.64605899999999,38.499933],"type":"Point"}
 }

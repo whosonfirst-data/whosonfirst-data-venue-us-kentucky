@@ -2,13 +2,14 @@
   "id": 203123693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.472419,39.131189,-84.472419,39.131189",
     "geom:latitude":39.131189,
     "geom:longitude":-84.472419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2923 Fairfield Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203123693,
-    "wof:lastmodified":1449025472,
+    "wof:lastmodified":1466530048,
     "wof:name":"Inchworm Industries Inc",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customization"
     ]
 },
-  "bbox": [-84.472419,39.131189,-84.472419,39.131189],
+  "bbox": [
+    -84.472419,
+    39.131189,
+    -84.472419,
+    39.131189
+],
   "geometry": {"coordinates":[-84.472419,39.131189],"type":"Point"}
 }

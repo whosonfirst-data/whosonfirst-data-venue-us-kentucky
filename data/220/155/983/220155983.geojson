@@ -2,13 +2,14 @@
   "id": 220155983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.617434,39.076802,-84.617434,39.076802",
     "geom:latitude":39.076802,
     "geom:longitude":-84.617434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4248 River Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220155983,
-    "wof:lastmodified":1449074712,
+    "wof:lastmodified":1466536703,
     "wof:name":"Hillside Baptist Church",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.617434,39.076802,-84.617434,39.076802],
+  "bbox": [
+    -84.617434,
+    39.076802,
+    -84.617434,
+    39.076802
+],
   "geometry": {"coordinates":[-84.617434,39.076802],"type":"Point"}
 }

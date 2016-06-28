@@ -2,13 +2,14 @@
   "id": 203139717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.675787,38.523148,-82.675787,38.523148",
     "geom:latitude":38.523148,
     "geom:longitude":-82.675787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203139717,
-    "wof:lastmodified":1449025109,
+    "wof:lastmodified":1466530048,
     "wof:name":"Nancy Lee's Hair Styling Salon",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.675787,38.523148,-82.675787,38.523148],
+  "bbox": [
+    -82.675787,
+    38.523148,
+    -82.675787,
+    38.523148
+],
   "geometry": {"coordinates":[-82.675787,38.523148],"type":"Point"}
 }

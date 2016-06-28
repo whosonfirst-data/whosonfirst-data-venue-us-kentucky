@@ -2,13 +2,14 @@
   "id": 269500363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.616851,39.083141,-84.616851,39.083141",
     "geom:latitude":39.083141,
     "geom:longitude":-84.616851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Anderson Ferry Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269500363,
-    "wof:lastmodified":1449036755,
+    "wof:lastmodified":1466536758,
     "wof:name":"Yaethane Unlimited",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.616851,39.083141,-84.616851,39.083141],
+  "bbox": [
+    -84.616851,
+    39.083141,
+    -84.616851,
+    39.083141
+],
   "geometry": {"coordinates":[-84.616851,39.083141],"type":"Point"}
 }

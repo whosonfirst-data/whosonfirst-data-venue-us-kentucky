@@ -2,13 +2,14 @@
   "id": 219282779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.685065,38.534532,-82.685065,38.534532",
     "geom:latitude":38.534532,
     "geom:longitude":-82.685065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Park Ave",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219282779,
-    "wof:lastmodified":1449072600,
+    "wof:lastmodified":1466530022,
     "wof:name":"Wolf's Tattooing",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tattooing"
     ]
 },
-  "bbox": [-82.685065,38.534532,-82.685065,38.534532],
-  "geometry": {"coordinates":[-82.685065,38.534532],"type":"Point"}
+  "bbox": [
+    -82.685065,
+    38.534532,
+    -82.685065,
+    38.534532
+],
+  "geometry": {"coordinates":[-82.68506499999999,38.534532],"type":"Point"}
 }

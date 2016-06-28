@@ -2,13 +2,14 @@
   "id": 202625661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679848,38.52834,-82.679848,38.52834",
     "geom:latitude":38.52834,
     "geom:longitude":-82.679848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202625661,
-    "wof:lastmodified":1449062698,
+    "wof:lastmodified":1466530021,
     "wof:name":"Higgins Chevrolet",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.679848,38.52834,-82.679848,38.52834],
-  "geometry": {"coordinates":[-82.679848,38.52834],"type":"Point"}
+  "bbox": [
+    -82.679848,
+    38.52834,
+    -82.679848,
+    38.52834
+],
+  "geometry": {"coordinates":[-82.67984800000001,38.52834],"type":"Point"}
 }

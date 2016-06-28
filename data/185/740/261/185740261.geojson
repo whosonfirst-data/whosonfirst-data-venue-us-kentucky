@@ -2,13 +2,14 @@
   "id": 185740261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.679681,38.528243,-82.679681,38.528243",
     "geom:latitude":38.528243,
     "geom:longitude":-82.679681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Chestnut St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185740261,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1466530015,
     "wof:name":"Crabro Printing Co Inc",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-82.679681,38.528243,-82.679681,38.528243],
+  "bbox": [
+    -82.679681,
+    38.528243,
+    -82.679681,
+    38.528243
+],
   "geometry": {"coordinates":[-82.679681,38.528243],"type":"Point"}
 }

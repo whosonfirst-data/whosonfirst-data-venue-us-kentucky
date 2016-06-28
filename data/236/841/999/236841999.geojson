@@ -2,13 +2,14 @@
   "id": 236841999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.474678,39.133896,-84.474678,39.133896",
     "geom:latitude":39.133896,
     "geom:longitude":-84.474678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1621 Dexter Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236841999,
-    "wof:lastmodified":1449002198,
+    "wof:lastmodified":1466536749,
     "wof:name":"Kent Robinson MD",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-84.474678,39.133896,-84.474678,39.133896],
+  "bbox": [
+    -84.474678,
+    39.133896,
+    -84.474678,
+    39.133896
+],
   "geometry": {"coordinates":[-84.474678,39.133896],"type":"Point"}
 }

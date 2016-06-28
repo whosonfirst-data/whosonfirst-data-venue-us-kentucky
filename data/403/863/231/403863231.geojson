@@ -2,13 +2,14 @@
   "id": 403863231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.046996,36.425135,-89.046996,36.425135",
     "geom:latitude":36.425135,
     "geom:longitude":-89.046996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 E Main St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403863231,
-    "wof:lastmodified":1449055525,
+    "wof:lastmodified":1466536770,
     "wof:name":"Robert L Nichols & Assoc",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-89.046996,36.425135,-89.046996,36.425135],
-  "geometry": {"coordinates":[-89.046996,36.425135],"type":"Point"}
+  "bbox": [
+    -89.046996,
+    36.425135,
+    -89.046996,
+    36.425135
+],
+  "geometry": {"coordinates":[-89.04699599999999,36.425135],"type":"Point"}
 }

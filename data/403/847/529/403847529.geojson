@@ -2,13 +2,14 @@
   "id": 403847529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.230432,36.255707,-89.230432,36.255707",
     "geom:latitude":36.255707,
     "geom:longitude":-89.230432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2058 Clarence Fox Rd",
     "sg:city":"Obion",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403847529,
-    "wof:lastmodified":1449055113,
+    "wof:lastmodified":1466536770,
     "wof:name":"Fox Pro Tile",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "drainage"
     ]
 },
-  "bbox": [-89.230432,36.255707,-89.230432,36.255707],
-  "geometry": {"coordinates":[-89.230432,36.255707],"type":"Point"}
+  "bbox": [
+    -89.230432,
+    36.255707,
+    -89.230432,
+    36.255707
+],
+  "geometry": {"coordinates":[-89.23043199999999,36.255707],"type":"Point"}
 }

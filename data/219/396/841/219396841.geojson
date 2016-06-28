@@ -2,13 +2,14 @@
   "id": 219396841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.684975,38.533465,-82.684975,38.533465",
     "geom:latitude":38.533465,
     "geom:longitude":-82.684975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Vernon St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219396841,
-    "wof:lastmodified":1449072700,
+    "wof:lastmodified":1466530036,
     "wof:name":"Vista Wireless",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-82.684975,38.533465,-82.684975,38.533465],
-  "geometry": {"coordinates":[-82.684975,38.533465],"type":"Point"}
+  "bbox": [
+    -82.684975,
+    38.533465,
+    -82.684975,
+    38.533465
+],
+  "geometry": {"coordinates":[-82.68497499999999,38.533465],"type":"Point"}
 }

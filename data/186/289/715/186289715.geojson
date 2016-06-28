@@ -2,13 +2,14 @@
   "id": 186289715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.64774,38.501539,-82.64774,38.501539",
     "geom:latitude":38.501539,
     "geom:longitude":-82.64774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Marion Pike",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186289715,
-    "wof:lastmodified":1449052562,
+    "wof:lastmodified":1466530041,
     "wof:name":"L & J Tops Okreem Inc",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operates"
     ]
 },
-  "bbox": [-82.64774,38.501539,-82.64774,38.501539],
+  "bbox": [
+    -82.64774,
+    38.501539,
+    -82.64774,
+    38.501539
+],
   "geometry": {"coordinates":[-82.64774,38.501539],"type":"Point"}
 }

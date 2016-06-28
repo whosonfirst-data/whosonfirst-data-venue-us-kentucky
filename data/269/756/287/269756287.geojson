@@ -2,13 +2,14 @@
   "id": 269756287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.696635,38.549131,-82.696635,38.549131",
     "geom:latitude":38.549131,
     "geom:longitude":-82.696635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Patricia Dr",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269756287,
-    "wof:lastmodified":1449037583,
+    "wof:lastmodified":1466536759,
     "wof:name":"Diana L Leith",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.696635,38.549131,-82.696635,38.549131],
+  "bbox": [
+    -82.696635,
+    38.549131,
+    -82.696635,
+    38.549131
+],
   "geometry": {"coordinates":[-82.696635,38.549131],"type":"Point"}
 }

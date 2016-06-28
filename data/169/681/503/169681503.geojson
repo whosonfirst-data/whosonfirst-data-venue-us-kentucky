@@ -2,13 +2,14 @@
   "id": 169681503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.542188,37.505305,-82.542188,37.505305",
     "geom:latitude":37.505305,
     "geom:longitude":-82.542188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Vera Dr",
     "sg:city":"Meta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169681503,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466530012,
     "wof:name":"Belcher & Co Escavating",
     "wof:parent_id":85840927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.542188,37.505305,-82.542188,37.505305],
+  "bbox": [
+    -82.542188,
+    37.505305,
+    -82.542188,
+    37.505305
+],
   "geometry": {"coordinates":[-82.542188,37.505305],"type":"Point"}
 }

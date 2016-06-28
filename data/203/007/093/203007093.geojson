@@ -2,13 +2,14 @@
   "id": 203007093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.678021,38.525888,-82.678021,38.525888",
     "geom:latitude":38.525888,
     "geom:longitude":-82.678021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1220 S 3rd St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203007093,
-    "wof:lastmodified":1449026516,
+    "wof:lastmodified":1466530045,
     "wof:name":"Scott Chemical Co",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "under"
     ]
 },
-  "bbox": [-82.678021,38.525888,-82.678021,38.525888],
+  "bbox": [
+    -82.678021,
+    38.525888,
+    -82.678021,
+    38.525888
+],
   "geometry": {"coordinates":[-82.678021,38.525888],"type":"Point"}
 }

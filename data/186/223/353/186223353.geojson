@@ -2,13 +2,14 @@
   "id": 186223353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.47324,39.125034,-84.47324,39.125034",
     "geom:latitude":39.125034,
     "geom:longitude":-84.47324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1775 E McMillan St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186223353,
-    "wof:lastmodified":1449050438,
+    "wof:lastmodified":1466530040,
     "wof:name":"1775",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.47324,39.125034,-84.47324,39.125034],
+  "bbox": [
+    -84.47324,
+    39.125034,
+    -84.47324,
+    39.125034
+],
   "geometry": {"coordinates":[-84.47324,39.125034],"type":"Point"}
 }

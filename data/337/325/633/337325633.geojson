@@ -2,13 +2,14 @@
   "id": 337325633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.622126,39.078362,-84.622126,39.078362",
     "geom:latitude":39.078362,
     "geom:longitude":-84.622126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Hillside Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337325633,
-    "wof:lastmodified":1449027244,
+    "wof:lastmodified":1466536767,
     "wof:name":"Royal Woods",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"
     ]
 },
-  "bbox": [-84.622126,39.078362,-84.622126,39.078362],
-  "geometry": {"coordinates":[-84.622126,39.078362],"type":"Point"}
+  "bbox": [
+    -84.622126,
+    39.078362,
+    -84.622126,
+    39.078362
+],
+  "geometry": {"coordinates":[-84.62212599999999,39.078362],"type":"Point"}
 }

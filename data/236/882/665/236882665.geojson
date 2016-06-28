@@ -2,13 +2,14 @@
   "id": 236882665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.499784,39.106819,-84.499784,39.106819",
     "geom:latitude":39.106819,
     "geom:longitude":-84.499784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1077 Celestial St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236882665,
-    "wof:lastmodified":1449002118,
+    "wof:lastmodified":1466536749,
     "wof:name":"Symc Cincinnati",
     "wof:parent_id":85835433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "religious"
     ]
 },
-  "bbox": [-84.499784,39.106819,-84.499784,39.106819],
-  "geometry": {"coordinates":[-84.499784,39.106819],"type":"Point"}
+  "bbox": [
+    -84.499784,
+    39.106819,
+    -84.499784,
+    39.106819
+],
+  "geometry": {"coordinates":[-84.49978400000001,39.106819],"type":"Point"}
 }

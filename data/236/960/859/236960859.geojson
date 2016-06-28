@@ -2,13 +2,14 @@
   "id": 236960859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.627904,38.600289,-82.627904,38.600289",
     "geom:latitude":38.600289,
     "geom:longitude":-82.627904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Pvt Rd 977",
     "sg:city":"Pedro",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":236960859,
-    "wof:lastmodified":1449004133,
+    "wof:lastmodified":1466536749,
     "wof:name":"Oak Ridge Treatment Ctr Inc",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"
     ]
 },
-  "bbox": [-82.627904,38.600289,-82.627904,38.600289],
+  "bbox": [
+    -82.627904,
+    38.600289,
+    -82.627904,
+    38.600289
+],
   "geometry": {"coordinates":[-82.627904,38.600289],"type":"Point"}
 }

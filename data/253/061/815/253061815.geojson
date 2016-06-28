@@ -2,13 +2,14 @@
   "id": 253061815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.62167,38.499647,-82.62167,38.499647",
     "geom:latitude":38.499647,
     "geom:longitude":-82.62167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Twp Rd 102",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253061815,
-    "wof:lastmodified":1449064966,
+    "wof:lastmodified":1466536754,
     "wof:name":"Jimmie Sexton",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.62167,38.499647,-82.62167,38.499647],
-  "geometry": {"coordinates":[-82.62167,38.499647],"type":"Point"}
+  "bbox": [
+    -82.62167,
+    38.499647,
+    -82.62167,
+    38.499647
+],
+  "geometry": {"coordinates":[-82.62166999999999,38.499647],"type":"Point"}
 }

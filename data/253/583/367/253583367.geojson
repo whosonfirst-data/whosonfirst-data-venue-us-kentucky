@@ -2,13 +2,14 @@
   "id": 253583367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.474873,39.129778,-84.474873,39.129778",
     "geom:latitude":39.129778,
     "geom:longitude":-84.474873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1622 Madison Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253583367,
-    "wof:lastmodified":1449065138,
+    "wof:lastmodified":1466536757,
     "wof:name":"Master Blaster Hair Care Ctr",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.474873,39.129778,-84.474873,39.129778],
+  "bbox": [
+    -84.474873,
+    39.129778,
+    -84.474873,
+    39.129778
+],
   "geometry": {"coordinates":[-84.474873,39.129778],"type":"Point"}
 }

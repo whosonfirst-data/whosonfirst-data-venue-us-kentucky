@@ -2,13 +2,14 @@
   "id": 270434225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.684892,38.535779,-82.684892,38.535779",
     "geom:latitude":38.535779,
     "geom:longitude":-82.684892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Center St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270434225,
-    "wof:lastmodified":1449009148,
+    "wof:lastmodified":1466536763,
     "wof:name":"Hampton & Destocki Co",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.684892,38.535779,-82.684892,38.535779],
+  "bbox": [
+    -82.684892,
+    38.535779,
+    -82.684892,
+    38.535779
+],
   "geometry": {"coordinates":[-82.684892,38.535779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236083753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.648297,38.596098,-82.648297,38.596098",
     "geom:latitude":38.596098,
     "geom:longitude":-82.648297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Twp Rd 1331",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236083753,
-    "wof:lastmodified":1449003167,
+    "wof:lastmodified":1466536720,
     "wof:name":"A Keith Lewis",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.648297,38.596098,-82.648297,38.596098],
+  "bbox": [
+    -82.648297,
+    38.596098,
+    -82.648297,
+    38.596098
+],
   "geometry": {"coordinates":[-82.648297,38.596098],"type":"Point"}
 }

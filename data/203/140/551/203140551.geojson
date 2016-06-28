@@ -2,13 +2,14 @@
   "id": 203140551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.504062,38.694334,-82.504062,38.694334",
     "geom:latitude":38.694334,
     "geom:longitude":-82.504062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11239 Co Rd 4",
     "sg:city":"Waterloo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203140551,
-    "wof:lastmodified":1449025205,
+    "wof:lastmodified":1466530048,
     "wof:name":"Captain Steamer Carpet Cleaner",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-82.504062,38.694334,-82.504062,38.694334],
+  "bbox": [
+    -82.504062,
+    38.694334,
+    -82.504062,
+    38.694334
+],
   "geometry": {"coordinates":[-82.504062,38.694334],"type":"Point"}
 }

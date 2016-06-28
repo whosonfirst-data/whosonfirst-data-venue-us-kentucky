@@ -2,13 +2,14 @@
   "id": 253533451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.49999,39.106937,-84.49999,39.106937",
     "geom:latitude":39.106937,
     "geom:longitude":-84.49999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1071 Celestial St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253533451,
-    "wof:lastmodified":1449062789,
+    "wof:lastmodified":1466536757,
     "wof:name":"Celestial Restaurant",
     "wof:parent_id":85835433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-84.49999,39.106937,-84.49999,39.106937],
+  "bbox": [
+    -84.49999,
+    39.106937,
+    -84.49999,
+    39.106937
+],
   "geometry": {"coordinates":[-84.49999,39.106937],"type":"Point"}
 }

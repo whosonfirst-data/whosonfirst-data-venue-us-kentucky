@@ -2,13 +2,14 @@
   "id": 286272151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.674932,38.529511,-82.674932,38.529511",
     "geom:latitude":38.529511,
     "geom:longitude":-82.674932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 S 7th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286272151,
-    "wof:lastmodified":1449017884,
+    "wof:lastmodified":1466536765,
     "wof:name":"Phillips Funeral Homes",
     "wof:parent_id":85846445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.674932,38.529511,-82.674932,38.529511],
+  "bbox": [
+    -82.674932,
+    38.529511,
+    -82.674932,
+    38.529511
+],
   "geometry": {"coordinates":[-82.674932,38.529511],"type":"Point"}
 }

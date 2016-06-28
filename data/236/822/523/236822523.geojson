@@ -2,13 +2,14 @@
   "id": 236822523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.647353,39.095212,-84.647353,39.095212",
     "geom:latitude":39.095212,
     "geom:longitude":-84.647353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4960 Hillside Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":236822523,
-    "wof:lastmodified":1449005126,
+    "wof:lastmodified":1466536748,
     "wof:name":"Countertops By Helmart",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-84.647353,39.095212,-84.647353,39.095212],
+  "bbox": [
+    -84.647353,
+    39.095212,
+    -84.647353,
+    39.095212
+],
   "geometry": {"coordinates":[-84.647353,39.095212],"type":"Point"}
 }

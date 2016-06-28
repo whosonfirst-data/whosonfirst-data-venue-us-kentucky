@@ -2,13 +2,14 @@
   "id": 286554685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.474574,39.135468,-84.474574,39.135468",
     "geom:latitude":39.135468,
     "geom:longitude":-84.474574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1627 Fairfax Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286554685,
-    "wof:lastmodified":1449015774,
+    "wof:lastmodified":1466536768,
     "wof:name":"St Stephen AME Church",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.474574,39.135468,-84.474574,39.135468],
+  "bbox": [
+    -84.474574,
+    39.135468,
+    -84.474574,
+    39.135468
+],
   "geometry": {"coordinates":[-84.474574,39.135468],"type":"Point"}
 }

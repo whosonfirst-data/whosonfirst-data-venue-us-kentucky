@@ -2,13 +2,14 @@
   "id": 270389495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.477749,39.129828,-84.477749,39.129828",
     "geom:latitude":39.129828,
     "geom:longitude":-84.477749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 Madison Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":270389495,
-    "wof:lastmodified":1449010558,
+    "wof:lastmodified":1466536762,
     "wof:name":"Simone's",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.477749,39.129828,-84.477749,39.129828],
+  "bbox": [
+    -84.477749,
+    39.129828,
+    -84.477749,
+    39.129828
+],
   "geometry": {"coordinates":[-84.477749,39.129828],"type":"Point"}
 }

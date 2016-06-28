@@ -2,13 +2,14 @@
   "id": 269976917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.614184,39.093315,-84.614184,39.093315",
     "geom:latitude":39.093315,
     "geom:longitude":-84.614184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5165 Mount Alverno Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269976917,
-    "wof:lastmodified":1449037124,
+    "wof:lastmodified":1466536761,
     "wof:name":"Nearsighted Owl Inc",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-84.614184,39.093315,-84.614184,39.093315],
-  "geometry": {"coordinates":[-84.614184,39.093315],"type":"Point"}
+  "bbox": [
+    -84.614184,
+    39.093315,
+    -84.614184,
+    39.093315
+],
+  "geometry": {"coordinates":[-84.61418399999999,39.093315],"type":"Point"}
 }
