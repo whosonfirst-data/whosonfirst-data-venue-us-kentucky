@@ -2,6 +2,10 @@
   "id": 840561335,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 W Main St Richmond KY 40475",
+    "addr:housenumber":"330",
+    "addr:postcode":"40475",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840561335,
-    "wof:lastmodified":1466530937,
+    "wof:lastmodified":1472623790,
     "wof:name":"First Presbyterian Church",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

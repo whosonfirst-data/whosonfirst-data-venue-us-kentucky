@@ -2,6 +2,10 @@
   "id": 840801561,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 E Main St Glasgow KY 42141",
+    "addr:housenumber":"121",
+    "addr:postcode":"42141",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840801561,
-    "wof:lastmodified":1466536210,
+    "wof:lastmodified":1472624037,
     "wof:name":"Healthcare Claims & Billing",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

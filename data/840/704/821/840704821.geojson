@@ -2,6 +2,10 @@
   "id": 840704821,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Broadway St Georgetown KY 40324",
+    "addr:housenumber":"123",
+    "addr:postcode":"40324",
+    "addr:street":"S Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840704821,
-    "wof:lastmodified":1466534714,
+    "wof:lastmodified":1472623934,
     "wof:name":"Framing Alternatives",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",

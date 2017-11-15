@@ -2,14 +2,20 @@
   "id": 856754725,
   "type": "Feature",
   "properties": {
+    "addr:full":"2851 Richmond Rd Lexington KY 40509",
+    "addr:housenumber":"2851",
+    "addr:postcode":"40509",
+    "addr:street":"Richmond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.451981,38.007359,-84.451981,38.007359",
     "geom:latitude":38.007359,
     "geom:longitude":-84.451981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2851 Richmond Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         102084695,
         85873047
     ],
+    "wof:brand_id":420575029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2m9JtLle1lnFX5gUqDdRqN_38.007359_-84.451981@1303262750"
     },
     "wof:country":"US",
     "wof:created":1464053934,
-    "wof:geomhash":"bf7173d2b9511379cf1a0758dab8f470",
+    "wof:geomhash":"8dfb2d1593e7551fab73c8c02cbe3a53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":856754725,
-    "wof:lastmodified":1466538092,
+    "wof:lastmodified":1510602825,
     "wof:name":"Chili's Grill & Bar",
     "wof:parent_id":85873047,
     "wof:placetype":"venue",

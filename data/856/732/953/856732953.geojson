@@ -2,14 +2,20 @@
   "id": 856732953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 W Broadway Louisville KY 40211",
+    "addr:housenumber":"2124",
+    "addr:postcode":"40211",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.786933,38.249208,-85.786933,38.249208",
     "geom:latitude":38.249208,
     "geom:longitude":-85.786933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2124 W Broadway",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85873423
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r1va3SoTyoizmyK40Xewf_38.249208_-85.786933@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053108,
-    "wof:geomhash":"e101caff312b7046a7fc9506d24c6d46",
+    "wof:geomhash":"bedb8f0ecf7dc4bab5f6e5c44c905aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856732953,
-    "wof:lastmodified":1466537409,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85873423,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840805643,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 W Poplar St Elizabethtown KY 42701",
+    "addr:housenumber":"611",
+    "addr:postcode":"42701",
+    "addr:street":"W Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.869837,37.70451,-85.869837,37.70451",
     "geom:latitude":37.70451,
     "geom:longitude":-85.869837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 W Poplar St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084595,
         85826831
     ],
+    "wof:brand_id":1125152033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OMRe60GXDJZTk2ABrFghu_37.704510_-85.869837@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048310,
-    "wof:geomhash":"4c68b40fdbf194c2199fb4259c565be5",
+    "wof:geomhash":"bda26d488d964c128e018ee201fa32fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840805643,
-    "wof:lastmodified":1466536963,
+    "wof:lastmodified":1510694992,
     "wof:name":"Donut King",
     "wof:parent_id":85826831,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236936505,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 Delhi Ave Cincinnati OH 45238",
+    "addr:housenumber":"5211",
+    "addr:postcode":"45238",
+    "addr:street":"Delhi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.617946,39.093893,-84.617946,39.093893",
     "geom:latitude":39.093893,
     "geom:longitude":-84.617946,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:brand_id":420574197,
     "wof:breaches":[],
@@ -39,17 +44,15 @@
     "wof:geomhash":"111809a69f031477ad2f773ee25ae300",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":236936505
         }
     ],
     "wof:id":236936505,
-    "wof:lastmodified":1466536749,
+    "wof:lastmodified":1491929789,
     "wof:name":"Fashion Bug",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

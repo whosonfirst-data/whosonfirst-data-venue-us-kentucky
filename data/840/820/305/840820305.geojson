@@ -2,6 +2,10 @@
   "id": 840820305,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Morgantown Rd Bowling Green KY 42101",
+    "addr:housenumber":"610",
+    "addr:postcode":"42101",
+    "addr:street":"Morgantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840820305,
-    "wof:lastmodified":1466537109,
+    "wof:lastmodified":1472624027,
     "wof:name":"Auto Source",
     "wof:parent_id":85850751,
     "wof:placetype":"venue",

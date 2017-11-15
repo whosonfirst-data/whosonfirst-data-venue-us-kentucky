@@ -2,14 +2,20 @@
   "id": 856734519,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Rojay Dr Lexington KY 40503",
+    "addr:housenumber":"140",
+    "addr:postcode":"40503",
+    "addr:street":"Rojay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.528128,37.984545,-84.528128,37.984545",
     "geom:latitude":37.984545,
     "geom:longitude":-84.528128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Rojay Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084695,
         85807491
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rNJDu20vuV6fTd6IHbwv6_37.984545_-84.528128@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053165,
-    "wof:geomhash":"1499b24c6271567d2f4e198c018f7a0a",
+    "wof:geomhash":"e590f98edad66fa9a77bfe30d2018055",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856734519,
-    "wof:lastmodified":1466537470,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85807491,
     "wof:placetype":"venue",

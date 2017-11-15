@@ -2,6 +2,10 @@
   "id": 840634813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Carton Dr Jeffersontown KY 40299",
+    "addr:housenumber":"2345",
+    "addr:postcode":"40299",
+    "addr:street":"Carton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840634813,
-    "wof:lastmodified":1466532903,
+    "wof:lastmodified":1472623861,
     "wof:name":"Carton Drive Enterprises",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

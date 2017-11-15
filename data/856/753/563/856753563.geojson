@@ -2,14 +2,20 @@
   "id": 856753563,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 W Lowry Ln Ste 114 Lexington KY 40503",
+    "addr:housenumber":"150",
+    "addr:postcode":"40503",
+    "addr:street":"W Lowry Ln Ste 114",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520817,38.006783,-84.520817,38.006783",
     "geom:latitude":38.006783,
     "geom:longitude":-84.520817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 W Lowry Ln Ste 114",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         102084695,
         85813957
     ],
+    "wof:brand_id":1125159367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DC1MrebeuwcNKsIpKgzEf_38.006783_-84.520817@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053893,
-    "wof:geomhash":"4f6d4a61d164f4738c23642aa90fa3a8",
+    "wof:geomhash":"8de894df522eb4b20accedbf2dd0b685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":856753563,
-    "wof:lastmodified":1466538363,
+    "wof:lastmodified":1510693225,
     "wof:name":"Shear Pleasure",
     "wof:parent_id":85813957,
     "wof:placetype":"venue",

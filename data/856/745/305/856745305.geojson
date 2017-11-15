@@ -2,14 +2,20 @@
   "id": 856745305,
   "type": "Feature",
   "properties": {
+    "addr:full":"3277 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"3277",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.78064,38.202801,-85.78064,38.202801",
     "geom:latitude":38.202801,
     "geom:longitude":-85.78064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3277 Taylor Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084449,
         85873431
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s6A3UA5IKQvWna0PN34Tt_38.202801_-85.780640@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053574,
-    "wof:geomhash":"d4743f6fdb127315a9de63c3d8495b06",
+    "wof:geomhash":"1bb4990f634276645e4a9ba78f6d450a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856745305,
-    "wof:lastmodified":1466537603,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85873431,
     "wof:placetype":"venue",

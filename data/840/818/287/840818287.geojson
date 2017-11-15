@@ -2,6 +2,10 @@
   "id": 840818287,
   "type": "Feature",
   "properties": {
+    "addr:full":"3112 State Hwy 1820 Melber KY 42069",
+    "addr:housenumber":"3112",
+    "addr:postcode":"1820;42069",
+    "addr:street":"State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840818287,
-    "wof:lastmodified":1466537089,
+    "wof:lastmodified":1472624017,
     "wof:name":"Mathis Poultry",
     "wof:parent_id":85819855,
     "wof:placetype":"venue",

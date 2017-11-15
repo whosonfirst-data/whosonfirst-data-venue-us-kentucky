@@ -2,6 +2,10 @@
   "id": 840625751,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 College St Bowling Green KY 42101",
+    "addr:housenumber":"134",
+    "addr:postcode":"42101",
+    "addr:street":"College",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840625751,
-    "wof:lastmodified":1466532559,
+    "wof:lastmodified":1472623860,
     "wof:name":"Cam Assembly",
     "wof:parent_id":85814157,
     "wof:placetype":"venue",

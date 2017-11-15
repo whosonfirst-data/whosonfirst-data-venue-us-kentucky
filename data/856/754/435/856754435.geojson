@@ -2,14 +2,20 @@
   "id": 856754435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1932 Pavillon Way Lexington KY 40509",
+    "addr:housenumber":"1932",
+    "addr:postcode":"40509",
+    "addr:street":"Pavillon Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.417623,38.021441,-84.417623,38.021441",
     "geom:latitude":38.021441,
     "geom:longitude":-84.417623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1932 Pavillon Way",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084695,
         85830425
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sEuuJTL4L4OLhqsLrmy0p_38.021441_-84.417623@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053925,
-    "wof:geomhash":"15fad4eb6843debd153c2b6b0a9e5354",
+    "wof:geomhash":"2df06c8705f11a6422d71816d60dee04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856754435,
-    "wof:lastmodified":1466538172,
+    "wof:lastmodified":1510604030,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",

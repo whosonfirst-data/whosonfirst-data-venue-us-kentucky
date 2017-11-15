@@ -2,14 +2,20 @@
   "id": 840652957,
   "type": "Feature",
   "properties": {
+    "addr:full":"3816 Bishop Ln Louisville KY 40218",
+    "addr:housenumber":"3816",
+    "addr:postcode":"40218",
+    "addr:street":"Bishop Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.694826,38.187461,-85.694826,38.187461",
     "geom:latitude":38.187461,
     "geom:longitude":-85.694826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3816 Bishop Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85873395
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W7KQuUpJdwcOTZxQ7eRXy_38.187461_-85.694826@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044953,
-    "wof:geomhash":"c3d5da85a1d6dd4b85ad0f825f1be4c5",
+    "wof:geomhash":"2fda3664283424cad355f27ab7db5849",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840652957,
-    "wof:lastmodified":1466533445,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":85873395,
     "wof:placetype":"venue",

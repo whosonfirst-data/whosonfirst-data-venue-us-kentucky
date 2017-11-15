@@ -2,6 +2,10 @@
   "id": 840741577,
   "type": "Feature",
   "properties": {
+    "addr:full":"10612 Phelps 632 Rd Freeburn KY 41553",
+    "addr:housenumber":"10612;632",
+    "addr:postcode":"41553",
+    "addr:street":"Phelps;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840741577,
-    "wof:lastmodified":1466535666,
+    "wof:lastmodified":1472623981,
     "wof:name":"Mountain Supply Co",
     "wof:parent_id":85853729,
     "wof:placetype":"venue",

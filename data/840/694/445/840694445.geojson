@@ -2,6 +2,10 @@
   "id": 840694445,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Swan St Louisville KY 40204",
+    "addr:housenumber":"1111",
+    "addr:postcode":"40204",
+    "addr:street":"Swan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840694445,
-    "wof:lastmodified":1466534377,
+    "wof:lastmodified":1472623917,
     "wof:name":"Amvets Daniel Boone Post 1",
     "wof:parent_id":85821377,
     "wof:placetype":"venue",

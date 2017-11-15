@@ -2,6 +2,10 @@
   "id": 840725483,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S Green St Glasgow KY 42141",
+    "addr:housenumber":"500",
+    "addr:postcode":"42141",
+    "addr:street":"S Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840725483,
-    "wof:lastmodified":1466535168,
+    "wof:lastmodified":1472623968,
     "wof:name":"First United Methodist Church",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

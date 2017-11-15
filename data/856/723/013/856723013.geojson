@@ -2,14 +2,20 @@
   "id": 856723013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 Sir Barton Way Lexington KY 40509",
+    "addr:housenumber":"2150",
+    "addr:postcode":"40509",
+    "addr:street":"Sir Barton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419014,38.020827,-84.419014,38.020827",
     "geom:latitude":38.020827,
     "geom:longitude":-84.419014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2150 Sir Barton Way",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084695,
         85830425
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bYtzTXGiSvd5MW3ZWc0Rn_38.020827_-84.419014@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052711,
-    "wof:geomhash":"e3097ebcde1de74c920e4904603554b8",
+    "wof:geomhash":"a78a1c5e99b4a13de23fe841a71774e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856723013,
-    "wof:lastmodified":1466537028,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",

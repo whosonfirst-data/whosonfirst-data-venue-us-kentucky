@@ -2,14 +2,20 @@
   "id": 856759297,
   "type": "Feature",
   "properties": {
+    "addr:full":"6426 Taylor Mill Rd Independence KY 41051",
+    "addr:housenumber":"6426",
+    "addr:postcode":"41051",
+    "addr:street":"Taylor Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.508841,38.944495,-84.508841,38.944495",
     "geom:latitude":38.944495,
     "geom:longitude":-84.508841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6426 Taylor Mill Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102084469,
         85851399
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bukc9nOkMqLckLC1NYtJl_38.944495_-84.508841@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054100,
-    "wof:geomhash":"96f4c8d8ff183f9ef3a464f885ce3f30",
+    "wof:geomhash":"c0fc1b86efaae96c6e7d065aa260d6cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":856759297,
-    "wof:lastmodified":1466538432,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":85851399,
     "wof:placetype":"venue",

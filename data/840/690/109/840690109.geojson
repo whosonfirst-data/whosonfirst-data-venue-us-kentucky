@@ -2,14 +2,20 @@
   "id": 840690109,
   "type": "Feature",
   "properties": {
+    "addr:full":"2013 Westborough Dr Hebron KY 41048",
+    "addr:housenumber":"2013",
+    "addr:postcode":"41048",
+    "addr:street":"Westborough Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.732479,39.111648,-84.732479,39.111648",
     "geom:latitude":39.111648,
     "geom:longitude":-84.732479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2013 Westborough Dr",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087067,
         85839517
     ],
+    "wof:brand_id":420575339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j7TbYB3x4Z2z7rdJFzQ1U_39.111648_-84.732479@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464045815,
-    "wof:geomhash":"474330ed2bbd9167de7a9ffec09b8cd1",
+    "wof:geomhash":"479e00427a2043093009c5aebe365036",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840690109,
-    "wof:lastmodified":1466534131,
+    "wof:lastmodified":1510680909,
     "wof:name":"Ryland Homes",
     "wof:parent_id":85839517,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840908955,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 W Main St Louisville KY 40202",
+    "addr:housenumber":"401",
+    "addr:postcode":"40202",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840908955,
-    "wof:lastmodified":1466538801,
+    "wof:lastmodified":1472624275,
     "wof:name":"Pepper Law Office",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

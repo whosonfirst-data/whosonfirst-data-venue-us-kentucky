@@ -2,6 +2,10 @@
   "id": 856738859,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 E Main St Louisville KY 40202",
+    "addr:housenumber":"333",
+    "addr:postcode":"40202",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":856738859,
-    "wof:lastmodified":1466537537,
+    "wof:lastmodified":1472624101,
     "wof:name":"Commercial Kentucky",
     "wof:parent_id":85873387,
     "wof:placetype":"venue",

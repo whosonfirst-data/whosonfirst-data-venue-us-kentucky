@@ -2,6 +2,10 @@
   "id": 856709465,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S 18th St Louisville KY 40203",
+    "addr:housenumber":"111",
+    "addr:postcode":"40203",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":856709465,
-    "wof:lastmodified":1466535896,
+    "wof:lastmodified":1472623749,
     "wof:name":"Alpine Indoor Air Quality",
     "wof:parent_id":85873423,
     "wof:placetype":"venue",

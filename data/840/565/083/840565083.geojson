@@ -2,6 +2,10 @@
   "id": 840565083,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 N L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"328",
+    "addr:postcode":"42141",
+    "addr:street":"N L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840565083,
-    "wof:lastmodified":1466530941,
+    "wof:lastmodified":1472623783,
     "wof:name":"Custom Cutts",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840599701,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 N Main St Henderson KY 42420",
+    "addr:housenumber":"213",
+    "addr:postcode":"42420",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840599701,
-    "wof:lastmodified":1466531951,
+    "wof:lastmodified":1472623819,
     "wof:name":"Frank G Schmitt Co",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

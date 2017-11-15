@@ -2,6 +2,10 @@
   "id": 856755005,
   "type": "Feature",
   "properties": {
+    "addr:full":"3650 Boston Rd Lexington KY 40514",
+    "addr:housenumber":"3650",
+    "addr:postcode":"40514",
+    "addr:street":"Boston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":856755005,
-    "wof:lastmodified":1466538259,
+    "wof:lastmodified":1472624068,
     "wof:name":"Caddyshack Bar & Grill",
     "wof:parent_id":85873053,
     "wof:placetype":"venue",

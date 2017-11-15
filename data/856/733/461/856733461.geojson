@@ -2,14 +2,20 @@
   "id": 856733461,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 N Hurstbourne Pkwy Louisville KY 40222",
+    "addr:housenumber":"150",
+    "addr:postcode":"40222",
+    "addr:street":"N Hurstbourne Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.577371,38.24757,-85.577371,38.24757",
     "geom:latitude":38.24757,
     "geom:longitude":-85.577371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 N Hurstbourne Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0doQHs8FGpZVkWGzMHmQZa_38.247570_-85.577371@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053125,
-    "wof:geomhash":"595e9958db182c8956c82f977dcec669",
+    "wof:geomhash":"e2ff26ffd909847963205f638d89abde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856733461,
-    "wof:lastmodified":1466537251,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

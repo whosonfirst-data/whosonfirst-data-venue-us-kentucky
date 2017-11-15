@@ -2,14 +2,20 @@
   "id": 236525055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2913 S 9th St Ironton OH 45638",
+    "addr:housenumber":"2913",
+    "addr:postcode":"45638",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.657968,38.512465,-82.657968,38.512465",
     "geom:latitude":38.512465,
     "geom:longitude":-82.657968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2913 S 9th St",
     "sg:city":"Ironton",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         102084571,
         85845133
     ],
+    "wof:brand_id":1125152765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nvOZjpysd30cUT2pmcBW1_38.512465_-82.657968@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"4ca1af8b396285031c3557944b5f4184",
+    "wof:geomhash":"bef37aacc40028eb9638d4a52c004b39",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":236525055,
-    "wof:lastmodified":1466536747,
+    "wof:lastmodified":1510697159,
     "wof:name":"BP Oil Co",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",

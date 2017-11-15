@@ -2,6 +2,10 @@
   "id": 840797827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Arlington Ave Louisville KY 40206",
+    "addr:housenumber":"1500",
+    "addr:postcode":"40206",
+    "addr:street":"Arlington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840797827,
-    "wof:lastmodified":1466535119,
+    "wof:lastmodified":1472624054,
     "wof:name":"Network Printing",
     "wof:parent_id":85873399,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840844369,
   "type": "Feature",
   "properties": {
+    "addr:full":"1788 State Hwy 1016 Berea KY 40403",
+    "addr:housenumber":"1788",
+    "addr:postcode":"1016;40403",
+    "addr:street":"State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840844369,
-    "wof:lastmodified":1466537715,
+    "wof:lastmodified":1472624142,
     "wof:name":"Ceath Co",
     "wof:parent_id":85834011,
     "wof:placetype":"venue",

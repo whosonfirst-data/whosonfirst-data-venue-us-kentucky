@@ -2,6 +2,10 @@
   "id": 840913819,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 College St Somerset KY 42501",
+    "addr:housenumber":"301",
+    "addr:postcode":"42501",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":840913819,
-    "wof:lastmodified":1466538762,
+    "wof:lastmodified":1472624247,
     "wof:name":"Somerset High School",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

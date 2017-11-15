@@ -2,14 +2,20 @@
   "id": 856744753,
   "type": "Feature",
   "properties": {
+    "addr:full":"4727 Poplar Level Rd Louisville KY 40213",
+    "addr:housenumber":"4727",
+    "addr:postcode":"40213",
+    "addr:street":"Poplar Level Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.688202,38.175991,-85.688202,38.175991",
     "geom:latitude":38.175991,
     "geom:longitude":-85.688202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4727 Poplar Level Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -56,13 +62,14 @@
         102084449,
         85841437
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dl2eqyt5H8HuTw8h5qOhj_38.175991_-85.688202@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053555,
-    "wof:geomhash":"c70a94dd3425ffe2f4992e437a578bb8",
+    "wof:geomhash":"462006a17c9dced0c0938e3d3a3131a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":856744753,
-    "wof:lastmodified":1466537723,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",

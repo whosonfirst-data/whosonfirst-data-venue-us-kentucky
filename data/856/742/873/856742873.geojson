@@ -2,14 +2,20 @@
   "id": 856742873,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 S Hubbards Ln Louisville KY 40207",
+    "addr:housenumber":"117",
+    "addr:postcode":"40207",
+    "addr:street":"S Hubbards Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.640083,38.25118,-85.640083,38.25118",
     "geom:latitude":38.25118,
     "geom:longitude":-85.640083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 S Hubbards Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -58,13 +64,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125157157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RCplp6D6KjZHROEjLgrnu_38.251180_-85.640083@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053490,
-    "wof:geomhash":"bea9103140c3367411c9c23d7f45d58a",
+    "wof:geomhash":"efe8b89f7bf1b5ff79e19d3f422b845e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":856742873,
-    "wof:lastmodified":1466537379,
+    "wof:lastmodified":1510694090,
     "wof:name":"Feet First",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

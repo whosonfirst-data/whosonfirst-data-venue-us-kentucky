@@ -2,14 +2,20 @@
   "id": 840774181,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 Nicholasville Rd Lexington KY 40503",
+    "addr:housenumber":"2309",
+    "addr:postcode":"40503",
+    "addr:street":"Nicholasville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.519492,38.003668,-84.519492,38.003668",
     "geom:latitude":38.003668,
     "geom:longitude":-84.519492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2309 Nicholasville Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85947137,
         102084695
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HECXa8RmNYaSk9hssDupg_38.003668_-84.519492@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464047653,
-    "wof:geomhash":"5e3841ab44215e93dc20216d220aeca1",
+    "wof:geomhash":"4213fff68c2c6b7b710bc0ac5f0f8dad",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840774181,
-    "wof:lastmodified":1466536476,
+    "wof:lastmodified":1510602392,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",

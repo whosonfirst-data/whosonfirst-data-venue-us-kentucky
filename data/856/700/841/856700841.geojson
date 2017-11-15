@@ -2,14 +2,20 @@
   "id": 856700841,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Magazine St Louisville KY 40203",
+    "addr:housenumber":"711",
+    "addr:postcode":"40203",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.764584,38.248425,-85.764584,38.248425",
     "geom:latitude":38.248425,
     "geom:longitude":-85.764584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 Magazine St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85873381
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nVKYfNKNCMwF1nKYx5TUl_38.248425_-85.764584@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052077,
-    "wof:geomhash":"88d35e17ee474c0475f24de8e010ed87",
+    "wof:geomhash":"1d52e695625a507ea66b3d44ee70a7bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856700841,
-    "wof:lastmodified":1466533602,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
     "wof:parent_id":85873381,
     "wof:placetype":"venue",

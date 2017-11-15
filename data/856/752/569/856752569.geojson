@@ -2,6 +2,10 @@
   "id": 856752569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 Alliant Ave 10-11 Louisville KY 40299",
+    "addr:housenumber":"1717;10-11",
+    "addr:postcode":"40299",
+    "addr:street":"Alliant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":856752569,
-    "wof:lastmodified":1466538362,
+    "wof:lastmodified":1472624117,
     "wof:name":"Agc",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

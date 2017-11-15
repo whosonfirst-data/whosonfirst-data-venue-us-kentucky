@@ -2,6 +2,10 @@
   "id": 840801669,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Dannywood Rd Louisville KY 40220",
+    "addr:housenumber":"4321",
+    "addr:postcode":"40220",
+    "addr:street":"Dannywood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840801669,
-    "wof:lastmodified":1466536240,
+    "wof:lastmodified":1472624044,
     "wof:name":"East End Installations LLC",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

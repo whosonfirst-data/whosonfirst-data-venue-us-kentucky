@@ -2,6 +2,10 @@
   "id": 840815851,
   "type": "Feature",
   "properties": {
+    "addr:full":"578 State Hwy 1056 Pinsonfork KY 41555",
+    "addr:housenumber":"578",
+    "addr:postcode":"1056;41555",
+    "addr:street":"State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840815851,
-    "wof:lastmodified":1466536912,
+    "wof:lastmodified":1472624047,
     "wof:name":"Inkeeper",
     "wof:parent_id":85853729,
     "wof:placetype":"venue",

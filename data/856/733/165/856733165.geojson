@@ -2,14 +2,20 @@
   "id": 856733165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Bardstown Rd Louisville KY 40218",
+    "addr:housenumber":"3401",
+    "addr:postcode":"40218",
+    "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.66656,38.205646,-85.66656,38.205646",
     "geom:latitude":38.205646,
     "geom:longitude":-85.66656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 Bardstown Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084449,
         85866953
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uB5V15pVSQCNPxAxcYDjA_38.205646_-85.666560@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053115,
-    "wof:geomhash":"547ec29917d4a64aa1fa147add0bcc8f",
+    "wof:geomhash":"a71776c18e15daf0b5e67577a5de7154",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856733165,
-    "wof:lastmodified":1466537296,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

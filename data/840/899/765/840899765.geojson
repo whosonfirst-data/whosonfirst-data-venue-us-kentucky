@@ -2,6 +2,10 @@
   "id": 840899765,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Bainbridge Dr Lexington KY 40509",
+    "addr:housenumber":"321",
+    "addr:postcode":"40509",
+    "addr:street":"Bainbridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840899765,
-    "wof:lastmodified":1466538703,
+    "wof:lastmodified":1472624236,
     "wof:name":"Derbytowne Apts",
     "wof:parent_id":85808767,
     "wof:placetype":"venue",

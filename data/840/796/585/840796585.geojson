@@ -2,14 +2,20 @@
   "id": 840796585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Bardstown Rd Louisville KY 40218",
+    "addr:housenumber":"3333",
+    "addr:postcode":"40218",
+    "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.667172,38.20625,-85.667172,38.20625",
     "geom:latitude":38.20625,
     "geom:longitude":-85.667172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3333 Bardstown Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85866953,
         85873393
     ],
+    "wof:brand_id":1125152337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oQwzUUx1VneTWf6BwGm1l_38.206250_-85.667172@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048110,
-    "wof:geomhash":"8b3070d4b06c170304d76dafd017c4ca",
+    "wof:geomhash":"340ca324c003d7fecc90d297491a8d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":840796585,
-    "wof:lastmodified":1466534752,
+    "wof:lastmodified":1510693921,
     "wof:name":"Express Check Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

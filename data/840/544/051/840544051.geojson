@@ -2,6 +2,10 @@
   "id": 840544051,
   "type": "Feature",
   "properties": {
+    "addr:full":"12412 la Grange Rd Louisville KY 40245",
+    "addr:housenumber":"12412",
+    "addr:postcode":"40245",
+    "addr:street":"La Grange Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840544051,
-    "wof:lastmodified":1466530444,
+    "wof:lastmodified":1472623772,
     "wof:name":"Thorntons Inc",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

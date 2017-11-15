@@ -2,14 +2,20 @@
   "id": 856740613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 W Jefferson St Louisville KY 40203",
+    "addr:housenumber":"1419",
+    "addr:postcode":"40203",
+    "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.773936,38.255679,-85.773936,38.255679",
     "geom:latitude":38.255679,
     "geom:longitude":-85.773936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1419 W Jefferson St",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084449,
         85873423
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DShTW7vwchQhRrFtnlWQg_38.255679_-85.773936@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053411,
-    "wof:geomhash":"d11ad6df1d3a4e3914bbe10f7facc5d8",
+    "wof:geomhash":"90ace5049cc1e5041c3a9fa4c7e03a65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856740613,
-    "wof:lastmodified":1466537530,
+    "wof:lastmodified":1510694090,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85873423,
     "wof:placetype":"venue",

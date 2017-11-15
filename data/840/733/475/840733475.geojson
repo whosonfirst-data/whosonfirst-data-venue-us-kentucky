@@ -2,14 +2,20 @@
   "id": 840733475,
   "type": "Feature",
   "properties": {
+    "addr:full":"3898 US Hwy 150 Byp Danville KY 40422",
+    "addr:housenumber":"3898",
+    "addr:postcode":"40422",
+    "addr:street":"Us Hwy 150 Byp;Ky",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.748068,37.620842,-84.748068,37.620842",
     "geom:latitude":37.620842,
     "geom:longitude":-84.748068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3898 US Hwy 150 Byp",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102085579,
         85805997
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S4V1qh4arC0abdN0g1G08_37.620842_-84.748068@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046771,
-    "wof:geomhash":"e49c67b41eb4b406a3c90171ef3148b9",
+    "wof:geomhash":"72193cf5fccc373b0f521866c4bdda88",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":840733475,
-    "wof:lastmodified":1466535395,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85805997,
     "wof:placetype":"venue",

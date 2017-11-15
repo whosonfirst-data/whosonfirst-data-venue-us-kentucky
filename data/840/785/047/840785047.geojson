@@ -2,6 +2,10 @@
   "id": 840785047,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 S Main St Elizabethtown KY 42701",
+    "addr:housenumber":"212",
+    "addr:postcode":"42701",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840785047,
-    "wof:lastmodified":1466531611,
+    "wof:lastmodified":1472624010,
     "wof:name":"Hardin County Ambulance Svc",
     "wof:parent_id":85820925,
     "wof:placetype":"venue",

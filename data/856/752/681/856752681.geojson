@@ -2,14 +2,20 @@
   "id": 856752681,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Carley Dr Georgetown KY 40324",
+    "addr:housenumber":"110",
+    "addr:postcode":"40324",
+    "addr:street":"Carley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.543182,38.198372,-84.543182,38.198372",
     "geom:latitude":38.198372,
     "geom:longitude":-84.543182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Carley Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085651,
         85826837
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jNAbt2R5dDRovC5zTU83j_38.198372_-84.543182@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053857,
-    "wof:geomhash":"c81883a8bdce4124d2b1ecaaea28a6df",
+    "wof:geomhash":"ab73f00d6937a0e64ad198980b92bc46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856752681,
-    "wof:lastmodified":1466538212,
+    "wof:lastmodified":1510696827,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",

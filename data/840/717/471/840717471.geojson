@@ -2,6 +2,10 @@
   "id": 840717471,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Amy Ave Louisville KY 40212",
+    "addr:housenumber":"311",
+    "addr:postcode":"40212",
+    "addr:street":"Amy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840717471,
-    "wof:lastmodified":1466534960,
+    "wof:lastmodified":1472623948,
     "wof:name":"Club 311",
     "wof:parent_id":85848069,
     "wof:placetype":"venue",

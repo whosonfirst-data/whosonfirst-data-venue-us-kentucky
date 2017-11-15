@@ -2,14 +2,20 @@
   "id": 856737101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1807 N Dixie Hwy Elizabethtown KY 42701",
+    "addr:housenumber":"1807",
+    "addr:postcode":"42701",
+    "addr:street":"N Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.887632,37.735612,-85.887632,37.735612",
     "geom:latitude":37.735612,
     "geom:longitude":-85.887632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1807 N Dixie Hwy",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084595,
         85826831
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ggE0jRxUcdOZlldROwhA4_37.735612_-85.887632@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053266,
-    "wof:geomhash":"c0458c44ae96ecffafd55567c2ce1476",
+    "wof:geomhash":"baa373b5b90384327fc1dd2353dd12d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856737101,
-    "wof:lastmodified":1466537393,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85826831,
     "wof:placetype":"venue",

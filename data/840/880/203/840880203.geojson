@@ -2,14 +2,20 @@
   "id": 840880203,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Dolphin Dr Elizabethtown KY 42701",
+    "addr:housenumber":"3030",
+    "addr:postcode":"42701",
+    "addr:street":"Dolphin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.837508,37.711869,-85.837508,37.711869",
     "geom:latitude":37.711869,
     "geom:longitude":-85.837508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 Dolphin Dr",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084595,
         85826831
     ],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FbjiuBLlY13nxYuBcUbPm_37.711869_-85.837508@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050079,
-    "wof:geomhash":"a605b404bdd443268ffe9425a3e1db70",
+    "wof:geomhash":"66f2686d9eda1b1521dfa41f2f1d6eaf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840880203,
-    "wof:lastmodified":1466538232,
+    "wof:lastmodified":1510603089,
     "wof:name":"Great Clips",
     "wof:parent_id":85826831,
     "wof:placetype":"venue",

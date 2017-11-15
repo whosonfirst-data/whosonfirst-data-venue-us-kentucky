@@ -2,14 +2,20 @@
   "id": 840630883,
   "type": "Feature",
   "properties": {
+    "addr:full":"2447 Russellville Rd Bowling Green KY 42101",
+    "addr:housenumber":"2447",
+    "addr:postcode":"42101",
+    "addr:street":"Russellville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.482558,36.967165,-86.482558,36.967165",
     "geom:latitude":36.967165,
     "geom:longitude":-86.482558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2447 Russellville Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084479,
         85850751
     ],
+    "wof:brand_id":1125156593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cd1Ye6Xs6Yn6GXBgl7pFC_36.967165_-86.482558@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044463,
-    "wof:geomhash":"32a3722ad14fd28cc8585b665daf2c64",
+    "wof:geomhash":"55e011e83c27d2e39228475a07f35bcd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840630883,
-    "wof:lastmodified":1466532795,
+    "wof:lastmodified":1510694626,
     "wof:name":"Jr Food Market",
     "wof:parent_id":85850751,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840726537,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 State Hwy 1664 Nancy KY 42544",
+    "addr:housenumber":"4100",
+    "addr:postcode":"1664;42544",
+    "addr:street":"State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":840726537,
-    "wof:lastmodified":1466535249,
+    "wof:lastmodified":1472623971,
     "wof:name":"Bethlehem Baptist Church",
     "wof:parent_id":85806809,
     "wof:placetype":"venue",

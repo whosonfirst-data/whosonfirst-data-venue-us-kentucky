@@ -2,14 +2,20 @@
   "id": 840584917,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Klutey Park Dr Henderson KY 42420",
+    "addr:housenumber":"215",
+    "addr:postcode":"42420",
+    "addr:street":"Klutey Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.570065,37.833951,-87.570065,37.833951",
     "geom:latitude":37.833951,
     "geom:longitude":-87.570065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Klutey Park Dr",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084487,
         85854905
     ],
+    "wof:brand_id":1125158311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m3diGM47S8hTAKVvd39ER_37.833951_-87.570065@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464043312,
-    "wof:geomhash":"af2a63caa78a50420e34d6cf8bf4758a",
+    "wof:geomhash":"3451d0328c33f545eb45e524904d6115",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840584917,
-    "wof:lastmodified":1466531586,
+    "wof:lastmodified":1510693214,
     "wof:name":"Head Quarters",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

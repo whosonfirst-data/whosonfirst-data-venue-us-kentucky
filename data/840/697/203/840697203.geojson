@@ -2,14 +2,20 @@
   "id": 840697203,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 US Hwy 31 W Byp Bowling Green KY 42101",
+    "addr:housenumber":"802",
+    "addr:postcode":"42101",
+    "addr:street":"Us Hwy 31 W Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.431604,36.98539,-86.431604,36.98539",
     "geom:latitude":36.98539,
     "geom:longitude":-86.431604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 US Hwy 31 W Byp",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084479,
         85807351
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qr7bBLdNRAtwvRIuDrQP7_36.985390_-86.431604@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046002,
-    "wof:geomhash":"a31d47be1e5e961c9da4e99aaf99e71d",
+    "wof:geomhash":"d4967f102fd7ab1e7a242742f5bac5db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840697203,
-    "wof:lastmodified":1466534383,
+    "wof:lastmodified":1510622662,
     "wof:name":"Economy Inn",
     "wof:parent_id":85807351,
     "wof:placetype":"venue",

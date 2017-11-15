@@ -2,14 +2,20 @@
   "id": 856745231,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 Olde Colony Cv Louisville KY 40214",
+    "addr:housenumber":"402",
+    "addr:postcode":"40214",
+    "addr:street":"Olde Colony Cv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.762064,38.144115,-85.762064,38.144115",
     "geom:latitude":38.144115,
     "geom:longitude":-85.762064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 Olde Colony Cv",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084449,
         85828155
     ],
+    "wof:brand_id":1125154435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k8ExBrjLu7Mq8qeU5AOnR_38.144115_-85.762064@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053572,
-    "wof:geomhash":"c02c85474f41e4a0287ba41545cefee1",
+    "wof:geomhash":"867787fc7bcddd7af5433d47f657a528",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856745231,
-    "wof:lastmodified":1466537657,
+    "wof:lastmodified":1510696745,
     "wof:name":"Golden Nails",
     "wof:parent_id":85828155,
     "wof:placetype":"venue",

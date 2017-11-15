@@ -2,6 +2,10 @@
   "id": 856747103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Industrial Blvd Louisville KY 40219",
+    "addr:housenumber":"1000",
+    "addr:postcode":"40219",
+    "addr:street":"Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856747103,
-    "wof:lastmodified":1466537768,
+    "wof:lastmodified":1472624063,
     "wof:name":"A & W-Dukes Trailer Hitches",
     "wof:parent_id":85843121,
     "wof:placetype":"venue",

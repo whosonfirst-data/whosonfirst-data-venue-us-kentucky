@@ -2,14 +2,20 @@
   "id": 856761383,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Hinkleville Rd Paducah KY 42001",
+    "addr:housenumber":"3901",
+    "addr:postcode":"42001",
+    "addr:street":"Hinkleville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.666641,37.082813,-88.666641,37.082813",
     "geom:latitude":37.082813,
     "geom:longitude":-88.666641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3901 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         85820867,
         102084607
     ],
+    "wof:brand_id":420574021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rFHlbP5rxdyJrcj4zm5Gh_37.082813_-88.666641@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054174,
-    "wof:geomhash":"7aec41857646c1935c4420885fb9eee9",
+    "wof:geomhash":"272fe28db8b97ddcfec601e9d9f87a14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -42,7 +49,7 @@
         }
     ],
     "wof:id":856761383,
-    "wof:lastmodified":1466538561,
+    "wof:lastmodified":1510604451,
     "wof:name":"Days Inn",
     "wof:parent_id":85820867,
     "wof:placetype":"venue",

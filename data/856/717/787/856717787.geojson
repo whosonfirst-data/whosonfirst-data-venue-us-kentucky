@@ -2,14 +2,20 @@
   "id": 856717787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Adams St Bowling Green KY 42101",
+    "addr:housenumber":"1205",
+    "addr:postcode":"42101",
+    "addr:street":"Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.449745,36.993641,-86.449745,36.993641",
     "geom:latitude":36.993641,
     "geom:longitude":-86.449745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Adams St",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084479,
         85812881
     ],
+    "wof:brand_id":1125156061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vKY77nu65KZ2unKI2VLh8_36.993641_-86.449745@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052496,
-    "wof:geomhash":"22f9a96e3b7cb06a9b61592c58b66e7c",
+    "wof:geomhash":"14d9077f69200d40dcc90161671e1a94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856717787,
-    "wof:lastmodified":1466537050,
+    "wof:lastmodified":1510696903,
     "wof:name":"Clark Retail Enterprises Inc",
     "wof:parent_id":85812881,
     "wof:placetype":"venue",

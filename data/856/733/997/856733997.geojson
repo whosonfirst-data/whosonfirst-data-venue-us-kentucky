@@ -2,14 +2,20 @@
   "id": 856733997,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Lawson Dr Georgetown KY 40324",
+    "addr:housenumber":"101",
+    "addr:postcode":"40324",
+    "addr:street":"Lawson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.536342,38.232752,-84.536342,38.232752",
     "geom:latitude":38.232752,
     "geom:longitude":-84.536342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Lawson Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085651,
         85826837
     ],
+    "wof:brand_id":1125152781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36gP6j95Xtrt1cyerD7fTQ_38.232752_-84.536342@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053145,
-    "wof:geomhash":"175818040a0f607eb0361effc94b897c",
+    "wof:geomhash":"aaa890938b4a46f996816144861290e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856733997,
-    "wof:lastmodified":1466537269,
+    "wof:lastmodified":1510697426,
     "wof:name":"Gold Star Chili",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",

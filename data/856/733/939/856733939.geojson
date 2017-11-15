@@ -2,14 +2,20 @@
   "id": 856733939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2002 Papa Johns Blvd Louisville KY 40299",
+    "addr:housenumber":"2002",
+    "addr:postcode":"40299",
+    "addr:street":"Papa Johns Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.53078,38.212609,-85.53078,38.212609",
     "geom:latitude":38.212609,
     "geom:longitude":-85.53078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2002 Papa Johns Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":420574201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43kpFq0poofA4FtwA2mRDR_38.212609_-85.530780@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053143,
-    "wof:geomhash":"8aec274d7fa4b5d64cdc514c530595e4",
+    "wof:geomhash":"c4647eb428c0b47f4248d44e006abb72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856733939,
-    "wof:lastmodified":1466537370,
+    "wof:lastmodified":1510604525,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

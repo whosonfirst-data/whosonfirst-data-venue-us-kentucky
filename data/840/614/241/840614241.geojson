@@ -2,6 +2,10 @@
   "id": 840614241,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 W Main St Danville KY 40422",
+    "addr:housenumber":"321",
+    "addr:postcode":"40422",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":840614241,
-    "wof:lastmodified":1466532184,
+    "wof:lastmodified":1472623846,
     "wof:name":"Boyle Property Valuation Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

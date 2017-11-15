@@ -2,14 +2,20 @@
   "id": 840908897,
   "type": "Feature",
   "properties": {
+    "addr:full":"2814 Tompkinsville Rd Glasgow KY 42141",
+    "addr:housenumber":"2814",
+    "addr:postcode":"42141",
+    "addr:street":"Tompkinsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.887471,36.960565,-85.887471,36.960565",
     "geom:latitude":36.960565,
     "geom:longitude":-85.887471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2814 Tompkinsville Rd",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085537,
         85846071
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JwFZ30yiDqXSIA4spEl01_36.960565_-85.887471@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050693,
-    "wof:geomhash":"2a68992fe6794384ffcac6a09fb86437",
+    "wof:geomhash":"cb452708ae8b6c0882541ecd663a4959",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840908897,
-    "wof:lastmodified":1466538794,
+    "wof:lastmodified":1510615133,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

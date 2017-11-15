@@ -2,14 +2,20 @@
   "id": 840785955,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 S Keeneland Dr Richmond KY 40475",
+    "addr:housenumber":"107",
+    "addr:postcode":"40475",
+    "addr:street":"S Keeneland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.319292,37.775946,-84.319292,37.775946",
     "geom:latitude":37.775946,
     "geom:longitude":-84.319292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 S Keeneland Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084575,
         85803509
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zoJ4Z2YKEfjxUylNks5P6_37.775946_-84.319292@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464047900,
-    "wof:geomhash":"cc013763917f83fbc008ef51374bf698",
+    "wof:geomhash":"a66d33895616a726514a6b4aba947c90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840785955,
-    "wof:lastmodified":1466531828,
+    "wof:lastmodified":1510602388,
     "wof:name":"Hardee's",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

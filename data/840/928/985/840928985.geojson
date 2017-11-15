@@ -2,14 +2,20 @@
   "id": 840928985,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Franklin St Henderson KY 42420",
+    "addr:housenumber":"106",
+    "addr:postcode":"42420",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.570058,37.831589,-87.570058,37.831589",
     "geom:latitude":37.831589,
     "geom:longitude":-87.570058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Franklin St",
     "sg:city":"Henderson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084487,
         85854905
     ],
+    "wof:brand_id":1125154141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RdhdueM1tCMuT4E5f61ed_37.831589_-87.570058@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051226,
-    "wof:geomhash":"3cab0efa27b2379a92fa6553bca5eaa4",
+    "wof:geomhash":"a5533de1df5407c5557656367e335e7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840928985,
-    "wof:lastmodified":1466539021,
+    "wof:lastmodified":1510694978,
     "wof:name":"Razor's Edge",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

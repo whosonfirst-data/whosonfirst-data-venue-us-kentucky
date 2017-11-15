@@ -2,6 +2,10 @@
   "id": 856754663,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Codell Dr Apt 278 Lexington KY 40509",
+    "addr:housenumber":"215;278",
+    "addr:postcode":"40509",
+    "addr:street":"Codell Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856754663,
-    "wof:lastmodified":1466538089,
+    "wof:lastmodified":1472624117,
     "wof:name":"Bentley Of Kentucky Ltd",
     "wof:parent_id":85873047,
     "wof:placetype":"venue",

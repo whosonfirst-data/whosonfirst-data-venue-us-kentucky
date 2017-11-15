@@ -2,14 +2,20 @@
   "id": 840739711,
   "type": "Feature",
   "properties": {
+    "addr:full":"3007 Trimble St Paducah KY 42001",
+    "addr:housenumber":"3007",
+    "addr:postcode":"42001",
+    "addr:street":"Trimble St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.639655,37.077589,-88.639655,37.077589",
     "geom:latitude":37.077589,
     "geom:longitude":-88.639655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3007 Trimble St",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084607,
         85846263
     ],
+    "wof:brand_id":1125155005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34N6WbtPxfJunPax1sffzG_37.077589_-88.639655@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046891,
-    "wof:geomhash":"300d149ba01ac81127a4aa19c69c36e0",
+    "wof:geomhash":"aebd67820dc525cb56182dd91c551e4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840739711,
-    "wof:lastmodified":1466535667,
+    "wof:lastmodified":1510699951,
     "wof:name":"Great Expectations",
     "wof:parent_id":85846263,
     "wof:placetype":"venue",

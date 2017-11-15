@@ -2,6 +2,10 @@
   "id": 856738879,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Main St Fl 11 Louisville KY 40202",
+    "addr:housenumber":"500;11",
+    "addr:postcode":"40202",
+    "addr:street":"W Main St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":856738879,
-    "wof:lastmodified":1466537625,
+    "wof:lastmodified":1472624100,
     "wof:name":"Emphesys Insurance Company",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840824561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2033 Nashville Rd Bowling Green KY 42101",
+    "addr:housenumber":"2033",
+    "addr:postcode":"42101",
+    "addr:street":"Nashville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.461909,36.9714,-86.461909,36.9714",
     "geom:latitude":36.9714,
     "geom:longitude":-86.461909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2033 Nashville Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084479,
         85812881
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bvEtU67IvbcTtBMF63S13_36.971400_-86.461909@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048883,
-    "wof:geomhash":"29698adfa9da84cf88ca9c72eaee050b",
+    "wof:geomhash":"70370bdb091d57a2f5b220b8e0214423",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840824561,
-    "wof:lastmodified":1466537248,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85812881,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856762221,
   "type": "Feature",
   "properties": {
+    "addr:full":"632 N 12th St Murray KY 42071",
+    "addr:housenumber":"632",
+    "addr:postcode":"42071",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.315036,36.619256,-88.315036,36.619256",
     "geom:latitude":36.619256,
     "geom:longitude":-88.315036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"632 N 12th St",
     "sg:city":"Murray",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084395,
         85819475
     ],
+    "wof:brand_id":420575659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YmHLhd8JNQDHhPk498NKP_36.619256_-88.315036@1303262752"
     },
     "wof:country":"US",
     "wof:created":1464054208,
-    "wof:geomhash":"251f591d49f432bdab9b59208e5e5179",
+    "wof:geomhash":"8ebedad71161b9db4c07c6c32f2737d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856762221,
-    "wof:lastmodified":1466538523,
+    "wof:lastmodified":1510602097,
     "wof:name":"The UPS Store",
     "wof:parent_id":85819475,
     "wof:placetype":"venue",

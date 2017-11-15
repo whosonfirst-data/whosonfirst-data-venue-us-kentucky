@@ -2,14 +2,20 @@
   "id": 840683315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1061 Husband Rd Paducah KY 42003",
+    "addr:housenumber":"1061",
+    "addr:postcode":"42003",
+    "addr:street":"Husband Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.58156,37.052085,-88.58156,37.052085",
     "geom:latitude":37.052085,
     "geom:longitude":-88.58156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1061 Husband Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084607,
         85852949
     ],
+    "wof:brand_id":1125153473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WTvyakriEskaslHXN4eYM_37.052085_-88.581560@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464045657,
-    "wof:geomhash":"2e5f5fb815e71d0b92588b3d2bf14077",
+    "wof:geomhash":"5f075c9d5a45d283b2b3ac3678c0aeaf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840683315,
-    "wof:lastmodified":1466534043,
+    "wof:lastmodified":1510699665,
     "wof:name":"Renal Care Group",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",

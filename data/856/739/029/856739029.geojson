@@ -2,14 +2,20 @@
   "id": 856739029,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N 7th St Louisville KY 40202",
+    "addr:housenumber":"101",
+    "addr:postcode":"40202",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.761482,38.25713,-85.761482,38.25713",
     "geom:latitude":38.25713,
     "geom:longitude":-85.761482,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 N 7th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85873435
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oGwBn05B8wQVg67ATGSs8_38.257130_-85.761482@1303262745"
     },
     "wof:country":"US",
     "wof:created":1464053344,
-    "wof:geomhash":"30de36e602645ef1d46d385aceaa4734",
+    "wof:geomhash":"e9f5cd2c078a40d68e1a4acf4352a36c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856739029,
-    "wof:lastmodified":1466537417,
+    "wof:lastmodified":1510698675,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

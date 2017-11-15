@@ -2,14 +2,20 @@
   "id": 856748755,
   "type": "Feature",
   "properties": {
+    "addr:full":"10041 Forest Green Blvd Louisville KY 40223",
+    "addr:housenumber":"10041",
+    "addr:postcode":"40223",
+    "addr:street":"Forest Green Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.570795,38.263102,-85.570795,38.263102",
     "geom:latitude":38.263102,
     "geom:longitude":-85.570795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10041 Forest Green Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102084449,
         85866953
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GMvZxz1XmLUNH27KZm3JW_38.263102_-85.570795@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053701,
-    "wof:geomhash":"981d98eb95d88dcef6766ba2f809fcdb",
+    "wof:geomhash":"764c28756149c60154530c82e6e902a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":856748755,
-    "wof:lastmodified":1466537912,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840928607,
   "type": "Feature",
   "properties": {
+    "addr:full":"6810 Preston Hwy Okolona KY 40219",
+    "addr:housenumber":"6810",
+    "addr:postcode":"40219",
+    "addr:street":"Preston Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.694731,38.152712,-85.694731,38.152712",
     "geom:latitude":38.152712,
     "geom:longitude":-85.694731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6810 Preston Hwy",
     "sg:city":"Okolona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85843121
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pdh2SfnCbEMApnfAMc9aI_38.152712_-85.694731@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051218,
-    "wof:geomhash":"ed0c7585d2b43cc9f4928c20cb8d1165",
+    "wof:geomhash":"c46c1b44876f2b6df61b4d028d5ce6fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840928607,
-    "wof:lastmodified":1466539010,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":85843121,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840949165,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 W Muhammad Ali Blvd Louisville KY 40202",
+    "addr:housenumber":"429",
+    "addr:postcode":"40202",
+    "addr:street":"W Muhammad Ali Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.757796,38.251231,-85.757796,38.251231",
     "geom:latitude":38.251231,
     "geom:longitude":-85.757796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"429 W Muhammad Ali Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85866963
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BogB11eLFW2RUt1hPxGNg_38.251231_-85.757796@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051635,
-    "wof:geomhash":"9c22d709170be4b71e14be062833274d",
+    "wof:geomhash":"22b604b673572b7193ca8eca3733e32d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840949165,
-    "wof:lastmodified":1466539102,
+    "wof:lastmodified":1510607666,
     "wof:name":"Central Parking System",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",

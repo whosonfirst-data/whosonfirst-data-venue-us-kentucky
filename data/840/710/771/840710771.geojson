@@ -2,6 +2,10 @@
   "id": 840710771,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"4231",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840710771,
-    "wof:lastmodified":1466534808,
+    "wof:lastmodified":1472623953,
     "wof:name":"Fisherman's Catch",
     "wof:parent_id":85824429,
     "wof:placetype":"venue",

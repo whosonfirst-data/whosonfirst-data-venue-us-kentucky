@@ -2,6 +2,10 @@
   "id": 840760603,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 E Gray St Louisville KY 40202",
+    "addr:housenumber":"234",
+    "addr:postcode":"40202",
+    "addr:street":"E Gray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840760603,
-    "wof:lastmodified":1466536250,
+    "wof:lastmodified":1472624040,
     "wof:name":"Pediatric Pulmonary Medicine",
     "wof:parent_id":85873407,
     "wof:placetype":"venue",

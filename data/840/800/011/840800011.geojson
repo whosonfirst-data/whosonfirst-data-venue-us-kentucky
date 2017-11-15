@@ -2,6 +2,10 @@
   "id": 840800011,
   "type": "Feature",
   "properties": {
+    "addr:full":"13108 Trump Ave Louisville KY 40299",
+    "addr:housenumber":"13108",
+    "addr:postcode":"40299",
+    "addr:street":"Trump Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840800011,
-    "wof:lastmodified":1466535728,
+    "wof:lastmodified":1472624004,
     "wof:name":"Bryant & Assoc",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

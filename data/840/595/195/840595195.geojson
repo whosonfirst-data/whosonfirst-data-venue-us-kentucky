@@ -2,6 +2,10 @@
   "id": 840595195,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Saratoga Woods Dr Louisville KY 40299",
+    "addr:housenumber":"4321",
+    "addr:postcode":"40299",
+    "addr:street":"Saratoga Woods Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840595195,
-    "wof:lastmodified":1466531650,
+    "wof:lastmodified":1472623775,
     "wof:name":"Promotional Outfitters",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840658811,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Clay Dr Berea KY 40403",
+    "addr:housenumber":"109",
+    "addr:postcode":"40403",
+    "addr:street":"Clay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.284269,37.584526,-84.284269,37.584526",
     "geom:latitude":37.584526,
     "geom:longitude":-84.284269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Clay Dr",
     "sg:city":"Berea",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084575,
         85834011
     ],
+    "wof:brand_id":1125159833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KHrZeHBMQwOVmkCz1drH9_37.584526_-84.284269@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464045080,
-    "wof:geomhash":"9d99028ce43dbdacff9f6e21704393c5",
+    "wof:geomhash":"2fb57be673624199e938d58147794ba5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840658811,
-    "wof:lastmodified":1466533540,
+    "wof:lastmodified":1510613378,
     "wof:name":"Classy Cuts",
     "wof:parent_id":85834011,
     "wof:placetype":"venue",

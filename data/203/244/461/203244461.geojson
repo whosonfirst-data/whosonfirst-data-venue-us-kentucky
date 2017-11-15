@@ -2,9 +2,14 @@
   "id": 203244461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1136 Saint Gregory St Cincinnati OH 45202",
+    "addr:housenumber":"1136",
+    "addr:postcode":"45202",
+    "addr:street":"Saint Gregory St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.497468,39.10921,-84.497468,39.10921",
     "geom:latitude":39.10921,
     "geom:longitude":-84.497468,
@@ -35,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688641,
+        85835433,
+        102191575,
+        404523793,
         85633793,
-        102085439,
-        85835433
+        101712203,
+        102083687,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +56,18 @@
     "wof:geomhash":"bb212cfd206b04590858a9f23074eb17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085439,
-            "locality_id":-1,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
             "neighbourhood_id":85835433,
-            "region_id":85688641,
+            "region_id":85688485,
             "venue_id":203244461
         }
     ],
     "wof:id":203244461,
-    "wof:lastmodified":1466536641,
+    "wof:lastmodified":1491937438,
     "wof:name":"Insignia Design Associates",
     "wof:parent_id":85835433,
     "wof:placetype":"venue",

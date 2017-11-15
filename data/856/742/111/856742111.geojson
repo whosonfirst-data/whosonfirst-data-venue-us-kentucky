@@ -2,6 +2,10 @@
   "id": 856742111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2303 River Rd Ste 301 Louisville KY 40206",
+    "addr:housenumber":"2303",
+    "addr:postcode":"40206",
+    "addr:street":"River Rd Ste 301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856742111,
-    "wof:lastmodified":1466537450,
+    "wof:lastmodified":1472624067,
     "wof:name":"Louisville Scrap Materials Div",
     "wof:parent_id":85873385,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856746185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2014 Landing Dr Apt 18 Louisville KY 40218",
+    "addr:housenumber":"2014;18",
+    "addr:postcode":"40218",
+    "addr:street":"Landing Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856746185,
-    "wof:lastmodified":1466537787,
+    "wof:lastmodified":1472624076,
     "wof:name":"247 Cab",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",

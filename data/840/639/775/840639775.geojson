@@ -2,6 +2,10 @@
   "id": 840639775,
   "type": "Feature",
   "properties": {
+    "addr:full":"3234 Herman St Louisville KY 40212",
+    "addr:housenumber":"3234",
+    "addr:postcode":"40212",
+    "addr:street":"Herman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840639775,
-    "wof:lastmodified":1466533011,
+    "wof:lastmodified":1472623863,
     "wof:name":"Operation Grass Roots",
     "wof:parent_id":85848069,
     "wof:placetype":"venue",

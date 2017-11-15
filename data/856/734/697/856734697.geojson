@@ -2,14 +2,20 @@
   "id": 856734697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1890 Star Shoot Pkwy Lexington KY 40509",
+    "addr:housenumber":"1890",
+    "addr:postcode":"40509",
+    "addr:street":"Star Shoot Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419627,38.025196,-84.419627,38.025196",
     "geom:latitude":38.025196,
     "geom:longitude":-84.419627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1890 Star Shoot Pkwy",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102084695,
         85830425
     ],
+    "wof:brand_id":1125151723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IgSFjhDtesuzfGoANrwmj_38.025196_-84.419627@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053171,
-    "wof:geomhash":"8ebbe89df9ac18ef3efb02edd831bd09",
+    "wof:geomhash":"846689ac8a06c2bff98f10a003cf8e28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856734697,
-    "wof:lastmodified":1466537617,
+    "wof:lastmodified":1510613411,
     "wof:name":"Cosi",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",

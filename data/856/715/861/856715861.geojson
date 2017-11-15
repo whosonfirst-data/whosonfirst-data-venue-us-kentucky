@@ -2,6 +2,10 @@
   "id": 856715861,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 S Frank Denham Rd Somerset KY 42501",
+    "addr:housenumber":"140",
+    "addr:postcode":"42501",
+    "addr:street":"S;Denham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856715861,
-    "wof:lastmodified":1466537025,
+    "wof:lastmodified":1472623811,
     "wof:name":"Ken Denham",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

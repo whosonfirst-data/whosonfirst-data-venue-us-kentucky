@@ -2,6 +2,10 @@
   "id": 840839025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W Muhammad Ali Blvd Louisville KY 40203",
+    "addr:housenumber":"1300",
+    "addr:postcode":"40203",
+    "addr:street":"W Muhammad Ali Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840839025,
-    "wof:lastmodified":1466537678,
+    "wof:lastmodified":1472624072,
     "wof:name":"Louisville Central Community",
     "wof:parent_id":85873381,
     "wof:placetype":"venue",

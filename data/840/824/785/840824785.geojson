@@ -2,6 +2,10 @@
   "id": 840824785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Taylor Ave Louisville KY 40213",
+    "addr:housenumber":"1800",
+    "addr:postcode":"40213",
+    "addr:street":"Taylor Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840824785,
-    "wof:lastmodified":1466537045,
+    "wof:lastmodified":1472624078,
     "wof:name":"Ace Louisville Warehouse",
     "wof:parent_id":85809133,
     "wof:placetype":"venue",

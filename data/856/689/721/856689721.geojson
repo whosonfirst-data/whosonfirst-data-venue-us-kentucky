@@ -2,14 +2,20 @@
   "id": 856689721,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Wayne Dr Richmond KY 40475",
+    "addr:housenumber":"199",
+    "addr:postcode":"40475",
+    "addr:street":"Wayne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.314422,37.735256,-84.314422,37.735256",
     "geom:latitude":37.735256,
     "geom:longitude":-84.314422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"199 Wayne Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084575,
         85803509
     ],
+    "wof:brand_id":1125159567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LHuRBtuBKNkaEc727etz7_37.735256_-84.314422@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051861,
-    "wof:geomhash":"f1538a738231cc697376535447a6bbda",
+    "wof:geomhash":"b4c06301897e968b02036e732306ac0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856689721,
-    "wof:lastmodified":1466530736,
+    "wof:lastmodified":1510695760,
     "wof:name":"Guide One Insurance",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

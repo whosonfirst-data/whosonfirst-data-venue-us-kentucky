@@ -2,14 +2,20 @@
   "id": 856733959,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Mary Lynn Dr Georgetown KY 40324",
+    "addr:housenumber":"100",
+    "addr:postcode":"40324",
+    "addr:street":"Mary Lynn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.559752,38.180082,-84.559752,38.180082",
     "geom:latitude":38.180082,
     "geom:longitude":-84.559752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Mary Lynn Dr",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085651,
         85826837
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mPLvDHWGQjsZ2WqJt7iFk_38.180082_-84.559752@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053143,
-    "wof:geomhash":"2a62279d30b1dc8881956666f1b47175",
+    "wof:geomhash":"b5acf7a10ba1b14d2681ffce7fd7d107",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":856733959,
-    "wof:lastmodified":1466537370,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",

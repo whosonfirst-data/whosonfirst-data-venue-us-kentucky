@@ -2,6 +2,10 @@
   "id": 840777089,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 Annshire Ave Louisville KY 40213",
+    "addr:housenumber":"4500",
+    "addr:postcode":"40213",
+    "addr:street":"Annshire Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840777089,
-    "wof:lastmodified":1466536556,
+    "wof:lastmodified":1472624010,
     "wof:name":"US Post Office",
     "wof:parent_id":85809133,
     "wof:placetype":"venue",

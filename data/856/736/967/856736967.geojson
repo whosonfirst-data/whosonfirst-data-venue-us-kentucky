@@ -2,14 +2,20 @@
   "id": 856736967,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 N Highway 27 Somerset KY 42503",
+    "addr:housenumber":"849",
+    "addr:postcode":"42503",
+    "addr:street":"N Highway 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.622285,37.107113,-84.622285,37.107113",
     "geom:latitude":37.107113,
     "geom:longitude":-84.622285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"849 N Highway 27",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084701,
         85844633
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JY1xzWjAmviDwqt1AL1GQ_37.107113_-84.622285@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053256,
-    "wof:geomhash":"5d6e05070e7eb1c051f36216c73fea48",
+    "wof:geomhash":"98b622ac733955c1abef7e859a92664a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856736967,
-    "wof:lastmodified":1466537555,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

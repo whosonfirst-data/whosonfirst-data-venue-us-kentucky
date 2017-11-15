@@ -2,6 +2,10 @@
   "id": 840957419,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Daniel Dr Danville KY 40422",
+    "addr:housenumber":"111",
+    "addr:postcode":"40422",
+    "addr:street":"Daniel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":840957419,
-    "wof:lastmodified":1466539163,
+    "wof:lastmodified":1472624234,
     "wof:name":"Danville Dermatology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

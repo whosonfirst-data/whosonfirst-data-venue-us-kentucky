@@ -2,9 +2,14 @@
   "id": 253652119,
   "type": "Feature",
   "properties": {
+    "addr:full":"5133 Delhi Ave Cincinnati OH 45238",
+    "addr:housenumber":"5133",
+    "addr:postcode":"45238",
+    "addr:street":"Delhi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.614653,39.094552,-84.614653,39.094552",
     "geom:latitude":39.094552,
     "geom:longitude":-84.614653,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"3df0559b1d750694f8080f4423be1a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":253652119
         }
     ],
     "wof:id":253652119,
-    "wof:lastmodified":1466536757,
+    "wof:lastmodified":1491929789,
     "wof:name":"Herb Shop",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840916997,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S Green St Glasgow KY 42141",
+    "addr:housenumber":"200",
+    "addr:postcode":"42141",
+    "addr:street":"S Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840916997,
-    "wof:lastmodified":1466538877,
+    "wof:lastmodified":1472624277,
     "wof:name":"Glasgow Barren County Ind Auth",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840764823,
   "type": "Feature",
   "properties": {
+    "addr:full":"11414 Main St Louisville KY 40243",
+    "addr:housenumber":"11414",
+    "addr:postcode":"40243",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840764823,
-    "wof:lastmodified":1466536356,
+    "wof:lastmodified":1472624046,
     "wof:name":"Cundiff Appraisal Svc",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

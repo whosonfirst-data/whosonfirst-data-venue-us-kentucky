@@ -2,6 +2,10 @@
   "id": 840548777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 US Hwy 31 W Byp Bowling Green KY 42101",
+    "addr:housenumber":"1337",
+    "addr:postcode":"42101",
+    "addr:street":"Us Hwy 31 W Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840548777,
-    "wof:lastmodified":1466530641,
+    "wof:lastmodified":1472623816,
     "wof:name":"Insurance Medical Specialists",
     "wof:parent_id":85814157,
     "wof:placetype":"venue",

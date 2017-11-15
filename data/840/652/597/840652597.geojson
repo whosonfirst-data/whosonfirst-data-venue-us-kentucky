@@ -2,14 +2,20 @@
   "id": 840652597,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 S Mulberry St Elizabethtown KY 42701",
+    "addr:housenumber":"402",
+    "addr:postcode":"42701",
+    "addr:street":"S Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.868862,37.68765,-85.868862,37.68765",
     "geom:latitude":37.68765,
     "geom:longitude":-85.868862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 S Mulberry St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084595,
         85820925
     ],
+    "wof:brand_id":1125151091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GpsI8dSvcmQnZLo8Z8VcD_37.687650_-85.868862@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044945,
-    "wof:geomhash":"eb8034d12c9a00e006c44e93b6e19ac7",
+    "wof:geomhash":"bdb6f4122d28944e9bbe8420b020eba2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840652597,
-    "wof:lastmodified":1466533325,
+    "wof:lastmodified":1510699976,
     "wof:name":"Southern States Cooperative",
     "wof:parent_id":85820925,
     "wof:placetype":"venue",

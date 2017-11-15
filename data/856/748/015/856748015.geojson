@@ -2,6 +2,10 @@
   "id": 856748015,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 Shelbyville Rd Spc 5682 Louisville KY 40222",
+    "addr:housenumber":"7900",
+    "addr:postcode":"5682;40222",
+    "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":856748015,
-    "wof:lastmodified":1466537745,
+    "wof:lastmodified":1472624067,
     "wof:name":"T-Mobile",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

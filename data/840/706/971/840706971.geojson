@@ -2,6 +2,10 @@
   "id": 840706971,
   "type": "Feature",
   "properties": {
+    "addr:full":"4969 US Hwy 42 Louisville KY 40222",
+    "addr:housenumber":"4969",
+    "addr:postcode":"40222",
+    "addr:street":"Us Hwy 42",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840706971,
-    "wof:lastmodified":1466534801,
+    "wof:lastmodified":1472623927,
     "wof:name":"Loeb & Loeb Financial Svc",
     "wof:parent_id":85833853,
     "wof:placetype":"venue",

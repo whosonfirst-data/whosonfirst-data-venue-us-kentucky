@@ -2,6 +2,10 @@
   "id": 840675765,
   "type": "Feature",
   "properties": {
+    "addr:full":"11220 Bluegrass Pkwy Jeffersontown KY 40299",
+    "addr:housenumber":"11220",
+    "addr:postcode":"40299",
+    "addr:street":"Bluegrass Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840675765,
-    "wof:lastmodified":1466533915,
+    "wof:lastmodified":1472623921,
     "wof:name":"King Co Heating & Cooling Spec",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

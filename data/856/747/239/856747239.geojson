@@ -2,14 +2,20 @@
   "id": 856747239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1049 Outer Loop Louisville KY 40219",
+    "addr:housenumber":"1049",
+    "addr:postcode":"40219",
+    "addr:street":"Outer Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.746117,38.127659,-85.746117,38.127659",
     "geom:latitude":38.127659,
     "geom:longitude":-85.746117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1049 Outer Loop",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85828155
     ],
+    "wof:brand_id":1125158699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52xKCGmcxQKSSscCycnQkR_38.127659_-85.746117@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053647,
-    "wof:geomhash":"d20789166a7ab920a8c616ee58d5f175",
+    "wof:geomhash":"b0efbf7d75451883f532b07b4aecea30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856747239,
-    "wof:lastmodified":1466537643,
+    "wof:lastmodified":1510613456,
     "wof:name":"Allstate Insurance Companies",
     "wof:parent_id":85828155,
     "wof:placetype":"venue",

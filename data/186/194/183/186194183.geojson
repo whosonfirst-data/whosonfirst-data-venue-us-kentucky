@@ -2,9 +2,14 @@
   "id": 186194183,
   "type": "Feature",
   "properties": {
+    "addr:full":"5999 Bender Rd Cincinnati OH 45233",
+    "addr:housenumber":"5999",
+    "addr:postcode":"45233",
+    "addr:street":"Bender Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.643344,39.097518,-84.643344,39.097518",
     "geom:latitude":39.097518,
     "geom:longitude":-84.643344,
@@ -33,8 +38,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +49,15 @@
     "wof:geomhash":"f00a3e3e69c8ae2f0ed70004fa71ac1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":186194183
         }
     ],
     "wof:id":186194183,
-    "wof:lastmodified":1466530039,
+    "wof:lastmodified":1491929788,
     "wof:name":"Riverview Nursing Community",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

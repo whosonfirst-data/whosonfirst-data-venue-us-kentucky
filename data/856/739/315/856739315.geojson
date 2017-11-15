@@ -2,14 +2,20 @@
   "id": 856739315,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S 5th St Ste 100N Louisville KY 40202",
+    "addr:housenumber":"200",
+    "addr:postcode":"40202",
+    "addr:street":"S 5Th St Ste 100N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.7584,38.25544,-85.7584,38.25544",
     "geom:latitude":38.25544,
     "geom:longitude":-85.7584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 S 5th St Ste 100N",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102084449,
         85873435
     ],
+    "wof:brand_id":1125151637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_494sER6AE5VieQwIiqyUxc_38.255440_-85.758400@1303262745"
     },
     "wof:country":"US",
     "wof:created":1464053353,
-    "wof:geomhash":"af92e927b7462cf606b8867680d5c595",
+    "wof:geomhash":"acf9c4b0356330292d19724f32b9b28d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":856739315,
-    "wof:lastmodified":1466537467,
+    "wof:lastmodified":1510695903,
     "wof:name":"Citigroup Global Markets Inc",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

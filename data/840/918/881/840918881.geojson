@@ -2,6 +2,10 @@
   "id": 840918881,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Main St Glasgow KY 42141",
+    "addr:housenumber":"101",
+    "addr:postcode":"42141",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840918881,
-    "wof:lastmodified":1466538973,
+    "wof:lastmodified":1472624259,
     "wof:name":"Barren County Progress",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

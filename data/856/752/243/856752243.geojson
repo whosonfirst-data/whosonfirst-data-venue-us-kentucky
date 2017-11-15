@@ -2,14 +2,20 @@
   "id": 856752243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1938 Campus Pl Louisville KY 40299",
+    "addr:housenumber":"1938",
+    "addr:postcode":"40299",
+    "addr:street":"Campus Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.534741,38.211646,-85.534741,38.211646",
     "geom:latitude":38.211646,
     "geom:longitude":-85.534741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1938 Campus Pl",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -62,13 +68,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":1125156237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RcSBsiFg1ncfJXCh5yqfE_38.211646_-85.534741@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053842,
-    "wof:geomhash":"04a19ef2bce1e1e378df40eb947cb36f",
+    "wof:geomhash":"2d9278dfb20c861c524d518ac56d30eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +88,7 @@
         }
     ],
     "wof:id":856752243,
-    "wof:lastmodified":1466538159,
+    "wof:lastmodified":1510694065,
     "wof:name":"Four Seasons Sunrooms",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

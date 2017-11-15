@@ -2,6 +2,10 @@
   "id": 856745445,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"4401",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":856745445,
-    "wof:lastmodified":1466537611,
+    "wof:lastmodified":1472624090,
     "wof:name":"Lynnhurst United Church of Christ",
     "wof:parent_id":85824429,
     "wof:placetype":"venue",

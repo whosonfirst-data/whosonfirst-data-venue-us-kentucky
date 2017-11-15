@@ -2,14 +2,20 @@
   "id": 856739473,
   "type": "Feature",
   "properties": {
+    "addr:full":"W Jefferson St Louisville KY 40202",
+    "addr:housenumber":"",
+    "addr:postcode":"40202",
+    "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.765121,38.254696,-85.765121,38.254696",
     "geom:latitude":38.254696,
     "geom:longitude":-85.765121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"W Jefferson St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084449,
         85873381
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cTItz6BChT7wSKwGOQTuN_38.254696_-85.765121@1303262745"
     },
     "wof:country":"US",
     "wof:created":1464053358,
-    "wof:geomhash":"0f784262cf300365aa21102c6d9593e1",
+    "wof:geomhash":"9e728ae39bc5dc7fcc63f4638c5209d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856739473,
-    "wof:lastmodified":1466537496,
+    "wof:lastmodified":1510698681,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85873381,
     "wof:placetype":"venue",

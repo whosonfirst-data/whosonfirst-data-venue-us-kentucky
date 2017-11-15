@@ -2,6 +2,10 @@
   "id": 840575587,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 S L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"411",
+    "addr:postcode":"42141",
+    "addr:street":"S L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840575587,
-    "wof:lastmodified":1466531309,
+    "wof:lastmodified":1472623815,
     "wof:name":"Glasgow Urgent Clinic",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

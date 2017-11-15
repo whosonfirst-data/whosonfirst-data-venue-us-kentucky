@@ -2,9 +2,14 @@
   "id": 202693705,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 Saint Gregory St Cincinnati OH 45202",
+    "addr:housenumber":"1125",
+    "addr:postcode":"45202",
+    "addr:street":"Saint Gregory St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.497616,39.109237,-84.497616,39.109237",
     "geom:latitude":39.109237,
     "geom:longitude":-84.497616,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688641,
+        85835433,
+        102191575,
+        404523793,
         85633793,
-        102085439,
-        85835433
+        101712203,
+        102083687,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +51,18 @@
     "wof:geomhash":"3fe2f2eb8fa70529b580f1786bb4cdd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085439,
-            "locality_id":-1,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
             "neighbourhood_id":85835433,
-            "region_id":85688641,
+            "region_id":85688485,
             "venue_id":202693705
         }
     ],
     "wof:id":202693705,
-    "wof:lastmodified":1466530018,
+    "wof:lastmodified":1491937433,
     "wof:name":"Art Academy Of Cincinnati",
     "wof:parent_id":85835433,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856744259,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 N 35th St Louisville KY 40212",
+    "addr:housenumber":"520",
+    "addr:postcode":"40212",
+    "addr:street":"N 35Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.804321,38.272388,-85.804321,38.272388",
     "geom:latitude":38.272388,
     "geom:longitude":-85.804321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 N 35th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102084449,
         85848069
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ElvrtncKsvgyBtsH5lKHu_38.272388_-85.804321@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053537,
-    "wof:geomhash":"b3f36f9609ce8cfc6d73fc612316215a",
+    "wof:geomhash":"31e042a0c3439af51c301502c67466d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":856744259,
-    "wof:lastmodified":1466537815,
+    "wof:lastmodified":1510613306,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85848069,
     "wof:placetype":"venue",

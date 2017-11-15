@@ -2,6 +2,10 @@
   "id": 840782495,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 N L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"215",
+    "addr:postcode":"42141",
+    "addr:street":"N L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840782495,
-    "wof:lastmodified":1466531002,
+    "wof:lastmodified":1472624039,
     "wof:name":"Tank Chiropractic Ctr",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

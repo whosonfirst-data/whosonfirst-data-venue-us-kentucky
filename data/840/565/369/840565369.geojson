@@ -2,14 +2,20 @@
   "id": 840565369,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Irvin Cobb Dr Paducah KY 42003",
+    "addr:housenumber":"3333",
+    "addr:postcode":"42003",
+    "addr:street":"Irvin Cobb Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.567724,37.051449,-88.567724,37.051449",
     "geom:latitude":37.051449,
     "geom:longitude":-88.567724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3333 Irvin Cobb Dr",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084607,
         85852949
     ],
+    "wof:brand_id":1125158441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S11DlMmMBbKKRKDtRjGKT_37.051449_-88.567724@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042862,
-    "wof:geomhash":"34a8f792ddefdead7719a53ef6d149f1",
+    "wof:geomhash":"a113a7018974766f7e3749f3662a360c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840565369,
-    "wof:lastmodified":1466530992,
+    "wof:lastmodified":1510694226,
     "wof:name":"American Classifieds",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",

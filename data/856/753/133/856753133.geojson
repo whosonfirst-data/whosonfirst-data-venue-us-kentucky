@@ -2,6 +2,10 @@
   "id": 856753133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2161 Lexington Rd Ste 5 Richmond KY 40475",
+    "addr:housenumber":"2161",
+    "addr:postcode":"40475",
+    "addr:street":"Lexington Rd Ste 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":856753133,
-    "wof:lastmodified":1466538145,
+    "wof:lastmodified":1472624081,
     "wof:name":"Rose Bowling",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856738941,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 S 4th St Ste 110 Louisville KY 40202",
+    "addr:housenumber":"501",
+    "addr:postcode":"40202",
+    "addr:street":"S 4Th St Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":856738941,
-    "wof:lastmodified":1466537553,
+    "wof:lastmodified":1472624103,
     "wof:name":"Pnc",
     "wof:parent_id":85873391,
     "wof:placetype":"venue",

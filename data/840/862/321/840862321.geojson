@@ -2,6 +2,10 @@
   "id": 840862321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 State Hwy 3189 Nancy KY 42544",
+    "addr:housenumber":"1200",
+    "addr:postcode":"3189;42544",
+    "addr:street":"State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":840862321,
-    "wof:lastmodified":1466537970,
+    "wof:lastmodified":1472624165,
     "wof:name":"Pulaski County Park",
     "wof:parent_id":85806809,
     "wof:placetype":"venue",

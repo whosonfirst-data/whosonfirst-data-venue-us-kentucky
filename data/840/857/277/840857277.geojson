@@ -2,14 +2,20 @@
   "id": 840857277,
   "type": "Feature",
   "properties": {
+    "addr:full":"5560 Shepherdsville Rd Louisville KY 40228",
+    "addr:housenumber":"5560",
+    "addr:postcode":"40228",
+    "addr:street":"Shepherdsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.6599,38.164916,-85.6599,38.164916",
     "geom:latitude":38.164916,
     "geom:longitude":-85.6599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5560 Shepherdsville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85841437
     ],
+    "wof:brand_id":1125157769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42rct2KsTHpuiwNZMrNXBa_38.164916_-85.659900@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049593,
-    "wof:geomhash":"42297681969cbff1118e6dc854418140",
+    "wof:geomhash":"52c1cf9397aa5382f65d74f6eb7edc5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840857277,
-    "wof:lastmodified":1466537955,
+    "wof:lastmodified":1510698750,
     "wof:name":"Anderson News Co",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",

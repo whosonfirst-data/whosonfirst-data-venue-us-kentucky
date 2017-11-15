@@ -2,6 +2,10 @@
   "id": 840663507,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 S L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"220",
+    "addr:postcode":"42141",
+    "addr:street":"S L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":840663507,
-    "wof:lastmodified":1466533547,
+    "wof:lastmodified":1472623906,
     "wof:name":"Bluegrass Cellular Inc",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

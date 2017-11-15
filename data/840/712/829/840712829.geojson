@@ -2,14 +2,20 @@
   "id": 840712829,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 N Main St Versailles KY 40383",
+    "addr:housenumber":"210",
+    "addr:postcode":"40383",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.730048,38.054498,-84.730048,38.054498",
     "geom:latitude":38.054498,
     "geom:longitude":-84.730048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 N Main St",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85842075,
         102085447
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nsGDqoXn1GlDnQkzOsDHN_38.054498_-84.730048@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046358,
-    "wof:geomhash":"a62167dcecc495040cbb70dfabdd238d",
+    "wof:geomhash":"10aa8273864d7099e77d171af5a8a70c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840712829,
-    "wof:lastmodified":1466534931,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",

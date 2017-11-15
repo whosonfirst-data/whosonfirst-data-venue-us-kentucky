@@ -2,6 +2,10 @@
   "id": 856747937,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Bullitt Ln Ste 110 Louisville KY 40222",
+    "addr:housenumber":"101",
+    "addr:postcode":"40222",
+    "addr:street":"Bullitt Ln Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":856747937,
-    "wof:lastmodified":1466537731,
+    "wof:lastmodified":1472624117,
     "wof:name":"Wachovia",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

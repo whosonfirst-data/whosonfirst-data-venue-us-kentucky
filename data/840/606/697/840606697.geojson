@@ -2,6 +2,10 @@
   "id": 840606697,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Sunny Side Church Rd Somerset KY 42503",
+    "addr:housenumber":"999",
+    "addr:postcode":"42503",
+    "addr:street":"Sunny;Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840606697,
-    "wof:lastmodified":1466532090,
+    "wof:lastmodified":1472623814,
     "wof:name":"JMS Power Line Construction",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

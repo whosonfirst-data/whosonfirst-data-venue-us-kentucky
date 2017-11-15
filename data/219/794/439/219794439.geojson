@@ -2,9 +2,14 @@
   "id": 219794439,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Hill Cincinnati OH 45202",
+    "addr:housenumber":"999",
+    "addr:postcode":"45202",
+    "addr:street":"Hill",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.497197,39.105695,-84.497197,39.105695",
     "geom:latitude":39.105695,
     "geom:longitude":-84.497197,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688641,
+        85835433,
+        102191575,
+        404523793,
         85633793,
-        102085439,
-        85835433
+        101712203,
+        102083687,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +49,18 @@
     "wof:geomhash":"199ef62c07becd6c741ad8fd92d0db49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085439,
-            "locality_id":-1,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
             "neighbourhood_id":85835433,
-            "region_id":85688641,
+            "region_id":85688485,
             "venue_id":219794439
         }
     ],
     "wof:id":219794439,
-    "wof:lastmodified":1466536670,
+    "wof:lastmodified":1491937442,
     "wof:name":"Intrinsx",
     "wof:parent_id":85835433,
     "wof:placetype":"venue",

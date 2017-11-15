@@ -2,6 +2,10 @@
   "id": 236042753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Gilbert Ave Cincinnati OH 45206",
+    "addr:housenumber":"3000",
+    "addr:postcode":"45206",
+    "addr:street":"Gilbert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":236042753,
-    "wof:lastmodified":1466536623,
+    "wof:lastmodified":1472623729,
     "wof:name":"Knights of Columbus",
     "wof:parent_id":85873111,
     "wof:placetype":"venue",

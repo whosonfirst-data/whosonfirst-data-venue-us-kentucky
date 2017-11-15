@@ -2,6 +2,10 @@
   "id": 840706117,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Porter St Glasgow KY 42141",
+    "addr:housenumber":"101",
+    "addr:postcode":"42141",
+    "addr:street":"Porter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840706117,
-    "wof:lastmodified":1466534568,
+    "wof:lastmodified":1472623885,
     "wof:name":"Lyons Towing",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840843597,
   "type": "Feature",
   "properties": {
+    "addr:full":"10025 Forest Green Blvd Louisville KY 40223",
+    "addr:housenumber":"10025",
+    "addr:postcode":"40223",
+    "addr:street":"Forest Green Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840843597,
-    "wof:lastmodified":1466537750,
+    "wof:lastmodified":1472624139,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

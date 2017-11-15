@@ -2,9 +2,14 @@
   "id": 236019423,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 Sunland Dr Cincinnati OH 45238",
+    "addr:housenumber":"421",
+    "addr:postcode":"45238",
+    "addr:street":"Sunland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.627619,39.095107,-84.627619,39.095107",
     "geom:latitude":39.095107,
     "geom:longitude":-84.627619,
@@ -27,8 +32,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +43,15 @@
     "wof:geomhash":"5cad168499c488ed6607f6cb8d605dd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":236019423
         }
     ],
     "wof:id":236019423,
-    "wof:lastmodified":1466530046,
+    "wof:lastmodified":1491929787,
     "wof:name":"Clarion Realty Svc",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

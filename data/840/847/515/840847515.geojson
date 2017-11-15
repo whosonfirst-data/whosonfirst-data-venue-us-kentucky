@@ -2,6 +2,10 @@
   "id": 840847515,
   "type": "Feature",
   "properties": {
+    "addr:full":"619 S L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"619",
+    "addr:postcode":"42141",
+    "addr:street":"S L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840847515,
-    "wof:lastmodified":1466537812,
+    "wof:lastmodified":1472624144,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

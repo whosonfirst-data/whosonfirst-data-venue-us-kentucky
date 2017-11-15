@@ -2,6 +2,10 @@
   "id": 840751309,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 W Main St Danville KY 40422",
+    "addr:housenumber":"321",
+    "addr:postcode":"40422",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":840751309,
-    "wof:lastmodified":1466535849,
+    "wof:lastmodified":1472623972,
     "wof:name":"Boyle County Payroll Tax Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840867017,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Main St Versailles KY 40383",
+    "addr:housenumber":"300",
+    "addr:postcode":"40383",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840867017,
-    "wof:lastmodified":1466538305,
+    "wof:lastmodified":1472624150,
     "wof:name":"Texas Instruments Inc",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",

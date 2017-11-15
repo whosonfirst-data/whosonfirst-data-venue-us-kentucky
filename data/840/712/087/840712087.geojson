@@ -2,14 +2,20 @@
   "id": 840712087,
   "type": "Feature",
   "properties": {
+    "addr:full":"6915 Enterprise Dr Louisville KY 40214",
+    "addr:housenumber":"6915",
+    "addr:postcode":"40214",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.751939,38.153441,-85.751939,38.153441",
     "geom:latitude":38.153441,
     "geom:longitude":-85.751939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6915 Enterprise Dr",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084449,
         85828155
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hc8T4NrcMewrio1pTxpuE_38.153441_-85.751939@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046342,
-    "wof:geomhash":"ae3b7c064be8aca4eadcb562f324aabf",
+    "wof:geomhash":"c4a572b5b06a2baa80d9c5675bf0f868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840712087,
-    "wof:lastmodified":1466534723,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85828155,
     "wof:placetype":"venue",

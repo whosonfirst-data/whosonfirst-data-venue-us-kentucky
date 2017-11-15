@@ -2,14 +2,20 @@
   "id": 856733287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2931 Richland Ave Louisville KY 40220",
+    "addr:housenumber":"2931",
+    "addr:postcode":"40220",
+    "addr:street":"Richland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.626518,38.221191,-85.626518,38.221191",
     "geom:latitude":38.221191,
     "geom:longitude":-85.626518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2931 Richland Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85824979
     ],
+    "wof:brand_id":1125156623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6djMQRfcKX21S1pvZZsBwr_38.221191_-85.626518@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053119,
-    "wof:geomhash":"fee5e5184e7e7b1a5b193c48544cf8a8",
+    "wof:geomhash":"2eb387bca63bd020cf1481675abedc60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856733287,
-    "wof:lastmodified":1466537316,
+    "wof:lastmodified":1510698497,
     "wof:name":"Pizza Place",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

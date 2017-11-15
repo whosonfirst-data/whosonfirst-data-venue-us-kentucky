@@ -2,6 +2,10 @@
   "id": 840751427,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 E Main St Lexington KY 40507",
+    "addr:housenumber":"200",
+    "addr:postcode":"40507",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840751427,
-    "wof:lastmodified":1466535893,
+    "wof:lastmodified":1472623976,
     "wof:name":"Lexington Planning",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856733045,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 W Woodlawn Ave Louisville KY 40214",
+    "addr:housenumber":"300",
+    "addr:postcode":"40214",
+    "addr:street":"W Woodlawn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.766215,38.181602,-85.766215,38.181602",
     "geom:latitude":38.181602,
     "geom:longitude":-85.766215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 W Woodlawn Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084449,
         85805263
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hMpVl9zQBl1wllsZJ1olf_38.181602_-85.766215@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053111,
-    "wof:geomhash":"352e159e7c5167ef112bb6834d0482f2",
+    "wof:geomhash":"dc486fd46cc3f6fe6574644d0d224266",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856733045,
-    "wof:lastmodified":1466537286,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85805263,
     "wof:placetype":"venue",

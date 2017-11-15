@@ -2,14 +2,20 @@
   "id": 840905115,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 Tollview Dr Shepherdsville KY 40165",
+    "addr:housenumber":"177",
+    "addr:postcode":"40165",
+    "addr:street":"Tollview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.692883,37.999342,-85.692883,37.999342",
     "geom:latitude":37.999342,
     "geom:longitude":-85.692883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"177 Tollview Dr",
     "sg:city":"Shepherdsville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084673,
         85846821
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78utskcyNDxmcHVY8jINuU_37.999342_-85.692883@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050596,
-    "wof:geomhash":"c77ab336ad2b3d63876bc9b2c7e123c9",
+    "wof:geomhash":"cb75a8ea7e825542b89fb8fc2fa2fbc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840905115,
-    "wof:lastmodified":1466538706,
+    "wof:lastmodified":1510695387,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85846821,
     "wof:placetype":"venue",

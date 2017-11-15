@@ -2,14 +2,20 @@
   "id": 856732685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1706 Bardstown Rd Louisville KY 40205",
+    "addr:housenumber":"1706",
+    "addr:postcode":"40205",
+    "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.703179,38.229817,-85.703179,38.229817",
     "geom:latitude":38.229817,
     "geom:longitude":-85.703179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1706 Bardstown Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084449,
         85873369
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ulfL4vBrwLtGdJTTpdvIb_38.229817_-85.703179@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053098,
-    "wof:geomhash":"2e9d3adc2a39851ce39554d7970e7a76",
+    "wof:geomhash":"54e405765d98609ba665682d30687141",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856732685,
-    "wof:lastmodified":1466537590,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85873369,
     "wof:placetype":"venue",

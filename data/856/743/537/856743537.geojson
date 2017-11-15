@@ -2,14 +2,20 @@
   "id": 856743537,
   "type": "Feature",
   "properties": {
+    "addr:full":"3177 S 2nd St Louisville KY 40208",
+    "addr:housenumber":"3177",
+    "addr:postcode":"40208",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.763295,38.202836,-85.763295,38.202836",
     "geom:latitude":38.202836,
     "geom:longitude":-85.763295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3177 S 2nd St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084449,
         85873433
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eHUytSZB9WohJhMATjnUL_38.202836_-85.763295@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053514,
-    "wof:geomhash":"135a96ff5a96e89b93e96892c179df83",
+    "wof:geomhash":"50e15e9ccc001647c6d4900555603ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856743537,
-    "wof:lastmodified":1466537500,
+    "wof:lastmodified":1510712905,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85873433,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840707575,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Cavalry Dr Glasgow KY 42141",
+    "addr:housenumber":"410",
+    "addr:postcode":"42141",
+    "addr:street":"Cavalry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.934619,36.982659,-85.934619,36.982659",
     "geom:latitude":36.982659,
     "geom:longitude":-85.934619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Cavalry Dr",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085537,
         85846071
     ],
+    "wof:brand_id":1125153633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QqHF7eJtwpZE7Z19JY1Mx_36.982659_-85.934619@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046257,
-    "wof:geomhash":"17caca0f3ed7f46ccded9ab31ab5f180",
+    "wof:geomhash":"c34f1111462d0b3bce1b880e48c56686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840707575,
-    "wof:lastmodified":1466534739,
+    "wof:lastmodified":1510695776,
     "wof:name":"National Guard Recruiter",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

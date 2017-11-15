@@ -2,6 +2,10 @@
   "id": 840841809,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 N Hurstbourne Pkwy Louisville KY 40222",
+    "addr:housenumber":"301",
+    "addr:postcode":"40222",
+    "addr:street":"N Hurstbourne Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840841809,
-    "wof:lastmodified":1466537761,
+    "wof:lastmodified":1472624130,
     "wof:name":"Fidelity Mortgage Of Kentucky",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840902719,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 John Brown Rd Bowling Green KY 42103",
+    "addr:housenumber":"312",
+    "addr:postcode":"42103",
+    "addr:street":"John Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840902719,
-    "wof:lastmodified":1466538495,
+    "wof:lastmodified":1472624254,
     "wof:name":"Ronnie Kinser",
     "wof:parent_id":85807621,
     "wof:placetype":"venue",

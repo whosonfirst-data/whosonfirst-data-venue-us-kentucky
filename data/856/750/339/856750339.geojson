@@ -2,14 +2,20 @@
   "id": 856750339,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Blankenbaker Pkwy Louisville KY 40243",
+    "addr:housenumber":"201",
+    "addr:postcode":"40243",
+    "addr:street":"Blankenbaker Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.546416,38.242446,-85.546416,38.242446",
     "geom:latitude":38.242446,
     "geom:longitude":-85.546416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Blankenbaker Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":1125153209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JneKscLuaacOmRvDkCeRa_38.242446_-85.546416@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053764,
-    "wof:geomhash":"602447ffe847f35ba057ecaca5a5bf84",
+    "wof:geomhash":"08b0bef6a0a8e784190d688e26d6c36f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856750339,
-    "wof:lastmodified":1466537986,
+    "wof:lastmodified":1510695971,
     "wof:name":"Coinstar",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

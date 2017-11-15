@@ -2,6 +2,10 @@
   "id": 856763105,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Esplanade Suite 360 Lexington KY 40507",
+    "addr:housenumber":"108;suite 360",
+    "addr:postcode":"40507",
+    "addr:street":"Esplanade",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":856763105,
-    "wof:lastmodified":1466538498,
+    "wof:lastmodified":1472624159,
     "wof:name":"Talent Attach",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",

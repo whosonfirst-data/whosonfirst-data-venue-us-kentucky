@@ -2,6 +2,10 @@
   "id": 840552007,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 W Main St Louisville KY 40202",
+    "addr:housenumber":"707",
+    "addr:postcode":"40202",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840552007,
-    "wof:lastmodified":1466530614,
+    "wof:lastmodified":1472623767,
     "wof:name":"BDS Management Group",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

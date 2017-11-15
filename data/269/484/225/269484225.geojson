@@ -2,6 +2,10 @@
   "id": 269484225,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Twp Rd 1214 Ironton OH 45638",
+    "addr:housenumber":"316",
+    "addr:postcode":"1214;45638",
+    "addr:street":"Twp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":269484225,
-    "wof:lastmodified":1466536758,
+    "wof:lastmodified":1472623724,
     "wof:name":"International Assn Lions Clubs",
     "wof:parent_id":85845133,
     "wof:placetype":"venue",

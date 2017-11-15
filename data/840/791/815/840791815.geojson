@@ -2,14 +2,20 @@
   "id": 840791815,
   "type": "Feature",
   "properties": {
+    "addr:full":"3410 Madison Pike Covington KY 41017",
+    "addr:housenumber":"3410",
+    "addr:postcode":"41017",
+    "addr:street":"Madison Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.532638,39.034081,-84.532638,39.034081",
     "geom:latitude":39.034081,
     "geom:longitude":-84.532638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3410 Madison Pike",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084469,
         85829425
     ],
+    "wof:brand_id":1125150845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MgnS4qCLPnJi6eCwU1l5W_39.034081_-84.532638@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048018,
-    "wof:geomhash":"d5bc30facc37aee4be92c00fd0365260",
+    "wof:geomhash":"ab35375cde51e774651c2dc1371dc022",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840791815,
-    "wof:lastmodified":1466533433,
+    "wof:lastmodified":1510693804,
     "wof:name":"United Dairy Farmers",
     "wof:parent_id":85829425,
     "wof:placetype":"venue",

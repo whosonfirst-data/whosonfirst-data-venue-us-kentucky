@@ -2,6 +2,10 @@
   "id": 840672761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Morgantown Rd Bowling Green KY 42101",
+    "addr:housenumber":"1201",
+    "addr:postcode":"42101",
+    "addr:street":"Morgantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840672761,
-    "wof:lastmodified":1466533896,
+    "wof:lastmodified":1472623925,
     "wof:name":"Jackson Hewitt Tax Svc",
     "wof:parent_id":85850751,
     "wof:placetype":"venue",

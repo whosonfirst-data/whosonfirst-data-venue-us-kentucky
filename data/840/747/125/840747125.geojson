@@ -2,6 +2,10 @@
   "id": 840747125,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Kuhlman Blvd Versailles KY 40383",
+    "addr:housenumber":"101",
+    "addr:postcode":"40383",
+    "addr:street":"Kuhlman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840747125,
-    "wof:lastmodified":1466535731,
+    "wof:lastmodified":1472623967,
     "wof:name":"Kuhlman Transformers",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840559485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 N Elm St Henderson KY 42420",
+    "addr:housenumber":"2500",
+    "addr:postcode":"42420",
+    "addr:street":"N Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840559485,
-    "wof:lastmodified":1466530875,
+    "wof:lastmodified":1472623802,
     "wof:name":"Medco Center Of Henderson",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

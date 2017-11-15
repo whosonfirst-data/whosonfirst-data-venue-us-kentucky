@@ -2,9 +2,14 @@
   "id": 185866559,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Anderson Ferry Rd Cincinnati OH 45238",
+    "addr:housenumber":"239",
+    "addr:postcode":"45238",
+    "addr:street":"Anderson Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.618972,39.086444,-84.618972,39.086444",
     "geom:latitude":39.086444,
     "geom:longitude":-84.618972,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +48,15 @@
     "wof:geomhash":"abe975e3528d5c127e83baaadf07826a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":185866559
         }
     ],
     "wof:id":185866559,
-    "wof:lastmodified":1466530026,
+    "wof:lastmodified":1491929789,
     "wof:name":"Farm",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

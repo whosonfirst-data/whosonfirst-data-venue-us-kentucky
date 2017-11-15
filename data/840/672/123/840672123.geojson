@@ -2,6 +2,10 @@
   "id": 840672123,
   "type": "Feature",
   "properties": {
+    "addr:full":"12212 Old Henry Rd Louisville KY 40223",
+    "addr:housenumber":"12212",
+    "addr:postcode":"40223",
+    "addr:street":"Old Henry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840672123,
-    "wof:lastmodified":1466533718,
+    "wof:lastmodified":1472623885,
     "wof:name":"Tri Co Development",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

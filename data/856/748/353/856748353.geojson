@@ -2,14 +2,20 @@
   "id": 856748353,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 Holiday Manor Ctr Louisville KY 40222",
+    "addr:housenumber":"2229",
+    "addr:postcode":"40222",
+    "addr:street":"Holiday Manor Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.631522,38.28335,-85.631522,38.28335",
     "geom:latitude":38.28335,
     "geom:longitude":-85.631522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2229 Holiday Manor Ctr",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85833853
     ],
+    "wof:brand_id":1125157861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c4ytwnupVYO1Xov4ibu1E_38.283350_-85.631522@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053688,
-    "wof:geomhash":"2be725adf5cbc8b852a2a20039637406",
+    "wof:geomhash":"47d6377ff99b88076c518cdadb13c13b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856748353,
-    "wof:lastmodified":1466537809,
+    "wof:lastmodified":1510693894,
     "wof:name":"Holiday Cleaners",
     "wof:parent_id":85833853,
     "wof:placetype":"venue",

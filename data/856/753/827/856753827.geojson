@@ -2,14 +2,20 @@
   "id": 856753827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1918 Oxford Cir Lexington KY 40504",
+    "addr:housenumber":"1918",
+    "addr:postcode":"40504",
+    "addr:street":"Oxford Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.542236,38.049782,-84.542236,38.049782",
     "geom:latitude":38.049782,
     "geom:longitude":-84.542236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1918 Oxford Cir",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084695,
         85809473
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BKd5IDWSZGHDxpyCtNd08_38.049782_-84.542236@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053901,
-    "wof:geomhash":"aee81966bc0ebdff29d7118d69e8e68e",
+    "wof:geomhash":"efd67e3486582e41117a304abbf737df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856753827,
-    "wof:lastmodified":1466538255,
+    "wof:lastmodified":1510695847,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85809473,
     "wof:placetype":"venue",

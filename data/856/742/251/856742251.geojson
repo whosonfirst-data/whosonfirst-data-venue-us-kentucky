@@ -2,14 +2,20 @@
   "id": 856742251,
   "type": "Feature",
   "properties": {
+    "addr:full":"4151 Shelbyville Rd Louisville KY 40207",
+    "addr:housenumber":"4151",
+    "addr:postcode":"40207",
+    "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.642164,38.251823,-85.642164,38.251823",
     "geom:latitude":38.251823,
     "geom:longitude":-85.642164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4151 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125151987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wD8pQniHpc2E92VdwsnEQ_38.251823_-85.642164@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053466,
-    "wof:geomhash":"bc2d1f46f60c62e0211d69fb20f62484",
+    "wof:geomhash":"33a14fbbbd9e86a165fab876624731f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":856742251,
-    "wof:lastmodified":1466537483,
+    "wof:lastmodified":1510700133,
     "wof:name":"Foot Solutions",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

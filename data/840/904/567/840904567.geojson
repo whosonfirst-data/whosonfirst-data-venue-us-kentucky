@@ -2,6 +2,10 @@
   "id": 840904567,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 S Main St Nicholasville KY 40356",
+    "addr:housenumber":"212",
+    "addr:postcode":"40356",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840904567,
-    "wof:lastmodified":1466538845,
+    "wof:lastmodified":1472624239,
     "wof:name":"Import Auto On Main",
     "wof:parent_id":85827477,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840821891,
   "type": "Feature",
   "properties": {
+    "addr:full":"9901 la Grange Rd Louisville KY 40223",
+    "addr:housenumber":"9901",
+    "addr:postcode":"40223",
+    "addr:street":"La Grange Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840821891,
-    "wof:lastmodified":1466537184,
+    "wof:lastmodified":1472624051,
     "wof:name":"Bluegrass Preschool & Child Cr",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

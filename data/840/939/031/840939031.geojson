@@ -2,14 +2,20 @@
   "id": 840939031,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 N 12th St Murray KY 42071",
+    "addr:housenumber":"305",
+    "addr:postcode":"42071",
+    "addr:street":"N 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.315221,36.614596,-88.315221,36.614596",
     "geom:latitude":36.614596,
     "geom:longitude":-88.315221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 N 12th St",
     "sg:city":"Murray",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084395,
         85819475
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XAKve1EJAHn09so7Ix3tD_36.614596_-88.315221@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051428,
-    "wof:geomhash":"9bf3632b62abecc0d2a57f09697d655c",
+    "wof:geomhash":"6b5c64fca57d35dc9162ac96f9b9393c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840939031,
-    "wof:lastmodified":1466539117,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":85819475,
     "wof:placetype":"venue",

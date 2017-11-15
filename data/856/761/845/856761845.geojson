@@ -2,14 +2,20 @@
   "id": 856761845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 Lone Oak Rd Paducah KY 42003",
+    "addr:housenumber":"2630",
+    "addr:postcode":"42003",
+    "addr:street":"Lone Oak Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.659389,37.041471,-88.659389,37.041471",
     "geom:latitude":37.041471,
     "geom:longitude":-88.659389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2630 Lone Oak Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102084607,
         85819855
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eYCG7R39dS81XSWbrLQDP_37.041471_-88.659389@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054195,
-    "wof:geomhash":"ff3db01bf4056e8d17094f1faedd08c7",
+    "wof:geomhash":"13447b8ade8720d26aa34e84479a9a2d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856761845,
-    "wof:lastmodified":1466538656,
+    "wof:lastmodified":1510613306,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85819855,
     "wof:placetype":"venue",

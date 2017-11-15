@@ -2,14 +2,20 @@
   "id": 840756945,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 S Mulberry St Elizabethtown KY 42701",
+    "addr:housenumber":"207",
+    "addr:postcode":"42701",
+    "addr:street":"S Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.860392,37.69269,-85.860392,37.69269",
     "geom:latitude":37.69269,
     "geom:longitude":-85.860392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 S Mulberry St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084595,
         85820925
     ],
+    "wof:brand_id":1125154795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z9I3aRNUcY9T4E7yKZSjk_37.692690_-85.860392@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464047259,
-    "wof:geomhash":"68c2bff2a09cfd91fd94e0744ced45e8",
+    "wof:geomhash":"fe132fb23a529580070dc55be1dca5a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840756945,
-    "wof:lastmodified":1466536188,
+    "wof:lastmodified":1510693704,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85820925,
     "wof:placetype":"venue",

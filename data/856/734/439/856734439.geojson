@@ -2,14 +2,20 @@
   "id": 856734439,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 Eastern Byp Richmond KY 40475",
+    "addr:housenumber":"830",
+    "addr:postcode":"40475",
+    "addr:street":"Eastern Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.273905,37.733521,-84.273905,37.733521",
     "geom:latitude":37.733521,
     "geom:longitude":-84.273905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"830 Eastern Byp",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084575,
         85803509
     ],
+    "wof:brand_id":1125152781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yikeP641uIOSyyuuTsFk5_37.733521_-84.273905@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053162,
-    "wof:geomhash":"00618cede7bb066f01e50859b8b993cc",
+    "wof:geomhash":"936559e7d4d6eae65d0d8860071ccfe1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856734439,
-    "wof:lastmodified":1466537457,
+    "wof:lastmodified":1510697426,
     "wof:name":"Gold Star Chili",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

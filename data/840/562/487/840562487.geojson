@@ -2,14 +2,20 @@
   "id": 840562487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 River Rd Louisville KY 40206",
+    "addr:housenumber":"2601",
+    "addr:postcode":"40206",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.699556,38.277068,-85.699556,38.277068",
     "geom:latitude":38.277068,
     "geom:longitude":-85.699556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 River Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85873385
     ],
+    "wof:brand_id":1125156201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P8Y5QbjFs6TAsqbmF00TI_38.277068_-85.699556@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042792,
-    "wof:geomhash":"8c98e5865c5ef46dfeb94820fb3591ac",
+    "wof:geomhash":"c2ba67aaa23cd5240955d91500a90884",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840562487,
-    "wof:lastmodified":1466530977,
+    "wof:lastmodified":1510698948,
     "wof:name":"Cargill Inc",
     "wof:parent_id":85873385,
     "wof:placetype":"venue",

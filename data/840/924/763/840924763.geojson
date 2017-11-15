@@ -2,6 +2,10 @@
   "id": 840924763,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Bank St Louisville KY 40212",
+    "addr:housenumber":"2601",
+    "addr:postcode":"40212",
+    "addr:street":"Bank St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840924763,
-    "wof:lastmodified":1466538919,
+    "wof:lastmodified":1472624261,
     "wof:name":"National City Bank",
     "wof:parent_id":85842879,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856751711,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 Taylorsville Rd Louisville KY 40299",
+    "addr:housenumber":"10001",
+    "addr:postcode":"40299",
+    "addr:street":"Taylorsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856751711,
-    "wof:lastmodified":1466538037,
+    "wof:lastmodified":1472624123,
     "wof:name":"Techcorp",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

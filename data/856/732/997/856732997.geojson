@@ -2,14 +2,20 @@
   "id": 856732997,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Fern Valley Rd Louisville KY 40213",
+    "addr:housenumber":"3101",
+    "addr:postcode":"40213",
+    "addr:street":"Fern Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.710565,38.157089,-85.710565,38.157089",
     "geom:latitude":38.157089,
     "geom:longitude":-85.710565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3101 Fern Valley Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084449,
         85843121
     ],
+    "wof:brand_id":1125156143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_350Q4OukjxEQUNrmG22KYr_38.157089_-85.710565@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053109,
-    "wof:geomhash":"81ffb883da00f2921e272fd15e0ab65f",
+    "wof:geomhash":"78b032e202719236b9a120c22da6032e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856732997,
-    "wof:lastmodified":1466537418,
+    "wof:lastmodified":1510694174,
     "wof:name":"Sub Station II",
     "wof:parent_id":85843121,
     "wof:placetype":"venue",

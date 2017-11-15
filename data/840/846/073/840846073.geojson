@@ -2,6 +2,10 @@
   "id": 840846073,
   "type": "Feature",
   "properties": {
+    "addr:full":"12010 US Hwy 62 Cunningham KY 42001",
+    "addr:housenumber":"12010",
+    "addr:postcode":"42001",
+    "addr:street":"Us Hwy 62 Cunningham",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840846073,
-    "wof:lastmodified":1466537868,
+    "wof:lastmodified":1472624136,
     "wof:name":"Dw Excavating",
     "wof:parent_id":85865245,
     "wof:placetype":"venue",

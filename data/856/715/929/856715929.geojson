@@ -2,14 +2,20 @@
   "id": 856715929,
   "type": "Feature",
   "properties": {
+    "addr:full":"953 S Main St Nicholasville KY 40356",
+    "addr:housenumber":"953",
+    "addr:postcode":"40356",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.578827,37.865961,-84.578827,37.865961",
     "geom:latitude":37.865961,
     "geom:longitude":-84.578827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"953 S Main St",
     "sg:city":"Nicholasville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85827477,
         102085581
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nx431zHoVWelFSPrAL7az_37.865961_-84.578827@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052429,
-    "wof:geomhash":"7fc889a29d3ab137e06725fb6b814785",
+    "wof:geomhash":"f7d84d51e15778e81397f4cb7e8b7739",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":856715929,
-    "wof:lastmodified":1466536956,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85827477,
     "wof:placetype":"venue",

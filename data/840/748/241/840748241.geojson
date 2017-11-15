@@ -2,6 +2,10 @@
   "id": 840748241,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Main St Georgetown KY 40324",
+    "addr:housenumber":"101",
+    "addr:postcode":"40324",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":840748241,
-    "wof:lastmodified":1466535766,
+    "wof:lastmodified":1472623978,
     "wof:name":"Whitaker Bank",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",

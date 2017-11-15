@@ -2,6 +2,10 @@
   "id": 840606769,
   "type": "Feature",
   "properties": {
+    "addr:full":"12123 Scottsville Rd Alvaton KY 42122",
+    "addr:housenumber":"",
+    "addr:postcode":"12123;42122",
+    "addr:street":"Scottsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840606769,
-    "wof:lastmodified":1466532108,
+    "wof:lastmodified":1472623816,
     "wof:name":"Master Clean",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",

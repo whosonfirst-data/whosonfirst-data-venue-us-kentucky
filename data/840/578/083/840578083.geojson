@@ -2,14 +2,20 @@
   "id": 840578083,
   "type": "Feature",
   "properties": {
+    "addr:full":"4632 S 3rd St Louisville KY 40214",
+    "addr:housenumber":"4632",
+    "addr:postcode":"40214",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.766176,38.182341,-85.766176,38.182341",
     "geom:latitude":38.182341,
     "geom:longitude":-85.766176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4632 S 3rd St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85805263
     ],
+    "wof:brand_id":1125157515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K089OnDQRGTMQy1oVK7ig_38.182341_-85.766176@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464043167,
-    "wof:geomhash":"02285300e3c0ab2017652ebea6b6554d",
+    "wof:geomhash":"39fbd5b6967100363ba5eb028610db94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840578083,
-    "wof:lastmodified":1466531182,
+    "wof:lastmodified":1510613269,
     "wof:name":"Talking Heads",
     "wof:parent_id":85805263,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840540497,
   "type": "Feature",
   "properties": {
+    "addr:full":"962 Commercial Dr Richmond KY 40475",
+    "addr:housenumber":"962",
+    "addr:postcode":"40475",
+    "addr:street":"Commercial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.272073,37.734133,-84.272073,37.734133",
     "geom:latitude":37.734133,
     "geom:longitude":-84.272073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"962 Commercial Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084575,
         85803509
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aSOQf064KBk3pTU6vez9N_37.734133_-84.272073@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042237,
-    "wof:geomhash":"22358305aac28743525617989eb5c8ff",
+    "wof:geomhash":"ce030c600ee38898f760afd5aca85883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840540497,
-    "wof:lastmodified":1466530199,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

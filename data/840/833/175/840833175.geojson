@@ -2,6 +2,10 @@
   "id": 840833175,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 N Jane St Louisville KY 40206",
+    "addr:housenumber":"151",
+    "addr:postcode":"40206",
+    "addr:street":"N Jane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840833175,
-    "wof:lastmodified":1466537574,
+    "wof:lastmodified":1472624076,
     "wof:name":"M L Brown Co",
     "wof:parent_id":85866965,
     "wof:placetype":"venue",

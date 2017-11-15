@@ -2,6 +2,10 @@
   "id": 840544073,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 S Floyd St Louisville KY 40203",
+    "addr:housenumber":"1234",
+    "addr:postcode":"40203",
+    "addr:street":"S Floyd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840544073,
-    "wof:lastmodified":1466530458,
+    "wof:lastmodified":1472623776,
     "wof:name":"Faith Church Of Deliverance",
     "wof:parent_id":85866967,
     "wof:placetype":"venue",

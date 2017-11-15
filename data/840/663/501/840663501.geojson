@@ -2,14 +2,20 @@
   "id": 840663501,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Executive Park St Matthews KY 40207",
+    "addr:housenumber":"710",
+    "addr:postcode":"40207",
+    "addr:street":"Executive Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.622916,38.241229,-85.622916,38.241229",
     "geom:latitude":38.241229,
     "geom:longitude":-85.622916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Executive Park",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_462xcGkpwGNHJ07CX6SZoJ_38.241229_-85.622916@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464045176,
-    "wof:geomhash":"0ca8749dce0516e249114d7da06c8bbe",
+    "wof:geomhash":"f9a0d7eabd22a46d0a2520a3e23b8bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840663501,
-    "wof:lastmodified":1466533544,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

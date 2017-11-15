@@ -2,14 +2,20 @@
   "id": 840718131,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 N Hill-N-Dale St Danville KY 40422",
+    "addr:housenumber":"285",
+    "addr:postcode":"40422",
+    "addr:street":"N Hill-N-Dale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.749241,37.646003,-84.749241,37.646003",
     "geom:latitude":37.646003,
     "geom:longitude":-84.749241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"285 N Hill-N-Dale St",
     "sg:city":"Danville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085579,
         85822743
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZWc3IU1v1FBweacIjFPI5_37.646003_-84.749241@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046465,
-    "wof:geomhash":"910b1c2cd2f18c8d1ecc4ddb2164dbfe",
+    "wof:geomhash":"6a96e977cc78e3c6fb85bf1d84b20608",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840718131,
-    "wof:lastmodified":1466534887,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":85822743,
     "wof:placetype":"venue",

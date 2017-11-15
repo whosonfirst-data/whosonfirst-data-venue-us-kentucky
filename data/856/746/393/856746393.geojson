@@ -2,6 +2,10 @@
   "id": 856746393,
   "type": "Feature",
   "properties": {
+    "addr:full":"3430 Newburg Rd Ste 110 Louisville KY 40218",
+    "addr:housenumber":"3430",
+    "addr:postcode":"40218",
+    "addr:street":"Newburg Rd Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":856746393,
-    "wof:lastmodified":1466537888,
+    "wof:lastmodified":1472624096,
     "wof:name":"STD Test Express Louisville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

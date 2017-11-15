@@ -2,14 +2,20 @@
   "id": 840811285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 Jaggie Fox Way Lexington KY 40511",
+    "addr:housenumber":"1712",
+    "addr:postcode":"40511",
+    "addr:street":"Jaggie Fox Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.517176,38.086897,-84.517176,38.086897",
     "geom:latitude":38.086897,
     "geom:longitude":-84.517176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1712 Jaggie Fox Way",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084695,
         85873483
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H8jyZrJ87gIdRcsSmcBXG_38.086897_-84.517176@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048468,
-    "wof:geomhash":"1c3d9e0e494b24c1937b37ae0484a46b",
+    "wof:geomhash":"e2ef9d348cc5fd7bdf363a529c4674ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840811285,
-    "wof:lastmodified":1466536867,
+    "wof:lastmodified":1510613313,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85873483,
     "wof:placetype":"venue",

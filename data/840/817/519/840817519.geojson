@@ -2,14 +2,20 @@
   "id": 840817519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1680 Campbell Ln Bowling Green KY 42104",
+    "addr:housenumber":"1680",
+    "addr:postcode":"42104",
+    "addr:street":"Campbell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.438577,36.951017,-86.438577,36.951017",
     "geom:latitude":36.951017,
     "geom:longitude":-86.438577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1680 Campbell Ln",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084479,
         85823129
     ],
+    "wof:brand_id":420575789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_079DZRzZGyzcbdOz85lH7j_36.951017_-86.438577@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048679,
-    "wof:geomhash":"0ef1dd5fe2736f0052fcfb599d9721de",
+    "wof:geomhash":"6efad52b50bb9bc76b5add1a66704207",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840817519,
-    "wof:lastmodified":1466537006,
+    "wof:lastmodified":1510602089,
     "wof:name":"Catherines Plus Sizes",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",

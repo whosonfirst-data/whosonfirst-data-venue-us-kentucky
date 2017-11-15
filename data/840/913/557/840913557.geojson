@@ -2,14 +2,20 @@
   "id": 840913557,
   "type": "Feature",
   "properties": {
+    "addr:full":"6811 Preston Hwy Lebanon Junction KY 40150",
+    "addr:housenumber":"6811",
+    "addr:postcode":"40150",
+    "addr:street":"Preston Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.698354,37.92223,-85.698354,37.92223",
     "geom:latitude":37.92223,
     "geom:longitude":-85.698354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6811 Preston Hwy",
     "sg:city":"Lebanon Junction",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084673,
         85846821
     ],
+    "wof:brand_id":1125155605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yg8HYiQb49I78X9WMxdjv_37.922230_-85.698354@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050837,
-    "wof:geomhash":"06cd40e187b0729a55ed0caffd60aeb2",
+    "wof:geomhash":"dee31477e0179c04133570e6694fb1db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840913557,
-    "wof:lastmodified":1466538755,
+    "wof:lastmodified":1510613383,
     "wof:name":"Faith Assembly Of God",
     "wof:parent_id":85846821,
     "wof:placetype":"venue",

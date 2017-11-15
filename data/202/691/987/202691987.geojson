@@ -2,9 +2,14 @@
   "id": 202691987,
   "type": "Feature",
   "properties": {
+    "addr:full":"457 Viscount Dr Cincinnati OH 45238",
+    "addr:housenumber":"457",
+    "addr:postcode":"45238",
+    "addr:street":"Viscount Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.625962,39.096235,-84.625962,39.096235",
     "geom:latitude":39.096235,
     "geom:longitude":-84.625962,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"1ca78fae8362e7a9893ed33d7ade1962",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":202691987
         }
     ],
     "wof:id":202691987,
-    "wof:lastmodified":1466530019,
+    "wof:lastmodified":1491929787,
     "wof:name":"IDI Group",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

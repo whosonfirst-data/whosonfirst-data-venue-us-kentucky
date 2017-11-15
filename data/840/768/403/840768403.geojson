@@ -2,14 +2,20 @@
   "id": 840768403,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 S Salem Dr Bardstown KY 40004",
+    "addr:housenumber":"110",
+    "addr:postcode":"40004",
+    "addr:street":"S Salem Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.455819,37.823801,-85.455819,37.823801",
     "geom:latitude":37.823801,
     "geom:longitude":-85.455819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 S Salem Dr",
     "sg:city":"Bardstown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084589,
         85858429
     ],
+    "wof:brand_id":1125156301,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u2sMNdk9ZpVCio9c1J0El_37.823801_-85.455819@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464047535,
-    "wof:geomhash":"f529d50375df6b4f87cd0dffdc101f8f",
+    "wof:geomhash":"7cdf045121f2dec6ab94032fbef587a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840768403,
-    "wof:lastmodified":1466536415,
+    "wof:lastmodified":1510698778,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":85858429,
     "wof:placetype":"venue",

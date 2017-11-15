@@ -2,14 +2,20 @@
   "id": 856758893,
   "type": "Feature",
   "properties": {
+    "addr:full":"Cincinnati/Northern Kentucky International Airport Delta Terminal 3 - Concourse B Food Court Hebron KY 41048",
+    "addr:housenumber":"3;b",
+    "addr:postcode":"airport;41048",
+    "addr:street":"Concourse",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.660645,39.051185,-84.660645,39.051185",
     "geom:latitude":39.051185,
     "geom:longitude":-84.660645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Cincinnati/Northern Kentucky International Airport Delta Terminal 3 - Concourse B Food Court",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         102528187,
         85688641
     ],
+    "wof:brand_id":1125152781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZxoFzdyF1HSL1d0EkRvMb_39.051185_-84.660645@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054088,
-    "wof:geomhash":"d9c1903fd9ab693f041ddecf4516db54",
+    "wof:geomhash":"e215fe7e17f74915456c40a31b8589f0",
     "wof:hierarchy":[
         {
             "campus_id":102528187,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856758893,
-    "wof:lastmodified":1466538523,
+    "wof:lastmodified":1510697427,
     "wof:name":"Gold Star Chili",
     "wof:parent_id":102528187,
     "wof:placetype":"venue",

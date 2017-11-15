@@ -2,14 +2,20 @@
   "id": 840925353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Mercer Rd Lexington KY 40511",
+    "addr:housenumber":"1601",
+    "addr:postcode":"40511",
+    "addr:street":"Mercer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.525072,38.075736,-84.525072,38.075736",
     "geom:latitude":38.075736,
     "geom:longitude":-84.525072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 Mercer Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084695,
         85833499
     ],
+    "wof:brand_id":1125155185,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_632fdTQl69cVrptbB8chPU_38.075736_-84.525072@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051149,
-    "wof:geomhash":"084108c1d038bbfaafc604fba0bce71d",
+    "wof:geomhash":"60d09b07ae68d633e877a93ca56d1da6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840925353,
-    "wof:lastmodified":1466538884,
+    "wof:lastmodified":1510698507,
     "wof:name":"Schneider Electric",
     "wof:parent_id":85833499,
     "wof:placetype":"venue",

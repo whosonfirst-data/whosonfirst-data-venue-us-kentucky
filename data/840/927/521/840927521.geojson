@@ -2,14 +2,20 @@
   "id": 840927521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1390 Campbell Ln Bowling Green KY 42104",
+    "addr:housenumber":"1390",
+    "addr:postcode":"42104",
+    "addr:street":"Campbell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.444994,36.954855,-86.444994,36.954855",
     "geom:latitude":36.954855,
     "geom:longitude":-86.444994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1390 Campbell Ln",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084479,
         85823129
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U2lm2zpOhTTIN7nfss0Hd_36.954855_-86.444994@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051197,
-    "wof:geomhash":"b2f2aeb1eb63448e638103e91ba86ffe",
+    "wof:geomhash":"4293dbe07310a182b6ed035f1294f51e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840927521,
-    "wof:lastmodified":1466538930,
+    "wof:lastmodified":1510613181,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",

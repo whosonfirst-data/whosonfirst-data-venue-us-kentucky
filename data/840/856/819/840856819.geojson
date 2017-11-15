@@ -2,6 +2,10 @@
   "id": 840856819,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E Main Ave Bowling Green KY 42101",
+    "addr:housenumber":"500",
+    "addr:postcode":"42101",
+    "addr:street":"E Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":840856819,
-    "wof:lastmodified":1466538000,
+    "wof:lastmodified":1472624164,
     "wof:name":"US Bank",
     "wof:parent_id":85814157,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856747829,
   "type": "Feature",
   "properties": {
+    "addr:full":"7321 New la Grange Rd Ste 230 Louisville KY 40222",
+    "addr:housenumber":"7321",
+    "addr:postcode":"40222",
+    "addr:street":"New La Grange Rd Ste 230",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.615234,38.250478,-85.615234,38.250478",
     "geom:latitude":38.250478,
     "geom:longitude":-85.615234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7321 New la Grange Rd Ste 230",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LZcvk3hF2yoSXDrPutD0V_38.250478_-85.615234@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053670,
-    "wof:geomhash":"1dcc1aef6dbe90996fcd635472b1d1ac",
+    "wof:geomhash":"5a02bdbd96a49c92c5ff2e4c29e62d60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":856747829,
-    "wof:lastmodified":1466537708,
+    "wof:lastmodified":1510613374,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

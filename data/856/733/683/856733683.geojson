@@ -2,14 +2,20 @@
   "id": 856733683,
   "type": "Feature",
   "properties": {
+    "addr:full":"12003 Shelbyville Rd Ste 107  Louisville KY 40243",
+    "addr:housenumber":"12003",
+    "addr:postcode":"40243",
+    "addr:street":"Shelbyville Rd Ste 107",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.534351,38.248835,-85.534351,38.248835",
     "geom:latitude":38.248835,
     "geom:longitude":-85.534351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12003 Shelbyville Rd Ste 107 ",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":1125151465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34RKvPKykmXSwOZII1wi2v_38.248835_-85.534351@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053133,
-    "wof:geomhash":"93658bda5ec729e9b0f6315e9f28bc15",
+    "wof:geomhash":"4897cf6e662e77ef3fb9ba8670767d83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856733683,
-    "wof:lastmodified":1466537259,
+    "wof:lastmodified":1510613178,
     "wof:name":"China Kitchen",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

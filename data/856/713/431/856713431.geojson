@@ -2,14 +2,20 @@
   "id": 856713431,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Cassidy Blvd Pikeville KY 41501",
+    "addr:housenumber":"133",
+    "addr:postcode":"41501",
+    "addr:street":"Cassidy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.534305,37.503556,-82.534305,37.503556",
     "geom:latitude":37.503556,
     "geom:longitude":-82.534305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"133 Cassidy Blvd",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085449,
         85840927
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LdsFbR3YwCZJdOQcf3VYv_37.503556_-82.534305@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052336,
-    "wof:geomhash":"6a950d93a1c2befa2637ac0255519b6b",
+    "wof:geomhash":"dfa52b86d11101349f121907f69541a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":856713431,
-    "wof:lastmodified":1466536958,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85840927,
     "wof:placetype":"venue",

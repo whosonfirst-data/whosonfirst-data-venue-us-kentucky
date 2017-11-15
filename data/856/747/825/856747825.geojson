@@ -2,14 +2,20 @@
   "id": 856747825,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Oxmoor Ln Louisville KY 40222",
+    "addr:housenumber":"110",
+    "addr:postcode":"40222",
+    "addr:street":"Oxmoor Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.613579,38.24815,-85.613579,38.24815",
     "geom:latitude":38.24815,
     "geom:longitude":-85.613579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Oxmoor Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":420575041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V1LFB3B4cnlXMyPqVt3eh_38.248150_-85.613579@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053670,
-    "wof:geomhash":"d52f2add5a27574fa3acc70ab361d2d1",
+    "wof:geomhash":"c7596e09f16783564601c90bc5c6c6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856747825,
-    "wof:lastmodified":1466537707,
+    "wof:lastmodified":1510602993,
     "wof:name":"Kohl's",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

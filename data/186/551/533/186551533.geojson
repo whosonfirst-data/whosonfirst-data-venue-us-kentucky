@@ -2,9 +2,14 @@
   "id": 186551533,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Morrvue Dr Cincinnati OH 45238",
+    "addr:housenumber":"430",
+    "addr:postcode":"45238",
+    "addr:street":"Morrvue Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.624211,39.096344,-84.624211,39.096344",
     "geom:latitude":39.096344,
     "geom:longitude":-84.624211,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"9fa9602a7bcd42c6961eb56b7dce5afd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":186551533
         }
     ],
     "wof:id":186551533,
-    "wof:lastmodified":1466530044,
+    "wof:lastmodified":1491929790,
     "wof:name":"5712 Glenway Inc",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

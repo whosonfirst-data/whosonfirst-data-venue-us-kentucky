@@ -2,6 +2,10 @@
   "id": 840578053,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 E Main St La Grange KY 40031",
+    "addr:housenumber":"111",
+    "addr:postcode":"40031",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840578053,
-    "wof:lastmodified":1466531175,
+    "wof:lastmodified":1472623770,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85819685,
     "wof:placetype":"venue",

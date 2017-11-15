@@ -2,14 +2,20 @@
   "id": 840854561,
   "type": "Feature",
   "properties": {
+    "addr:full":"945 Mount Vernon Rd Berea KY 40403",
+    "addr:housenumber":"945",
+    "addr:postcode":"40403",
+    "addr:street":"Mount Vernon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.313255,37.540674,-84.313255,37.540674",
     "geom:latitude":37.540674,
     "geom:longitude":-84.313255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"945 Mount Vernon Rd",
     "sg:city":"Berea",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084575,
         85834011
     ],
+    "wof:brand_id":1125152297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vNMVQj2hXrLmgqM50ctQR_37.540674_-84.313255@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049536,
-    "wof:geomhash":"067f18edce6f8f3e0b2d3379a46c588c",
+    "wof:geomhash":"fe520a9590c49a1e1f3b607cde70800d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840854561,
-    "wof:lastmodified":1466537912,
+    "wof:lastmodified":1510695695,
     "wof:name":"Pace International Union",
     "wof:parent_id":85834011,
     "wof:placetype":"venue",

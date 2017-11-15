@@ -2,14 +2,20 @@
   "id": 840839537,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Parker Dr La Grange KY 40031",
+    "addr:housenumber":"240",
+    "addr:postcode":"40031",
+    "addr:street":"Parker Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.378498,38.401792,-85.378498,38.401792",
     "geom:latitude":38.401792,
     "geom:longitude":-85.378498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Parker Dr",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084559,
         85819685
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NAtkj0KfsH3KhaBrY4fgq_38.401792_-85.378498@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049201,
-    "wof:geomhash":"9c496a3018bcf73c112d6d2c1d2038b5",
+    "wof:geomhash":"3a2f692be349ab5912304b31985dce2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840839537,
-    "wof:lastmodified":1466537728,
+    "wof:lastmodified":1510698962,
     "wof:name":"Da Vita Inc",
     "wof:parent_id":85819685,
     "wof:placetype":"venue",

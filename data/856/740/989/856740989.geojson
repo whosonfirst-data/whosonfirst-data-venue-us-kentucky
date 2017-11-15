@@ -2,6 +2,10 @@
   "id": 856740989,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 Edgeland Ave 100 Louisville KY 40204",
+    "addr:housenumber":"2010;100",
+    "addr:postcode":"40204",
+    "addr:street":"Edgeland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":856740989,
-    "wof:lastmodified":1466537585,
+    "wof:lastmodified":1472624115,
     "wof:name":"Society Intl Rlwy Travelers",
     "wof:parent_id":85873369,
     "wof:placetype":"venue",

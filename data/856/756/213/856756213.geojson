@@ -2,14 +2,20 @@
   "id": 856756213,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 E Rivercenter Blvd Covington KY 41011",
+    "addr:housenumber":"10",
+    "addr:postcode":"41011",
+    "addr:street":"E Rivercenter Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.511539,39.089599,-84.511539,39.089599",
     "geom:latitude":39.089599,
     "geom:longitude":-84.511539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 E Rivercenter Blvd",
     "sg:city":"Covington",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084469,
         85873129
     ],
+    "wof:brand_id":1125157375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eYXWTTw3ntX5c4zvFpXiY_39.089599_-84.511539@1303262750"
     },
     "wof:country":"US",
     "wof:created":1464053985,
-    "wof:geomhash":"80d684cd9733ad2286ee55eb95078c0b",
+    "wof:geomhash":"52ff3863dc03ea8a5763f010b84fa3b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856756213,
-    "wof:lastmodified":1466538123,
+    "wof:lastmodified":1510698648,
     "wof:name":"Embassy Suites",
     "wof:parent_id":85873129,
     "wof:placetype":"venue",

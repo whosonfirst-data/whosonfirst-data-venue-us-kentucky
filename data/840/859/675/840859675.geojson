@@ -2,6 +2,10 @@
   "id": 840859675,
   "type": "Feature",
   "properties": {
+    "addr:full":"12121 Shelbyville Rd Louisville KY 40243",
+    "addr:housenumber":"12121",
+    "addr:postcode":"40243",
+    "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840859675,
-    "wof:lastmodified":1466537994,
+    "wof:lastmodified":1472624145,
     "wof:name":"Simply Cottage",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

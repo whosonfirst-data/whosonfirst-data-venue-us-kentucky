@@ -2,14 +2,20 @@
   "id": 856741947,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Spring St Louisville KY 40206",
+    "addr:housenumber":"100",
+    "addr:postcode":"40206",
+    "addr:street":"S Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.720528,38.253521,-85.720528,38.253521",
     "geom:latitude":38.253521,
     "geom:longitude":-85.720528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 S Spring St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85873399
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74weniBNP2ro4c87jgXyF5_38.253521_-85.720528@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053456,
-    "wof:geomhash":"e743167a7f2a778a66eed64e3962d742",
+    "wof:geomhash":"86ba8d22ef4ec9af8704d3fb1d9199fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856741947,
-    "wof:lastmodified":1466537583,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85873399,
     "wof:placetype":"venue",

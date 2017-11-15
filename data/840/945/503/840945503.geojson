@@ -2,14 +2,20 @@
   "id": 840945503,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Lexington Rd Versailles KY 40383",
+    "addr:housenumber":"480",
+    "addr:postcode":"40383",
+    "addr:street":"Lexington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.716079,38.051063,-84.716079,38.051063",
     "geom:latitude":38.051063,
     "geom:longitude":-84.716079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"480 Lexington Rd",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85842075,
         102085447
     ],
+    "wof:brand_id":1125159513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VNa4iJtGtqO3HZzuZYB8k_38.051063_-84.716079@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051562,
-    "wof:geomhash":"0fb9f6825a803591bb6295b557fb527c",
+    "wof:geomhash":"fb02e4f737cb62aa9cdd6501b4e39cde",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840945503,
-    "wof:lastmodified":1466539079,
+    "wof:lastmodified":1510698879,
     "wof:name":"Community Trust Bank",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",

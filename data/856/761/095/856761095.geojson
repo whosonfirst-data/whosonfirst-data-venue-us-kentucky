@@ -2,14 +2,20 @@
   "id": 856761095,
   "type": "Feature",
   "properties": {
+    "addr:full":"5015 Hinkleville Rd Paducah KY 42001",
+    "addr:housenumber":"5015",
+    "addr:postcode":"42001",
+    "addr:street":"Hinkleville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684325,37.077464,-88.684325,37.077464",
     "geom:latitude":37.077464,
     "geom:longitude":-88.684325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5015 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102084607,
         85865245
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D5HLHVX4lQpdIJlBmPfg5_37.077464_-88.684325@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054164,
-    "wof:geomhash":"8e9b9130ac0536b09a466a2c3b6c4c08",
+    "wof:geomhash":"86eb540aee1765f8dec7e944cd69f2f0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856761095,
-    "wof:lastmodified":1466538691,
+    "wof:lastmodified":1510613305,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85865245,
     "wof:placetype":"venue",

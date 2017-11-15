@@ -2,6 +2,10 @@
   "id": 856741353,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Bardstown Rd Louisville KY 40205",
+    "addr:housenumber":"3210",
+    "addr:postcode":"40205",
+    "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":856741353,
-    "wof:lastmodified":1466537480,
+    "wof:lastmodified":1472624076,
     "wof:name":"American Mobile Glass",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

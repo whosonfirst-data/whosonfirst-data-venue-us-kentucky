@@ -2,6 +2,10 @@
   "id": 840732295,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Buchanan St Lexington KY 40508",
+    "addr:housenumber":"123",
+    "addr:postcode":"40508",
+    "addr:street":"Buchanan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840732295,
-    "wof:lastmodified":1466535316,
+    "wof:lastmodified":1472623970,
     "wof:name":"Nugent Sand Co",
     "wof:parent_id":85873027,
     "wof:placetype":"venue",

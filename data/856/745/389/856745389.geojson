@@ -2,6 +2,10 @@
   "id": 856745389,
   "type": "Feature",
   "properties": {
+    "addr:full":"4142 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"4142",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":856745389,
-    "wof:lastmodified":1466537608,
+    "wof:lastmodified":1472624085,
     "wof:name":"Derby City Appliance Parts",
     "wof:parent_id":85824429,
     "wof:placetype":"venue",

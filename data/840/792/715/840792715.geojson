@@ -2,6 +2,10 @@
   "id": 840792715,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 S Elm St Henderson KY 42420",
+    "addr:housenumber":"303",
+    "addr:postcode":"42420",
+    "addr:street":"S Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840792715,
-    "wof:lastmodified":1466533679,
+    "wof:lastmodified":1472624052,
     "wof:name":"Electrical Systems",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

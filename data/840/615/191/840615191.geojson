@@ -2,14 +2,20 @@
   "id": 840615191,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Moore Dr Lexington KY 40503",
+    "addr:housenumber":"199",
+    "addr:postcode":"40503",
+    "addr:street":"Moore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.524715,38.000749,-84.524715,38.000749",
     "geom:latitude":38.000749,
     "geom:longitude":-84.524715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"199 Moore Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084695,
         85813957
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NlgRgUDTPxE8EgXZB3mxd_38.000749_-84.524715@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044038,
-    "wof:geomhash":"bdc4b534e32bed990259b75eddbf2c27",
+    "wof:geomhash":"fb47b6000ccf591b3ba93e999140ea08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840615191,
-    "wof:lastmodified":1466532171,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85813957,
     "wof:placetype":"venue",

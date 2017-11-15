@@ -2,6 +2,10 @@
   "id": 856739309,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 W Market St Fl 32 Louisville KY 40202",
+    "addr:housenumber":"400;32",
+    "addr:postcode":"40202",
+    "addr:street":"W Market St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":856739309,
-    "wof:lastmodified":1466537466,
+    "wof:lastmodified":1472624071,
     "wof:name":"Bates Capitol Group",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",

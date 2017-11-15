@@ -2,14 +2,20 @@
   "id": 856744121,
   "type": "Feature",
   "properties": {
+    "addr:full":"3115 W Broadway Louisville KY 40211",
+    "addr:housenumber":"3115",
+    "addr:postcode":"40211",
+    "addr:street":"W Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.804115,38.249763,-85.804115,38.249763",
     "geom:latitude":38.249763,
     "geom:longitude":-85.804115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3115 W Broadway",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084449,
         85873423
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ead0nQpTUstQhYBhC1fSC_38.249763_-85.804115@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053533,
-    "wof:geomhash":"fcb9bc919ef561f15adffe9e3e86a125",
+    "wof:geomhash":"32ddd507c50423f177dc69d35b049855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856744121,
-    "wof:lastmodified":1466537798,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85873423,
     "wof:placetype":"venue",

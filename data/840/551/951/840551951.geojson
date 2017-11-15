@@ -2,6 +2,10 @@
   "id": 840551951,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Newburg Rd Louisville KY 40205",
+    "addr:housenumber":"2001",
+    "addr:postcode":"40205",
+    "addr:street":"Newburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840551951,
-    "wof:lastmodified":1466530856,
+    "wof:lastmodified":1472623832,
     "wof:name":"ELS Language Ctr",
     "wof:parent_id":85873367,
     "wof:placetype":"venue",

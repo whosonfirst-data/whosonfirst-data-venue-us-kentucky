@@ -2,6 +2,10 @@
   "id": 856752033,
   "type": "Feature",
   "properties": {
+    "addr:full":"11505 Commonwealth Dr Louisville KY 40299",
+    "addr:housenumber":"11505",
+    "addr:postcode":"40299",
+    "addr:street":"Commonwealth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":856752033,
-    "wof:lastmodified":1466538323,
+    "wof:lastmodified":1472624066,
     "wof:name":"Test Tech Inc",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

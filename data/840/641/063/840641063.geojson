@@ -2,14 +2,20 @@
   "id": 840641063,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 N Keeneland Dr Richmond KY 40475",
+    "addr:housenumber":"233",
+    "addr:postcode":"40475",
+    "addr:street":"N Keeneland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.320267,37.782128,-84.320267,37.782128",
     "geom:latitude":37.782128,
     "geom:longitude":-84.320267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"233 N Keeneland Dr",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084575,
         85803509
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VJgaJjvbHvONV6YWyQOUf_37.782128_-84.320267@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044701,
-    "wof:geomhash":"76b52a930acfce541c70c79dd1075106",
+    "wof:geomhash":"9168399c313ec522445bb28cbc0612e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840641063,
-    "wof:lastmodified":1466532874,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

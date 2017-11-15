@@ -2,6 +2,10 @@
   "id": 840949367,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Daniel Dr Danville KY 40422",
+    "addr:housenumber":"101",
+    "addr:postcode":"40422",
+    "addr:street":"Daniel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":840949367,
-    "wof:lastmodified":1466539120,
+    "wof:lastmodified":1472624221,
     "wof:name":"Behavioral Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

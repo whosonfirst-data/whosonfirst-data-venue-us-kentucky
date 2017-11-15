@@ -2,6 +2,10 @@
   "id": 856744241,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Amy Ave Louisville KY 40212",
+    "addr:housenumber":"214",
+    "addr:postcode":"40212",
+    "addr:street":"Amy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":856744241,
-    "wof:lastmodified":1466537812,
+    "wof:lastmodified":1472624069,
     "wof:name":"PNC Bank",
     "wof:parent_id":85848069,
     "wof:placetype":"venue",

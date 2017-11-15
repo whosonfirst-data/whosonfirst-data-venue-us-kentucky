@@ -2,14 +2,20 @@
   "id": 840765775,
   "type": "Feature",
   "properties": {
+    "addr:full":"6650 Morgantown Rd Bowling Green KY 42101",
+    "addr:housenumber":"",
+    "addr:postcode":"6650;42101",
+    "addr:street":"Morgantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.548756,37.007593,-86.548756,37.007593",
     "geom:latitude":37.007593,
     "geom:longitude":-86.548756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6650 Morgantown Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084479,
         85850751
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GOgLqmxDv11GBeZWXE4KR_37.007593_-86.548756@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464047469,
-    "wof:geomhash":"01bfbb8968fbd38995c47857d99ef3fb",
+    "wof:geomhash":"4f1f81ac2cb0dcbced34af8351eed87a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840765775,
-    "wof:lastmodified":1466536406,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85850751,
     "wof:placetype":"venue",

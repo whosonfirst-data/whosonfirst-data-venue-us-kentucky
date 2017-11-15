@@ -2,6 +2,10 @@
   "id": 856745461,
   "type": "Feature",
   "properties": {
+    "addr:full":"3423 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"3423",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":856745461,
-    "wof:lastmodified":1466537611,
+    "wof:lastmodified":1472624093,
     "wof:name":"Mini Movie Arcade",
     "wof:parent_id":85873429,
     "wof:placetype":"venue",

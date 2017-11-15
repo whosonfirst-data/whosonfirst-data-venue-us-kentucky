@@ -2,6 +2,10 @@
   "id": 840828815,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 S L Rogers Wells Blvd Glasgow KY 42141",
+    "addr:housenumber":"228",
+    "addr:postcode":"42141",
+    "addr:street":"S L;Wells Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840828815,
-    "wof:lastmodified":1466537327,
+    "wof:lastmodified":1472624096,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840610995,
   "type": "Feature",
   "properties": {
+    "addr:full":"11003 Bluegrass Pkwy Louisville KY 40299",
+    "addr:housenumber":"11003",
+    "addr:postcode":"40299",
+    "addr:street":"Bluegrass Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840610995,
-    "wof:lastmodified":1466532317,
+    "wof:lastmodified":1472623839,
     "wof:name":"Alternative Hlth Dlvry Systems",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

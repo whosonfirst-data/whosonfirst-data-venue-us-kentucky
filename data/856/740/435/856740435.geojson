@@ -2,14 +2,20 @@
   "id": 856740435,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 W Muhammad Ali Blvd Louisville KY 40203",
+    "addr:housenumber":"701",
+    "addr:postcode":"40203",
+    "addr:street":"W Muhammad Ali Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.762451,38.251678,-85.762451,38.251678",
     "geom:latitude":38.251678,
     "geom:longitude":-85.762451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 W Muhammad Ali Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102084449,
         85873381
     ],
+    "wof:brand_id":420574787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SwmcPkTIGWeYqR0BoNQGY_38.251678_-85.762451@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053404,
-    "wof:geomhash":"6afa13074e012236876366ac12a2ff2f",
+    "wof:geomhash":"fe021257fa3c340fde9a82b2d742ed41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":856740435,
-    "wof:lastmodified":1466537493,
+    "wof:lastmodified":1510603992,
     "wof:name":"American Cancer Society",
     "wof:parent_id":85873381,
     "wof:placetype":"venue",

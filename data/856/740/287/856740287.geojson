@@ -2,14 +2,20 @@
   "id": 856740287,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 S 1st St Louisville KY 40202",
+    "addr:housenumber":"430",
+    "addr:postcode":"40202",
+    "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.752348,38.251613,-85.752348,38.251613",
     "geom:latitude":38.251613,
     "geom:longitude":-85.752348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 S 1st St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -58,13 +64,14 @@
         102084449,
         85866963
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aSqoKE3mQmHZoLoB9GoEp_38.251613_-85.752348@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053393,
-    "wof:geomhash":"68cad9c31c10e62fe935705204647c7f",
+    "wof:geomhash":"c174e00a5ac80ca3da0f9b6be40c8f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":856740287,
-    "wof:lastmodified":1466537469,
+    "wof:lastmodified":1510697303,
     "wof:name":"Midas Auto Service Experts",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",

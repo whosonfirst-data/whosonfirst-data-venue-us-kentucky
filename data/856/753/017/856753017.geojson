@@ -2,14 +2,20 @@
   "id": 856753017,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Lexington Rd Versailles KY 40383",
+    "addr:housenumber":"504",
+    "addr:postcode":"40383",
+    "addr:street":"Lexington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.714724,38.05096,-84.714724,38.05096",
     "geom:latitude":38.05096,
     "geom:longitude":-84.714724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 Lexington Rd",
     "sg:city":"Versailles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85842075,
         102085447
     ],
+    "wof:brand_id":1125158977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sx9t1EolTpljKmfMXRWcd_38.050960_-84.714724@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053869,
-    "wof:geomhash":"755df9a247686852f731d990d0bacef2",
+    "wof:geomhash":"e4a75129813919715ee3d9fe6e2bc6b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856753017,
-    "wof:lastmodified":1466538124,
+    "wof:lastmodified":1510696033,
     "wof:name":"El Tapatio",
     "wof:parent_id":85842075,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856734593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1719 N Broadway Lexington KY 40505",
+    "addr:housenumber":"1719",
+    "addr:postcode":"40505",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.46876,38.069931,-84.46876,38.069931",
     "geom:latitude":38.069931,
     "geom:longitude":-84.46876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1719 N Broadway",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084695,
         85854561
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SMBmTj3c60DQlVruK1O9t_38.069931_-84.468760@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053168,
-    "wof:geomhash":"8c66d868bd82587b53bfbcecd59c3846",
+    "wof:geomhash":"70f6c0c06665fc3787fd21f5c8ca2dca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856734593,
-    "wof:lastmodified":1466537485,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85854561,
     "wof:placetype":"venue",

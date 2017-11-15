@@ -2,14 +2,20 @@
   "id": 840572209,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Weddington Branch Rd Pikeville KY 41501",
+    "addr:housenumber":"35",
+    "addr:postcode":"41501",
+    "addr:street":"Weddington Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.559484,37.528568,-82.559484,37.528568",
     "geom:latitude":37.528568,
     "geom:longitude":-82.559484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 Weddington Branch Rd",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085449,
         85840927
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D3Si0z0XnA9DHgRdTqabT_37.528568_-82.559484@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464043040,
-    "wof:geomhash":"6093a8f360f251089379df9dbd49404c",
+    "wof:geomhash":"b1dd10e618d9e47d9902a0b2db385b99",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840572209,
-    "wof:lastmodified":1466531125,
+    "wof:lastmodified":1510608457,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":85840927,
     "wof:placetype":"venue",

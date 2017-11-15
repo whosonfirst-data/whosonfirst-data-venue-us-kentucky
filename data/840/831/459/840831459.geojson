@@ -2,14 +2,20 @@
   "id": 840831459,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 N 2nd St Bardstown KY 40004",
+    "addr:housenumber":"302",
+    "addr:postcode":"40004",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.464075,37.812387,-85.464075,37.812387",
     "geom:latitude":37.812387,
     "geom:longitude":-85.464075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 N 2nd St",
     "sg:city":"Bardstown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084589,
         85858429
     ],
+    "wof:brand_id":420575191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OWp0zAdikwLU2tcZXKaJy_37.812387_-85.464075@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049033,
-    "wof:geomhash":"5e1d8821d0255fee22a1e4a785ff8570",
+    "wof:geomhash":"f404242b5222338a40dd1df4455c5210",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840831459,
-    "wof:lastmodified":1466537341,
+    "wof:lastmodified":1510602780,
     "wof:name":"Manpower Temporary Svc",
     "wof:parent_id":85858429,
     "wof:placetype":"venue",

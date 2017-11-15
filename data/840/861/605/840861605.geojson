@@ -2,6 +2,10 @@
   "id": 840861605,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Main St Louisville KY 40202",
+    "addr:housenumber":"500",
+    "addr:postcode":"40202",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840861605,
-    "wof:lastmodified":1466537981,
+    "wof:lastmodified":1472624169,
     "wof:name":"Commonwealth Bank & Trust",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",

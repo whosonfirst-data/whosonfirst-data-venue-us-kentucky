@@ -2,14 +2,20 @@
   "id": 840552797,
   "type": "Feature",
   "properties": {
+    "addr:full":"5104 Hinkleville Rd Paducah KY 42001",
+    "addr:housenumber":"5104",
+    "addr:postcode":"42001",
+    "addr:street":"Hinkleville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684687,37.077197,-88.684687,37.077197",
     "geom:latitude":37.077197,
     "geom:longitude":-88.684687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5104 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084607,
         85865245
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KXgQspOeJfUFV9NdIBEEe_37.077197_-88.684687@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042571,
-    "wof:geomhash":"bf9bc5f2774fd27532414a6ff526f480",
+    "wof:geomhash":"1f57dd314ad3ee8bc35e729fd7401a5a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840552797,
-    "wof:lastmodified":1466530827,
+    "wof:lastmodified":1510602388,
     "wof:name":"Hardee's",
     "wof:parent_id":85865245,
     "wof:placetype":"venue",

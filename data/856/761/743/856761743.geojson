@@ -2,14 +2,20 @@
   "id": 856761743,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 Lebanon Church Rd Paducah KY 42003",
+    "addr:housenumber":"950",
+    "addr:postcode":"42003",
+    "addr:street":"Lebanon Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.65538,36.979695,-88.65538,36.979695",
     "geom:latitude":36.979695,
     "geom:longitude":-88.65538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"950 Lebanon Church Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084607,
         85819855
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26DscmbAdTehjkBlOhhHG6_36.979695_-88.655380@1303262751"
     },
     "wof:country":"US",
     "wof:created":1464054186,
-    "wof:geomhash":"675d9da07331f0a9faef40773b2d2d64",
+    "wof:geomhash":"3dc0794ae0ad7bca11cd5846093a241a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856761743,
-    "wof:lastmodified":1466538642,
+    "wof:lastmodified":1510696663,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85819855,
     "wof:placetype":"venue",

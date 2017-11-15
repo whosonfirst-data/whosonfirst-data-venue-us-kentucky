@@ -2,14 +2,20 @@
   "id": 840613771,
   "type": "Feature",
   "properties": {
+    "addr:full":"5015 Shelbyville Rd St Matthews KY 40207",
+    "addr:housenumber":"5015",
+    "addr:postcode":"40207",
+    "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.623542,38.250334,-85.623542,38.250334",
     "geom:latitude":38.250334,
     "geom:longitude":-85.623542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5015 Shelbyville Rd",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03kHiYgHoqRHyZEQA6iRZi_38.250334_-85.623542@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044013,
-    "wof:geomhash":"030697eb152aca0127f27e7eddbd4116",
+    "wof:geomhash":"7e661932e721da657ecb8930ad05c98b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840613771,
-    "wof:lastmodified":1466532313,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

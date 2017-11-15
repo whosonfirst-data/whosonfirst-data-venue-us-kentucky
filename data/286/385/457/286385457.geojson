@@ -2,9 +2,14 @@
   "id": 286385457,
   "type": "Feature",
   "properties": {
+    "addr:full":"5259 Delhi Ave Cincinnati OH 45238",
+    "addr:housenumber":"5259",
+    "addr:postcode":"45238",
+    "addr:street":"Delhi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.616906,39.094143,-84.616906,39.094143",
     "geom:latitude":39.094143,
     "geom:longitude":-84.616906,
@@ -32,8 +37,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:brand_id":420573817,
     "wof:breaches":[],
@@ -44,17 +49,15 @@
     "wof:geomhash":"496a300c3e9ea600bf09499e7979ed0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":286385457
         }
     ],
     "wof:id":286385457,
-    "wof:lastmodified":1466536767,
+    "wof:lastmodified":1491929780,
     "wof:name":"Family Dollar Stores",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

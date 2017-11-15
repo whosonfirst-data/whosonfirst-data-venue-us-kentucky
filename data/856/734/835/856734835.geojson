@@ -2,14 +2,20 @@
   "id": 856734835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3191 Beaumont Centre Cir Lexington KY 40513",
+    "addr:housenumber":"3191",
+    "addr:postcode":"40513",
+    "addr:street":"Beaumont Centre Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.559067,38.020558,-84.559067,38.020558",
     "geom:latitude":38.020558,
     "geom:longitude":-84.559067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3191 Beaumont Centre Cir",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084695,
         85873497
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zW56cpN4L94V3X3Ns1tag_38.020558_-84.559067@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053175,
-    "wof:geomhash":"8109dfb06dfe4a3b75965ce3467829ee",
+    "wof:geomhash":"5305c6daaafda3bf18c532c867800107",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856734835,
-    "wof:lastmodified":1466537622,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85873497,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856754691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2341 Sir Barton Way Lexington KY 40509",
+    "addr:housenumber":"2341",
+    "addr:postcode":"40509",
+    "addr:street":"Sir Barton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.421257,38.028469,-84.421257,38.028469",
     "geom:latitude":38.028469,
     "geom:longitude":-84.421257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2341 Sir Barton Way",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102084695,
         85830425
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WXfJYZ44BAs5AgJXJpRtj_38.028469_-84.421257@1303262750"
     },
     "wof:country":"US",
     "wof:created":1464053933,
-    "wof:geomhash":"aa5d97a6ac488524684867f84af0ea3f",
+    "wof:geomhash":"42eff727fa4c0587190138b279e93510",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856754691,
-    "wof:lastmodified":1466538190,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",

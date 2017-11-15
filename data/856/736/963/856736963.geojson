@@ -2,14 +2,20 @@
   "id": 856736963,
   "type": "Feature",
   "properties": {
+    "addr:full":"799 S Highway 27 Somerset KY 42501",
+    "addr:housenumber":"799",
+    "addr:postcode":"42501",
+    "addr:street":"S Highway 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.617093,37.084605,-84.617093,37.084605",
     "geom:latitude":37.084605,
     "geom:longitude":-84.617093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"799 S Highway 27",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084701,
         85844633
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FlaAZEKJ2ffkEIzzYHkE0_37.084605_-84.617093@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053256,
-    "wof:geomhash":"472ed5f676bb7f77af726840cc90771d",
+    "wof:geomhash":"c9660112000dcf6975ae2b52d23c5b4f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856736963,
-    "wof:lastmodified":1466537554,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

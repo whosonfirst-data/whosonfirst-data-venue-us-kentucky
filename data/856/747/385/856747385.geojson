@@ -2,14 +2,20 @@
   "id": 856747385,
   "type": "Feature",
   "properties": {
+    "addr:full":"4076 Taylorsville Rd Louisville KY 40220",
+    "addr:housenumber":"4076",
+    "addr:postcode":"40220",
+    "addr:street":"Taylorsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.620236,38.219565,-85.620236,38.219565",
     "geom:latitude":38.219565,
     "geom:longitude":-85.620236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4076 Taylorsville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084449,
         85824979
     ],
+    "wof:brand_id":1125154435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gG3XkqoD8rSXhPsGaYXtl_38.219565_-85.620236@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053654,
-    "wof:geomhash":"ced1a33a7fd2235ec993df0d2742664c",
+    "wof:geomhash":"44c1144c00878d0f6423495498cdf9be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":856747385,
-    "wof:lastmodified":1466537807,
+    "wof:lastmodified":1510696745,
     "wof:name":"Golden Nails",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

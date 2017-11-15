@@ -2,14 +2,20 @@
   "id": 840743665,
   "type": "Feature",
   "properties": {
+    "addr:full":"5132 Hinkleville Rd Paducah KY 42001",
+    "addr:housenumber":"5132",
+    "addr:postcode":"42001",
+    "addr:street":"Hinkleville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.688246,37.076132,-88.688246,37.076132",
     "geom:latitude":37.076132,
     "geom:longitude":-88.688246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5132 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084607,
         85865245
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zJ6Q5phzWqP7OHgaBi8nc_37.076132_-88.688246@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046962,
-    "wof:geomhash":"379b63f89070790cb54899cdd9d27278",
+    "wof:geomhash":"f1efbee3c33e1e4e742bf8f588cf0db4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840743665,
-    "wof:lastmodified":1466535748,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85865245,
     "wof:placetype":"venue",

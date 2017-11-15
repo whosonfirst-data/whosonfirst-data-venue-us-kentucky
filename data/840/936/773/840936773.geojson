@@ -2,14 +2,20 @@
   "id": 840936773,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Thomas More Pkwy Crestview Hills KY 41017",
+    "addr:housenumber":"350",
+    "addr:postcode":"41017",
+    "addr:street":"Thomas More Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.569428,39.023445,-84.569428,39.023445",
     "geom:latitude":39.023445,
     "geom:longitude":-84.569428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 Thomas More Pkwy",
     "sg:city":"Crestview Hills",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084469,
         85832905
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MzuHb416JlXSjXdG3YDgv_39.023445_-84.569428@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051387,
-    "wof:geomhash":"b23ea859558e7e302265ae5c350fd138",
+    "wof:geomhash":"37fb233ee218e99e74982a1d00ff1250",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840936773,
-    "wof:lastmodified":1466539024,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":85832905,
     "wof:placetype":"venue",

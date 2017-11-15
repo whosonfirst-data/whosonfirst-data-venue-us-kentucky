@@ -2,14 +2,20 @@
   "id": 856748163,
   "type": "Feature",
   "properties": {
+    "addr:full":"273 Whittington Pkwy Louisville KY 40222",
+    "addr:housenumber":"273",
+    "addr:postcode":"40222",
+    "addr:street":"Whittington Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.579458,38.242725,-85.579458,38.242725",
     "geom:latitude":38.242725,
     "geom:longitude":-85.579458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"273 Whittington Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125152437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gxaNeedAwwcZHzLP2AnQp_38.242725_-85.579458@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053682,
-    "wof:geomhash":"cae7a5b41ffe7fcbcfe41cc7f23152d1",
+    "wof:geomhash":"6f78fab27589152e0c129464e4b55cc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":856748163,
-    "wof:lastmodified":1466537775,
+    "wof:lastmodified":1510695779,
     "wof:name":"The Hair Shop",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

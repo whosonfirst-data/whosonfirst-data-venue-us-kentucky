@@ -2,14 +2,20 @@
   "id": 840854731,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 State Hwy 80(Bus) Somerset KY 42503",
+    "addr:housenumber":"111",
+    "addr:postcode":"42503",
+    "addr:street":"State Hwy 80 Bus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.609477,37.094028,-84.609477,37.094028",
     "geom:latitude":37.094028,
     "geom:longitude":-84.609477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 State Hwy 80(Bus)",
     "sg:city":"Somerset",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084701,
         85844633
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZyfC8c4D0i627DQOLX0nY_37.094028_-84.609477@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049541,
-    "wof:geomhash":"1c777a9235638b249ba751b7b252a015",
+    "wof:geomhash":"a64eaa1bbb3685169276ae1283d7c9c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840854731,
-    "wof:lastmodified":1466538050,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":85844633,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 856733271,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Outer Loop Louisville KY 40219",
+    "addr:housenumber":"4801",
+    "addr:postcode":"40219",
+    "addr:street":"Outer Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.672951,38.137958,-85.672951,38.137958",
     "geom:latitude":38.137958,
     "geom:longitude":-85.672951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4801 Outer Loop",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85841437
     ],
+    "wof:brand_id":1125150491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KAnGUx4VpY1vV1Vd4RIcE_38.137958_-85.672951@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053119,
-    "wof:geomhash":"4c69b1dc1e290e2effcc10f85fb2e561",
+    "wof:geomhash":"ab3d87cfc328882477219cc3c64e3dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856733271,
-    "wof:lastmodified":1466537242,
+    "wof:lastmodified":1510697199,
     "wof:name":"Great American Cookies",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",

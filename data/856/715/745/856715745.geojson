@@ -2,14 +2,20 @@
   "id": 856715745,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 Coleman Rd Paducah KY 42001",
+    "addr:housenumber":"3230",
+    "addr:postcode":"42001",
+    "addr:street":"Coleman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.677574,37.079869,-88.677574,37.079869",
     "geom:latitude":37.079869,
     "geom:longitude":-88.677574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3230 Coleman Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85820867,
         102084607
     ],
+    "wof:brand_id":1125154753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RvEE47ggN36ktQtDznulV_37.079869_-88.677574@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052421,
-    "wof:geomhash":"c02717fb81d20b19450d8666ca500a18",
+    "wof:geomhash":"289264eb73238a5a2b84eb4f83c399c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856715745,
-    "wof:lastmodified":1466537016,
+    "wof:lastmodified":1510697726,
     "wof:name":"Groomingdales",
     "wof:parent_id":85820867,
     "wof:placetype":"venue",

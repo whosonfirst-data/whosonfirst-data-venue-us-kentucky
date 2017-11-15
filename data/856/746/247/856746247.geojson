@@ -2,14 +2,20 @@
   "id": 856746247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Hikes Ln Louisville KY 40218",
+    "addr:housenumber":"2101",
+    "addr:postcode":"40218",
+    "addr:street":"Hikes Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.661049,38.198372,-85.661049,38.198372",
     "geom:latitude":38.198372,
     "geom:longitude":-85.661049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Hikes Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85866953,
         85841437
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WWzSHsLn127yOKKUD8Gil_38.198372_-85.661049@1303262747"
     },
     "wof:country":"US",
     "wof:created":1464053605,
-    "wof:geomhash":"9937cafc096d06814e22cb3c7c0bfa15",
+    "wof:geomhash":"07ccc9ef2bee0f7d16c37cef5171be2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":856746247,
-    "wof:lastmodified":1466537800,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

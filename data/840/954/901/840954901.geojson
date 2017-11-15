@@ -2,14 +2,20 @@
   "id": 840954901,
   "type": "Feature",
   "properties": {
+    "addr:full":"2521 Petty Dr Bowling Green KY 42103",
+    "addr:housenumber":"2521",
+    "addr:postcode":"42103",
+    "addr:street":"Petty Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.421413,36.953857,-86.421413,36.953857",
     "geom:latitude":36.953857,
     "geom:longitude":-86.421413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2521 Petty Dr",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084479,
         85823129
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wmu7ep94lcq3MM9tPgEvZ_36.953857_-86.421413@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051742,
-    "wof:geomhash":"fc70cd47ef2b495bb0cc5cd48112b725",
+    "wof:geomhash":"778201257b61f836444bdec06d0a2771",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840954901,
-    "wof:lastmodified":1466539200,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",

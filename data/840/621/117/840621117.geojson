@@ -2,14 +2,20 @@
   "id": 840621117,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Oxford Ave Covington KY 41017",
+    "addr:housenumber":"11",
+    "addr:postcode":"41017",
+    "addr:street":"Oxford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.560934,39.040835,-84.560934,39.040835",
     "geom:latitude":39.040835,
     "geom:longitude":-84.560934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11 Oxford Ave",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084469,
         85829425
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_199jM8YcYj8lLoXVsW6abd_39.040835_-84.560934@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044193,
-    "wof:geomhash":"6a09ace93dba838805003825e65c7d35",
+    "wof:geomhash":"b68f26d90162667e46b53dffcbf0f108",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840621117,
-    "wof:lastmodified":1466532355,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85829425,
     "wof:placetype":"venue",

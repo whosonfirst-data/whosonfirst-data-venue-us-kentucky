@@ -2,14 +2,20 @@
   "id": 840813179,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 N Buckman St Shepherdsville KY 40165",
+    "addr:housenumber":"615",
+    "addr:postcode":"40165",
+    "addr:street":"N Buckman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.712246,37.997322,-85.712246,37.997322",
     "geom:latitude":37.997322,
     "geom:longitude":-85.712246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"615 N Buckman St",
     "sg:city":"Shepherdsville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084673,
         85846821
     ],
+    "wof:brand_id":420574573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LOPRnQRtRPICmbuEE7jVc_37.997322_-85.712246@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048548,
-    "wof:geomhash":"540c04dfa3853cb7aa29255ad7051075",
+    "wof:geomhash":"a3d171ba5b5f04bfe87d67d112118b29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840813179,
-    "wof:lastmodified":1466536861,
+    "wof:lastmodified":1510604686,
     "wof:name":"Big O Tires",
     "wof:parent_id":85846821,
     "wof:placetype":"venue",

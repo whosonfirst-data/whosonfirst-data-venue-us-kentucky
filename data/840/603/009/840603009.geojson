@@ -2,6 +2,10 @@
   "id": 840603009,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Charlie Norris Rd Richmond KY 40475",
+    "addr:housenumber":"125",
+    "addr:postcode":"40475",
+    "addr:street":"Charlie Norris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840603009,
-    "wof:lastmodified":1466531856,
+    "wof:lastmodified":1472623774,
     "wof:name":"Aqua Systems Corp",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

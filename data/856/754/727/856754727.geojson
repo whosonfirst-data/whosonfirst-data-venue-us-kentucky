@@ -2,14 +2,20 @@
   "id": 856754727,
   "type": "Feature",
   "properties": {
+    "addr:full":"2625 Richmond Rd Lexington KY 40509",
+    "addr:housenumber":"2625",
+    "addr:postcode":"40509",
+    "addr:street":"Richmond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454705,38.010118,-84.454705,38.010118",
     "geom:latitude":38.010118,
     "geom:longitude":-84.454705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2625 Richmond Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084695,
         85873047
     ],
+    "wof:brand_id":420574533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HryOTgcAsMo8CQ50qQYsV_38.010118_-84.454705@1303262750"
     },
     "wof:country":"US",
     "wof:created":1464053934,
-    "wof:geomhash":"e415f38674a697e4b64633014f64ca01",
+    "wof:geomhash":"8902af9dc3087d636c3b6946eabe38c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856754727,
-    "wof:lastmodified":1466538093,
+    "wof:lastmodified":1510604289,
     "wof:name":"Valvoline Instant Oil Change",
     "wof:parent_id":85873047,
     "wof:placetype":"venue",

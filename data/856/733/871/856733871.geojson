@@ -2,14 +2,20 @@
   "id": 856733871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Alliant Ave Louisville KY 40299",
+    "addr:housenumber":"1700",
+    "addr:postcode":"40299",
+    "addr:street":"Alliant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.537438,38.218439,-85.537438,38.218439",
     "geom:latitude":38.218439,
     "geom:longitude":-85.537438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Alliant Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":1125150801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UKhcwJDZEqwnHLjAyPQmD_38.218439_-85.537438@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053140,
-    "wof:geomhash":"269767936d7af0b78aed556afca19474",
+    "wof:geomhash":"5c2781d1fc53ba4fae188cd530ded252",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856733871,
-    "wof:lastmodified":1466537367,
+    "wof:lastmodified":1510697335,
     "wof:name":"Hometown Buffet",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

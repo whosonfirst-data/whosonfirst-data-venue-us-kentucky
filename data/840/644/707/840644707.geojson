@@ -2,14 +2,20 @@
   "id": 840644707,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Kentucky Ave Pineville KY 40977",
+    "addr:housenumber":"211",
+    "addr:postcode":"40977",
+    "addr:street":"Kentucky Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.696782,36.761671,-83.696782,36.761671",
     "geom:latitude":36.761671,
     "geom:longitude":-83.696782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 Kentucky Ave",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084431,
         85806147
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tfKTfvEq8Ti6Uc1LV11YA_36.761671_-83.696782@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044776,
-    "wof:geomhash":"bf34b3ff7c719d27d78382a7f625437c",
+    "wof:geomhash":"cdda9761017c8df177fca000765fafee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840644707,
-    "wof:lastmodified":1466533068,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":85806147,
     "wof:placetype":"venue",

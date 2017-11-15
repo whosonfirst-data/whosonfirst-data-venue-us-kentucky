@@ -2,14 +2,20 @@
   "id": 840805519,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 E Main St Glasgow KY 42141",
+    "addr:housenumber":"746",
+    "addr:postcode":"42141",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.899503,36.988472,-85.899503,36.988472",
     "geom:latitude":36.988472,
     "geom:longitude":-85.899503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"746 E Main St",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085537,
         85846071
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bzZBpVnySPtev85k6ezw6_36.988472_-85.899503@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048308,
-    "wof:geomhash":"a8ea2ac96d200873d4298c6d052fc19e",
+    "wof:geomhash":"3f0723e641f41b8f4bf42032c64b77da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840805519,
-    "wof:lastmodified":1466536833,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

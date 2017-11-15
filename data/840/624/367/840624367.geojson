@@ -2,14 +2,20 @@
   "id": 840624367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Washington St Shelbyville KY 40065",
+    "addr:housenumber":"1030",
+    "addr:postcode":"40065",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.224862,38.21225,-85.224862,38.21225",
     "geom:latitude":38.21225,
     "geom:longitude":-85.224862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 Washington St",
     "sg:city":"Shelbyville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85834021,
         102085555
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NHKm66888jvwTCwuSKxbP_38.212250_-85.224862@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044281,
-    "wof:geomhash":"6c66a5c9308c0a38b2802673d911b8e9",
+    "wof:geomhash":"c50ed26c1e7391a4fdb3c264a7341ec0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840624367,
-    "wof:lastmodified":1466532452,
+    "wof:lastmodified":1510699335,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85834021,
     "wof:placetype":"venue",

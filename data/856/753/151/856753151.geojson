@@ -2,6 +2,10 @@
   "id": 856753151,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 E Main St Apt 5 Richmond KY 40475",
+    "addr:housenumber":"415;5",
+    "addr:postcode":"40475",
+    "addr:street":"E Main St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":856753151,
-    "wof:lastmodified":1466538334,
+    "wof:lastmodified":1472624085,
     "wof:name":"Wal-Mart Supercenter",
     "wof:parent_id":85803509,
     "wof:placetype":"venue",

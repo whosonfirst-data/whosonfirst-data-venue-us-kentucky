@@ -2,9 +2,14 @@
   "id": 219359671,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 Anderson Ferry Rd Cincinnati OH 45238",
+    "addr:housenumber":"421",
+    "addr:postcode":"45238",
+    "addr:street":"Anderson Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.618115,39.095369,-84.618115,39.095369",
     "geom:latitude":39.095369,
     "geom:longitude":-84.618115,
@@ -30,8 +35,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +46,15 @@
     "wof:geomhash":"a7cc3904fae77045f5cba58700e24e6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":219359671
         }
     ],
     "wof:id":219359671,
-    "wof:lastmodified":1466530034,
+    "wof:lastmodified":1491929786,
     "wof:name":"Rotte Mailboxes",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

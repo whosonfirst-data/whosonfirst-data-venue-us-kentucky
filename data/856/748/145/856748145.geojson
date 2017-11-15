@@ -2,14 +2,20 @@
   "id": 856748145,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 N Hurstbourne Pkwy Louisville KY 40222",
+    "addr:housenumber":"103",
+    "addr:postcode":"40222",
+    "addr:street":"N Hurstbourne Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.576797,38.24646,-85.576797,38.24646",
     "geom:latitude":38.24646,
     "geom:longitude":-85.576797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 N Hurstbourne Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -51,13 +57,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z6u8oFgf9CCCRzsbEKXIE_38.246460_-85.576797@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053681,
-    "wof:geomhash":"0cdced383db048183f88520f051c139e",
+    "wof:geomhash":"2ab1633c012d40d4769b5556d31206c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":856748145,
-    "wof:lastmodified":1466537770,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

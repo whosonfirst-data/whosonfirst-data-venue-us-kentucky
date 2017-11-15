@@ -2,14 +2,20 @@
   "id": 840956549,
   "type": "Feature",
   "properties": {
+    "addr:full":"3122 Preston Hwy Louisville KY 40213",
+    "addr:housenumber":"3122",
+    "addr:postcode":"40213",
+    "addr:street":"Preston Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.735723,38.204052,-85.735723,38.204052",
     "geom:latitude":38.204052,
     "geom:longitude":-85.735723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3122 Preston Hwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85873373
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vACR1ML1HKJANoNIaM5CO_38.204052_-85.735723@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464051771,
-    "wof:geomhash":"a4d94998b3a11cf1f52e2ff1a799d47b",
+    "wof:geomhash":"66768c529dfa9f3584974141e4d61727",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840956549,
-    "wof:lastmodified":1466539182,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85873373,
     "wof:placetype":"venue",

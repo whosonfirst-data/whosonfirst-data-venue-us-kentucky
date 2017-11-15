@@ -2,14 +2,20 @@
   "id": 856751763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 S Hurstbourne Pkwy Louisville KY 40299",
+    "addr:housenumber":"3500",
+    "addr:postcode":"40299",
+    "addr:street":"S Hurstbourne Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.603498,38.196922,-85.603498,38.196922",
     "geom:latitude":38.196922,
     "geom:longitude":-85.603498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500 S Hurstbourne Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102084449,
         85824979
     ],
+    "wof:brand_id":1125152029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M9UH0ke5eLwTVnrWXFXmK_38.196922_-85.603498@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053824,
-    "wof:geomhash":"2d3344624a326f990a46b657d9d1de53",
+    "wof:geomhash":"f1cd3f7a151dbc22d32192868b8cbc30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":856751763,
-    "wof:lastmodified":1466538101,
+    "wof:lastmodified":1510696814,
     "wof:name":"Dick's Sporting Goods",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

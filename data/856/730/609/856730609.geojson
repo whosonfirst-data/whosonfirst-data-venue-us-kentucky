@@ -2,14 +2,20 @@
   "id": 856730609,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Eastern Pkwy Louisville KY 40217",
+    "addr:housenumber":"790",
+    "addr:postcode":"40217",
+    "addr:street":"Eastern Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.743,38.214305,-85.743,38.214305",
     "geom:latitude":38.214305,
     "geom:longitude":-85.743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"790 Eastern Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85873425
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kiZlChEzJ1mGikgQxLEhk_38.214549_-85.742940@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464053023,
-    "wof:geomhash":"ca837eb55dadee92a8915987fc338b1b",
+    "wof:geomhash":"b185aa95f1e46b4f67be3b793a7fac26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":856730609,
-    "wof:lastmodified":1466537362,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85873425,
     "wof:placetype":"venue",

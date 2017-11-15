@@ -2,6 +2,10 @@
   "id": 856746267,
   "type": "Feature",
   "properties": {
+    "addr:full":"4314 Bishop Ln Apt 513 Louisville KY 40218",
+    "addr:housenumber":"4314;513",
+    "addr:postcode":"40218",
+    "addr:street":"Bishop Ln Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":856746267,
-    "wof:lastmodified":1466537881,
+    "wof:lastmodified":1472624091,
     "wof:name":"Garrison & Garrison Prod",
     "wof:parent_id":85873395,
     "wof:placetype":"venue",

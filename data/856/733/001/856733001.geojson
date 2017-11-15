@@ -2,6 +2,10 @@
   "id": 856733001,
   "type": "Feature",
   "properties": {
+    "addr:full":"3314 Preston Hwy Louisville KY 40213",
+    "addr:housenumber":"3314",
+    "addr:postcode":"40213",
+    "addr:street":"Preston Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":856733001,
-    "wof:lastmodified":1466537223,
+    "wof:lastmodified":1472623884,
     "wof:name":"Subway",
     "wof:parent_id":85873373,
     "wof:placetype":"venue",

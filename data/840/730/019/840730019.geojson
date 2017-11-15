@@ -2,14 +2,20 @@
   "id": 840730019,
   "type": "Feature",
   "properties": {
+    "addr:full":"1979 Pavilion Way Lexington KY 40509",
+    "addr:housenumber":"1979",
+    "addr:postcode":"40509",
+    "addr:street":"Pavilion Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.41842,38.024056,-84.41842,38.024056",
     "geom:latitude":38.024056,
     "geom:longitude":-84.41842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1979 Pavilion Way",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084695,
         85830425
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OoMwY790RShxtc3LiLU4P_38.024056_-84.418420@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046708,
-    "wof:geomhash":"1703a36bc6671f2c93317cc770d33f02",
+    "wof:geomhash":"2a5ee6ce222a03c0bf252872a38d48d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840730019,
-    "wof:lastmodified":1466535197,
+    "wof:lastmodified":1510602393,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",

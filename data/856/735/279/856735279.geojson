@@ -2,14 +2,20 @@
   "id": 856735279,
   "type": "Feature",
   "properties": {
+    "addr:full":"2865 Dixie Hwy Ft Mitchell KY 41017",
+    "addr:housenumber":"2865",
+    "addr:postcode":"41017",
+    "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.5806,39.026951,-84.5806,39.026951",
     "geom:latitude":39.026951,
     "geom:longitude":-84.5806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2865 Dixie Hwy",
     "sg:city":"Ft Mitchell",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084469,
         85829425
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w5G0n7qksxLAk3eg0Lb1z_39.026951_-84.580600@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053193,
-    "wof:geomhash":"152b194a23158352ae07de7df5ae6a62",
+    "wof:geomhash":"e623ec54423009281464003de2f3ec67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":856735279,
-    "wof:lastmodified":1466537431,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85829425,
     "wof:placetype":"venue",

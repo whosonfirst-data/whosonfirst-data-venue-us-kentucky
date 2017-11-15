@@ -2,6 +2,10 @@
   "id": 840776297,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 E Walnut St Danville KY 40422",
+    "addr:housenumber":"234",
+    "addr:postcode":"40422",
+    "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840776297,
-    "wof:lastmodified":1466536598,
+    "wof:lastmodified":1472624017,
     "wof:name":"Morley's Wheel Svc",
     "wof:parent_id":85805997,
     "wof:placetype":"venue",

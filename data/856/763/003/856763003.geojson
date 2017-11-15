@@ -2,6 +2,10 @@
   "id": 856763003,
   "type": "Feature",
   "properties": {
+    "addr:full":"348 E Main Street Lexington KY 40507",
+    "addr:housenumber":"348",
+    "addr:postcode":"40507",
+    "addr:street":"E Main Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":856763003,
-    "wof:lastmodified":1466538687,
+    "wof:lastmodified":1472624140,
     "wof:name":"aBetterOffice",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",

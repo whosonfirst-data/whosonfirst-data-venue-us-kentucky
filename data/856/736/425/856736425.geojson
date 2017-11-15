@@ -2,14 +2,20 @@
   "id": 856736425,
   "type": "Feature",
   "properties": {
+    "addr:full":"2920 Scottsville Rd Bowling Green KY 42104",
+    "addr:housenumber":"2920",
+    "addr:postcode":"42104",
+    "addr:street":"Scottsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.422728,36.945666,-86.422728,36.945666",
     "geom:latitude":36.945666,
     "geom:longitude":-86.422728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2920 Scottsville Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084479,
         85823129
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38hwt5a0wYjtHLRXMArNKu_36.945666_-86.422728@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464053239,
-    "wof:geomhash":"911cc373e0d6dbcc2b5cebd53d9a2b9c",
+    "wof:geomhash":"100c058ecb62f90116017860cb3076c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":856736425,
-    "wof:lastmodified":1466537606,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",

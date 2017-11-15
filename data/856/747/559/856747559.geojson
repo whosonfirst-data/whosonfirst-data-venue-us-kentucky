@@ -2,14 +2,20 @@
   "id": 856747559,
   "type": "Feature",
   "properties": {
+    "addr:full":"3942 Taylorsville Rd Louisville KY 40220",
+    "addr:housenumber":"3942",
+    "addr:postcode":"40220",
+    "addr:street":"Taylorsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.62796,38.219929,-85.62796,38.219929",
     "geom:latitude":38.219929,
     "geom:longitude":-85.62796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3942 Taylorsville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102084449,
         85824979
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OLm09fm1nsnIra3umaONm_38.219929_-85.627960@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053661,
-    "wof:geomhash":"86014ff7f1fa69735d7211ecf9075899",
+    "wof:geomhash":"29bde07a21c1bf92e14569c1dcf0f6b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":856747559,
-    "wof:lastmodified":1466537830,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

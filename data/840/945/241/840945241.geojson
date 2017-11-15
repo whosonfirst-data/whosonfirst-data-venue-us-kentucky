@@ -2,6 +2,10 @@
   "id": 840945241,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Bluegrass Dr Glasgow KY 42141",
+    "addr:housenumber":"111",
+    "addr:postcode":"42141",
+    "addr:street":"Bluegrass Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840945241,
-    "wof:lastmodified":1466539074,
+    "wof:lastmodified":1472624206,
     "wof:name":"Medical Billing Services",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840740027,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 W Main St Lexington KY 40507",
+    "addr:housenumber":"401",
+    "addr:postcode":"40507",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840740027,
-    "wof:lastmodified":1466535493,
+    "wof:lastmodified":1472623966,
     "wof:name":"Main Cross Gallery",
     "wof:parent_id":85873065,
     "wof:placetype":"venue",

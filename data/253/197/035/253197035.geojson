@@ -2,9 +2,14 @@
   "id": 253197035,
   "type": "Feature",
   "properties": {
+    "addr:full":"5255 Delhi Ave Cincinnati OH 45238",
+    "addr:housenumber":"5255",
+    "addr:postcode":"45238",
+    "addr:street":"Delhi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.616985,39.094125,-84.616985,39.094125",
     "geom:latitude":39.094125,
     "geom:longitude":-84.616985,
@@ -34,8 +39,8 @@
     "wof:belongsto":[
         85688641,
         85633793,
-        102084481,
-        85803107
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,15 @@
     "wof:geomhash":"49b7628ab2666d52949929b230a180e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084481,
-            "locality_id":-1,
             "neighbourhood_id":85803107,
             "region_id":85688641,
             "venue_id":253197035
         }
     ],
     "wof:id":253197035,
-    "wof:lastmodified":1466536756,
+    "wof:lastmodified":1491929776,
     "wof:name":"Wright Seyferth Construction",
     "wof:parent_id":85803107,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840603513,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 Moran Ave Louisville KY 40205",
+    "addr:housenumber":"2710",
+    "addr:postcode":"40205",
+    "addr:street":"Moran Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840603513,
-    "wof:lastmodified":1466531985,
+    "wof:lastmodified":1472623804,
     "wof:name":"US Airport Traffic Control",
     "wof:parent_id":85873371,
     "wof:placetype":"venue",

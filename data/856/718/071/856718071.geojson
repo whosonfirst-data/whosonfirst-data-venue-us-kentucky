@@ -2,14 +2,20 @@
   "id": 856718071,
   "type": "Feature",
   "properties": {
+    "addr:full":"227 Whittington Pkwy Louisville KY 40222",
+    "addr:housenumber":"227",
+    "addr:postcode":"40222",
+    "addr:street":"Whittington Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.58075,38.24391,-85.58075,38.24391",
     "geom:latitude":38.24391,
     "geom:longitude":-85.58075,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"227 Whittington Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084449,
         85840697
     ],
+    "wof:brand_id":1125152195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6puS2YCzuGLg5iNyJJK1ov_38.243910_-85.580750@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052508,
-    "wof:geomhash":"53782b064ebeb8099167d4a4f2efd1ab",
+    "wof:geomhash":"6ab8f48a88f050c6e2e61b65e56d0896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":856718071,
-    "wof:lastmodified":1466536965,
+    "wof:lastmodified":1510697275,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",

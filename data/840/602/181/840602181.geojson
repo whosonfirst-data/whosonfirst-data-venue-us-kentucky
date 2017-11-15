@@ -2,14 +2,20 @@
   "id": 840602181,
   "type": "Feature",
   "properties": {
+    "addr:full":"13155 Middletown Ind Blvd Anchorage KY 40223",
+    "addr:housenumber":"13155",
+    "addr:postcode":"40223",
+    "addr:street":"Middletown Ind Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.510343,38.25136,-85.510343,38.25136",
     "geom:latitude":38.25136,
     "geom:longitude":-85.510343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13155 Middletown Ind Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084449,
         85804041
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JCUWHnQQYDvYK1fsgyY8a_38.251360_-85.510343@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464043706,
-    "wof:geomhash":"25fe805797827875587c072b92bb6508",
+    "wof:geomhash":"0ebf229e77428190543f8b22b58cfa51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840602181,
-    "wof:lastmodified":1466531880,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",

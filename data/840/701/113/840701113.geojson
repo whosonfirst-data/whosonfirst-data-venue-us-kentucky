@@ -2,14 +2,20 @@
   "id": 840701113,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 State Hwy 80 Glasgow KY 42141",
+    "addr:housenumber":"106",
+    "addr:postcode":"42141",
+    "addr:street":"State Hwy 80",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.912813,36.996342,-85.912813,36.996342",
     "geom:latitude":36.996342,
     "geom:longitude":-85.912813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 State Hwy 80",
     "sg:city":"Glasgow",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085537,
         85846071
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dLZtqgCRAjoG6ha5jO12x_36.996342_-85.912813@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464046109,
-    "wof:geomhash":"f941f69aa3712569aa7c366e55584acf",
+    "wof:geomhash":"15efe0fa8eb54eb34e16b1b12a0f5e03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840701113,
-    "wof:lastmodified":1466534454,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840753499,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Kentucky 1247 Spur Rd Somerset KY 42501",
+    "addr:housenumber":"60;1247",
+    "addr:postcode":"42501",
+    "addr:street":"Kentucky;Spur Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840753499,
-    "wof:lastmodified":1466536044,
+    "wof:lastmodified":1472623985,
     "wof:name":"Bluegrass Aluminum & Vinyl",
     "wof:parent_id":85806809,
     "wof:placetype":"venue",

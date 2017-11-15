@@ -2,6 +2,10 @@
   "id": 840922759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4123 Pomeroy Ct Louisville KY 40218",
+    "addr:housenumber":"4123",
+    "addr:postcode":"40218",
+    "addr:street":"Pomeroy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840922759,
-    "wof:lastmodified":1466538998,
+    "wof:lastmodified":1472624256,
     "wof:name":"Kentuckana Video Crt Reporting",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

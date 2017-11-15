@@ -2,6 +2,10 @@
   "id": 840783041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1308 N Elm St Henderson KY 42420",
+    "addr:housenumber":"1308",
+    "addr:postcode":"42420",
+    "addr:street":"N Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840783041,
-    "wof:lastmodified":1466531127,
+    "wof:lastmodified":1472624010,
     "wof:name":"Verbatim Court Reporting Svc",
     "wof:parent_id":85854905,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856747671,
   "type": "Feature",
   "properties": {
+    "addr:full":"3008 Hikes Ln Apt 219 Louisville KY 40220",
+    "addr:housenumber":"3008;219",
+    "addr:postcode":"40220",
+    "addr:street":"Hikes Ln Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856747671,
-    "wof:lastmodified":1466537677,
+    "wof:lastmodified":1472624111,
     "wof:name":"Carpenter Weller C",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

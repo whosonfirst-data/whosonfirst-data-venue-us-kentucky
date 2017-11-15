@@ -2,14 +2,20 @@
   "id": 856762843,
   "type": "Feature",
   "properties": {
+    "addr:full":"634 N Mulberry St Elizabethtown KY 42701",
+    "addr:housenumber":"634",
+    "addr:postcode":"42701",
+    "addr:street":"N Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.851379,37.701761,-85.851379,37.701761",
     "geom:latitude":37.701761,
     "geom:longitude":-85.851379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"634 N Mulberry St",
     "sg:city":"Elizabethtown",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102084595,
         85826831
     ],
+    "wof:brand_id":420574045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yrPINQdTNosh5vO8jiSeP_37.701761_-85.851379@1303262752"
     },
     "wof:country":"US",
     "wof:created":1464054230,
-    "wof:geomhash":"76fad4a1f24af0220588e29904946a7d",
+    "wof:geomhash":"d7794f5338a6913432a8c1d711163b2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":856762843,
-    "wof:lastmodified":1466538713,
+    "wof:lastmodified":1510604136,
     "wof:name":"First Christian Church",
     "wof:parent_id":85826831,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 856743513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 S 1st St Apt 2 Louisville KY 40208",
+    "addr:housenumber":"1335;2",
+    "addr:postcode":"40208",
+    "addr:street":"S 1St St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":856743513,
-    "wof:lastmodified":1466537495,
+    "wof:lastmodified":1472624078,
     "wof:name":"Starlights Uk",
     "wof:parent_id":85866967,
     "wof:placetype":"venue",

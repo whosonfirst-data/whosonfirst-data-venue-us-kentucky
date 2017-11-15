@@ -2,14 +2,20 @@
   "id": 856742567,
   "type": "Feature",
   "properties": {
+    "addr:full":"992 Breckenridge Ln Louisville KY 40207",
+    "addr:housenumber":"992",
+    "addr:postcode":"40207",
+    "addr:street":"Breckenridge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.638813,38.232265,-85.638813,38.232265",
     "geom:latitude":38.232265,
     "geom:longitude":-85.638813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"992 Breckenridge Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -56,13 +62,14 @@
         102084449,
         85873371
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x2sJMU76CZf5rvMPGyJd6_38.232265_-85.638813@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053479,
-    "wof:geomhash":"05ac1ed3364f6b12caba972e1d2dae26",
+    "wof:geomhash":"a639c24082529146ea8ed4e376ec9714",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":856742567,
-    "wof:lastmodified":1466537335,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85873371,
     "wof:placetype":"venue",

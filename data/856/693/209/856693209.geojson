@@ -2,6 +2,10 @@
   "id": 856693209,
   "type": "Feature",
   "properties": {
+    "addr:full":"11204 Taco Ct Louisville KY 40229",
+    "addr:housenumber":"11204",
+    "addr:postcode":"40229",
+    "addr:street":"Taco Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856693209,
-    "wof:lastmodified":1466531629,
+    "wof:lastmodified":1472623719,
     "wof:name":"Direct Express",
     "wof:parent_id":85826503,
     "wof:placetype":"venue",

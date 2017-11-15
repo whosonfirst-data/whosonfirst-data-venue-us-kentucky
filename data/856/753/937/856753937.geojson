@@ -2,14 +2,20 @@
   "id": 856753937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1088 E New Circle Rd Lexington KY 40505",
+    "addr:housenumber":"1088",
+    "addr:postcode":"40505",
+    "addr:street":"E New Circle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454014,38.035159,-84.454014,38.035159",
     "geom:latitude":38.035159,
     "geom:longitude":-84.454014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1088 E New Circle Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102084695,
         85817017
     ],
+    "wof:brand_id":1125150785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Rvr4m6DpY0vbj2w8H4UUk_38.035159_-84.454014@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053905,
-    "wof:geomhash":"a7287a9330dde17fdd6533a32e947424",
+    "wof:geomhash":"05429fa922eb18a3d21660c5aac6e76e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":856753937,
-    "wof:lastmodified":1466538283,
+    "wof:lastmodified":1510698798,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85817017,
     "wof:placetype":"venue",

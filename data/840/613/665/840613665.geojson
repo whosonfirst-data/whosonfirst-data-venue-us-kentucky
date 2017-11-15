@@ -2,14 +2,20 @@
   "id": 840613665,
   "type": "Feature",
   "properties": {
+    "addr:full":"4048 Taylorsville Rd Louisville KY 40220",
+    "addr:housenumber":"4048",
+    "addr:postcode":"40220",
+    "addr:street":"Taylorsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.621784,38.21958,-85.621784,38.21958",
     "geom:latitude":38.21958,
     "geom:longitude":-85.621784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4048 Taylorsville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084449,
         85824979
     ],
+    "wof:brand_id":1125157597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1brsDvhgOHJwamJVbCWbKQ_38.219580_-85.621784@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044010,
-    "wof:geomhash":"71571f1f63f6dde58c1c5658744265e7",
+    "wof:geomhash":"6bd6bdccc5e8eca4ffab4ad7b87963c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840613665,
-    "wof:lastmodified":1466532256,
+    "wof:lastmodified":1510695420,
     "wof:name":"Factory Card Outlet",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",

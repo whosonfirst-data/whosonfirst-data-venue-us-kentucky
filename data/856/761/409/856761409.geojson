@@ -2,6 +2,10 @@
   "id": 856761409,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Colony Dr Apt 39 Paducah KY 42001",
+    "addr:housenumber":"211;39",
+    "addr:postcode":"42001",
+    "addr:street":"Colony Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":856761409,
-    "wof:lastmodified":1466538568,
+    "wof:lastmodified":1472624179,
     "wof:name":"Boswell Homes",
     "wof:parent_id":85819855,
     "wof:placetype":"venue",

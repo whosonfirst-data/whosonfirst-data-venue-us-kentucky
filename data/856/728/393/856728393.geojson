@@ -2,14 +2,20 @@
   "id": 856728393,
   "type": "Feature",
   "properties": {
+    "addr:full":"3304 Bardstown Rd Louisville KY 40218",
+    "addr:housenumber":"3304",
+    "addr:postcode":"40218",
+    "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.668891,38.208346,-85.668891,38.208346",
     "geom:latitude":38.208346,
     "geom:longitude":-85.668891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3304 Bardstown Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084449,
         85866953
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bORM1uS8N39EX7oqplxqP_38.208106_-85.668766@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464052946,
-    "wof:geomhash":"4a209567c7760dbb79a60ddd70efa045",
+    "wof:geomhash":"850f6a28cf6fc6986b6257be035707e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":856728393,
-    "wof:lastmodified":1466537156,
+    "wof:lastmodified":1510607665,
     "wof:name":"Economy Inn",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",

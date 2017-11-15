@@ -2,6 +2,10 @@
   "id": 856745297,
   "type": "Feature",
   "properties": {
+    "addr:full":"4123 Taylor Blvd Louisville KY 40215",
+    "addr:housenumber":"4123",
+    "addr:postcode":"40215",
+    "addr:street":"Taylor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":856745297,
-    "wof:lastmodified":1466537602,
+    "wof:lastmodified":1472624080,
     "wof:name":"Chiro-Med Chiropractic P",
     "wof:parent_id":85824429,
     "wof:placetype":"venue",
