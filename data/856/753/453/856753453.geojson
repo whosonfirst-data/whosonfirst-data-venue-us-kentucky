@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520817,38.006783,-84.520817,38.006783",
     "geom:latitude":38.006783,
     "geom:longitude":-84.520817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"150 W Lowry Ln Ste 190",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -62,11 +64,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":263223879,
         "sg:id":"SG_4w2GQBittn8E0jGgjaPa9d_38.006783_-84.520817@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053884,
-    "wof:geomhash":"4f6d4a61d164f4738c23642aa90fa3a8",
+    "wof:geomhash":"8de894df522eb4b20accedbf2dd0b685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":856753453,
-    "wof:lastmodified":1472624112,
+    "wof:lastmodified":1510941988,
     "wof:name":"Kroger",
     "wof:parent_id":85813957,
     "wof:placetype":"venue",

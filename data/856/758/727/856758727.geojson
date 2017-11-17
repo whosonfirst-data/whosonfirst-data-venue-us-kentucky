@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.625099,38.994099,-84.625099,38.994099",
     "geom:latitude":38.994099,
     "geom:longitude":-84.625099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7550 Dixie Hwy",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -44,16 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1464054082,
-    "wof:geomhash":"1d60d6fe109dec9e4f1a96e4563f81c1",
+    "wof:geomhash":"d657f31c62243d5580b0f541d0120bea",
     "wof:hierarchy":[],
     "wof:id":856758727,
-    "wof:lastmodified":1472624139,
+    "wof:lastmodified":1510942375,
     "wof:name":"Advantagebank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856729131
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

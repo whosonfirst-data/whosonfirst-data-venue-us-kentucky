@@ -7,13 +7,16 @@
     "addr:postcode":"40207",
     "addr:street":"Dupont Cir Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.630785,38.233347,-85.630785,38.233347",
     "geom:latitude":38.233347,
     "geom:longitude":-85.630785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4010 Dupont Cir Ste 200",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -58,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053475,
-    "wof:geomhash":"6d71ef883168ea2974c752ab33a61869",
+    "wof:geomhash":"ac57deb2b8758a77d83e1a3a404c9e59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":856742479,
-    "wof:lastmodified":1472624094,
+    "wof:lastmodified":1510943309,
     "wof:name":"Nanine S Henderson Do",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840570295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

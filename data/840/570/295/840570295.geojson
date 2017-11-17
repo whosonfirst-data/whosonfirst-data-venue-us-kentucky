@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.631134,38.232955,-85.631134,38.232955",
     "geom:latitude":38.232955,
     "geom:longitude":-85.631134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4010 Dupont Cir",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464042991,
-    "wof:geomhash":"005000aa4a497e99c2d481cfe31bd8d0",
+    "wof:geomhash":"b4f28118fc7838d9318a39434c85ecb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840570295,
-    "wof:lastmodified":1472623785,
+    "wof:lastmodified":1510943309,
     "wof:name":"Nanine S Henderson DO",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856742479
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

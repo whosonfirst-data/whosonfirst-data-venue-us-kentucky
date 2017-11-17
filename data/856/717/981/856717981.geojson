@@ -7,13 +7,16 @@
     "addr:postcode":"42001",
     "addr:street":"Hinkleville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.684254,37.07742,-88.684254,37.07742",
     "geom:latitude":37.07742,
     "geom:longitude":-88.684254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5101 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052504,
-    "wof:geomhash":"1c4d0b99c8b71d6ccd571d63abe75ce4",
+    "wof:geomhash":"dd1fa95ab7b725d8530148907f9b3148",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":856717981,
-    "wof:lastmodified":1472623806,
+    "wof:lastmodified":1510941457,
     "wof:name":"Villa Pizza",
     "wof:parent_id":85865245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856736057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

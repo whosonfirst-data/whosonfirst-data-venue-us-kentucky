@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.673657,37.080568,-88.673657,37.080568",
     "geom:latitude":37.080568,
     "geom:longitude":-88.673657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3990 Hinkleville Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054165,
-    "wof:geomhash":"22e32d385e5e019e3d9b24b423f630c2",
+    "wof:geomhash":"1f821dd8ce365efdaf060b32bb1fbf17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":856761131,
-    "wof:lastmodified":1472624155,
+    "wof:lastmodified":1510943234,
     "wof:name":"Applebee's",
     "wof:parent_id":85820867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856736059
+    ],
     "wof:tags":[]
 },
   "bbox": [

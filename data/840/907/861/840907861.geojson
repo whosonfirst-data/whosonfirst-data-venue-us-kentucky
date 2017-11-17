@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.62846,38.218119,-85.62846,38.218119",
     "geom:latitude":38.218119,
     "geom:longitude":-85.62846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3039 Breckenridge Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464050659,
-    "wof:geomhash":"fbfe5dc47d50bfa3835831c4f7dac343",
+    "wof:geomhash":"0526faeb1797e9c0523c7067bf412020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":840907861,
-    "wof:lastmodified":1472624273,
+    "wof:lastmodified":1510943505,
     "wof:name":"Kroger",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856747433
+    ],
     "wof:tags":[
         "grocer"
     ]

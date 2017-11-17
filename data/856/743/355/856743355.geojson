@@ -7,13 +7,16 @@
     "addr:postcode":"40208",
     "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.763702,38.206211,-85.763702,38.206211",
     "geom:latitude":38.206211,
     "geom:longitude":-85.763702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3000 S 3rd St",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053507,
-    "wof:geomhash":"a216922a11656813a82817fe5f725f65",
+    "wof:geomhash":"0b406f6f069ded823bb15fa40851249e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856743355,
-    "wof:lastmodified":1472624069,
+    "wof:lastmodified":1510943725,
     "wof:name":"Santa Fe Grill",
     "wof:parent_id":85873433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840747205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

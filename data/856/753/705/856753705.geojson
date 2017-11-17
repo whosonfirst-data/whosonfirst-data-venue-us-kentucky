@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520286,38.000935,-84.520286,38.000935",
     "geom:latitude":38.000935,
     "geom:longitude":-84.520286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2550 Nicholasville Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -51,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":405407307,
         "sg:id":"SG_14kCDFaPzeptoeLWGg0IWe_38.000935_-84.520286@1303262749"
     },
     "wof:country":"US",
     "wof:created":1464053898,
-    "wof:geomhash":"6afb05c2ac63fe1bc20e2e57f7518383",
+    "wof:geomhash":"1a9c6cc422bcf2300d2695f7cb50c6d8",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":856753705,
-    "wof:lastmodified":1472624124,
+    "wof:lastmodified":1510943207,
     "wof:name":"Red Lobster",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",

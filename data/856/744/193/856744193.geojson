@@ -7,13 +7,16 @@
     "addr:postcode":"40212",
     "addr:street":"Alford Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.796273,38.265206,-85.796273,38.265206",
     "geom:latitude":38.265206,
     "geom:longitude":-85.796273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2800 Alford Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053535,
-    "wof:geomhash":"d340d5923033a24f20f5f75257ff6b88",
+    "wof:geomhash":"1e87ebbbaa720146ad3d1907e33e9e56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":856744193,
-    "wof:lastmodified":1472624070,
+    "wof:lastmodified":1510941323,
     "wof:name":"Atkinson Elementary School",
     "wof:parent_id":85842879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840919461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

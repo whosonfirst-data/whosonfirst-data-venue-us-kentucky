@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.820577,38.176857,-85.820577,38.176857",
     "geom:latitude":38.176857,
     "geom:longitude":-85.820577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4622 Dixie Hwy",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -34,20 +36,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":339264096,
         "sg:id":"SG_4YHZ2p6sqYJSvDJUkLqP4V_38.176857_-85.820577@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464049544,
-    "wof:geomhash":"e29aded7ed3e3bfac4494556c21add02",
+    "wof:geomhash":"657795cf2511c947a2ee40a1bb962d81",
     "wof:hierarchy":[],
     "wof:id":840854911,
-    "wof:lastmodified":1472624169,
+    "wof:lastmodified":1510942533,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856733115
+    ],
     "wof:tags":[
         "eating"
     ]

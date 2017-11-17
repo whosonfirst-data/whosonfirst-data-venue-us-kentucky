@@ -7,13 +7,16 @@
     "addr:postcode":"40503",
     "addr:street":"Malabu Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.519386,38.003448,-84.519386,38.003448",
     "geom:latitude":38.003448,
     "geom:longitude":-84.519386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Malabu Dr",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053893,
-    "wof:geomhash":"e2d8fd8b76b0c3f4bad3de0256c96f72",
+    "wof:geomhash":"a174665d2edffbba95faf9f8f79f081a",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856753571,
-    "wof:lastmodified":1472624118,
+    "wof:lastmodified":1510942455,
     "wof:name":"Hair Essentials",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840575631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

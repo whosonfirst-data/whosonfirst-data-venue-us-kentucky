@@ -7,13 +7,16 @@
     "addr:postcode":"40324",
     "addr:street":"Paris Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.531514,38.216781,-84.531514,38.216781",
     "geom:latitude":38.216781,
     "geom:longitude":-84.531514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3036 Paris Pike",
     "sg:city":"Georgetown",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053859,
-    "wof:geomhash":"13bdfeec86385788bc44dae44c13c6c8",
+    "wof:geomhash":"3735338dcb5a2929da6ab15ba186dfe1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":856752725,
-    "wof:lastmodified":1472624116,
+    "wof:lastmodified":1510942486,
     "wof:name":"Country World Flea Market",
     "wof:parent_id":85826837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840941841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

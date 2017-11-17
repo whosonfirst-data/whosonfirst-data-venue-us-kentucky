@@ -7,13 +7,16 @@
     "addr:postcode":"40202",
     "addr:street":"E Liberty St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.75222,38.252499,-85.75222,38.252499",
     "geom:latitude":38.252499,
     "geom:longitude":-85.75222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 E Liberty St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -60,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053360,
-    "wof:geomhash":"7be3460bdf51dc7ea267bdf6252e96f5",
+    "wof:geomhash":"3065913b8477a5792b286a0180392776",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +76,14 @@
         }
     ],
     "wof:id":856739521,
-    "wof:lastmodified":1472624084,
+    "wof:lastmodified":1510943326,
     "wof:name":"Kentuckiana Cancer Institute",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840574099
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -7,13 +7,16 @@
     "addr:postcode":"40206",
     "addr:street":"Frankfort",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.699593,38.253797,-85.699593,38.253797",
     "geom:latitude":38.253797,
     "geom:longitude":-85.699593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2416 Frankfort Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053465,
-    "wof:geomhash":"c589952a33dda9ffd0f0e2349cb57756",
+    "wof:geomhash":"395f55106acdb0139accfdd510a4ce8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856742225,
-    "wof:lastmodified":1472624071,
+    "wof:lastmodified":1510942644,
     "wof:name":"William, Dean",
     "wof:parent_id":85866961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840918841
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

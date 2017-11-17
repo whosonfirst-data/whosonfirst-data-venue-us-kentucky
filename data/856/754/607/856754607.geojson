@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454698,38.010119,-84.454698,38.010119",
     "geom:latitude":38.010119,
     "geom:longitude":-84.454698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2629 Richmond Rd",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053930,
-    "wof:geomhash":"0f5b9776d99a41e5e4f7f2643dd11f28",
+    "wof:geomhash":"c749164ed05991e76dbfca3baa120c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":856754607,
-    "wof:lastmodified":1472624113,
+    "wof:lastmodified":1510941923,
     "wof:name":"S & S Tire & Auto Svc Ctr",
     "wof:parent_id":85873047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856696359
+    ],
     "wof:tags":[]
 },
   "bbox": [

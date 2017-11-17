@@ -7,13 +7,16 @@
     "addr:postcode":"40220",
     "addr:street":"Greene Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.59877,38.214771,-85.59877,38.214771",
     "geom:latitude":38.214771,
     "geom:longitude":-85.59877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2200 Greene Way",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053669,
-    "wof:geomhash":"c7af87135c581a1b083256ef74139cb1",
+    "wof:geomhash":"2981745f959e29bf8190baf3fed3170c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":856747799,
-    "wof:lastmodified":1472624116,
+    "wof:lastmodified":1510941584,
     "wof:name":"Insuramax",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840891863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

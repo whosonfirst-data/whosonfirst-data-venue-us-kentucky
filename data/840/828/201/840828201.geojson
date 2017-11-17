@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.511033,38.031943,-84.511033,38.031943",
     "geom:latitude":38.031943,
     "geom:longitude":-84.511033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Transcript Ave",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464048967,
-    "wof:geomhash":"bba84e9e5b6194649116e888010a95f8",
+    "wof:geomhash":"44e18be6c445fe4b2128761e56cecc63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":840828201,
-    "wof:lastmodified":1472624070,
+    "wof:lastmodified":1510942733,
     "wof:name":"Limestone Square Apartments",
     "wof:parent_id":85873031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856754353
+    ],
     "wof:tags":[
         "apartment"
     ]

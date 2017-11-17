@@ -7,13 +7,16 @@
     "addr:postcode":"40207",
     "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.642258,38.251831,-85.642258,38.251831",
     "geom:latitude":38.251831,
     "geom:longitude":-85.642258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4147 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053471,
-    "wof:geomhash":"0951b3814efa8ef4005eeb03d6184f20",
+    "wof:geomhash":"31edb481312c5be949629aca4dc5afc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856742375,
-    "wof:lastmodified":1472624085,
+    "wof:lastmodified":1510943722,
     "wof:name":"Charles Anthony For Hair",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840605177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"40220",
     "addr:street":"S Hurstbourne Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.595519,38.211916,-85.595519,38.211916",
     "geom:latitude":38.211916,
     "geom:longitude":-85.595519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2717 S Hurstbourne Pkwy",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053657,
-    "wof:geomhash":"a054183135e9f8392965905a440d1b3e",
+    "wof:geomhash":"a6786d31ee98fb646cdfb5e7c78ef0f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":856747443,
-    "wof:lastmodified":1472624098,
+    "wof:lastmodified":1510943098,
     "wof:name":"Steak 'n Shake",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840700421
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

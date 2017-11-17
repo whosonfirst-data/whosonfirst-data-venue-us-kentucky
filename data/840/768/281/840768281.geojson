@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.652555,38.25266,-85.652555,38.25266",
     "geom:latitude":38.25266,
     "geom:longitude":-85.652555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 Saint Matthews Ave",
     "sg:city":"St Matthews",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047531,
-    "wof:geomhash":"4b88e2bea4d90adcadfdab667ef2f7f7",
+    "wof:geomhash":"9e5aedf2c0fad84c3e641861d1c9ba01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":840768281,
-    "wof:lastmodified":1472624013,
+    "wof:lastmodified":1510942012,
     "wof:name":"Flower Garden Florist",
     "wof:parent_id":85873421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856742817
+    ],
     "wof:tags":[]
 },
   "bbox": [

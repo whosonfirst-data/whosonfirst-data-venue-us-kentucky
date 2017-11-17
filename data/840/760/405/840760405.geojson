@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.796254,38.249576,-85.796254,38.249576",
     "geom:latitude":38.249576,
     "geom:longitude":-85.796254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2623 W Broadway",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047354,
-    "wof:geomhash":"25cde7bfda163cd6f7f9da95b0e7457a",
+    "wof:geomhash":"dd7a03236cfcd462a037ee17d01b835b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":840760405,
-    "wof:lastmodified":1472624030,
+    "wof:lastmodified":1510942688,
     "wof:name":"AAA Chiropractic",
     "wof:parent_id":85873423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856743953
+    ],
     "wof:tags":[]
 },
   "bbox": [

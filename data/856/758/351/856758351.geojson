@@ -7,6 +7,7 @@
     "addr:postcode":"41042",
     "addr:street":"Mall Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.651599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7901 Mall Rd",
     "sg:city":"Florence",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"4f2bfa64f87c475cee990a8e3a9be453",
     "wof:hierarchy":[],
     "wof:id":856758351,
-    "wof:lastmodified":1510604611,
+    "wof:lastmodified":1510944189,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856758539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

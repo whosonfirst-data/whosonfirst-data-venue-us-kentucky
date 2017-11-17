@@ -7,13 +7,16 @@
     "addr:postcode":"40209",
     "addr:street":"Ottawa Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.756622,38.18833,-85.756622,38.18833",
     "geom:latitude":38.18833,
     "geom:longitude":-85.756622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 Ottawa Avenue",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054239,
-    "wof:geomhash":"d48ad33942972f7cf812738df7a090bf",
+    "wof:geomhash":"0a9f29c953379687f7718e4e7a0a1040",
     "wof:hierarchy":[
         {
             "campus_id":102533321,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":856763099,
-    "wof:lastmodified":1472624159,
+    "wof:lastmodified":1510942988,
     "wof:name":"Laboratory Supply Company",
     "wof:parent_id":102533321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840868863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"40207",
     "addr:street":"Kresge Way Ste 30",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.642117,38.237833,-85.642117,38.237833",
     "geom:latitude":38.237833,
     "geom:longitude":-85.642117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3900 Kresge Way Ste 30",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053470,
-    "wof:geomhash":"c6ddd2f45accfde7baa6a49eccc8fcba",
+    "wof:geomhash":"d8322d36af6e3347bf33720bbef41c23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856742349,
-    "wof:lastmodified":1472624079,
+    "wof:lastmodified":1510941458,
     "wof:name":"Women First",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840580027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

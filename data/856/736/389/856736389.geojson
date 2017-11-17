@@ -7,13 +7,16 @@
     "addr:postcode":"ky 42104",
     "addr:street":"Scottsville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.425068,36.949838,-86.425068,36.949838",
     "geom:latitude":36.949838,
     "geom:longitude":-86.425068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2625 Scottsville Rd",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053238,
-    "wof:geomhash":"9eb30093f771c66e42353ac611963acd",
+    "wof:geomhash":"70ef4dfb4312f604f70a1f21c1eb6d60",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":856736389,
-    "wof:lastmodified":1472623998,
+    "wof:lastmodified":1510942437,
     "wof:name":"Wendy's",
     "wof:parent_id":85823129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840794795
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

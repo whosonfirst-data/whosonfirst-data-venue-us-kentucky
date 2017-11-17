@@ -7,13 +7,16 @@
     "addr:postcode":"40508",
     "addr:street":"Transcript Ave Apt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.51055,38.0318,-84.51055,38.0318",
     "geom:latitude":38.0318,
     "geom:longitude":-84.51055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"129 Transcript Ave Apt 2",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053923,
-    "wof:geomhash":"d147e5f87c252b0b4222a17661a771e4",
+    "wof:geomhash":"512b53f3bccf62173f0f657e2a25806e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":856754353,
-    "wof:lastmodified":1472624099,
+    "wof:lastmodified":1510942733,
     "wof:name":"Limestone Square Apts",
     "wof:parent_id":85873031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840828201
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment",

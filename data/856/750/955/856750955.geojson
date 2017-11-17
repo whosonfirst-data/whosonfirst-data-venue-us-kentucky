@@ -7,6 +7,7 @@
     "addr:postcode":"40258",
     "addr:street":"Dixie Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.83667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "sg:address":"6840 Dixie Hwy",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -29,6 +30,7 @@
     "wof:brand_id":1125149257,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":339266530,
         "sg:id":"SG_2e0i6VG2mBHCxbNMcZz5N9_38.151272_-85.836670@1303262749"
     },
     "wof:country":"US",
@@ -36,13 +38,17 @@
     "wof:geomhash":"b87cb007b43dbff61c5fc982f2f3e805",
     "wof:hierarchy":[],
     "wof:id":856750955,
-    "wof:lastmodified":1510875156,
+    "wof:lastmodified":1510942543,
     "wof:name":"The Home Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        840574487
+    ],
+    "wof:supersedes":[
+        840574487
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"40229",
     "addr:street":"Mud Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.670707,38.087944,-85.670707,38.087944",
     "geom:latitude":38.087944,
     "geom:longitude":-85.670707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 Mud Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053129,
-    "wof:geomhash":"ef75c6c245c55f56c145ac1d3551da63",
+    "wof:geomhash":"b16599d728d053a1c72450fa145946f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":856733565,
-    "wof:lastmodified":1472623950,
+    "wof:lastmodified":1510943149,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85826503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856749373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

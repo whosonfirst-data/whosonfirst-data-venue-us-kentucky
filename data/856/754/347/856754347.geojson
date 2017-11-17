@@ -7,13 +7,16 @@
     "addr:postcode":"40508",
     "addr:street":"S Limestone",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.502628,38.042359,-84.502628,38.042359",
     "geom:latitude":38.042359,
     "geom:longitude":-84.502628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"345 S Limestone",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053923,
-    "wof:geomhash":"f4d34ba85feb2a7a1f89596e16f6fe02",
+    "wof:geomhash":"5a38dadf946c189fa481244c68a91e9e",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -50,13 +53,17 @@
         }
     ],
     "wof:id":856754347,
-    "wof:lastmodified":1472624097,
+    "wof:lastmodified":1510943413,
     "wof:name":"Chipotle",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        856734685
+    ],
+    "wof:supersedes":[
+        856734685
+    ],
     "wof:tags":[]
 },
   "bbox": [

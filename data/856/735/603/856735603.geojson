@@ -7,6 +7,7 @@
     "addr:postcode":"41073",
     "addr:street":"Donnermeyer Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.481654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"47 Donnermeyer Dr",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -38,6 +39,7 @@
     "wof:brand_id":1125152781,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2614557811,
         "sg:id":"SG_6DP8sQBFfDBPbGLebyvnrO_39.098127_-84.481654@1299784598"
     },
     "wof:country":"US",
@@ -45,13 +47,17 @@
     "wof:geomhash":"2f4cbc5293db8a469b6066e1a1437e13",
     "wof:hierarchy":[],
     "wof:id":856735603,
-    "wof:lastmodified":1510697426,
+    "wof:lastmodified":1510941557,
     "wof:name":"Gold Star Chili",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        856759539
+    ],
+    "wof:supersedes":[
+        856759539
+    ],
     "wof:tags":[
         "american"
     ]

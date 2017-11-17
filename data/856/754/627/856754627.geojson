@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.416068,38.018377,-84.416068,38.018377",
     "geom:latitude":38.018377,
     "geom:longitude":-84.416068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1912 Plaudit Pl",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -26,20 +28,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":75116447,
         "sg:id":"SG_6OjRgXRGtef8JYdPdn0In8_38.018377_-84.416068@1303262750"
     },
     "wof:country":"US",
     "wof:created":1464053932,
-    "wof:geomhash":"86967ddcdde88414df46e8bae5caab49",
+    "wof:geomhash":"f8740e69e1f57254e4c6fd47ba5cf813",
     "wof:hierarchy":[],
     "wof:id":856754627,
-    "wof:lastmodified":1472624115,
+    "wof:lastmodified":1510944153,
     "wof:name":"Waffle House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856734735
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"40207",
     "addr:street":"Chenoweth Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.657938,38.255929,-85.657938,38.255929",
     "geom:latitude":38.255929,
     "geom:longitude":-85.657938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"152 Chenoweth Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053475,
-    "wof:geomhash":"656db9f662f7b3f63905e2fd0eeaf499",
+    "wof:geomhash":"5540c35e5da90451ea9c358dc3a3632f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":856742477,
-    "wof:lastmodified":1472624093,
+    "wof:lastmodified":1510943944,
     "wof:name":"Salon 152",
     "wof:parent_id":85873421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840715251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

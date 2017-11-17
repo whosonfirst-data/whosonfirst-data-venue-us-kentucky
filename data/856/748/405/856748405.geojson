@@ -7,13 +7,16 @@
     "addr:postcode":"40222",
     "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.606827,38.248859,-85.606827,38.248859",
     "geom:latitude":38.248859,
     "geom:longitude":-85.606827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7900 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053690,
-    "wof:geomhash":"345f0fa77f2af82e8a35dda1cdc21ea6",
+    "wof:geomhash":"3160ca0f8d2c0b5902b6e036a30e1605",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":856748405,
-    "wof:lastmodified":1472624106,
+    "wof:lastmodified":1510943334,
     "wof:name":"Le Roy's Jewelers",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840594921
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "precious",

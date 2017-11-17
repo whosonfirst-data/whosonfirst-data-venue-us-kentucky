@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.834747,38.160258,-85.834747,38.160258",
     "geom:latitude":38.160258,
     "geom:longitude":-85.834747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4106 Flintlock Dr",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464043187,
-    "wof:geomhash":"5e890157aa3dd0ad43e95e02267b1264",
+    "wof:geomhash":"09b14b30a01f9020e788d0a868d6fffc",
     "wof:hierarchy":[],
     "wof:id":840579283,
-    "wof:lastmodified":1472623789,
+    "wof:lastmodified":1510941518,
     "wof:name":"BCS Computer Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856745531
+    ],
     "wof:tags":[
         "equipment",
         "dealer"

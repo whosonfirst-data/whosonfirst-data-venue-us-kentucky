@@ -7,13 +7,16 @@
     "addr:postcode":"40219",
     "addr:street":"Outer Loop",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.673698,38.13802,-85.673698,38.13802",
     "geom:latitude":38.13802,
     "geom:longitude":-85.673698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4801 Outer Loop",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053627,
-    "wof:geomhash":"3d621fa67b3aa5861168644028d8934d",
+    "wof:geomhash":"ec662938e179f932874295e8a8c525be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":856746869,
-    "wof:lastmodified":1472624126,
+    "wof:lastmodified":1510944108,
     "wof:name":"Kentucky Korner",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840555503
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apparel",

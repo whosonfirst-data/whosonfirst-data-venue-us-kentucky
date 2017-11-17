@@ -7,13 +7,16 @@
     "addr:postcode":"40220",
     "addr:street":"Breckenridge Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.627408,38.216472,-85.627408,38.216472",
     "geom:latitude":38.216472,
     "geom:longitude":-85.627408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3039 Breckenridge Ln",
     "sg:city":"Louisville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053656,
-    "wof:geomhash":"159520b9022f8d29c6a39aa681b18ca1",
+    "wof:geomhash":"1e0e07acfa8393089f6d9fe34b6bef31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":856747433,
-    "wof:lastmodified":1472624091,
+    "wof:lastmodified":1510943505,
     "wof:name":"Kroger",
     "wof:parent_id":85824979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840907861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

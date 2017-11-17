@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419193,38.019458,-84.419193,38.019458",
     "geom:latitude":38.019458,
     "geom:longitude":-84.419193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1865 Alysheba Way",
     "sg:city":"Lexington",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053933,
-    "wof:geomhash":"ae88350fd0e752ae96cf8bcf7cad1814",
+    "wof:geomhash":"6a9e51ff2a0fa1516c735aa047d1bf1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":856754681,
-    "wof:lastmodified":1472624117,
+    "wof:lastmodified":1510942355,
     "wof:name":"Rafferty's Restaurant & Bar",
     "wof:parent_id":85830425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856737643
+    ],
     "wof:tags":[]
 },
   "bbox": [

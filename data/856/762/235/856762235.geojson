@@ -7,13 +7,16 @@
     "addr:postcode":"42071",
     "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.31048,36.617161,-88.31048,36.617161",
     "geom:latitude":36.617161,
     "geom:longitude":-88.31048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1008 Chestnut St",
     "sg:city":"Murray",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054209,
-    "wof:geomhash":"0d1e4188950a4159ed42de0c2aa9357f",
+    "wof:geomhash":"8b380dbc3126507503fa55822af38ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":856762235,
-    "wof:lastmodified":1472624169,
+    "wof:lastmodified":1510942957,
     "wof:name":"Cheri Theatres",
     "wof:parent_id":85819475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840631399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "theatre"
