@@ -2,18 +2,24 @@
   "id": 840558643,
   "type": "Feature",
   "properties": {
-    "addr:full":"4435 Old Frankfort Pike Lexington KY 40510",
+    "addr:city":"Lexington",
+    "addr:full":"4435 Old Frankfort Pike Lexington, Ky 40510-9657",
+    "addr:house_number":"4435",
     "addr:housenumber":"4435",
-    "addr:postcode":"40510",
+    "addr:phone":"+1 859-255-6653",
+    "addr:postcode":"40510-9657",
+    "addr:road":"Old Frankfort Pike",
+    "addr:state":"KY",
     "addr:street":"Old Frankfort Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.61163,38.095869,-84.61163,38.095869",
-    "geom:latitude":38.095869,
-    "geom:longitude":-84.61163,
+    "geom:bbox":"-84.61745,38.09837,-84.61745,38.09837",
+    "geom:latitude":38.09837,
+    "geom:longitude":-84.61745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4435 Old Frankfort Pike",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -28,18 +34,22 @@
     "sg:postcode":"40510",
     "sg:province":"KY",
     "sg:website":"www.headley-whitney.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524721
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100262,
         "sg:id":"SG_2ESR6RCS2vJRpRCydrk9Z6_38.095869_-84.611630@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042706,
-    "wof:geomhash":"d3e0b1bda7f2dfac859bfe223b48f6a5",
+    "wof:geomhash":"7e4e838ca6ee0655e75f9363b537ae1f",
     "wof:hierarchy":[],
     "wof:id":840558643,
-    "wof:lastmodified":1472623794,
+    "wof:lastmodified":1534186957,
     "wof:name":"Headley-Whitney Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.61163,
-    38.095869,
-    -84.61163,
-    38.095869
+    -84.61745,
+    38.09837,
+    -84.61745,
+    38.09837
 ],
-  "geometry": {"coordinates":[-84.61163000000001,38.095869],"type":"Point"}
+  "geometry": {"coordinates":[-84.61745000000001,38.09837],"type":"Point"}
 }

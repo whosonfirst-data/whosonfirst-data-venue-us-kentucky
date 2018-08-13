@@ -2,17 +2,21 @@
   "id": 840906611,
   "type": "Feature",
   "properties": {
-    "addr:full":"350 Corvette Dr Bowling Green KY 42101",
+    "addr:city":"Bowling Green",
+    "addr:full":"350 Corvette Dr Bowling Green, Ky 42101-9134",
+    "addr:house_number":"350",
     "addr:housenumber":"350",
-    "addr:postcode":"42101",
+    "addr:postcode":"42101-9134",
+    "addr:road":"Corvette Dr",
+    "addr:state":"KY",
     "addr:street":"Corvette Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.377011,37.001607,-86.377011,37.001607",
-    "geom:latitude":37.001607,
-    "geom:longitude":-86.377011,
+    "geom:bbox":"-86.37288,37.0035,-86.37288,37.0035",
+    "geom:latitude":37.0035,
+    "geom:longitude":-86.37288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,22 +34,26 @@
     "sg:postcode":"42101",
     "sg:province":"KY",
     "sg:website":"www.corvettemuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532677
+    ],
     "wof:belongsto":[
-        85688641,
+        85807621,
         85633793,
         85947335,
         102084479,
-        85807621
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100461,
         "osm:way":277178197,
         "sg:id":"SG_354JLzCb7g2uAgwbUi08q6_37.001607_-86.377011@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050624,
-    "wof:geomhash":"c036c1a8db67e433d686ba886f7adcef",
+    "wof:geomhash":"16c39a7f4d5ebc9d04fd29f39fcb1773",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":840906611,
-    "wof:lastmodified":1510942791,
+    "wof:lastmodified":1534186957,
     "wof:name":"National Corvette Museum",
     "wof:parent_id":85807621,
     "wof:placetype":"venue",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.377011,
-    37.001607,
-    -86.377011,
-    37.001607
+    -86.37288,
+    37.0035,
+    -86.37288,
+    37.0035
 ],
-  "geometry": {"coordinates":[-86.377011,37.001607],"type":"Point"}
+  "geometry": {"coordinates":[-86.37287999999999,37.0035],"type":"Point"}
 }

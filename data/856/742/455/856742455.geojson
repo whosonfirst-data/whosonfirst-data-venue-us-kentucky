@@ -14,6 +14,7 @@
     "geom:longitude":-85.641411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 Kresge Way",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053474,
-    "wof:geomhash":"c196a6243c808a53451fb4098a6f91e0",
+    "wof:geomhash":"9c0f4c68f4ab7476251ab79cde7c32a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":856742455,
-    "wof:lastmodified":1472624091,
+    "wof:lastmodified":1534186958,
     "wof:name":"Stephen K Overstreet MD P",
     "wof:parent_id":85840697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840609249
+    ],
     "wof:tags":[
         "physician",
         "stomach",

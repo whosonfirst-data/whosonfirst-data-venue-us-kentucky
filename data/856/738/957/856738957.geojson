@@ -14,6 +14,7 @@
     "geom:longitude":-85.751272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 E Gray St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053341,
-    "wof:geomhash":"9a09ef636a4d01ded3fa383e6ac0383d",
+    "wof:geomhash":"a72a97875aa69f9831658ce625e2cf62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":856738957,
-    "wof:lastmodified":1472624103,
+    "wof:lastmodified":1534186957,
     "wof:name":"Spine Surgery PSC",
     "wof:parent_id":85873407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856722759
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

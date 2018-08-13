@@ -2,18 +2,24 @@
   "id": 840914575,
   "type": "Feature",
   "properties": {
-    "addr:full":"409 E Happy Valley St Cave City KY 42127",
+    "addr:city":"Cave City",
+    "addr:full":"409 E Happy Valley St Cave City, Ky 42127",
+    "addr:house_number":"409",
     "addr:housenumber":"409",
+    "addr:phone":"+1 270-773-2255",
     "addr:postcode":"42127",
+    "addr:road":"E Happy Valley St",
+    "addr:state":"KY",
     "addr:street":"E Happy Valley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.962833,37.127995,-85.962833,37.127995",
-    "geom:latitude":37.127995,
-    "geom:longitude":-85.962833,
+    "geom:bbox":"-85.96159,37.1262,-85.96159,37.1262",
+    "geom:latitude":37.1262,
+    "geom:longitude":-85.96159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"409 E Happy Valley St",
     "sg:city":"Cave City",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 270 773 2255",
     "sg:postcode":"42127",
     "sg:province":"KY",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528249
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100041,
         "sg:id":"SG_1Fi7Ami0LWjS2nQ4jHRLUR_37.127995_-85.962833@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464050864,
-    "wof:geomhash":"030128a56c32e892f21048af5e4c44aa",
+    "wof:geomhash":"99e22fd72fec0fb24746b41a3f608411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":840914575,
-    "wof:lastmodified":1472624248,
+    "wof:lastmodified":1534186958,
     "wof:name":"Mammoth Cave Wildlife Museum",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.962833,
-    37.127995,
-    -85.962833,
-    37.127995
+    -85.96159,
+    37.1262,
+    -85.96159,
+    37.1262
 ],
-  "geometry": {"coordinates":[-85.962833,37.127995],"type":"Point"}
+  "geometry": {"coordinates":[-85.96159,37.1262],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-84.501993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 S Limestone St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464045213,
-    "wof:geomhash":"e0c52408eeff766f8b848a16f6ff05a0",
+    "wof:geomhash":"eb0461f427a1615a6f61c9214fc532dd",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":840665109,
-    "wof:lastmodified":1472623885,
+    "wof:lastmodified":1534186958,
     "wof:name":"Samaritan Hospital Lexington",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840594299
+    ],
     "wof:tags":[]
 },
   "bbox": [

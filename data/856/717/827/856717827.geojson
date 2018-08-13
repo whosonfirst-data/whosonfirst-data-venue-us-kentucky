@@ -7,6 +7,7 @@
     "addr:postcode":"41501",
     "addr:street":"N Mayo Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.574748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4561 N Mayo Trl",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -73,12 +74,14 @@
         }
     ],
     "wof:id":856717827,
-    "wof:lastmodified":1511317185,
+    "wof:lastmodified":1534186957,
     "wof:name":"TCBY",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856735917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor",

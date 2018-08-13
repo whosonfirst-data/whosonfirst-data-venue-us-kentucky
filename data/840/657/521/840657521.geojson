@@ -7,6 +7,7 @@
     "addr:postcode":"40219",
     "addr:street":"Gayle Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.66708,38.158284,-85.66708,38.158284",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.66708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6304 Gayle Dr",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464045055,
-    "wof:geomhash":"37aff60ac009591b0fd0886a876cc342",
+    "wof:geomhash":"aa7c01d9d986c097a6d545a064686be4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":840657521,
-    "wof:lastmodified":1472623905,
+    "wof:lastmodified":1534186958,
     "wof:name":"H & T Lawn Svc",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856747047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn",

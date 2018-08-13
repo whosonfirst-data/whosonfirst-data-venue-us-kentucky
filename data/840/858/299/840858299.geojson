@@ -7,6 +7,7 @@
     "addr:postcode":"40219",
     "addr:street":"Outer Loop",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.730922,38.131317,-85.730922,38.131317",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.730922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2708 Outer Loop",
     "sg:city":"Okolona",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464049616,
-    "wof:geomhash":"9ca103a90f51b88dd11a69e0e5da49b2",
+    "wof:geomhash":"a9df234a0917d8dc18772806926edf6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":840858299,
-    "wof:lastmodified":1472624147,
+    "wof:lastmodified":1534186958,
     "wof:name":"Ken-Mulch Inc",
     "wof:parent_id":85828155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856746867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "landscaping",

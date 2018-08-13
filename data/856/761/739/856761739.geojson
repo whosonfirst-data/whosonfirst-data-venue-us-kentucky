@@ -14,6 +14,7 @@
     "geom:longitude":-88.566109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2039 Irvin Cobb Dr",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054186,
-    "wof:geomhash":"bc131789e0e852a6e6c34a241dcd2f83",
+    "wof:geomhash":"099f2d8e78f9f2af803971cca964ae44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":856761739,
-    "wof:lastmodified":1472624210,
+    "wof:lastmodified":1534186959,
     "wof:name":"Harrison Auto Sales",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840690161
+    ],
     "wof:tags":[
         "dealers-used",
         "car",

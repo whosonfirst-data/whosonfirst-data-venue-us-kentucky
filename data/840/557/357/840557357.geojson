@@ -2,18 +2,24 @@
   "id": 840557357,
   "type": "Feature",
   "properties": {
-    "addr:full":"98 Pleasant Ridge Ave Covington KY 41017",
+    "addr:city":"Ft Mitchell",
+    "addr:full":"98 Pleasant Ridge Ave Ft Mitchell, Ky 41017-2862",
+    "addr:house_number":"98",
     "addr:housenumber":"98",
-    "addr:postcode":"41017",
+    "addr:phone":"+1 859-341-0639",
+    "addr:postcode":"41017-2862",
+    "addr:road":"Pleasant Ridge Ave",
+    "addr:state":"KY",
     "addr:street":"Pleasant Ridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.562131,39.043711,-84.562131,39.043711",
-    "geom:latitude":39.043711,
-    "geom:longitude":-84.562131,
+    "geom:bbox":"-84.56237,39.04403,-84.56237,39.04403",
+    "geom:latitude":39.04403,
+    "geom:longitude":-84.56237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"98 Pleasant Ridge Ave",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528187,
+        102531251
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100175,
         "sg:id":"SG_0IB7c68FGXatiLVTfZSpNT_39.043711_-84.562131@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464042680,
-    "wof:geomhash":"5f40dc6a6d9b37dec152116d467a5070",
+    "wof:geomhash":"2a9e9a586104fddc314de5deacdfdd39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":840557357,
-    "wof:lastmodified":1472623792,
-    "wof:name":"Art Machine Inc",
+    "wof:lastmodified":1534186957,
+    "wof:name":"Art Machine",
     "wof:parent_id":85829425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -84.562131,
-    39.043711,
-    -84.562131,
-    39.043711
+    -84.56237,
+    39.04403,
+    -84.56237,
+    39.04403
 ],
-  "geometry": {"coordinates":[-84.56213099999999,39.043711],"type":"Point"}
+  "geometry": {"coordinates":[-84.56237,39.04403],"type":"Point"}
 }

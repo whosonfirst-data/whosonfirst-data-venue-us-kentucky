@@ -7,6 +7,7 @@
     "addr:postcode":"41042",
     "addr:street":"Burlington Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.636615,39.000672,-84.636615,39.000672",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.636615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7415 Burlington Pike",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -38,15 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464052060,
-    "wof:geomhash":"8ef2baf197bc240c440f9fc9142e08c5",
+    "wof:geomhash":"62648c013c81af7a67649928631da7c4",
     "wof:hierarchy":[],
     "wof:id":856700247,
-    "wof:lastmodified":1472623739,
+    "wof:lastmodified":1534186959,
     "wof:name":"Angela L Greene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840625375,
+        856757973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

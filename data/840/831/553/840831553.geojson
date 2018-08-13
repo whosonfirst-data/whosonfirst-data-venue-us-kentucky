@@ -7,6 +7,7 @@
     "addr:postcode":"42053",
     "addr:street":"Kentucky Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.869433,37.076901,-88.869433,37.076901",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.869433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"403 Kentucky Ave",
     "sg:city":"Kevil",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464049035,
-    "wof:geomhash":"012c71a3f8c2d45f71eca238961f3f02",
+    "wof:geomhash":"6543cd5cd5983eaa5546660ed26bc58e",
     "wof:hierarchy":[],
     "wof:id":840831553,
-    "wof:lastmodified":1472624091,
+    "wof:lastmodified":1534186959,
     "wof:name":"Grace Valley Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856762041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

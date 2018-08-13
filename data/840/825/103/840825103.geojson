@@ -7,6 +7,7 @@
     "addr:postcode":"40202",
     "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.75857,38.254137,-85.75857,38.254137",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.75857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"239 S 5th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464048893,
-    "wof:geomhash":"98e2e53ecfc7c53cd793e9e4d0f05585",
+    "wof:geomhash":"be6e75c4d7eedce7c504a8a420b3d792",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":840825103,
-    "wof:lastmodified":1472624061,
+    "wof:lastmodified":1534186957,
     "wof:name":"Michael L Polio Attorney",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840643393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 840606305,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 N Mill St Lexington KY 40507",
+    "addr:city":"Lexington",
+    "addr:full":"201 N Mill St Lexington, Ky 40507",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
+    "addr:phone":"+1 201-664-5578",
     "addr:postcode":"40507",
+    "addr:road":"N Mill St",
+    "addr:state":"KY",
     "addr:street":"N Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.495318,38.050684,-84.495318,38.050684",
-    "geom:latitude":38.050684,
-    "geom:longitude":-84.495318,
+    "geom:bbox":"-84.49591,38.05036,-84.49591,38.05036",
+    "geom:latitude":38.05036,
+    "geom:longitude":-84.49591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 N Mill St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 859 233 3290",
     "sg:postcode":"40507",
     "sg:province":"KY",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524721
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100059,
         "sg:id":"SG_5rsaJxmM9wvMvjscT4bUIZ_38.050684_-84.495318@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464043805,
-    "wof:geomhash":"c59dcd84f0b0cc8a39de73e2b66fbdfa",
+    "wof:geomhash":"8e5cf8a37782b315469fc0d53f1020ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":840606305,
-    "wof:lastmodified":1472623791,
+    "wof:lastmodified":1534186957,
     "wof:name":"Hunt-Morgan House",
     "wof:parent_id":85873067,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.495318,
-    38.050684,
-    -84.495318,
-    38.050684
+    -84.49591,
+    38.05036,
+    -84.49591,
+    38.05036
 ],
-  "geometry": {"coordinates":[-84.495318,38.050684],"type":"Point"}
+  "geometry": {"coordinates":[-84.49590999999999,38.05036],"type":"Point"}
 }

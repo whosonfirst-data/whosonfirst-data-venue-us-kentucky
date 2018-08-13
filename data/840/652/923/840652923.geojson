@@ -7,6 +7,7 @@
     "addr:postcode":"40507",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.494666,38.044261,-84.494666,38.044261",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.494666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464044951,
-    "wof:geomhash":"1047c0b010c2dfb48f39db3b184bbb99",
+    "wof:geomhash":"f113b720fdf180c16c94202e87d6679e",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":840652923,
-    "wof:lastmodified":1472623940,
+    "wof:lastmodified":1534186958,
     "wof:name":"Department of Public Safety",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840658839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

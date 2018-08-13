@@ -7,6 +7,7 @@
     "addr:postcode":"41048",
     "addr:street":"Cougar Path",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.697444,39.060827,-84.697444,39.060827",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.697444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3310 Cougar Path",
     "sg:city":"Hebron",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1464054092,
-    "wof:geomhash":"59cfa14a5a2b3b32ddea10ebe3f124de",
+    "wof:geomhash":"568b79ab271777ab97b79a1108cc0738",
     "wof:hierarchy":[],
     "wof:id":856759035,
-    "wof:lastmodified":1472624074,
+    "wof:lastmodified":1534186959,
     "wof:name":"Boone County School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856759151
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "high",

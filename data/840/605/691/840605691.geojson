@@ -7,6 +7,7 @@
     "addr:postcode":"40223",
     "addr:street":"Ormsby Station Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.572403,38.267478,-85.572403,38.267478",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.572403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9721 Ormsby Station Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464043792,
-    "wof:geomhash":"6e073f3102f4a295d629249b9040935e",
+    "wof:geomhash":"7bc1f2205c708859b2d72701555e6533",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":840605691,
-    "wof:lastmodified":1472623816,
+    "wof:lastmodified":1534186958,
     "wof:name":"Real Estate Title Svc LLC",
     "wof:parent_id":85866953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856748807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

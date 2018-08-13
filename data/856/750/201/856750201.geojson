@@ -2,18 +2,24 @@
   "id": 856750201,
   "type": "Feature",
   "properties": {
-    "addr:full":"12556 Shelbyville Rd Louisville KY 40243",
+    "addr:city":"Louisville",
+    "addr:full":"12556 Shelbyville Rd Louisville, Ky 40243",
+    "addr:house_number":"12556",
     "addr:housenumber":"12556",
+    "addr:phone":"+1 502-254-4303",
     "addr:postcode":"40243",
+    "addr:road":"Shelbyville Rd",
+    "addr:state":"KY",
     "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.521381,38.243962,-85.521381,38.243962",
-    "geom:latitude":38.243962,
-    "geom:longitude":-85.521381,
+    "geom:bbox":"-85.52327,38.24471,-85.52327,38.24471",
+    "geom:latitude":38.24471,
+    "geom:longitude":-85.52327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12556 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -37,7 +43,11 @@
         "government-city",
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100032,
         "sg:id":"SG_1mgWtY7pfcFLei1KUpLpon_38.243962_-85.521381@1303262748"
     },
     "wof:country":"US",
     "wof:created":1464053759,
-    "wof:geomhash":"98a6953c3dba5d65ebf7f92f0042d61f",
+    "wof:geomhash":"ee7b8d39c94f4f0c2ef1e29698957a42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +76,7 @@
         }
     ],
     "wof:id":856750201,
-    "wof:lastmodified":1472624072,
+    "wof:lastmodified":1534186958,
     "wof:name":"Middletown Museum",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -85.521381,
-    38.243962,
-    -85.521381,
-    38.243962
+    -85.52327,
+    38.24471,
+    -85.52327,
+    38.24471
 ],
-  "geometry": {"coordinates":[-85.52138100000001,38.243962],"type":"Point"}
+  "geometry": {"coordinates":[-85.52327,38.24471],"type":"Point"}
 }

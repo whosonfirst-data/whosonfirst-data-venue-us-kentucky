@@ -7,6 +7,7 @@
     "addr:postcode":"40241",
     "addr:street":"Springhurst Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.559813,38.303206,-85.559813,38.303206",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.559813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3575 Springhurst Blvd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1464050096,
-    "wof:geomhash":"ece23ef2b3103de658b165d9c5c518db",
+    "wof:geomhash":"86205244f6bbe6811dbf396d9eaf9bff",
     "wof:hierarchy":[],
     "wof:id":840881109,
-    "wof:lastmodified":1472624196,
+    "wof:lastmodified":1534186958,
     "wof:name":"Springhurst Towne Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856749935
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mall",

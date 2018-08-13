@@ -2,18 +2,23 @@
   "id": 856743529,
   "type": "Feature",
   "properties": {
-    "addr:full":"2035 S 3rd St Louisville KY 40208",
+    "addr:city":"Louisville",
+    "addr:full":"2035 S 3Rd St Louisville, Ky 40208-1812",
+    "addr:house_number":"2035",
     "addr:housenumber":"2035",
-    "addr:postcode":"40208",
+    "addr:postcode":"40208-1812",
+    "addr:road":"S 3Rd St",
+    "addr:state":"KY",
     "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.761641,38.217933,-85.761641,38.217933",
-    "geom:latitude":38.217933,
-    "geom:longitude":-85.761641,
+    "geom:bbox":"-85.76154,38.21792,-85.76154,38.21792",
+    "geom:latitude":38.21792,
+    "geom:longitude":-85.76154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2035 S 3rd St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -49,7 +54,11 @@
         "attraction"
     ],
     "sg:website":"http://www.speedmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -60,11 +69,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100250,
         "sg:id":"SG_1krg0SwmTV0Qgx7aPTxnD6_38.217933_-85.761641@1303262746"
     },
     "wof:country":"US",
     "wof:created":1464053513,
-    "wof:geomhash":"fa28f2805b750eb8054f7a09cb6082da",
+    "wof:geomhash":"b9b21467fdd169bf4610dafcd99229f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,8 +87,8 @@
         }
     ],
     "wof:id":856743529,
-    "wof:lastmodified":1472624078,
-    "wof:name":"Speed Art Museum",
+    "wof:lastmodified":1534186958,
+    "wof:name":"J B Speed Art Museum",
     "wof:parent_id":85873433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
@@ -92,10 +102,10 @@
     ]
 },
   "bbox": [
-    -85.761641,
-    38.217933,
-    -85.761641,
-    38.217933
+    -85.76154,
+    38.21792,
+    -85.76154,
+    38.21792
 ],
-  "geometry": {"coordinates":[-85.761641,38.217933],"type":"Point"}
+  "geometry": {"coordinates":[-85.76154,38.21792],"type":"Point"}
 }

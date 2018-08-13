@@ -7,6 +7,7 @@
     "addr:postcode":"40203",
     "addr:street":"W Oak St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761702,38.235056,-85.761702,38.235056",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.761702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"422 W Oak St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052402,
-    "wof:geomhash":"710a1c6d4d743c2d63180fbde02c4016",
+    "wof:geomhash":"409c8e552813bea70720932c47af7526",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":856715297,
-    "wof:lastmodified":1472623760,
+    "wof:lastmodified":1534186958,
     "wof:name":"Rudyard Kipling",
     "wof:parent_id":85873405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856740473
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

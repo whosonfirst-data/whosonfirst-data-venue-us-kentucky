@@ -14,6 +14,7 @@
     "geom:longitude":-85.758171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 S 5th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053349,
-    "wof:geomhash":"761f83d884a779dc4b300fcebe9863f1",
+    "wof:geomhash":"2e1346dfba39f9f9adeba45ec293a0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":856739201,
-    "wof:lastmodified":1472624067,
+    "wof:lastmodified":1534186957,
     "wof:name":"The Allegro Group",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840589697
+    ],
     "wof:tags":[
         "consultant",
         "attorney"

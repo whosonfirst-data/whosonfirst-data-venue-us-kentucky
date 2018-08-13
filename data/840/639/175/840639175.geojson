@@ -14,6 +14,7 @@
     "geom:longitude":-85.671345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4801 Outer Loop",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464044661,
-    "wof:geomhash":"c300618796c964a78b3e686060d81693",
+    "wof:geomhash":"fd2ae71a3b9c52f8481d4aa67a0f7eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":840639175,
-    "wof:lastmodified":1472623855,
+    "wof:lastmodified":1534186957,
     "wof:name":"Preslar's Western Shop",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840862559
+    ],
     "wof:tags":[
         "western"
     ]

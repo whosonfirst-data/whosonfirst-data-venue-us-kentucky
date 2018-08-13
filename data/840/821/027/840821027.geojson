@@ -7,6 +7,7 @@
     "addr:postcode":"40205",
     "addr:street":"Bardstown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.700952,38.228496,-85.700952,38.228496",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.700952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1827 Bardstown Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464048778,
-    "wof:geomhash":"aa7c20b5d7c520def59cfd2e4a79c241",
+    "wof:geomhash":"de87b153d7a8672dd78184e78f169d03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":840821027,
-    "wof:lastmodified":1472624004,
+    "wof:lastmodified":1534186958,
     "wof:name":"Sensations Day Spa & Salon",
     "wof:parent_id":85873369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856741729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

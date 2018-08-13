@@ -7,6 +7,7 @@
     "addr:postcode":"40047",
     "addr:street":"State Hwy 44 E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.541048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"10731 State Hwy 44 E",
     "sg:city":"Mount Washington",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"b0fa0007e10bcf22ed19510c95e1fc60",
     "wof:hierarchy":[],
     "wof:id":840596865,
-    "wof:lastmodified":1511322383,
+    "wof:lastmodified":1534186959,
     "wof:name":"Blockbuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840697819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "video",

@@ -7,6 +7,7 @@
     "addr:postcode":"42003",
     "addr:street":"Irvin Cobb Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-88.585567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2150 Irvin Cobb Dr",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":840612359,
-    "wof:lastmodified":1511318479,
+    "wof:lastmodified":1534186959,
     "wof:name":"Royal Inn",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856761459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"40601",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.859889,38.198684,-84.859889,38.198684",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.859889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"275 E Main St",
     "sg:city":"Frankfort",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1464048697,
-    "wof:geomhash":"65921bd90dbbd8f9e1151dcfc1e08c72",
+    "wof:geomhash":"03f9097a6a730539411cc5d9d04e20e7",
     "wof:hierarchy":[],
     "wof:id":840818041,
-    "wof:lastmodified":1472624014,
+    "wof:lastmodified":1534186957,
     "wof:name":"Office of Inspector General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840891335
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "administrative",

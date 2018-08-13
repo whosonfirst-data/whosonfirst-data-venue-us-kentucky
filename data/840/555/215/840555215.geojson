@@ -14,6 +14,7 @@
     "geom:longitude":-85.75857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"239 S 5th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464042631,
-    "wof:geomhash":"98e2e53ecfc7c53cd793e9e4d0f05585",
+    "wof:geomhash":"be6e75c4d7eedce7c504a8a420b3d792",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":840555215,
-    "wof:lastmodified":1472623772,
+    "wof:lastmodified":1534186957,
     "wof:name":"Samuel Manly Law Office",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856739009
+    ],
     "wof:tags":[
         "attorney"
     ]

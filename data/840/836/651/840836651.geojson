@@ -7,6 +7,7 @@
     "addr:postcode":"40215",
     "addr:street":"Huntoon Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.791898,38.172389,-85.791898,38.172389",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.791898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1622 Huntoon Ave",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464049142,
-    "wof:geomhash":"b7b53ad70861093a1e4b739219c35cbf",
+    "wof:geomhash":"f92fce3fedb3e06ca8c017e70d8cfb32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":840836651,
-    "wof:lastmodified":1472624087,
+    "wof:lastmodified":1534186958,
     "wof:name":"Larry Allen Heating & Air",
     "wof:parent_id":85824429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856745317
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "air",

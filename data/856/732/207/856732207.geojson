@@ -7,6 +7,7 @@
     "addr:postcode":"40004",
     "addr:street":"E John Rowan Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.444149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1200 E John Rowan Blvd",
     "sg:city":"Bardstown",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"6a790f9085209e4c99f78cbd0b997dd4",
     "wof:hierarchy":[],
     "wof:id":856732207,
-    "wof:lastmodified":1511321862,
+    "wof:lastmodified":1534186958,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840930965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.507898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"114 E 7th St",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464051391,
-    "wof:geomhash":"b6384b2a319f5fe988597b1101791250",
+    "wof:geomhash":"931ca27d2f2c88823b3a72a5f50a362c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840937039,
-    "wof:lastmodified":1472624197,
+    "wof:lastmodified":1534186959,
     "wof:name":"Seventh Street Gift Shop",
     "wof:parent_id":85830587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840893705
+    ],
     "wof:tags":[
         "art",
         "gallery",

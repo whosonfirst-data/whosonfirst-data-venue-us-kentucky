@@ -14,6 +14,7 @@
     "geom:longitude":-88.563053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4537 Clarks River Rd",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054184,
-    "wof:geomhash":"725d8ef0e19f40046b97f1fbb175e667",
+    "wof:geomhash":"a1b9c86b981773d4b2497bb8049196fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":856761659,
-    "wof:lastmodified":1472624192,
+    "wof:lastmodified":1534186959,
     "wof:name":"James Enterprises Inc",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840871277
+    ],
     "wof:tags":[
         "mall"
     ]

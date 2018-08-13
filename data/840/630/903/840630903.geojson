@@ -2,18 +2,24 @@
   "id": 840630903,
   "type": "Feature",
   "properties": {
-    "addr:full":"304 N Jefferson St Princeton KY 42445",
+    "addr:city":"Princeton",
+    "addr:full":"304 N Jefferson St Princeton, Ky 26253",
+    "addr:house_number":"304",
     "addr:housenumber":"304",
-    "addr:postcode":"42445",
+    "addr:phone":"+1 270-365-3114",
+    "addr:postcode":"26253",
+    "addr:road":"N Jefferson St",
+    "addr:state":"KY",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-87.880493,37.111195,-87.880493,37.111195",
-    "geom:latitude":37.111195,
-    "geom:longitude":-87.880493,
+    "geom:bbox":"-87.88357,37.10675,-87.88357,37.10675",
+    "geom:latitude":37.10675,
+    "geom:longitude":-87.88357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"304 N Jefferson St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 270 365 3114",
     "sg:postcode":"42445",
     "sg:province":"KY",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100077,
         "sg:id":"SG_5jkPbg2pQ6drAQKXrcJcV7_37.111195_-87.880493@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044464,
-    "wof:geomhash":"ebbfac0c4ae764ff287f29fd1bc35a2f",
+    "wof:geomhash":"682499d3a43d15bb11b0ef6b5b755e12",
     "wof:hierarchy":[],
     "wof:id":840630903,
-    "wof:lastmodified":1472623860,
+    "wof:lastmodified":1534186957,
     "wof:name":"Adsmore Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.880493,
-    37.111195,
-    -87.880493,
-    37.111195
+    -87.88357,
+    37.10675,
+    -87.88357,
+    37.10675
 ],
-  "geometry": {"coordinates":[-87.880493,37.111195],"type":"Point"}
+  "geometry": {"coordinates":[-87.88357000000001,37.10675],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"42003",
     "addr:street":"Irvin Cobb Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.566109,37.049629,-88.566109,37.049629",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.566109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2161 Irvin Cobb Dr",
     "sg:city":"Paducah",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464054177,
-    "wof:geomhash":"bc131789e0e852a6e6c34a241dcd2f83",
+    "wof:geomhash":"099f2d8e78f9f2af803971cca964ae44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":856761461,
-    "wof:lastmodified":1472624179,
+    "wof:lastmodified":1534186959,
     "wof:name":"Tapps Auto Sales",
     "wof:parent_id":85852949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840941449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealers-used",

@@ -7,6 +7,7 @@
     "addr:postcode":"41001",
     "addr:street":"Alexandria Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.392778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8131 Alexandria Pike",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -47,12 +48,14 @@
     "wof:geomhash":"d2c9a324d7e019a3cd0334221b6ad9ce",
     "wof:hierarchy":[],
     "wof:id":856721171,
-    "wof:lastmodified":1511321425,
+    "wof:lastmodified":1534186959,
     "wof:name":"Curves For Women",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856755489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

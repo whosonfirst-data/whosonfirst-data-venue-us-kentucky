@@ -14,6 +14,7 @@
     "geom:longitude":-84.494666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 E Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464045081,
-    "wof:geomhash":"1047c0b010c2dfb48f39db3b184bbb99",
+    "wof:geomhash":"f113b720fdf180c16c94202e87d6679e",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840658839,
-    "wof:lastmodified":1472623926,
+    "wof:lastmodified":1534186958,
     "wof:name":"Lexington Public Safety Dept",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840652923
+    ],
     "wof:tags":[
         "civil",
         "defense",

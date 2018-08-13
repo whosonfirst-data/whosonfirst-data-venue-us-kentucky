@@ -14,6 +14,7 @@
     "geom:longitude":-85.518448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12700 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464046412,
-    "wof:geomhash":"d3b8310b53fd23f9e4cf062b0566a19e",
+    "wof:geomhash":"82163a5899a5cf027a9b27b990b54562",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":840715539,
-    "wof:lastmodified":1472623953,
+    "wof:lastmodified":1534186959,
     "wof:name":"Consultstaff",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856750297
+    ],
     "wof:tags":[
         "opportunity"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-85.667549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6304 Gayle Drive",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464053633,
-    "wof:geomhash":"316b72a63e6805dd07563bcb0b4c2311",
+    "wof:geomhash":"a4cef557677f0ce0466fcff41c692d3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":856747047,
-    "wof:lastmodified":1472624067,
+    "wof:lastmodified":1534186958,
     "wof:name":"H and T Lawn Service",
     "wof:parent_id":85841437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840657521
+    ],
     "wof:tags":[
         "landscape",
         "contractor"

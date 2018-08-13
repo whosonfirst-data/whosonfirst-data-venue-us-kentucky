@@ -7,6 +7,7 @@
     "addr:postcode":"40243",
     "addr:street":"Shelbyville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.518448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"12700 Shelbyville Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":840667583,
-    "wof:lastmodified":1511323529,
+    "wof:lastmodified":1534186958,
     "wof:name":"Primerica",
     "wof:parent_id":85804041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840671201
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "financial"

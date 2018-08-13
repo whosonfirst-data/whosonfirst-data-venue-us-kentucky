@@ -2,18 +2,24 @@
   "id": 840652199,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 N 2nd St La Grange KY 40031",
+    "addr:city":"Lagrange",
+    "addr:full":"106 N 2Nd St Lagrange, Ky 40031-1102",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
-    "addr:postcode":"40031",
+    "addr:phone":"+1 502-222-0826",
+    "addr:postcode":"40031-1102",
+    "addr:road":"N 2Nd St",
+    "addr:state":"KY",
     "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.380426,38.408183,-85.380426,38.408183",
-    "geom:latitude":38.408183,
-    "geom:longitude":-85.380426,
+    "geom:bbox":"-85.38016,38.40737,-85.38016,38.40737",
+    "geom:latitude":38.40737,
+    "geom:longitude":-85.38016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 N 2nd St",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -28,21 +34,23 @@
     "sg:postcode":"40031",
     "sg:province":"KY",
     "sg:website":"www.oldhamcountyhistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688641,
+        85819685,
         85633793,
         85946663,
         102084559,
-        85819685
+        85688641
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100330,
         "sg:id":"SG_3vT9kDZpyQ79XjT2eQvmof_38.408183_-85.380426@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044935,
-    "wof:geomhash":"0b741f4d78286110197a83a9dc92f01d",
+    "wof:geomhash":"fcc3a6f5545ba9d1bfe9da448b2b8ca0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +62,8 @@
         }
     ],
     "wof:id":840652199,
-    "wof:lastmodified":1472623884,
-    "wof:name":"Oldham County Historical Soc",
+    "wof:lastmodified":1534186957,
+    "wof:name":"Oldham Co Historical Society",
     "wof:parent_id":85819685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
@@ -64,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.380426,
-    38.408183,
-    -85.380426,
-    38.408183
+    -85.38016,
+    38.40737,
+    -85.38016,
+    38.40737
 ],
-  "geometry": {"coordinates":[-85.380426,38.408183],"type":"Point"}
+  "geometry": {"coordinates":[-85.38016,38.40737],"type":"Point"}
 }

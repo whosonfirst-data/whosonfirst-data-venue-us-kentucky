@@ -7,6 +7,7 @@
     "addr:postcode":"40202",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.761488,38.257158,-85.761488,38.257158",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.761488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 W Main St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052374,
-    "wof:geomhash":"9fa758ec809b829bedb29fcfdf752afc",
+    "wof:geomhash":"3825df696e86b21c4478b915e8d62303",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":856714513,
-    "wof:lastmodified":1472623764,
+    "wof:lastmodified":1534186958,
     "wof:name":"Jennifer Hulse Attorney At Law",
     "wof:parent_id":85873435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856740173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

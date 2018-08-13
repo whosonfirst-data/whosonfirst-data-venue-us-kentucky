@@ -7,6 +7,7 @@
     "addr:postcode":"40202",
     "addr:street":"S 5Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.758423,38.255407,-85.758423,38.255407",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.758423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 S 5th St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052244,
-    "wof:geomhash":"4ad53da0b8d62e2f4a06f2e86f85f936",
+    "wof:geomhash":"d4efef38653615ed2694be908a4f6222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":856708813,
-    "wof:lastmodified":1472623747,
+    "wof:lastmodified":1534186958,
     "wof:name":"Tachau Maddox Hovious & Dicken",
     "wof:parent_id":85866963,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856740235
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

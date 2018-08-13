@@ -2,18 +2,24 @@
   "id": 856739851,
   "type": "Feature",
   "properties": {
-    "addr:full":"729 E Washington St Louisville KY 40202",
+    "addr:city":"Louisville",
+    "addr:full":"729 E Washington St Louisville, Ky 40202",
+    "addr:house_number":"729",
     "addr:housenumber":"729",
+    "addr:phone":"+1 502-585-5247",
     "addr:postcode":"40202",
+    "addr:road":"E Washington St",
+    "addr:state":"KY",
     "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.739104,38.255487,-85.739104,38.255487",
-    "geom:latitude":38.255487,
-    "geom:longitude":-85.739104,
+    "geom:bbox":"-85.73908,38.25557,-85.73908,38.25557",
+    "geom:latitude":38.25557,
+    "geom:longitude":-85.73908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"729 E Washington St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "attraction"
     ],
     "sg:website":"http://www.historichomes.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100017,
         "sg:id":"SG_2AI3g55DtjS1adCl0xGod1_38.255487_-85.739104@1303262745"
     },
     "wof:country":"US",
     "wof:created":1464053371,
-    "wof:geomhash":"901207496b11e0e3bb78a3af4981dd62",
+    "wof:geomhash":"4fab22c2ffe5616ad62b23aaa39f7f25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +75,7 @@
         }
     ],
     "wof:id":856739851,
-    "wof:lastmodified":1472624112,
+    "wof:lastmodified":1534186958,
     "wof:name":"Thomas Edison House",
     "wof:parent_id":85873415,
     "wof:placetype":"venue",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -85.739104,
-    38.255487,
-    -85.739104,
-    38.255487
+    -85.73908,
+    38.25557,
+    -85.73908,
+    38.25557
 ],
-  "geometry": {"coordinates":[-85.739104,38.255487],"type":"Point"}
+  "geometry": {"coordinates":[-85.73908,38.25557],"type":"Point"}
 }

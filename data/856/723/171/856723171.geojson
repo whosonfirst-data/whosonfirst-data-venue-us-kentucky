@@ -7,6 +7,7 @@
     "addr:postcode":"41501",
     "addr:street":"N Mayo Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.562546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3543 N Mayo Trl",
     "sg:city":"Pikeville",
     "sg:classifiers":[
@@ -68,12 +69,14 @@
         }
     ],
     "wof:id":856723171,
-    "wof:lastmodified":1511316607,
+    "wof:lastmodified":1534186957,
     "wof:name":"Long John Silver's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856735895
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

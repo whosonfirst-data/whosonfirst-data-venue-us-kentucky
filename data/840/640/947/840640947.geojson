@@ -2,18 +2,24 @@
   "id": 840640947,
   "type": "Feature",
   "properties": {
-    "addr:full":"3110 Lexington Rd Louisville KY 40206",
+    "addr:city":"Louisville",
+    "addr:full":"3110 Lexington Rd Louisville, Ky 40206-3002",
+    "addr:house_number":"3110",
     "addr:housenumber":"3110",
-    "addr:postcode":"40206",
+    "addr:phone":"+1 502-899-5079",
+    "addr:postcode":"40206-3002",
+    "addr:road":"Lexington Rd",
+    "addr:state":"KY",
     "addr:street":"Lexington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.677571,38.248669,-85.677571,38.248669",
-    "geom:latitude":38.248669,
-    "geom:longitude":-85.677571,
+    "geom:bbox":"-85.67609,38.24855,-85.67609,38.24855",
+    "geom:latitude":38.24855,
+    "geom:longitude":-85.67609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3110 Lexington Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"40206",
     "sg:province":"KY",
     "sg:website":"www.historichomes.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100455,
         "sg:id":"SG_5HStXi9AFafLI2m5jQ0ht6_38.248669_-85.677571@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464044698,
-    "wof:geomhash":"009758618ebb8e080b57715bfa67837f",
+    "wof:geomhash":"7e864f7127756f42e4970412db86eae5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +67,7 @@
         }
     ],
     "wof:id":840640947,
-    "wof:lastmodified":1472623863,
+    "wof:lastmodified":1534186957,
     "wof:name":"Historic Homes Foundation",
     "wof:parent_id":85866961,
     "wof:placetype":"venue",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.677571,
-    38.248669,
-    -85.677571,
-    38.248669
+    -85.67609,
+    38.24855,
+    -85.67609,
+    38.24855
 ],
-  "geometry": {"coordinates":[-85.677571,38.248669],"type":"Point"}
+  "geometry": {"coordinates":[-85.67609,38.24855],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"41071",
     "addr:street":"Carothers Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.483856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"86 Carothers Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"97f1624548fa6252f123dff35a8b3e75",
     "wof:hierarchy":[],
     "wof:id":856725211,
-    "wof:lastmodified":1510603090,
+    "wof:lastmodified":1534186959,
     "wof:name":"Great Clips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856759373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

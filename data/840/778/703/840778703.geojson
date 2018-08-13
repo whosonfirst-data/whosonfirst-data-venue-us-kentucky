@@ -7,6 +7,7 @@
     "addr:postcode":"40209",
     "addr:street":"Dakota St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.748973,38.194734,-85.748973,38.194734",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.748973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"514 Dakota St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464047733,
-    "wof:geomhash":"b5cb80467c61b433c0f74053bcb9585c",
+    "wof:geomhash":"336994459468cc2deb925eeb9ec904a6",
     "wof:hierarchy":[
         {
             "campus_id":102533321,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":840778703,
-    "wof:lastmodified":1472624023,
+    "wof:lastmodified":1534186958,
     "wof:name":"Tint Shop",
     "wof:parent_id":102533321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856743613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glass",

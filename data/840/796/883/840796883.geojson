@@ -2,18 +2,24 @@
   "id": 840796883,
   "type": "Feature",
   "properties": {
-    "addr:full":"66 Lincoln Sq Hodgenville KY 42748",
+    "addr:city":"Hodgenville",
+    "addr:full":"66 Lincoln Sq Hodgenville, Ky 42748-1551",
+    "addr:house_number":"66",
     "addr:housenumber":"66",
-    "addr:postcode":"42748",
+    "addr:phone":"+1 270-358-3163",
+    "addr:postcode":"42748-1551",
+    "addr:road":"Lincoln Sq",
+    "addr:state":"KY",
     "addr:street":"Lincoln Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.740727,37.573883,-85.740727,37.573883",
-    "geom:latitude":37.573883,
-    "geom:longitude":-85.740727,
+    "geom:bbox":"-85.74044,37.57406,-85.74044,37.57406",
+    "geom:latitude":37.57406,
+    "geom:longitude":-85.74044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"66 Lincoln Sq",
     "sg:city":"Hodgenville",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 270 358 3163",
     "sg:postcode":"42748",
     "sg:province":"KY",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529217
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100312,
         "sg:id":"SG_2UB2TiovqZv0NBGxSG4l4c_37.573883_-85.740727@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464048125,
-    "wof:geomhash":"e6ea689135df2b0143528c399229e0a6",
+    "wof:geomhash":"e421bb142262863b567eb363b68ea72d",
     "wof:hierarchy":[],
     "wof:id":840796883,
-    "wof:lastmodified":1472624054,
-    "wof:name":"Lincoln Museum Inc",
+    "wof:lastmodified":1534186960,
+    "wof:name":"Lincoln Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.740727,
-    37.573883,
-    -85.740727,
-    37.573883
+    -85.74044,
+    37.57406,
+    -85.74044,
+    37.57406
 ],
-  "geometry": {"coordinates":[-85.74072700000001,37.573883],"type":"Point"}
+  "geometry": {"coordinates":[-85.74044000000001,37.57406],"type":"Point"}
 }

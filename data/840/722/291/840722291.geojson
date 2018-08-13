@@ -14,6 +14,7 @@
     "geom:longitude":-85.749366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 E Liberty St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464046554,
-    "wof:geomhash":"a094967748a1448ac4c66823d2e697bd",
+    "wof:geomhash":"334d9085baaf21d915bb27e52506214c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840722291,
-    "wof:lastmodified":1472623967,
+    "wof:lastmodified":1534186959,
     "wof:name":"Pulmonary Specialists",
     "wof:parent_id":85873407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        856739539
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

@@ -7,6 +7,7 @@
     "addr:postcode":"40219",
     "addr:street":"Outer Loop",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.667052,38.137684,-85.667052,38.137684",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.667052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4908 Outer Loop",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -36,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1464048144,
-    "wof:geomhash":"7a73af660e8bb75dce4538ff7488a924",
+    "wof:geomhash":"1bf66733c27512d7ca4d3856e3531c3d",
     "wof:hierarchy":[],
     "wof:id":840797663,
-    "wof:lastmodified":1472624040,
+    "wof:lastmodified":1534186958,
     "wof:name":"Atrium Salon & Day Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856746961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

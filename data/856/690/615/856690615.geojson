@@ -7,6 +7,7 @@
     "addr:postcode":"41101",
     "addr:street":"Russell Plaza Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.704452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"21 Russell Plaza Dr",
     "sg:city":"Ashland",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"64723eba81f7b942b834889ae3d5810d",
     "wof:hierarchy":[],
     "wof:id":856690615,
-    "wof:lastmodified":1510697727,
+    "wof:lastmodified":1534186957,
     "wof:name":"Golden Corral Buffet & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856735705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

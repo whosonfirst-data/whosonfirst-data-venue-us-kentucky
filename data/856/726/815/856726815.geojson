@@ -2,18 +2,23 @@
   "id": 856726815,
   "type": "Feature",
   "properties": {
-    "addr:full":"731 Brent St Louisville KY 40204",
+    "addr:city":"Louisville",
+    "addr:full":"731 Brent St Louisville, Ky 40204",
+    "addr:house_number":"731",
     "addr:housenumber":"731",
     "addr:postcode":"40204",
+    "addr:road":"Brent St",
+    "addr:state":"KY",
     "addr:street":"Brent St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.73478,38.243335,-85.73478,38.243335",
-    "geom:latitude":38.243335,
-    "geom:longitude":-85.73478,
+    "geom:bbox":"-85.73481,38.24326,-85.73481,38.24326",
+    "geom:latitude":38.24326,
+    "geom:longitude":-85.73481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"731 Brent St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -31,7 +36,11 @@
         "product"
     ],
     "sg:website":"www.louisvillestoneware.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409401145,
         "sg:id":"SG_4gcUY6kBcxUPLyY4mBsnR6_38.243335_-85.734780@1294127441"
     },
     "wof:country":"US",
     "wof:created":1464052862,
-    "wof:geomhash":"a0b521c68b57e167fb48eb9423e664a5",
+    "wof:geomhash":"afeff613d6c88f66a3c08ad470a6a09e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":856726815,
-    "wof:lastmodified":1472623947,
-    "wof:name":"Louisville Stoneware Co",
+    "wof:lastmodified":1534186957,
+    "wof:name":"Louisville Stoneware Company Museum",
     "wof:parent_id":85873411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -85.73478,
-    38.243335,
-    -85.73478,
-    38.243335
+    -85.73481,
+    38.24326,
+    -85.73481,
+    38.24326
 ],
-  "geometry": {"coordinates":[-85.73478,38.243335],"type":"Point"}
+  "geometry": {"coordinates":[-85.73481,38.24326],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-84.500433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 W Vine St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464051699,
-    "wof:geomhash":"04fdcd4f2489a5926fb08477c95bc796",
+    "wof:geomhash":"95ac39cc8e6bf6213b004eccc07cfe3d",
     "wof:hierarchy":[
         {
             "campus_id":102524721,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":840952653,
-    "wof:lastmodified":1472624254,
+    "wof:lastmodified":1534186959,
     "wof:name":"N A E Corporation",
     "wof:parent_id":102524721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840753123
+    ],
     "wof:tags":[]
 },
   "bbox": [

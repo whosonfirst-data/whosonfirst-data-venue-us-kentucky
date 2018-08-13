@@ -7,6 +7,7 @@
     "addr:postcode":"41042",
     "addr:street":"Us Hwy 42",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.634222,38.993762,-84.634222,38.993762",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.634222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7575 US Hwy 42",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -39,15 +41,19 @@
     },
     "wof:country":"US",
     "wof:created":1464047650,
-    "wof:geomhash":"90bede4d01be6a58c0442bccf6261c48",
+    "wof:geomhash":"b2b707783ac1a7294add028170566b7f",
     "wof:hierarchy":[],
     "wof:id":840773981,
-    "wof:lastmodified":1472624054,
+    "wof:lastmodified":1534186959,
     "wof:name":"Head & Neck Surgery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856758127,
+        856758135,
+        856758205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

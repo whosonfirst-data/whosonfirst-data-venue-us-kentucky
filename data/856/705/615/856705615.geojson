@@ -7,6 +7,7 @@
     "addr:postcode":"40217",
     "addr:street":"Mc Henry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.73919,38.228154,-85.73919,38.228154",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.73919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1318 Mc Henry St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464052180,
-    "wof:geomhash":"7269acdd5a91320fc149e4b42f2f229b",
+    "wof:geomhash":"35800442658181e031f486149a7d9792",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":856705615,
-    "wof:lastmodified":1472623750,
+    "wof:lastmodified":1534186958,
     "wof:name":"Booker-Price Co",
     "wof:parent_id":85873427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856746073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

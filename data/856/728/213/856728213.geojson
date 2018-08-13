@@ -2,17 +2,22 @@
   "id": 856728213,
   "type": "Feature",
   "properties": {
-    "addr:full":"2308 Portland Ave Louisville KY 40212",
+    "addr:city":"Louisville",
+    "addr:full":"2308 Portland Ave Louisville, Ky 40212-1036",
+    "addr:house_number":"2308",
     "addr:housenumber":"2308",
-    "addr:postcode":"40212",
+    "addr:phone":"+1 502-776-7678",
+    "addr:postcode":"40212-1036",
+    "addr:road":"Portland Ave",
+    "addr:state":"KY",
     "addr:street":"Portland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-85.786377,38.269775,-85.786377,38.269775",
-    "geom:latitude":38.269775,
-    "geom:longitude":-85.786377,
+    "geom:bbox":"-85.78647,38.26971,-85.78647,38.26971",
+    "geom:latitude":38.26971,
+    "geom:longitude":-85.78647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,11 @@
     "sg:postcode":"40212",
     "sg:province":"KY",
     "sg:website":"http://www.goportland.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533321,
+        102532709
+    ],
     "wof:belongsto":[
         85688641,
         102191575,
@@ -41,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402100134,
         "osm:way":330532776,
         "sg:id":"SG_1yZNRSNc9uRiniJvfjim83_38.269946_-85.787085@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464052939,
-    "wof:geomhash":"ebe7308abcd549f8c1c69fbb3995531b",
+    "wof:geomhash":"81046e652fdf5c3662fbc111d24d51b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":856728213,
-    "wof:lastmodified":1510943846,
+    "wof:lastmodified":1534186957,
     "wof:name":"Portland Museum",
     "wof:parent_id":85842879,
     "wof:placetype":"venue",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.786377,
-    38.269775,
-    -85.786377,
-    38.269775
+    -85.78647,
+    38.26971,
+    -85.78647,
+    38.26971
 ],
-  "geometry": {"coordinates":[-85.786377,38.269775],"type":"Point"}
+  "geometry": {"coordinates":[-85.78646999999999,38.26971],"type":"Point"}
 }

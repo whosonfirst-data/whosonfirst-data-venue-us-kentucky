@@ -7,6 +7,7 @@
     "addr:postcode":"41042",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.622211,39.004012,-84.622211,39.004012",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.622211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"226 Main St",
     "sg:city":"Florence",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464052795,
-    "wof:geomhash":"876e77d17390c238fd6beda94ea557a0",
+    "wof:geomhash":"ae489801c97c62546d4d987dabcdfa87",
     "wof:hierarchy":[],
     "wof:id":856725055,
-    "wof:lastmodified":1472623880,
+    "wof:lastmodified":1534186959,
     "wof:name":"Busald Funk & Zevely",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ky",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        856758597
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
